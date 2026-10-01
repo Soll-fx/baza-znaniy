@@ -6,8 +6,8 @@
 # Vercel-сервис не нужен.
 #
 # Перед деплоем:
-#   1. Создать PostgreSQL (Render даёт бесплатный на 30 дней) или взять
-#      внешний (Neon / Supabase) и положить его URL в DATABASE_URL.
+#   1. Взять внешний PostgreSQL (Neon / Supabase) и положить его URL
+#      в DATABASE_URL. Своей бесплатной БД у Render больше нет.
 #   2. Создать репозиторий: Render и Vercel деплоят только из git.
 #   3. Залить базу: локально выполнить экспорт в SQL и загрузить его
 #      в базу Render, либо прогнать импорт один раз вручную.
@@ -21,7 +21,14 @@ services:
     runtime: docker
     plan: free
     dockerfilePath: ./Dockerfile
-    healthCheckPath: /api/health
+    # /api/ping, а не /api/health: Render опрашивает health check, пока
+    # сервис не спит, а /api/health ходит в базу. С таким путём Neon
+    # просыпался бы каждые несколько минут и не успевал засыпать, а у
+    # тарифа Free лимит 100 CU-часов в месяц (0.25 CU на безостановочную
+    # работу нужно 180) — база зависала бы примерно на 17-е сутки.
+    # /api/ping отвечает без запроса к базе, и Neon продолжает засыпать
+    # через 5 минут простоя, поднимаясь за доли секунды по запросу.
+    healthCheckPath: /api/ping
     autoDeploy: true
     envVars:
       - key: NODE_ENV
