@@ -5,6 +5,7 @@
  *   npm run import -- --dir content --conflict upsert
  *   npm run import -- --dir content --dry-run
  */
+import fsSync from 'node:fs';
 import path from 'node:path';
 import { pool, withTransaction } from '../lib/db.js';
 import { config } from '../lib/config.js';
@@ -59,7 +60,9 @@ function printHelp(): void {
 async function main(): Promise<void> {
   const args = parseArgs();
 
-  if (!args.json && !args.dir) {
+  // Каталог по умолчанию — contentDir, поэтому требовать --dir не нужно:
+  // без источника импортировать нечего, но это ошибка вызова, а не справка.
+  if (!args.json && !args.dir && !fsSync.existsSync(config.contentDir)) {
     printHelp();
     process.exitCode = 1;
     return;
@@ -75,7 +78,7 @@ async function main(): Promise<void> {
     tree = await loadJsonSource(file);
     console.log(`[import] Источник: ${file}`);
   } else {
-    const dir = path.resolve(args.dir!);
+    const dir = path.resolve(args.dir ?? config.contentDir);
     tree = await loadDirSource(dir);
     console.log(`[import] Источник: ${dir}`);
   }

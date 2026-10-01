@@ -18,6 +18,7 @@
     "dev:api": "npm run dev --workspace server",
     "dev:web": "npm run dev --workspace web",
     "import": "npm run import --workspace server --",
+    "deploy:init": "npm run db:migrate && npm run import --workspace server -- --reset",
     "export": "npm run export --workspace server --",
     "validate": "npm run validate --workspace server --",
     "build": "npm run build --workspace server && npm run build --workspace web",
