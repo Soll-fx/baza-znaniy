@@ -28,6 +28,19 @@ export function createApp(): express.Express {
     }
   });
 
+  /**
+   * Пробуждение без обращения к базе — для внешнего пинга, который не даёт
+   * Render усыпить сервис. Обращаться сюда, а не к /api/health: бесплатный
+   * тариф Neon засыпает через 5 минут простоя и просыпается за доли секунды,
+   * но лимит у него 100 CU-часов в месяц. Если пинг будит и базу, она не
+   * засыпает никогда, 0.25 CU требует 180 CU-часов, и примерно на 17-е сутки
+   * Neon приостанавливает compute до начала следующего месяца.
+   */
+  app.get('/api/ping', (_req, res) => {
+    res.setHeader('Cache-Control', 'no-store');
+    res.json({ ok: true });
+  });
+
   app.get('/api/stats', async (_req, res) => {
     const [t, a, m, l] = await Promise.all([
       pool.query<{ n: number }>('SELECT count(*)::int AS n FROM topics'),
