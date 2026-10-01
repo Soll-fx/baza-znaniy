@@ -1,4 +1,4 @@
-import 'dotenv/config';
+import dotenv from 'dotenv';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
@@ -6,6 +6,13 @@ const here = path.dirname(fileURLToPath(import.meta.url));
 
 /** Корень монорепо: server/src/lib -> ../../.. */
 export const ROOT = path.resolve(here, '..', '..', '..');
+
+// .env лежит в корне репозитория, а npm запускает скрипты воркспейса из
+// server/, поэтому dotenv/config искал бы его не там и молча откатился на
+// локальную базу из значений по умолчанию. Путь указываем явно.
+// Переменные из окружения имеют приоритет: локальный запуск через
+// scripts/start-all.mjs передаёт DATABASE_URL явно и остаётся главным.
+dotenv.config({ path: path.join(ROOT, '.env') });
 
 function envInt(key: string, fallback: number): number {
   const raw = process.env[key];
