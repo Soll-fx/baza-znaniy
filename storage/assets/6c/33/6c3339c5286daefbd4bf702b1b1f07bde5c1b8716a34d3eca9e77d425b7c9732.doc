@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как учесть операционные расходы</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/210291/dfasste4dh/" data-dfa="dfasste4dh"></a><a data-anchor="/document/16/210291/bssPhr2/"></a>В&nbsp;рекомендации Системы Главбух найдете ответы на&nbsp;вопросы: что включать в&nbsp;состав прочих операционных расходов и&nbsp;как их&nbsp;отразить в&nbsp;бухучете. Эксперты привели примеры основных типовых проводок по&nbsp;учету прочих операционных расходов. Узнайте, как операционные расходы влияют на&nbsp;налогообложение. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210291/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210291/bssPhr5/"></a><a data-anchor="/document/16/210291/dfasqdm1rg/" data-dfa="dfasqdm1rg"></a>Состав прочих операционных расходов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210291/bssPhr7/"></a><a data-anchor="/document/16/210291/dfasgodl51/" data-dfa="dfasgodl51"></a>В&nbsp;состав <span num="30" target="_self" lnktype="intlnk" title="" class="doc">операционных расходов</span> включайте расходы предприятия, которые не&nbsp;связаны с&nbsp;производством, реализацией и&nbsp;административным управлением:</p><ul class="c-list"><li><a data-anchor="/document/16/210291/bssPhr8/"></a><a data-anchor="/document/16/210291/dfasrugxfw/" data-dfa="dfasrugxfw"></a>расходы на&nbsp;подготовку и&nbsp;переподготовку кадров;</li><li>оплату информационных, аудиторских и&nbsp;консультационных услуг;</li><li>выплаты компенсирующего и&nbsp;стимулирующего характера;</li><li>выплаты и&nbsp;расходы, не&nbsp;учитываемые при начислении заработной платы;</li><li>оплату услуг банка и&nbsp;депозитария;</li><li>убытки, штрафы, пени;</li><li>прочие расходы.</li></ul><p><a data-anchor="/document/16/210291/bssPhr9/"></a><a data-anchor="/document/16/210291/dfasibafp7/" data-dfa="dfasibafp7"></a><a data-anchor="/document/16/210291/dfas7pnvh3/" data-dfa="dfas7pnvh3"></a>Подробный состав прочих операционных расходов смотрите в <span num="31" target="_self" lnktype="intlnk" title="" class="doc">разделе&nbsp;2.3</span> Положения о&nbsp;составе затрат.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>К&#160;каким расходам относить выплату управленческому персоналу разовых, ежемесячных и&#160;годовых премий</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210291/bssPhr11/"></a><a data-anchor="/document/16/210291/dfasdgn5tc/" data-dfa="dfasdgn5tc"></a>Единовременные премии&nbsp;— разовые, ежемесячные и&nbsp;годовые вознаграждения по&nbsp;итогам работы за&nbsp;год и&nbsp;за&nbsp;выслугу лет относите к&nbsp;прочим операционным расходам.</p><p><a data-anchor="/document/16/210291/bssPhr12/"></a><a data-anchor="/document/16/210291/dfaswssebr/" data-dfa="dfaswssebr"></a>Но&nbsp;премии за&nbsp;производственные результаты труда, если они предусмотрены положением о&nbsp;премировании предприятия, не&nbsp;относите к&nbsp;прочим операционным расходам.</p><p><a data-anchor="/document/16/210291/bssPhr13/"></a><a data-anchor="/document/16/210291/dfas6sdpqa/" data-dfa="dfas6sdpqa"></a>Премировать сотрудников следует на&nbsp;основании внутреннего локального акта, например, «Положения о&nbsp;премировании» и&nbsp;приказа руководителя.</p><p><a data-anchor="/document/16/210291/bssPhr14/"></a><a data-anchor="/document/16/210291/dfasl7a0ht/" data-dfa="dfasl7a0ht"></a>Премии это выплаты стимулирующего характера, которые относят к&nbsp;доходам в&nbsp;виде оплаты труда, они подлежат обложению НДФЛ и&nbsp;социальным налогом (<span num="9" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;372</span>, <span num="10" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;403</span>&nbsp;НК).</p><p><a data-anchor="/document/16/210291/bssPhr15/"></a><a data-anchor="/document/16/210291/dfas6m26p3/" data-dfa="dfas6m26p3"></a>Если на&nbsp;предприятии есть «Положение о&nbsp;премировании», то&nbsp;выплаты стимулирующего характера и&nbsp;социальный налог по&nbsp;ним относите:</p><ul class="c-list"><li><a data-anchor="/document/16/210291/bssPhr16/"></a><a data-anchor="/document/16/210291/dfasg541x5/" data-dfa="dfasg541x5"></a>на&nbsp;себестоимость продукции, услуг&nbsp;— по&nbsp;работникам, участвующим в&nbsp;производственном процессе (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1.2.1</span>, <span num="12" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1.3.1</span>&nbsp;Положения, приложение к&nbsp;постановлению Кабмина от&nbsp;05.02.1999 №&nbsp;54);</li><li>расходы по&nbsp;реализации&nbsp;— по&nbsp;работникам, участвующим в&nbsp;процессе реализации товаров, услуг (<span num="13" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.1.2.1</span>, <span num="14" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.1.2.2</span>&nbsp;Положения, приложение к&nbsp;постановлению Кабмина от&nbsp;05.02.1999 №&nbsp;54);</li><li>административные расходы&nbsp;— по&nbsp;административно-управленческому персоналу (<span num="15" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.2.1</span>, <span num="16" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.2.2</span>&nbsp;Положения, приложение к&nbsp;постановлению Кабмина от&nbsp;05.02.1999 №&nbsp;54).</li></ul><p><a data-anchor="/document/16/210291/bssPhr17/"></a><a data-anchor="/document/16/210291/dfaso03cfr/" data-dfa="dfaso03cfr"></a>Расходы предприятия на&nbsp;единовременные премии, вознаграждения по&nbsp;итогам работы за&nbsp;год, вознаграждения и&nbsp;выплаты за&nbsp;выслугу лет, а&nbsp;также суммы социального налога, начисление по&nbsp;ним, относите к&nbsp;прочим операционным расходам и&nbsp;учитывайте на <strong>счете 9430 </strong>(<span num="17" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.3.8.7</span> постановления Кабмина от&nbsp;05.02.1999 №&nbsp;54).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>На&#160;какой счет относить расходы на&#160;оплату услуг оценочной компании</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210291/bssPhr19/"></a><a data-anchor="/document/16/210291/dfasoqk9rc/" data-dfa="dfasoqk9rc"></a>Расходы на&nbsp;оплату услуг оценочной компании относите на&nbsp;прочие операционные расходы. Если расходы на&nbsp;оплату услуг оценочной компании понесены для развития предпринимательской деятельности, то&nbsp;эти расходы будут вычитаемыми при расчете налога на&nbsp;прибыль.</p><p><a data-anchor="/document/16/210291/bssPhr20/"></a><a data-anchor="/document/16/210291/dfasu1bqy1/" data-dfa="dfasu1bqy1"></a>Чтобы отнести расходы к&nbsp;вычитаемым расходам организации, они должны быть обоснованы и&nbsp;документально подтверждены (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;305&nbsp;НК</span>). Подробнее о&nbsp;вычитаемых расходах эксперт рассказал в <span num="19" target="_self" lnktype="intlnk" title="" class="doc">рекомендации</span>.</p></div></div></div><a data-anchor="/document/16/210291/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210291/bssPhr21/"></a><a data-anchor="/document/16/210291/dfasvkdsni/" data-dfa="dfasvkdsni"></a>Бухучет прочих операционных расходов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210291/bssPhr23/"></a><a data-anchor="/document/16/210291/dfasgkgug4/" data-dfa="dfasgkgug4"></a>Данные по&nbsp;прочим операционным расходам отражайте на&nbsp;счете <strong>9430 «Прочие операционные расходы»</strong>. Суммы расходов в&nbsp;разрезе аналитики отражайте по&nbsp;дебету счета<strong> 9430</strong>. Записи производите накопительно в&nbsp;течение отчетного периода. Примеры основных типовых проводок по&nbsp;счету <strong>9430 </strong>приведены в&nbsp;<span data-warm-notices="35671907,41482359" data-warm-notice-type="error" num="44" target="_self" lnktype="intlnk" title="" class="doc">пункте 412</span>&nbsp;НСБУ № 21.</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" rowspan="2" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr24/"></a><a data-anchor="/document/16/210291/dfasxbethg/" data-dfa="dfasxbethg"></a><strong>№</strong></p></td><td class="bdTopbdBottombdRight" rowspan="2" style="width:68.91%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr25/"></a><a data-anchor="/document/16/210291/dfasa0fwuq/" data-dfa="dfasa0fwuq"></a><strong>Содержание хозяйственной операции</strong></p></td><td class="bdTopbdBottombdRight" colspan="2"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr26/"></a><a data-anchor="/document/16/210291/dfasa4isgg/" data-dfa="dfasa4isgg"></a><strong>Корреспонденция счетов</strong></p></td></tr><tr><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr27/"></a><a data-anchor="/document/16/210291/dfasizg7lx/" data-dfa="dfasizg7lx"></a><strong>Дебет</strong></p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr28/"></a><a data-anchor="/document/16/210291/dfas2o0cg9/" data-dfa="dfas2o0cg9"></a><strong>Кредит</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr29/"></a><a data-anchor="/document/16/210291/dfasqrrb7y/" data-dfa="dfasqrrb7y"></a>12</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr30/"></a><a data-anchor="/document/16/210291/dfasogng2q/" data-dfa="dfasogng2q"></a>Плата за&nbsp;банковские и&nbsp;аудиторские услуги</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr31/"></a><a data-anchor="/document/16/210291/dfascntzmr/" data-dfa="dfascntzmr"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr32/"></a><a data-anchor="/document/16/210291/dfasf4ygqb/" data-dfa="dfasf4ygqb"></a>6990</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr33/"></a><a data-anchor="/document/16/210291/dfassq4udq/" data-dfa="dfassq4udq"></a>13</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr34/"></a><a data-anchor="/document/16/210291/dfass6g6t8/" data-dfa="dfass6g6t8"></a>Убыток от&nbsp;выбытия основных средств и&nbsp;прочих активов</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr35/"></a><a data-anchor="/document/16/210291/dfas26zmt7/" data-dfa="dfas26zmt7"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr36/"></a><a data-anchor="/document/16/210291/dfas7cra0v/" data-dfa="dfas7cra0v"></a>9210, 9220</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr37/"></a><a data-anchor="/document/16/210291/dfas1hib04/" data-dfa="dfas1hib04"></a>14</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr38/"></a><a data-anchor="/document/16/210291/dfas70ldt4/" data-dfa="dfas70ldt4"></a>Потери и&nbsp;недостачи при невозможности установления виновных лиц</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr39/"></a><a data-anchor="/document/16/210291/dfas6azpma/" data-dfa="dfas6azpma"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr40/"></a><a data-anchor="/document/16/210291/dfas1w83pf/" data-dfa="dfas1w83pf"></a>5910</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr41/"></a><a data-anchor="/document/16/210291/dfasctc5kr/" data-dfa="dfasctc5kr"></a>15</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr42/"></a><a data-anchor="/document/16/210291/dfasq2avz7/" data-dfa="dfasq2avz7"></a>Начислен резерв по&nbsp;сомнительным долгам</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr43/"></a><a data-anchor="/document/16/210291/dfas5ubf3n/" data-dfa="dfas5ubf3n"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr44/"></a><a data-anchor="/document/16/210291/dfassgftrs/" data-dfa="dfassgftrs"></a>4910</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr45/"></a><a data-anchor="/document/16/210291/dfasu3x1wh/" data-dfa="dfasu3x1wh"></a>16</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr46/"></a><a data-anchor="/document/16/210291/dfas0wyfbv/" data-dfa="dfas0wyfbv"></a>Начислен штраф по&nbsp;решению налоговых органов</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr47/"></a><a data-anchor="/document/16/210291/dfasu3xsyg/" data-dfa="dfasu3xsyg"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr48/"></a><a data-anchor="/document/16/210291/dfast2ai2x/" data-dfa="dfast2ai2x"></a>6410</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr49/"></a><a data-anchor="/document/16/210291/dfasil84cz/" data-dfa="dfasil84cz"></a>17</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr50/"></a><a data-anchor="/document/16/210291/dfaspgxwxv/" data-dfa="dfaspgxwxv"></a>Отчисления на&nbsp;содержание высших учебных заведений, находящихся на&nbsp;балансе предприятия</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr51/"></a><a data-anchor="/document/16/210291/dfascbyi22/" data-dfa="dfascbyi22"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr52/"></a><a data-anchor="/document/16/210291/dfasoa4col/" data-dfa="dfasoa4col"></a>6110</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr53/"></a><a data-anchor="/document/16/210291/dfaswzgny5/" data-dfa="dfaswzgny5"></a>18</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr54/"></a><a data-anchor="/document/16/210291/dfassp07hg/" data-dfa="dfassp07hg"></a>Оплачены путевки в&nbsp;дома отдыха и&nbsp;санатории для персонала предприятия</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr55/"></a><a data-anchor="/document/16/210291/dfastgc7c9/" data-dfa="dfastgc7c9"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr56/"></a><a data-anchor="/document/16/210291/dfasxilkrq/" data-dfa="dfasxilkrq"></a>5110-5530</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr57/"></a><a data-anchor="/document/16/210291/dfasqhk00m/" data-dfa="dfasqhk00m"></a>19</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr58/"></a><a data-anchor="/document/16/210291/dfas7byizt/" data-dfa="dfas7byizt"></a>Списаны расходы на&nbsp;аннулированные заказы</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr59/"></a><a data-anchor="/document/16/210291/dfasqm6im5/" data-dfa="dfasqm6im5"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr60/"></a><a data-anchor="/document/16/210291/dfas6s5z7b/" data-dfa="dfas6s5z7b"></a>2010</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr61/"></a><a data-anchor="/document/16/210291/dfasczu5nc/" data-dfa="dfasczu5nc"></a>20</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr62/"></a><a data-anchor="/document/16/210291/dfasi03dm5/" data-dfa="dfasi03dm5"></a>Убытки по&nbsp;операциям прошлых лет</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr63/"></a><a data-anchor="/document/16/210291/dfas1c38ar/" data-dfa="dfas1c38ar"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr64/"></a><a data-anchor="/document/16/210291/dfasv1ghwe/" data-dfa="dfasv1ghwe"></a>Счета к&nbsp;получению</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr65/"></a><a data-anchor="/document/16/210291/dfasphx72e/" data-dfa="dfasphx72e"></a>21</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr66/"></a><a data-anchor="/document/16/210291/dfaschl585/" data-dfa="dfaschl585"></a>Штрафы за&nbsp;нарушение хозяйственных договоров</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr67/"></a><a data-anchor="/document/16/210291/dfas77xlrg/" data-dfa="dfas77xlrg"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr68/"></a><a data-anchor="/document/16/210291/dfasewiirs/" data-dfa="dfasewiirs"></a>6960</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr69/"></a><a data-anchor="/document/16/210291/dfasdwnc7c/" data-dfa="dfasdwnc7c"></a>22</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr70/"></a><a data-anchor="/document/16/210291/dfaso4tzr7/" data-dfa="dfaso4tzr7"></a>Оплачены проездные документы для пользования местным транспортом</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr71/"></a><a data-anchor="/document/16/210291/dfasefu5z8/" data-dfa="dfasefu5z8"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr72/"></a><a data-anchor="/document/16/210291/dfasgetyeb/" data-dfa="dfasgetyeb"></a>5110-5530</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr73/"></a><a data-anchor="/document/16/210291/dfasszex2q/" data-dfa="dfasszex2q"></a>23</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr74/"></a><a data-anchor="/document/16/210291/dfasmwpppo/" data-dfa="dfasmwpppo"></a>Результаты уценки списаны на&nbsp;расходы по&nbsp;мере реализации ТМЗ</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr75/"></a><a data-anchor="/document/16/210291/dfasri9unk/" data-dfa="dfasri9unk"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr76/"></a><a data-anchor="/document/16/210291/dfasignvf2/" data-dfa="dfasignvf2"></a>3190</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:5.01%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr77/"></a><a data-anchor="/document/16/210291/dfasunrigy/" data-dfa="dfasunrigy"></a>24</p></td><td class="bdBottombdRight" style="width:68.91%"><p><a data-anchor="/document/16/210291/bssPhr78/"></a><a data-anchor="/document/16/210291/dfas60cdoi/" data-dfa="dfas60cdoi"></a>Износ по&nbsp;основным средствам и&nbsp;амортизация по&nbsp;нематериальным активам, используемым:</p><p><a data-anchor="/document/16/210291/bssPhr79/"></a><a data-anchor="/document/16/210291/dfasdiq1ub/" data-dfa="dfasdiq1ub"></a>а) на&nbsp;пусковых работах, предназначенных для производства новых видов изделий;<br>б) обслуживании освоения новых технологических процессов, не&nbsp;предназначенных для серийного или массового производств</p></td><td class="bdBottombdRight" style="width:10%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr80/"></a><a data-anchor="/document/16/210291/dfasgdrqt5/" data-dfa="dfasgdrqt5"></a>9430</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr81/"></a><a data-anchor="/document/16/210291/dfaspav9u6/" data-dfa="dfaspav9u6"></a>0210-0299,<br>0510-0590</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210291/bssPhr82/"></a><a data-anchor="/document/16/210291/dfasz6fzt9/" data-dfa="dfasz6fzt9"></a>При ежедневной оплате услуг банка за&nbsp;денежные переводы с&nbsp;расчетных счетов предприятия, на&nbsp;основании банковской выписки, проводку можно делать напрямую в&nbsp;корреспонденции со&nbsp;счетами учета денежных средств на&nbsp;расчетном счете <strong>5100</strong>:<br><strong>Дебет 9430 Кредит 5110</strong><br>—&nbsp;оплата услуг банка.</p><p><a data-anchor="/document/16/210291/bssPhr83/"></a><a data-anchor="/document/16/210291/dfastd2hdk/" data-dfa="dfastd2hdk"></a>В&nbsp;конце отчетного периода итоговое сальдо счета <strong>9430 </strong>закрывается в&nbsp;корреспонденции со&nbsp;счетом <strong>9910 «Конечный финансовый результат»</strong>:</p><p><a data-anchor="/document/16/210291/bssPhr84/"></a><a data-anchor="/document/16/210291/dfasal4ogd/" data-dfa="dfasal4ogd"></a><strong>Дебет 9910 Кредит 9430</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210291/bssPhr85/"></a><a data-anchor="/document/16/210291/dfasmfzaay/" data-dfa="dfasmfzaay"></a>закрыты на&nbsp;финансовый результат прочие операционные расходы.</li></ul><p><a data-anchor="/document/16/210291/bssPhr86/"></a><a data-anchor="/document/16/210291/dfasxmzw8f/" data-dfa="dfasxmzw8f"></a>Данные о&nbsp;прочих операционных расходах отражайте в&nbsp;годовом отчете о&nbsp;прибылях и&nbsp;убытках <span num="32" target="_self" lnktype="intlnk" title="" class="doc">Форма №&nbsp;2&nbsp;«Отчет о&nbsp;финансовых результатах»</span> в&nbsp;составе расходов периода вместе с <span num="33" target="_self" lnktype="intlnk" title="" class="doc">административными расходами</span> и <span num="34" target="_self" lnktype="intlnk" title="" class="doc">расходами по&nbsp;реализации</span>. Общую сумму прочих операционных расходов отражайте в&nbsp;строке <span num="35" target="_self" lnktype="intlnk" title="" class="doc">070</span> «Отчета о&nbsp;финансовых результатах».</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>На&#160;какой счет относить комиссию банка за&#160;предоставление кредита</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210291/bssPhr88/"></a><a data-anchor="/document/16/210291/dfaspi0atg/" data-dfa="dfaspi0atg"></a>Комиссию банка за&nbsp;предоставление кредита относите на&nbsp;прочие операционные расходы периода и&nbsp;отражайте на <strong>счете 9430 </strong> (<span num="20" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.3.12</span> приложения к&nbsp;постановлению Кабмина от&nbsp;05.02.1999 №&nbsp;54, <span data-warm-notices="41482358" data-warm-notice-type="error" num="21" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;410</span>&nbsp;НСБУ №&nbsp;21).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>К&#160;каким расходам относить страховую премию, оплаченную по&#160;договору страхования</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210291/bssPhr90/"></a><a data-anchor="/document/16/210291/dfasvnblik/" data-dfa="dfasvnblik"></a>По&nbsp;договору страхования страхователь оплачивает страховую премию и&nbsp;получает страховой полис.</p><p><a data-anchor="/document/16/210291/bssPhr91/"></a><a data-anchor="/document/16/210291/dfaseyoccr/" data-dfa="dfaseyoccr"></a>Сумму оплаченной страховки относите к&nbsp;расходам будущих периодов и&nbsp;учитывайте на <strong>счете </strong><span data-warm-notices="41482354" data-warm-notice-type="error" num="22" target="_self" lnktype="intlnk" title="" class="doc">3190</span><strong> «Прочие расходы будущих периодов» </strong> (п. <span data-warm-notices="41482355" data-warm-notice-type="error" num="23" target="_self" lnktype="intlnk" title="" class="doc">160</span>, <span data-warm-notices="41482356" data-warm-notice-type="error" num="24" target="_self" lnktype="intlnk" title="" class="doc">165</span>&nbsp;НСБУ №&nbsp;21).</p><p><a data-anchor="/document/16/210291/bssPhr92/"></a><a data-anchor="/document/16/210291/dfasq5gk9i/" data-dfa="dfasq5gk9i"></a>Стоимость страховки списывайте на <strong>прочие операционные расходы </strong> (<span data-warm-notices="41482357" data-warm-notice-type="error" num="25" target="_self" lnktype="intlnk" title="" class="doc"><strong>9430</strong></span>) равными долями в&nbsp;течение срока действия страхового полиса проводками:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td rowspan="2" style="width:56%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr93/"></a><a data-anchor="/document/16/210291/dfas4fu2al/" data-dfa="dfas4fu2al"></a><strong>Содержание хозяйственной операции</strong></p></td><td colspan="2" style="width:32%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr94/"></a><a data-anchor="/document/16/210291/dfasqop4g9/" data-dfa="dfasqop4g9"></a><strong>Корреспондирующие счета</strong></p></td></tr><tr><td style="width:17%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr95/"></a><a data-anchor="/document/16/210291/dfasas3zo8/" data-dfa="dfasas3zo8"></a><strong>Дебет</strong></p></td><td style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr96/"></a><a data-anchor="/document/16/210291/dfasz7n8bd/" data-dfa="dfasz7n8bd"></a><strong>Кредит</strong></p></td></tr><tr><td style="width:56%"><p><a data-anchor="/document/16/210291/bssPhr97/"></a><a data-anchor="/document/16/210291/dfas42i18v/" data-dfa="dfas42i18v"></a>Оплачена страховая премия по&nbsp;договору страхования</p></td><td style="width:17%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr98/"></a><a data-anchor="/document/16/210291/dfasyzhwyq/" data-dfa="dfasyzhwyq"></a>4300</p></td><td style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr99/"></a><a data-anchor="/document/16/210291/dfask347gg/" data-dfa="dfask347gg"></a>5110</p></td></tr><tr><td style="width:56%"><p><a data-anchor="/document/16/210291/bssPhr100/"></a><a data-anchor="/document/16/210291/dfasd9rvyn/" data-dfa="dfasd9rvyn"></a>Получен страховой полис и&nbsp;ЭСФ</p></td><td style="width:17%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr101/"></a><a data-anchor="/document/16/210291/dfasrwm6xl/" data-dfa="dfasrwm6xl"></a>3190</p></td><td style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr102/"></a><a data-anchor="/document/16/210291/dfas2ya4tl/" data-dfa="dfas2ya4tl"></a>6000</p></td></tr><tr><td style="width:56%"><p><a data-anchor="/document/16/210291/bssPhr103/"></a><a data-anchor="/document/16/210291/dfasphpkh1/" data-dfa="dfasphpkh1"></a>Ежемесячное списание расходов по&nbsp;страхованию в&nbsp;течение действия страхового полиса</p></td><td style="width:17%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr104/"></a><a data-anchor="/document/16/210291/dfasqgxf5u/" data-dfa="dfasqgxf5u"></a>9430</p></td><td style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210291/bssPhr105/"></a><a data-anchor="/document/16/210291/dfas4qofv1/" data-dfa="dfas4qofv1"></a>3190</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div></div></div><a data-anchor="/document/16/210291/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210291/bssPhr106/"></a><a data-anchor="/document/16/210291/dfast7v3an/" data-dfa="dfast7v3an"></a>Налогообложение</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210291/bssPhr108/"></a><a data-anchor="/document/16/210291/dfas3o3op6/" data-dfa="dfas3o3op6"></a>Расходы, которые входят в&nbsp;состав прочих операционных расходов предприятия, в&nbsp;целях налогообложения при расчете <span num="26" target="_self" lnktype="intlnk" title="" class="doc">налога на&nbsp;прибыль</span>, можно разделить на&nbsp;2&nbsp;группы.</p><ol class="c-list" style="counter-reset: item 0;" start="1"><li><a data-anchor="/document/16/210291/bssPhr109/"></a><a data-anchor="/document/16/210291/dfas36eux1/" data-dfa="dfas36eux1"></a>Вычитаемые расходы&nbsp;— определены в&nbsp;статьях <span num="27" target="_self" lnktype="intlnk" title="" class="doc">305</span>-<span num="28" target="_self" lnktype="intlnk" title="" class="doc">316</span>&nbsp;НК.</li></ol><p><a data-anchor="/document/16/210291/bssPhr110/"></a><a data-anchor="/document/16/210291/dfas6kzpv4/" data-dfa="dfas6kzpv4"></a>К&nbsp;таким расходам относите, например, материальную помощь, которую оказываете работнику в&nbsp;связи с&nbsp;трудовым увечьем, профессиональным заболеванием либо иным повреждением здоровья, оплату аудиторских услуг.</p><ol class="c-list" style="counter-reset: item 1;" start="2"><li><a data-anchor="/document/16/210291/bssPhr111/"></a><a data-anchor="/document/16/210291/dfasgd17ir/" data-dfa="dfasgd17ir"></a>Невычитаемые&nbsp;— определены в <span num="29" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;317</span>&nbsp;НК.</li></ol><p><a data-anchor="/document/16/210291/bssPhr112/"></a><a data-anchor="/document/16/210291/dfasah1m48/" data-dfa="dfasah1m48"></a>К&nbsp;невычитаемым расходам относите, например, затраты по&nbsp;устранению недоделок в&nbsp;проектах и&nbsp;строительно-монтажных работах. Также это могут быть другие аналогичные затраты, произведенные за&nbsp;счет собственных средств и&nbsp;не&nbsp;возмещенные за&nbsp;счет поставщика или других хоз. субъектов, ответственных за&nbsp;недоделки, повреждения или убытки.</p><p><a data-anchor="/document/16/210291/bssPhr113/"></a><a data-anchor="/document/16/210291/dfaskazl7g/" data-dfa="dfaskazl7g"></a>Все расходы подтверждайте первичными документами. НДС, выделенный поставщиком товаров (услуг), можно принять к&nbsp;зачету при соответствии условиям статьи&nbsp;266&nbsp;НК.</p><p><a data-anchor="/document/16/210291/bssPhr114/"></a><a data-anchor="/document/16/210291/dfasxrvf2n/" data-dfa="dfasxrvf2n"></a>При расчете налога с&nbsp;оборота прочие операционные расходы не&nbsp;учитываются (ст.&nbsp;463&nbsp;НК, ст.&nbsp;464&nbsp;НК).</p></div><p><a data-anchor="/document/16/210291/dfas3gzhlu/" data-dfa="dfas3gzhlu"></a><a data-anchor="/document/16/210291/bssPhr115/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882124" sourceId="1" fullSizeImageId="-41882123" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882124/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

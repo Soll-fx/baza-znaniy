@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Постановление Кабмина РУЗ от 23.05.2018 № 388</div><h2 class="auth__title">Об утверждении положения о государственной комиссии по запасам полезных ископаемых при государственном комитете Республики Узбекистан по геологии и минеральным ресурсам</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/9009/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/9009/dfasuqq7ye/"></a><a data-anchor="/document/90/9009/titq_2lndc/"></a>ПОСТАНОВЛЕНИЕ</p><p style="text-align:center"><a data-anchor="/document/90/9009/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/9009/dfasompui8/"></a>КАБИНЕТА МИНИСТРОВ РЕСПУБЛИКИ УЗБЕКИСТАН</p><p style="text-align:center"><a data-anchor="/document/90/9009/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/9009/dfasl8nq3y/"></a><strong>Об утверждении Положения о Государственной комиссии по запасам полезных ископаемых при Государственном комитете Республики Узбекистан по геологии и минеральным ресурсам</strong></p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/9009/dfash3gdrg/"></a>В соответствии с постановлением Президента Республики Узбекистан от 1 марта 2018 года № ПП-3578 &#171;О мерах по коренному совершенствованию деятельности Государственного комитета Республики Узбекистан по геологии и минеральным ресурсам&#187; Кабинет Министров постановляет:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/9009/dfassv7nax/"></a>1. Утвердить Положение о Государственной комиссии по запасам полезных ископаемых при Государственном комитете Республики Узбекистан по геологии и минеральным ресурсам согласно приложению.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/9009/dfasipidys/"></a>2. Признать утратившими силу:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/9009/dfas25gv9s/"></a>постановление Кабинета Министров от 24 декабря 2010 г. № 310 &#171;Об утверждении Положения о Государственной комиссии по запасам полезных ископаемых при Кабинете Министров Республики Узбекистан&#187; (СП Республики Узбекистан, 2010 г., № 12, ст. 72);</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/9009/dfasg2eyku/"></a>пункт 106 приложения № 1 к постановлению Кабинета Министров от 1 ноября 2012 г. № 313 &#171;О внесении изменений и дополнений, а также признании утратившими силу некоторых решений Правительства Республики Узбекистан (Указ Президента Республики Узбекистан от 16 июля 2012года № УП-4453 &#171;О мерах по кардинальному сокращению статистической, налоговой, финансовой отчетности, лицензируемых видов деятельности и разрешительных процедур&#187;)&#187; (СП Республики Узбекистан, 2012 г., № 11, ст. 79).</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/9009/dfaswhgb2i/"></a>3. Контроль за исполнением настоящего постановления возложить на заместителя Премьер-министра Республики Узбекистан &#8212; председателя правления АО &#171;Узбекнефтегаз&#187; А.С. Султанова и председателя Государственного комитета Республики Узбекистан по геологии и минеральным ресурсам Б.Ф. Исламова.</p><p style="text-align:right"><a data-anchor="/document/90/9009/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/9009/dfas8urisc/"></a><strong>Премьер-министр<br>Республики Узбекистан<br>А. Арипов</strong></p><p><a data-anchor="/document/90/9009/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/9009/dfasghyxuu/"></a>г. Ташкент,<br>23 мая 2018 г.,<br>№ 388</p><div class="doc__untyped doc-start" data-type="untyped" data-level="5"><a data-role="toc" data-anchor="/document/90/9009/tit1/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/9009/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/9009/dfasa2g8o7/"></a>ПРИЛОЖЕНИЕ<br>к постановлению Кабинета Министров от 23 мая 2018 года № 388</span></div><p style="text-align:center"><a data-anchor="/document/90/9009/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/9009/dfasblb2hz/"></a><strong>ПОЛОЖЕНИЕ</strong></p><p style="text-align:center"><a data-anchor="/document/90/9009/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/9009/dfas3d25b1/"></a><strong>о Государственной комиссии по запасам полезных ископаемых при Государственном комитете Республики Узбекистан по геологии и минеральным ресурсам</strong></p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/9009/tit2/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/9009/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/9009/dfaszigsov/"></a>Глава 1. </span><span class="doc__chapter-name">Общие положения</span></div><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/9009/dfas94ga6r/"></a>1. Настоящее Положение определяет основные задачи, функции, права, ответственность и организационные основы деятельности Государственной комиссии по запасам полезных ископаемых при Государственном комитете Республики Узбекистан по геологии и минеральным ресурсам (далее &#8212; Государственная комиссия).</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/9009/dfas4oeg2h/"></a>2. Государственная комиссия является коллегиальным органом, осуществляющим государственную экспертизу геологических материалов и утверждение запасов полезных ископаемых.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/9009/dfasa8861a/"></a>3. Государственная комиссия в своей деятельности руководствуется Конституцией и законами Республики Узбекистан, постановлениями палат Олий Мажлиса Республики Узбекистан, указами, постановлениями и распоряжениями Президента Республики Узбекистан, постановлениями и распоряжениями Кабинета Министров Республики Узбекистан, настоящим Положением и другими актами законодательства.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/9009/dfas639m5p/"></a>4. Решения Государственной комиссии по вопросам, входящим в ее компетенцию, являются обязательными для всех юридических и физических лиц, осуществляющих геологическое изучение недр, проектирование, строительство и реконструкцию горнодобывающих предприятий, добычу и переработку минерального сырья, строительство и эксплуатацию подземных сооружений, использование участков недр в целях хранения и захоронения отходов.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/9009/tit3/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/9009/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/9009/dfascwbg4u/"></a>Глава 2. </span><span class="doc__chapter-name">Задачи и функции Государственной комиссии</span></div><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/9009/dfas93zvcx/"></a>5. Основными задачами Государственной комиссии являются:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/9009/dfas4ocpfq/"></a>проведение единой политики в области установления оптимальных принципов классификации и подсчета запасов полезных ископаемых, их геолого-экономической оценки и определения промышленного значения;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/9009/dfasg9a6lp/"></a>проведение государственной экспертизы геологических материалов;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/9009/dfas0g7g25/"></a>утверждение кондиций для достоверного подсчета запасов полезных ископаемых, соответствующих требованиям наиболее полной и комплексной отработки запасов месторождений на рациональной экономической и экологической основе;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/9009/dfas7i0m08/"></a>утверждение запасов всех видов полезных ископаемых, обеспечивающих развитие минерально-сырьевой базы республики.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/9009/dfas26a3dg/"></a>6. Государственная комиссия в соответствии с возложенными на нее задачами выполняет следующие функции:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/9009/dfasaakn6l/"></a>а) в сфере проведения единой политики в области установления оптимальных принципов классификации и подсчета запасов полезных ископаемых, их геолого-экономической оценки и определения промышленного значения:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/9009/dfasn7besb/"></a>осуществляет методическое руководство в процессе разработки нормативно-правовых актов, регламентирующих классификацию и подсчет запасов полезных ископаемых, проведения геологоразведочных работ по стадиям, а также геолого-экономической оценки промышленной значимости месторождений (предварительных технико-экономических обоснований кондиций, в том числе предельных коэффициентов извлечения нефти и газового конденсата, технико-экономических обоснований кондиций);</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/9009/dfaslgpgeh/"></a>б) в области проведения государственной экспертизы геологических материалов:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/9009/dfas045r5l/"></a>организует экспертизу геологических материалов с подсчетом запасов полезных ископаемых и утверждает подсчитанные запасы полезных ископаемых, определяя в соответствии с классификациями запасов месторождений полезных ископаемых степень изученности и достоверности данных запасов, их промышленное значение и подготовленность месторождений (или их частей) к промышленному освоению. Запасы полезных ископаемых могут утверждаться на всех стадиях геологического изучения месторождения при условии, что представленные материалы по технико-экономическим обоснованиям кондиций и подсчету запасов позволяют дать объективную оценку по их количеству, качеству и промышленному значению;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/9009/dfas3k7i0e/"></a>организует экспертизу геологических и иных материалов по участкам недр, предоставляемым для строительства и (или) эксплуатации подземных сооружений, в целях хранения и захоронения отходов, определяет пригодность этих участков для использования их в соответствии с назначением;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/9009/dfaswo7y2d/"></a>организует экспертизу геологических материалов и переутверждает запасы полезных ископаемых по представлению органа, выдавшего лицензию на право пользования участком недр, Инспекции по контролю за горно-геологической деятельностью при Государственном комитете Республики Узбекистан по геологии и минеральным ресурсам, недропользователя, а также по результатам инвентаризации при выявлении неизвестных на момент выдачи лицензии данных о наличии новых видов полезных ископаемых или попутных компонентов, а также новых свойствах или качествах полезных ископаемых;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/9009/dfasrpszbu/"></a>в) в области утверждения кондиций для достоверного подсчета запасов полезных ископаемых, соответствующих требованиям наиболее полной и комплексной отработки запасов месторождений на рациональной экономической и экологической основе:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/9009/dfasohux8v/"></a>организует экспертизу технико-экономических обоснований проектов кондиций и утверждает параметры (показатели) этих кондиций для подсчета запасов полезных ископаемых по каждому месторождению;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/9009/dfasnpozyo/"></a>организует экспертизу технико-экономических обоснований предельных коэффициентов извлечения запасов нефти и газового конденсата и утверждает их для подсчета извлекаемых запасов;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/9009/dfasndwt96/"></a>г) в области утверждения запасов всех видов полезных ископаемых, обеспечивающих развитие минерально-сырьевой базы республики:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/9009/dfasclaqxg/"></a>утверждает при наличии технико-экономических обоснований новые кондиции и переутверждает запасы полезных ископаемых, подсчитанные на их основе, в случае изменения при проведении дополнительных геологоразведочных работ или отработки месторождения (отдельных частей или участков) геологических, горнотехнических, экономических и иных условий разработки по сравнению с принятыми в первоначальных кондициях;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/9009/dfasic03tf/"></a>принимает решение о списании в установленном порядке с баланса пользователя недр запасов полезных ископаемых, утративших промышленное значение, либо не подтвердившихся при последующих геологоразведочных работах или разработке месторождения.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/9009/tit4/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/9009/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/9009/dfasslg2ha/"></a>Глава 3. </span><span class="doc__chapter-name">Права и ответственность Государственной комиссии</span></div><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/9009/dfasm2pgbv/"></a>7. Государственная комиссия имеет право:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/9009/dfas0fauen/"></a>запрашивать и получать в установленном порядке от организаций, ведущих геологоразведочные работы и добычу полезных ископаемых, геологическую информацию и другие данные, необходимые для проверки представленных в Государственную комиссию технико-экономических обоснований кондиций, коэффициентов извлечения нефти и газового конденсата, подсчета запасов полезных ископаемых, годовые планы и графики представления на рассмотрение Государственной комиссии проектов кондиций, отчетов со сведениями о состоянии и движении запасов полезных ископаемых;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/9009/dfaswd2kd2/"></a>проводить совещания, семинары, устанавливать научно-технические связи с аналогичными органами зарубежных стран по вопросам, входящим в компетенцию Государственной комиссии;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/9009/dfasz46fed/"></a>представлять в Государственный комитет Республики Узбекистан по геологии и минеральным ресурсам (далее &#8212; Госкомгеологии) предложения по совершенствованию законодательства о недрах для последующего внесения в Кабинет Министров Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/9009/dfas5mcb3x/"></a>8. Государственная комиссия несет в соответствии с законодательством ответственность за обоснованность принятых решений в части кондиций на минеральное сырье, коэффициентов извлечения нефти и газового конденсата, оценки количества и качества утверждаемых запасов, подготовленности месторождений (или их частей) для промышленного освоения.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/9009/tit5/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/9009/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/9009/dfasigpahu/"></a>Глава 4. </span><span class="doc__chapter-name">Организация деятельности Государственной комиссии</span></div><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/9009/dfasowp7o0/"></a>9. Состав Государственной комиссии утверждается Президентом Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/9009/dfasz7572t/"></a>10. Председатель Государственной комиссии:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/9009/dfas670w2k/"></a>осуществляет общее руководство деятельностью Государственной комиссии и несет ответственность за выполнение возложенных на нее задач;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/9009/dfasthx23f/"></a>определяет права и обязанности заместителя председателя и членов Государственной комиссии в соответствии с задачами, предусмотренными настоящим Положением;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/9009/dfasnvylom/"></a>утверждает планы работ Государственной комиссии, графики рассмотрения поступивших в Государственную комиссию материалов;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/9009/dfas8o5h3x/"></a>председательствует на заседаниях Государственной комиссии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/9009/dfasqnmmr9/"></a>При отсутствии председателя заседание Государственной комиссии проводится заместителем председателя Государственной комиссии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/9009/dfas83vz56/"></a>11. В состав Государственной комиссии входят руководители и квалифицированные специалисты заинтересованных министерств и ведомств, ведущих горнодобывающих организаций республики и профильных организаций Госкомгеологии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/9009/dfasox7rti/"></a>12. Функции рабочего органа Государственной комиссии выполняет Отдел по запасам полезных ископаемых Госкомгеологии (далее &#8212; рабочий орган).</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/9009/dfaszq6vag/"></a>13. Рабочий орган:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/9009/dfasme8aia/"></a>принимает на рассмотрение Государственной комиссии представленные организациями-исполнителями материалы технико-экономических обоснований кондиций и подсчета запасов полезных ископаемых, а также иные геологические материалы;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/9009/dfasenoy6s/"></a>определяет в зависимости от сложности рассматриваемых объектов необходимые виды экспертиз и персональный состав экспертов для их проведения;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/9009/dfasvyqgb3/"></a>контролирует своевременность представления экспертами заключений по рассматриваемым вопросам, их полноту и объективность;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/9009/dfasguq00k/"></a>запрашивает от организаций-исполнителей представленных материалов дополнительные данные, необходимые для проверки технико-экономических обоснований кондиций на минеральное сырье, коэффициентов извлечения нефти и газового конденсата, подсчета запасов полезных ископаемых, оценки полноты геологических и других сведений по участкам недр, намечаемым для использования в целях хранения и захоронения отходов;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/9009/dfaszy6u6q/"></a>запрашивает от организаций, ведущих геологоразведочные работы и добычу полезных ископаемых, графики представления на рассмотрение Государственной комиссии проектов кондиций, отчетов с подсчетом запасов и иных материалов, составляет по согласованию с председателем Государственной комиссии графики рассмотрения представленных материалов;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/9009/dfashp8z1g/"></a>обобщает и анализирует результаты рассмотрения Государственной комиссией технико-экономических обоснований кондиций, подсчета запасов полезных ископаемых и разрабатывает рекомендации по устранению недостатков, повышению полноты и качества геологической и иной информации, достоверности подсчета запасов и геолого-экономической оценки месторождений, составляет ежегодные обзоры по итогам рассмотрения отчетов с подсчетом запасов полезных ископаемых, которые издаются и направляются заинтересованным сторонам по согласованию с председателем Государственной комиссии;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/9009/dfasp8hrrr/"></a>проводит анализ государственного баланса запасов полезных ископаемых Республики Узбекистан, который ведется Госкомгеологии, и дает рекомендации по его корректировке с учетом новых данных по результатам геологоразведочных работ и эксплуатации месторождений, а также по представлению в Государственную комиссию на государственную экспертизу запасов, принятых на баланс по оперативным подсчетам;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/9009/dfas8szrgn/"></a>участвует в разработке нормативно-методических документов, регулирующих проведение геологоразведочных работ (классификации запасов месторождений и прогнозных ресурсов полезных ископаемых, инструкции по применению классификаций запасов к месторождениям различных видов полезных ископаемых, инструкции о содержании, оформлении и порядке представления в Государственную комиссию соответствующих материалов, включая отчеты с подсчетом запасов полезных ископаемых), и иных нормативных документов, относящихся к компетенции Государственной комиссии;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/9009/dfas5mkt66/"></a>обеспечивает подготовку и внесение на рассмотрение Государственной комиссии материалов и проектов решений по вопросам, входящим в компетенцию Государственной комиссии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/9009/dfaseku917/"></a>14. Положение о рабочем органе Государственной комиссии утверждается председателем Госкомгеологии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/9009/dfast2081q/"></a>15. Экспертиза проектов кондиций на минеральное сырье, материалов подсчета запасов полезных ископаемых и иных поступающих на рассмотрение Государственной комиссии геологических материалов производится как работниками рабочего органа, так и привлеченными экспертами.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/9009/dfassmyinn/"></a>Положение об эксперте Государственной комиссии, персональный состав экспертов утверждаются Государственной комиссией.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/9009/dfasxdregd/"></a>16. Подготовленные рабочим органом проекты решений Государственной комиссии с необходимыми материалами представляются председателю Государственной комиссии, который утверждает сроки их рассмотрения на заседании Государственной комиссии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/9009/dfaspyngnm/"></a>17. Решение Государственной комиссии об утверждении кондиций для подсчета запасов полезных ископаемых, коэффициентов извлечения нефти и газового конденсата и подсчитанных запасов полезных ископаемых, а также по другим рассматриваемым вопросам принимается на заседании Государственной комиссии в присутствии экспертов, представителей заинтересованных министерств, ведомств и организаций, представивших материалы.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/9009/dfasfuglzn/"></a>Заседания Государственной комиссии проводятся при условии участия не менее двух третей списочного состава членов комиссии. В случае отсутствия кворума членами Государственной комиссии, явившимися на заседание, принимается решение об отложении заседания, о новой дате и времени проведения которого сообщается дополнительно.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/9009/dfas7tguil/"></a>На заседаниях Государственной комиссии могут участвовать уполномоченные лица ее членов с оформленной в установленном порядке доверенностью.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/9009/dfaswmomic/"></a>18. Решения Государственной комиссии принимаются большинством голосов ее членов, участвующих в заседании. При равенстве голосов голос председателя Государственной комиссии является решающим.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/9009/dfaskbtw6g/"></a>В случае несогласия отдельных членов Государственной комиссии с принятым решением, они могут изложить письменно свое особое мнение и приложить его к протоколу заседания Государственной комиссии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/9009/dfasubug44/"></a>Для принятия окончательного решения материалы могут быть направлены для проведения дополнительной экспертизы, после чего вносятся на повторное рассмотрение заседания Государственной комиссии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/9009/dfas1ehic1/"></a>19. В необходимых случаях вопросы утверждения кондиций и подсчета запасов полезных ископаемых могут рассматриваться на выездных заседаниях Государственной комиссии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/9009/dfasn07k94/"></a>20. Решения, принятые Государственной комиссией, оформляются протоколами, копии которых вместе с материалами экспертизы в недельный срок направляются организации-исполнителю, представившей материалы.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/9009/dfaseufgbn/"></a>21. В случае недостаточной обоснованности проектов кондиций, подсчитанных запасов полезных ископаемых, недостаточности сведений о пригодности участков недр для использования в целях хранения и захоронения отходов, представленные материалы вместе с копиями протокола Государственной комиссии и заключений экспертов возвращаются организации-исполнителю.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/9009/dfasow84s1/"></a>При доработке материалов в соответствии с изложенными в протоколе Государственной комиссии замечаниями и рекомендациями они могут быть представлены в Государственную комиссию на повторное рассмотрение.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr79/" data-role="phrase-anchor" data-phrase-id="79" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr79"></a><a data-anchor="/document/90/9009/dfasggba6z/"></a>22. Постановка на государственный учет разведанных запасов полезных ископаемых, вовлечение месторождения в промышленное освоение, использование участков недр для строительства и эксплуатации сооружений, в целях хранения и захоронения отходов допускается только при наличии положительного заключения Государственной комиссии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr80/" data-role="phrase-anchor" data-phrase-id="80" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr80"></a><a data-anchor="/document/90/9009/dfastwkpli/"></a>23. Решения Государственной комиссии могут быть обжалованы в порядке, установленном законодательством.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr81/" data-role="phrase-anchor" data-phrase-id="81" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr81"></a><a data-anchor="/document/90/9009/dfasd9e5kw/"></a>24. Срок рассмотрения представленных материалов в Государственную комиссию не должен превышать трех месяцев.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr82/" data-role="phrase-anchor" data-phrase-id="82" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr82"></a><a data-anchor="/document/90/9009/dfasect0db/"></a>25. На заседаниях Государственной комиссии рассматриваются также проекты нормативно-методических документов, касающихся ее деятельности.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr83/" data-role="phrase-anchor" data-phrase-id="83" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr83"></a><a data-anchor="/document/90/9009/dfas3zoly5/"></a>26. Финансирование расходов по оплате услуг привлекаемых экспертов Государственной комиссии осуществляется:</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr84/" data-role="phrase-anchor" data-phrase-id="84" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr84"></a><a data-anchor="/document/90/9009/dfas7x04z4/"></a>за счет собственных средств Госкомгеологии &#8212; по объектам, геологоразведочные работы по которым проведены в рамках государственных программ развития и воспроизводства минерально-сырьевой базы по системе Госкомгеологии;</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr85/" data-role="phrase-anchor" data-phrase-id="85" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr85"></a><a data-anchor="/document/90/9009/dfas2pakcy/"></a>на основании договоров, заключаемых с организациями, проводившими геологоразведочные работы (или недропользователями), &#8212; по объектам, геологоразведочные работы по которым проведены за счет собственных средств недропользователей.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr86/" data-role="phrase-anchor" data-phrase-id="86" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr86"></a><a data-anchor="/document/90/9009/dfasn7u6if/"></a>Рассмотрение представленных в Государственную комиссию проектов кондиций и материалов подсчета запасов полезных ископаемых, а также государственная экспертиза геологических материалов осуществляются на договорной основе в соответствии с условиями заключенного договора. Заключение договоров с организациями, представившими материалы, а также с привлекаемыми экспертами осуществляется председателем Госкомгеологии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr87/" data-role="phrase-anchor" data-phrase-id="87" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr87"></a><a data-anchor="/document/90/9009/dfasyul96g/"></a>Расценки на указанные виды работ и услуг утверждаются решением Государственной комиссии по представлению Госкомгеологии.</p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr88/" data-role="phrase-anchor" data-phrase-id="88" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr88"></a><a data-anchor="/document/90/9009/dfasc2uhsl/"></a>27. Государственная комиссия пользуется соответствующим бланком. Протоколы Государственной комиссии закрепляются печатью Госкомгеологии.</p><p style="text-align:center"><a data-anchor="/document/90/9009/bssPhr89/" data-role="phrase-anchor" data-phrase-id="89" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr89"></a><a data-anchor="/document/90/9009/dfasy0xb8p/"></a><strong>Глава 5. Заключительное положение </strong></p><p style="text-align:left"><a data-anchor="/document/90/9009/bssPhr90/" data-role="phrase-anchor" data-phrase-id="90" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr90"></a><a data-anchor="/document/90/9009/dfasblqyqo/"></a>28. Прекращение деятельности Государственной комиссии осуществляется на основании соответствующего решения Президента Республики Узбекистан.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

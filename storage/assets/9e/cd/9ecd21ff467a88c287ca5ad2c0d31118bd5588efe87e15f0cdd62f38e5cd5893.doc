@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассчитать сумму фиксированного налога</h2><div id="documentBody" class="content-common"><a data-anchor="/document/16/203618/dfassfiidy/" data-dfa="dfassfiidy"></a><a data-anchor="/document/16/203618/bssPhr1/"></a><a data-anchor="/document/16/203618/tit0/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Как изменилось налогообложение индивидуальных предпринимателей в 2019 году</h2><a data-anchor="/document/16/203618/dfasy17fxf/" data-dfa="dfasy17fxf"></a><a data-anchor="/document/16/203618/bssPhr2/"></a><a data-anchor="/document/16/203618/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1">1.&nbsp;Системы налогообложения</h2><p><a data-anchor="/document/16/203618/dfas4b74wt/" data-dfa="dfas4b74wt"></a><a data-anchor="/document/16/203618/bssPhr3/"></a>До 1 января 2019 года индивидуальные предприниматели платили только фиксированный налог. Теперь индивидуальные предприниматели, у которых выручка от реализации товаров (работ, услуг) в календарном году составляет:</p><p><a data-anchor="/document/16/203618/dfas6196te/" data-dfa="dfas6196te"></a><a data-anchor="/document/16/203618/bssPhr4/"></a>– до 100 млн сумов – уплачивают фиксированный налог;</p><p><a data-anchor="/document/16/203618/dfasnxge3g/" data-dfa="dfasnxge3g"></a><a data-anchor="/document/16/203618/bssPhr5/"></a>– от 100 млн сумов до 1 млрд сумов – уплачивают единый налоговый платеж;</p><p><a data-anchor="/document/16/203618/dfasl4vzk9/" data-dfa="dfasl4vzk9"></a><a data-anchor="/document/16/203618/bssPhr6/"></a>– свыше 1 млрд сумов – становятся плательщиками общеустановленных налогов, т.е. уплачивают налоги и другие обязательные платежи в общем порядке, предусмотренном для юрлиц (абз.абз. <a data-anchor="/document/16/203618/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/18678/dfasxowoa5/" class="link npd" title="для индивидуальных предпринимателей, выручка которых от реализации товаров (работ, услуг) в календарном году не превышает 100 миллионов сумов, сохраняется порядок исчисления и уплаты..." moduleId="90" documentId="18678" anchor="dfasxowoa5">2–4</a> п. 8 ПП–4086 от 26.12.2018 г.).</p><p><a data-anchor="/document/16/203618/dfas7ldfdy/" data-dfa="dfas7ldfdy"></a><a data-anchor="/document/16/203618/bssPhr7/"></a>Размер выручки определяйте нарастающим итогом в течение календарного года. Если индивидуальный предприниматель занимается несколькими видами деятельности, размер выручки по ним суммируйте (<a data-anchor="/document/16/203618/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/4223/dfaspw1p71/" class="link npd" title="16. Якка тартибдаги тадбиркорларнинг товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми бир календарь йилдаги ойлар давомида ўсиб борувчи тушумдан келиб чиқиб аниқланади." moduleId="90" documentId="4223" anchor="dfaspw1p71">п.п. 16</a> и <a data-anchor="/document/16/203618/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/4223/dfas4qggev/" class="link npd" title="17. Якка тартибдаги тадбиркорларнинг товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми миқдори фаолиятнинг бир неча тури билан шуғулланувчи якка тартибдаги тадбиркор..." moduleId="90" documentId="4223" anchor="dfas4qggev">17</a> Положения, рег. № 3143 от 19.03.2019 г.).</p><p><a data-anchor="/document/16/203618/dfasytzprw/" data-dfa="dfasytzprw"></a><a data-anchor="/document/16/203618/bssPhr8/"></a>Индивидуальные предприниматели переходят на уплату ЕНП или общеустановленных налогов с первого числа месяца, следующего за месяцем, в котором размер выручки превысил установленный предел (<a data-anchor="/document/16/203618/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/4223/dfashv6sw0/" class="link npd" title="18. Календарь йилида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўмдан ошган, бироқ бир миллиард сўмдан ошмаган якка тартибдаги тадбиркорлар..." moduleId="90" documentId="4223" anchor="dfashv6sw0">п.п. 18</a>, <a data-anchor="/document/16/203618/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/4223/dfaspkbnqg/" class="link npd" title="19. Календарь йилида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми бир миллиард сўмдан ошган якка тартибдаги тадбиркорлар солиқлар ва бошқа мажбурий тўловларни..." moduleId="90" documentId="4223" anchor="dfaspkbnqg">19</a> Положения № 3143).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203618/dfas5z2tte/" data-dfa="dfas5z2tte"></a><a data-anchor="/document/16/203618/bssPhr9/"></a>Индивидуальный предприниматель занимается розничной торговлей. Выручка за I-квартал составила 74&nbsp;000&nbsp;000 сумов. Также предприниматель изготовливает и реализует национальные сладости. От этого выручка составила 28&nbsp;000&nbsp;000 сумов. Суммарная выручка – 102&nbsp;000&nbsp;000 сумов (74&nbsp;000&nbsp;000 + 28&nbsp;000 000).</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203618/dfas2cl8az/" data-dfa="dfas2cl8az"></a><a data-anchor="/document/16/203618/bssPhr10/"></a>С 1 апреля индивидуальный предприниматель переходит на уплату ЕНП.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203618/dfaste9m97/" data-dfa="dfaste9m97"></a><a data-anchor="/document/16/203618/bssPhr11/"></a>Индивидуальный предприниматель занимается пошивом обуви. По итогам января выручка составила 33&nbsp;000 000 сумов, по итогам февраля – 72&nbsp;000&nbsp;000 сумов. Суммарный оборот за январь–февраль – 105&nbsp;000&nbsp;000 сумов.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203618/dfasx38999/" data-dfa="dfasx38999"></a><a data-anchor="/document/16/203618/bssPhr12/"></a>С 1 марта ИП переходит на уплату ЕНП.</p></div></div><p><a data-anchor="/document/16/203618/dfasd9t5bo/" data-dfa="dfasd9t5bo"></a><a data-anchor="/document/16/203618/bssPhr13/"></a>Несмотря на то, что выручка считается за налоговый период (<a data-anchor="/document/16/203618/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasiy722p/" class="link npd" title="отдельные категории физических лиц, уплачивающих единый социальный платеж в соответствии с порядком, предусмотренным статьей 311 настоящего Кодекса." moduleId="90" documentId="20918" anchor="dfasiy722p">п. 3</a> ч. 1 ст. 305 НК), для индивидуального предпринимателя нет возможности «обнулить» размер выручки, приостановив либо прекратив деятельность до следующего года. При возобновлении деятельности индивидуальный предприниматель, выручка которого достигла 100 млн сумов или 1 млрд сумов, переходит на уплату ЕНП или общих налогов с даты возобновления (<a data-anchor="/document/16/203618/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/4223/dfasgdvgi8/" class="link npd" title="22. Календарь йилида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўм ва бир миллиард сўмдан ошган ҳолатда фаолиятини вақтинчалик тўхтатган (тугатган).." moduleId="90" documentId="4223" anchor="dfasgdvgi8">п. 22</a> Положения № 3143). Это правило действует в течение 5 лет с момента приостановления либо прекращения деятельности (<a data-anchor="/document/16/203618/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasugfd30/" class="link npd" title="Орган государственной налоговой службы может начислить или пересмотреть начисленную сумму налогов и других обязательных платежей в течение пяти лет после окончания налогового периода." moduleId="90" documentId="20918" anchor="dfasugfd30">ч. 1</a> ст. 38 НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203618/dfasq775ii/" data-dfa="dfasq775ii"></a><a data-anchor="/document/16/203618/bssPhr14/"></a>Индивидуальный предприниматель платил фиксированный налог. По итогам I-квартала 2019 года он имел выручку 115&nbsp;000&nbsp;000 сумов и должен был платить ЕНП с 1 апреля 2019 года.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203618/dfaszf0peb/" data-dfa="dfaszf0peb"></a><a data-anchor="/document/16/203618/bssPhr15/"></a>Однако во II и III квартале 2019 года ИП приостановил свою деятельность. В IV квартале 2019 года ИП возобновил деятельность. Он должен уплачивать ЕНП, т.к. в календарном году его суммарная выручка составила 115&nbsp;000 000 сумов.</p></div></div><p><a data-anchor="/document/16/203618/dfas0ss2ru/" data-dfa="dfas0ss2ru"></a><a data-anchor="/document/16/203618/bssPhr16/"></a>Индивидуальные предприниматели, у которых выручка превысила 1 млрд сумов, вправе выбрать один из вариантов:</p><p><a data-anchor="/document/16/203618/dfasq9zx1m/" data-dfa="dfasq9zx1m"></a><a data-anchor="/document/16/203618/bssPhr17/"></a>–&nbsp;создать юрлицо и перевести на него свою деятельность с уплатой всех налогов для общеустановленной системы;</p><p><a data-anchor="/document/16/203618/dfasd4glr3/" data-dfa="dfasd4glr3"></a><a data-anchor="/document/16/203618/bssPhr18/"></a>–&nbsp;платить налоги и другие обязательные платежи, предусмотренные для юрлиц, с сохранением статуса индивидуального предпринимателя.</p><p><a data-anchor="/document/16/203618/dfaskdz9es/" data-dfa="dfaskdz9es"></a><a data-anchor="/document/16/203618/bssPhr19/"></a>Для индивидуальных предпринимателей, перешедших на уплату:</p><p><a data-anchor="/document/16/203618/dfasutycud/" data-dfa="dfasutycud"></a><a data-anchor="/document/16/203618/bssPhr20/"></a>ЕНП&nbsp;– выручка, полученная в период обложения фиксированным налогом, не входит в налогооблагаемую базу по этому налогу;</p><p><a data-anchor="/document/16/203618/dfashllfe3/" data-dfa="dfashllfe3"></a><a data-anchor="/document/16/203618/bssPhr21/"></a>общеустановленных налогов – выручка, полученная в период уплаты фиксированного налога и ЕНП, не рассматривается в качестве налогооблагаемой базы (<a data-anchor="/document/16/203618/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/4223/dfasb2tcn1/" class="link npd" title="21. Ягона солиқ тўловини ҳисоблаб чиқишда қатъий белгиланган солиқ солиш даврида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушум солиқ солиш базасига киритилмайди." moduleId="90" documentId="4223" anchor="dfasb2tcn1">п. 21</a> Положения № 3143).</p><p><a data-anchor="/document/16/203618/dfasb8ww0y/" data-dfa="dfasb8ww0y"></a><a data-anchor="/document/16/203618/bssPhr22/"></a>При переходе индивидуального предпринимателя на уплату ЕНП, льготы по фиксированному налогу, не применяются (<a data-anchor="/document/16/203618/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/90/4223/dfasg2aguq/" class="link npd" title="23. Якка тартибдаги тадбиркорлар томонидан товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўмдан ошган ойнинг кейинги ойидан бошлаб, қатъий белгиланган..." moduleId="90" documentId="4223" anchor="dfasg2aguq">п. 23</a> Положения № 3143).</p><a data-anchor="/document/16/203618/dfasyk49eq/" data-dfa="dfasyk49eq"></a><a data-anchor="/document/16/203618/bssPhr23/"></a><a data-anchor="/document/16/203618/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2">2. Ставки фиксированного налога</h2><p><a data-anchor="/document/16/203618/dfasnlwvnr/" data-dfa="dfasnlwvnr"></a><a data-anchor="/document/16/203618/bssPhr24/"></a>До 1 января 2019 года ставки фиксированного налога устанавливались в кратных размерах минимальной заработной платы, с 1 января 2019 года ставки установлены в абсолютных суммах. При этом, сохраняется их дифференциация в зависимости от вида и места осуществления деятельности.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203618/dfashkq979/" data-dfa="dfashkq979"></a><a data-anchor="/document/16/203618/bssPhr25/"></a>Если для юрлиц – плательщиков ЕНП установлены дифференцированные ставки налога в зависимости от видов деятельности, то для индивидуальных предпринимателей установлена единая ставка в размере 4% (<a data-anchor="/document/16/203618/backlinkanchor21/" type="backlink-anchor"></a><a href="#/document/90/18678/dfasczovq4/" class="link npd" title="индивидуальные предприниматели, выручка которых от реализации товаров (работ, услуг) превысила один миллиард сумов в календарном году, уплачивают налоги и другие обязательные платежи..." moduleId="90" documentId="18678" anchor="dfasczovq4">абз. 3</a> п. 8 ПП–4086 от 26.12.2018 г.).</p><div class="incut-v4__icon"></div></div><p align="center"><a data-anchor="/document/16/203618/dfasxpp7t4/" data-dfa="dfasxpp7t4"></a><a data-anchor="/document/16/203618/bssPhr26/"></a>Ставки</p><p align="center"><a data-anchor="/document/16/203618/dfasgn23ea/" data-dfa="dfasgn23ea"></a><a data-anchor="/document/16/203618/bssPhr27/"></a>фиксированного налога с индивидуальных предпринимателей </p><p align="center"><a data-anchor="/document/16/203618/dfasvl9cka/" data-dfa="dfasvl9cka"></a><a data-anchor="/document/16/203618/bssPhr28/"></a>(<a data-anchor="/document/16/203618/backlinkanchor23/" type="backlink-anchor"></a><a href="#/document/90/18678/dfasan2pox/" class="link npd" moduleId="90" documentId="18678" anchor="dfasan2pox">прил. № 9</a> ПП–4086 от 26.12.2018 г.)</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tr align="center"><td rowspan="2" class="bdAll"><p align="center"><a data-anchor="/document/16/203618/dfasogrmov/" data-dfa="dfasogrmov"></a><a data-anchor="/document/16/203618/bssPhr29/"></a>№</p></td><td rowspan="2" class="bdTopbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasuznu6a/" data-dfa="dfasuznu6a"></a><a data-anchor="/document/16/203618/bssPhr30/"></a>Вид деятельности</p></td><td colspan="4" class="bdTopbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfash9727b/" data-dfa="dfash9727b"></a><a data-anchor="/document/16/203618/bssPhr31/"></a>Ставка фиксированного налога <u>(в сумах</u>) в месяц</p></td></tr><tr align="center"><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfastl02xb/" data-dfa="dfastl02xb"></a><a data-anchor="/document/16/203618/bssPhr32/"></a>г. Ташкент</p></td><td class="bdTopbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasi5nsvu/" data-dfa="dfasi5nsvu"></a><a data-anchor="/document/16/203618/bssPhr33/"></a>г. Нукус, города – областные центры</p></td><td class="bdTopbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasg7z8r1/" data-dfa="dfasg7z8r1"></a><a data-anchor="/document/16/203618/bssPhr34/"></a>прочие города</p></td><td class="bdTopbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas4f908l/" data-dfa="dfas4f908l"></a><a data-anchor="/document/16/203618/bssPhr35/"></a>прочие населенные пункты</p></td></tr><tr align="center"><td rowspan="3" class="bdLeftbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasze6sdd/" data-dfa="dfasze6sdd"></a><a data-anchor="/document/16/203618/bssPhr36/"></a>1.</p></td><td align="left" class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfas6gb18b/" data-dfa="dfas6gb18b"></a><a data-anchor="/document/16/203618/bssPhr37/"></a>Розничная торговля:</p></td><td align="left" class="bdRightbdBottom"><a data-anchor="/document/16/203618/dfas5z5onw/" data-dfa="dfas5z5onw"></a><a data-anchor="/document/16/203618/bssPhr38/"></a>&nbsp;</td><td align="left" class="bdRightbdBottom"><a data-anchor="/document/16/203618/dfas3yw0bl/" data-dfa="dfas3yw0bl"></a><a data-anchor="/document/16/203618/bssPhr39/"></a>&nbsp;</td><td align="left" class="bdRightbdBottom"><a data-anchor="/document/16/203618/dfastsewtf/" data-dfa="dfastsewtf"></a><a data-anchor="/document/16/203618/bssPhr40/"></a>&nbsp;</td><td align="left" class="bdRightbdBottom"><a data-anchor="/document/16/203618/dfas0l9zbn/" data-dfa="dfas0l9zbn"></a><a data-anchor="/document/16/203618/bssPhr41/"></a>&nbsp;</td></tr><tr><td class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfasomdsq0/" data-dfa="dfasomdsq0"></a><a data-anchor="/document/16/203618/bssPhr42/"></a>продовольственными и непродовольственными товарами</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasox2mtp/" data-dfa="dfasox2mtp"></a><a data-anchor="/document/16/203618/bssPhr43/"></a>1 000 000</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas0htc69/" data-dfa="dfas0htc69"></a><a data-anchor="/document/16/203618/bssPhr44/"></a>750 000</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasvncau8/" data-dfa="dfasvncau8"></a><a data-anchor="/document/16/203618/bssPhr45/"></a>400 000</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfastahow9/" data-dfa="dfastahow9"></a><a data-anchor="/document/16/203618/bssPhr46/"></a>300 000</p></td></tr><tr><td class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfas8blbik/" data-dfa="dfas8blbik"></a><a data-anchor="/document/16/203618/bssPhr47/"></a>сельскохозяйственной продукцией на дехканских рынках*</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasgb5ctp/" data-dfa="dfasgb5ctp"></a><a data-anchor="/document/16/203618/bssPhr48/"></a>400 000</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasrmbw38/" data-dfa="dfasrmbw38"></a><a data-anchor="/document/16/203618/bssPhr49/"></a>200 000</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas7m2hdx/" data-dfa="dfas7m2hdx"></a><a data-anchor="/document/16/203618/bssPhr50/"></a>100 000</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasvybp4x/" data-dfa="dfasvybp4x"></a><a data-anchor="/document/16/203618/bssPhr51/"></a>50 000</p></td></tr><tr><td class="bdLeftbdRightbdBottom"><a data-anchor="/document/16/203618/dfasmwuy8i/" data-dfa="dfasmwuy8i"></a><a data-anchor="/document/16/203618/bssPhr52/"></a>&nbsp;</td><td class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfas4xxed9/" data-dfa="dfas4xxed9"></a><a data-anchor="/document/16/203618/bssPhr53/"></a>газетами, журналами и книжной продукцией</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas3mkx8m/" data-dfa="dfas3mkx8m"></a><a data-anchor="/document/16/203618/bssPhr54/"></a>500 000</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasfpp6rw/" data-dfa="dfasfpp6rw"></a><a data-anchor="/document/16/203618/bssPhr55/"></a>250 000</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasrhvvm9/" data-dfa="dfasrhvvm9"></a><a data-anchor="/document/16/203618/bssPhr56/"></a>200 000</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasardgsz/" data-dfa="dfasardgsz"></a><a data-anchor="/document/16/203618/bssPhr57/"></a>50 000</p></td></tr><tr align="center"><td class="bdLeftbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasr0kggc/" data-dfa="dfasr0kggc"></a><a data-anchor="/document/16/203618/bssPhr58/"></a>2.</p></td><td align="left" class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfaszrt7ve/" data-dfa="dfaszrt7ve"></a><a data-anchor="/document/16/203618/bssPhr59/"></a>Бытовые услуги</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfaszh4ggm/" data-dfa="dfaszh4ggm"></a><a data-anchor="/document/16/203618/bssPhr60/"></a>350 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfascr35f9/" data-dfa="dfascr35f9"></a><a data-anchor="/document/16/203618/bssPhr61/"></a>200 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasmaec3x/" data-dfa="dfasmaec3x"></a><a data-anchor="/document/16/203618/bssPhr62/"></a>100 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfaskniddb/" data-dfa="dfaskniddb"></a><a data-anchor="/document/16/203618/bssPhr63/"></a>50 000</p></td></tr><tr align="center"><td class="bdLeftbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfaslap9wd/" data-dfa="dfaslap9wd"></a><a data-anchor="/document/16/203618/bssPhr64/"></a>3.</p></td><td align="left" class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfasudnfdx/" data-dfa="dfasudnfdx"></a><a data-anchor="/document/16/203618/bssPhr65/"></a>Производство и сбыт собственной продукции, в т. ч. изготовление и реализация национальных сладостей и хлебобулочных изделий, а также изготовление и реализация отдельных видов штучных блюд без организации посадочных мест в домашних условиях или местах, специально отведенных решением органов государственной власти на местах</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasa3iul6/" data-dfa="dfasa3iul6"></a><a data-anchor="/document/16/203618/bssPhr66/"></a>300 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasp8urop/" data-dfa="dfasp8urop"></a><a data-anchor="/document/16/203618/bssPhr67/"></a>200 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas3b46tw/" data-dfa="dfas3b46tw"></a><a data-anchor="/document/16/203618/bssPhr68/"></a>100 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasw18ek6/" data-dfa="dfasw18ek6"></a><a data-anchor="/document/16/203618/bssPhr69/"></a>50 000</p></td></tr><tr align="center"><td class="bdLeftbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas9a46a8/" data-dfa="dfas9a46a8"></a><a data-anchor="/document/16/203618/bssPhr70/"></a>4.</p></td><td align="left" class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfas3lrbts/" data-dfa="dfas3lrbts"></a><a data-anchor="/document/16/203618/bssPhr71/"></a>Детские игровые автоматы</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasvg4io0/" data-dfa="dfasvg4io0"></a><a data-anchor="/document/16/203618/bssPhr72/"></a>300 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasgfxups/" data-dfa="dfasgfxups"></a><a data-anchor="/document/16/203618/bssPhr73/"></a>200 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas0uunvm/" data-dfa="dfas0uunvm"></a><a data-anchor="/document/16/203618/bssPhr74/"></a>100 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas4hzms0/" data-dfa="dfas4hzms0"></a><a data-anchor="/document/16/203618/bssPhr75/"></a>50 000</p></td></tr><tr align="center"><td class="bdLeftbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas38hxxc/" data-dfa="dfas38hxxc"></a><a data-anchor="/document/16/203618/bssPhr76/"></a>5.</p></td><td align="left" class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfaswk4ghg/" data-dfa="dfaswk4ghg"></a><a data-anchor="/document/16/203618/bssPhr77/"></a>Прочие виды деятельности</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas8cl7iq/" data-dfa="dfas8cl7iq"></a><a data-anchor="/document/16/203618/bssPhr78/"></a>300 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas27tv3s/" data-dfa="dfas27tv3s"></a><a data-anchor="/document/16/203618/bssPhr79/"></a>200 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasxggvla/" data-dfa="dfasxggvla"></a><a data-anchor="/document/16/203618/bssPhr80/"></a>100 000</p></td><td class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfaszne6lu/" data-dfa="dfaszne6lu"></a><a data-anchor="/document/16/203618/bssPhr81/"></a>50 000</p></td></tr><tr align="center"><td rowspan="3" class="bdLeftbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas9l70vu/" data-dfa="dfas9l70vu"></a><a data-anchor="/document/16/203618/bssPhr82/"></a>6.</p></td><td align="left" class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfasd97qqb/" data-dfa="dfasd97qqb"></a><a data-anchor="/document/16/203618/bssPhr83/"></a>Услуги по перевозке грузов автомобильным транспортом:</p></td><td colspan="4" align="left" class="bdRightbdBottom"><a data-anchor="/document/16/203618/dfasr3yel8/" data-dfa="dfasr3yel8"></a><a data-anchor="/document/16/203618/bssPhr84/"></a>&nbsp;</td></tr><tr><td class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfas8amfcn/" data-dfa="dfas8amfcn"></a><a data-anchor="/document/16/203618/bssPhr85/"></a>для грузовых автомобилей грузоподъемностью до 3 тонн</p></td><td colspan="4" align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfas5mne92/" data-dfa="dfas5mne92"></a><a data-anchor="/document/16/203618/bssPhr86/"></a>200 000</p></td></tr><tr><td class="bdRightbdBottom"><p><a data-anchor="/document/16/203618/dfasyxcyuc/" data-dfa="dfasyxcyuc"></a><a data-anchor="/document/16/203618/bssPhr87/"></a>для грузовых автомобилей грузоподъемностью свыше 3 тонн</p></td><td colspan="4" align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203618/dfasosd5wh/" data-dfa="dfasosd5wh"></a><a data-anchor="/document/16/203618/bssPhr88/"></a>300 000</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

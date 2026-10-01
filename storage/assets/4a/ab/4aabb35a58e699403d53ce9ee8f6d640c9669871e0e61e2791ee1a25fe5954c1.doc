@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кто платит налог на имущество юридических лиц</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/210478/dfas8xivgk/" data-dfa="dfas8xivgk"></a><a data-anchor="/document/16/210478/bssPhr2/"></a>В рекомендации – перечень плательщиков налога на имущество, а также тех, кто на постоянной основе&nbsp;освобожден от уплаты этого налога. Получите ответ на вопрос – кто должен платить налог на имущество, если юрлицо передает квартиру в финансовую аренду физлицу. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210478/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210478/bssPhr3/"></a><a data-anchor="/document/16/210478/dfaspmtdlh/" data-dfa="dfaspmtdlh"></a>Плательщики налога на имущество</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210478/bssPhr6/"></a><a data-anchor="/document/16/210478/dfask8otvp/" data-dfa="dfask8otvp"></a>Налог на имущество платят:</p><ul class="c-list"><li><a data-anchor="/document/16/210478/bssPhr7/"></a><a data-anchor="/document/16/210478/dfasr8nnh9/" data-dfa="dfasr8nnh9"></a>юрлица – резиденты, у которых есть налогооблагаемое имущество на территории РУз;</li><li>юрлица – нерезиденты, имеющие в собственности недвижимое имущество на территории республики, если иное не предусмотрено условиями международных договоров РУз (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 410 НК).</li></ul><p><a data-anchor="/document/16/210478/bssPhr8/"></a><a data-anchor="/document/16/210478/dfasx6zmf4/" data-dfa="dfasx6zmf4"></a>При оперативной аренде недвижимости налог уплачивает арендодатель, при финансовой аренде (лизинге) – арендатор (лизингополучатель).&nbsp;</p><p><a data-anchor="/document/16/210478/bssPhr9/"></a><a data-anchor="/document/16/210478/dfasf7gxsi/" data-dfa="dfasf7gxsi"></a>Если местонахождение собственника недвижимого имущества неизвестно, налогоплательщиком считается лицо, у которого это имущество находится во владении или в пользовании (<span num="5" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 410 НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210478/bssPhr10/"></a><a data-anchor="/document/16/210478/dfasegb09l/" data-dfa="dfasegb09l"></a>Плательщиками налога на имущество являются и юрлица – плательщики налога на прибыль, а также&nbsp;налога с оборота</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210478/bssPhr11/"></a><a data-anchor="/document/16/210478/dfast9uneg/" data-dfa="dfast9uneg"></a>С 1 января 2020 года&nbsp;плательщиками налога на имущество в общеустановленном порядке стали сельскохозяйственные товаропроизводители. При этом, сельскохозяйственным товаропроизводителям предоставлена льгота по налогу на имущество в виде уменьшения налоговой базы на среднегодовую остаточную стоимость имущества, находящегося на балансе и используемого для производства и хранения сельскохозяйственной продукции, а также для разведения тутового шелкопряда (<span num="6" target="_self" lnktype="intlnk" title="" class="doc">п. 2</span> ч. 1 ст. 414 НК).</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/210478/bssPhr12/"></a><a data-anchor="/document/16/210478/dfas8vo20d/" data-dfa="dfas8vo20d"></a><span num="7" target="_self" lnktype="intlnk" title="" class="doc">Обособленные подразделения</span> юрлиц также платят налог на имущество в случае, если они наделены обособленным имуществом и имеют самостоятельный баланс (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">ст. 32</span> НК).</p><p><a data-anchor="/document/16/210478/bssPhr13/"></a><a data-anchor="/document/16/210478/dfas9tt6fo/" data-dfa="dfas9tt6fo"></a>Иностранные юридические лица, которые осуществляют деятельность в РУз через представительство или ПУ, подлежат постановке на учет в налоговых органах по месту осуществления деятельности, а также по месту нахождения принадлежащего им недвижимого имущества (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span>, <span data-warm-notices="38128099" data-warm-notice-type="error" num="26" target="_self" lnktype="intlnk" title="" class="doc">ч. </span>7&nbsp;ст. 128 НК).</p><p><a data-anchor="/document/16/210478/bssPhr14/"></a><a data-anchor="/document/16/210478/dfas1e3003/" data-dfa="dfas1e3003"></a>Порядок, постановки на учет определен:</p><ul class="c-list"><li><a data-anchor="/document/16/210478/bssPhr15/"></a><a data-anchor="/document/16/210478/dfasg8gbgq/" data-dfa="dfasg8gbgq"></a><span num="27" target="_self" lnktype="intlnk" title="" class="doc">Административным регламентом</span> оказания государственной услуги по постановке на учет (снятию с учета) в органах государственной налоговой службы постоянных учреждений и обособленных подразделений иностранных юридических лиц, утв. ПКМ №150 от 02.04.2022 г.;</li><li><span num="28" target="_self" lnktype="intlnk" title="" class="doc">Административным регламентом</span> оказания государственной услуги по постановке на учет налогоплательщиков в налоговых органах по объекту налогообложения, утв. ПКМ №150 от 02.04.2022 г.</li></ul><p><a data-anchor="/document/16/210478/bssPhr16/"></a><a data-anchor="/document/16/210478/dfasx8nwuh/" data-dfa="dfasx8nwuh"></a>Если обязательство по уплате налога на имущество возникло не по месту постановки на учет, то в течение 10 дней со дня возникновения данного обязательства налогоплательщик должен обратиться в налоговые органы для постановки на учет объектов налогообложения по месту их нахождения. Исключением являются случаи, установленные в частях <span num="29" target="_self" lnktype="intlnk" title="" class="doc">3</span> и <span num="30" target="_self" lnktype="intlnk" title="" class="doc">5</span> статьи 133 НК, когда предоставление таких сведений в налоговые органы является обязанностью органов, осуществляющих гос. регистрацию прав на недвижимое имущество (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 131 НК).</p><p><a data-anchor="/document/16/210478/bssPhr17/"></a><a data-anchor="/document/16/210478/dfask7tnbb/" data-dfa="dfask7tnbb"></a>Налог на имущество при оперативной аренде недвижимости уплачивает арендодатель, при финансовой аренде (лизинге) -арендатор (лизингополучатель).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Кто должен платить налог на имущество, если&#160;юрлицо&#160;передает&#160; квартиру&#160;в финансовую аренду физлицу</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr21/"></a><a data-anchor="/document/16/210478/dfas4xc1rh/" data-dfa="dfas4xc1rh"></a>Плательщиками налога на имущество физических лиц признаются физлица, включая иностранных граждан, имеющие в собственности имущество, которое признается объектом налогообложения (<span num="37" target="_self" lnktype="intlnk" title="" class="doc">ст. 418</span> НК).</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr22/"></a><a data-anchor="/document/16/210478/dfashfulmg/" data-dfa="dfashfulmg"></a>Плательщиками налога на имущество юридических лиц признаются юрлица РУз, имеющие на территории РУз имущество, являющееся объектом налогообложения, в том числе здания и сооружения, подлежащие регистрации в органах, осуществляющих государственную регистрацию прав на недвижимое имущество (<span num="43" target="_self" lnktype="intlnk" title="" class="doc">ст. 410</span>&nbsp;НК, <span num="44" target="_self" lnktype="intlnk" title="" class="doc">п. 1</span> ч. 2 ст. 411 НК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как рассчитать налог на имущество с объекта незавершенного строительства, если строительство идет 2 года&#160;и объект&#160;не принят на баланс&#160;</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr24/"></a><a data-anchor="/document/16/210478/dfashv0mgf/" data-dfa="dfashv0mgf"></a>Объектом обложения налогом на имущество юридических лиц служит недвижимое имущество (<span num="61" target="_self" lnktype="intlnk" title="" class="doc">ст. 411</span> НК). Объекты незавершенного строительства относятся к&nbsp;недвижимому имуществу.</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr25/"></a><a data-anchor="/document/16/210478/dfasfi1ox4/" data-dfa="dfasfi1ox4"></a>К объектам незавершенного строительства относят&nbsp;объекты, строительство которых не завершено в нормативный срок, установленный проектно-сметной документацией на строительство этого объекта. А если нормативный срок строительства не установлен, то в течение 24 месяцев начиная с месяца, в котором получено разрешение уполномоченного органа на строительство этого объекта.</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr26/"></a><a data-anchor="/document/16/210478/dfassl3f24/" data-dfa="dfassl3f24"></a>Налоговой базой по объектам незавершенного строительства служит среднегодовая стоимость незавершенного строительства (<span num="62" target="_self" lnktype="intlnk" title="" class="doc">п. 2</span> ч. 1 ст. 412 НК).</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr27/"></a><a data-anchor="/document/16/210478/dfasg51gm9/" data-dfa="dfasg51gm9"></a>По объектам незавершенного в нормативный срок строительства налоговая ставка установлена в размере 3 процента (<span num="63" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 415 НК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должно ли иностранное юрлицо платить&#160;налог&#160;на имущество, если приобретет в собственность недвижимость в РУз&#160;</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210478/bssPhr29/"></a><a data-anchor="/document/16/210478/dfas7cbk9f/" data-dfa="dfas7cbk9f"></a>Да, должно.</p><p><a data-anchor="/document/16/210478/bssPhr30/"></a><a data-anchor="/document/16/210478/dfas4oca9w/" data-dfa="dfas4oca9w"></a>Плательщиками налога на имущество юридических лиц признаются юридические лица – нерезиденты Республики Узбекистан, имеющие в собственности недвижимое имущество на территории Республики Узбекистан (<span num="83" target="_self" lnktype="intlnk" title="" class="doc">п. 2</span> ч. 1 ст. 410 НК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>С какой даты возникает налоговое обязательство по налогу на имущество юрлиц на здание, полученное в качестве вклада в УФ</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr32/"></a><a data-anchor="/document/16/210478/dfas5bvuqd/" data-dfa="dfas5bvuqd"></a>Объект обложения налогом на имущество юридических лиц&nbsp;– налоговое обязательство&nbsp;возникает с <strong>даты государственной регистрации права</strong> на недвижимое имущество, которая указана в Выписке из Государственного реестра прав на недвижимое имущество,&nbsp;выдаваемой на основании заявки (приложение № 3 к Административному регламенту оказания государственных услуг по государственной регистрации прав на недвижимое имущество, утв. <span num="94" target="_self" lnktype="intlnk" title="" class="doc">постановлением Кабмина&nbsp;от 02.09.2020&nbsp;№ 535</span>).</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr33/"></a><a data-anchor="/document/16/210478/dfas1v6xub/" data-dfa="dfas1v6xub"></a>&nbsp;Юридические лица или их уполномоченные представители при возникновении, переходе к другому лицу права собственности на недвижимое имущество <strong>в течение одного месяца со дня возникновения таких обстоятельств </strong> обращаются для государственной регистрации возникновения, перехода к другому лицу прав на недвижимое имущество через Единый портал интерактивных государственных услуг РУз, с приложением&nbsp;правоустанавливающих документов (п. 4 Административного регламента оказания государственных услуг по государственной регистрации прав на недвижимое имущество, утв. <span num="95" target="_self" lnktype="intlnk" title="" class="doc">постановлением Кабмина от 02.09.2020 № 535</span>).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Подлежат ли обложению&#160;налогом на имущество&#160;высоковольтная линия электропередач&#160;и трансформатор</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr35/"></a><a data-anchor="/document/16/210478/dfasvdigag/" data-dfa="dfasvdigag"></a>Да, подлежат.</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr36/"></a><a data-anchor="/document/16/210478/dfasie77sr/" data-dfa="dfasie77sr"></a>Объектом обложения налогом на имущество юридических лиц служит недвижимое имущество. К недвижимому имуществу, в частности, относят&nbsp;линии связи и электропередач, а также сооружения – неотъемлемые технологические части указанных объектов (<span num="107" target="_self" lnktype="intlnk" title="" class="doc">п. 3</span> ч. 2 ст. 411 НК). Исходя из этого, высоковольтная линия электропередач&nbsp;и трансформатор подлежат обложению налогом на имущество.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>С какой даты платить налог на имущество по приобретенному&#160;зданию,&#160; если договор составлен в июне, акт приема-передачи тоже в июне, а&#160;кадастр вышел в июле</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr38/"></a><a data-anchor="/document/16/210478/dfas6g88f9/" data-dfa="dfas6g88f9"></a>Если договор купли-продажи и акт приема-передачи недвижимости датирован&nbsp;июнем, следовательно, на эту дату возникло налоговое обязательство по налогу на имущество. Таким образом, в графе 3 (Дата возникновения права собственности) приложения к Справке об исчислении авансовых платежей по налогу на имущество юридических лиц должна быть отражена дата подписания договора.</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr39/"></a><a data-anchor="/document/16/210478/dfasa8ssrk/" data-dfa="dfasa8ssrk"></a>В течение налогового периода плательщики налога на имущество, за исключением юридических лиц – нерезидентов РУз, не осуществляющих деятельность в Республике Узбекистан через постоянные учреждения, уплачивают авансовые платежи по налогу (<span num="121" target="_blank" lnktype="intlnk" title="" class="doc">ч. 4</span> ст. 417 НК).</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr40/"></a><a data-anchor="/document/16/210478/dfasstk4z5/" data-dfa="dfasstk4z5"></a>Для исчисления размера авансовых платежей налогоплательщики, у которых обязательства по налогу возникли в течение налогового периода, справку о сумме налога представляют не позднее тридцати дней с даты возникновения налогового обязательства (<span num="122" target="_blank" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 417 НК).</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr41/"></a><a data-anchor="/document/16/210478/dfasm1ga0a/" data-dfa="dfasm1ga0a"></a>Налоговая отчетность по налогу на имущество формируется автоматически на основании данных кадастровых органов.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязано ли ООО уплачивать налог по двойной ставке, если строительство объекта начато в 2020 г., а&#160;продление регистрации объекта было получено&#160;через my.gov.uz&#160;10.12.2024 г.</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr43/"></a><a data-anchor="/document/16/210478/dfas6syegp/" data-dfa="dfas6syegp"></a>Да, обязано.</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr44/"></a><a data-anchor="/document/16/210478/dfasocagb0/" data-dfa="dfasocagb0"></a>Так как строительство объекта было начато в 2020 году, то&nbsp;с месяца, в котором получено разрешение уполномоченного органа на строительство этого объекта уже истек срок 24 месяца, и в целях определения объекта обложения налогом на имущество этот объект относится к объекту незавершенного строительства.</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr45/"></a><a data-anchor="/document/16/210478/dfas4pmvrb/" data-dfa="dfas4pmvrb"></a>Если в проектно-сметной документации на строительство объекта не установлен нормативный срок строительства, и начиная с месяца, в котором получено разрешение уполномоченного органа на строительство этого объекта истек срок 24 месяца, то в целях определения объекта обложения налогом на имущество этот объект относится к объекту незавершенного строительства&nbsp; (<span num="137" target="_blank" lnktype="intlnk" title="" class="doc">приложение №5</span> к Постановлению Кабмина от 20.04.2022 №200). Следовательно, по нему возникают обязательства по исчислению, представлению налоговой отчетности и уплате налога на имущество.&nbsp;В отношении объектов незавершенного в нормативный срок строительства ставка налога на имущество установлена в размере 3 процента (<span num="152" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 415 НК).</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr46/"></a><a data-anchor="/document/16/210478/dfasnx6cie/" data-dfa="dfasnx6cie"></a>Полученное 10.12.2024 г. через Единый портал интерактивных государственных услуг (my.gov.uz) продление регистрации для продолжения строительно-монтажных работ не запускает новый 24-месячный срок для целей налогообложения. Оно подтверждает право продолжить строительство и не влияет на налоговую квалификацию «незавершенного строительства» после истечения 24 месяцев.</p></div></div></div><a data-anchor="/document/16/210478/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210478/bssPhr47/"></a><a data-anchor="/document/16/210478/dfas0ut6k7/" data-dfa="dfas0ut6k7"></a>Неплательщики налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210478/bssPhr49/"></a><a data-anchor="/document/16/210478/dfasy7m6a5/" data-dfa="dfasy7m6a5"></a>На постоянной основе от уплаты налога на имущество освобождены (<span num="23" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 414 НК):</p><ul class="c-list"><li><a data-anchor="/document/16/210478/bssPhr50/"></a><a data-anchor="/document/16/210478/dfas0m1hfe/" data-dfa="dfas0m1hfe"></a>юрлица, единственными участниками которых являются общественные объединения лиц с инвалидностью, в общей численности которых лица с инвалидностью составляют не менее 50 процентов, а фонд оплаты труда лиц с инвалидностью составляет не менее 50 процентов от общего ФОТ;</li><li>производители энергии из возобновляемых источников энергии – за установки возобновляемых источников энергии (номинальной мощностью 0,1 МВт и более) сроком на 10 лет с момента ввода их в эксплуатацию;</li><li>антенно-мачтовые металлоконструкции, расположенные в сельской местности (за исключением городов и районных центров), включая конструкции, установленные на них и являющиеся их неотъемлемой частью.</li></ul><p><a data-anchor="/document/16/210478/bssPhr51/"></a><a data-anchor="/document/16/210478/dfasr2soki/" data-dfa="dfasr2soki"></a><a data-anchor="/document/16/210478/dfasix6vxn/" data-dfa="dfasix6vxn"></a>Кроме того, не являются объектами налогообложения недвижимое имущество:</p><ul class="c-list"><li><a data-anchor="/document/16/210478/bssPhr52/"></a><a data-anchor="/document/16/210478/dfas3b6idp/" data-dfa="dfas3b6idp"></a>используемое некоммерческими организациями в рамках осуществления некоммерческой деятельности;</li><li>жилищно- коммунального хозяйства и другого городского хозяйства общегражданского назначения, используемые по целевому назначению;</li><li>автомобильные дороги общего пользования;</li><li>оросительной и коллекторно-дренажной сети;</li><li>гражданской защиты и мобилизационного назначения, находящиеся на балансе налогоплательщика и не используемые в предпринимательской деятельности;</li><li>используемые для природоохранных и санитарно-очистных целей, пожарной безопасности. Объекты относят к используемым для природоохранных, санитарно-очистных целей и пожарной безопасности на основании справки соответствующего органа по экологии и охране окружающей среды или государственного пожарного надзора;</li><li>земельные участки (<span num="12" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 411 НК).</li></ul><p><a data-anchor="/document/16/210478/bssPhr53/"></a><a data-anchor="/document/16/210478/dfassgnkg5/" data-dfa="dfassgnkg5"></a>К объектам жилищно-коммунального и другого городского хозяйства общегражданского назначения относятся объекты санитарной очистки, благоустройства и озеленения, наружного освещения городов и поселков, водопроводные (с водозаборными и очистными сооружениями), канализационные (с очистными сооружениями), газовые, котельные и тепловые распределительные сети (с сооружениями на них) для коммунально-бытовых нужд и населения, а также здания, предназначенные для оказания технических услуг и ремонта объектов жилищно-коммунального хозяйства, оказания услуг управляющими организациями или управляющими многоквартирными домами по управлению, техническому обслуживанию и ремонту общего имущества, благоустройству земельных участков, прилегающих к многоквартирным домам.</p><p><a data-anchor="/document/16/210478/bssPhr54/"></a><a data-anchor="/document/16/210478/dfasxqoem7/" data-dfa="dfasxqoem7"></a>Освобождение от уплаты налога на имущество на постоянной основе и на определенный срок может быть предусмотрено по другим нормативно-правовым актам . Подробнее о льготах читайте в справочнике «<span num="24" target="_self" lnktype="intlnk" title="" class="doc">Льготы по налогу на имущество</span>».</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210478/bssPhr55/"></a><a data-anchor="/document/16/210478/dfasf61gg5/" data-dfa="dfasf61gg5"></a>Как заплатить налог&nbsp;на имущество некоммерческой организации</name></p><div class="incut-v4__content" data-incut-content=""><p style="margin-right:1pt"><a data-anchor="/document/16/210478/bssPhr56/"></a><a data-anchor="/document/16/210478/dfasgzilkk/" data-dfa="dfasgzilkk"></a><a data-anchor="/document/16/210478/dfas7f8ggt/" data-dfa="dfas7f8ggt"></a>Некоммерческая организация – частный детский сад «Солнышко» построил на своей территории цех по пошиву постельного белья.</p><p style="margin-right:1pt"><a data-anchor="/document/16/210478/bssPhr57/"></a><a data-anchor="/document/16/210478/dfas7bddnz/" data-dfa="dfas7bddnz"></a>Так как деятельность по пошиву не связана с основной деятельностью этой организации, то детский сад по зданию цеха налог на имущество должен уплачивать в общеустановленном порядке.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должна ли ННО &#8211; московский ВУЗ платить&#160;налог на имущество</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr59/"></a><a data-anchor="/document/16/210478/dfaswi3zap/" data-dfa="dfaswi3zap"></a>Не должна за объекты недвижимого имущества, которые использует в рамках некоммерческой деятельности.</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr60/"></a><a data-anchor="/document/16/210478/dfasp90eer/" data-dfa="dfasp90eer"></a>Объекты недвижимого имущества, которые некоммерческие организации используют&nbsp;в рамках некоммерческой деятельности, не являются&nbsp;объектом обложения налогом на имущество (<span num="51" target="_self" lnktype="intlnk" title="" class="doc">п. 1</span> ч. 3 ст. 411 НК).</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr61/"></a><a data-anchor="/document/16/210478/dfas5o69tn/" data-dfa="dfas5o69tn"></a>Некоммерческой организацией признают&nbsp;юридическое лицо, которое зарегистрировано&nbsp;в форме, установленной законодательством для некоммерческой организации,&nbsp;не имеет цели извлечения дохода и&nbsp;не распределяет доходы или имущество между участниками, членами (<span num="52" target="_self" lnktype="intlnk" title="" class="doc">ст. 58</span> НК).</p><p style="text-align:left"><a data-anchor="/document/16/210478/bssPhr62/"></a><a data-anchor="/document/16/210478/dfasblzkek/" data-dfa="dfasblzkek"></a>Следовательно, если организация соответствует условиям, предусмотренным в <span num="53" target="_self" lnktype="intlnk" title="" class="doc">статье 58</span> НК, то она не уплачивает&nbsp;налог на имущество.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может ли организация приобрести квартиру&#160;в многоквартирном доме и какие налоговые обязательства при этом возникнут</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210478/bssPhr64/"></a><a data-anchor="/document/16/210478/dfas04gm5s/" data-dfa="dfas04gm5s"></a>Да, может.&nbsp;Законодательство&nbsp;не запрещает&nbsp;юридическим&nbsp;лицам&nbsp;приобретать квартиры&nbsp;в многоквартирном доме.</p><p><a data-anchor="/document/16/210478/bssPhr65/"></a><a data-anchor="/document/16/210478/dfasku25gd/" data-dfa="dfasku25gd"></a>В этом случае у организации возникает обязательство по уплате налога на имущество юрлиц в соответствии с <span num="72" target="_self" lnktype="intlnk" title="" class="doc">пунктом 1</span> части 2 статьи 411 НК.</p><p><a data-anchor="/document/16/210478/bssPhr66/"></a><a data-anchor="/document/16/210478/dfasbczmh3/" data-dfa="dfasbczmh3"></a>Если организация использует данную квартиру по прямому назначению, в качестве жилья, то у организации не возникает&nbsp;обязательство по земельному налогу с юридических лиц (<span num="73" target="_self" lnktype="intlnk" title="" class="doc">п. 12</span> ч. 2 ст. 426 НК).</p></div></div></div><p><a data-anchor="/document/16/210478/dfasvgpm4n/" data-dfa="dfasvgpm4n"></a><a data-anchor="/document/16/210478/bssPhr67/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Указ Президента РУз от 08.05.2023 № УП-67</div><h2 class="auth__title">О первоочередных мерах по реализации Конституции Республики Узбекистан в новой редакции</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/12804/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/12804/dfasvbetbg/"></a>&#160;Указ</p><p style="text-align:center"><a data-anchor="/document/90/12804/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/12804/dfasuu4byh/"></a>Президента Республики Узбекистан</p><p style="text-align:center"><a data-anchor="/document/90/12804/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/12804/dfasq4oms7/"></a><strong>О первоочередных мерах по реализации Конституции Республики Узбекистан в новой редакции</strong></p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/12804/dfas14q2n9/"></a>Принятие Конституции Республики Узбекистан в новой редакции на проведенном в нашей стране 30 апреля 2023 года референдуме 90,21 процента голосов участвовавших граждан свидетельствует об отражении в ней надежд и устремлений нашего народа на пути построения Нового Узбекистана.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/12804/dfasrd5lpx/"></a>Конституция в новой редакции создала политико-правовые основы реализации Стратегии Нового Узбекистана, определила приоритетные направления дальнейшего развития государства и общества на исторически важном этапе совершенствования национальной государственности.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/12804/dfasr154lg/"></a>Референдум стал убедительным проявлением единства и сплоченности нашего многонационального великого народа, его твердого решения построить суверенное, демократическое, правовое, социальное и светское государство.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/12804/dfasf86mx5/"></a>В частности, в Конституции определено, что новой стратегической целью государственного строительства является построение социального государства, внедрены принципы социальной справедливости и единства, закреплены конституционные основы, предусматривающие абсолютно новые механизмы защиты прав и свобод человека.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/12804/dfasumh0i9/"></a>С учетом современной концепции принципа разделения властей и системы сдержек и противовесов перераспределены полномочия между Олий Мажлисом, Президентом Республики Узбекистан и Правительством. Предусмотрена новая модель организации государственной власти, основанной на распределении полномочий хокимов и Кенгашей народных депутатов на местах.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/12804/dfasnarbds/"></a>В целях неукоснительной и полной реализации Конституции Республики Узбекистан в новой редакции, претворения в жизнь закрепленных в ней приоритетных принципов в созвучии с идеей Нового Узбекистана, налаживания деятельности государственных органов в новых конституционно-правовых условиях, а также обеспечения реального восприятия нашими гражданами в своей жизни духа подлинно народной Конституции:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/12804/dfaso71pst/"></a>1. Определить первоочередной приоритетной задачей государственных органов и организаций всех уровней неукоснительную и полную реализацию Конституции в новой редакции.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/12804/dfashf04z8/"></a>2. Установить, что:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/12804/dfas4pur7n/"></a>руководители государственных органов и организаций несут персональную ответственность за своевременное обеспечение исполнения мер по реализации Конституции в новой редакции;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/12804/dfasma625y/"></a>исходя из того, что Конституция в новой редакции имеет высшую юридическую силу, она применяется напрямую и неукоснительно в деятельности государственных органов и организаций, в том числе судебных и правоохранительных органов;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/12804/dfasi65zuf/"></a>отказ в применении норм Конституции в новой редакции под предлогом отсутствия иных актов законодательства для их реализации или невнесения изменений и дополнений в законодательство в соответствии с Конституцией категорически запрещается.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/12804/dfas09l23h/"></a>3. Утвердить Программу мер по реализации задач, вытекающих из Конституции Республики Узбекистан в новой редакции (далее &#8211; программа), согласно приложению № 1.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/12804/dfasf69wgx/"></a>4. Создать:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/12804/dfas59wai8/"></a>Государственную комиссию по реализации приоритетных идей и претворению в жизнь норм Конституции Республики Узбекистан в новой редакции (далее &#8211; Государственная комиссия) согласно приложению № 2;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/12804/dfasopkdbz/"></a>Экспертные советы по последовательной реализации принципов суверенного, демократического, правового, социального и светского государства, закрепленных в Конституции Республики Узбекистан в новой редакции (далее &#8211; экспертные советы), согласно приложениям №№ 3&#8211;7.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/12804/dfasmhoffc/"></a>5. Определить, что Государственная комиссия:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/12804/dfas8i1iq9/"></a>обеспечивает своевременное и качественное проведение мер, направленных на реализацию Конституции в новой редакции и программы;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/12804/dfasgt1www/"></a>координирует деятельность государственных органов и организаций, экспертных советов по реализации Конституции в новой редакции и программы;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/12804/dfasi3lmg8/"></a>создает условия для участия широкой общественности, институтов гражданского общества, научных кругов и зарубежных экспертов в реализации Конституции в новой редакции и программы;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/12804/dfasae3gor/"></a>не реже двух раз в год критически и в расширенном составе обсуждает работу, проведенную в рамках реализации Конституции в новой редакции, а также заслушивает отчеты руководителей государственных органов и организаций, экспертных советов.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/12804/dfasonr2iy/"></a>6. Экспертным советам (Нарбаева Т., Исмоилов Н., Йулдошев Н., Кучкаров Д., Ташкулов А.):</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/12804/dfasfxum75/"></a>в срок до 1 января 2024 года обеспечить разработку и внесение в Государственную комиссию среднесрочных и долгосрочных концепций развития суверенного, демократического, правового, социального и светского государства;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/12804/dfaskhzl9k/"></a>проводить мониторинг за отражением в разрабатываемых проектах нормативно-правовых актов приоритетных принципов суверенного, демократического, правового, социального и светского государства, закрепленных в Конституции в новой редакции;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/12804/dfas207qpu/"></a>ежеквартально вносить в Государственную комиссию отчет о реализации Конституции в новой редакции и программы.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/12804/dfas7s3vxd/"></a>7. Определить Институт законодательства и правовой политики при Президенте Республики Узбекистан ответственным за информационно-аналитическое, научное и экспертное обеспечение процесса реализации Конституции в новой редакции и возложить на него следующие дополнительные задачи:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/12804/dfas6zf9ny/"></a>проведение научной экспертизы проектов нормативно-правовых актов, разработанных в соответствии с Конституцией в новой редакции;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/12804/dfas520l2h/"></a>осуществление мониторинга состояния прямого применения норм Конституции в новой редакции в деятельности государственных, особенно судебных и правоохранительных органов;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/12804/dfasfh7363/"></a>координацию научно-методических мер по подготовке новых учебных программ, учебников и других пособий на основе Конституции в новой редакции.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/12804/dfase6kqga/"></a>8. Одобрить предложения палат Олий Мажлиса и политических партий о введении избирательной системы формирования депутатского корпуса Законодательной палаты Олий Мажлиса и местных Кенгашей на мажоритарно-пропорциональной основе.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/12804/dfaszbm5fd/"></a>Рекомендовать Законодательной палате Олий Мажлиса в месячный срок разработать проект закона, предусматривающий переход на избирательную систему на мажоритарно-пропорциональной основе.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/12804/dfasc1aln9/"></a>9. В целях обеспечения полной реализации права на свободное передвижение по стране, выбор места пребывания и жительства, определенного в статье 32 Конституции в новой редакции:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/12804/dfas24losy/"></a>Кабинету Министров (Арипов А.) в двухмесячный срок внести в Законодательную палату Олий Мажлиса проект закона о признании утратившим силу Закона Республики Узбекистан &#171;О Перечне категорий лиц &#8211; граждан Республики Узбекистан, подлежащих регистрации по месту постоянного проживания в городе Ташкенте и Ташкентской области&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/12804/dfasf2v5vw/"></a>Министерству внутренних дел (Бобожонов П.) в месячный срок представить проект Указа Президента Республики Узбекистан, предусматривающий новые механизмы, направленные на внедрение уведомительного порядка при регистрации граждан по месту проживания.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/12804/dfasse3m9n/"></a>10. В целях реализации определенных в статье 78 Конституции в новой редакции норм о формировании у детей и молодежи приверженности национальным и общечеловеческим ценностям, гордости за страну и богатое культурное наследие народа, чувства патриотизма и любви к Родине, начиная с 1 сентября 2023 года ввести порядок бесплатного посещения детьми в возрасте до 18 лет, являющимися гражданами республики, объектов культурного наследия, в том числе выставок, исторических памятников и мест поклонения, а также государственных музеев.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/12804/dfaszcvtgv/"></a>Рекомендовать палатам Олий Мажлиса принятие в короткие сроки проекта закона &#171;Об уполномоченном Олий Мажлиса Республики Узбекистан по правам ребенка (Детском омбудсмане)&#187; в целях обеспечения и защиты прав, свобод и законных интересов ребенка, создания достойных условий для полноценного физического, умственного и культурного развития ребенка.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/12804/dfasu3iy33/"></a>11. В целях дальнейшего усиления гарантий прав граждан на получение образования, определенных в статье 50 Конституции в новой редакции, начиная с 1 августа 2023 года отнести платежи, направляемые налогоплательщиками на получение образования детей, независимо от их возраста, в образовательных организациях Республики Узбекистан, к категории доходов, не облагаемых налогом.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/12804/dfasffhgx5/"></a>12. Исходя из требований статей 41, 65&#8211;67 Конституции в новой редакции, а также в целях обеспечения надежной защиты имущественных прав, предотвращения факторов, ограничивающих эти права, недопущения необоснованного вмешательства в имущественные отношения с 1 июня 2023 года отменить:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/12804/dfasxhpw3c/"></a>порядок оформления и представления электронных счетов-фактур организациями, оказывающими платежные услуги, за оказанные ими услуги при осуществлении денежных переводов между физическими лицами;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/12804/dfas8hugsz/"></a>ограничения относительно времени осуществления деятельности для объектов розничной торговли и оказания услуг.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/12804/dfas6a284k/"></a>13. Министерству экономики и финансов (Кудбиев Ш.) совместно с Центральным банком (Нурмуратов М.), Министерством инвестиций, промышленности и торговли (Кудратов Л.), Министерством природных ресурсов (Абдухакимов А.) в двухмесячный срок внести в Кабинет Министров проект постановления по внедрению механизмов &#171;зеленого финансирования&#187;, в том числе &#171;зеленого сертификата&#187;, &#171;зеленых кредитов&#187; и иных широко используемых в международной практике институтов.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/12804/dfaszlk0g0/"></a>14. В целях дальнейшего усиления гарантий судебной защиты прав и свобод каждым лицом, определенных в статье 55 Конституции в новой редакции, начиная с 1 января 2024 года ввести порядок, согласно которому с граждан и субъектов предпринимательства не взимается государственная пошлина при обжаловании в административные суды, с взысканием государственной пошлины с виновной стороны по результатам рассмотрения дела.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/12804/dfascn60lh/"></a>Верховному суду (Исламов Б.) совместно с Министерством юстиции (Ташкулов А.), Министерством экономики и финансов (Кудбиев Ш.) в срок до 1 октября 2023 года внести в Законодательную палату Олий Мажлиса проект закона по вопросу, предусмотренному в настоящем пункте.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/12804/dfasamge4g/"></a>15. В целях внедрения в жизнь принципа соразмерности при применении мер правового воздействия, определенного в статье 21 Конституции в новой редакции, Министерству юстиции (Ташкулов А.) совместно с Верховным судом (Исламов Б.), Генеральной прокуратурой (Йулдошев Н.), Министерством внутренних дел (Бобожонов П.) и Министерством экономики и финансов (Кудбиев Ш.) внести предложения:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/12804/dfasffdhs7/"></a>в двухмесячный срок &#8211; по исключению из законодательства об административной ответственности мер ответственности, вытекающих из договорных и иных гражданско-правовых отношений;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/12804/dfasgdm00h/"></a>в срок до 1 января 2024 года &#8211; по проведению полной инвентаризации законодательной базы и приведению определенных в ней мер правового воздействия в соответствие с принципом соразмерности.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/12804/dfas1xu0gs/"></a>16. Министерству юстиции (Ташкулов А.) совместно с Министерством экономики и финансов (Кудбиев Ш.), Верховным судом (Исламов Б.) и Генеральной прокуратурой (Йулдошев Н.) в двухмесячный срок разработать и внести в установленном порядке проект постановления Президента Республики Узбекистан, предусматривающий механизмы обеспечения полной реализации определенного в статье 29 Конституции в новой редакции обязательства государства по созданию условий для возмещения ущерба, причиненного потерпевшим от правонарушений.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/12804/dfasi75lam/"></a>17. В целях дальнейшего укрепления гарантий неприкосновенности чести и достоинства человека, определенных в статье 26 Конституции в новой редакции, Генеральной прокуратуре (Йулдошев Н.) совместно с Министерством внутренних дел (Бобожонов П.), Верховным судом (Исламов Б.) и Службой государственной безопасности (Азизов А.) в срок до 1 августа 2023 года внести обоснованные предложения по внедрению при применении меры пресечения в виде заключения под стражу порядка обязательного медицинского освидетельствования лица до его помещения в изолятор.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/12804/dfas1f9pl5/"></a>18. Исходя из требований статьи 142 Конституции в новой редакции:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/12804/dfas1dfhh1/"></a>а) в целях усиления статуса защитника в уголовном процессе предоставить ему следующие дополнительные права и полномочия:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/12804/dfasoa91gr/"></a>снятие защитником в любое время копии решений о возбуждении и прекращении уголовного дела в процессе дознания и предварительного следствия;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/12804/dfas4eafpe/"></a>внесение непосредственно в суд ходатайства о предварительном закреплении показаний (депонирование);</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/12804/dfasupmn9t/"></a>участие в статусе защитника в процессе доследственной проверки в целях гарантирования права пользования квалифицированной юридической помощью лицам, в отношении которых ведется доследственная проверка;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/12804/dfasmi2g2h/"></a>организация проведения судебных экспертиз по делу и привлечения специалистов, обладающих необходимыми знаниями, на договорной основе;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/12804/dfasuqb2g0/"></a>использование специальных технических средств при проведении опроса лиц, обладающих сведениями об уголовном деле, с их согласия;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/12804/dfasbr7tgg/"></a>б) в целях активного привлечения молодых кадров в сферу адвокатуры разрешить с 1 сентября 2023 года студентам выпускного курса, обучающимся по направлению образования &#171;юриспруденция&#187; высших образовательных организаций, осуществлять деятельность в адвокатских формированиях в качестве помощника адвоката в свободное от учебы время в соответствии с трудовым законодательством.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/12804/dfaswh6pqd/"></a>Министерству юстиции (Ташкулов А.) совместно с Верховным судом (Исламов Б.), Генеральной прокуратурой (Йулдошев Н.), Службой государственной безопасности (Азизов А.) и Министерством внутренних дел (Бобожонов П.) в двухмесячный срок внести в установленном порядке проект закона, предусматривающий расширение прав и полномочий защитника, а также совершенствование порядка осуществления деятельности в качестве помощника адвоката.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/12804/dfasg6faqm/"></a>19. Генеральной прокуратуре (Йулдошев Н.) совместно с Министерством внутренних дел (Бобожонов П.), Национальной гвардией (Джураев Р.) и Службой государственной безопасности (Азизов А.) в месячный срок обеспечить размещение в общедоступных местах зданий правоохранительных, в том числе следственных органов наглядных материалов, подробно информирующих о конституционных процессуальных правах задержанных и находящихся под следствием лиц.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/12804/dfasya8n6y/"></a>20. Республиканскому научно-методическому центру развития образования совместно с Министерством дошкольного и школьного образования (Умарова Х.), Министерством высшего образования, науки и инноваций (Абдурахманов И.), Министерством юстиции (Ташкулов А.) и другими заинтересованными ведомствами до начала 2023/2024 учебного года принять меры по:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/12804/dfasipd191/"></a>пересмотру и приведению в соответствие с нормами и положениями Конституции в новой редакции учебных планов и программ по изучению Конституции всех видов и этапов образования;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/12804/dfasxwb14k/"></a>созданию учебников, учебных пособий и специальной литературы по изучению Конституции в новой редакции на основе современных методик для учащихся с учетом их возрастных особенностей.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/12804/dfasrh0zkk/"></a>Расходы, связанные с осуществлением мер, указанных в настоящем пункте, покрывать за счет средств Государственного бюджета.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/12804/dfasg04vvz/"></a>21. Агентству развития государственной службы (Мирзаев Г.) совместно с Министерством юстиции (Ташкулов А.), Высшим судейским советом (Ёдгоров Х.) и правоохранительными органами в месячный срок утвердить План обучения по Конституции в новой редакции государственных гражданских служащих и работников судебно-правовой системы в 2023&#8211;2024 годах, предусматривающий:</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/12804/dfascgpoq8/"></a>организацию обучения сути и содержанию Конституции в новой редакции государственных гражданских служащих и работников судебно-правовой системы всех звеньев на основе отдельного графика;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/12804/dfaseoiw1k/"></a>пересмотр системы повышения и оценки конституционной культуры и правовой грамотности государственных гражданских служащих и работников судебно-правовой системы с точки зрения приведения их в соответствие с Конституцией в новой редакции.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/12804/dfasgg5rsz/"></a>22. Одобрить предложение палат Олий Мажлиса, Конституционного суда, Института законодательства и правовой политики при Президенте Республики Узбекистан, а также Национального центра по правам человека о подготовке постатейного научно-практического комментария Конституции в новой редакции.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/12804/dfaspbulcr/"></a>Сформировать Редакционный совет по подготовке постатейного научно-практического комментария Конституции в новой редакции в составе согласно приложению № 8 и определить его рабочим органом Институт законодательства и правовой политики при Президенте Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/12804/dfasuh06hv/"></a>Редакционному совету (Рахманкулов М.):</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/12804/dfasx1gkhg/"></a>при подготовке комментария уделять внимание раскрытию потенциала Конституции в новой редакции в объединении нашего многонационального народа, отображенных в ней принципов суверенного, демократического, правового, социального и светского государства, новых механизмов защиты прав и свобод человека, а также составлению текста комментария на понятном и доступном для широких слоев населения, особенно молодежи, языке;</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/12804/dfasg7br8m/"></a>в срок до 1 декабря 2023 года принять меры по обеспечению подготовки текста комментария и его изданию на узбекском и иностранных языках с привлечением ведущих национальных и зарубежных экспертов, правоведов и государственных деятелей.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/12804/dfas4vbph5/"></a>23. Министерству цифровых технологий (Шерматов Ш.) совместно с Институтом законодательства и правовой политики при Президенте Республики Узбекистан (Рахманкулов М.) и Министерством юстиции (Ташкулов А.) в срок до 1 июня 2023 года обеспечить запуск Единого национального портала &#171;Конституция Нового Узбекистана&#187; (далее &#8211; портал) и его мобильного приложения на узбекском и иностранных языках.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/12804/dfashch9rg/"></a>При этом предусмотреть на портале и его мобильном приложении возможность направления гражданами и предпринимателями предложений по решению проблем, возникающих при приведении законодательства в соответствие с Конституцией в новой редакции, а также ее реализации.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/12804/dfaslbmww6/"></a>24. Министерству юстиции (Ташкулов А.) совместно с Институтом законодательства и правовой политики при Президенте Республики Узбекистан (Рахманкулов М.) в трехмесячный срок внести в Кабинет Министров предложения о пересмотре норм, подлежащих приведению в соответствие с Конституцией в новой редакции, по итогам инвентаризации подзаконных актов и обобщения предложений, поступивших на портал.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/12804/dfasklhne7/"></a>25. Рекомендовать Национальному информационному агентству Узбекистана и Национальной телерадиокомпании Узбекистана широко освещать в средствах массовой информации претворение в жизнь Конституции в новой редакции, в том числе положительные изменения, происходящие в жизни людей.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/12804/dfasm2tnox/"></a>26. Возложить на руководителей министерств и ведомств, предусмотренных программой в качестве исполнителей, экспертных советов, Председателя Совета Министров Республики Каракалпакстан, хокимов областей и города Ташкента персональную ответственность за эффективную организацию исполнения настоящего Указа.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/12804/dfasl2sth1/"></a>Обсуждение хода исполнения настоящего Указа, осуществление координации и контроля за деятельностью организаций, ответственных за его исполнение, возложить на Премьер-министра Республики Узбекистан Арипова А.Н. и руководителя Администрации Президента Республики Узбекистан Умурзакова С.У.</p><p style="text-align:left"><a data-anchor="/document/90/12804/bssPhr79/" data-role="phrase-anchor" data-phrase-id="79" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr79"></a><a data-anchor="/document/90/12804/dfasmavb7q/"></a><strong>Президент&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;Республики Узбекистан Ш. МИРЗИЁЕВ</strong></p><p style="text-align:center"><a data-anchor="/document/90/12804/bssPhr80/" data-role="phrase-anchor" data-phrase-id="80" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr80"></a><a data-anchor="/document/90/12804/dfasfloidz/"></a>г. Ташкент,<br>8 мая 2023г.,</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

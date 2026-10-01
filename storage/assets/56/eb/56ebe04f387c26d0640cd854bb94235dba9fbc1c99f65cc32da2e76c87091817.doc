@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как правильно оформить хозяйственный договор. Раздел «Цена и порядок оплаты»</h2><div class="doc-snippet"><a data-anchor="/document/16/221638/dfas405vsg/" data-dfa="dfas405vsg"></a><a data-anchor="/document/16/221638/bssPhr2/"></a>В рекомендации найдете ответы на вопросы: какие условия определяет раздел хоздоговора «Цена и порядок оплаты», что означают понятия цена договора и ценообразование, как производить расчеты и оплату по договору. Эксперты пояснили, какие условия определения цены и порядка расчетов следует соблюдать и в какой форме производить безналичные расчеты. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/221638/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221638/bssPhr3/"></a><a data-anchor="/document/16/221638/dfassa3auo/" data-dfa="dfassa3auo"></a>Какие условия определяет раздел хоздоговора «Цена и порядок оплаты»</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221638/bssPhr5/"></a><a data-anchor="/document/16/221638/dfasfy3z7g/" data-dfa="dfasfy3z7g"></a>Цену и порядок оплаты нужно предусматривать во всех видах хоздоговора (<span num="1" lnktype="intlnk" title="Статья 10. Требования, предъявляемые к хозяйственному договору" class="doc">ст. 10 Закона</span> «О договорно-правовой базе деятельности хозяйствующих субъектов»).</p><p><a data-anchor="/document/16/221638/bssPhr6/"></a><a data-anchor="/document/16/221638/dfash3rts3/" data-dfa="dfash3rts3"></a>Цена в <span num="3" lnktype="intlnk" title="Возмездные договоры" class="doc">возмездном договоре</span> определяет размер встречного обязательства стороны, получившей товар.</p><p><a data-anchor="/document/16/221638/bssPhr7/"></a><a data-anchor="/document/16/221638/dfaswg7q36/" data-dfa="dfaswg7q36"></a>Цена в <span num="5" lnktype="intlnk" title="Безвозмездные договора" class="doc">безвозмездном договоре</span> нужна для определения налогооблагаемой базы и исчисления налога на прибыль (подоходный налог) стороны, безвозмездно получившей товар.</p><p><a data-anchor="/document/16/221638/bssPhr8/"></a><a data-anchor="/document/16/221638/dfas0niwtr/" data-dfa="dfas0niwtr"></a>Цену и порядок оплаты выделяйте в отдельный раздел, это позволит урегулировать встречные обязательства сторон.</p></div><a data-anchor="/document/16/221638/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221638/bssPhr9/"></a><a data-anchor="/document/16/221638/dfas2vk7zl/" data-dfa="dfas2vk7zl"></a><a data-anchor="/document/16/221638/dfasnt4xdu/" data-dfa="dfasnt4xdu"></a><a data-anchor="/document/16/221638/dfasdr9q7p/" data-dfa="dfasdr9q7p"></a><a data-anchor="/document/16/221638/dfasguw86k/" data-dfa="dfasguw86k"></a>Что означают понятия цена договора и ценообразование</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221638/bssPhr11/"></a><a data-anchor="/document/16/221638/dfastlpu46/" data-dfa="dfastlpu46"></a>Цена – это стоимость товара, которого получила сторона договора.</p><p><a data-anchor="/document/16/221638/bssPhr12/"></a><a data-anchor="/document/16/221638/dfaswmllvy/" data-dfa="dfaswmllvy"></a>Определение цены – это волеизъявление сторон, которое выражено:</p><ul class="c-list"><li><a data-anchor="/document/16/221638/bssPhr13/"></a><a data-anchor="/document/16/221638/dfasqvzcm9/" data-dfa="dfasqvzcm9"></a>в твердой фиксированной цене, при условии, если стороны определили количество и вид товара;</li><li>в ориентировочной цене, при условии, если стороны заключили долгосрочный договор, где исполнение договора определено частями без определения количества и вида товара.</li></ul><p><a data-anchor="/document/16/221638/bssPhr14/"></a><a data-anchor="/document/16/221638/dfas5944x1/" data-dfa="dfas5944x1"></a>Чтобы избежать споров с партнерами, определяйте ценообразование:</p><ul class="c-list"><li><a data-anchor="/document/16/221638/bssPhr15/"></a><a data-anchor="/document/16/221638/dfas5894eg/" data-dfa="dfas5894eg"></a>в отдельной или в приложенной к договору спецификации, определив цену за единицу, количество, вид, ассортимент товара;</li><li>в протоколе согласования цены или калькуляции, определив полное ценообразование, включая расходы и прибыль поставщика;</li><li>в локально-ресурсном расчете по <span num="85" lnktype="intlnk" title="КМК" class="doc">КМК</span>, если заключаете договор строительного подряда.</li></ul></div><a data-anchor="/document/16/221638/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/221638/bssPhr19/"></a><a data-anchor="/document/16/221638/dfas0eg3cm/" data-dfa="dfas0eg3cm"></a><a data-anchor="/document/16/221638/dfas19iyqy/" data-dfa="dfas19iyqy"></a><a data-anchor="/document/16/221638/dfaslnk6pv/" data-dfa="dfaslnk6pv"></a>Как производить расчеты и оплату по договору</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221638/bssPhr21/"></a><a data-anchor="/document/16/221638/dfasi803bn/" data-dfa="dfasi803bn"></a>В хозяйственных договорах можете предусмотреть:</p><ul class="c-list"><li><a data-anchor="/document/16/221638/bssPhr22/"></a><a data-anchor="/document/16/221638/dfasx7fg3r/" data-dfa="dfasx7fg3r"></a>100% предоплату, то есть оплата предшествует поставке товара (выполнению работ, оказанию услуг);</li><li>100% оплата после поставки товара (выполнения работ, оказания услуг);</li><li>оплата частями, то есть часть платежа производят до, часть – после поставки товара (выполнения работ или оказания услуг).</li></ul><p><a data-anchor="/document/16/221638/bssPhr23/"></a><a data-anchor="/document/16/221638/dfas0xga1y/" data-dfa="dfas0xga1y"></a>В разделе «Цена и порядок оплаты» определите сроки оплаты, которые могут быть:</p><ul class="c-list"><li><a data-anchor="/document/16/221638/bssPhr24/"></a><a data-anchor="/document/16/221638/dfasminzyy/" data-dfa="dfasminzyy"></a>выражены конкретными датами или наступлением определенного события;</li><li>ограничены временным периодом, начинающим исчисление с даты наступления определенного события, например, оплата в течение 10 календарных дней с даты подписания договора или поставки товара.</li></ul><p><a data-anchor="/document/16/221638/bssPhr25/"></a><a data-anchor="/document/16/221638/dfasgm7mz3/" data-dfa="dfasgm7mz3"></a>При заключении долгосрочного договора аренды или строительного подряда можете предусмотреть оплату частями в определенные сторонами периоды времени либо твердой суммой (арендные платежи), либо суммой, указанной в акте выполненных работ.</p></div><a data-anchor="/document/16/221638/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/221638/bssPhr30/"></a><a data-anchor="/document/16/221638/dfasgsz4np/" data-dfa="dfasgsz4np"></a><a data-anchor="/document/16/221638/dfas0ztua7/" data-dfa="dfas0ztua7"></a><a data-anchor="/document/16/221638/dfasivoltr/" data-dfa="dfasivoltr"></a><a data-anchor="/document/16/221638/dfasppko63/" data-dfa="dfasppko63"></a>Какие условия определения цены и порядка расчетов соблюдать</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221638/bssPhr32/"></a><a data-anchor="/document/16/221638/dfasnxpogz/" data-dfa="dfasnxpogz"></a>1. Цены и тарифы на товары определяйте только в национальной валюте.&nbsp;Привязывать цены на реализуемые в Республике Узбекистан товары, работы, услуги&nbsp;к иностранным валютам и условным единицам нельзя. Исключение возможно для отдельных проектов с иностранными инвестициями – по решению Президента (<span num="62" target="_blank" lnktype="intlnk" title="" class="doc">ст. 9 Закона «О валютном регулировании»</span>).</p><p><a data-anchor="/document/16/221638/bssPhr33/"></a><a data-anchor="/document/16/221638/dfas3s1y8o/" data-dfa="dfas3s1y8o"></a>Законодательство предусматривает два способа расчетов:</p><p><a data-anchor="/document/16/221638/bssPhr34/"></a><a data-anchor="/document/16/221638/dfasb672yf/" data-dfa="dfasb672yf"></a>– наличными деньгами;</p><p><a data-anchor="/document/16/221638/bssPhr35/"></a><a data-anchor="/document/16/221638/dfas20xrty/" data-dfa="dfas20xrty"></a>– безналичным способом.</p><p><a data-anchor="/document/16/221638/bssPhr36/"></a><a data-anchor="/document/16/221638/dfasgg8xqy/" data-dfa="dfasgg8xqy"></a>Расчеты между гражданами и расчеты с участием граждан, не связанные с осуществлением ими предпринимательской деятельности, можно производить наличными деньгами без ограничения суммы или в безналичном порядке. Осуществлять платежи наличными деньгами могут, например, дехканские хозяйства.</p><p><a data-anchor="/document/16/221638/bssPhr37/"></a><a data-anchor="/document/16/221638/dfastf48kh/" data-dfa="dfastf48kh"></a>Расчеты между юридическими лицами, а также расчеты с участием граждан, связанные с осуществлением ими предпринимательской деятельности можно производить в безналичном порядке, а также наличными деньгами, если закон не устанавливает иной порядок (<span num="14" lnktype="intlnk" title="Статья 790. Наличные и безналичные расчеты" class="doc">ст. 790</span> ГК).</p><p><a data-anchor="/document/16/221638/bssPhr38/"></a><a data-anchor="/document/16/221638/dfas1qhqgs/" data-dfa="dfas1qhqgs"></a>2. В хозяйственном договоре предусматривайте условие предварительной оплаты стоимости товара, работ, услуг&nbsp;в размере не менее установленного законодательством (<span num="63" target="_blank" lnktype="intlnk" title="" class="doc">ст. 10 Закона «О договорно-правовой базе деятельности хозяйствующих субъектов»</span>). При этом общего обязательного размера предоплаты для всех хозяйственных договоров законодательство не устанавливает. Предоплата определяется по соглашению сторон (<span num="64" target="_blank" lnktype="intlnk" title="" class="doc">абз. 5 п. 1 Указа Президента от 14.09.2021 № УП-6313</span>). Для отдельных видов договоров специальный размер аванса или предоплаты может быть установлен законодательством.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли оформить допсоглашение о продлении срока оплаты и поставки товара по импортным контрактам</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/221638/bssPhr40/"></a><a data-anchor="/document/16/221638/dfasei63c1/" data-dfa="dfasei63c1"></a><strong>Покупатель оплатил аванс в январе, следующий платеж должен был провести в мае, но в связи финансовым положением не смог оплатить вовремя. Срок поставки товара 240 дней со дня первого авансового платежа. Можно ли оформить допсоглашение о продлении срока оплаты и поставки товара по импортным контрактам? Предусмотрены ли в этом случае штрафные санкции к покупателю?</strong></p><p style="text-align:left"><a data-anchor="/document/16/221638/bssPhr41/"></a><a data-anchor="/document/16/221638/dfas4anl8q/" data-dfa="dfas4anl8q"></a>В первую очередь руководствуйтесь условиями импортного контракта. Как правило, внешнеторговые контракты содержат сроки и условия платежа, ответственность сторон. В качестве условий, которые обеспечивают выполнение сторонами принятых обязательств, контракт предусматривает санкции в виде пени или штрафа, выплачиваемых стороной за невыполнение или ненадлежащее выполнение контрактных обязательств. На виновную сторону условия контракта накладывают обязательство выплатить неустойку пострадавшей стороне по требованию последней.</p><p style="text-align:left"><a data-anchor="/document/16/221638/bssPhr42/"></a><a data-anchor="/document/16/221638/dfassz1vfg/" data-dfa="dfassz1vfg"></a>Мониторинг внешнеторговых контрактов и инвойсов хозяйствующих субъектов ведут органы валютного контроля и коммерческие банки посредством информационной системы внешней торговли «E-kontrakt» (<span num="47" target="_blank" lnktype="intlnk" title="" class="doc">п. 1 постановления Кабмина от 14.05.2020 № 283</span>,&nbsp;<span num="48" target="_blank" lnktype="intlnk" title="" class="doc">п. 22</span> приложения № 1 к нему). Срок ввоза товаров в республику и оформления их в таможенные режимы, указанные в <span num="58" target="_blank" lnktype="intlnk" title="" class="doc">пункте 23</span> приложения № 1 к постановлению Кабмина от 14.05.2020 № 283, выполнения работ, оказания услуг либо возврата уплаченных за них денежных средств не должен превышать 180 дней со дня осуществления платежа по импортному контракту. За необеспечение репатриации активов более чем на 45 дней, а для субъектов малого предпринимательства – более чем на 90 дней после истечения 180 дней применяется штраф, установленный <span num="74" target="_blank" lnktype="intlnk" title="" class="doc">статьей 11-1&nbsp;Закона «О валютном регулировании»</span> (<span num="59" target="_blank" lnktype="intlnk" title="" class="doc">п. 27</span> приложения № 1 к постановлению Кабмина от 14.05.2020 № 283). Случаи, когда дебиторская задолженность по внешнеторговым операциям не считается просроченной, также перечислены в <span num="60" target="_blank" lnktype="intlnk" title="" class="doc">пункте&nbsp;27</span> этого Положения.</p><p style="text-align:left"><a data-anchor="/document/16/221638/bssPhr43/"></a><a data-anchor="/document/16/221638/dfas4mrctc/" data-dfa="dfas4mrctc"></a>Во внешнеторговых операциях применяется также 365-дневный срок. Он установлен для оформления товаров на экспорт, выполнения работ или оказания услуг, если иностранный партнер перечислил средства заранее, а также для перечисления через коммерческие банки Республики Узбекистан денежных средств за уже импортированные в республику товары, выполненные работы и оказанные услуги (<span num="61" target="_blank" lnktype="intlnk" title="" class="doc">п. 29</span> приложения № 1 к постановлению Кабмина от 14.05.2020 № 283). При импорте этот срок исчисляйте со дня оформления товаров в соответствующий таможенный режим, а по выполненным работам и оказанным услугам – со дня подписания акта приемки.</p></div></div></div><a data-anchor="/document/16/221638/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/221638/bssPhr44/"></a><a data-anchor="/document/16/221638/dfasan2l2v/" data-dfa="dfasan2l2v"></a>В какой форме производить безналичные расчеты</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221638/bssPhr46/"></a><a data-anchor="/document/16/221638/dfas3xffby/" data-dfa="dfas3xffby"></a>Безналичные расчеты осуществляйте в соответствии со <span num="27" lnktype="intlnk" title="Статья 791. Формы безналичных расчетов" class="doc">статьей 791 ГК</span>:</p><p><a data-anchor="/document/16/221638/bssPhr47/"></a><a data-anchor="/document/16/221638/dfas2r0x5d/" data-dfa="dfas2r0x5d"></a>1)&nbsp;<span num="19" lnktype="intlnk" title="Платежное поручение" class="doc">платежным поручением</span>;</p><p><a data-anchor="/document/16/221638/bssPhr48/"></a><a data-anchor="/document/16/221638/dfastkxnhk/" data-dfa="dfastkxnhk"></a>2)&nbsp;<span num="21" lnktype="intlnk" title="Расчеты по аккредитиву" class="doc">аккредитивом</span>;</p><p><a data-anchor="/document/16/221638/bssPhr49/"></a><a data-anchor="/document/16/221638/dfas0ttqm9/" data-dfa="dfas0ttqm9"></a>3)&nbsp;<span num="23" lnktype="intlnk" title="Чек" class="doc">чеками</span>;</p><p><a data-anchor="/document/16/221638/bssPhr50/"></a><a data-anchor="/document/16/221638/dfashf1x8u/" data-dfa="dfashf1x8u"></a>4)&nbsp;<span num="25" lnktype="intlnk" title="Инкассо" class="doc">расчетом по инкассо</span>.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

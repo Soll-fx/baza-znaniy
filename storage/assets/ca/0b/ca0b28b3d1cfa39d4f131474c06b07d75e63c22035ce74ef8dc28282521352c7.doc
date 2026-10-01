@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как предоставлять отчетность и уплачивать земельный налог</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/210727/dfas3evkin/" data-dfa="dfas3evkin"></a><a data-anchor="/document/16/210727/bssPhr3/"></a>Узнайте, надо&nbsp;ли вам отчитаться и&nbsp;платить налог на&nbsp;землю и&nbsp;в&nbsp;какие сроки. В&nbsp;рекомендации, советы эксперта как заполнить отчет и&nbsp;воспользоваться льготой, подсказали алгоритм действий, если у&nbsp;компании вовсе нет земель. Ведь за&nbsp;не&nbsp;сдачу отчета компании грозит штраф более чем в&nbsp;3&nbsp;млн сум. </div><div id="documentBody" class="content-common"><list><item><a anchor="dfasreiqv0" icon="useful" itemid="_pvup0gfqm" label="Полезно" text="Сроки сдачи отчетности по земельному налогу">Сроки сдачи отчетности по земельному налогу</a></item><item><a anchor="dfas02waq5" icon="useful" itemid="_ymv539aaz" label="Полезно" text="Льготы по земельному налогу">Льготы по земельному налогу</a></item><item><a anchor="dfasd4518a" icon="useful" itemid="_d3j229rzh" label="Полезно" text="Штрафы за несвоевременное представление налоговой отчетности">Штрафы за несвоевременное представление налоговой отчетности</a></item></list><a data-anchor="/document/16/210727/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210727/bssPhr4/"></a><a data-anchor="/document/16/210727/dfasreiqv0/" data-dfa="dfasreiqv0"></a>Сроки сдачи отчетности по&nbsp;земельному налогу</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210727/bssPhr6/"></a><a data-anchor="/document/16/210727/dfasgvg269/" data-dfa="dfasgvg269"></a>Юрлица&nbsp;— владельцы земельных участков, занятые объектами, указанными в&nbsp;ч.&nbsp;2&nbsp;статьи&nbsp;426&nbsp;НК, должны представить справку об&nbsp;имеющихся участках, которые не&nbsp;являются объектом налогообложения, не&nbsp;позднее 20&nbsp;января текущего налогового периода. Справку нужно подать в&nbsp;налоговые органы по&nbsp;месту нахождения этих объектов. Форма справки утверждена ГНК и&nbsp;размещена в&nbsp;персональном кабинете налогоплательщика (<span num="4" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>&nbsp;ст.&nbsp;431&nbsp;НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210727/dfasckfxrl/" data-dfa="dfasckfxrl"></a><a data-anchor="/document/16/210727/bssPhr7/"></a>С&nbsp;2023 года изменены сроки представления отчетности и&nbsp;уплаты налога по&nbsp;землям несельскохозяйственного назначения</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210727/bssPhr8/"></a><a data-anchor="/document/16/210727/dfas36vrs8/" data-dfa="dfas36vrs8"></a>Это определено <span num="80" target="_self" lnktype="intlnk" title="" class="doc">законом</span> от&nbsp;30.12.2022 № ЗРУ-812.</p></div><div class="incut-v4__icon"></div></div><p style="text-align:left"><a data-anchor="/document/16/210727/bssPhr9/"></a><a data-anchor="/document/16/210727/dfasyk4t9d/" data-dfa="dfasyk4t9d"></a>Налоговая отчетность по&nbsp;земельному налогу утверждена в <span num="6" lnktype="intlnk" title="" class="doc">приложении №&nbsp;8</span>&nbsp;к Постановлению ГНК (рег.&nbsp;от&nbsp;24.02.2020 №&nbsp;3221, с&nbsp;20&nbsp;апреля 2022 года действует в&nbsp;редакции, утвержденной <span num="53" target="_self" lnktype="intlnk" title="" class="doc">постановлением</span>&nbsp;МФ и&nbsp;ГНК, рег.&nbsp;от&nbsp;24.07.2023 №&nbsp;3221-5).</p><p><a data-anchor="/document/16/210727/bssPhr10/"></a><a data-anchor="/document/16/210727/dfasa9e9k7/" data-dfa="dfasa9e9k7"></a>Налоговый период по&nbsp;земельному налогу&nbsp;— календарный год (<span num="81" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;430&nbsp;НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/210727/bssPhr11/"></a><a data-anchor="/document/16/210727/dfast9a53o/" data-dfa="dfast9a53o"></a>Налог начисляется по&nbsp;состоянию на&nbsp;1&nbsp;января каждого налогового периода. Срок сдачи расчета по&nbsp;земельному налогу установлен в&nbsp;зависимости от&nbsp;назначения земель (<span num="131" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;431&nbsp;НК</span>):</p><ul class="c-list"><li><a data-anchor="/document/16/210727/bssPhr12/"></a><a data-anchor="/document/16/210727/dfas4rivyd/" data-dfa="dfas4rivyd"></a>за&nbsp;земли несельскохозяйственного назначения&nbsp;— не&nbsp;позднее 20&nbsp;января текущего налогового периода;</li><li>за&nbsp;земли сельскохозяйственного назначения&nbsp;— не&nbsp;позднее 1&nbsp;мая текущего налогового периода.</li></ul><p style="text-align:left"><a data-anchor="/document/16/210727/bssPhr13/"></a><a data-anchor="/document/16/210727/dfasr4xnak/" data-dfa="dfasr4xnak"></a>В&nbsp;настоящее время налоговая отчетность по&nbsp;земельному налогу полностью автоматизирована. Данные берутся из&nbsp;кадастровых органов.</p><p><a data-anchor="/document/16/210727/bssPhr14/"></a><a data-anchor="/document/16/210727/dfascp94ok/" data-dfa="dfascp94ok"></a>Если у&nbsp;вас есть земельные участки, не&nbsp;подлежащие налогообложению, отразите основание и&nbsp;сроки действия льготы в&nbsp;сервисе «Обращение по&nbsp;использованию налоговых льгот» персонального кабинета налогоплательщика.</p><p><a data-anchor="/document/16/210727/bssPhr15/"></a><a data-anchor="/document/16/210727/dfas9y722s/" data-dfa="dfas9y722s"></a>Если у&nbsp;вас имеются участки, по&nbsp;которым применяются повышенные или пониженные ставки, данные по&nbsp;ним отразите с&nbsp;помощью сервиса «Объекты недвижимости, к&nbsp;которым применяется отдельная ставка» на&nbsp;сайте my3.soliq.uz.</p><p><a data-anchor="/document/16/210727/bssPhr16/"></a><a data-anchor="/document/16/210727/dfas9k26dk/" data-dfa="dfas9k26dk"></a><a data-anchor="/document/16/210727/dfasg612q9/" data-dfa="dfasg612q9"></a><a data-anchor="/document/16/210727/dfas2fkdx2/" data-dfa="dfas2fkdx2"></a>Предприятия, имеющие земельные участки, которые заняты объектами, не&nbsp;рассматриваемыми в&nbsp;качестве объекта налогообложения, должны не&nbsp;позднее 20&nbsp;января текущего года представить в&nbsp;налоговые органы по&nbsp;месту нахождения этих объектов Справку об&nbsp;этих земельных участках через персональный кабинет налогоплательщика (ч.&nbsp;5&nbsp;статьи&nbsp;431&nbsp;НК).</p><p><a data-anchor="/document/16/210727/bssPhr17/"></a><a data-anchor="/document/16/210727/dfasi6zmxm/" data-dfa="dfasi6zmxm"></a>Налогоплательщики обязаны представить уточненный расчет, при изменении:</p><ul class="c-list"><li><a data-anchor="/document/16/210727/bssPhr18/"></a><a data-anchor="/document/16/210727/dfasc3hayu/" data-dfa="dfasc3hayu"></a>налоговой базы (исчисленной суммы налога)&nbsp;— в&nbsp;месячный срок со&nbsp;дня изменения налоговой базы (исчисленной суммы налога);</li><li>общей площади и&nbsp;состава сельскохозяйственных угодий&nbsp;— до&nbsp;1&nbsp;декабря текущего года.</li></ul><p style="text-align:left"><a data-anchor="/document/16/210727/bssPhr19/"></a><a data-anchor="/document/16/210727/dfasbqgg9b/" data-dfa="dfasbqgg9b"></a>Такие правила предусмотрены частями <span num="33" target="_self" lnktype="intlnk" title="" class="doc">3</span>, <span num="34" target="_self" lnktype="intlnk" title="" class="doc">4</span>&nbsp;статьи&nbsp;431&nbsp;НК.</p></div><a data-anchor="/document/16/210727/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210727/bssPhr20/"></a><a data-anchor="/document/16/210727/dfaslseq0b/" data-dfa="dfaslseq0b"></a>Уплата земельного налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210727/bssPhr26/"></a><a data-anchor="/document/16/210727/dfas2g8kgv/" data-dfa="dfas2g8kgv"></a><a data-anchor="/document/16/210727/dfasflh19c/" data-dfa="dfasflh19c"></a>Налог платите по&nbsp;месту нахождения земельных участков (<span num="108" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;7</span>&nbsp;ст.&nbsp;128&nbsp;НК). Уплачивайте налог в&nbsp;сроки, установленные <span num="109" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;432</span>&nbsp;НК:</p><p><a data-anchor="/document/16/210727/bssPhr27/"></a><a data-anchor="/document/16/210727/dfasln5hg3/" data-dfa="dfasln5hg3"></a>за <strong>земли сельхозназначения</strong>:</p><ul class="c-list"><li><a data-anchor="/document/16/210727/bssPhr28/"></a><a data-anchor="/document/16/210727/dfas5wo2ye/" data-dfa="dfas5wo2ye"></a>до&nbsp;1&nbsp;сентября отчетного года&nbsp;— 30&nbsp;процентов от&nbsp;годовой суммы налога;</li><li>до&nbsp;1&nbsp;декабря отчетного года&nbsp;— оставшуюся сумму;</li></ul><p><a data-anchor="/document/16/210727/bssPhr29/"></a><a data-anchor="/document/16/210727/dfassutxg0/" data-dfa="dfassutxg0"></a>за <strong>земли не&nbsp;сельхозназначения</strong>:</p><ul class="c-list"><li><a data-anchor="/document/16/210727/bssPhr30/"></a><a data-anchor="/document/16/210727/dfasbbwgl3/" data-dfa="dfasbbwgl3"></a>плательщики налога с&nbsp;оборота не&nbsp;позднее 20&nbsp;числа третьего месяца каждого квартала в&nbsp;размере 1/4 годовой суммы земельного налога;</li><li>остальные налогоплательщики&nbsp;— за&nbsp;январь не&nbsp;позднее 20&nbsp;января, за&nbsp;остальные месяцы не&nbsp;позднее 10&nbsp;числа каждого месяца в&nbsp;размере 1/12 годовой суммы налога.</li></ul><p><a data-anchor="/document/16/210727/bssPhr31/"></a><a data-anchor="/document/16/210727/dfasnmptm1/" data-dfa="dfasnmptm1"></a>Если у&nbsp;предприятия возникли обязательства по&nbsp;уплате земельного налога не&nbsp;по&nbsp;месту постановки на&nbsp;учет, то&nbsp;оно обязано в&nbsp;течение 10&nbsp;дней со&nbsp;дня гос. регистрации права на&nbsp;соответствующий земельный участок обратиться в&nbsp;налоговую для постановки на&nbsp;учет объектов налогообложения по&nbsp;месту их&nbsp;нахождения (<span num="70" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;131&nbsp;НК). Исключение составляют случаи, когда предоставление таких сведений в&nbsp;налоговые органы является обязанностью органов, осуществляющих госрегистрацию прав на&nbsp;недвижимое имущество, в&nbsp;соответствии с <span num="123" target="_self" lnktype="intlnk" title="" class="doc">частью&nbsp;3</span>&nbsp;статьи&nbsp;133&nbsp;НК.</p><p><a data-anchor="/document/16/210727/bssPhr32/"></a><a data-anchor="/document/16/210727/dfasumkski/" data-dfa="dfasumkski"></a>Налоговая не&nbsp;позднее трех рабочих дней со&nbsp;дня обращения ставит его на&nbsp;учет по&nbsp;месту нахождения объекта налогообложения. Порядок постановки определен <span num="71" target="_self" lnktype="intlnk" title="" class="doc">Административным регламентом</span>, утв. постановлением Кабмина от&nbsp;02.04.2022 №&nbsp;150.</p><p><a data-anchor="/document/16/210727/bssPhr33/"></a><a data-anchor="/document/16/210727/dfasbun6r3/" data-dfa="dfasbun6r3"></a>Если обязательство по&nbsp;земельному налогу возникло в&nbsp;течение года, то&nbsp;есть после установленного срока уплаты, то&nbsp;уплата этой суммы производится не&nbsp;позднее 30&nbsp;дней с&nbsp;даты возникновения обязательства. Это вытекает из <span num="72" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;2</span>&nbsp;статьи&nbsp;432&nbsp;НК.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210727/dfasfssvsv/" data-dfa="dfasfssvsv"></a><a data-anchor="/document/16/210727/bssPhr34/"></a>За&nbsp;каждый день просрочки платежа налоговые органы начислят пеню&nbsp;— 1/300 ставки рефинансирования&nbsp;ЦБ от&nbsp;неуплаченной суммы налога</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210727/bssPhr35/"></a><a data-anchor="/document/16/210727/dfas21if5b/" data-dfa="dfas21if5b"></a>Она будет начисляться со&nbsp;следующего дня после установленного срока уплаты (<span num="111" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;110&nbsp;НК</span>).</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210727/dfasgluyo8/" data-dfa="dfasgluyo8"></a><a data-anchor="/document/16/210727/bssPhr36/"></a>Сроков уплаты земельного налога</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210727/bssPhr37/"></a><a data-anchor="/document/16/210727/dfasa416d1/" data-dfa="dfasa416d1"></a>Предприятие получило земельный участок не&nbsp;сельскохозяйственного назначения 15&nbsp;апреля. Обязательство по&nbsp;уплате земельного налога по&nbsp;земельному участку возникает со&nbsp;следующего месяца после возникновения права на&nbsp;земельный участок&nbsp;— с&nbsp;1&nbsp;мая. Уплата земельного налога производиться до&nbsp;31&nbsp;мая.</p></div></div></div><a data-anchor="/document/16/210727/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210727/bssPhr38/"></a><a data-anchor="/document/16/210727/dfasnyfqa6/" data-dfa="dfasnyfqa6"></a>Заполнение отчетности</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210727/bssPhr40/"></a><a data-anchor="/document/16/210727/dfas696fey/" data-dfa="dfas696fey"></a><a data-anchor="/document/16/210727/dfasg8lc88/" data-dfa="dfasg8lc88"></a>Данные об&nbsp;имеющихся земельных участках, их&nbsp;площади и&nbsp;месторасположении автоматически тянутся из&nbsp;кадастровых документов. Учтите, что земельные участки, находящиеся у&nbsp;юрлиц на&nbsp;правах собственности, владения, пользования или аренды, делятся&nbsp;на:</p><ul class="c-list"><li><a data-anchor="/document/16/210727/bssPhr41/"></a><a data-anchor="/document/16/210727/dfasckk73t/" data-dfa="dfasckk73t"></a>подлежащие налогообложению;</li><li>не&nbsp;являющиеся объектом налогообложения, указаны в <span num="66" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;2</span>&nbsp;статьи&nbsp;426&nbsp;НК;</li><li>не&nbsp;подлежащие налогообложению, указаны в <span num="67" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;428</span>&nbsp;НК.</li></ul><p><a data-anchor="/document/16/210727/bssPhr42/"></a><a data-anchor="/document/16/210727/dfas02waq5/" data-dfa="dfas02waq5"></a><a data-anchor="/document/16/210727/dfas8mzebw/" data-dfa="dfas8mzebw"></a>В <span num="68" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;483</span>&nbsp;НК приведены временные льготы в&nbsp;виде освобождения от&nbsp;уплаты земельного налога, также льготы по&nbsp;налогу могут быть предусмотрены отдельными нормативно-правовыми актами. Льготы по&nbsp;земельному налогу с&nbsp;юрлиц могут быть в&nbsp;виде освобождения от&nbsp;налога на&nbsp;постоянной основе и&nbsp;на&nbsp;определенный срок.</p><p><a data-anchor="/document/16/210727/bssPhr43/"></a><a data-anchor="/document/16/210727/dfasrkb7g5/" data-dfa="dfasrkb7g5"></a><strong>Освобождены на&nbsp;постоянной основе </strong></p><img alt="" hideborder="false" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210727/bssPhr44/"></a><a data-anchor="/document/16/210727/dfasn2zubt/" data-dfa="dfasn2zubt"></a><span num="150" target="_self" lnktype="intlnk" title="" class="doc">Полный перечень в&nbsp;рекомендации&gt;&gt;&gt;</span></p><p><a data-anchor="/document/16/210727/bssPhr45/"></a><a data-anchor="/document/16/210727/dfasqcpwgb/" data-dfa="dfasqcpwgb"></a><strong>Освобождены на&nbsp;определенный срок</strong></p><span data-warm-notices="" data-warm-notice-type="" num="151" target="_self" lnktype="intlnk" title="" class="doc"><img alt="" hideborder="false" class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></span><p><a data-anchor="/document/16/210727/bssPhr46/"></a><a data-anchor="/document/16/210727/dfas1u4u5w/" data-dfa="dfas1u4u5w"></a><span num="152" target="_self" lnktype="intlnk" title="" class="doc">Полный перечень в&nbsp;рекомендации&gt;&gt;&gt;</span></p><p><a data-anchor="/document/16/210727/bssPhr47/"></a><a data-anchor="/document/16/210727/dfasegwgf6/" data-dfa="dfasegwgf6"></a><strong>Снижение ставки земельного налога</strong></p><img alt="" hideborder="false" class="inimg" num="3" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210727/bssPhr48/"></a><a data-anchor="/document/16/210727/dfas8harlc/" data-dfa="dfas8harlc"></a><span num="154" target="_self" lnktype="intlnk" title="" class="doc">Полный перечень в&nbsp;рекомендации&gt;&gt;&gt;</span></p><p><a data-anchor="/document/16/210727/bssPhr49/"></a><a data-anchor="/document/16/210727/dfasctwpfk/" data-dfa="dfasctwpfk"></a>Подробнее о&nbsp;том, <span num="139" target="_self" lnktype="intlnk" title="" class="doc">какие льготы действуют по&nbsp;земельному налогу с&nbsp;юрлиц</span> и <span num="140" target="_self" lnktype="intlnk" title="" class="doc">какие земельные участки не&nbsp;облагаются налогом</span>, читайте в&nbsp;рекомендации от&nbsp;эксперта Системы Главбух</p><p><a data-anchor="/document/16/210727/bssPhr50/"></a><a data-anchor="/document/16/210727/dfasg387ru/" data-dfa="dfasg387ru"></a>При наличии земельных участков, облагаемых по&nbsp;повышенной или пониженной ставке, исчисляйте ее&nbsp;исходя из&nbsp;ставки с&nbsp;учетом поправочного коэффициента, установленного Кенгашем народных депутатов. Ставки земельного налога с&nbsp;учетом поправочных коэффициентов можно узнать по <a href="https://soliq.uz/taxation/land-property-tax" target="_self" title="">ссылке</a>.</p><p><a data-anchor="/document/16/210727/bssPhr51/"></a><a data-anchor="/document/16/210727/dfas0gbli1/" data-dfa="dfas0gbli1"></a>В&nbsp;персональном кабинете налогоплательщика размещены отдельные формы расчета по&nbsp;землям сельскохозяйственного назначения и&nbsp;несельскохозяйственного назначения. Формы расчета земельного налога по&nbsp;землям несельскохозяйственного назначения предусмотрены:</p><ul class="c-list"><li><a data-anchor="/document/16/210727/bssPhr52/"></a><a data-anchor="/document/16/210727/dfaslp43zu/" data-dfa="dfaslp43zu"></a>для плательщиков налога с&nbsp;оборота, которые уплачивают налог ежеквартально;</li><li>для остальных налогоплательщиков, которые уплачивают налог ежемесячно.</li></ul><p><a data-anchor="/document/16/210727/bssPhr53/"></a><a data-anchor="/document/16/210727/dfashcgmzm/" data-dfa="dfashcgmzm"></a>Все Расчеты земельного налога заполняются автоматически на&nbsp;основании данных кадастровых органов об&nbsp;имеющихся у&nbsp;юрлиц земельных участках, их&nbsp;местонахождении и&nbsp;площади в&nbsp;гектарах. Если имеете земельные участки, не&nbsp;подлежащие налогообложению, то&nbsp;в&nbsp;персональном кабинете налогоплательщика через сервис «Обращение по&nbsp;использованию налоговых льгот» необходимо отразить основание и&nbsp;сроки действия льготы. После этого льготные площади и&nbsp;сумма льгот автоматически отразятся в&nbsp;приложении к&nbsp;Расчету «Справка о&nbsp;земельных участках налогоплательщика».</p><p><a data-anchor="/document/16/210727/bssPhr54/"></a><a data-anchor="/document/16/210727/dfas2p67l3/" data-dfa="dfas2p67l3"></a>Если у&nbsp;вас имеются участки, по&nbsp;которым применяются повышенные или пониженные ставки, либо не&nbsp;рассматриваемые в&nbsp;качестве объекта обложения, данные по&nbsp;ним отразите с&nbsp;помощью сервиса «Объекты недвижимости, к&nbsp;которым применяется отдельная ставка» на&nbsp;сайте my3.soliq.uz.</p><p><a data-anchor="/document/16/210727/bssPhr55/"></a><a data-anchor="/document/16/210727/dfasw9gqcn/" data-dfa="dfasw9gqcn"></a>Обязательно проверьте, правильность отражения данных по&nbsp;вашим земельным участкам в&nbsp;Расчете. Если обнаружили расхождения, то&nbsp;сверьтесь с&nbsp;кадастровыми органами и&nbsp;только после этого отправляйте Расчет.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как скорректировать земельный налог при продаже недвижимости, если справка по авансовым платежам заполняется автоматом и изменению не подлежит</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210727/bssPhr57/"></a><a data-anchor="/document/16/210727/dfasui1oq7/" data-dfa="dfasui1oq7"></a>В налоговой отчетности объекты обложения формируются автоматически на основании кадастровых документов.</p><p style="text-align:left"><a data-anchor="/document/16/210727/bssPhr58/"></a><a data-anchor="/document/16/210727/dfas1tc6dk/" data-dfa="dfas1tc6dk"></a>При представлении уточненного Расчета земельного налога с юридических лиц, уплачиваемого за земли несельскохозяйственного назначения наряду с другими данными заполните&nbsp;столбцы 7 и 8 «Право на земельный участок аннулировано». На основании этой информации сумма авансовых платежей автоматически пересчитывается. В случае, если в столбцах 7 и 8 не отражается дата перехода права собственности на недвижимое имущество и его площадь другому лицу, то рекомендуем обратиться в кадастровые органы.</p></div></div></div><a data-anchor="/document/16/210727/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/210727/bssPhr59/"></a><a data-anchor="/document/16/210727/dfasd4518a/" data-dfa="dfasd4518a"></a>Нарушение сроков предоставления отчета по&nbsp;земельному налогу</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210727/bssPhr61/"></a><a data-anchor="/document/16/210727/dfasa94v1m/" data-dfa="dfasa94v1m"></a>При несоблюдении срока предоставления отчетности должностное лицо налогоплательщика привлекается к&nbsp;административной ответственности (ст.&nbsp;220&nbsp;НК в&nbsp;ред. Закона РУз от&nbsp;29.12.2021&nbsp;г. N&nbsp;ЗРУ-741). Размер штрафа с&nbsp;13.06.2022&nbsp;г. составляет 10&nbsp;БРВ (ч.&nbsp;2&nbsp;ст.&nbsp;175 КоАО в&nbsp;ред. Закона РУз от&nbsp;11.03.2022&nbsp;г. N&nbsp;ЗРУ-758). При этом если правонарушение зафиксировано через Единую автоматизированную информационную систему налоговых органов, административной ответственности подлежит руководитель предприятия (ст.&nbsp;17-3&nbsp;КоАО, введена Законом N&nbsp;ЗРУ-758).</p><p><a data-anchor="/document/16/210727/bssPhr62/"></a><a data-anchor="/document/16/210727/dfas4zqqv7/" data-dfa="dfas4zqqv7"></a>Субъектам предпринимательства предоставляется отсрочка, сроком на&nbsp;шесть месяцев, по&nbsp;уплате земельного налога при приобретении имущественного права на&nbsp;земельные участки&nbsp;и (или) здания и&nbsp;сооружения общей площадью более 1&nbsp;000 кв.м. Для получения отсрочки не&nbsp;позднее трех месяцев со&nbsp;дня госрегистрации имущественного права нужно направить в&nbsp;налоговые органы уведомление о&nbsp;праве на&nbsp;отсрочку (<span num="99" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3-2</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;100&nbsp;НК, <span num="122" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;101&nbsp;НК).</p><p><a data-anchor="/document/16/210727/bssPhr63/"></a><a data-anchor="/document/16/210727/dfastd76hm/" data-dfa="dfastd76hm"></a>Отсроченная сумма налога определяется в&nbsp;размере налога, исчисленного исходя из&nbsp;стоимости земельных участков, прошедших госрегистрацию. Если в&nbsp;период срока действия отсрочки земельный участок&nbsp;и (или) здания и&nbsp;сооружения реализуете или предоставляете в&nbsp;аренду, то&nbsp;сумма земельного налога, исчисленная за&nbsp;этот период, взимается в&nbsp;полном размере в&nbsp;течение одного месяца (<span num="100" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;102&nbsp;НК).</p><p><a data-anchor="/document/16/210727/bssPhr64/"></a><a data-anchor="/document/16/210727/dfase4t4au/" data-dfa="dfase4t4au"></a><a data-anchor="/document/16/210727/dfascf36ez/" data-dfa="dfascf36ez"></a>Налоговый комитет имеет право предоставлять налогоплательщикам возможность уплаты в&nbsp;рассрочку земельного налога без предоставления под залог имущества, поручительства или банковской гарантии (<span num="103" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;99&nbsp;НК). Рассрочка и&nbsp;отсрочка по&nbsp;уплате налога также могут быть предоставлены налогоплательщикам, осуществляющим деятельность более трех лет, своевременно уплачивающим налоги, но&nbsp;вследствие финансового положения не&nbsp;имеющим возможности уплаты налоговой задолженности (<span num="104" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;9</span>&nbsp;постановления Президента Республики Узбекистан от&nbsp;21.04.2021 № ПП-5087, <span num="105" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3-1</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;100&nbsp;НК, <span num="106" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;10</span>&nbsp;ст.&nbsp;101&nbsp;НК).</p><p><a data-anchor="/document/16/210727/bssPhr65/"></a><a data-anchor="/document/16/210727/dfaspd9noy/" data-dfa="dfaspd9noy"></a>Подробнее о&nbsp;размерах штрафов за&nbsp;несвоевременное представление налоговой отчетности в <span num="165" target="_self" lnktype="intlnk" title="" class="doc">рекомендации</span> эксперта Системы Главбух.</p></div><p><a data-anchor="/document/16/210727/dfas2y44qn/" data-dfa="dfas2y44qn"></a><a data-anchor="/document/16/210727/bssPhr66/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как учесть административные расходы</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/210302/dfasim0orz/" data-dfa="dfasim0orz"></a><a data-anchor="/document/16/210302/bssPhr2/"></a>В&nbsp;рекомендации Системы Главбух найдете ответы на&nbsp;вопросы: что относят к&nbsp;административным расходам и&nbsp;как их&nbsp;отразить в&nbsp;бухучете. Эксперты привели примеры основных типовых проводок по&nbsp;учету административных расходов. Узнайте, как административные расходы влияют на&nbsp;налогообложение. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210302/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210302/bssPhr3/"></a><a data-anchor="/document/16/210302/dfas5eymmp/" data-dfa="dfas5eymmp"></a>Состав административных расходов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210302/bssPhr9/"></a><a data-anchor="/document/16/210302/dfas8mgqxv/" data-dfa="dfas8mgqxv"></a>Административные расходы&nbsp;— необходимые расходы, которые связаны с&nbsp;управлением офисными и&nbsp;общими функциями в&nbsp;компании.</p><p><a data-anchor="/document/16/210302/bssPhr10/"></a><a data-anchor="/document/16/210302/dfasyu8y55/" data-dfa="dfasyu8y55"></a>Административные расходы&nbsp;— издержки, которые не&nbsp;относятся к&nbsp;операционной или производственной деятельности компании. Для группы административных расходов характерно косвенное влияние на&nbsp;эффективность работы всего предприятия. Административные расходы оказывают эффект не&nbsp;на&nbsp;отдельное подразделение, а&nbsp;на&nbsp;всю организацию.</p><p><a data-anchor="/document/16/210302/bssPhr11/"></a><a data-anchor="/document/16/210302/dfascslloy/" data-dfa="dfascslloy"></a>К&nbsp;таким расходам относите:</p><ul class="c-list"><li><a data-anchor="/document/16/210302/bssPhr12/"></a><a data-anchor="/document/16/210302/dfasdniyt6/" data-dfa="dfasdniyt6"></a>аренду офисных помещений;</li><li>расходы на&nbsp;оплату труда работников управленческого персонала: руководства, бухгалтерии, юридического отдела;</li><li>сумму социального налога, начисленного на&nbsp;ФОТ работников управленческого персонала;</li><li>затраты на&nbsp;командировки управленческого персонала;</li><li>затраты на&nbsp;содержание и&nbsp;ремонт, а&nbsp;также амортизацию основных средств административного назначения.</li></ul><p><a data-anchor="/document/16/210302/bssPhr13/"></a><a data-anchor="/document/16/210302/dfasm7gu3g/" data-dfa="dfasm7gu3g"></a>Подробный состав основных административных расходов смотрите в <span num="15" target="_self" lnktype="intlnk" title="" class="doc">разделе&nbsp;2.2</span> Положения о&nbsp;составе затрат.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>К&#160;каким расходам относить расходы на&#160;оплату труда рекрутера</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210302/bssPhr15/"></a><a data-anchor="/document/16/210302/dfasaz55rv/" data-dfa="dfasaz55rv"></a>Если предприятие не&nbsp;агентство по&nbsp;подбору персонала, то&nbsp;данную штатную единицу относите к&nbsp;управленческому персоналу. Соответственно, отнесите оплату его труда на&nbsp;административные расходы.</p><p><a data-anchor="/document/16/210302/bssPhr16/"></a><a data-anchor="/document/16/210302/dfasrlogyh/" data-dfa="dfasrlogyh"></a>Должность рекрутер присутствует в&nbsp;классификаторе должностей служащих.</p><p><a data-anchor="/document/16/210302/bssPhr17/"></a><a data-anchor="/document/16/210302/dfasokh9sz/" data-dfa="dfasokh9sz"></a>Расходы на&nbsp;оплату труда работников управленческого персонала относите на&nbsp;административные расходы и&nbsp;учитывайте на <strong>счете 9420 </strong> (<span num="6" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.2.1</span>&nbsp;ПКМ от&nbsp;05.02.1999 №&nbsp;54).</p></div></div></div><a data-anchor="/document/16/210302/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210302/bssPhr18/"></a><a data-anchor="/document/16/210302/dfasy0haid/" data-dfa="dfasy0haid"></a>Бухучет административных расходов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210302/bssPhr20/"></a><a data-anchor="/document/16/210302/dfasgsny9b/" data-dfa="dfasgsny9b"></a>В&nbsp;бухучете есть специальный счет&nbsp;— <strong>9420 «Административные расходы»</strong>.</p><p><a data-anchor="/document/16/210302/bssPhr21/"></a><a data-anchor="/document/16/210302/dfasguas1m/" data-dfa="dfasguas1m"></a>Суммы расходов в&nbsp;разрезе аналитики отражайте по&nbsp;дебету <strong>счета 9420</strong>.</p><p><a data-anchor="/document/16/210302/bssPhr22/"></a><a data-anchor="/document/16/210302/dfas4ia43w/" data-dfa="dfas4ia43w"></a>Записи производите накопительно в&nbsp;течение отчетного периода.</p><p><a data-anchor="/document/16/210302/bssPhr23/"></a><a data-anchor="/document/16/210302/dfasudpaks/" data-dfa="dfasudpaks"></a>Примеры основных типовых проводок по&nbsp;счету <strong>9420 </strong>приведены в <span data-warm-notices="41438948" data-warm-notice-type="error" num="7" target="_self" lnktype="intlnk" title="" class="doc">§&nbsp;5</span>&nbsp;Инструкции к&nbsp;плану счетов:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width:67%"><p><a data-anchor="/document/16/210302/bssPhr24/"></a><a data-anchor="/document/16/210302/dfasbxhwoh/" data-dfa="dfasbxhwoh"></a>Расходы по&nbsp;оплате труда управленческого персонала</p></td><td class="bdTopbdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr25/"></a><a data-anchor="/document/16/210302/dfascbykbh/" data-dfa="dfascbykbh"></a>9420</p></td><td class="bdTopbdBottombdRight" style="width:16%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr26/"></a><a data-anchor="/document/16/210302/dfasalxpfg/" data-dfa="dfasalxpfg"></a>6710</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:67%"><p><a data-anchor="/document/16/210302/bssPhr27/"></a><a data-anchor="/document/16/210302/dfasoc4v4g/" data-dfa="dfasoc4v4g"></a>Износ основных средств административного назначения</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr28/"></a><a data-anchor="/document/16/210302/dfasgz9h2p/" data-dfa="dfasgz9h2p"></a>9420</p></td><td class="bdBottombdRight" style="width:16%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr29/"></a><a data-anchor="/document/16/210302/dfas29vvry/" data-dfa="dfas29vvry"></a>0210-0299</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:67%"><p><a data-anchor="/document/16/210302/bssPhr30/"></a><a data-anchor="/document/16/210302/dfasyzqqt7/" data-dfa="dfasyzqqt7"></a>Арендная плата административного помещения</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr31/"></a><a data-anchor="/document/16/210302/dfasa5gqmi/" data-dfa="dfasa5gqmi"></a>9420</p></td><td class="bdBottombdRight" style="width:16%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr32/"></a><a data-anchor="/document/16/210302/dfasze5gzt/" data-dfa="dfasze5gzt"></a>6910</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:67%"><p><a data-anchor="/document/16/210302/bssPhr33/"></a><a data-anchor="/document/16/210302/dfasldqlmk/" data-dfa="dfasldqlmk"></a>Расход материалов на&nbsp;административные нужды</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr34/"></a><a data-anchor="/document/16/210302/dfaswgaat7/" data-dfa="dfaswgaat7"></a>9420</p></td><td class="bdBottombdRight" style="width:16%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr35/"></a><a data-anchor="/document/16/210302/dfas4f1cd9/" data-dfa="dfas4f1cd9"></a>1010-1090</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:67%"><p><a data-anchor="/document/16/210302/bssPhr36/"></a><a data-anchor="/document/16/210302/dfas85tffr/" data-dfa="dfas85tffr"></a>Услуги транспортных предприятий</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr37/"></a><a data-anchor="/document/16/210302/dfas4v404w/" data-dfa="dfas4v404w"></a>9420</p></td><td class="bdBottombdRight" style="width:16%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr38/"></a><a data-anchor="/document/16/210302/dfascu0ye5/" data-dfa="dfascu0ye5"></a>6010</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:67%"><p><a data-anchor="/document/16/210302/bssPhr39/"></a><a data-anchor="/document/16/210302/dfasz28ucq/" data-dfa="dfasz28ucq"></a>Командировочные и&nbsp;представительские расходы</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr40/"></a><a data-anchor="/document/16/210302/dfasol1kgh/" data-dfa="dfasol1kgh"></a>9420</p></td><td class="bdBottombdRight" style="width:16%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr41/"></a><a data-anchor="/document/16/210302/dfasmlm9s4/" data-dfa="dfasmlm9s4"></a>4220, 4230</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:67%"><p><a data-anchor="/document/16/210302/bssPhr42/"></a><a data-anchor="/document/16/210302/dfasa8et18/" data-dfa="dfasa8et18"></a>Отчисления на&nbsp;содержание вышестоящих предприятий и&nbsp;объединений юридических лиц</p></td><td class="bdBottombdRight" style="width:15%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr43/"></a><a data-anchor="/document/16/210302/dfasofphk3/" data-dfa="dfasofphk3"></a>9420</p></td><td class="bdBottombdRight" style="width:16%"><p style="text-align:center"><a data-anchor="/document/16/210302/bssPhr44/"></a><a data-anchor="/document/16/210302/dfas03ucq9/" data-dfa="dfas03ucq9"></a>6120</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210302/bssPhr45/"></a><a data-anchor="/document/16/210302/dfaskl2d1o/" data-dfa="dfaskl2d1o"></a>По&nbsp;завершении отчетного периода со <strong>счета 9420 </strong> списывайте и&nbsp;закрывайте все суммы административных расходов в&nbsp;корреспонденции со&nbsp;счетом <strong>9910 «Конечный финансовый результат»</strong>:</p><p><a data-anchor="/document/16/210302/bssPhr46/"></a><a data-anchor="/document/16/210302/dfasx3xpbb/" data-dfa="dfasx3xpbb"></a><strong>Дебет 9910 Кредит 9420</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210302/bssPhr47/"></a><a data-anchor="/document/16/210302/dfasd32g98/" data-dfa="dfasd32g98"></a>списаны на&nbsp;финансовый результат административные расходы.</li></ul><p><a data-anchor="/document/16/210302/bssPhr48/"></a><a data-anchor="/document/16/210302/dfasngggfg/" data-dfa="dfasngggfg"></a>Данные об&nbsp;административных расходах отражайте в&nbsp;годовом отчете о&nbsp;прибылях и&nbsp;убытках <span num="8" target="_self" lnktype="intlnk" title="" class="doc">Форма №&nbsp;2&nbsp;«Отчет о&nbsp;финансовых результатах»</span> в&nbsp;составе расходов периода вместе с <span num="9" target="_self" lnktype="intlnk" title="" class="doc">прочими операционными расходами</span> и <span num="10" target="_self" lnktype="intlnk" title="" class="doc">расходами по&nbsp;реализации</span>.</p><p><a data-anchor="/document/16/210302/bssPhr49/"></a><a data-anchor="/document/16/210302/dfaspme2oe/" data-dfa="dfaspme2oe"></a>Общую сумму административных расходов отражайте в&nbsp;строке <span num="11" target="_self" lnktype="intlnk" title="" class="doc">060 «Отчета о&nbsp;финансовых результатах»</span>.</p></div><a data-anchor="/document/16/210302/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210302/bssPhr50/"></a><a data-anchor="/document/16/210302/dfas4v6pgl/" data-dfa="dfas4v6pgl"></a>Налогообложение</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210302/bssPhr52/"></a><a data-anchor="/document/16/210302/dfasn6pl6z/" data-dfa="dfasn6pl6z"></a>В&nbsp;целях налогообложения при расчете налога на&nbsp;прибыль административные расходы предприятия классифицируют иначе.</p><p><a data-anchor="/document/16/210302/bssPhr53/"></a><a data-anchor="/document/16/210302/dfasl4kcir/" data-dfa="dfasl4kcir"></a>Расходы, входящие в&nbsp;состав административных расходов предприятия и&nbsp;учитываемые при расчете налога на&nbsp;прибыль, можно разделить на&nbsp;две группы.</p><ol class="c-list"><li><a data-anchor="/document/16/210302/bssPhr54/"></a><a data-anchor="/document/16/210302/dfasqxdxoy/" data-dfa="dfasqxdxoy"></a>Вычитаемые&nbsp;— определены в <span num="12" target="_self" lnktype="intlnk" title="" class="doc">статьях&nbsp;305</span>-<span num="13" target="_self" lnktype="intlnk" title="" class="doc">316</span>&nbsp;НК. К&nbsp;таким расходам относите, например: плату за&nbsp;услуги телекоммуникаций; расходы на&nbsp;оплату труда работников управленческого персонала и&nbsp;социальный налог.</li><li><a data-anchor="/document/16/210302/bssPhr55/"></a><a data-anchor="/document/16/210302/dfasqr6x67/" data-dfa="dfasqr6x67"></a>Невычитаемые&nbsp;— определены в <span num="14" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;317</span>&nbsp;НК. Например, затраты по&nbsp;добровольному страхованию работников и&nbsp;имущества, не&nbsp;связанных с&nbsp;производственным процессом.</li></ol><p><a data-anchor="/document/16/210302/bssPhr56/"></a><a data-anchor="/document/16/210302/dfasp6oicx/" data-dfa="dfasp6oicx"></a>Все расходы подтверждайте первичными документами. НДС, выделенный поставщиком товаров (услуг), можно принять к&nbsp;зачету при соответствии условиям статьи&nbsp;266&nbsp;НК.</p><p><a data-anchor="/document/16/210302/bssPhr57/"></a><a data-anchor="/document/16/210302/dfasmv8yvy/" data-dfa="dfasmv8yvy"></a>При расчете налога с&nbsp;оборота административные расходы не&nbsp;учитываются (ст.&nbsp;463&nbsp;НК, ст.&nbsp;464&nbsp;НК).</p></div><p><a data-anchor="/document/16/210302/dfas5srmd9/" data-dfa="dfas5srmd9"></a><a data-anchor="/document/16/210302/bssPhr58/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882124" sourceId="1" fullSizeImageId="-41882123" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882124/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

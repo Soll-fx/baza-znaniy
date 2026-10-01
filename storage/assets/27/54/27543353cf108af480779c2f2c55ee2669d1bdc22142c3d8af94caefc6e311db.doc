@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как внести изменения в учредительные документы общества онлайн</h2><div class="doc-snippet"><a data-anchor="/document/16/206917/dfas8moyq3/" data-dfa="dfas8moyq3"></a><a data-anchor="/document/16/206917/bssPhr2/"></a>В&nbsp;рекомендации эксперт подготовил пошаговую инструкцию, как внести изменения в&nbsp;учредительные документы ООО онлайн. Также узнаете, что делать, если загрузили документы ошибочно или требуется корректировка. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206917/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206917/bssPhr3/"></a><a data-anchor="/document/16/206917/dfas80mvoc/" data-dfa="dfas80mvoc"></a>Порядок внесения изменений в&nbsp;учредительные документы ООО онлайн</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><a data-anchor="/document/16/206917/bssPhr57/"></a><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr7/"></a><a data-anchor="/document/16/206917/dfas88mvlz/" data-dfa="dfas88mvlz"></a>Внести изменения в&nbsp;учредительные документы предприятия возможно не&nbsp;только в&nbsp;явочном порядке, но&nbsp;и&nbsp;в&nbsp;онлайн формате посредством использования модуля регистрации субъектов предпринимательства ЕПИГУ.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr8/"></a><a data-anchor="/document/16/206917/dfasi278u6/" data-dfa="dfasi278u6"></a><strong>Шаг&nbsp;1.</strong></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr9/"></a><a data-anchor="/document/16/206917/dfassm1vui/" data-dfa="dfassm1vui"></a>Зайдите на <a href="http://fo.birdarcha.uz" title="">сайт</a> модуля регистрации субъектов предпринимательства ЕПИГУ.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr10/"></a><a data-anchor="/document/16/206917/dfas9ke1ta/" data-dfa="dfas9ke1ta"></a>В&nbsp;правом верхнем углу выберите «Войти с&nbsp;ЭЦП» для входа с&nbsp;помощью электронной цифровой подписи или «Вход» для входа при помощи OneID. Обе опции отмечены зеленым цветом.</p><img alt="" hideborder="false" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr11/"></a><a data-anchor="/document/16/206917/dfasniqmu2/" data-dfa="dfasniqmu2"></a><strong>Шаг&nbsp;2. </strong></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr12/"></a><a data-anchor="/document/16/206917/dfas68531g/" data-dfa="dfas68531g"></a>При выборе опции входа с&nbsp;помощью ЭЦП, откроется страница на&nbsp;которой выберите свой ЭЦП, введите пароль и&nbsp;нажмите «Войти».</p><img alt="" hideborder="false" class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/dfasvw1d4x/" data-dfa="dfasvw1d4x"></a></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr13/"></a><a data-anchor="/document/16/206917/dfas7mz9q7/" data-dfa="dfas7mz9q7"></a>В&nbsp;случае выбора опции входа при помощи OneID, откроется страница авторизации через систему OneID. Введите свой логин и&nbsp;пароль и&nbsp;нажмите «Войти». С&nbsp;этой страницы также можно войти в&nbsp;систему при помощи ЭЦП.</p><img alt="" hideborder="false" class="inimg" num="3" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr14/"></a><a data-anchor="/document/16/206917/dfasgiqm3d/" data-dfa="dfasgiqm3d"></a><strong>Шаг&nbsp;3. </strong></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr15/"></a><a data-anchor="/document/16/206917/dfaskgqk2f/" data-dfa="dfaskgqk2f"></a>После успешной авторизации на&nbsp;сайте, откроется страница персонального кабинета лица с&nbsp;перечнем доступных услуг.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr16/"></a><a data-anchor="/document/16/206917/dfasm9tmvg/" data-dfa="dfasm9tmvg"></a>На&nbsp;этой странице можно вновь зарегистрировать бизнес, посмотреть основные сведения о&nbsp;своем предприятии, открыть счет в&nbsp;банке, получить сведения из&nbsp;ЕГРПО.</p><img alt="" hideborder="false" class="inimg" num="4" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr17/"></a><a data-anchor="/document/16/206917/dfasoosz3b/" data-dfa="dfasoosz3b"></a>Из&nbsp;всех представленных доступных услуг выберите «Изменения юридического лица».</p><img alt="" hideborder="false" class="inimg" num="5" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr18/"></a><a data-anchor="/document/16/206917/dfasnnwshi/" data-dfa="dfasnnwshi"></a>Появится всплывающее окно, в&nbsp;котором необходимо выбрать между «Изменения юридического лица» и&nbsp;«Мои сохраненные изменения». Сохраненные изменения предполагают просмотр старых изменений, которые были внесены в&nbsp;учредительные документы. Выберите «Изменения юридического лица».</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr19/"></a><a data-anchor="/document/16/206917/dfas6yzl2t/" data-dfa="dfas6yzl2t"></a><strong>Шаг&nbsp;4. </strong></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr20/"></a><a data-anchor="/document/16/206917/dfas9goagp/" data-dfa="dfas9goagp"></a>После этого откроется страница, на&nbsp;которой можно вносить необходимые изменения.</p><img alt="" hideborder="false" class="inimg" num="6" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr21/"></a><a data-anchor="/document/16/206917/dfasn147ew/" data-dfa="dfasn147ew"></a>Учитывая, что это общество с&nbsp;ограниченной ответственностью, то&nbsp;на&nbsp;странице будут перечислены изменения, которые можно внести в&nbsp;соответствии с&nbsp;Законом «Об&nbsp;обществах с&nbsp;ограниченной и&nbsp;дополнительной ответственностью» и&nbsp;другими законодательными актами. Можно изменить организационно-правовую форму, фирменное наименование, местонахождение, доли в&nbsp;уставном фонде, отразить ввод и&nbsp;вывод участников, изменить основной вид деятельности и&nbsp;прочие сведения в&nbsp;учредительных документах.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr22/"></a><a data-anchor="/document/16/206917/dfas5hyw9h/" data-dfa="dfas5hyw9h"></a>Исходя из&nbsp;того, какие изменения намерены внести собственники общества, необходимо выбрать нужный раздел и&nbsp;продолжить онлайн заполнение.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr23/"></a><a data-anchor="/document/16/206917/dfast9nk9n/" data-dfa="dfast9nk9n"></a>Предположим, собственники приняли решение об&nbsp;увеличении размера своих долей.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr24/"></a><a data-anchor="/document/16/206917/dfasun3knd/" data-dfa="dfasun3knd"></a>Для этого выберите строку «Изменение учредительных данных (доли учредителей в&nbsp;уставном фонде)» и&nbsp;нажмите в&nbsp;правом углу соответствующей строки на&nbsp;синюю кнопку с&nbsp;изображением ручки, что означает редактирование.</p><p style="text-align:left"><a data-anchor="/document/16/206917/dfaslffyq8/" data-dfa="dfaslffyq8"></a></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr25/"></a><a data-anchor="/document/16/206917/dfasgoorky/" data-dfa="dfasgoorky"></a><strong>Шаг&nbsp;5. </strong></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr26/"></a><a data-anchor="/document/16/206917/dfas3g8bv8/" data-dfa="dfas3g8bv8"></a>Модуль открывает страницу со&nbsp;сведениями об&nbsp;учредителях и&nbsp;размере их&nbsp;уставной доли.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr27/"></a><a data-anchor="/document/16/206917/dfasyc1b3y/" data-dfa="dfasyc1b3y"></a>На&nbsp;этой странице можно добавить соучредителей: юридическое либо физическое лицо или иностранное юридическое либо физическое лицо, нажав кнопку «Добавить».</p><img alt="" hideborder="false" class="inimg" num="7" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr28/"></a><a data-anchor="/document/16/206917/dfaso7xmad/" data-dfa="dfaso7xmad"></a>Чтобы изменить размер доли собственника, в&nbsp;правом углу строки имеющихся учредителей выберите синюю кнопку с&nbsp;изображением ручки, что означает форму редактирования. Нажав на&nbsp;нее, откроете страницу в&nbsp;которой можно отредактировать как ранее внесенные сведения об&nbsp;учредителе, так и&nbsp;внести размер доли в&nbsp;самом низу страницы.</p><img alt="" hideborder="false" class="inimg" num="8" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr29/"></a><a data-anchor="/document/16/206917/dfaser321t/" data-dfa="dfaser321t"></a>После внесения изменений, нажмите «Сохранить» и&nbsp;модуль вернет пользователя на&nbsp;предыдущую страницу.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr30/"></a><a data-anchor="/document/16/206917/dfasvqrnse/" data-dfa="dfasvqrnse"></a>После того, как изменения размера долей и&nbsp;состава учредителей внесены, нажмите «Назад» внизу страницы.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr31/"></a><a data-anchor="/document/16/206917/dfaslktco8/" data-dfa="dfaslktco8"></a><strong>Шаг 6</strong></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr32/"></a><a data-anchor="/document/16/206917/dfasbo2aen/" data-dfa="dfasbo2aen"></a>После этого вновь откроется страница с&nbsp;перечнем возможных изменений. В&nbsp;зависимости от&nbsp;того, что необходимо изменить, выбирайте соответствующую строку, кнопку редактирования и&nbsp;вносите необходимые изменения.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr33/"></a><a data-anchor="/document/16/206917/dfasn4iy9l/" data-dfa="dfasn4iy9l"></a>Если более никаких изменений не&nbsp;намечено, выбирайте последнюю строку&nbsp;— «Загрузить подтверждающие документы» и&nbsp;нажмите на&nbsp;кнопку редактирования с&nbsp;изображением ручки в&nbsp;правом углу.</p><img alt="" hideborder="false" class="inimg" num="9" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/dfas59fe2v/" data-dfa="dfas59fe2v"></a></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr34/"></a><a data-anchor="/document/16/206917/dfas4uy1hy/" data-dfa="dfas4uy1hy"></a>На&nbsp;открывшейся странице можно загрузить отсканированные и&nbsp;подписанные подтверждающие документы.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr35/"></a><a data-anchor="/document/16/206917/dfas0dlr8p/" data-dfa="dfas0dlr8p"></a>Перечень документов, которые необходимо загружать соответствует тому, что представляется в&nbsp;явочном порядке при внесении изменений через центр государственных услуг «Единое окно» и&nbsp;определен законодательством (п.&nbsp;21&nbsp;Положения о&nbsp;порядке государственной регистрации). Устав и&nbsp;учредительный договор в&nbsp;новой редакции на&nbsp;этом этапе загружать не&nbsp;нужно.</p><img alt="" hideborder="false" class="inimg" num="10" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr36/"></a><a data-anchor="/document/16/206917/dfasxprlpx/" data-dfa="dfasxprlpx"></a>Чтобы загрузить подтверждающие документы, выберите в&nbsp;правом верхнем углу зеленую кнопку «Добавить».</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr37/"></a><a data-anchor="/document/16/206917/dfasa2dg6y/" data-dfa="dfasa2dg6y"></a>Модуль откроет страницу, на&nbsp;которую загрузите сам документ, его название и&nbsp;дату, краткое описание (не&nbsp;обязательно).</p><img alt="" hideborder="false" class="inimg" num="11" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr38/"></a><a data-anchor="/document/16/206917/dfasvz1ngg/" data-dfa="dfasvz1ngg"></a>Добавив нужный документ, сохраните его, после чего модуль вернет пользователя на&nbsp;страницу с&nbsp;загруженными документами.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr39/"></a><a data-anchor="/document/16/206917/dfasa1tt6h/" data-dfa="dfasa1tt6h"></a>Каждый документ загружайте по&nbsp;отдельности.</p><img alt="" hideborder="false" class="inimg" num="12" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr40/"></a><a data-anchor="/document/16/206917/dfasrmd20p/" data-dfa="dfasrmd20p"></a>Если документы были загружены ошибочно или требуют корректировки, это можно сделать с&nbsp;помощью кнопок в&nbsp;конце каждой строки с&nbsp;наименованием документов&nbsp;— кнопка редактирования с&nbsp;изображением ручки и&nbsp;кнопка удаления с&nbsp;изображением крестика.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr41/"></a><a data-anchor="/document/16/206917/dfasalq3lh/" data-dfa="dfasalq3lh"></a>После того как все документы загружены, нужно вернуться назад, нажав на&nbsp;соответствующую иконку «Назад».</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr42/"></a><a data-anchor="/document/16/206917/dfasnx5a2g/" data-dfa="dfasnx5a2g"></a>Модуль вновь вернет пользователя на&nbsp;страницу с&nbsp;возможными доступными изменениями.</p><img alt="" hideborder="false" class="inimg" num="13" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr43/"></a><a data-anchor="/document/16/206917/dfasudk5mq/" data-dfa="dfasudk5mq"></a>Выберите строку «Изменение (дополнение) сведений в&nbsp;учредительных документах» и&nbsp;нажмите на&nbsp;синюю кнопку с&nbsp;изображением ручки в&nbsp;правом углу соответствующей строки.</p><p style="text-align:left"><a data-anchor="/document/16/206917/dfas9t8ufx/" data-dfa="dfas9t8ufx"></a></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr44/"></a><a data-anchor="/document/16/206917/dfasgmznfk/" data-dfa="dfasgmznfk"></a>На&nbsp;открывшейся странице можно загрузить Устав и&nbsp;учредительный договор в&nbsp;новой редакции.</p><img alt="" hideborder="false" class="inimg" num="14" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr45/"></a><a data-anchor="/document/16/206917/dfasnugmvy/" data-dfa="dfasnugmvy"></a>Чтобы добавить документ, нажмите на&nbsp;зеленую кнопку в&nbsp;правом углу соответствующей строки с&nbsp;изображением знака плюс.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr46/"></a><a data-anchor="/document/16/206917/dfas9mnlv4/" data-dfa="dfas9mnlv4"></a>Модуль откроет страницу, на&nbsp;которую загрузите сам документ, дату, краткое описание (не&nbsp;обязательно).</p><img alt="" hideborder="false" class="inimg" num="15" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr47/"></a><a data-anchor="/document/16/206917/dfasgno9qw/" data-dfa="dfasgno9qw"></a>При успешном добавлении нужно сохранить его и&nbsp;модуль вернет пользователя обратно.</p><img alt="" hideborder="false" class="inimg" num="16" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr48/"></a><a data-anchor="/document/16/206917/dfasc271gl/" data-dfa="dfasc271gl"></a>Если документы были загружены ошибочно или требуют корректировки, это можно сделать с&nbsp;помощью кнопки редактирования.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr49/"></a><a data-anchor="/document/16/206917/dfasih00w6/" data-dfa="dfasih00w6"></a>Если все верно, нажмите «Назад».</p><p style="text-align:left"><a data-anchor="/document/16/206917/dfasx04fmf/" data-dfa="dfasx04fmf"></a></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr50/"></a><a data-anchor="/document/16/206917/dfasspbxq4/" data-dfa="dfasspbxq4"></a><strong>Шаг 8</strong></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr51/"></a><a data-anchor="/document/16/206917/dfas170bfm/" data-dfa="dfas170bfm"></a>На&nbsp;этом этапе вновь открывается страница с&nbsp;возможными доступными изменениями.</p><img alt="" hideborder="false" class="inimg" num="17" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr52/"></a><a data-anchor="/document/16/206917/dfaszz86gb/" data-dfa="dfaszz86gb"></a>Так как все изменения внесены, то&nbsp;нажмите «Далее» в&nbsp;правом нижнем углу.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr53/"></a><a data-anchor="/document/16/206917/dfasbzakhl/" data-dfa="dfasbzakhl"></a><strong>Подсказка!</strong></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr54/"></a><a data-anchor="/document/16/206917/dfas5nmx4x/" data-dfa="dfas5nmx4x"></a>На&nbsp;этой странице пользователь может отменить заявку или просмотреть изменения.</p><p style="text-align:left"><a data-anchor="/document/16/206917/dfasaugb4z/" data-dfa="dfasaugb4z"></a></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr55/"></a><a data-anchor="/document/16/206917/dfas0gikk5/" data-dfa="dfas0gikk5"></a><strong>Шаг 9</strong></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr56/"></a><a data-anchor="/document/16/206917/dfasrnqopw/" data-dfa="dfasrnqopw"></a>На&nbsp;этом финальном этапе модуль ЕПИГУ формирует заявление на&nbsp;изменения.</p><p style="text-align:left"><a data-anchor="/document/16/206917/dfasbebuu5/" data-dfa="dfasbebuu5"></a></p><img alt="" hideborder="false" class="inimg" num="18" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><img alt="" hideborder="false" class="inimg" num="19" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr58/"></a><a data-anchor="/document/16/206917/dfasgddtk9/" data-dfa="dfasgddtk9"></a>Все изменения внимательно проверьте.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr59/"></a><a data-anchor="/document/16/206917/dfasu18qv7/" data-dfa="dfasu18qv7"></a>Если допущена ошибка, можно вернуться назад и&nbsp;отредактировать данные.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr60/"></a><a data-anchor="/document/16/206917/dfaszlnwz8/" data-dfa="dfaszlnwz8"></a>Если все верно, то&nbsp;поставьте галочку в&nbsp;самом низу страницы. Этим пользователь подтверждает, что проверил правильность внесенных изменений. Нажмите «Далее».</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr61/"></a><a data-anchor="/document/16/206917/dfas5pundt/" data-dfa="dfas5pundt"></a><strong>Шаг 10</strong></p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr62/"></a><a data-anchor="/document/16/206917/dfas08ectg/" data-dfa="dfas08ectg"></a>Далее открывается страница с&nbsp;данными для оплаты.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr63/"></a><a data-anchor="/document/16/206917/dfas9xb7g4/" data-dfa="dfas9xb7g4"></a>На&nbsp;этом этапе система генерирует номер заявки, ее&nbsp;стоимость, финальные данные.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr64/"></a><a data-anchor="/document/16/206917/dfaskoveu0/" data-dfa="dfaskoveu0"></a>Оплатить заявку можно посредством перевода с&nbsp;расчетного счета и&nbsp;Uzcard.</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr65/"></a><a data-anchor="/document/16/206917/dfasi4opel/" data-dfa="dfasi4opel"></a>После списания денежных средств Система в&nbsp;сроки, предусмотренные для госрегистрации Положением о&nbsp;порядке государственной регистрации субъектов предпринимательства, сверяет представленные заявителем сведения с&nbsp;данными, содержащимися в&nbsp;базах данных Системы. При соответствии данных Система:</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr66/"></a><a data-anchor="/document/16/206917/dfasm44g4s/" data-dfa="dfasm44g4s"></a>—&nbsp;проводит государственную регистрацию путем автоматического внесения соответствующих записей в&nbsp;Реестр;</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr67/"></a><a data-anchor="/document/16/206917/dfasy1kirr/" data-dfa="dfasy1kirr"></a>—&nbsp;формирует обновленное свидетельство о&nbsp;регистрации;</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr68/"></a><a data-anchor="/document/16/206917/dfasuib7zl/" data-dfa="dfasuib7zl"></a>—&nbsp;сохраняет свидетельство о&nbsp;регистрации, учредительные документы в&nbsp;репозитории электронных документов;</p><p style="text-align:left"><a data-anchor="/document/16/206917/bssPhr69/"></a><a data-anchor="/document/16/206917/dfassxgokg/" data-dfa="dfassxgokg"></a>—&nbsp;либо формирует и&nbsp;сохраняет в&nbsp;репозитории электронных документов отказ в&nbsp;государственной перерегистрации с&nbsp;указанием причины отказа.</p></div><p><a data-anchor="/document/16/206917/dfasom76v4/" data-dfa="dfasom76v4"></a><a data-anchor="/document/16/206917/bssPhr70/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882132" sourceId="1" fullSizeImageId="-41882131" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882132/"></p><p style="text-align:left"><a data-anchor="/document/16/206917/dfasquomng/" data-dfa="dfasquomng"></a><a data-anchor="/document/16/206917/dfasc5mf0h/" data-dfa="dfasc5mf0h"></a></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

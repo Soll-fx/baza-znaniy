@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как приостановить деятельность индивидуальному предпринимателю</h2><div class="doc-snippet"><a data-anchor="/document/16/205647/dfas9dc0ff/" data-dfa="dfas9dc0ff"></a><a data-anchor="/document/16/205647/bssPhr2/"></a>В рекомендации –&nbsp;какими способами можно приостановить деятельность индивидуального предпринимателя, нужно ли прекращать трудовые договоры с работниками на время приостановления деятельности и как решать вопросы, связанные с банком, в этот период. А также эксперты разъяснили, какие последствия влечет&nbsp;приостановление и можно ли индивидуальному предпринимателю возобновить деятельность.&nbsp; </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/205647/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205647/bssPhr5/"></a><a data-anchor="/document/16/205647/dfasnrfc6h/" data-dfa="dfasnrfc6h"></a>Приостановление деятельности ИП</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205647/bssPhr7/"></a><a data-anchor="/document/16/205647/dfas1d5k99/" data-dfa="dfas1d5k99"></a>Индивидуальные предприниматели могут приостановить свою деятельность, обратившись в Центр государственных услуг по месту регистрации в <a href="https://1gb.uz/#/document/16/205647/dfas90uwyu/">явочном порядке</a> либо <a href="https://1gb.uz/#/document/16/205647/dfasg0554b/">самостоятельно на сайте fo.birdarcha.uz</a>&nbsp;(<span num="12" target="_self" lnktype="intlnk" title="" class="doc">п. 6</span> Положения о порядке государственной регистрации субъектов предпринимательства, постановления Кабмина от 09.02.2017 № 66).</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205647/bssPhr9/"></a><a data-anchor="/document/16/205647/dfas90uwyu/" data-dfa="dfas90uwyu"></a>Чтобы приостановить деятельность в явочном порядке сдайте в Центр госуслуг Свидетельство о государственной регистрации в качестве ИП (<span num="13" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 392 НК).</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr10/"></a><a data-anchor="/document/16/205647/dfasu6y07g/" data-dfa="dfasu6y07g"></a>При обращении в Центры госуслуг нужно иметь с собой:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/205647/bssPhr11/"></a><a data-anchor="/document/16/205647/dfasllcks2/" data-dfa="dfasllcks2"></a>паспорт для ИП – гражданина Узбекистана;</li><li style="text-align:left">паспорт или иной документ, удостоверяющий личность и место жительства в Республике Узбекистан, если ИП – иностранный гражданин либо лицо без гражданства (<span num="14" target="_self" lnktype="intlnk" title="" class="doc">п. 33</span> Положения о порядке государственной регистрации субъектов предпринимательства, постановления Кабмина от 09.02.2017 № 66).</li></ul></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205647/bssPhr13/"></a><a data-anchor="/document/16/205647/dfasg0554b/" data-dfa="dfasg0554b"></a>При самостоятельном приостановлении деятельности ИП без обращения в Центр госуслуг:</p><ol class="c-list"><li><a data-anchor="/document/16/205647/bssPhr14/"></a><a data-anchor="/document/16/205647/dfas9fkogg/" data-dfa="dfas9fkogg"></a>перейдите <a href="https://fo.birdarcha.uz/" title="">на сайт</a> и войдите в персональный кабинет;</li><li><a data-anchor="/document/16/205647/bssPhr15/"></a><a data-anchor="/document/16/205647/dfas9yhw67/" data-dfa="dfas9yhw67"></a>войдите в раздел «Изменить сведения физического лица»;</li><li><a data-anchor="/document/16/205647/bssPhr16/"></a><a data-anchor="/document/16/205647/dfas3l4nqr/" data-dfa="dfas3l4nqr"></a>кликните на «Изменить статус физического лица»;</li><li><a data-anchor="/document/16/205647/bssPhr17/"></a><a data-anchor="/document/16/205647/dfasxw0gow/" data-dfa="dfasxw0gow"></a>в появившейся таблице сведений об ИП нажмите на кнопку «Выбрать» в самом последнем столбце;</li><li><a data-anchor="/document/16/205647/bssPhr18/"></a><a data-anchor="/document/16/205647/dfasyqsm2w/" data-dfa="dfasyqsm2w"></a>при появлении общих сведений об ИП (этап 1) нажмите на зеленую кнопку «Следующее»;</li><li><a data-anchor="/document/16/205647/bssPhr19/"></a><a data-anchor="/document/16/205647/dfascnigyi/" data-dfa="dfascnigyi"></a>в появившемся окне «Приостановлении либо возобновление деятельности» (этап 2) выберите «Приостановление деятельности» из выпадающего списка и ниже укажите дату приостановления. Далее нажмите на зеленую кнопку «Сохранить»;</li><li><a data-anchor="/document/16/205647/bssPhr20/"></a><a data-anchor="/document/16/205647/dfasluxbyf/" data-dfa="dfasluxbyf"></a>далее система автоматически сгенерирует Свидетельство о временном приостановлении деятельности. Сохраните его.</li></ol></div><a data-anchor="/document/16/205647/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205647/bssPhr21/"></a><a data-anchor="/document/16/205647/dfasir9igg/" data-dfa="dfasir9igg"></a>Госпошлина</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205647/bssPhr23/"></a><a data-anchor="/document/16/205647/dfasfnwzwx/" data-dfa="dfasfnwzwx"></a>За приостановление деятельности ИП государственную пошлину платить не нужно (<span num="16" target="_self" lnktype="intlnk" title="" class="doc">Закон о госпошлине</span>).</p></div><a data-anchor="/document/16/205647/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205647/bssPhr24/"></a><a data-anchor="/document/16/205647/dfas17aazz/" data-dfa="dfas17aazz"></a>Уведомление налоговых органов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205647/bssPhr26/"></a><a data-anchor="/document/16/205647/dfas6i9ei7/" data-dfa="dfas6i9ei7"></a>При приостановлении деятельности ИП как в явочном порядке, так и удаленно, система автоматически уведомляет налоговые органы об этом (<span num="17" target="_self" lnktype="intlnk" title="" class="doc">п. 16</span> Регламента взаимодействия регистрирующих органов и уполномоченных организаций при государственной регистрации субъектов предпринимательства, постановления Кабмина от 09.02.2017 № 66; <span num="18" target="_self" lnktype="intlnk" title="" class="doc">ч. 6</span> ст. 392 НК). Отдельное уведомление налоговых органов не требуется, если ИП работал без найма работников (<span num="19" target="_self" lnktype="intlnk" title="" class="doc">п. 1</span> ч. 7 ст. 392 НК; <span num="20" target="_self" lnktype="intlnk" title="" class="doc">ч. 8</span> ст. 408 НК).</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr27/"></a><a data-anchor="/document/16/205647/dfasgvgsk3/" data-dfa="dfasgvgsk3"></a>Если ИП нанимал работников, то он должен подать через свой личный кабинет или мобильное приложение уведомление временном или полном приостановлении деятельности (п. 24&nbsp;Положения, прил. № 1 к постановлению Кабмина от 22.11.2021 № 707). Исчисление НДФЛ и социального налога прекращается после подачи уведомления (<span num="23" target="_self" lnktype="intlnk" title="" class="doc">п. 2</span> ч. 7 ст. 392 НК; чч. <span num="24" target="_self" lnktype="intlnk" title="" class="doc">9-10</span> ст. 408 НК).</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr28/"></a><a data-anchor="/document/16/205647/dfaspirw66/" data-dfa="dfaspirw66"></a>При приостановлении деятельности ИП снимать онлайн-ККМ с регистрации в налоговой не требуется (<span num="133" target="_self" lnktype="intlnk" title="" class="doc">п. 26</span>&nbsp;приложения № 1 к постановлению Кабмина от 23.11.2019&nbsp;№ 943).</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr29/"></a><a data-anchor="/document/16/205647/dfaspo2us5/" data-dfa="dfaspo2us5"></a>Книгу учета доходов и расходов, налогооблагаемых доходов и товарных операций и книгу товарных чеков нужно хранить в течение трех&nbsp;лет с момента внесения последней записи&nbsp;(ч.ч. <span num="27" target="_self" lnktype="intlnk" title="" class="doc">8-9</span> ст. 392 НК; <span num="28" target="_self" lnktype="intlnk" title="" class="doc">ст. 359</span> НК). Книги должны быть пронумерованы, прошнурованы и заверены печатью налоговых органов. Следовательно, ИП не может распоряжаться товарно-материальными ценностями без возобновления деятельности.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли&#160;платить&#160;имущественный&#160;и земельный налоги, если предприятие приостановило деятельность на определенный период</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr31/"></a><a data-anchor="/document/16/205647/dfasusxgqh/" data-dfa="dfasusxgqh"></a>Приостановление деятельности юридического лица не предусмотрено законодательством РУз.</p><p><a data-anchor="/document/16/205647/bssPhr32/"></a><a data-anchor="/document/16/205647/dfasvtz68l/" data-dfa="dfasvtz68l"></a>Юридические лица РУз, имеющие на территории РУз имущество, являющееся объектом налогообложения в соответствии со <span num="107" target="_self" lnktype="intlnk" title="" class="doc">статьей 411</span> НК, являются плательщиками налога на имущества юридических лиц (<span num="108" target="_self" lnktype="intlnk" title="" class="doc">ст. 410</span> НК).</p><p><a data-anchor="/document/16/205647/bssPhr33/"></a><a data-anchor="/document/16/205647/dfas3agqge/" data-dfa="dfas3agqge"></a>Налогоплательщиками земельного налога с юридических лиц признаются юридические лица имеющие земельные участки на правах собственности, владения, пользования или аренды (<span num="109" target="_self" lnktype="intlnk" title="" class="doc">ст. 425</span> НК).</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr34/"></a><a data-anchor="/document/16/205647/dfasmlvvbg/" data-dfa="dfasmlvvbg"></a>При этом НК не предусматривает приостановление исчисления и уплаты налога на имущество и земельного налога с юрлиц. Данные налоги налогоплательщики уплачивают независимо от того, осуществляет деятельность юридическое лицо или нет.</p></div></div></div><a data-anchor="/document/16/205647/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205647/bssPhr35/"></a><a data-anchor="/document/16/205647/dfasor3k7h/" data-dfa="dfasor3k7h"></a>Трудовые договоры с работниками</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205647/bssPhr37/"></a><a data-anchor="/document/16/205647/dfasvzm38x/" data-dfa="dfasvzm38x"></a>Трудовой договор с работниками не прекращайте даже в случае сдачи карточек в налоговую. Трудовые отношения между ИП и работниками регулирует трудовое законодательство (<span num="127" target="_self" lnktype="intlnk" title="" class="doc">п. 5</span> Положения, прил. № 1 к постановлению Кабмина от 22.11.2021&nbsp;№ 707, ст. 19&nbsp;ТК) и во время простоя не по вине работника за ним сохраняется средняя зарплата (ст.&nbsp;266 ТК). Поэтому заранее согласуйте с работником предстоящее приостановление. Предоставьте работнику по его заявлению отпуск без сохранения заработной платы на время приостановления. При этом, стоит учитывать, что максимальная продолжительность отпуска без сохранения зарплаты ограничена 3 месяцами (ст.&nbsp;241 ТК).</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr38/"></a><a data-anchor="/document/16/205647/dfasv7g9vm/" data-dfa="dfasv7g9vm"></a>Другой вариант – досрочно прекратите трудовой договор по взаимному соглашению сторон. В этом случае,&nbsp;не позднее одного рабочего дня подайте уведомление о расторжении трудового договора с работником.&nbsp;Налоговые органы аннулируют карточку учета работника в день принятия уведомления. Если вы не подадите уведомление, НДФЛ и социальный налог продолжат начислять&nbsp;(<span num="131" target="_self" lnktype="intlnk" title="" class="doc">п. 18</span>&nbsp;Положения&nbsp; №&nbsp;707).</p></div><a data-anchor="/document/16/205647/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/205647/bssPhr39/"></a><a data-anchor="/document/16/205647/dfasxyzwso/" data-dfa="dfasxyzwso"></a>Вопросы, связанные с банком</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205647/bssPhr41/"></a><a data-anchor="/document/16/205647/dfassx5m0a/" data-dfa="dfassx5m0a"></a>Приостановление деятельности ИП не влечет автоматического приостановления операций по счетам в банке (<span num="132" target="_self" lnktype="intlnk" title="" class="doc">п. 35</span> Инструкции от 08.02.2023 № 3420). Следовательно, при получении ИП счет-фактур по деятельности до приостановления, по ним можно осуществлять расчет.</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr42/"></a><a data-anchor="/document/16/205647/dfaswhyaq9/" data-dfa="dfaswhyaq9"></a>В течение трех рабочих дней в явочном порядке либо в электронном виде нужно представить в ЦОТУ заявление о приостановлении деятельности для внесения соответствующих изменений в данные о регистрации онлайн-ККМ или виртуальной кассы. Онлайн-ККМ остается в распоряжении собственника. Однако, при наличии договоров инкассации наличной денежной выручки с обслуживающим банком, уведомите банк о приостановлении деятельности и заключите дополнительные соглашения о приостановлении договоров до возобновления деятельности.&nbsp;</p></div><a data-anchor="/document/16/205647/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/205647/bssPhr43/"></a><a data-anchor="/document/16/205647/dfaso2v01g/" data-dfa="dfaso2v01g"></a>Последствия приостановления</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205647/bssPhr45/"></a><a data-anchor="/document/16/205647/dfasizapvo/" data-dfa="dfasizapvo"></a>Стаж работы за период приостановления деятельности ИП не учитывается (п. 23&nbsp;приложения № 1 к постановлению Кабмина&nbsp;от 13.10.2022 № 592).</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr46/"></a><a data-anchor="/document/16/205647/dfasvg5geq/" data-dfa="dfasvg5geq"></a>Приостановление деятельности ИП не влечет автоматического приостановления лицензий и разрешительных документов (ст. 32&nbsp;Закона Республики Узбекистан&nbsp;от 14.07.2021 № ЗРУ-701). Однако, в случае необходимости их продления в период приостановления деятельности, могут возникнуть трудности ввиду отсутствия свидетельства о госрегистрации у ИП.</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr47/"></a><a data-anchor="/document/16/205647/dfas2kxgg5/" data-dfa="dfas2kxgg5"></a>Приостановление деятельности ИП не влечет автоматического приостановления договоров на поставку энергоресурсов и на сбор и вывоз твердых бытовых отходов. Учитывая, что поставка энергоресурсов осуществляется на основе 100% предоплаты (<span num="36" target="_self" lnktype="intlnk" title="" class="doc">п. 8</span> Указа Президента Республики Узбекистан&nbsp;от 29.05.2017 УП-5059), оповестите поставщиков и приостановите действия соответствующих договоров.</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr48/"></a><a data-anchor="/document/16/205647/dfasdsskse/" data-dfa="dfasdsskse"></a>Законодательством не установлены ограничения на приостановление деятельности ИП при наличии кредиторской или дебиторской задолженности. Следовательно, даже после приостановления деятельности ИП обязательства по исполнению ранее заключенных с контрагентами договоров не прекращаются, а ИП несет по ним имущественную ответственность (<span num="38" lnktype="intlnk" title="" class="doc">ст. 24-25</span> ГК; <span num="39" target="_self" lnktype="intlnk" title="" class="doc">ст. 6</span> Закона о гарантиях свободы предпринимательской деятельности). Поэтому, в случае наличия неисполненных сделок не подавайте заявление на приостановление деятельности.</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr49/"></a><a data-anchor="/document/16/205647/dfasemn1a2/" data-dfa="dfasemn1a2"></a>После сдачи свидетельства о госрегистрации и приостановления деятельности ИП не сможет заниматься предусмотренным в нем видом деятельности. Налоговые органы ежедневно наблюдают за ИП, временно приостановившими деятельность, на предмет осуществления ими незаконной предпринимательской деятельности (п. 19 приложения № 1 и <span data-warm-notices="11338111,11338183" data-warm-notice-type="error" num="71" target="_self" lnktype="intlnk" title="Сведения о стоимости имущества, используемого для осуществления платежей по пластиковым карточкам, ежеквартально передаются коммерческими банками" class="doc">п. 6 </span>приложения № 3 к постановлению Кабмина&nbsp;от 29.06.2017 № 445). При обнаружении таких фактов ИП будет привлечен к ответственности (<span num="40" lnktype="intlnk" title="" class="doc">п. 45</span> постановления<br>Кабмина от 26.11.2002 № 407, постановление&nbsp;Кабмина от 28.08.2012 № 253).</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr50/"></a><a data-anchor="/document/16/205647/dfas0x0gzf/" data-dfa="dfas0x0gzf"></a>Определенные трудности могут возникнуть и с договорами аренды помещений, стационарных торговых точек на рынках и торговых комплексах. Чтобы не допустить расторжения договора вследствие неуплаты арендных платежей (<span num="72" target="_self" lnktype="intlnk" title="Администрация рынка имеет право:" class="doc">п. 24</span> Приложения № 1 и <span num="73" target="_self" lnktype="intlnk" title="Администрация торгового комплекса имеет право:" class="doc">п. 22</span> Приложение № 2 к&nbsp;постановлению Кабмина от 28.08.2012 № 253), а также сохранить за собой стационарную торговую точку, заключите дополнительное соглашение о приостановлении действия договора аренды на период приостановления деятельности ИП.</p><p style="text-align:left"><a data-anchor="/document/16/205647/bssPhr51/"></a><a data-anchor="/document/16/205647/dfasgloi79/" data-dfa="dfasgloi79"></a>Приостановление деятельности ИП не влияет на возможность ИП быть истцом и ответчиком в суде (ст. 25 ЭПК; ст. 26 ГПК; <span num="54" lnktype="intlnk" title="" class="doc">ст. 26</span> КоАС). Данное обстоятельство также не служит основанием приостановления исполнительного производства (ст. <span num="55" lnktype="intlnk" title="" class="doc">34-35</span> Закона об исполнении судебных актов и актов иных органов; <span num="74" lnktype="intlnk" title="Право на подачу инкассовых поручений имеют:" class="doc">п. 65</span>&nbsp;Положения о безналичных расчетах в Республике Узбекистан, рег. от 13.04.2020 № 3229 ).</p></div><a data-anchor="/document/16/205647/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/205647/bssPhr52/"></a><a data-anchor="/document/16/205647/dfasz4sd7e/" data-dfa="dfasz4sd7e"></a>Возобновление деятельности ИП</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205647/bssPhr54/"></a><a data-anchor="/document/16/205647/dfas1qfw0e/" data-dfa="dfas1qfw0e"></a>Возобновление деятельности ИП происходит в том же порядке, что и приостановление (<span num="41" target="_self" lnktype="intlnk" title="" class="doc">п. 6</span> Положения о порядке государственной регистрации субъектов предпринимательства,&nbsp;постановление Кабмина от 09.02.2017 № 66).</p></div><p><a data-anchor="/document/16/205647/dfaskqpp42/" data-dfa="dfaskqpp42"></a><a data-anchor="/document/16/205647/bssPhr55/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882132" sourceId="1" fullSizeImageId="-41882131" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882132/"></p><p><a data-anchor="/document/16/205647/dfasznrmt7/" data-dfa="dfasznrmt7"></a><a data-anchor="/document/16/205647/bssPhr56/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

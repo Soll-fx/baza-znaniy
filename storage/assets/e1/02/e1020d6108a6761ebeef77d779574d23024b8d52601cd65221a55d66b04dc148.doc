@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отразить материальные активы «Запасы» в финансовой отчетности по МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206409/dfasp3dq61/" data-dfa="dfasp3dq61"></a><a data-anchor="/document/16/206409/bssPhr2/"></a>Из рекомендации узнаете, что входит в состав материальных активов в виде запасов по МСФО, какие классификационные группы запасов предлагают МСФО, как признавать запасы в финансовой отчетности и какие методы первоначальной оценки запасов применять по МСФО. На примере эксперты показали, как раскрыть информацию о запасах в примечаниях к финансовой отчетности компании по МСФО. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206409/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206409/bssPhr3/"></a><a data-anchor="/document/16/206409/dfas8ptvqz/" data-dfa="dfas8ptvqz"></a>Состав материальных активов в виде запасов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206409/bssPhr5/"></a><a data-anchor="/document/16/206409/dfas4wys8a/" data-dfa="dfas4wys8a"></a>Бухгалтерский учет и порядок отражения материальных активов в виде запасов в финансовой отчетности регламентирует МСФО (IAS) 2 «Запасы».</p><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr6/"></a><a data-anchor="/document/16/206409/dfasmh0sd1/" data-dfa="dfasmh0sd1"></a>Запасы – это активы, которые:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206409/bssPhr7/"></a><a data-anchor="/document/16/206409/dfasfqvrkh/" data-dfa="dfasfqvrkh"></a>предназначены для продажи в ходе обычной деятельности;</li><li style="text-align:left">созданы в процессе производства для такой продажи: готовая продукция, незавершенное производство, сырье;</li><li style="text-align:left">представлены в форме сырья и материалов, предназначенных для использования в производственном процессе или при оказании услуг.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr8/"></a><a data-anchor="/document/16/206409/dfasd82d90/" data-dfa="dfasd82d90"></a>В соответствии с МСФО (IAS) 2 «Запасы» запасы включают в себя готовую продукцию, незавершенное производство, сырье и материалы, предназначенные для дальнейшего использования в производственном процессе, для его обслуживания или хозяйственных нужд, а также товары, купленные и хранящиеся для перепродажи.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206409/bssPhr9/"></a><a data-anchor="/document/16/206409/dfas3saxgg/" data-dfa="dfas3saxgg"></a>Земля и другие активы, если они приобретены и предназначены для перепродажи, также относятся к запасам.</p><div class="incut-v4__icon"></div></div><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr11/"></a><a data-anchor="/document/16/206409/dfast4dwrg/" data-dfa="dfast4dwrg"></a><a data-anchor="/document/16/206409/dfasg18t8g/" data-dfa="dfasg18t8g"></a>Если деятельность компании относится к сфере услуг, запасы включают в себя затраты на услуги, выручка от предоставления которых еще не признана, то есть незавершенная деятельность аудиторов, архитекторов, юристов и т.д.&nbsp;</p></div><a data-anchor="/document/16/206409/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206409/bssPhr12/"></a><a data-anchor="/document/16/206409/dfasqems7v/" data-dfa="dfasqems7v"></a><a data-anchor="/document/16/206409/dfasgxg32r/" data-dfa="dfasgxg32r"></a>Классификационные группы запасов по МСФО&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206409/bssPhr14/"></a><a data-anchor="/document/16/206409/dfas6v1vh3/" data-dfa="dfas6v1vh3"></a>Для учета запасов МСФО предлагают следующие классификационные группы:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206409/bssPhr15/"></a><a data-anchor="/document/16/206409/dfasvtzbst/" data-dfa="dfasvtzbst"></a>сырье;</li><li style="text-align:left">материалы;</li><li style="text-align:left">незавершенное производство;</li><li style="text-align:left"><a data-anchor="/document/16/206409/dfas5i0q4u/" data-dfa="dfas5i0q4u"></a>готовая продукция.&nbsp;</li></ul></div><a data-anchor="/document/16/206409/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206409/bssPhr16/"></a><a data-anchor="/document/16/206409/dfas9o9grd/" data-dfa="dfas9o9grd"></a><a data-anchor="/document/16/206409/dfas4ewz7g/" data-dfa="dfas4ewz7g"></a>Признание запасов&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206409/bssPhr18/"></a><a data-anchor="/document/16/206409/dfas9okwh2/" data-dfa="dfas9okwh2"></a>В финансовой отчетности запасы можно признавать, как активы и как расходы.</p><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr19/"></a><a data-anchor="/document/16/206409/dfas311w0i/" data-dfa="dfas311w0i"></a>В качестве актива запасы признают по следующим критериям:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206409/bssPhr20/"></a><a data-anchor="/document/16/206409/dfasv48m13/" data-dfa="dfasv48m13"></a>если существует вероятность притока будущих экономических выгод в компанию;</li><li style="text-align:left"><a data-anchor="/document/16/206409/dfasus1y2r/" data-dfa="dfasus1y2r"></a>имеют стоимость или оценку, которая может быть надежно измерена.&nbsp;</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должен ли дилер, который реализует автомобили по договору консигнации, составляя финансовую отчетность, признать поступившие запасы активами и отразить их в балансе</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr22/"></a><a data-anchor="/document/16/206409/dfasmtzdcm/" data-dfa="dfasmtzdcm"></a>Право собственности на машины, находящиеся на торговых площадках дилеров, сохраняется за производителем.</p><p style="text-align:left"><a data-anchor="/document/16/206409/dfas63immy/" data-dfa="dfas63immy"></a><a data-anchor="/document/16/206409/bssPhr23/"></a>Согласно МСФО:</p><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr24/"></a><a data-anchor="/document/16/206409/dfastwk162/" data-dfa="dfastwk162"></a>Если риски и преимущества владения автомобилями в соответствии с заключенным договором перешли от производителя к дилеру, продавец признает активами поступившие запасы и соответствующие консигнационные обязательства перед производителем.</p><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr25/"></a><a data-anchor="/document/16/206409/dfas5qo21o/" data-dfa="dfas5qo21o"></a>Если риски и преимущества владения товаром остались за производителем, признания актива у дилера не происходит до момента фактического перехода права собственности (подробнее об этом говорится в МСФО (IAS) 18 «Выручка».</p></div></div><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr26/"></a><a data-anchor="/document/16/206409/dfas3gmgfz/" data-dfa="dfas3gmgfz"></a>Признание запасов в качестве расхода происходит после их продажи. Стоимость запасов нужно списывать на расходы в том отчетном периоде, когда признается соответствующий доход. Кроме того, любая уценка запасов до чистой цены продажи и все потери запасов должны быть признаны расходом периода списания или возникновения потерь. А сумма возврата любого частичного списания запасов должна признаваться как уменьшение расходов в период осуществления дооценки запасов.&nbsp;</p></div><a data-anchor="/document/16/206409/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206409/bssPhr27/"></a><a data-anchor="/document/16/206409/dfasgf7c1v/" data-dfa="dfasgf7c1v"></a><a data-anchor="/document/16/206409/dfasywrm3y/" data-dfa="dfasywrm3y"></a>Оценка запасов &nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206409/bssPhr29/"></a><a data-anchor="/document/16/206409/dfasl8kely/" data-dfa="dfasl8kely"></a>Существует 3 метода первоначальной оценки запасов согласно МСФО:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206409/bssPhr30/"></a><a data-anchor="/document/16/206409/dfastgnef7/" data-dfa="dfastgnef7"></a>по себестоимости: в себестоимость запасов включают все затраты на приобретение, переработку и прочие затраты, связанные с формированием запасов и доведением их до того уровня, на котором они находятся на момент составления отчетности;</li><li style="text-align:left">по нормативным затратам: используют для удобства проведения и повышения экономичности учетных процедур, является практически аналогом способа отражения материалов по учетным ценам;</li><li style="text-align:left"><a data-anchor="/document/16/206409/dfas5d6tsn/" data-dfa="dfas5d6tsn"></a>по розничным ценам: используют компании, занимающиеся розничной торговлей, запасы которых представлены широкой номенклатурой быстро оборачивающихся товаров.&nbsp;</li></ul></div><a data-anchor="/document/16/206409/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206409/bssPhr31/"></a><a data-anchor="/document/16/206409/dfaspbzsie/" data-dfa="dfaspbzsie"></a><a data-anchor="/document/16/206409/dfast55r54/" data-dfa="dfast55r54"></a>Раскрытие информации о запасах в примечаниях к финансовой отчетности&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206409/bssPhr33/"></a><a data-anchor="/document/16/206409/dfaszkmre5/" data-dfa="dfaszkmre5"></a>В примечаниях к финансовой отчетности необходимо раскрыть следующую информацию, касающуюся запасов:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206409/bssPhr34/"></a><a data-anchor="/document/16/206409/dfasu2swsa/" data-dfa="dfasu2swsa"></a>учетную политику, принятую для оценки запасов;</li><li style="text-align:left">использованный метод расчета себестоимости запасов, если себестоимость запасов определялась по формуле LIFO (Last In, First Out – «последним пришел – первым ушел»), нужно показать разницу между балансовой стоимостью и стоимостью по формуле FIFO (First In, First Out – «Первым пришел – первым ушел») или возможной чистой ценой продаж, если последняя меньше других значений стоимости запасов;</li><li style="text-align:left">общую балансовую стоимость запасов, в том числе балансовую стоимость запасов по группам и подгруппам классификации, принятой в компании. Например, стоимость товаров для продажи, незавершенного производства и т.д.;</li><li style="text-align:left">балансовую стоимость запасов, учтенных по чистой цене продаж;</li><li style="text-align:left">величину возврата любого списания, уценки, которая признается доходом;</li><li style="text-align:left">обязательства или события, приведшие к восстановлению списания запасов;</li><li style="text-align:left"><a data-anchor="/document/16/206409/dfas9tnlml/" data-dfa="dfas9tnlml"></a>балансовую стоимость запасов, заложенных в качестве обеспечения обязательств.&nbsp;</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/206409/bssPhr35/"></a><a data-anchor="/document/16/206409/dfasgwyqkr/" data-dfa="dfasgwyqkr"></a>Как раскрыть информацию о запасах в примечаниях к финансовой отчетности компании</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206409/bssPhr36/"></a><a data-anchor="/document/16/206409/dfas0gkz9i/" data-dfa="dfas0gkz9i"></a>Сырье и товары учитываются по покупным ценам. Незавершенное производство и выпущенная готовая продукция учитываются по себестоимости производства, включающей прямые производственные затраты, соответствующую часть накладных производственных расходов и амортизацию производственного оборудования.</p><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr37/"></a><a data-anchor="/document/16/206409/dfas7s22uu/" data-dfa="dfas7s22uu"></a>Движение запасов сырья и товаров отражается по формуле FIFO (первое поступление, первый отпуск). Для учета прочих запасов используется метод средневзвешенной стоимости.</p><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr38/"></a><a data-anchor="/document/16/206409/dfasuymgnp/" data-dfa="dfasuymgnp"></a>Если чистая цена продаж запасов оказывается ниже себестоимости, рассчитанной по вышеописанной методике, начисляется резерв:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="90.8%"><tbody><tr><td class="bdAll" style="width: 421px;"><p style="text-align:center"><a data-anchor="/document/16/206409/bssPhr39/"></a><a data-anchor="/document/16/206409/dfas8lm7yy/" data-dfa="dfas8lm7yy"></a><strong>Запасы, тыс. сумов</strong></p></td><td class="bdTopbdBottombdRight" style="width: 96px;"><p style="text-align:center"><a data-anchor="/document/16/206409/bssPhr40/"></a><a data-anchor="/document/16/206409/dfas2dbqgq/" data-dfa="dfas2dbqgq"></a><strong>2020 г.</strong></p></td><td class="bdTopbdBottombdRight" style="width: 102px;"><p style="text-align:center"><a data-anchor="/document/16/206409/bssPhr41/"></a><a data-anchor="/document/16/206409/dfasevwo5g/" data-dfa="dfasevwo5g"></a><strong>2019 г.</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 421px;"><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr42/"></a><a data-anchor="/document/16/206409/dfasxa6b6y/" data-dfa="dfasxa6b6y"></a>Сырье, материалы, незавершенное производство</p></td><td class="bdBottombdRight" style="width: 96px;"><p style="text-align:right"><a data-anchor="/document/16/206409/bssPhr43/"></a><a data-anchor="/document/16/206409/dfasfgix9g/" data-dfa="dfasfgix9g"></a>3 160</p></td><td class="bdBottombdRight" style="width: 102px;"><p style="text-align:right"><a data-anchor="/document/16/206409/bssPhr44/"></a><a data-anchor="/document/16/206409/dfastvh8ov/" data-dfa="dfastvh8ov"></a>3 000</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 421px;"><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr45/"></a><a data-anchor="/document/16/206409/dfasretnd2/" data-dfa="dfasretnd2"></a>Готовая продукция</p></td><td class="bdBottombdRight" style="width: 96px;"><p style="text-align:right"><a data-anchor="/document/16/206409/bssPhr46/"></a><a data-anchor="/document/16/206409/dfasr848oe/" data-dfa="dfasr848oe"></a>7 200</p></td><td class="bdBottombdRight" style="width: 102px;"><p style="text-align:right"><a data-anchor="/document/16/206409/bssPhr47/"></a><a data-anchor="/document/16/206409/dfase9ve73/" data-dfa="dfase9ve73"></a>6 400</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 421px;"><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr48/"></a><a data-anchor="/document/16/206409/dfasa1hhyi/" data-dfa="dfasa1hhyi"></a>Резерв</p></td><td class="bdBottombdRight" style="width: 96px;"><p style="text-align:right"><a data-anchor="/document/16/206409/bssPhr49/"></a><a data-anchor="/document/16/206409/dfas6qg4ou/" data-dfa="dfas6qg4ou"></a>(300)</p></td><td class="bdBottombdRight" style="width: 102px;"><p style="text-align:right"><a data-anchor="/document/16/206409/bssPhr50/"></a><a data-anchor="/document/16/206409/dfasbyny8r/" data-dfa="dfasbyny8r"></a>(280)</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 421px;"><p style="text-align:left"><a data-anchor="/document/16/206409/bssPhr51/"></a><a data-anchor="/document/16/206409/dfasuk21vx/" data-dfa="dfasuk21vx"></a><strong>Итого:</strong></p></td><td class="bdBottombdRight" style="width: 96px;"><p style="text-align:right"><a data-anchor="/document/16/206409/bssPhr52/"></a><a data-anchor="/document/16/206409/dfas4pwtby/" data-dfa="dfas4pwtby"></a>10 060</p></td><td class="bdBottombdRight" style="width: 102px;"><p style="text-align:right"><a data-anchor="/document/16/206409/bssPhr53/"></a><a data-anchor="/document/16/206409/dfasw9crwa/" data-dfa="dfasw9crwa"></a>9 120</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div></div></div><p><a data-anchor="/document/16/206409/dfas2wuflh/" data-dfa="dfas2wuflh"></a><a data-anchor="/document/16/206409/bssPhr54/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

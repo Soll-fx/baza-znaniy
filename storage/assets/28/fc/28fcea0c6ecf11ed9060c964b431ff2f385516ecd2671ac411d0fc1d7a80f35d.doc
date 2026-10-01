@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как прекратить трудовой договор с работником в связи с несоответствием занимаемой должности вследствие недостаточной квалификации </h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулчехра&nbsp;Юсупханова,&nbsp;Главный редактор Системы Кадры, юрист</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/218350/dfas7qyguh/" data-dfa="dfas7qyguh"></a><a data-anchor="/document/16/218350/bssPhr3/"></a>Прекратить трудовой договор в&nbsp;связи с&nbsp;несоответствием занимаемой должности можно только после проведения аттестации. В&nbsp;связи с&nbsp;недостаточной квалификации работника, подтвержденной результатами аттестации прекращение трудового договора оформите <span data-warm-notices="43024312" data-warm-notice-type="error" num="47" target="_self" lnktype="intlnk" title="" class="doc">приказом</span>. Работодателю необходимо соблюдать установленные запреты на&nbsp;прекращение трудового договора отдельных категорий работников. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218350/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218350/bssPhr4/"></a><a data-anchor="/document/16/218350/dfasxvqidm/" data-dfa="dfasxvqidm"></a>Недостаточная квалификация</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218350/bssPhr6/"></a><a data-anchor="/document/16/218350/dfasw6sf9k/" data-dfa="dfasw6sf9k"></a>Несоответствие занимаемой должности как основание для прекращения трудового договора предусмотрено <span num="52" target="_self" lnktype="intlnk" title="" class="doc">п.3</span> ч.2&nbsp;ст.&nbsp;161&nbsp;ТК. Причиной прекращения трудового договора служит недостаточная квалификация работника.</p><p><a data-anchor="/document/16/218350/bssPhr7/"></a><a data-anchor="/document/16/218350/dfasg28vxa/" data-dfa="dfasg28vxa"></a>Недостаточная квалификация&nbsp;— это отсутствие у&nbsp;работника определенного уровня знаний и&nbsp;умений, а&nbsp;также соответствующего обучения и&nbsp;опыта работы, в&nbsp;следствии чего неспособности работника квалифицированно выполнять обязанности, возложенные на&nbsp;него трудовым договором. Прекращение трудового договора оформите <span data-warm-notices="43024321" data-warm-notice-type="error" num="53" target="_self" lnktype="intlnk" title="" class="doc">приказом</span>.</p><p><a data-anchor="/document/16/218350/bssPhr8/"></a><a data-anchor="/document/16/218350/dfaslfzfdw/" data-dfa="dfaslfzfdw"></a>При отсутствии прямого запрета прекратить трудовой договор с&nbsp;работником по&nbsp;причине недостаточной квалификации можно только после проведения аттестации. Прекращение трудового договора должно быть подтверждено ее&nbsp;результатами (<span data-warm-notices="40325038" data-warm-notice-type="error" num="54" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;28</span>&nbsp;постановление Пленума Верховного суда Республики Узбекистан от&nbsp;30&nbsp;ноября 2018г.<br>№&nbsp;34).</p><p><a data-anchor="/document/16/218350/bssPhr9/"></a><a data-anchor="/document/16/218350/dfasp5tkoy/" data-dfa="dfasp5tkoy"></a>Данное основание прекращения трудового договора относят к&nbsp;прекращению трудового договора по&nbsp;инициативе работодателя, а&nbsp;это значит, что работодателю необходимо соблюдать установленные запреты на&nbsp;прекращение трудового договора отдельных категорий работников (ст. <span num="55" target="_self" lnktype="intlnk" title="" class="doc">408</span>, <span num="56" target="_self" lnktype="intlnk" title="" class="doc">421</span>, <span num="57" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>ст.&nbsp;161&nbsp;ТК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="12" target="_self" lnktype="intlnk" title="" class="doc">В&nbsp;каких случаях и&nbsp;по&nbsp;каким основаниям можно уволить работника</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="43024319" data-warm-notice-type="error" num="13" target="_self" lnktype="intlnk" title="" class="doc">Как провести аттестацию работников</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/218350/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218350/bssPhr11/"></a><a data-anchor="/document/16/218350/dfaswb74gb/" data-dfa="dfaswb74gb"></a>Несоответствие выполняемой работе</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218350/bssPhr13/"></a><a data-anchor="/document/16/218350/dfasgld1gm/" data-dfa="dfasgld1gm"></a>Нельзя признать работника несоответствующим выполняемой работе, если:</p><ul class="c-list"><li><a data-anchor="/document/16/218350/bssPhr14/"></a><a data-anchor="/document/16/218350/dfas8syxo9/" data-dfa="dfas8syxo9"></a>причиной ненадлежащего исполнения трудовых обязанностей явилось необеспечение работодателем условий труда, которые обусловлены трудовым договором, законодательными и&nbsp;иными актами о&nbsp;труде (<span num="58" target="_self" lnktype="intlnk" title="" class="doc">абз.1</span> ч.1&nbsp;ст.&nbsp;25&nbsp;ТК);</li><li>работа не&nbsp;обусловлена трудовым договором. Поэтому, если работник не&nbsp;справился с&nbsp;работой, куда он&nbsp;без его согласия был временно переведен по&nbsp;инициативе работодателя (к&nbsp;примеру, в&nbsp;связи с&nbsp;производственной необходимостью или простоем), то&nbsp;недопустимо ставить вопрос о&nbsp;несоответствии выполняемой им&nbsp;работе, поскольку эта работа не&nbsp;обусловлена трудовым договором (<span num="59" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;25&nbsp;ТК);</li><li>признали несоответствующим той работе, на&nbsp;которую он&nbsp;переведен с&nbsp;нарушением установленного порядка, например, без согласия работника (<span num="60" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;25&nbsp;ТК);</li><li>отсутствует у&nbsp;работника специальное образование, при условии, что законодательные и&nbsp;квалификационные требования не&nbsp;являются обязательным условием для заключения трудового договора о&nbsp;выполнении данной работы (занятия данной должности) и&nbsp;если работник надлежащим образом выполняет свои функциональные обязанности ( <span num="61" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;22&nbsp;ТК</span>);</li><li>ненадлежащее выполнение им&nbsp;трудовых обязанностей носило случайный, разовый характер.</li></ul><p><a data-anchor="/document/16/218350/bssPhr15/"></a><a data-anchor="/document/16/218350/dfasb0vrg0/" data-dfa="dfasb0vrg0"></a>Несоответствие вследствие недостаточной квалификации может быть установлено на&nbsp;основании результата аттестации работника по&nbsp;решению аттестационной комиссии, но&nbsp;ее&nbsp;решение необходимо оценивать в&nbsp;совокупности с&nbsp;другими данными и&nbsp;документами.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="43024315" data-warm-notice-type="error" num="14" target="_self" lnktype="intlnk" title="" class="doc">Когда трудовой договор вступает в&nbsp;силу</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="43024316" data-warm-notice-type="error" num="15" target="_self" lnktype="intlnk" title="" class="doc">Как оформить результаты аттестации работников</span></li></ul></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218350/bssPhr17/"></a><a data-anchor="/document/16/218350/dfasburh5g/" data-dfa="dfasburh5g"></a>Цель проведения аттестации&nbsp;— это объективная проверка профессиональных качеств работника, его способность квалифицированно выполнять свою работу.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218350/bssPhr18/"></a><a data-anchor="/document/16/218350/dfasyq6cov/" data-dfa="dfasyq6cov"></a>Строго соблюдайте порядок проведения аттестации («<span data-warm-notices="40325037" data-warm-notice-type="error" num="62" target="_self" lnktype="intlnk" title="" class="doc">Положение </span>»о&nbsp;порядке проведения аттестации» рег. №&nbsp;3007 от&nbsp;08.05.2018). Нарушение регламента, при рассмотрении трудового спора в&nbsp;судебном порядке по&nbsp;решению аттестационной комиссии, будет признано не&nbsp;имеющим юридической силы.</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218350/bssPhr19/"></a><a data-anchor="/document/16/218350/dfasm38f9v/" data-dfa="dfasm38f9v"></a>Не&nbsp;допустимо прекращение трудового договора по&nbsp;инициативе работодателя в&nbsp;период временной нетрудоспособности и&nbsp;пребывания работника в&nbsp;отпусках.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218350/bssPhr20/"></a><a data-anchor="/document/16/218350/dfas7shsaa/" data-dfa="dfas7shsaa"></a>Процедуру прекращения договора производите после окончания отпуска или болезни, в&nbsp;первый день выхода на&nbsp;работу. При нарушении указанного порядка работник будет восстановлен на&nbsp;работе как прекратили трудовой договор с&nbsp;ним незаконно ( <span num="63" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;163&nbsp;ТК).</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/218350/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218350/bssPhr21/"></a><a data-anchor="/document/16/218350/dfasc620yd/" data-dfa="dfasc620yd"></a>Перевод</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218350/bssPhr23/"></a><a data-anchor="/document/16/218350/dfas3ur4v8/" data-dfa="dfas3ur4v8"></a>Если продолжение работы по&nbsp;трудовой функции, установленной трудовым договором, невозможно в&nbsp;связи с&nbsp;признанием работника по&nbsp;результатам аттестации несоответствующим занимаемой должности, то&nbsp;работодатель обязан предложить работнику другую соответствующую специальности и&nbsp;квалификации менее квалифицированную работу, а&nbsp;при ее&nbsp;отсутствии&nbsp;— иную работу, которая есть на&nbsp;предприятии (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;140&nbsp;ТК). При отказе работника от&nbsp;перевода или отсутствии на&nbsp;предприятии соответствующей работы, трудовой договор может быть прекращен на&nbsp;общих основаниях.</p><p><a data-anchor="/document/16/218350/bssPhr24/"></a><a data-anchor="/document/16/218350/dfasoxtgdh/" data-dfa="dfasoxtgdh"></a>Если работник не&nbsp;желает дать письменный отказ от&nbsp;предложенной ему вакантной должности (работы). Доказательством того, что работодатель предлагал работнику иную должность (работу) на&nbsp;предприятии, будет акт об&nbsp;отказе работника от&nbsp;предложенной ему должности (работы). Акт составьте при участии двух-трех свидетелей из&nbsp;числа работников предприятия.</p><p><a data-anchor="/document/16/218350/bssPhr25/"></a><a data-anchor="/document/16/218350/dfas1fgg35/" data-dfa="dfas1fgg35"></a>Если&nbsp;же на&nbsp;предприятии отсутствуют подходящие вакантные должности, рекомендуем указать это в <span data-warm-notices="43024322" data-warm-notice-type="error" num="65" target="_self" lnktype="intlnk" title="" class="doc">письменном предупреждении</span> работодателя с&nbsp;обязательным вручением его работнику под роспись.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="16" target="_self" lnktype="intlnk" title="" class="doc">Как документально оформить ознакомительную процедуру</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="43024317" data-warm-notice-type="error" num="17" target="_self" lnktype="intlnk" title="" class="doc">По&nbsp;чьей инициативе возможен перевод работника в&nbsp;пределах одного предприятия</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/218350/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218350/bssPhr27/"></a><a data-anchor="/document/16/218350/dfas2ka0qu/" data-dfa="dfas2ka0qu"></a>Прекращение трудового договора</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218350/bssPhr29/"></a><a data-anchor="/document/16/218350/dfasu8nlgg/" data-dfa="dfasu8nlgg"></a>Процедура прекращения трудового договора работника из-за несоответствия занимаемой им&nbsp;должности или выполняемой работе вследствие недостаточной квалификации состоит из&nbsp;следующих этапов:</p><p><a data-anchor="/document/16/218350/bssPhr30/"></a><a data-anchor="/document/16/218350/dfash5aghh/" data-dfa="dfash5aghh"></a><strong>Шаг&nbsp;1. </strong>Получите заключение аттестационной комиссии о&nbsp;несоответствии работника занимаемой должности из-за недостаточной квалификации.</p><p><a data-anchor="/document/16/218350/bssPhr31/"></a><a data-anchor="/document/16/218350/dfasl4lhaq/" data-dfa="dfasl4lhaq"></a><strong>Шаг&nbsp;2. </strong>Предложите работнику другую работу.</p><p><a data-anchor="/document/16/218350/bssPhr32/"></a><a data-anchor="/document/16/218350/dfasgbbwnt/" data-dfa="dfasgbbwnt"></a>В&nbsp;предложении вакансий включите весь перечень имеющихся вакантных работ, которые работник может выполнять с&nbsp;учетом квалификации (как вакантную должность или работу, соответствующую квалификации работника, так и&nbsp;вакантную нижестоящую должность или нижеоплачиваемую работу). Предложение вакансий составьте в&nbsp;письменной форме в&nbsp;двух экземплярах. На&nbsp;экземпляре работодателя работник должен поставить подпись и&nbsp;подтверждение того, что он&nbsp;его получил.</p><p><a data-anchor="/document/16/218350/bssPhr33/"></a><a data-anchor="/document/16/218350/dfas037s3t/" data-dfa="dfas037s3t"></a><strong>Шаг&nbsp;3. </strong>Составьте предупреждение о&nbsp;предстоящем прекращении трудового договора за&nbsp;несоответствие занимаемой должности.</p><p><a data-anchor="/document/16/218350/bssPhr34/"></a><a data-anchor="/document/16/218350/dfas5f0pgp/" data-dfa="dfas5f0pgp"></a>Предупреждение подготовьте в&nbsp;письменной форме с&nbsp;указанием причин, по&nbsp;которым с&nbsp;данным работником расторгаете трудовой договор. Уведомление составьте в&nbsp;двух экземплярах. При этом на&nbsp;экземпляре работодателя работник указывает, что ознакомлен с&nbsp;уведомлением, ставит дату и&nbsp;подпись. При отказе работника ознакомиться, составьте акт.</p><p><a data-anchor="/document/16/218350/bssPhr35/"></a><a data-anchor="/document/16/218350/dfaszavdk6/" data-dfa="dfaszavdk6"></a><strong>Шаг&nbsp;4. </strong>Зарегистрируйте уведомления в&nbsp;соответствующем журнале.</p><p><a data-anchor="/document/16/218350/bssPhr36/"></a><a data-anchor="/document/16/218350/dfass0tdhe/" data-dfa="dfass0tdhe"></a><strong>Шаг&nbsp;5. </strong><span data-warm-notices="43024323" data-warm-notice-type="error" num="66" target="_self" lnktype="intlnk" title="" class="doc">Оформите приказ</span> о&nbsp;прекращении трудового договора с&nbsp;работником в&nbsp;связи с&nbsp;несоответствием занимаемой должности или выполняемой работе вследствие недостаточной квалификации.</p><p><a data-anchor="/document/16/218350/bssPhr37/"></a><a data-anchor="/document/16/218350/dfasb4zksr/" data-dfa="dfasb4zksr"></a><strong>Шаг&nbsp;6. </strong>Зарегистрируйте приказ о&nbsp;прекращении трудового договора в&nbsp;журнале регистраций приказов по&nbsp;личному составу.</p><p><a data-anchor="/document/16/218350/bssPhr38/"></a><a data-anchor="/document/16/218350/dfasv2ppcm/" data-dfa="dfasv2ppcm"></a><strong>Шаг&nbsp;7. </strong>Ознакомьте работника с&nbsp;приказом о&nbsp;прекращении трудового договора.</p><p><a data-anchor="/document/16/218350/bssPhr39/"></a><a data-anchor="/document/16/218350/dfasvrneiz/" data-dfa="dfasvrneiz"></a><strong>Шаг&nbsp;8. </strong>Внесите записи о&nbsp;прекращении договора в&nbsp;трудовую книжку, личную карточку работника Т-2 и&nbsp;систему <span data-warm-notices="43024324" data-warm-notice-type="error" num="67" target="_self" lnktype="intlnk" title="" class="doc">ЕНСТ</span>.</p><p><a data-anchor="/document/16/218350/bssPhr40/"></a><a data-anchor="/document/16/218350/dfasg0kq2l/" data-dfa="dfasg0kq2l"></a><strong>Шаг&nbsp;9. </strong>Выплатите заработную плату и&nbsp;иные пособия в&nbsp;связи с&nbsp;прекращением трудового договора.</p><p><a data-anchor="/document/16/218350/bssPhr41/"></a><a data-anchor="/document/16/218350/dfass6tply/" data-dfa="dfass6tply"></a><strong>Шаг&nbsp;10. </strong> Выдайте трудовую книжку работнику на&nbsp;руки.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="18" target="_self" lnktype="intlnk" title="" class="doc">В&nbsp;каких случаях и&nbsp;по&nbsp;каким основаниям можно уволить работника</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="43024313" data-warm-notice-type="error" num="19" target="_self" lnktype="intlnk" title="" class="doc">Как провести аттестацию работников</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="43024314" data-warm-notice-type="error" num="20" target="_self" lnktype="intlnk" title="" class="doc">Какие записи вносят в&nbsp;трудовую книжку</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/218350/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218350/bssPhr43/"></a><a data-anchor="/document/16/218350/dfass89qh6/" data-dfa="dfass89qh6"></a>Запрещается прекращать трудовой договор</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218350/bssPhr45/"></a><a data-anchor="/document/16/218350/dfasci1hta/" data-dfa="dfasci1hta"></a>Прекращение трудового договора за&nbsp;несоответствие занимаемой должности применяйте в&nbsp;том случае, если установлена недостаточная квалификация работника. Так как прекращение трудового договора в&nbsp;связи с&nbsp;несоответствием занимаемой должности относят к&nbsp;расторжению трудовых отношений по&nbsp;инициативе работодателя, необходимо соблюдать установленные запреты для отдельных категорий работников.</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 50%;"><p style="text-align:center"><a data-anchor="/document/16/218350/bssPhr46/"></a><a data-anchor="/document/16/218350/dfas3yfuz2/" data-dfa="dfas3yfuz2"></a><strong>Категория работника</strong></p></td><td class="bdTopbdBottombdRight" style="width: 50%;"><p style="text-align:center"><a data-anchor="/document/16/218350/bssPhr47/"></a><a data-anchor="/document/16/218350/dfasru69x8/" data-dfa="dfasru69x8"></a><strong>Основание для ограничения</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 50%;"><p><a data-anchor="/document/16/218350/bssPhr48/"></a><a data-anchor="/document/16/218350/dfasowydgm/" data-dfa="dfasowydgm"></a>Беременные женщины и&nbsp;с&nbsp;детьми в&nbsp;возрасте до&nbsp;3&nbsp;лет</p></td><td class="bdBottombdRight" style="width: 50%;"><p style="text-align:center"><a data-anchor="/document/16/218350/bssPhr49/"></a><a data-anchor="/document/16/218350/dfasbo9zyc/" data-dfa="dfasbo9zyc"></a>ст. <span num="68" target="_self" lnktype="intlnk" title="" class="doc">408</span>, <span num="69" target="_self" lnktype="intlnk" title="" class="doc">409</span>&nbsp;ТК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 50%;"><p><a data-anchor="/document/16/218350/bssPhr50/"></a><a data-anchor="/document/16/218350/dfasivoaao/" data-dfa="dfasivoaao"></a>Несовершеннолетние</p></td><td class="bdBottombdRight" style="width: 50%;"><p style="text-align:center"><a data-anchor="/document/16/218350/bssPhr51/"></a><a data-anchor="/document/16/218350/dfasfb450p/" data-dfa="dfasfb450p"></a><span num="70" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;421</span>&nbsp;ТК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 50%;"><p><a data-anchor="/document/16/218350/bssPhr52/"></a><a data-anchor="/document/16/218350/dfas4xz3x0/" data-dfa="dfas4xz3x0"></a>Выпускники образовательных учреждений</p></td><td class="bdBottombdRight" style="width: 50%;"><p style="text-align:center"><a data-anchor="/document/16/218350/bssPhr53/"></a><a data-anchor="/document/16/218350/dfasse7sv6/" data-dfa="dfasse7sv6"></a><span num="71" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>&nbsp;ст.&nbsp;161&nbsp;ТК</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="43024320" data-warm-notice-type="error" num="33" target="_self" lnktype="intlnk" title="" class="doc">Как прекратить трудовой договор по&nbsp;инициативе работодателя</span></li><li class="incut-v4-more-about__item"><span num="34" target="_self" lnktype="intlnk" title="" class="doc">В&nbsp;каких случаях и&nbsp;по&nbsp;каким основаниям можно уволить работника</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/218350/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/218350/bssPhr55/"></a><a data-anchor="/document/16/218350/dfasm6hn6c/" data-dfa="dfasm6hn6c"></a>Оспаривание</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="96%"><thead><tr><th class="bdAll" style="width: 49%;"><p style="text-align:center"><a data-anchor="/document/16/218350/bssPhr57/"></a><a data-anchor="/document/16/218350/dfasztanwo/" data-dfa="dfasztanwo"></a>Если работодатель не</p></th><th class="bdTop bdBottom bdRight" style="width: 50%;"><p style="text-align:center"><a data-anchor="/document/16/218350/bssPhr58/"></a><a data-anchor="/document/16/218350/dfasrl5e6o/" data-dfa="dfasrl5e6o"></a>Основание</p></th></tr></thead><tbody><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/218350/bssPhr59/"></a><a data-anchor="/document/16/218350/dfask5wmc1/" data-dfa="dfask5wmc1"></a>предоставил подтверждение несоответствия работника конкретными фактами (актами проверок, рапортами непосредственного руководителя, отчетами, материалами аттестации и&nbsp;другие документы, которые укажут на&nbsp;низкое качество работы и&nbsp;будут свидетельствовать о&nbsp;том, что работник не&nbsp;справляется с&nbsp;порученной работой</p></td><td class="bdBottombdRight" style="width: 50%;"><p><a data-anchor="/document/16/218350/bssPhr60/"></a><a data-anchor="/document/16/218350/dfasl7yw00/" data-dfa="dfasl7yw00"></a><span num="85" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;29</span>&nbsp;постановления&nbsp;Верховного суда от 20 ноября 2023 № 26</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/218350/bssPhr61/"></a><a data-anchor="/document/16/218350/dfasuio6eu/" data-dfa="dfasuio6eu"></a>предлагал работнику менее квалифицированную работу по&nbsp;его специальности, а&nbsp;при ее&nbsp;отсутствии&nbsp;— иную, менее квалифицированную работу, которая имеется на&nbsp;предприятии</p></td><td class="bdBottombdRight" style="width: 50%;"><p><a data-anchor="/document/16/218350/bssPhr62/"></a><a data-anchor="/document/16/218350/dfas13m9mt/" data-dfa="dfas13m9mt"></a><span num="86" target="_self" lnktype="intlnk" title="" class="doc">п. 50</span>&nbsp;постановления Верховного суда от 20 ноября 2023 № 26</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/218350/bssPhr63/"></a><a data-anchor="/document/16/218350/dfasbokkzy/" data-dfa="dfasbokkzy"></a>соблюдал установленный порядок проведения аттестации</p></td><td class="bdBottombdRight" style="width: 50%;"><p><a data-anchor="/document/16/218350/bssPhr64/"></a><a data-anchor="/document/16/218350/dfasfwmcv3/" data-dfa="dfasfwmcv3"></a><span num="87" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;29</span>&nbsp;постановления Верховного суда от 20 ноября 2023 № 26</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218350/bssPhr65/"></a><a data-anchor="/document/16/218350/dfasph16tc/" data-dfa="dfasph16tc"></a>Если работодатель при оформлении прекращения трудового договора работника по&nbsp;причине несоответствия занимаемой должности в&nbsp;следствии недостаточной квалификации не&nbsp;соблюдал установленный&nbsp;ТК и&nbsp;законодательством регламент, то&nbsp;при обращении в&nbsp;суд работника, просьба последнего будет удовлетворена (<span num="88" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;50</span>&nbsp;постановления Верховного суда от 20 ноября 2023 № 26).</p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

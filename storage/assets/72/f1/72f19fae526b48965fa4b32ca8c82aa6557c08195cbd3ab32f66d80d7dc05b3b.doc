@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как оформить карточку с образцами подписей</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/211104/dfasuf4nts/" data-dfa="dfasuf4nts"></a><a data-anchor="/document/16/211104/bssPhr2/"></a>В рекомендации Системы Главбух – ответы на вопросы: как оформить карточку с образцами подписей, а также кто и по какой форме сдает в обслуживающий банк карточку с образцами подписей и оттиском печати. Узнайте, кто наделен правом подписи. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211104/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211104/bssPhr3/"></a><a data-anchor="/document/16/211104/dfasd1vw9e/" data-dfa="dfasd1vw9e"></a>Карточка с образцами подписей и оттиском печати</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211104/bssPhr5/"></a><a data-anchor="/document/16/211104/dfasfzlcbr/" data-dfa="dfasfzlcbr"></a>Порядок предоставления и заполнения карточки определен:</p><ul class="c-list"><li><a data-anchor="/document/16/211104/bssPhr6/"></a><a data-anchor="/document/16/211104/dfasr5hcmy/" data-dfa="dfasr5hcmy"></a>с 09.02.2023 г. <span num="15" target="_self" lnktype="intlnk" title="" class="doc">Инструкцией</span> «О порядке открытия, ведения и закрытия банковских счетов», рег. МЮ 08.02.2023 г. № 3420;</li><li>до 09.02.2023г. <span data-warm-notices="27371608" data-warm-notice-type="error" num="12" target="_self" lnktype="intlnk" title="" class="doc">Инструкцией</span> «О банковских счетах, открываемых в банках Республики Узбекистан», рег. № 1948 от 16.03.2009 г.</li></ul><p><a data-anchor="/document/16/211104/bssPhr7/"></a><a data-anchor="/document/16/211104/dfas8d6a58/" data-dfa="dfas8d6a58"></a>Карточка с образцами подписей - документ, который необходимо предоставить в банк при открытии счета (<span num="16" target="_self" lnktype="intlnk" title="" class="doc">п. 11</span>, <span num="17" target="_self" lnktype="intlnk" title="" class="doc">12</span>, <span num="18" target="_self" lnktype="intlnk" title="" class="doc">13</span>, <span num="19" target="_self" lnktype="intlnk" title="" class="doc">14</span>, <span num="20" target="_self" lnktype="intlnk" title="" class="doc">16</span>, <span num="21" target="_self" lnktype="intlnk" title="" class="doc">24</span>, <span num="22" target="_self" lnktype="intlnk" title="" class="doc">25</span>, <span num="23" target="_self" lnktype="intlnk" title="" class="doc">26</span> Инструкции № 3420).</p><p><a data-anchor="/document/16/211104/bssPhr8/"></a><a data-anchor="/document/16/211104/dfaslbs8q4/" data-dfa="dfaslbs8q4"></a>В карточке указывают подписи лиц, обладающих полномочиями действовать и подписывать платежные документы от имени юридического лица, за исключением дистанционного открытия банковского счета юридическим лицам, учредителями которых являются резиденты Республики Узбекистан, и индивидуальным предпринимателям (<span num="24" target="_self" lnktype="intlnk" title="" class="doc">п. 6</span> Инструкции № 3420).</p><p><a data-anchor="/document/16/211104/bssPhr9/"></a><a data-anchor="/document/16/211104/dfase5gtmc/" data-dfa="dfase5gtmc"></a>При дистанционном открытии банковских счетов юридическим лицам, учредителями которых являются резиденты Республики Узбекистан, и индивидуальным предпринимателям лица, осуществляющие платежи (банковские операции) от их имени, подлежат идентификации в установленном порядке, при получении электронной цифровой подписи или рукописных образцов подписей посредством электронных устройств. В этом случае карточку с образцами подписей в бумажной форме не представляют (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">п. 8</span>, <span num="26" target="_self" lnktype="intlnk" title="" class="doc">п. 29</span> Инструкции № 3420).</p><p><a data-anchor="/document/16/211104/bssPhr10/"></a><a data-anchor="/document/16/211104/dfasuda4am/" data-dfa="dfasuda4am"></a>Форма карточки и количество карточек, представляемых юрлицами - резидентами, не являющимися субъектами предпринимательства, и юрлицами - нерезидентами, устанавливаются внутренними документами банка.</p><p><a data-anchor="/document/16/211104/bssPhr11/"></a><a data-anchor="/document/16/211104/dfas9xveuv/" data-dfa="dfas9xveuv"></a>В карточке с образцами подписей должны быть указаны:</p><ul class="c-list"><li><a data-anchor="/document/16/211104/bssPhr12/"></a><a data-anchor="/document/16/211104/dfasggtz7t/" data-dfa="dfasggtz7t"></a>наименование клиента (фамилия, имя, отчество);</li><li>фамилия, имя, отчество лиц, обладающих полномочиями подписания, а также их собственноручно проставленная подпись;</li><li>оттиск печати юридических лиц, в случае необходимости в соответствии с актами законодательства и при наличии печати;</li><li><a data-anchor="/document/16/211104/dfasexisow/" data-dfa="dfasexisow"></a>другие сведения в соответствии с внутренними документами банка (<span num="27" target="_self" lnktype="intlnk" title="" class="doc">п. 28</span> Инструкции № 3420).</li></ul><p><a data-anchor="/document/16/211104/bssPhr13/"></a><a data-anchor="/document/16/211104/dfas0z9x0f/" data-dfa="dfas0z9x0f"></a>Отменено требование об обязательном наличии подписи бухгалтера в карточках образцов подписей субъектов малого предпринимательства (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span> приложения&nbsp;№ 1 к УП-4455 от 18.07.2012). Также отменено требование о нотариальном заверении образцов подписей для субъектов предпринимательства, для юрлиц, не являющихся субъектами предпринимательства, получателей средств из бюджета, представительств и филиалов юрлиц, а также юрлиц-нерезидентов, в том числе осуществляющих свою деятельность через постоянные учреждения. Субъекты малого предпринимательства вправе не иметь печать, а госорганам и иным организациям запрещено требовать от субъектов предпринимательства проставления печати или заверения документов печатью (<span num="9" target="_self" lnktype="intlnk" title="" class="doc">п. 3</span> ПП-4160 от 05.02.2019).&nbsp;Банкам запрещено требовать от субъектов предпринимательской деятельности проставления в документах печати или заверения документов печатью (<span num="28" target="_self" lnktype="intlnk" title="" class="doc">п. 5</span> Инструкции № 3420).</p><p><a data-anchor="/document/16/211104/bssPhr14/"></a><a data-anchor="/document/16/211104/dfaslebbze/" data-dfa="dfaslebbze"></a>При временной замене одного из лиц, уполномоченных руководителем, дополнительно представляется карточка с образцом подписи временно уполномоченного лица с указанием срока ее действия. Эту временную карточку руководитель подписывает и скрепляет печатью. Для субъектов предпринимательской деятельности проставление печати не требуется (<span num="29" target="_self" lnktype="intlnk" title="" class="doc">п. 31</span> Инструкции № 3420).</p><p><a data-anchor="/document/16/211104/bssPhr15/"></a><a data-anchor="/document/16/211104/dfaszkg0z4/" data-dfa="dfaszkg0z4"></a>В карточку с образцами подписей и оттиском печати проставляют образец оттиска основной печати юридического лица, или печати филиала, или представительства юридического лица. Нельзя проставлять в карточку печати «для пакетов», «для пропусков», «канцелярия», «для справок», «для удостоверений» и т.п.</p><p><a data-anchor="/document/16/211104/bssPhr16/"></a><a data-anchor="/document/16/211104/dfasx1nxb1/" data-dfa="dfasx1nxb1"></a>Если печать заменили или потеряли, то в банк нужно сообщить об этом, подав ходатайство, подписанное лицами, которым предоставлены права первой и второй подписи. На основании ходатайства уполномоченный сотрудник банка предоставляет необходимый срок для изготовления печати и определяет порядок оформления платежных документов на время отсутствия печати, разрешая, в зависимости от обстоятельств, представлять документы без оттиска печати. Данный срок не должен превышать тридцати календарных дней (<span num="30" target="_self" lnktype="intlnk" title="" class="doc">п. 32</span> Инструкции № 3420).</p></div><p><a data-anchor="/document/16/211104/dfaszrbt3o/" data-dfa="dfaszrbt3o"></a><a data-anchor="/document/16/211104/bssPhr17/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p><p><a data-anchor="/document/16/211104/dfas7smal1/" data-dfa="dfas7smal1"></a><a data-anchor="/document/16/211104/bssPhr18/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

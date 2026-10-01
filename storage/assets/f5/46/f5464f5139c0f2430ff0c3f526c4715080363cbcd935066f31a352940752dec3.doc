@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кто платит социальный налог</h2><div class="doc-snippet"><a data-anchor="/document/16/210559/dfasfpi59g/" data-dfa="dfasfpi59g"></a><a data-anchor="/document/16/210559/bssPhr2/"></a>В&nbsp;рекомендации Системы Главбух найдете перечень плательщиков социального налога. Также получите ответы на&nbsp;вопросы: что является, а&nbsp;что не&nbsp;является объектом обложения социальным налогом. Узнаете, на&nbsp;какие доходы не&nbsp;начисляют социальный налог. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210559/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210559/bssPhr8/"></a><a data-anchor="/document/16/210559/dfassv2u66/" data-dfa="dfassv2u66"></a>Плательщики налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210559/bssPhr10/"></a><a data-anchor="/document/16/210559/dfassoqfbe/" data-dfa="dfassoqfbe"></a>Социальный налог платят:</p><ul class="c-list"><li><a data-anchor="/document/16/210559/bssPhr11/"></a><a data-anchor="/document/16/210559/dfasi8gtxi/" data-dfa="dfasi8gtxi"></a>юрлица-резиденты;</li><li>нерезиденты, осуществляющие деятельность в&nbsp;Узбекистане через постоянное учреждение, представительства и&nbsp;филиалы иностранных юрлиц;</li><li>отдельные категории физлиц.</li></ul><p><a data-anchor="/document/16/210559/bssPhr12/"></a><a data-anchor="/document/16/210559/dfasa3nxds/" data-dfa="dfasa3nxds"></a>Это определено в <span num="1" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;402&nbsp;НК</span>.</p><p><a data-anchor="/document/16/210559/bssPhr13/"></a><a data-anchor="/document/16/210559/dfasgxs4po/" data-dfa="dfasgxs4po"></a>Физлица&nbsp;— плательщики социального налога в <strong>обязательном </strong>порядке:</p><ul class="c-list"><li><a data-anchor="/document/16/210559/bssPhr14/"></a><a data-anchor="/document/16/210559/dfasocrcnq/" data-dfa="dfasocrcnq"></a>индивидуальные предприниматели;</li><li>физлица, состоящие в&nbsp;трудовых отношениях с&nbsp;индивидуальным предпринимателем. Социальный налог за&nbsp;физлиц, состоящих в&nbsp;трудовых отношениях с&nbsp;индивидуальным предпринимателем, уплачивает работодатель- индивидуальный предприниматель (<span num="44" target="_self" lnktype="intlnk" title="" class="doc">глава&nbsp;4</span>&nbsp;Положения «О&nbsp;порядке постановки на&nbsp;учет в&nbsp;органах государственной налоговой службы работников, нанятых индивидуальными предпринимателями», приложение №&nbsp;1&nbsp;к ПКМ №&nbsp;707 от&nbsp;22.11.2021&nbsp;г.);</li><li>члены семьи, осуществляющей деятельность в&nbsp;форме семейного предпринимательства без образования юрлица;</li><li>субъекты ремесленнической деятельности&nbsp;— члены ассоциации «Хунарманд»;</li><li>ученики школ «Уста&nbsp;— шогирд» до&nbsp;достижения ими возраста 25&nbsp;лет;</li><li>главы дехканских хозяйств.</li></ul><p><a data-anchor="/document/16/210559/bssPhr15/"></a><a data-anchor="/document/16/210559/dfas8rq7gn/" data-dfa="dfas8rq7gn"></a>Физлица&nbsp;— плательщики социального налога на <strong>добровольной </strong>основе для исчисления трудового стажа:</p><ul class="c-list"><li><a data-anchor="/document/16/210559/bssPhr16/"></a><a data-anchor="/document/16/210559/dfas2umswa/" data-dfa="dfas2umswa"></a>самозанятые лица;</li><li>граждане Республики Узбекистан, работающие за&nbsp;границей по&nbsp;найму на&nbsp;основе трудового договора;</li><li>граждане Республики Узбекистан, работающие в&nbsp;торговых домах, представительствах (в&nbsp;том числе без образования юридического лица), организациях, созданных, открытых в&nbsp;иностранных государствах государственными органами и&nbsp;другими организациями Республики Узбекистан;</li><li>работающие граждане за&nbsp;своих неработающих супругов;</li><li>члены дехканских хозяйств и&nbsp;физлица, занятые в&nbsp;дехканских хозяйствах.</li></ul><p><a data-anchor="/document/16/210559/bssPhr17/"></a><a data-anchor="/document/16/210559/dfasggnewn/" data-dfa="dfasggnewn"></a>Это установлено <span num="3" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;408&nbsp;НК</span>.</p><p><a data-anchor="/document/16/210559/bssPhr18/"></a><a data-anchor="/document/16/210559/dfasakximt/" data-dfa="dfasakximt"></a>На&nbsp;добровольной основе социальный налог уплачивают также физические лица, получающие доходы от&nbsp;работодателя, на&nbsp;которого в&nbsp;соответствии с&nbsp;законодательством не&nbsp;возложена обязанность по&nbsp;начислению и&nbsp;удержанию социального налога (<span num="75" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;409&nbsp;НК</span>)</p><p><a data-anchor="/document/16/210559/bssPhr19/"></a><a data-anchor="/document/16/210559/dfasglxfuy/" data-dfa="dfasglxfuy"></a>Социальный налог платит иностранный инвестор, осуществляющий деятельность в&nbsp;рамках соглашения о&nbsp;разделе продукции. Налог иностранный инвестор уплачивает в&nbsp;течение срока действия соглашения о&nbsp;разделе продукции (<span num="5" target="_self" lnktype="intlnk" title="Иностранный инвестор, за исключением случаев, предусмотренных законодательством о соглашениях о разделе продукции..." class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;476&nbsp;НК).</p><p><a data-anchor="/document/16/210559/bssPhr20/"></a><a data-anchor="/document/16/210559/dfaswtnb57/" data-dfa="dfaswtnb57"></a>Если в&nbsp;качестве инвестора выступает не&nbsp;имеющее статуса юрлица объединение юрлиц, то&nbsp;плательщиком налога будет один из&nbsp;участников такого объединения или оператор по&nbsp;выполнению работ по&nbsp;соглашению о&nbsp;разделе продукции. Инвестор, получивший лицензию, обязан в&nbsp;месячный срок письменно уведомить налоговый орган об&nbsp;участнике, выступающем исполнителем налогового обязательства от&nbsp;данного объединения (<span num="7" target="_self" lnktype="intlnk" title="Если в качестве инвестора выступает не имеющее статуса юридического лица объединение юридических лиц, то исполнителем налоговых..." class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;476&nbsp;НК).</p><p><a data-anchor="/document/16/210559/bssPhr21/"></a><a data-anchor="/document/16/210559/dfasp1ygai/" data-dfa="dfasp1ygai"></a>Согласно <span num="62" target="_self" lnktype="intlnk" title="" class="doc">пункту&nbsp;5</span> № УП-168 от&nbsp;13.07.2022&nbsp;г.&nbsp;с&nbsp;14.07.2022г.&nbsp;до&nbsp;1.01.2025&nbsp;г.&nbsp;с&nbsp;концертно-зрелищной деятельности, осуществляемой физлицом на&nbsp;основании лицензии:</p><ul class="c-list"><li><a data-anchor="/document/16/210559/bssPhr22/"></a><a data-anchor="/document/16/210559/dfas5s7z7o/" data-dfa="dfas5s7z7o"></a>социальный налог уплачивает само физлицо один раз в&nbsp;год в&nbsp;размере 1&nbsp;БРВ&nbsp;— если данная деятельность осуществляется не&nbsp;по&nbsp;трудовому договору;</li><li>социальный налог удерживает и&nbsp;уплачивает юрлицо, независимо от&nbsp;порядка налогообложения физлица,&nbsp;— если данные услуги оказываются юридическим лицам;</li><li>творческие коллективы, имеющие статус юридического лица, оплачивают социальный налог в&nbsp;общем порядке, установленном для юридических лиц.</li></ul></div><a data-anchor="/document/16/210559/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210559/bssPhr23/"></a><a data-anchor="/document/16/210559/dfascngnm0/" data-dfa="dfascngnm0"></a>Объект налогообложения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210559/bssPhr31/"></a><a data-anchor="/document/16/210559/dfasnua9ix/" data-dfa="dfasnua9ix"></a>Объектом налогообложения по <span num="10" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;403&nbsp;НК</span> и <span num="55" target="_self" lnktype="intlnk" title="" class="doc">404&nbsp;НК</span> являются:</p><ol class="c-list"><li><a data-anchor="/document/16/210559/bssPhr32/"></a><a data-anchor="/document/16/210559/dfasgufs6n/" data-dfa="dfasgufs6n"></a>Расходы работодателя на&nbsp;оплату труда работников.</li></ol><p><a data-anchor="/document/16/210559/bssPhr33/"></a><a data-anchor="/document/16/210559/dfasl1grrt/" data-dfa="dfasl1grrt"></a>Расходами работодателя на&nbsp;оплату труда признают все выплаты физлицам, определенные в <span num="12" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;371&nbsp;НК</span>:</p><ul class="c-list"><li><a data-anchor="/document/16/210559/bssPhr34/"></a><a data-anchor="/document/16/210559/dfasigfue6/" data-dfa="dfasigfue6"></a>зарплата за&nbsp;фактически выполненную работу, исходя из&nbsp;сдельных расценок, тарифных ставок и&nbsp;должностных окладов;</li><li>надбавки за&nbsp;ученую степень и&nbsp;почетное звание;</li><li>выплаты стимулирующего характера (<span num="63" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;372&nbsp;НК</span>);</li><li>компенсационные выплаты (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;373&nbsp;НК</span>);</li><li>оплата за&nbsp;неотработанное время (<span num="65" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;374&nbsp;НК</span>);</li><li>выплаты физлицам по&nbsp;заключенным договорам гражданско-правового характера за&nbsp;выполненные работы и&nbsp;оказанные услуги. Исключение&nbsp;— доходы от&nbsp;индивидуальной предпринимательской деятельности (<span num="66" target="_self" lnktype="intlnk" title="" class="doc">абз.&nbsp;1</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;371&nbsp;НК);</li><li>выплаты членам органа управления юрлица&nbsp;— наблюдательного совета или другого аналогичного органа, которые выплачивает само юрлицо (<span num="67" target="_self" lnktype="intlnk" title="" class="doc">абз.&nbsp;2</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;371&nbsp;НК);</li><li>выплаты денежного довольствия, денежных вознаграждений, выплачиваемых в&nbsp;связи с&nbsp;несением службы, исполнением служебных обязанностей, военнослужащим министерств обороны, внутренних дел, по&nbsp;чрезвычайным ситуациям, Службы государственной безопасности, Национальной гвардии, Государственной службы безопасности Президента, Центра развития электронных технологий, рядовому, сержантскому и&nbsp;офицерскому составу органов внутренних дел и&nbsp;сотрудникам Государственного таможенного комитета (<span num="68" target="_self" lnktype="intlnk" title="" class="doc">абз.&nbsp;3</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;371&nbsp;НК);</li><li>доходы в&nbsp;виде оплаты труда, полученные по&nbsp;месту последней работы до&nbsp;направления на&nbsp;работу за&nbsp;пределы РУз&nbsp;— для работников дипломатических представительств и&nbsp;консульских учреждений Узбекистана, лиц, прикомандированных Министерством иностранных дел на&nbsp;квотные должности в&nbsp;международные межправительственные организации (<span num="56" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;404&nbsp;НК).</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210559/dfasdu8yay/" data-dfa="dfasdu8yay"></a><a data-anchor="/document/16/210559/bssPhr35/"></a>Для работников бюджетных организаций эти доходы пересчитывают с&nbsp;учетом повышения заработной платы</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/210559/bssPhr36/"></a><a data-anchor="/document/16/210559/dfas55vk8t/" data-dfa="dfas55vk8t"></a>(<span num="45" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;404&nbsp;НК).</p></div><div class="incut-v4__icon"></div></div><ol class="c-list" style="counter-reset: item 1;" start="2"><li><a data-anchor="/document/16/210559/bssPhr37/"></a><a data-anchor="/document/16/210559/dfaswc5ky4/" data-dfa="dfaswc5ky4"></a>Доходы иностранного персонала, выплачиваемые юрлицу&nbsp;— нерезиденту по&nbsp;договорам на&nbsp;оказание услуг по&nbsp;предоставлению иностранного персонала для работы на&nbsp;территории Узбекистана.</li></ol><p><a data-anchor="/document/16/210559/bssPhr38/"></a><a data-anchor="/document/16/210559/dfasx2dwiq/" data-dfa="dfasx2dwiq"></a>По&nbsp;таким доходам налогооблагаемую базу определяют как сумму доходов, выплачиваемых иностранному персоналу, но&nbsp;не&nbsp;менее 90&nbsp;процентов от&nbsp;общей суммы затрат по&nbsp;договору на&nbsp;оказание услуг по&nbsp;предоставлению иностранного персонала для работы на&nbsp;территории Узбекистана (<span num="30" target="_self" lnktype="intlnk" title="Налоговая база для исчисления налога по доходам, указанным в части второй статьи&nbsp;403 настоящего Кодекса, определяется как сумма доходов..." class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;404&nbsp;НК).</p><ol class="c-list" style="counter-reset: item 2;" start="3"><li><a data-anchor="/document/16/210559/bssPhr39/"></a><a data-anchor="/document/16/210559/dfasw2k4uo/" data-dfa="dfasw2k4uo"></a>Предпринимательская или индивидуальная трудовая деятельность для физлиц, перечисленных в <span num="32" target="_self" lnktype="intlnk" title="" class="doc">статьях&nbsp;408</span>, <span num="34" target="_self" lnktype="intlnk" title="" class="doc">409&nbsp;НК</span>.</li><li><a data-anchor="/document/16/210559/bssPhr40/"></a><a data-anchor="/document/16/210559/dfas94v4dc/" data-dfa="dfas94v4dc"></a>С&nbsp;1.01.2020&nbsp;г. объектом обложения социальным налогом являются доходы работников, нанимаемых строительными организациями без заключения трудового договора на&nbsp;срочной основе с&nbsp;оплатой наличными средствами (<span num="69" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1в</span>) № УП-6098от 30.10.2020&nbsp;г.).</li></ol></div><a data-anchor="/document/16/210559/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210559/bssPhr41/"></a><a data-anchor="/document/16/210559/dfaslf2ktu/" data-dfa="dfaslf2ktu"></a>Необлагаемый объект</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210559/bssPhr44/"></a><a data-anchor="/document/16/210559/dfasygb3ri/" data-dfa="dfasygb3ri"></a>Не&nbsp;начисляют социальный налог&nbsp;на:</p><ul class="c-list"><li><a data-anchor="/document/16/210559/bssPhr45/"></a><a data-anchor="/document/16/210559/dfashnllfm/" data-dfa="dfashnllfm"></a>расходы работодателя по&nbsp;возмещению работнику вреда, связанного с&nbsp;трудовым увечьем или иным повреждением здоровья, сверх размеров, указанных в <span num="37" target="_self" lnktype="intlnk" title="выплаты по возмещению вреда, связанного с трудовым увечьем или иным повреждением здоровья, в размере..." class="doc">пункте&nbsp;10</span>&nbsp;части второй статьи&nbsp;369&nbsp;НК;</li><li>расходы на&nbsp;оплату труда физлицам, привлеченным на&nbsp;сезонные сельскохозяйственные работы по&nbsp;сбору хлопка, за&nbsp;выполнение этих работ (<span num="39" target="_self" lnktype="intlnk" title="Не являются объектом налогообложения..." class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;403&nbsp;НК).</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210559/dfasg0i5qo/" data-dfa="dfasg0i5qo"></a><a data-anchor="/document/16/210559/bssPhr46/"></a>Объектом обложения налогом признают расходы работодателя на&nbsp;оплату труда, поэтому социальный налог не&nbsp;начисляют:</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210559/bssPhr47/"></a><a data-anchor="/document/16/210559/dfasu3cmyt/" data-dfa="dfasu3cmyt"></a>—&nbsp;на&nbsp;доходы, не&nbsp;включаемые в&nbsp;совокупный доход физлиц (<span num="46" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;369&nbsp;НК</span>);<br>—&nbsp;имущественные доходы (<span num="47" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;375&nbsp;НК</span>);<br>—&nbsp;доходы в&nbsp;виде материальной выгоды (<span num="48" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;376&nbsp;НК</span>);<br>—&nbsp;прочие доходы (<span num="49" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;377&nbsp;НК</span>);</p></div><div class="incut-v4__icon"></div></div></div><p><a data-anchor="/document/16/210559/dfaszgw5b3/" data-dfa="dfaszgw5b3"></a><a data-anchor="/document/16/210559/bssPhr48/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/210559/dfas6wfyqh/" data-dfa="dfas6wfyqh"></a><a data-anchor="/document/16/210559/bssPhr49/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

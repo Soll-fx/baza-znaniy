@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отражать выручку по договорам с покупателями в финансовой отчетности по МСФО в особых случаях</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206769/dfaspxmia0/" data-dfa="dfaspxmia0"></a><a data-anchor="/document/16/206769/bssPhr2/"></a>В рекомендации найдете ответы на вопросы: как в финансовой отчетности по МСФО отражать выручку при продаже с правом на возврат, при продаже по договору обратной покупки, при получении невозмещаемых первоначальных платежей. Также узнаете, как в финансовой отчетности по МСФО отразить уступку в цене и скидки за объем. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206769/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206769/bssPhr3/"></a><a data-anchor="/document/16/206769/dfasrfwc4m/" data-dfa="dfasrfwc4m"></a>Отражение выручки по договорам с покупателями при продаже с правом на возврат&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr5/"></a><a data-anchor="/document/16/206769/dfasqqf2gv/" data-dfa="dfasqqf2gv"></a>В некоторых договорах компания передает контроль над продуктом покупателю, дает ему право на возврат продукта по разным причинам, например, неудовлетворенность продуктом и предоставляет в любой комбинации:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206769/bssPhr6/"></a><a data-anchor="/document/16/206769/dfasml0mvq/" data-dfa="dfasml0mvq"></a>полный или частичный возврат уплаченного возмещения;</li><li style="text-align:left">кредит, который может быть использован в отношении сумм задолженности компании;</li><li style="text-align:left">иной продукт в качестве обмена.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr7/"></a><a data-anchor="/document/16/206769/dfase5zv3z/" data-dfa="dfase5zv3z"></a>Для учета передачи продуктов с правом на возврат и некоторых услуг, которые предоставляют с возможностью компенсации их стоимости, компания должна признать:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206769/bssPhr8/"></a><a data-anchor="/document/16/206769/dfassem1la/" data-dfa="dfassem1la"></a>выручку от переданных продуктов в сумме возмещения, которое компания ожидает получить. Следовательно, компания не будет признавать выручку от продуктов, возврат которых предполагается;</li><li style="text-align:left">обязательство по компенсации стоимости;</li><li style="text-align:left">актив с соответствующей корректировкой себестоимости продаж в отношении права на получение обратно от покупателей продуктов при выполнении обязательства по выплате компенсации их стоимости.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr9/"></a><a data-anchor="/document/16/206769/dfas0nr2tz/" data-dfa="dfas0nr2tz"></a>Соглашение, по которому покупатель имеет право требовать от продавца выкупа товара, может иметь сложную форму.</p><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr10/"></a><a data-anchor="/document/16/206769/dfasme68ng/" data-dfa="dfasme68ng"></a>Если цена выкупа превышает ожидаемую рыночную стоимость товаров, то договор следует учитывать как соглашение о финансировании.</p><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr11/"></a><a data-anchor="/document/16/206769/dfasq5vmw8/" data-dfa="dfasq5vmw8"></a>Если цена выкупа ниже первоначальной цены продажи и у покупателя есть значительные экономические стимулы для реализации права, то договор следует учитывать как аренду, операцию по продаже с обратной арендой.</p></div><a data-anchor="/document/16/206769/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206769/bssPhr12/"></a><a data-anchor="/document/16/206769/dfashp8x7p/" data-dfa="dfashp8x7p"></a>Отражение выручки по договору обратной покупки</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr14/"></a><a data-anchor="/document/16/206769/dfasg7v3vc/" data-dfa="dfasg7v3vc"></a>Договор обратной покупки – это договор, по которому компания продает актив и при этом в рамках того же или другого договора дает обещание выкупить актив или получает опцион на его обратную покупку.</p><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr15/"></a><a data-anchor="/document/16/206769/dfasvvko11/" data-dfa="dfasvvko11"></a>Если компания имеет обязательство или право на обратную покупку актива, покупатель не получает контроль над активом. Покупатель ограничен в определении способа использования актива и получении практически всех оставшихся выгод от него, даже если владеет активом физически. Следовательно, компания должна учитывать договор в качестве:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206769/bssPhr16/"></a><a data-anchor="/document/16/206769/dfasawcv3s/" data-dfa="dfasawcv3s"></a>аренды в соответствии с МСФО (IFRS) 16 «Аренда», если компания вправе или обязана выкупить актив обратно за сумму, меньшую, чем цена его первоначальной продажи; либо</li><li style="text-align:left">соглашения о финансировании, если компания вправе или обязана выкупить актив обратно за сумму, которая равна первоначальной цене продажи или превышает ее. Если договор обратной покупки является соглашением о финансировании, компания должна продолжить признание актива, а также признать финансовое обязательство в отношении возмещения, полученного от покупателя. Компания должна признать разницу между суммой полученного от покупателя возмещения и суммой возмещения, подлежащего уплате покупателю, в качестве процентов.</li></ul></div><a data-anchor="/document/16/206769/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206769/bssPhr17/"></a><a data-anchor="/document/16/206769/dfasyce9uc/" data-dfa="dfasyce9uc"></a>Отражение выручки при получении невозмещаемых первоначальных платежей</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr19/"></a><a data-anchor="/document/16/206769/dfasdd2n7p/" data-dfa="dfasdd2n7p"></a>По условиям некоторых договоров при заключении договора или на близкую к этой дату покупатели вносят невозмещаемый первоначальный платеж в пользу компании. Примерами таких платежей могут быть:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206769/bssPhr20/"></a><a data-anchor="/document/16/206769/dfassv20tn/" data-dfa="dfassv20tn"></a>вступительные взносы, предусмотренные в договорах о членстве в спортивно-оздоровительном клубе;</li><li style="text-align:left">плата за активацию в договорах, заключаемых с организациями телекоммуникационной отрасли;</li><li style="text-align:left">установочная плата в некоторых договорах на обслуживание;</li><li style="text-align:left">первоначальная комиссия в некоторых договорах поставки.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr21/"></a><a data-anchor="/document/16/206769/dfas775egp/" data-dfa="dfas775egp"></a>Компания должна проанализировать каждое соглашение, предусматривающее первоначальные платежи, чтобы определить, следует ли признавать выручку при получении платежа.</p><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr22/"></a><a data-anchor="/document/16/206769/dfas5oy6am/" data-dfa="dfas5oy6am"></a>Задача в том, чтобы определить, относить ли платеж к обещанному товару или услуге. Во многих случаях, даже если невозмещаемый первоначальный платеж относится к деятельности, которую компания должна выполнить на момент начала действия договора или в период для его выполнения, эта деятельность подразумевает выполнение административных задач и не обеспечивает передачу обещанного товара или услуги покупателю.</p><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr23/"></a><a data-anchor="/document/16/206769/dfase1xha5/" data-dfa="dfase1xha5"></a>Компания не должна признавать выручку по получении первоначального платежа, даже невозмещаемого, если платеж не связан с выполнением обязанности к исполнению, передаче обещанных товаров или услуг.</p></div><a data-anchor="/document/16/206769/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206769/bssPhr24/"></a><a data-anchor="/document/16/206769/dfas6rmdfi/" data-dfa="dfas6rmdfi"></a>Отражение уступки в цене</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr26/"></a><a data-anchor="/document/16/206769/dfaszwsd4v/" data-dfa="dfaszwsd4v"></a>Уступки в цене – это корректировки суммы, уплачиваемой покупателем, которые обычно не предусмотрены условиями первоначального договора. Уступки в цене предоставляют по разным причинам. Например, продавец может принять платеж от покупателя в сумме меньше, чем предусмотрено по договору, чтобы стимулировать оплату покупателем предыдущих закупок и продолжение закупок в будущем. Уступки также иногда предоставляют в случае, когда у покупателя возникло некоторое недовольство товаром или услугой, за исключением случаев, покрываемых гарантией.</p><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr27/"></a><a data-anchor="/document/16/206769/dfastgnvcg/" data-dfa="dfastgnvcg"></a>Руководство должно оценить вероятность предоставления уступок в цене покупателям при определении цены операции. Компания, которая предполагает предоставить уступку в цене или использует такую практику, должна уменьшать цену операции, чтобы отразить ту сумму возмещения, которую она должна получить после предоставления уступки.</p></div><a data-anchor="/document/16/206769/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206769/bssPhr28/"></a><a data-anchor="/document/16/206769/dfase9tznr/" data-dfa="dfase9tznr"></a>Отражение скидки за объем</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr30/"></a><a data-anchor="/document/16/206769/dfas5sle28/" data-dfa="dfas5sle28"></a>Договоры с покупателями часто включают скидки за объем, которые используют, чтобы стимулировать дополнительные покупки и сохранить лояльность покупателя. Скидки за объем обычно предусматривают приобретение покупателем определенного количества товаров или услуг, после чего цену на дополнительные товары и услуги снижают. Такие соглашения содержат переменное возмещение, так как общая сумма к уплате покупателем не известна на момент начала действия договора и зависит от объема товаров или услуг, который будет приобретен в итоге.</p><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr31/"></a><a data-anchor="/document/16/206769/dfas4up3mx/" data-dfa="dfas4up3mx"></a>Руководству необходимо оценить скидки за объем, которые по их предположению должен получить покупатель, исходя из опыта аналогичных договоров.</p><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr32/"></a><a data-anchor="/document/16/206769/dfashiuq9b/" data-dfa="dfashiuq9b"></a>Руководство также должно учесть ограничение на переменное возмещение. В расчетную цену операции на момент начала действия договора нужно включить, по меньшей мере, минимальную цену за единицу, если нет возможности оценить общее количество единиц, которые предполагают продать. Включение минимальной цены за единицу служит ограничением, так как есть вероятность, что значительного уменьшения совокупной суммы признанной выручки не произойдет.</p><p style="text-align:left"><a data-anchor="/document/16/206769/bssPhr33/"></a><a data-anchor="/document/16/206769/dfas8ovmgd/" data-dfa="dfas8ovmgd"></a>Руководству необходимо будет уточнять свою оценку общего объема продаж на каждую отчетную дату до тех пор, пока неопределенность не будет разрешена.</p></div><p><a data-anchor="/document/16/206769/dfasb3md3d/" data-dfa="dfasb3md3d"></a><a data-anchor="/document/16/206769/bssPhr34/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

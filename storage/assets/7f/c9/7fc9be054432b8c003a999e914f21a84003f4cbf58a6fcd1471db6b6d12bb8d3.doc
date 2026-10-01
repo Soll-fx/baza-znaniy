@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как выплатить аванс по зарплате</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/211193/dfassusfd2/" data-dfa="dfassusfd2"></a><a data-anchor="/document/16/211193/bssPhr2/"></a>Из рекомендации узнаете, в какие сроки и в каком размере выплачивать аванс по зарплате, таблица поможет разобраться, какие выплаты сотрудникам включать в аванс. Эксперты пояснили, как установить размер и сроки выдачи аванса, какими документами оформить и как отразить в бухучете начисление и выплату аванса. Узнайте, удерживать ли НДФЛ при выплате аванса и что грозит работодателю за невыплату аванса </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211193/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211193/bssPhr3/"></a><a data-anchor="/document/16/211193/dfashg1bp6/" data-dfa="dfashg1bp6"></a>Сроки выплаты аванса по зарплате</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211193/bssPhr7/"></a><a data-anchor="/document/16/211193/dfasp6ykg7/" data-dfa="dfasp6ykg7"></a>В трудовом законодательстве нет понятия «аванс». Есть понятия «оплата труда» и «заработная плата».</p><p><a data-anchor="/document/16/211193/bssPhr8/"></a><a data-anchor="/document/16/211193/dfasg6bk2r/" data-dfa="dfasg6bk2r"></a>Выплачивать зарплату нужно не реже одного раза в каждые полмесяца.</p><p><a data-anchor="/document/16/211193/bssPhr9/"></a><a data-anchor="/document/16/211193/dfasff9u9y/" data-dfa="dfasff9u9y"></a>Месячная заработная плата выплачивается работникам с разделением на две части (авансом и в размере остальной части) с перерывом, как правило, не более шестнадцати дней (<span num="55" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 253 ТК).</p><p><a data-anchor="/document/16/211193/bssPhr10/"></a><a data-anchor="/document/16/211193/dfaswfe0l9/" data-dfa="dfaswfe0l9"></a>Значит аванс – это оплата труда работников за первую половину месяца.</p><p><a data-anchor="/document/16/211193/bssPhr11/"></a><a data-anchor="/document/16/211193/dfashotbg1/" data-dfa="dfashotbg1"></a>Конкретные сроки выплаты зарплаты за первую и вторую половину месяца работодатель устанавливает самостоятельно.</p><p><a data-anchor="/document/16/211193/bssPhr12/"></a><a data-anchor="/document/16/211193/dfas2a9cgs/" data-dfa="dfas2a9cgs"></a>Кабинет Министров может определить отдельные категории работников, которым заработная плата выплачивается один раз в месяц (<span num="56" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 253 ТК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211193/dfaswvddgr/" data-dfa="dfaswvddgr"></a><a data-anchor="/document/16/211193/bssPhr13/"></a>Так как аванс выдается за первую половину месяца, то установите срок его выдачи после 15 числа. При этом можно установить гибкие сроки выплаты зарплаты и аванса. Например, установить, что зарплата выплачивается с 1 по 5 число месяца, а аванс – с 16 по 20 число месяца.</p><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211193/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211193/bssPhr15/"></a><a data-anchor="/document/16/211193/dfasnxf4yv/" data-dfa="dfasnxf4yv"></a>В каком размере выдавать аванс по зарплате</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211193/bssPhr17/"></a><a data-anchor="/document/16/211193/dfas28519s/" data-dfa="dfas28519s"></a>Выплата зарплаты предусмотрена не реже чем каждые полмесяца, поэтому начислять ее за каждые полмесяца нужно примерно в равных суммах.</p><p><a data-anchor="/document/16/211193/bssPhr18/"></a><a data-anchor="/document/16/211193/dfas67prdq/" data-dfa="dfas67prdq"></a>Размер аванса законодательством не установлен, поэтому его размер работодатель устанавливает самостоятельно. При этом учтите, что НДФЛ из суммы аванса в момент его выдачи не удерживается. НДФЛ удерживается с заработной платы, начисленной по итогам месяца (<span num="57" target="_self" lnktype="intlnk" title="" class="doc">ч. 6</span> ст. 388 НК). Так как сумма аванса в конечном итоге подлежит налогообложению, то установите размер аванса с учетом того, что в конце месяца, при выплате работнику оставшейся части заработной платы будет удержан НДФЛ.</p><p><a data-anchor="/document/16/211193/bssPhr19/"></a><a data-anchor="/document/16/211193/dfas5cw3nz/" data-dfa="dfas5cw3nz"></a>Как правило, размер аванса устанавливают в процентах от суммы зарплаты. Например, 40 процентов должностного оклада - при повременной оплате труда или от суммы заработной платы предыдущего месяца – при сдельной оплате труда.</p><p><a data-anchor="/document/16/211193/bssPhr20/"></a><a data-anchor="/document/16/211193/dfasdin2i8/" data-dfa="dfasdin2i8"></a>Но, при этом и нужно учитывать, что кто-то из работников в первой половине месяца болел, был в отпуске и т.д.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211193/dfasa2k9bo/" data-dfa="dfasa2k9bo"></a><a data-anchor="/document/16/211193/bssPhr21/"></a>Платите в составе зарплаты за первую половину месяца не только часть оклада, но и доплаты, надбавки, если сотрудник имеет на них право по итогам первой половины месяца</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211193/bssPhr22/"></a><a data-anchor="/document/16/211193/dfasktcoq7/" data-dfa="dfasktcoq7"></a>В состав зарплаты за первую половину месяца включайте не только часть оклада, но и постоянные доплаты и надбавки.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211193/bssPhr23/"></a><a data-anchor="/document/16/211193/dfasozruxk/" data-dfa="dfasozruxk"></a>Допустим, сотрудник в первой половине месяца работал в условиях, которые отклоняются от нормальных, и имеет право на надбавки. В этом случае важно знать, зависит ли расчет надбавок от итогов работы за месяц в целом или от выполнения месячной нормы рабочего времени. Если расчет надбавок не зависит от итогов работы за месяц, учтите величину надбавок при расчете суммы аванса за первую половину месяца. Когда расчет надбавок зависит от итогов работы за месяц, при расчете аванса их не учитывайте.</p></div><a data-anchor="/document/16/211193/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211193/bssPhr24/"></a><a data-anchor="/document/16/211193/dfas62l2ec/" data-dfa="dfas62l2ec"></a>Какие выплаты сотрудникам включать в аванс по зарплате</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><thead><tr><th class="bdTop bdBottom"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr26/"></a><a data-anchor="/document/16/211193/dfasia7z1z/" data-dfa="dfasia7z1z"></a><strong>Вид выплаты</strong></p></th><th class="bdTop bdBottom"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr27/"></a><a data-anchor="/document/16/211193/dfasq8sk72/" data-dfa="dfasq8sk72"></a><strong>Включать в аванс или нет</strong></p></th></tr></thead><tbody><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr28/"></a><a data-anchor="/document/16/211193/dfasc309hq/" data-dfa="dfasc309hq"></a>Оклад</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr29/"></a><a data-anchor="/document/16/211193/dfaswuprzw/" data-dfa="dfaswuprzw"></a>Да</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr30/"></a><a data-anchor="/document/16/211193/dfashiy3ai/" data-dfa="dfashiy3ai"></a>Оплата за работу в ночное время</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr31/"></a><a data-anchor="/document/16/211193/dfasvx9rpk/" data-dfa="dfasvx9rpk"></a>Да</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr32/"></a><a data-anchor="/document/16/211193/dfas4knrv1/" data-dfa="dfas4knrv1"></a>Оплата за работу во вредных или опасных условиях труда</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr33/"></a><a data-anchor="/document/16/211193/dfas3hscgu/" data-dfa="dfas3hscgu"></a>Да</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr34/"></a><a data-anchor="/document/16/211193/dfasge6gf9/" data-dfa="dfasge6gf9"></a>Оплата за совмещение должностей</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr35/"></a><a data-anchor="/document/16/211193/dfas983i34/" data-dfa="dfas983i34"></a>Да</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr36/"></a><a data-anchor="/document/16/211193/dfas5qxr3k/" data-dfa="dfas5qxr3k"></a>Надбавка за профессиональное мастерство</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr37/"></a><a data-anchor="/document/16/211193/dfas37fewy/" data-dfa="dfas37fewy"></a>Да</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr38/"></a><a data-anchor="/document/16/211193/dfasuevwwp/" data-dfa="dfasuevwwp"></a>Надбавка за стаж работы</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr39/"></a><a data-anchor="/document/16/211193/dfaszfvfzg/" data-dfa="dfaszfvfzg"></a>Да</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr40/"></a><a data-anchor="/document/16/211193/dfasp1usna/" data-dfa="dfasp1usna"></a>Оплата за работу сверхурочно</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr41/"></a><a data-anchor="/document/16/211193/dfascluvdp/" data-dfa="dfascluvdp"></a>Нет</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr42/"></a><a data-anchor="/document/16/211193/dfas2lm7rp/" data-dfa="dfas2lm7rp"></a>Оплата за работу в выходные и праздничные дни</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr43/"></a><a data-anchor="/document/16/211193/dfas2x2n3m/" data-dfa="dfas2x2n3m"></a>Нет</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr44/"></a><a data-anchor="/document/16/211193/dfas1ste01/" data-dfa="dfas1ste01"></a>Коэффициент за работу в неблагоприятных природно-климатических условиях</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr45/"></a><a data-anchor="/document/16/211193/dfasxv0t8o/" data-dfa="dfasxv0t8o"></a>Да</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr46/"></a><a data-anchor="/document/16/211193/dfas7pg8c1/" data-dfa="dfas7pg8c1"></a>Процентная надбавка за работу в особых климатических условиях</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr47/"></a><a data-anchor="/document/16/211193/dfassftma4/" data-dfa="dfassftma4"></a>Да</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr48/"></a><a data-anchor="/document/16/211193/dfasw6mvrs/" data-dfa="dfasw6mvrs"></a>Больничное пособие</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr49/"></a><a data-anchor="/document/16/211193/dfas28yyps/" data-dfa="dfas28yyps"></a>Нет</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr50/"></a><a data-anchor="/document/16/211193/dfasw17d7l/" data-dfa="dfasw17d7l"></a>Социальные пособия, которые работодатель выплачивает самостоятельно</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr51/"></a><a data-anchor="/document/16/211193/dfasuc9hkp/" data-dfa="dfasuc9hkp"></a>Нет</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr52/"></a><a data-anchor="/document/16/211193/dfasa92m2g/" data-dfa="dfasa92m2g"></a>Отпускные</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr53/"></a><a data-anchor="/document/16/211193/dfas59z50y/" data-dfa="dfas59z50y"></a>Нет</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr54/"></a><a data-anchor="/document/16/211193/dfas12cy9y/" data-dfa="dfas12cy9y"></a>Материальная помощь</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr55/"></a><a data-anchor="/document/16/211193/dfasmxinup/" data-dfa="dfasmxinup"></a>Нет</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr56/"></a><a data-anchor="/document/16/211193/dfaso0ausi/" data-dfa="dfaso0ausi"></a>Премии (ежемесячные, ежеквартальные, годовые и пр.)</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr57/"></a><a data-anchor="/document/16/211193/dfasxey0bu/" data-dfa="dfasxey0bu"></a>Нет</p></td></tr><tr><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr58/"></a><a data-anchor="/document/16/211193/dfas4nm8po/" data-dfa="dfas4nm8po"></a>Средний заработок (за время командировки, донорских дней, диспансеризации и пр.)</p></td><td class="bdTopbdBottom"><p><a data-anchor="/document/16/211193/bssPhr59/"></a><a data-anchor="/document/16/211193/dfasobcf4b/" data-dfa="dfasobcf4b"></a>Нет</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/211193/bssPhr60/"></a><a data-anchor="/document/16/211193/dfasb8krgp/" data-dfa="dfasb8krgp"></a>Формула для расчета зарплаты за первую половину месяца, если сотрудник получает оклад:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" rowspan="2" style="width:22%"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr61/"></a><a data-anchor="/document/16/211193/dfasll7l0y/" data-dfa="dfasll7l0y"></a>Зарплата за первую половину месяца</p></td><td class="bdRightbdLeft" rowspan="2" style="width:0%"><p><a data-anchor="/document/16/211193/bssPhr62/"></a><a data-anchor="/document/16/211193/dfashfs1ma/" data-dfa="dfashfs1ma"></a>=</p></td><td class="bdAll" style="width:35%"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr63/"></a><a data-anchor="/document/16/211193/dfasobg7mq/" data-dfa="dfasobg7mq"></a>Оклад</p></td><td class="bdRightbdLeft" rowspan="2" style="width:0%"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr64/"></a><a data-anchor="/document/16/211193/dfaslv3k5h/" data-dfa="dfaslv3k5h"></a>×</p></td><td class="bdAll" rowspan="2" style="width:33.2%"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr65/"></a><a data-anchor="/document/16/211193/dfas7z4sf1/" data-dfa="dfas7z4sf1"></a>Фактически отработанное время за первую половину месяца</p></td></tr><tr><td class="bdAll" style="width:35%"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr66/"></a><a data-anchor="/document/16/211193/dfasrxq1qq/" data-dfa="dfasrxq1qq"></a>Норма рабочего времени за полный месяц</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/211193/bssPhr67/"></a><a data-anchor="/document/16/211193/dfasuyc679/" data-dfa="dfasuyc679"></a>Формула для расчета зарплаты за первую половину месяца, если у сотрудника дневная ставка:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr68/"></a><a data-anchor="/document/16/211193/dfasti7bkw/" data-dfa="dfasti7bkw"></a>Зарплата за первую половину месяца</p></td><td class="bdRightbdLeft"><p><a data-anchor="/document/16/211193/bssPhr69/"></a><a data-anchor="/document/16/211193/dfasz6qq63/" data-dfa="dfasz6qq63"></a>=</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr70/"></a><a data-anchor="/document/16/211193/dfas1ywcfg/" data-dfa="dfas1ywcfg"></a>Дневная ставка</p></td><td class="bdRightbdLeft"><p><a data-anchor="/document/16/211193/bssPhr71/"></a><a data-anchor="/document/16/211193/dfasup1h2w/" data-dfa="dfasup1h2w"></a>×</p></td><td class="bdAll" style="width:34%"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr72/"></a><a data-anchor="/document/16/211193/dfas779g7d/" data-dfa="dfas779g7d"></a>Фактически отработанное время за первую половину месяца</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/211193/bssPhr73/"></a><a data-anchor="/document/16/211193/dfasynonw7/" data-dfa="dfasynonw7"></a>Формула для расчета зарплаты за первую половину месяца, если у сотрудника часовая ставка:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width:27%"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr74/"></a><a data-anchor="/document/16/211193/dfaswycifk/" data-dfa="dfaswycifk"></a>Зарплата за первую половину месяца</p></td><td class="bdRightbdLeft" style="width:0%"><p><a data-anchor="/document/16/211193/bssPhr75/"></a><a data-anchor="/document/16/211193/dfas6i7k23/" data-dfa="dfas6i7k23"></a>=</p></td><td class="bdAll" style="width:31%"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr76/"></a><a data-anchor="/document/16/211193/dfaswplrxn/" data-dfa="dfaswplrxn"></a>Часовая ставка</p></td><td class="bdRightbdLeft" style="width:2.92%"><p><a data-anchor="/document/16/211193/bssPhr77/"></a><a data-anchor="/document/16/211193/dfasqbqs3y/" data-dfa="dfasqbqs3y"></a>×</p></td><td class="bdAll" style="width:36.19%"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr78/"></a><a data-anchor="/document/16/211193/dfass6tea1/" data-dfa="dfass6tea1"></a>Фактически отработанное время за первую половину месяца</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/211193/bssPhr79/"></a><a data-anchor="/document/16/211193/dfasqm6a7r/" data-dfa="dfasqm6a7r"></a>Формула для расчета зарплаты за первую половину месяца, если у сотрудника сдельная расценка:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr80/"></a><a data-anchor="/document/16/211193/dfas3e25vm/" data-dfa="dfas3e25vm"></a>Зарплата за первую половину месяца</p></td><td class="bdRightbdLeft"><p><a data-anchor="/document/16/211193/bssPhr81/"></a><a data-anchor="/document/16/211193/dfasztvx6s/" data-dfa="dfasztvx6s"></a>=</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr82/"></a><a data-anchor="/document/16/211193/dfasrf6cn6/" data-dfa="dfasrf6cn6"></a>Сдельная расценка</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr83/"></a><a data-anchor="/document/16/211193/dfasbdx73i/" data-dfa="dfasbdx73i"></a>×</p></td><td class="bdAll" style="width:34.6%"><p style="text-align:center"><a data-anchor="/document/16/211193/bssPhr84/"></a><a data-anchor="/document/16/211193/dfaskdkq10/" data-dfa="dfaskdkq10"></a>Фактически выполненный объем работ за первую половину месяца</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><a data-anchor="/document/16/211193/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211193/bssPhr85/"></a><a data-anchor="/document/16/211193/dfastz9tl9/" data-dfa="dfastz9tl9"></a>Как установить размер и сроки выдачи аванса</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211193/bssPhr87/"></a><a data-anchor="/document/16/211193/dfasmzg4hu/" data-dfa="dfasmzg4hu"></a>Размер и сроки выдачи аванса следует закрепить в коллективном договоре или локальных документах организации,&nbsp;а при их отсутствии – в трудовом договоре.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211193/dfasx2s8l6/" data-dfa="dfasx2s8l6"></a><a data-anchor="/document/16/211193/bssPhr88/"></a>При совпадении дня оплаты с выходным или праздничным нерабочим днем оплату производите накануне этого дня</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211193/bssPhr89/"></a><a data-anchor="/document/16/211193/dfasbwcktv/" data-dfa="dfasbwcktv"></a>Это определено в&nbsp;<span num="58" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;3</span> статьи&nbsp;253 ТК.</p></div><div class="incut-v4__icon"></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211193/bssPhr91/"></a><a data-anchor="/document/16/211193/dfasmo3cqs/" data-dfa="dfasmo3cqs"></a>Выдачу аванса оформляйте теми же <span num="9" target="_self" lnktype="intlnk" title="" class="doc">документами</span>, что и выплату окончательного расчета по зарплате. Перечень документов, которые нужно оформить при выплате аванса, зависит от способа его выдачи:</p><ul class="c-list"><li><a data-anchor="/document/16/211193/bssPhr92/"></a><a data-anchor="/document/16/211193/dfas79zqq0/" data-dfa="dfas79zqq0"></a>наличными деньгами;</li><li>перечислением на банковскую пластиковую карту сотрудника.</li></ul></div><a data-anchor="/document/16/211193/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211193/bssPhr93/"></a><a data-anchor="/document/16/211193/dfas7lv3nv/" data-dfa="dfas7lv3nv"></a>Как отразить в бухучете начисление и выплату аванса</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211193/bssPhr97/"></a><a data-anchor="/document/16/211193/dfasin39fq/" data-dfa="dfasin39fq"></a>В бухучете отражайте выплату аванса на счете 4210 «Авансы, выданные по оплате труда» <span data-warm-notices="41540579" data-warm-notice-type="error" num="74" target="_self" lnktype="intlnk" title="" class="doc">(п. 181 </span>НСБУ № 21).</p><p><a data-anchor="/document/16/211193/bssPhr98/"></a><a data-anchor="/document/16/211193/dfas22l7sz/" data-dfa="dfas22l7sz"></a>При выплате аванса наличными деньгами из кассы предприятия сделайте проводку:</p><p><a data-anchor="/document/16/211193/bssPhr99/"></a><a data-anchor="/document/16/211193/dfasmgou5r/" data-dfa="dfasmgou5r"></a><a data-anchor="/document/16/211193/bssPhr100/"></a><strong>Дебет 4210 Кредит 5010</strong><br><br>При перечислении аванса на пластиковую карточку работника сделайте проводки:</p><p><a data-anchor="/document/16/211193/bssPhr101/"></a><a data-anchor="/document/16/211193/dfas5yg2r0/" data-dfa="dfas5yg2r0"></a><strong>Дебет 5530 Кредит 5110</strong></p><p><a data-anchor="/document/16/211193/bssPhr102/"></a><a data-anchor="/document/16/211193/dfasqxi4ho/" data-dfa="dfasqxi4ho"></a><strong>Дебет 4210 Кредит 5530</strong></p><p><a data-anchor="/document/16/211193/bssPhr103/"></a><a data-anchor="/document/16/211193/dfascp3pum/" data-dfa="dfascp3pum"></a>При начислении зарплаты по итогам месяца сделайте проводки:</p><p><a data-anchor="/document/16/211193/bssPhr104/"></a><a data-anchor="/document/16/211193/dfaslz3xsg/" data-dfa="dfaslz3xsg"></a><strong>Дебет 2010, 9410, 9420 и др. Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211193/bssPhr105/"></a><a data-anchor="/document/16/211193/dfasxlyqco/" data-dfa="dfasxlyqco"></a>начислена зарплата по итогам месяца</li></ul><p><a data-anchor="/document/16/211193/bssPhr106/"></a><a data-anchor="/document/16/211193/dfast17mrq/" data-dfa="dfast17mrq"></a><strong>Дебет 6710 Кредит 6410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211193/bssPhr107/"></a><a data-anchor="/document/16/211193/dfasz4nn15/" data-dfa="dfasz4nn15"></a>начислен НДФЛ</li></ul><p><a data-anchor="/document/16/211193/bssPhr108/"></a><a data-anchor="/document/16/211193/dfas3bgzpk/" data-dfa="dfas3bgzpk"></a><strong>Дебет 6710 Кредит 4220</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211193/bssPhr109/"></a><a data-anchor="/document/16/211193/dfasg4bl27/" data-dfa="dfasg4bl27"></a>зачтен аванс, выплаченный за первую половину месяца</li></ul><p><a data-anchor="/document/16/211193/bssPhr110/"></a><a data-anchor="/document/16/211193/dfasa3rn2k/" data-dfa="dfasa3rn2k"></a><strong>Дебет 6710 Кредит 5010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211193/bssPhr111/"></a><a data-anchor="/document/16/211193/dfaswfzv02/" data-dfa="dfaswfzv02"></a>выплачена зарплата по итогам месяца наличными деньгами из кассы предприятия</li></ul><p><a data-anchor="/document/16/211193/bssPhr112/"></a><a data-anchor="/document/16/211193/dfasvygfxd/" data-dfa="dfasvygfxd"></a><strong>Дебет 5530 Кредит 5110</strong></p><p><a data-anchor="/document/16/211193/bssPhr113/"></a><a data-anchor="/document/16/211193/dfas9kxv4c/" data-dfa="dfas9kxv4c"></a><strong>Дебет 4210 Кредит 5530</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211193/bssPhr114/"></a><a data-anchor="/document/16/211193/dfasbppog5/" data-dfa="dfasbppog5"></a>выплачена зарплата по итогам месяца перечислением на пластиковые карточки работников</li></ul></div><a data-anchor="/document/16/211193/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/211193/bssPhr115/"></a><a data-anchor="/document/16/211193/dfas9fpak5/" data-dfa="dfas9fpak5"></a>Нужно ли удерживать НДФЛ при выплате аванса по зарплате</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211193/bssPhr119/"></a><a data-anchor="/document/16/211193/dfashhgu7n/" data-dfa="dfashhgu7n"></a>При выплате аванса по зарплате НДФЛ не удерживайте. НДФЛ рассчитывайте по итогам месяца, за который начислены доходы (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">ст. 367</span> НК, <span num="12" target="_self" lnktype="intlnk" title="" class="doc">ч. 6</span> ст. 388 НК, <span num="13" target="_self" lnktype="intlnk" title="" class="doc">ст. 390</span> НК).</p><p><a data-anchor="/document/16/211193/bssPhr120/"></a><a data-anchor="/document/16/211193/dfaso6p8sg/" data-dfa="dfaso6p8sg"></a>Налог удержите, когда выплачиваете зарплату за месяц. Датой получения дохода в виде оплаты труда признается последний день месяца, за который работнику был начислен доход за выполненные трудовые обязанности в соответствии с трудовым договором (<span num="14" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 367 НК).</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211193/bssPhr122/"></a><a data-anchor="/document/16/211193/dfaswi996n/" data-dfa="dfaswi996n"></a>Организация, которая выдает своим сотрудникам зарплату реже чем каждые полмесяца, нарушает трудовое законодательство. Наказание за такие действия предусмотрено <span num="15" target="_self" lnktype="intlnk" title="" class="doc">статьей 49</span> КоАО.</p></div><p><a data-anchor="/document/16/211193/dfasbql1q1/" data-dfa="dfasbql1q1"></a><a data-anchor="/document/16/211193/bssPhr123/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

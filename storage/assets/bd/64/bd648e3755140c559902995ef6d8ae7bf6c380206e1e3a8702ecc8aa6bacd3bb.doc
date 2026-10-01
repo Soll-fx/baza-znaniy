@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Постановление Пленума ВХС РУЗ от 18.04.2008 № 180</div><h2 class="auth__title">О некоторых вопросах применения экономическими судами законодательства о государственной пошлине (утратил силу)</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/4111/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/4111/dfasdcafvi/"></a><strong>ПЛЕНУМА ВЫСШЕГО ХОЗЯЙСТВЕННОГО СУДА РЕСПУБЛИКИ УЗБЕКИСТАН<br>ПОСТАНОВЛЕНИЕ</strong></p><p style="text-align:center"><a data-anchor="/document/90/4111/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/4111/dfas840304/"></a><strong>О некоторых вопросах применения экономическими судами законодательства о государственной пошлине</strong></p><p><a data-anchor="/document/90/4111/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/4111/dfas2pudu3/"></a>В связи с возникающими в судебной практике вопросами и в целях обеспечения правильного и единообразного применения экономическими судами законодательства о государственной пошлине, руководствуясь статьей 47 Закона Республики Узбекистан &#171;О судах&#187;, Пленум Высшего хозяйственного суда Республики Узбекистан постановляет:</p><p><a data-anchor="/document/90/4111/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/4111/dfas7hqpi8/"></a>1. Обратить внимание экономических судов, что государственная пошлина &#8212; обязательный платеж, взимаемый за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то учреждениями и (или) должностными лицами.</p><p><a data-anchor="/document/90/4111/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/4111/dfasy3b61g/"></a>Государственная пошлина взимается на основании Налогового кодекса Республики Узбекистан (далее &#8212; НК), Экономического процессуального кодекса Республики Узбекистан (далее &#8212; ЭПК) и других актов законодательства о государственной пошлине.</p><p><a data-anchor="/document/90/4111/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/4111/dfasfkymy3/"></a>2. В соответствии с пунктом 2 статьи 328 НК экономическими судами государственная пошлина взимается: с исковых заявлений; с заявлений о признании банкротами организаций и граждан; с заявлений о вступлении в дело в качестве третьего лица, заявляющего самостоятельные требования на предмет спора; с заявлений об установлении фактов, имеющих юридическое значение; с апелляционных и кассационных жалоб на решения экономического суда, на определения о прекращении производства по делу, об оставлении иска без рассмотрения, о наложении судебных штрафов; с заявлений об отмене решений третейского суда, о выдаче исполнительного листа на принудительное исполнение решений третейского суда; с апелляционных и кассационных жалоб на определения экономического суда по делам об отмене решений третейского суда, а также о выдаче исполнительного листа на принудительное исполнение решений третейского суда и об отказе в выдаче исполнительного листа.</p><p><a data-anchor="/document/90/4111/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/4111/dfasouagnm/"></a>Согласно части пятой статьи 311 ЭПК к надзорной жалобе должны быть приложены также документы, подтверждающие уплату государственной пошлины в установленном порядке и размере.</p><p><a data-anchor="/document/90/4111/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/4111/dfasxy9i2w/"></a>Также, государственная пошлина взимается с заявлений об увеличении размера исковых требований, о выдаче судебного приказа и за выдачу экономическими судами копий документов.</p><p><a data-anchor="/document/90/4111/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/4111/dfaspfopd1/"></a>3. Плательщиками государственной пошлины являются юридические и физические лица (граждане, иностранные граждане, лица без гражданства), обращающиеся в экономические суды за защитой своих нарушенных или оспариваемых прав либо охраняемых законом интересов, если они не освобождены от ее уплаты.</p><p><a data-anchor="/document/90/4111/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/4111/dfas4x1h4w/"></a>4. В соответствии с пунктом 3 части второй статьи 149 ЭПК в исковом заявлении должна быть указана цена иска, если иск подлежит оценке. Указание на цену иска необходимо для проверки правильности уплаты государственной пошлины, так как при неоплате государственной пошлины в установленном порядке и размере экономический суд возвращает исковое заявление на основании пункта 6 части первой статьи 155 ЭПК, кроме случаев удовлетворения ходатайства о предоставлении отсрочки, рассрочки уплаты государственной пошлины.</p><p><a data-anchor="/document/90/4111/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/4111/dfasqou6s7/"></a>4.1. Следует иметь в виду, что по делам о взыскании денежных сумм цена иска определяется исходя из требуемой суммы.</p><p><a data-anchor="/document/90/4111/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/4111/dfaseg6adg/"></a>Иски о признании имущественного права (например, о праве собственности на имущество, о признании права на долю в имуществе, о выделении доли из общего имущества) подлежат оплате государственной пошлиной исходя из стоимости этого имущества либо его доли.</p><p><a data-anchor="/document/90/4111/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/4111/dfas1o1h22/"></a>Иски по преддоговорным спорам, об изменении и расторжении договора, о признании договора (сделки) недействительным, а также об освобождении помещения (о выселении) не подлежат оценке. По таким искам государственная пошлина уплачивается в размерах, установленных для исковых заявлений неимущественного характера.</p><p><a data-anchor="/document/90/4111/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/4111/dfaszty7lq/"></a>4.2. По искам об истребовании имущества цена иска определяется исходя из стоимости имущества. Однако следует учитывать, что данные о стоимости истребуемого имущества на момент предъявления иска имеют, как правило, приблизительный характер, так как у истца нет обязанности производить действительную оценку имущества. Предположение суда об уплате заявителем государственной пошлины в уменьшенном размере в связи с занижением стоимости истребуемого имущества, не является основанием для возвращения искового заявления. В случаях, когда экономический суд находит стоимость истребуемого имущества заниженной и в ходе рассмотрения дела будет установлена действительная стоимость имущества, недостающая часть государственной пошлины должна быть взыскана по результатам рассмотрения дела.</p><p><a data-anchor="/document/90/4111/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/4111/dfaswx2e5o/"></a>4.3. Согласно части пятой статьи 149 ЭПК истец вправе соединить в одном исковом заявлении несколько требований, связанных между собой. В таких случаях цена иска определяется суммой всех требований. В соответствии с частью четвертой статьи 337 НК в случае выделения одного или нескольких из соединенных исковых требований в отдельное производство государственная пошлина, уплаченная при предъявлении иска, не пересчитывается и не возвращается. По выделенному отдельно производству государственная пошлина вторично не уплачивается.</p><p><a data-anchor="/document/90/4111/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/4111/dfasxiikn7/"></a>При передаче дела на рассмотрение другого экономического суда на основании статьи 39 ЭПК, судом должна быть принята во внимание ранее уплаченная государственная пошлина (почтовые расходы).</p><p><a data-anchor="/document/90/4111/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/4111/dfasycy68m/"></a>4.4. Согласно части второй статьи 114 ЭПК в цену иска включаются также указанные в исковом заявлении суммы неустойки (штрафа, пени). Судам следует иметь в виду что, если в исковом заявлении имеются требования о взыскании процентов за пользование чужими денежными средствами на основании статьи 327 Гражданского кодекса Республики Узбекистан, то в цену иска включаются также эти проценты.</p><p><a data-anchor="/document/90/4111/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/4111/dfas9sgtzm/"></a>4.5. При предъявлении иска несколькими истцами к нескольким ответчикам в порядке части первой статьи 44 ЭПК государственная пошлина исчисляется исходя из общей суммы иска, и уплачивается истцами пропорционально доле заявленных ими требований.</p><p><a data-anchor="/document/90/4111/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/4111/dfastpb6n5/"></a>4.6. Если при подаче апелляционной, кассационной и надзорной жалобы обжалуется судебный акт лишь в части взыскания или отказа во взыскании, то государственная пошлина исчисляется исходя из оспариваемой суммы.</p><p><a data-anchor="/document/90/4111/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/4111/dfasp1q86g/"></a>В случае обжалования судебного акта только в части государственной пошлины, государственная пошлина оплате не подлежит. При этом обратить внимание судов, если по результатам рассмотрения апелляционной, кассационной или надзорной жалобы обжалуемый судебный акт изменен или отменен не только в части взыскания государственной пошлины, то вопрос взыскания государственной пошлины разрешается в общем порядке, предусмотренном ЭПК.</p><p><a data-anchor="/document/90/4111/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/4111/dfaswuoaga/"></a>4.7. Согласно статье 139 ЭПК заявление о выдаче судебного приказа оплачивается государственной пошлиной в размере пятидесяти процентов ставки, исчисленной исходя из оспариваемой суммы при обращении в суд с иском в общем порядке.</p><p><a data-anchor="/document/90/4111/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/4111/dfaszllo42/"></a>Разъяснить судам, что размер уплачиваемой (взыскиваемой) государственной пошлины по заявлению о выдаче судебного приказа должен быть не менее 50 процентов минимальной заработной платы а в случае обращения субъектов малого бизнеса и частного предпринимательства в суд с заявлением о выдаче судебного приказа размер уплачиваемой государственной пошлины должен быть не менее 25 процентов минимальной заработной платы.</p><p><a data-anchor="/document/90/4111/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/4111/dfas9fyz35/"></a>5. В соответствии с частью второй статьи 337 НК при замене судом первоначального истца с его согласия другим лицом это лицо должно уплатить государственную пошлину на общих основаниях. Экономическим судам следует иметь в виду, что в этом случае государственная пошлина, уплаченная первоначальным истцом, ему не возвращается.</p><p><a data-anchor="/document/90/4111/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/4111/dfas9d3q66/"></a>При подаче истцом искового заявления без уплаты государственной пошлины и замене его правопреемником государственная пошлина взыскивается с правопреемника.</p><p><a data-anchor="/document/90/4111/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/4111/dfasnsegcs/"></a>С заявлений о вступлении в дело третьих лиц с самостоятельными исковыми требованиями государственная пошлина взыскивается на общих основаниях.</p><p><a data-anchor="/document/90/4111/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/4111/dfasf6hvk1/"></a>6. Согласно части первой статьи 336 НК государственная пошлина уплачивается до обращения в экономический суд, если иное не установлено разделом XVII НК. При этом истец оплачивает государственную пошлину при подаче иска; ответчик &#8212; в случае подачи встречного иска (статья 160 ЭПК); третье лицо, заявляющее самостоятельные требования относительно предмета иска, &#8212; при подаче заявления.</p><p><a data-anchor="/document/90/4111/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/4111/dfaskxz6kk/"></a>7. В случаях и по основаниям, предусмотренным законом, экономический суд вправе по заявлению истца, исходя из его имущественного положения, отсрочить или рассрочить уплату государственной пошлины. В частности, в соответствии с частью двадцать шестой статьи 337 НК юридическим и физическим лицам, занимающимся предпринимательской деятельностью, по определению суда может быть предоставлена отсрочка по уплате государственной пошлины при отсутствии денежных средств, подтвержденном обслуживающим банком. Следует иметь в виду, что экономический суд вправе также отсрочить или рассрочить уплату государственной пошлины при обращении указанных лиц с апелляционной, кассационной или надзорной жалобой.</p><p><a data-anchor="/document/90/4111/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/4111/dfasi4nva6/"></a>7.1. Отсрочка или рассрочка уплаты государственной пошлины производятся по письменному ходатайству заинтересованной стороны. Ходатайство может быть изложено в исковом заявлении (заявлении), апелляционной, кассационной или надзорной жалобе либо в отдельном заявлении.</p><p><a data-anchor="/document/90/4111/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/4111/dfaswwuv1b/"></a>До обращения с исковым заявлением (заявлением), апелляционной, кассационной или надзорной жалобой ходатайство об отсрочке или рассрочке уплаты государственной пошлины экономическим судом не принимается.</p><p><a data-anchor="/document/90/4111/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/4111/dfas04p4t3/"></a>В ходатайстве должны быть приведены основания отсрочки или рассрочки уплаты государственной пошлины с приложением документов, подтверждающих то, что имущественное положение заинтересованной стороны не позволяет ей уплатить государственную пошлину в установленном порядке при подаче искового заявления (заявления), апелляционной, кассационной или надзорной жалобы.</p><p><a data-anchor="/document/90/4111/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/4111/dfas4mfsx5/"></a>7.2. Ходатайство об отсрочке или рассрочке уплаты государственной пошлины может быть удовлетворено только в тех случаях, когда имеются объективные основания и представленные документы свидетельствуют об отсутствии на банковских счетах денежных средств, в размере, необходимом для уплаты государственной пошлины. При отсутствии таких документов в удовлетворении ходатайства отказывается.</p><p><a data-anchor="/document/90/4111/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/4111/dfasn42csl/"></a>7.3. Об удовлетворении ходатайства указывается в определении о принятии искового заявления (заявления), апелляционной, кассационной или надзорной жалобы, об отказе в удовлетворении ходатайства &#8212; в определении о возвращении искового заявления (заявления), апелляционной, кассационной или надзорной жалобы. В определении должны быть указаны мотивы, по которым ходатайство удовлетворено либо в его удовлетворении отказано.</p><p><a data-anchor="/document/90/4111/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/4111/dfasm9dfd0/"></a>Определение о возвращении искового заявления (заявления), апелляционной или кассационной жалобы в связи с отказом в удовлетворении ходатайства может быть обжаловано на общих основаниях. Такие жалобы государственной пошлиной не оплачиваются.</p><p><a data-anchor="/document/90/4111/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/4111/dfasasn8yn/"></a>7.4. В случае, если при отсрочке или рассрочке уплаты государственной пошлины до дня судебного заседания сторона не представила к этому сроку документ, подтверждающий ее уплату, вопрос о взыскании государственной пошлины с соответствующей стороны решается экономическим судом при принятии решения, определения, постановления. Если экономический суд удовлетворяет исковые требования (жалобу), государственная пошлина взыскивается с другой стороны непосредственно в доход бюджета. При отказе в удовлетворении исковых требований (жалобы) государственная пошлина взыскивается в бюджет с лица, которому предоставлена отсрочка или рассрочка в ее уплате.</p><p><a data-anchor="/document/90/4111/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/4111/dfasbwpqd7/"></a>7.5. Согласно части двадцать седьмой статьи 337 НК при обращении акционеров в экономический суд с иском о нарушении их прав и законных интересов по спорам, вытекающим из деятельности акционерного общества, акционерам предоставляется отсрочка по уплате государственной пошлины, с последующим ее взысканием с виновной стороны.</p><p><a data-anchor="/document/90/4111/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/4111/dfasa3vifd/"></a>В связи с этим судам следует иметь в виду, что при обращении акционеров с иском в суд о нарушении их прав и законных интересов по спорам, вытекающим из деятельности акционерного общества, им предоставляется отсрочка от уплаты государственной пошлины с последующим ее взысканием с виновной стороны. При этом, приложение к ходатайству документов, подтверждающих, что имущественное положение акционера не позволяет ему уплатить государственную пошлину в установленном порядке, не требуется.</p><p><a data-anchor="/document/90/4111/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/4111/dfas2ebg6q/"></a>8. Согласно части первой статьи 336 НК государственная пошлина уплачивается в наличной или безналичной форме.</p><p><a data-anchor="/document/90/4111/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/4111/dfastcrf9a/"></a>Платежные поручения на безналичное перечисление государственной пошлины с отметкой обслуживающего банка и квитанции банка о приеме денег и уплате государственной пошлины (в подлинниках) прилагаются к исковым заявлениям (заявлениям), апелляционным, кассационным и надзорным жалобам и приобщаются к материалам дела.</p><p><a data-anchor="/document/90/4111/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/4111/dfas4e2bpt/"></a>Следует учитывать, что при подаче в экономический суд искового заявления по имущественному спору, в случаях, если цена иска, сумма договора определяется в иностранной валюте, государственная пошлина, в случаях, предусмотренных законодательством, может взиматься в иностранной валюте, в порядке, определяемом Кабинетом Министров Республики Узбекистан.</p><p><a data-anchor="/document/90/4111/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/4111/dfas1y7uru/"></a>9. В соответствии со статьей 327 НК плательщиками государственной пошлины являются юридические и физические лица, обращающиеся по поводу совершения юридически значимых действий и (или) выдачи документов уполномоченными на то учреждениями и (или) должностными лицами. Исходя из этого, судам следует иметь в виду, что уплата государственной пошлины не может быть произведена лицом, не участвующем в деле. Если уплата государственной пошлины произведена за истца (заявителя) или за лицо, подающее апелляционную или кассационную либо надзорную жалобу, другим лицом (за исключением случаев оплаты государственной пошлины руководителем или учредителем за предприятие), следует исходить из того, что государственная пошлина фактически не уплачена и, следовательно, исковое заявление (заявление), апелляционная или кассационная либо надзорная жалоба подлежит возврату на основании пункта 6 части первой статьи 155, пункта 3 части первой статьи 269, пункта 4 части первой статьи 292 и пункта 2 части первой статьи 313 ЭПК соответственно.</p><p><a data-anchor="/document/90/4111/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/4111/dfaslwg8wg/"></a>10. При обращении с исковыми заявлениями (заявлениями) имущественного характера, размер государственной пошлины определяется исходя из взыскиваемой суммы. С исковых заявлений (заявлений) неимущественного характера, заявлений о возбуждении дела о банкротстве, по спору, возникающему при заключении, изменении или расторжении договора государственная пошлина оплачивается исходя из размера минимальной заработной платы.</p><p><a data-anchor="/document/90/4111/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/4111/dfascxe0lr/"></a>За исковые заявления (заявления), содержащие одновременно требования имущественного и неимущественного характера, каждое требование оплачивается государственной пошлиной отдельно по ставкам, установленным для исковых заявлений имущественного характера и для исковых заявлений неимущественного характера.</p><p><a data-anchor="/document/90/4111/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/4111/dfassmvbqu/"></a>11. При подаче искового заявления (заявления) неимущественного характера, заявления о возбуждении дела о банкротстве, по спору, возникающему при заключении, изменении или расторжении договора, государственная пошлина оплачивается исходя из размера минимальной заработной платы, действующей на день его подачи.</p><p><a data-anchor="/document/90/4111/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/4111/dfasytz8oo/"></a>При обращении по этим же категориям дел с апелляционными, кассационными или надзорными жалобами государственная пошлина оплачивается исходя из минимального размера заработной платы, действовавшей на день подачи искового заявления (заявления).</p><p><a data-anchor="/document/90/4111/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/4111/dfasgc8l3c/"></a>За выдачу экономическим судом дубликатов судебных актов и копий других документов из дела, государственная пошлина оплачивается исходя из минимального размера заработной платы на день ее уплаты.</p><p><a data-anchor="/document/90/4111/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/4111/dfaszrqguz/"></a>12. Ставки государственной пошлины устанавливаются Кабинетом Министров Республики Узбекистан.</p><p><a data-anchor="/document/90/4111/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/4111/dfasx28gr2/"></a>12.1. При подаче исковых заявлений в сумах, оплата государственной пошлины осуществляется по ставкам государственной пошлины, утвержденным постановлением Кабинета Министров Республики Узбекистан &#171;О ставках государственной пошлины&#187; от 3 ноября 1994 года № 533.</p><p><a data-anchor="/document/90/4111/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/4111/dfas71vgs7/"></a>12.2. Иностранные организации, международные организации и осуществляющие предпринимательскую деятельность иностранные граждане, лица без гражданства при подаче исковых заявлений (заявлений), апелляционных, кассационных и надзорных жалоб уплачивают государственную пошлину на общих основаниях, если иное не предусмотрено международными договорами.</p><p><a data-anchor="/document/90/4111/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/4111/dfasppp6g3/"></a>При обращении хозяйствующего субъекта, находящегося на территории одного из государств&#8212;участников СНГ, подписавшего Соглашение &#171;О размере государственной пошлины и порядке ее взыскания при рассмотрении хозяйственных споров между субъектами хозяйствования разных государств&#187; в г. Ашгабаде 24 декабря 1993 года, участником которого является и Республика Узбекистан, с иском в суд другого государства, государственная пошлина исчисляется и уплачивается в порядке и по ставкам, предусмотренным данным Соглашением.</p><p><a data-anchor="/document/90/4111/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/4111/dfastk3a7p/"></a>12.3. Экономические суды не наделены правом освобождения от уплаты государственной пошлины или уменьшения ее размера. При решении вопросов взыскания государственной пошлины экономическим судам необходимо руководствоваться НК и другими актами законодательства о государственной пошлине.</p><p><a data-anchor="/document/90/4111/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/4111/dfasmes7qt/"></a>13. Основания и порядок возврата государственной пошлины предусмотрены в статье 342 НК и в статье 115 ЭПК, согласно которым государственная пошлина подлежит возврату полностью или частично в случаях: внесения государственной пошлины в большем размере, чем требуется по законодательству; отказа в принятии заявления (жалобы); возвращения истцу заявления (жалобы); прекращения производства по делу, если оно не подведомственно суду; смерти лица, участвовавшего в деле, если спорное правоотношение не допускает правопреемства; несоблюдения истцом досудебного (претензионного) порядка урегулирования спора, когда это предусмотрено законом для данной категории споров или договором сторон и возможность такого урегулирования утрачена; если юридическое лицо, участвующее в деле, ликвидировано; отказа в принятии заявления о вынесении судебного приказа.</p><p><a data-anchor="/document/90/4111/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/4111/dfaswoh7rh/"></a>14. Следует учитывать, что по общему правилу при окончании рассмотрения дела вынесением определения о прекращении производства по делу, государственная пошлина не возвращается, а неуплаченная государственная пошлина &#8212; взыскивается с истца, если он не освобожден от уплаты государственной пошлины. Вместе с тем, в соответствии с пунктами 4, 6, 7 и 9 части первой статьи 342 НК государственная пошлина подлежит возврату в случаях:</p><p><a data-anchor="/document/90/4111/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/4111/dfasuqnxpm/"></a>прекращения производства по делу в связи с его не подведомственностью суду;</p><p><a data-anchor="/document/90/4111/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/4111/dfasgafz5g/"></a>смерти лица, участвовавшего в деле, если спорное правоотношение не допускает правопреемство;</p><p><a data-anchor="/document/90/4111/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/4111/dfaskf3uxw/"></a>в связи с несоблюдением истцом досудебного (претензионного) порядка урегулирования спора, когда это предусмотрено законом для данной категории споров или договором сторон, и возможность такого урегулирования утрачена;</p><p><a data-anchor="/document/90/4111/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/4111/dfasukk2ra/"></a>если юридическое лицо, участвующее в деле, ликвидировано.</p><p><a data-anchor="/document/90/4111/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/4111/dfas8yce78/"></a>15. Экономическим судам следует иметь в виду, что при окончании рассмотрения дела вынесением определения об оставлении иска (заявления) без рассмотрения, государственная пошлина не возвращается, а неуплаченная государственная пошлина взыскивается с истца, если он не освобожден от уплаты государственной пошлины.</p><p><a data-anchor="/document/90/4111/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/4111/dfas2l1wx6/"></a>При повторном обращении в экономический суд с исковым заявлением (заявлением) после оставления первоначального иска (заявления) без рассмотрения, государственная пошлина уплачивается вновь на общих основаниях.</p><p><a data-anchor="/document/90/4111/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/4111/dfasuzlggq/"></a>16. Уплаченная государственная пошлина возвращается при возвращении и отказе в принятии апелляционной, кассационной или надзорной жалобы. В случае отказа от апелляционной, кассационной или надзорной жалобы и принятии отказа от жалобы, суд соответствующей инстанции прекращает производство по жалобе и уплаченная государственная пошлина не возвращается, а неуплаченная государственная пошлина взыскивается с лица, подавшего жалобу.</p><p><a data-anchor="/document/90/4111/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/4111/dfass73krp/"></a>17. При уменьшении цены иска уплаченная государственная пошлина не возвращается.</p><p><a data-anchor="/document/90/4111/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/4111/dfas4w8pnt/"></a>При уменьшении экономическим судом размера неустойки на основании статьи 326 Гражданского кодекса Республики Узбекистан, расходы истца по государственной пошлине подлежат возмещению ответчиком исходя из суммы неустойки, которая подлежала бы взысканию без учета ее уменьшения, а если истец был освобожден от уплаты государственной пошлины, то государственная пошлина взимается с ответчика в доход государства (если он не освобожден от уплаты государственной пошлины).</p><p><a data-anchor="/document/90/4111/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/4111/dfasf0wxmq/"></a>18. В соответствии с частью девятой статьи 337 НК при увеличении суммы иска недостающая сумма государственной пошлины взимается в соответствии с увеличенной суммой иска. В связи с этим, к заявлению об увеличении размера исковых требований прилагается документ, подтверждающий уплату государственной пошлины в установленном порядке и размере. Данное правило также применяется и при увеличении размера исковых требований истцом, в интересах которого иск предъявлен освобожденным от уплаты государственной пошлины государственным органом и или иным лицом.</p><p><a data-anchor="/document/90/4111/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/4111/dfasacpxav/"></a>19. В судебном решении, определении и постановлении указываются обстоятельства, являющиеся основанием для полного или частичного возврата государственной пошлины.</p><p><a data-anchor="/document/90/4111/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/4111/dfasyk8ut7/"></a>20. Согласно части третьей статьи 115 ЭПК по заявлениям, апелляционным, кассационным или надзорным жалобам, оплаченным государственной пошлиной, но не поступившим в экономический суд или им возвращенным либо отказанным в принятии, и по судебным актам, предусматривающим полный или частичный возврат пошлины, ее возвращение производится на основании выданной судом справки.</p><p><a data-anchor="/document/90/4111/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/4111/dfas9kwzg1/"></a>21. Согласно части первой статьи 118 ЭПК государственная пошлина относится на лиц, участвующих в деле, пропорционально размеру удовлетворенных исковых требований.</p><p><a data-anchor="/document/90/4111/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/4111/dfasdu13aw/"></a>21.1. Если решение принято в пользу истца, то ему с ответчика взыскивается уплаченная государственная пошлина. Если решение вынесено в пользу ответчика, то истцу уплаченная государственная пошлина не возвращается.</p><p><a data-anchor="/document/90/4111/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/4111/dfas1g259s/"></a>При частичном удовлетворении иска судебные расходы по государственной пошлине присуждаются истцу пропорционально размеру удовлетворенных хозяйственным судом исковых требований и ответчику &#8212; пропорционально той части исковых требований, в которой истцу отказано.</p><p><a data-anchor="/document/90/4111/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/4111/dfas16ngdp/"></a>21.2. При удовлетворении иска (полностью или в части), предъявленного к нескольким ответчикам одним или несколькими истцами, освобожденными от уплаты государственной пошлины, взыскание государственной пошлины осуществляется отдельно с каждого ответчика исходя из присужденной суммы по решению экономического суда. Если такой иск предъявлен несколькими истцами к одному ответчику, государственная пошлина взыскивается с ответчика из общей присужденной с него суммы.</p><p><a data-anchor="/document/90/4111/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/4111/dfasy7irit/"></a>21.3. Частью четвертой статьи 118 ЭПК предусмотрено, что в случае, когда дело возникло вследствие нарушения лицом, участвующим в деле, досудебного (претензионного) порядка урегулирования спора с ответчиком, предусмотренного законом для данной категории споров или договором (оставление претензии без ответа, невысылка истребованных документов), суд вправе отнести на это лицо судебные расходы независимо от исхода дела.</p><p><a data-anchor="/document/90/4111/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/4111/dfasw4g6zl/"></a>21.4. При добровольном удовлетворении ответчиком требований истца после обращения последнего в экономический суд государственная пошлина относится на ответчика.</p><p><a data-anchor="/document/90/4111/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/4111/dfas4dhbrq/"></a>22. В соответствии с частью восьмой статьи 179 ЭПК в резолютивной части решения указывается о распределении между лицами, участвующими в деле, судебных расходов по государственной пошлине. Это же правило распространяется на случаи, когда рассмотрение дела заканчивается вынесением определения о прекращении производства по делу и оставлении иска без рассмотрения.</p><p><a data-anchor="/document/90/4111/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/4111/dfasfah19l/"></a>При рассмотрении дела в судах апелляционной, кассационной инстанций или в порядке надзора, в случае изменения или отмены судебных актов, экономический суд в постановлении должен рассмотреть вопрос перераспределения расходов по государственной пошлине, понесенных лицами, участвующими в деле, с учетом ранее уплаченной.</p><p><a data-anchor="/document/90/4111/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/4111/dfaseorrk3/"></a>При отмене судебного акта и направлении дела на новое рассмотрение в инстанцию экономического суда, судебный акт которой отменен, вопрос о распределении судебных расходов по государственной пошлине разрешается экономическим судом, вновь рассматривающим дело, с учетом уже оплаченной государственной пошлины и размера удовлетворенных исковых требований.</p><p><a data-anchor="/document/90/4111/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/4111/dfas20dl6k/"></a>23. Государственная пошлина, от уплаты которой истец освобожден в установленном порядке, взыскивается с ответчика в доход бюджета пропорционально размеру удовлетворенных исковых требований, если ответчик не освобожден от уплаты государственной пошлины. Если обе стороны освобождены, то государственная пошлина взысканию не подлежит.</p><p><a data-anchor="/document/90/4111/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/4111/dfasefkaka/"></a>24. В случае если лица, участвующие в деле, заключили мировое соглашение, в котором содержатся условия о распределении судебных расходов по государственной пошлине, не противоречащие законодательству и не нарушающие права и охраняемые законом интересы других лиц, экономический суд распределяет государственную пошлину в соответствии с этим соглашением.</p><p><a data-anchor="/document/90/4111/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/4111/dfast7gk7s/"></a>Если в мировом соглашении отсутствует условие о распределении судебных расходов по государственной пошлине, экономический суд разрешает этот вопрос при утверждении мирового соглашения в общем порядке, установленном ЭПК.</p><p><a data-anchor="/document/90/4111/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/4111/dfash9zmoi/"></a>Судам следует иметь в виду, что при утверждении мирового соглашения государственная пошлина исчисляется исходя из требований, указанных в исковом заявлении.</p><p><a data-anchor="/document/90/4111/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/4111/dfaslw80or/"></a>25. При подаче искового заявления (заявления) от уплаты государственной пошлины в экономических судах освобождаются государственные органы, юридические и физические лица, занимающиеся предпринимательской деятельностью, а также другие организации, предусмотренные в статье 330 НК.</p><p><a data-anchor="/document/90/4111/bssPhr79/" data-role="phrase-anchor" data-phrase-id="79" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr79"></a><a data-anchor="/document/90/4111/dfas0b5ed4/"></a>Следует иметь в виду, что при обращении государственных органов, освобожденных от уплаты государственной пошлины, в экономический суд с апелляционными, кассационными и надзорными жалобами на судебные акты, они также освобождаются от уплаты государственной пошлины. Это же правило распространяется и на случаи, когда они участвуют в судебном процессе в качестве ответчиков.</p><p><a data-anchor="/document/90/4111/bssPhr80/" data-role="phrase-anchor" data-phrase-id="80" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr80"></a><a data-anchor="/document/90/4111/dfasxay9r2/"></a>26. Основания освобождения от уплаты государственной пошлины установлены статьей 330 НК и иными актами законодательства. При этом следует иметь в виду, что под освобождением от уплаты государственной пошлины понимается полное освобождение либо освобождение от уплаты государственной пошлины при подаче искового заявления (заявления) в экономический суд.</p><p><a data-anchor="/document/90/4111/bssPhr81/" data-role="phrase-anchor" data-phrase-id="81" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr81"></a><a data-anchor="/document/90/4111/dfassdgl38/"></a>При обращении в суд в рамках осуществляемой предпринимательской деятельности субъекты малого бизнеса и частного предпринимательства уплачивают государственную пошлину, указанную в подпунктах &#171;а&#187;-&#187;г&#187; и &#171;е&#187; пункта 2 Ставок государственной пошлины, утвержденных постановлением Кабинета Министров Республики Узбекистан от 3 ноября 1994 года № 533, в размере 50 процентов от установленной ставки. При этом, статус субъекта малого бизнеса должен быть подтвержден прилагаемой к исковому заявлению справкой органа статистики или органа государственной налоговой службы, которая должна быть датирована не ранее тридцати дней до даты обращения в суд, за исключением индивидуальных предпринимателей.</p><p><a data-anchor="/document/90/4111/bssPhr82/" data-role="phrase-anchor" data-phrase-id="82" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr82"></a><a data-anchor="/document/90/4111/dfasm5dx2m/"></a>Если при обращении в экономический суд субъектом малого бизнеса и частного предпринимательства государственная пошлина оплачена в размере 50 процентов установленной ставки и исковые требования удовлетворены, взыскиваемая по результатам рассмотрения дела с ответчика государственная пошлина ограничивается уплаченной истцом суммой. В случае отказа в иске, государственная пошлина дополнительно с истца не взыскивается.</p><p><a data-anchor="/document/90/4111/bssPhr83/" data-role="phrase-anchor" data-phrase-id="83" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr83"></a><a data-anchor="/document/90/4111/dfas3o8y3c/"></a>Если при обращении в экономический суд субъекту малого бизнеса и частного предпринимательства была предоставлена отсрочка или рассрочка в уплате государственной пошлины, по результатам рассмотрения дела государственная пошлина взыскивается в размере 50 процентов установленной ставки, которая относится на сторон, в порядке, предусмотренном частью первой статьи 118 ЭПК.</p><p><a data-anchor="/document/90/4111/bssPhr84/" data-role="phrase-anchor" data-phrase-id="84" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr84"></a><a data-anchor="/document/90/4111/dfascm1u4v/"></a>Апелляционные, кассационные и надзорные жалобы по этим делам оплачиваются государственной пошлиной в размере 50 процентов от пошлины, оплаченной (взысканной) в суд первой инстанции.</p><p><a data-anchor="/document/90/4111/bssPhr85/" data-role="phrase-anchor" data-phrase-id="85" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr85"></a><a data-anchor="/document/90/4111/dfaso076ck/"></a>26.4. Обратить внимание судов, что согласно пункту 31 статьи 330 НК по делам о применении мер правового воздействия заявитель и ответчик освобождены от уплаты государственной пошлины. Настоящая льгота применяется к ним также при обращении с апелляционными, кассационными и надзорными жалобами на судебные акты.</p><p><a data-anchor="/document/90/4111/bssPhr86/" data-role="phrase-anchor" data-phrase-id="86" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr86"></a><a data-anchor="/document/90/4111/dfasi87ufy/"></a>26.6. Согласно пункту 32 статьи 330 НК акционерные общества с иностранными инвестициями освобождаются от уплаты государственной пошлины в экономических судах по искам о нарушении их прав и законных интересов.</p><p><a data-anchor="/document/90/4111/bssPhr87/" data-role="phrase-anchor" data-phrase-id="87" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr87"></a><a data-anchor="/document/90/4111/dfas3nppc9/"></a>Разъяснить судам, что при отказе в удовлетворении такого иска с акционерного общества с иностранными инвестициями государственная пошлина не взыскивается, а при удовлетворении иска в соответствии с частью десятой статьи 337 НК государственная пошлина взыскивается с ответчика (если он не освобожден от уплаты государственной пошлины) в доход государства.</p><p><a data-anchor="/document/90/4111/bssPhr88/" data-role="phrase-anchor" data-phrase-id="88" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr88"></a><a data-anchor="/document/90/4111/dfasd98phq/"></a>27. В соответствии с частью первой статьи 13 Закона Республики Узбекистан &#171;О Торгово-промышленной палате Республики Узбекистан&#187; и пунктом 6 статьи 330 НК Торгово-промышленная палата Республики Узбекистан и ее территориальные управления имеют право предъявлять иски в суд в интересах членов палаты, а также обжаловать решения органов государственного и хозяйственного управления, действия (бездействие) их должностных лиц без уплаты государственной пошлины, при этом это право не может быть передано созданным ими предприятиям и организациям.</p><p><a data-anchor="/document/90/4111/bssPhr89/" data-role="phrase-anchor" data-phrase-id="89" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr89"></a><a data-anchor="/document/90/4111/dfaszmunb1/"></a>28. Согласно пункту 21 статьи 330 НК органы государственной налоговой службы, финансовые и таможенные органы, а также выступающие в качестве истцов и ответчиков в экономических судах, освобождены от уплаты государственной пошлины. Однако, следует иметь в виду, что при удовлетворении исковых требований, предъявленных к ответчику, освобожденному от уплаты государственной пошлины, истцу возмещаются расходы по государственной пошлине. В связи с этим экономический суд принимает меры по взысканию с ответчика &#8212; государственного органа, освобожденного от уплаты государственной пошлины, &#8212; в пользу истца расходов, понесенных им в связи с уплатой государственной пошлины.</p><p><a data-anchor="/document/90/4111/bssPhr90/" data-role="phrase-anchor" data-phrase-id="90" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr90"></a><a data-anchor="/document/90/4111/dfasrlfyv6/"></a>29. В случае отказа в удовлетворении или частичном удовлетворении исковых требований, предъявленных освобожденными от уплаты государственной пошлины государственными органами и иными лицами в интересах юридических лиц и граждан, государственная пошлина взыскивается с лиц, в интересах которых предъявлен иск, пропорционально той части исковых требований, в удовлетворении которой отказано (если это лицо не освобождено от уплаты государственной пошлины).</p><p><a data-anchor="/document/90/4111/bssPhr91/" data-role="phrase-anchor" data-phrase-id="91" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr91"></a><a data-anchor="/document/90/4111/dfasceteie/"></a>При отказе в удовлетворении иска, заявленного государственным органом и иным органом, который освобожден от уплаты государственной пошлины, государственная пошлина не взыскивается. При отказе же в удовлетворении иска, заявленного государственным и иным органом, освобожденным соответствующим актом законодательства от уплаты государственной пошлины при подаче искового заявления (заявления), государственная пошлина взыскивается с истца.</p><p><a data-anchor="/document/90/4111/bssPhr92/" data-role="phrase-anchor" data-phrase-id="92" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr92"></a><a data-anchor="/document/90/4111/dfas92gwiu/"></a>В случае отмены по апелляционной, кассационной или надзорной жалобы ответчика (с уплатой государственной пошлины в установленном порядке и размере) решения суда об удовлетворении исковых требований истца, освобожденного от уплаты государственной пошлины, и отказе в удовлетворении иска в связи с его необоснованностью, уплаченные ответчиком судебные расходы подлежат взысканию с истца в пользу ответчика.</p><p><a data-anchor="/document/90/4111/bssPhr93/" data-role="phrase-anchor" data-phrase-id="93" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr93"></a><a data-anchor="/document/90/4111/dfas8mf62u/"></a>г. Ташкент,<br>18 апреля 2008 г.,<br>№ 180</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

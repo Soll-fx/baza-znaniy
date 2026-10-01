@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как оформить удержания из зарплаты по исполнительным документам</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/211383/dfasd537hw/" data-dfa="dfasd537hw"></a><a data-anchor="/document/16/211383/bssPhr2/"></a>В&nbsp;рекомендации, как учитывать исполнительные документы, как их&nbsp;хранить, как оформить удержания, как перечислять деньги и&nbsp;что делать с&nbsp;комиссией банка и&nbsp;почтовыми услугами за&nbsp;перевод. Также в&nbsp;каком случае нужно возвращать исполнительный лист приставу. </div><div id="documentBody" class="content-common"><list><item><a anchor="dfasnld38x" icon="useful" itemid="_9vaes43uf" label="Полезно" text="Узнайте, как оформить  исполнительные документы">Узнайте, как оформить исполнительные документы</a></item></list><a data-anchor="/document/16/211383/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211383/bssPhr5/"></a><a data-anchor="/document/16/211383/dfasnld38x/" data-dfa="dfasnld38x"></a>Оформление и&nbsp;учет документов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211383/bssPhr7/"></a><a data-anchor="/document/16/211383/dfasvsec3u/" data-dfa="dfasvsec3u"></a>Исполнительный лист может поступить в&nbsp;организацию с&nbsp;нарочным, по&nbsp;почте или с&nbsp;курьером по&nbsp;реестру, а также в кабинет налогоплательщика (<span num="1" target="_self" lnktype="intlnk" title="Предъявление требования с приложением оригинала исполнительного документа производится путем вручения нарочным, почтовыми или курьерскими услугами по реестру." class="doc">абз.&nbsp;3</span>&nbsp;п.&nbsp;6&nbsp;Правил исполнения исполнительных документов организациями либо другими лицами, выплачивающими должнику&nbsp;— физическому лицу заработную плату или иные приравненные к&nbsp;ней платежи, рег.&nbsp;от&nbsp;08.07.2009 №&nbsp;1980).</p><p><a data-anchor="/document/16/211383/bssPhr8/"></a><a data-anchor="/document/16/211383/dfasxs0aal/" data-dfa="dfasxs0aal"></a>Уведомьте сотрудника под подпись о&nbsp;том, что на&nbsp;него пришел исполнительный документ.</p><p><a data-anchor="/document/16/211383/bssPhr9/"></a><a data-anchor="/document/16/211383/dfasbu6atg/" data-dfa="dfasbu6atg"></a>Вместе с&nbsp;исполнительным листом судебный исполнитель направляет в&nbsp;организацию, где работает должник, требование об&nbsp;удержании по&nbsp;исполнительному листу (<span num="3" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;1</span>&nbsp;к Правилам №&nbsp;1980).</p><p><a data-anchor="/document/16/211383/bssPhr10/"></a><a data-anchor="/document/16/211383/dfassklz3b/" data-dfa="dfassklz3b"></a>Разъяснения изложены в <span num="5" target="_self" lnktype="intlnk" title="II. Порядок обращения взыскания на заработную плату" class="doc">разделе II</span>&nbsp;Правил №&nbsp;1980.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211383/bssPhr11/"></a><a data-anchor="/document/16/211383/dfas1ahg9v/" data-dfa="dfas1ahg9v"></a>Поступившие исполнительные документы регистрируйте в&nbsp;отдельной Книге регистрации.</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/211383/bssPhr12/"></a><a data-anchor="/document/16/211383/dfas93n75f/" data-dfa="dfas93n75f"></a><span num="105" target="_self" lnktype="intlnk" title="" class="doc">приложения №&nbsp;2</span>&nbsp;Правил №&nbsp;1980</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211383/bssPhr13/"></a><a data-anchor="/document/16/211383/dfasgpbnu7/" data-dfa="dfasgpbnu7"></a>Порядок учета и&nbsp;хранения исполнительных документов разъяснен в <span num="9" target="_self" lnktype="intlnk" title="II. Порядок обращения взыскания на заработную плату" class="doc">разделе II</span>&nbsp;Правил №&nbsp;1980.</p></div><a data-anchor="/document/16/211383/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211383/bssPhr14/"></a><a data-anchor="/document/16/211383/dfas97i1hq/" data-dfa="dfas97i1hq"></a>БПИ требует удержать долг из зарплаты работника: что делать бухгалтеру</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211383/bssPhr16/"></a><a data-anchor="/document/16/211383/dfas1xe4f6/" data-dfa="dfas1xe4f6"></a>Если в личный кабинет или напрямую работодателю поступило требование БПИ об удержании долга из зарплаты работника, игнорировать его нельзя. Исполнительный документ и требование судебного исполнителя обязательны к исполнению и могут быть приостановлены только судом или судебным исполнителем. Организация, получив требование с приложением исполнительного документа, должна зарегистрировать его и начать удержания из зарплаты должника.</p><p><a data-anchor="/document/16/211383/bssPhr17/"></a><a data-anchor="/document/16/211383/dfasqumqbn/" data-dfa="dfasqumqbn"></a><strong>Как исполнительные документы попадают работодателю</strong></p><p><a data-anchor="/document/16/211383/bssPhr18/"></a><a data-anchor="/document/16/211383/dfasawcodu/" data-dfa="dfasawcodu"></a>На практике БПИ может выявить место работы должника и направить документы работодателю в личный кабинет налогоплательщика письмом, поскольку исполнительные действия в отношении физлица могут совершаться и по месту его работы. Если у работника меняется место работы, прежний работодатель обязан незамедлительно сообщить об этом судебному исполнителю и вернуть исполнительный документ с отметкой о произведенных взысканиях.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должен ли работодатель сам следить за долгами работника</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211383/bssPhr20/"></a><a data-anchor="/document/16/211383/dfasn8m1de/" data-dfa="dfasn8m1de"></a>Нет, самостоятельно отслеживать долги работника без исполнительного документа работодатель не обязан.</p><p><a data-anchor="/document/16/211383/bssPhr21/"></a><a data-anchor="/document/16/211383/dfaspotkk7/" data-dfa="dfaspotkk7"></a>Обязанность удерживать суммы возникает у работодателя только после того, как он получил требование судебного исполнителя с приложением исполнительного документа. Например, в личный кабинет налогоплательщика. До этого удерживать что-либо из зарплаты на основании только слов работника, информации с <a href="https://mib.uz/4ACSSUAVWDcl-ss7QMmJpUrqB75Y1QLe7Pu9aOp_LSelDzR0pPTHrf1t85s5d7wxyYIJkTKX-IbN8nZ2Ez0S6Ab2_QuFPa8xMKL8YMz9Q8JJs1WI8mJDOA/4AC15/e7P1d" target="_blank" title="">сайта</a> или устной просьбы нельзя.</p></div></div><p><a data-anchor="/document/16/211383/bssPhr22/"></a><a data-anchor="/document/16/211383/dfast1e88i/" data-dfa="dfast1e88i"></a><strong>Если работник говорит, что уже заплатил</strong></p><p><a data-anchor="/document/16/211383/bssPhr23/"></a><a data-anchor="/document/16/211383/dfast98sm3/" data-dfa="dfast98sm3"></a>Это не освобождает работодателя от исполнения требования БПИ. Пока исполнительное производство не прекращено или не окончено в установленном порядке, удержания прекращать нельзя. Правила прямо говорят: удержания из зарплаты прекращаются только при прекращении или окончании исполнительного документа по закону, а не просто потому, что работник показал квитанцию. Поэтому безопасный порядок такой:</p><ul class="c-list"><li><a data-anchor="/document/16/211383/bssPhr24/"></a><a data-anchor="/document/16/211383/dfaszyhoue/" data-dfa="dfaszyhoue"></a>попросите работника срочно обратиться в БПИ к судебному исполнителю по своему делу. Работник должен представить туда документы об оплате и добиться, чтобы БПИ оформило прекращение или окончание исполнения либо направило работодателю документ, что удержания больше не нужны;</li><li>пока такого документа от БПИ нет, работодатель действует по поступившему требованию.</li></ul><p><a data-anchor="/document/16/211383/bssPhr25/"></a><a data-anchor="/document/16/211383/dfasd35zlt/" data-dfa="dfasd35zlt"></a><strong>Что делать бухгалтеру на практике</strong></p><p><a data-anchor="/document/16/211383/bssPhr26/"></a><a data-anchor="/document/16/211383/dfas3yomqe/" data-dfa="dfas3yomqe"></a>Если пришло требование БПИ, а работник уверяет, что долг уже закрыт, безопаснее действовать так:</p><ul class="c-list"><li><a data-anchor="/document/16/211383/bssPhr27/"></a><a data-anchor="/document/16/211383/dfasie4x49/" data-dfa="dfasie4x49"></a>зарегистрировать исполнительный документ;</li><li>дать работнику короткий срок, чтобы он принес из БПИ официальное подтверждение прекращения взыскания;</li><li>если такого подтверждения нет, удержать сумму из зарплаты в пределах установленных ограничений и перечислить ее по реквизитам из требования.</li></ul><p><a data-anchor="/document/16/211383/bssPhr28/"></a><a data-anchor="/document/16/211383/dfasbib9eu/" data-dfa="dfasbib9eu"></a>Именно работник, а не бухгалтерия, должен разбираться с тем, почему на <a href="https://mib.uz/4ACSSUAVWDcl-ss7QMmJpUrqB75Y1QLe7Pu9aOp_LSelDzR0pPTHrf1t85s5d7wxyYIJkTKX-IbN8nZ2Ez0S6Ab2_QuFPa8xMKL8YMz9Q8JJs1WI8mJDOA/4AC15/e7P1d" target="_blank" title="">сайте</a> БПИ долг числится активным, хотя он уже оплачен. Пока от БПИ не пришел документ о прекращении удержаний, для работодателя рискованно не исполнять требование. За нарушение порядка исполнения, учета и хранения исполнительных документов предусмотрена административная ответственность. Если потом выяснится, что работник заплатил лишнее, вопрос возврата он будет решать уже с БПИ и взыскателем.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должно ли предприятие&#160;удерживать алименты по исполнительному листу из выплат физлицу, работающему по договору ГПХ</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211383/bssPhr30/"></a><a data-anchor="/document/16/211383/dfasdkx0sg/" data-dfa="dfasdkx0sg"></a>Да, должно.</p><p><a data-anchor="/document/16/211383/bssPhr31/"></a><a data-anchor="/document/16/211383/dfaszx72vi/" data-dfa="dfaszx72vi"></a>Если&nbsp;предприятие получило исполнительный лист от Бюро принудительного взыскания на доходы физического лица по договору ГПХ, то&nbsp;обязано произвести удержание, при этом уведомить об этом должника.</p><p><a data-anchor="/document/16/211383/bssPhr32/"></a><a data-anchor="/document/16/211383/dfasgl8poe/" data-dfa="dfasgl8poe"></a>Исполнительные документы, предъявленные к исполнению судебному исполнителю и оформленные в установленном порядке, направляют&nbsp;для исполнения организациям, выплачивающим должнику заработную плату (<span data-warm-notices="46267280" data-warm-notice-type="error" num="237" target="_blank" lnktype="intlnk" title="" class="doc">п. 1 </span>Правил исполнения исполнительных документов организациями либо другими лицами, выплачивающими должнику – физическому лицу заработную плату или иные приравненные к ней платежи, рег. МЮ № 1980 от 08.07.2009).</p><p><a data-anchor="/document/16/211383/bssPhr33/"></a><a data-anchor="/document/16/211383/dfas1zz119/" data-dfa="dfas1zz119"></a>Требование судебного исполнителя так и называется «Требование об удержании из заработной платы или иных приравненных к ней платежей» (<span data-warm-notices="46267279" data-warm-notice-type="error" num="238" target="_blank" lnktype="intlnk" title="" class="doc">п. 6 </span>Правил).</p><p><a data-anchor="/document/16/211383/bssPhr34/"></a><a data-anchor="/document/16/211383/dfasgtyg0c/" data-dfa="dfasgtyg0c"></a>К доходам в виде оплаты труда также относят&nbsp;выплаты физлицам по&nbsp;договорам ГПХ на выполнение работ и оказание услуг (<span num="239" target="_blank" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 371 НК).</p></div></div></div><a data-anchor="/document/16/211383/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211383/bssPhr35/"></a><a data-anchor="/document/16/211383/dfasiemdnp/" data-dfa="dfasiemdnp"></a>Хранение исполнительных документов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211383/bssPhr37/"></a><a data-anchor="/document/16/211383/dfas1rmzpt/" data-dfa="dfas1rmzpt"></a>Исполнительные документы&nbsp;— документы строгой отчетности, поэтому храните их&nbsp;в&nbsp;сейфах или специальных железных шкафах. Такое требование устанавливает <span num="106" target="_self" lnktype="intlnk" title="" class="doc">пункт&nbsp;23</span>&nbsp;Правил №&nbsp;1980 и пункт&nbsp;38&nbsp;Положения о&nbsp;документах и&nbsp;документообороте в&nbsp;бухгалтерском учете (рег.&nbsp;от&nbsp;30.07.2004 МЮ № 3538).&nbsp;Если исполнительный лист пришел в персональный кабинет налогоплательщика – распечатайте его и храните согласно правилам.&nbsp;</p></div><a data-anchor="/document/16/211383/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211383/bssPhr38/"></a><a data-anchor="/document/16/211383/dfasl9gtef/" data-dfa="dfasl9gtef"></a>Оформление документов при удержании</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211383/bssPhr42/"></a><a data-anchor="/document/16/211383/dfasqtpenl/" data-dfa="dfasqtpenl"></a>Когда исполнительный лист поступит в&nbsp;бухгалтерию, уведомьте об&nbsp;этом сотрудника под подпись. На&nbsp;основании этого документа удерживайте необходимые суммы. Ждать заявления от&nbsp;сотрудника и&nbsp;оформлять приказ не&nbsp;нужно, так как удержания из&nbsp;оплаты труда работника для исполнения судебных решений и&nbsp;других исполнительных документов производят независимо от&nbsp;его согласия (<span num="149" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;269&nbsp;ТК).</p><p><a data-anchor="/document/16/211383/bssPhr43/"></a><a data-anchor="/document/16/211383/dfas5g9d3q/" data-dfa="dfas5g9d3q"></a>Суммы, которые удержаны по&nbsp;исполнительному листу, отразите в&nbsp;расчетно-платежных документах. Организация вправе по&nbsp;собственному выбору использовать типовые формы документов, если это утвердил руководитель организации в <span num="17" lnktype="intlnk" title="Приказ об учетной политике" class="doc">приказе по&nbsp;учетной политике</span> либо применять самостоятельно разработанные формы. Удержания отражайте в&nbsp;графе «Удержано и&nbsp;зачтено по&nbsp;исполнительному договору» расчетно-платежной или платежной ведомости формы № Т-49 (№ Т-51). Типовые формы не&nbsp;запрещены к&nbsp;применению. Самостоятельно разработанные формы руководитель утверждает в&nbsp;приказе по&nbsp;учетной политике. Бланки должны содержать реквизиты, которые предусмотрены <span num="19" target="_self" lnktype="intlnk" title="Обязательными реквизитами первичных учетных документов являются..." class="doc">частью&nbsp;4</span>&nbsp;статьи&nbsp;14&nbsp;Закона о&nbsp;бухучете. Удержанные суммы фиксируйте в&nbsp;соответствующей графе расчетно-платежной или платежной ведомости.</p><p><a data-anchor="/document/16/211383/bssPhr44/"></a><a data-anchor="/document/16/211383/dfasd0fwgp/" data-dfa="dfasd0fwgp"></a>Субъекты малого предпринимательства, которые применяют упрощенный порядок ведения бухучета в&nbsp;соответствии с <span num="21" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;20</span>, могут вести учет по&nbsp;начислению зарплаты в <span num="23" target="_self" lnktype="intlnk" title="" class="doc">Ведомости учета расчетов по&nbsp;оплате труда</span>.</p><p><a data-anchor="/document/16/211383/bssPhr45/"></a><a data-anchor="/document/16/211383/dfaswzh3lb/" data-dfa="dfaswzh3lb"></a>Сведения о&nbsp;взысканных суммах зафиксируйте в&nbsp;лицевом счете сотрудника. Для этого применяйте типовую форму <span num="25" lnktype="intlnk" title="Лицевой счет" class="doc">№ Т-54</span>, либо самостоятельно разработанную форму. Укажите вид удержания, период, за&nbsp;который его произвели, сумму или процент взысканий, размер удержаний за&nbsp;месяц.</p><p><a data-anchor="/document/16/211383/bssPhr46/"></a><a data-anchor="/document/16/211383/dfasqovwqa/" data-dfa="dfasqovwqa"></a>Если применяете форму <span num="27" lnktype="intlnk" title="Расчетная ведомость" class="doc">№ Т-51</span>, то&nbsp;лицевой счет формы <span num="29" lnktype="intlnk" title="Лицевой счет" class="doc">№ Т-54</span>&nbsp;не ведите.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как написать уведомление в&#160;МИБ об&#160;увольнении алиментщика</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211383/bssPhr48/"></a><a data-anchor="/document/16/211383/dfasmuix83/" data-dfa="dfasmuix83"></a><a data-anchor="/document/16/211383/dfassdkwgt/" data-dfa="dfassdkwgt"></a>Если организация прекращает трудовой договор с&nbsp;должником, то&nbsp;обязана незамедлительно сообщить об&nbsp;этом судебному исполнителю и&nbsp;возвратить исполнительный документ с&nbsp;отметкой о&nbsp;произведенных взысканиях вместе с&nbsp;сопроводительным письмом. Организация в <span num="84" lnktype="intlnk" title="" class="doc">сопроводительном письме</span> указывает сумму всех удержаний и&nbsp;сумму оставшейся задолженности, заверяет печатью при её&nbsp;наличии. Также при наличии сведений, указывает информацию о&nbsp;новом месте жительства или работы должника (п. <span num="73" target="_self" lnktype="intlnk" title="" class="doc">25</span>&nbsp;и <span num="74" target="_self" lnktype="intlnk" title="" class="doc">26</span>&nbsp;Правил исполнения исполнительных документов №&nbsp;1980 от&nbsp;08.07.20019).</p></div></div></div></div><a data-anchor="/document/16/211383/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211383/bssPhr59/"></a><a data-anchor="/document/16/211383/dfaso31qky/" data-dfa="dfaso31qky"></a>Справка об&nbsp;удержанных суммах по&nbsp;исполнительным листам</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211383/bssPhr61/"></a><a data-anchor="/document/16/211383/dfaskk1s8u/" data-dfa="dfaskk1s8u"></a>В&nbsp;некоторых случаях сотруднику нужна справка об&nbsp;удержанных суммах по&nbsp;исполнительному листу. Например, для социальных служб, налоговой инспекции. Взыскатель также может потребовать от&nbsp;организации выдать справку о&nbsp;произведенных взысканиях. Бухгалтерия готовит и&nbsp;предоставляет справку сотруднику (<span num="32" target="_self" lnktype="intlnk" title="По требованию взыскателя или должника, с которого производилось удержание из заработной платы по исполнительным документам, организация обязана выдать справку по произведенным взысканиям." class="doc">п.&nbsp;18</span>&nbsp;Правил №&nbsp;1980). Чтобы получить такую справку, сотрудник или взыскатель пишет <span num="34" lnktype="intlnk" title="Заявление сотрудника выдать справку об удержанных по исполнительному листу" class="doc">заявление</span> в&nbsp;произвольной форме.</p><p><a data-anchor="/document/16/211383/bssPhr62/"></a><a data-anchor="/document/16/211383/dfasfgfyn6/" data-dfa="dfasfgfyn6"></a>Форма справки не&nbsp;утверждена, поэтому бланк справки работодатель может <span num="36" lnktype="intlnk" title="Справка сотруднику о суммах, удержанных по исполнительному листу" class="doc">разработать самостоятельно</span>. Главное, чтобы документ содержал обязательные реквизиты. В&nbsp;справке обязательно укажите:</p><ul class="c-list"><li><a data-anchor="/document/16/211383/bssPhr63/"></a><a data-anchor="/document/16/211383/dfascsggpf/" data-dfa="dfascsggpf"></a>наименование, адрес, ИНН и&nbsp;телефон компании;</li><li>фамилию, имя, отчество сотрудника, обратившегося за&nbsp;справкой;</li><li>фамилию, имя, отчество человека, в&nbsp;чью пользу производите удержания;</li><li>реквизиты исполнительного листа;</li><li>сведения о&nbsp;ежемесячных суммах удержаний;</li><li>даты начала и&nbsp;окончания периода, за&nbsp;который выдаете справку;</li><li>подпись руководителя, бухгалтера и&nbsp;печать при наличии.</li></ul></div></div><a data-anchor="/document/16/211383/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/211383/bssPhr67/"></a><a data-anchor="/document/16/211383/ст80ч7/"></a><a data-anchor="/document/16/211383/dfas241h9d/" data-dfa="dfas241h9d"></a>Перечисление удержаний</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211383/bssPhr69/"></a><a data-anchor="/document/16/211383/dfas22u3dg/" data-dfa="dfas22u3dg"></a>Удержанные суммы должны быть выплачены или переведены взыскателю в&nbsp;течение трех дней со&nbsp;дня выплаты зарплаты (<span num="44" target="_self" lnktype="intlnk" title="Организация в трехдневный срок со дня выплаты заработной платы должнику обязана выплатить или перевести взыскателю удержанную по исполнительным документам сумму. Перевод и перечисление..." class="doc">п.&nbsp;14</span>&nbsp;Правил №&nbsp;1980).</p><p><a data-anchor="/document/16/211383/bssPhr70/"></a><a data-anchor="/document/16/211383/dfas2g836q/" data-dfa="dfas2g836q"></a>Если отправляете удержанную сумму по&nbsp;почте, перечень необходимых сопроводительных документов узнайте в&nbsp;почтовом отделении. Если перечисляете на&nbsp;расчетный счет или пластиковую карту взыскателя, то&nbsp;нужно чтобы взыскатель либо сотрудник-должник предоставили</p><p><a data-anchor="/document/16/211383/bssPhr71/"></a><a data-anchor="/document/16/211383/dfasgq6tcu/" data-dfa="dfasgq6tcu"></a>в&nbsp;бухгалтерию информацию о&nbsp;банковских реквизитах, по&nbsp;которым перечислять удержанные суммы.</p><p><a data-anchor="/document/16/211383/bssPhr72/"></a><a data-anchor="/document/16/211383/dfasil87pg/" data-dfa="dfasil87pg"></a>Если по&nbsp;каким-либо причинам почтовый денежный перевод вернули обратно на&nbsp;расчетный счет организации, перечислите его на&nbsp;депозитный счет отдела судебных исполнителей, предъявившего исполнительный документ (<span num="46" target="_self" lnktype="intlnk" title="При возвращении почтовых переводов денежных средств на обратный адрес они перечисляются на расчетный счет организации, выплатившей должнику заработную плату, для дальнейшего перечисления..." class="doc">п.&nbsp;16</span>&nbsp;Правил №&nbsp;1980).</p><p><a data-anchor="/document/16/211383/bssPhr73/"></a><a data-anchor="/document/16/211383/dfas1itchn/" data-dfa="dfas1itchn"></a>Если взыскатель не&nbsp;востребовал в&nbsp;установленные сроки средства с&nbsp;депозитного счета отдела судебных исполнителей, то&nbsp;данные средства обращают в&nbsp;доход государства (<span num="48" target="_self" lnktype="intlnk" title="В случае невостребования взыскателем в установленные законодательством сроки денежных средств, поступивших на депозитный счет отдела судебных исполнителей, судебный исполнитель принимает..." class="doc">п.&nbsp;17</span>&nbsp;Правил 1980).</p><p><a data-anchor="/document/16/211383/bssPhr74/"></a><a data-anchor="/document/16/211383/dfas23298m/" data-dfa="dfas23298m"></a>С&nbsp;1&nbsp;марта 2021&nbsp;г. взыскатели получают алименты через Единую информационную систему исполнения и&nbsp;контроля за&nbsp;алиментными обязательствами. Данная система интегрируется со&nbsp;спецсчетом по&nbsp;алиментным обязательствам, на&nbsp;который предприятие перечисляет удержанную сумму алиментов. На&nbsp;имя получателя алиментов Бюро принудительного исполнения при Генеральной прокуратуре оформляет банковскую карту и&nbsp;перечисляет на&nbsp;нее со&nbsp;спецсчета алиментные деньги, в&nbsp;том числе удержанные из&nbsp;заработной платы должника (<span num="108" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;6</span>&nbsp;Указа Президента от&nbsp;24.11.2020 № УП-6118).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Правомерно&#160;ли приостановить выплату алиментов, если бывшая супруга работника попросила директора предприятия на&#160;время ее&#160;работы за&#160;границей не&#160;платить алименты, а&#160;выплатить после её&#160;приезда</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211383/bssPhr76/"></a><a data-anchor="/document/16/211383/dfaszr5oqc/" data-dfa="dfaszr5oqc"></a>Нет, не&nbsp;правомерно. Руководитель не&nbsp;вправе самостоятельно приостанавливать выплату причитающихся алиментов, даже если об&nbsp;этом просит взыскатель.</p><p><a data-anchor="/document/16/211383/bssPhr77/"></a><a data-anchor="/document/16/211383/dfasd1gw0y/" data-dfa="dfasd1gw0y"></a>Исполнительное производство может приостановить <strong>только суд по&nbsp;</strong>просьбе взыскателя<strong>, </strong> либо если должник:</p><ul class="c-list"><li><a data-anchor="/document/16/211383/bssPhr78/"></a><a data-anchor="/document/16/211383/dfascysocd/" data-dfa="dfascysocd"></a>или взыскатель подал в&nbsp;соответствующий суд или иной орган, выдавший исполнительный документ, заявление об&nbsp;отсрочке или рассрочке исполнения исполнительного документа, изменении способа и&nbsp;порядка его исполнения;</li><li><a data-anchor="/document/16/211383/dfasqu9a2x/" data-dfa="dfasqu9a2x"></a>находится в&nbsp;длительной служебной командировке;</li><li><a data-anchor="/document/16/211383/dfasiavbvh/" data-dfa="dfasiavbvh"></a>лечится в&nbsp;стационарном лечебном учреждении;</li><li><a data-anchor="/document/16/211383/dfastr7xt1/" data-dfa="dfastr7xt1"></a>подал жалобу на&nbsp;действия, постановления государственного исполнителя;</li><li><a data-anchor="/document/16/211383/dfasbieas8/" data-dfa="dfasbieas8"></a>оспаривает результаты оценки описанного имущества.</li></ul><p style="text-align:left"><a data-anchor="/document/16/211383/bssPhr79/"></a><a data-anchor="/document/16/211383/dfas4imfw9/" data-dfa="dfas4imfw9"></a>Такие условия указаны в <span num="94" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;35</span>&nbsp;Закона «Об&nbsp;исполнении судебных актов и&nbsp;актов иных органов».</p></div></div></div><a data-anchor="/document/16/211383/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/211383/bssPhr80/"></a><a data-anchor="/document/16/211383/dfascevir0/" data-dfa="dfascevir0"></a>Комиссия банка и&nbsp;почтовые расходы</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211383/bssPhr82/"></a><a data-anchor="/document/16/211383/dfasnphgxe/" data-dfa="dfasnphgxe"></a>Комиссию банка и&nbsp;стоимость почтовых услуг при переводе платежей по&nbsp;исполнительным документам оплачивают за&nbsp;счет сотрудника-должника (<span num="51" target="_self" lnktype="intlnk" title="Организация в трехдневный срок со дня выплаты заработной платы должнику обязана выплатить или перевести взыскателю удержанную по исполнительным документам сумму. Перевод и перечисление..." class="doc">п.&nbsp;14</span>&nbsp;Правил №&nbsp;1980).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211383/bssPhr83/"></a><a data-anchor="/document/16/211383/dfas7vax26/" data-dfa="dfas7vax26"></a>Как удержать из&nbsp;дохода сотрудника почтовые расходы на&nbsp;перевод платежа по&nbsp;исполнительному документу</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211383/bssPhr84/"></a><a data-anchor="/document/16/211383/dfashhwvyl/" data-dfa="dfashhwvyl"></a>Организация по&nbsp;исполнительному листу производит удержания со&nbsp;специалиста А.С. Кондратьева.</p><p><a data-anchor="/document/16/211383/bssPhr85/"></a><a data-anchor="/document/16/211383/dfasxqq0n8/" data-dfa="dfasxqq0n8"></a>Сумму удержания переводят получателю по&nbsp;почте. Размер почтового сбора составляет 6&nbsp;процентов от&nbsp;суммы перевода.</p><p><a data-anchor="/document/16/211383/bssPhr86/"></a><a data-anchor="/document/16/211383/dfaszw33cg/" data-dfa="dfaszw33cg"></a>За&nbsp;отчетный месяц с&nbsp;Кондратьева взыскана сумма по&nbsp;исполнительному листу в&nbsp;размере 938&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211383/bssPhr87/"></a><a data-anchor="/document/16/211383/dfasy22ta1/" data-dfa="dfasy22ta1"></a>Сумма к&nbsp;удержанию по&nbsp;исполнительному листу, включая расходы на&nbsp;почтовый перевод, составляет:<br>938&nbsp;000 сумов + (938&nbsp;000 сумов × 6%) = 994&nbsp;280&nbsp;сумов.</p></div></div></div><a data-anchor="/document/16/211383/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/211383/bssPhr88/"></a><a data-anchor="/document/16/211383/dfaspeldpn/" data-dfa="dfaspeldpn"></a>Возврат исполнительного листа судебному исполнителю</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211383/bssPhr90/"></a><a data-anchor="/document/16/211383/dfasd4pvde/" data-dfa="dfasd4pvde"></a>После того как организация удержала все суммы, указанные в&nbsp;исполнительном листе, или по&nbsp;окончании срока, в&nbsp;течение которого нужно было производить удержания, этот документ надо вернуть судебному исполнителю, например, переслать по&nbsp;почте.</p><p><a data-anchor="/document/16/211383/bssPhr91/"></a><a data-anchor="/document/16/211383/dfass4k327/" data-dfa="dfass4k327"></a>Также следует поступить, если сотрудник, с&nbsp;которого были удержания, уволился или отозвал исполнительный документ либо судебный исполнитель издал постановление о&nbsp;прекращении исполнения.</p><p><a data-anchor="/document/16/211383/bssPhr92/"></a><a data-anchor="/document/16/211383/dfasxg9lya/" data-dfa="dfasxg9lya"></a>Исполнительный лист верните вместе с&nbsp;сопроводительным письмом. В&nbsp;нем напишите основание, по&nbsp;которому организация прекратила его исполнять, и&nbsp;сумму, которую она удержала и&nbsp;перечислила по&nbsp;этому листу взыскателю. Например, содержание письма может выглядеть так: «Алименты в&nbsp;сумме 2&nbsp;100&nbsp;000 сумов удержаны и&nbsp;перечислены взыскателю Е.&nbsp;П.&nbsp;Петровой полностью. Оставшаяся сумма в&nbsp;размере 3&nbsp;000&nbsp;000 сумов не&nbsp;удержана в&nbsp;связи с&nbsp;увольнением сотрудника И.&nbsp;И.&nbsp;Петрова. Новое место работы сотрудника И.&nbsp;И.&nbsp;Петрова неизвестно». Кроме того, укажите номера платежных поручений, квитанций и&nbsp;даты перечисления средств. Сопроводительное письмо подписывают руководитель и&nbsp;главный бухгалтер и&nbsp;заверяют печатью организации, при ее&nbsp;наличии. Если новое место работы сотрудника известно, укажите его в&nbsp;сопроводительном документе. Исполнительный лист перешлите судебному исполнителю незамедлительно после того, как у&nbsp;организации появилось основание, чтобы прекратить удержания по&nbsp;этому документу (<span num="54" target="_self" lnktype="intlnk" title="Прекращение удержаний и возврат исполнительного документа" class="doc">раздел VI</span>&nbsp;Правил №&nbsp;1980).</p></div><p><a data-anchor="/document/16/211383/dfasg3s10f/" data-dfa="dfasg3s10f"></a><a data-anchor="/document/16/211383/bssPhr93/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882120" sourceId="1" fullSizeImageId="-41882119" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882120/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

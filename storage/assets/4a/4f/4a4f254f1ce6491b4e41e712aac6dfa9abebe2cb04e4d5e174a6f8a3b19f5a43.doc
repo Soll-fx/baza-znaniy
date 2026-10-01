@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как правильно оформить договор. Раздел «Предмет договора»</h2><div class="doc-snippet"><a data-anchor="/document/16/203172/dfasxxcmdd/" data-dfa="dfasxxcmdd"></a><a data-anchor="/document/16/203172/bssPhr2/"></a>Из рекомендации Системы Главбух узнаете, как определить предмет договора и какие существенные элементы и отличия бывают в предмете в различных договорах. Таблицы, составленные экспертами, помогут определить предмет в договорах подряда и оказания услуг, а также в договорах найма/аренды и ссуды. Какие есть общие понятия предмета в различных договорах также поможет разобраться таблица. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/203172/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/203172/bssPhr3/"></a><a data-anchor="/document/16/203172/dfasz51qgb/" data-dfa="dfasz51qgb"></a><a data-anchor="/document/16/203172/dfasvway5q/" data-dfa="dfasvway5q"></a><a data-anchor="/document/16/203172/dfasi3utko/" data-dfa="dfasi3utko"></a>Как определить предмет договора</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203172/bssPhr5/"></a><a data-anchor="/document/16/203172/dfasdt72of/" data-dfa="dfasdt72of"></a>При определении предмета <span num="1" lnktype="intlnk" title="Договор" class="doc">договора</span> учитывайте:</p><ul class="c-list"><li><a data-anchor="/document/16/203172/bssPhr6/"></a><a data-anchor="/document/16/203172/dfasafsr91/" data-dfa="dfasafsr91"></a>вид взаимоотношений сторон договора, например, купля-продажа товара или выполнение работ;</li><li>ответственную сторону за выполнение того или иного обязательства, например, сторона «А» должна передать товар или оплатить его;</li><li>возмездность взаимоотношений сторон договора, например, обязуется ли одна сторона выполнить что-либо другой стороне без или с получением от нее платы или иного встречного обязательства.</li></ul><p><a data-anchor="/document/16/203172/bssPhr7/"></a><a data-anchor="/document/16/203172/dfasx7ml7p/" data-dfa="dfasx7ml7p"></a>В <span num="3" lnktype="intlnk" title="Предмет договора" class="doc">предмет договора</span>, в зависимости от вида взаимоотношений сторон, включайте и иные существенные условия, которые необходимы для регулирования взаимоотношений сторон договора.</p><p><a data-anchor="/document/16/203172/bssPhr8/"></a><a data-anchor="/document/16/203172/dfasatgtm7/" data-dfa="dfasatgtm7"></a>&nbsp;</p></div><p><a data-anchor="/document/16/203172/bssPhr9/"></a><a data-anchor="/document/16/203172/dfas1gnama/" data-dfa="dfas1gnama"></a>&nbsp;</p><a data-anchor="/document/16/203172/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/203172/bssPhr10/"></a><a data-anchor="/document/16/203172/dfaso3ki4r/" data-dfa="dfaso3ki4r"></a><a data-anchor="/document/16/203172/dfaslexp2o/" data-dfa="dfaslexp2o"></a><a data-anchor="/document/16/203172/dfasm8u400/" data-dfa="dfasm8u400"></a>Какие есть общие существенные элементы и отличия в предмете в различных договорах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203172/bssPhr12/"></a><a data-anchor="/document/16/203172/dfasgt105g/" data-dfa="dfasgt105g"></a>Общий существенный элемент предмета в договорах купли-продажи (<span num="6" lnktype="intlnk" title="Статья 386. Договор купли-продажи" class="doc">ст. 386 ГК</span>), мены (<span num="8" lnktype="intlnk" title="Статья 497. Договор мены" class="doc">ст. 497 ГК</span>), дарения (<span num="10" lnktype="intlnk" title="Статья 502. Договор дарения" class="doc">ст. 502 ГК</span>) и ренты (<span num="12" lnktype="intlnk" title="Статья 512. Договор ренты" class="doc">ст. 512 ГК</span>) – это обязанность передать в собственность товар или иное имущество.</p><p><a data-anchor="/document/16/203172/bssPhr13/"></a><a data-anchor="/document/16/203172/dfasxaammu/" data-dfa="dfasxaammu"></a>В условие о товаре включите информацию о:</p><ul class="c-list"><li><a data-anchor="/document/16/203172/bssPhr14/"></a><a data-anchor="/document/16/203172/dfasflotcz/" data-dfa="dfasflotcz"></a>виде;</li><li>количестве;</li><li>ассортименте;</li><li>качестве.</li></ul><p><a data-anchor="/document/16/203172/bssPhr15/"></a><a data-anchor="/document/16/203172/dfas6ygg16/" data-dfa="dfas6ygg16"></a>Товар – это определенного рода вещь, например, стул, яблоко и т.п., которую одна сторона обязалась передать другой стороне.</p><p><a data-anchor="/document/16/203172/bssPhr16/"></a><a data-anchor="/document/16/203172/dfash6ewtl/" data-dfa="dfash6ewtl"></a>В зависимости от вида товара, количество товара указывайте в определенной единице измерения, например, в погонных метрах, штуках, килограммах, литрах и т.п.</p><p><a data-anchor="/document/16/203172/bssPhr17/"></a><a data-anchor="/document/16/203172/dfashy4ru3/" data-dfa="dfashy4ru3"></a>Ассортимент товара – это разделение товаров по моделям, размерам, цветам и иным признакам, например, передать муку определенного сорта и производителя или обувь конкретной модели, размера и цвета.</p><p><a data-anchor="/document/16/203172/bssPhr18/"></a><a data-anchor="/document/16/203172/dfasgexkdt/" data-dfa="dfasgexkdt"></a>Качество товара – это свойство товара, которое позволяет использовать его по прямому назначению, например, металл определенного уровня прочности или сплав определенной степени эластичности.</p><p><a data-anchor="/document/16/203172/bssPhr19/"></a><a data-anchor="/document/16/203172/dfas3oewhx/" data-dfa="dfas3oewhx"></a>Главные отличия в предмете договора в договорах купли-продажи, мены, дарения и ренты заключены в видах и способах взаимных обязательств:</p><ul class="c-list"><li><a data-anchor="/document/16/203172/bssPhr20/"></a><a data-anchor="/document/16/203172/dfasazgu6z/" data-dfa="dfasazgu6z"></a>в договорах купли-продажи – сторона, получившая товар от другой стороны, должна оплатить его;</li><li>в договорах мены – сторона, получившая товар от другой стороны, должна передать ей другой товар;</li><li>в договорах дарения – сторона принимает товар на безвозмездной основе;</li><li>в договорах ренты – сторона в обмен на полученное имущество, периодически выплачивает определенную денежную сумму другой стороне, либо предоставляет средства на ее содержание в иной форме.</li></ul><p><a data-anchor="/document/16/203172/bssPhr21/"></a><a data-anchor="/document/16/203172/dfas6dsldq/" data-dfa="dfas6dsldq"></a>&nbsp;</p></div><p><a data-anchor="/document/16/203172/bssPhr22/"></a><a data-anchor="/document/16/203172/dfas1lkegb/" data-dfa="dfas1lkegb"></a>&nbsp;</p><a data-anchor="/document/16/203172/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/203172/bssPhr23/"></a><a data-anchor="/document/16/203172/dfaszk1q36/" data-dfa="dfaszk1q36"></a><a data-anchor="/document/16/203172/dfaskr1wst/" data-dfa="dfaskr1wst"></a><a data-anchor="/document/16/203172/dfasymeyep/" data-dfa="dfasymeyep"></a>Как определить предмет в договорах подряда и оказания услуг</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203172/bssPhr25/"></a><a data-anchor="/document/16/203172/dfas0hhz52/" data-dfa="dfas0hhz52"></a>Предмет в договорах подряда и оказания услуг можете определять с учетом требований <span num="15" lnktype="intlnk" title="Статья 634. Генеральный подрядчик и субподрядчик" class="doc">ст. 634</span> и <span num="17" lnktype="intlnk" title="Статья 703. Договор возмездного оказания услуг" class="doc">703 ГК</span>:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="text-align:center; vertical-align:top"><p style="text-align:center"><a data-anchor="/document/16/203172/bssPhr26/"></a><a data-anchor="/document/16/203172/dfasw5q3ff/" data-dfa="dfasw5q3ff"></a>Вид договора</p></td><td style="text-align:center; vertical-align:top"><p style="text-align:center"><a data-anchor="/document/16/203172/bssPhr27/"></a><a data-anchor="/document/16/203172/dfasi9vp42/" data-dfa="dfasi9vp42"></a>Предмет договора</p></td><td style="text-align:center; vertical-align:top"><p style="text-align:center"><a data-anchor="/document/16/203172/bssPhr28/"></a><a data-anchor="/document/16/203172/dfasukn3hr/" data-dfa="dfasukn3hr"></a>Примечания</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr29/"></a><a data-anchor="/document/16/203172/dfaswx83w8/" data-dfa="dfaswx83w8"></a>Договор подряда (<span num="19" lnktype="intlnk" title="Статья 634. Генеральный подрядчик и субподрядчик" class="doc">ст. 634 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr30/"></a><a data-anchor="/document/16/203172/dfass8qzr3/" data-dfa="dfass8qzr3"></a>Обязательство одной стороны по заданию другой стороны совершить определенные действия, а именно, выполнить работы на платной основе</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr31/"></a><a data-anchor="/document/16/203172/dfas7yzq0n/" data-dfa="dfas7yzq0n"></a>В договоре подряда в предмет договора, как правило, включают:</p><ul class="c-list"><li><a data-anchor="/document/16/203172/bssPhr32/"></a><a data-anchor="/document/16/203172/dfasvgv33p/" data-dfa="dfasvgv33p"></a>вид работ, например, бытовой или строительный подряд;</li><li>место проведения работ, например, выполнение строительных работ по определенному адресу;</li><li>объем работ;</li><li>иные основные условия, необходимые для полной идентификации конкретного вида работ.</li></ul></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr33/"></a><a data-anchor="/document/16/203172/dfasgk7ukg/" data-dfa="dfasgk7ukg"></a>Договор оказания услуг (<span num="21" lnktype="intlnk" title="Статья 703. Договор возмездного оказания услуг" class="doc">ст. 703 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr34/"></a><a data-anchor="/document/16/203172/dfasblicqd/" data-dfa="dfasblicqd"></a>Обязательство одной стороны по заданию другой стороны совершить определенные действия, а именно, оказать услуги на платной основе</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr35/"></a><a data-anchor="/document/16/203172/dfasayfqxg/" data-dfa="dfasayfqxg"></a>Предмет договора оказания услуг не включает в себя наличие результата работ (вещественной формы) после совершения определенного действия или деятельности (например, услуги по обучению)</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/203172/bssPhr36/"></a><a data-anchor="/document/16/203172/dfasfvac0m/" data-dfa="dfasfvac0m"></a>&nbsp;</p></div><p><a data-anchor="/document/16/203172/bssPhr37/"></a><a data-anchor="/document/16/203172/dfaseudqdv/" data-dfa="dfaseudqdv"></a>&nbsp;</p><a data-anchor="/document/16/203172/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/203172/bssPhr38/"></a><a data-anchor="/document/16/203172/dfasrev8kf/" data-dfa="dfasrev8kf"></a>Как определить предмет в договорах найма/аренды и суды</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203172/bssPhr40/"></a><a data-anchor="/document/16/203172/dfassyxgy7/" data-dfa="dfassyxgy7"></a>Предмет в договорах найма/аренды и ссуды можете определять с учетом требований <span num="24" lnktype="intlnk" title="Статья 535. Договор имущественного найма" class="doc">ст. 535</span> и <span num="26" lnktype="intlnk" title="Статья 617. Понятие договора безвозмездного пользования" class="doc">617 ГК</span>:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="text-align:center; vertical-align:top"><p style="text-align:center"><a data-anchor="/document/16/203172/bssPhr41/"></a><a data-anchor="/document/16/203172/dfas4rxi4v/" data-dfa="dfas4rxi4v"></a>Вид договора</p></td><td style="text-align:center; vertical-align:top"><p style="text-align:center"><a data-anchor="/document/16/203172/bssPhr42/"></a><a data-anchor="/document/16/203172/dfaso1y28g/" data-dfa="dfaso1y28g"></a>Предмет договора</p></td><td style="text-align:center; vertical-align:top"><p style="text-align:center"><a data-anchor="/document/16/203172/bssPhr43/"></a><a data-anchor="/document/16/203172/dfas22dacf/" data-dfa="dfas22dacf"></a>Примечания</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr44/"></a><a data-anchor="/document/16/203172/dfas387ki8/" data-dfa="dfas387ki8"></a>Договор имущественного найма (аренды) (<span num="28" lnktype="intlnk" title="Статья 535. Договор имущественного найма" class="doc">ст. 535 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr45/"></a><a data-anchor="/document/16/203172/dfas8b594l/" data-dfa="dfas8b594l"></a>Обязательство наймодателя предоставить нанимателю имущество за плату во временное владение и пользование или в пользование</p></td><td rowspan="2" style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr46/"></a><a data-anchor="/document/16/203172/dfasuxq0ry/" data-dfa="dfasuxq0ry"></a>В предмете договора в таких договорах, наряду со сроком владения и пользования, указывают вид и количество передаваемого имущества, при необходимости его родовые признаки, а также местонахождение, в случае если объектом выступает недвижимость и иные существенные признаки передаваемого имущества</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr47/"></a><a data-anchor="/document/16/203172/dfasiz0mh8/" data-dfa="dfasiz0mh8"></a>Договор безвозмездного пользования (ссуды) (<span num="30" lnktype="intlnk" title="Статья 617. Понятие договора безвозмездного пользования" class="doc">ст. 617 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr48/"></a><a data-anchor="/document/16/203172/dfasg3sdz2/" data-dfa="dfasg3sdz2"></a>Обязательство одной стороны (ссудодателя) передать имущество в безвозмездное временное пользование другой стороне (ссудополучателю), с обязательством ссудополучателя вернуть эту же вещь в том состоянии, в каком она ее получила</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/203172/bssPhr49/"></a><a data-anchor="/document/16/203172/dfaskqfclx/" data-dfa="dfaskqfclx"></a>&nbsp;</p></div><p><a data-anchor="/document/16/203172/bssPhr50/"></a><a data-anchor="/document/16/203172/dfaswa5x47/" data-dfa="dfaswa5x47"></a>&nbsp;</p><a data-anchor="/document/16/203172/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/203172/bssPhr51/"></a><a data-anchor="/document/16/203172/dfas7lre73/" data-dfa="dfas7lre73"></a>Какие есть общие понятия предмета в различных договорах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203172/bssPhr53/"></a><a data-anchor="/document/16/203172/dfasuounba/" data-dfa="dfasuounba"></a>Общие понятия предмета в договорах можете определять с учетом следующих статей ГК:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="text-align:center; vertical-align:top"><p style="text-align:center"><a data-anchor="/document/16/203172/bssPhr54/"></a><a data-anchor="/document/16/203172/dfaspbxl1a/" data-dfa="dfaspbxl1a"></a>Вид договора</p></td><td style="text-align:center; vertical-align:top"><p style="text-align:center"><a data-anchor="/document/16/203172/bssPhr55/"></a><a data-anchor="/document/16/203172/dfaso7kr4p/" data-dfa="dfaso7kr4p"></a>Предмет договора</p></td><td style="text-align:center; vertical-align:top"><p style="text-align:center"><a data-anchor="/document/16/203172/bssPhr56/"></a><a data-anchor="/document/16/203172/dfass4rb6t/" data-dfa="dfass4rb6t"></a>Примечания</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr57/"></a><a data-anchor="/document/16/203172/dfassdw3zt/" data-dfa="dfassdw3zt"></a>Договора лизинга (<span num="33" lnktype="intlnk" title="Статья 587. Договор лизинга" class="doc">ст. 587 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr58/"></a><a data-anchor="/document/16/203172/dfas6dbmd4/" data-dfa="dfas6dbmd4"></a>Обязательство одной стороны – лизингодателя (арендодатель) по поручению другой стороны – лизингополучателя (арендатора) приобретать у третьей стороны – продавца имущество для передачи его второй стороне на платной основе</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr59/"></a><a data-anchor="/document/16/203172/dfasf4trh8/" data-dfa="dfasf4trh8"></a>В качестве такого имущества могут выступать любые непотребляемые вещи</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr60/"></a><a data-anchor="/document/16/203172/dfasag2xs0/" data-dfa="dfasag2xs0"></a>Договор займа (<span num="35" lnktype="intlnk" title="Статья 732. Договор займа" class="doc">ст. 732 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr61/"></a><a data-anchor="/document/16/203172/dfaslyfmww/" data-dfa="dfaslyfmww"></a>Обязательство одной стороны передать другой стороне на возвратной основе любую потребляемую вещь, определенную родовыми признаками</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr62/"></a><a data-anchor="/document/16/203172/dfas8ryowb/" data-dfa="dfas8ryowb"></a>В предмет договора займа по соглашению сторон могут быть включены условия вознаграждения. Нужно указать срок пользования или дату возврата</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr63/"></a><a data-anchor="/document/16/203172/dfasy8v51a/" data-dfa="dfasy8v51a"></a>Кредитный договор (<span num="37" lnktype="intlnk" title="Статья 744. Кредитный договор" class="doc">ст. 744 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr64/"></a><a data-anchor="/document/16/203172/dfas9fl4v2/" data-dfa="dfas9fl4v2"></a>Обязательство банка или иной кредитной организации (кредитора) предоставить денежные средства (кредит) другой стороне (заемщику) в размере и на условиях, предусмотренных договором, а также обязательство заемщика возвратить полученную денежную сумму и уплатить проценты на нее</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr65/"></a><a data-anchor="/document/16/203172/dfasp14e2w/" data-dfa="dfasp14e2w"></a>В качестве вещи в кредитном договоре выступают исключительно денежные средства. В кредитном договоре должен быть указан срок пользования или дата возврата денежных средств</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr66/"></a><a data-anchor="/document/16/203172/dfas61tphm/" data-dfa="dfas61tphm"></a>Договор поручения (<span num="39" lnktype="intlnk" title="Статья 817. Договор поручения" class="doc">ст. 817 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr67/"></a><a data-anchor="/document/16/203172/dfasstw2rh/" data-dfa="dfasstw2rh"></a>Обязательство одной стороны совершить от имени и за счет другой стороны определенные юридические действия</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr68/"></a><a data-anchor="/document/16/203172/dfasbbtbz5/" data-dfa="dfasbbtbz5"></a>Форма представления интересов: совершение определенных действий, а именно представлять интересы в государственном органе</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr69/"></a><a data-anchor="/document/16/203172/dfas938dqv/" data-dfa="dfas938dqv"></a>Договор комиссии (<span num="41" lnktype="intlnk" title="Статья 832. Договор комиссии" class="doc">ст. 832 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr70/"></a><a data-anchor="/document/16/203172/dfasbmx4x9/" data-dfa="dfasbmx4x9"></a>Обязательство одной стороны (комиссионера) по поручению другой стороны (комитента) за вознаграждение совершить одну или несколько сделок от своего имени, но за счет комитента</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr71/"></a><a data-anchor="/document/16/203172/dfasdi3wwc/" data-dfa="dfasdi3wwc"></a>Форма представления интересов: совершение сделки (заключение договора поставки) в интересах лица, от имени которого действует комиссионер</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr72/"></a><a data-anchor="/document/16/203172/dfas49dfg7/" data-dfa="dfas49dfg7"></a>Договор хранения (<span num="43" lnktype="intlnk" title="Статья 875. Договор хранения" class="doc">ст. 875 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr73/"></a><a data-anchor="/document/16/203172/dfasop78bb/" data-dfa="dfasop78bb"></a>Обязательство одной стороны (хранителя) за вознаграждение принять на определенный срок на хранение от другой стороны (поклажедателя) определенную вещь без права ее использования</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr74/"></a><a data-anchor="/document/16/203172/dfaso56xfm/" data-dfa="dfaso56xfm"></a>В предмете договора хранения стороны должны согласовать и описать вещь, предоставляемую на хранение и срок ее хранения</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr75/"></a><a data-anchor="/document/16/203172/dfasqxp0wg/" data-dfa="dfasqxp0wg"></a>Договор страхования (<span num="45" lnktype="intlnk" title="Статья 914. Добровольное и обязательное страхование" class="doc">ст. 914 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr76/"></a><a data-anchor="/document/16/203172/dfasnscgoo/" data-dfa="dfasnscgoo"></a>Объект страхования выступает существенным элементом предмета договора страхования. Кроме общепринятых условий, регулирующих возмещение ущерба при наступлении страхового случая, нужно определить объект страхования, который может быть выражен в страховании либо имущества (имущественное страхование) либо здоровья и жизни (личное страхование) и выгодоприобретателя, в качестве которого может выступить любое третье лицо</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr77/"></a><a data-anchor="/document/16/203172/dfasg3vg5g/" data-dfa="dfasg3vg5g"></a>Если вид страхования носит обязательный характер, предмет договора страхования может включать и иные условия, которые определены действующим законодательством, например, обязательное страхование гражданской ответственности владельцев транспортных средств</p></td></tr><tr><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr78/"></a><a data-anchor="/document/16/203172/dfasyg3u1t/" data-dfa="dfasyg3u1t"></a>Договор простого товарищества (договор о совместной деятельности) (<span num="47" lnktype="intlnk" title="Статья 962. Договор простого товарищества" class="doc">ст. 962 ГК</span>)</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr79/"></a><a data-anchor="/document/16/203172/dfasbhwa7k/" data-dfa="dfasbhwa7k"></a>Обязательство двух или более лиц без образования юридического лица соединить свои вклады для достижения определенных целей, связанных с предпринимательской деятельностью</p></td><td style="vertical-align:top"><p><a data-anchor="/document/16/203172/bssPhr80/"></a><a data-anchor="/document/16/203172/dfas2eq3ub/" data-dfa="dfas2eq3ub"></a>В договоре нужно определить вклады каждой стороны и направление совместной деятельности. В качестве вклада могут выступать как материальные ценности, например, денежные средства, так и нематериальные ценности, например, знания</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отражать условные обязательства в финансовой отчетности по МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206739/dfasxahqxf/" data-dfa="dfasxahqxf"></a><a data-anchor="/document/16/206739/bssPhr2/"></a>В рекомендации найдете ответы на вопросы: что такое условные обязательства, какой МСФО регулирует порядок отражения условных обязательств в финансовой отчетности и как оценивать условные обязательства по МСФО. Эксперты пояснили по каким критериям признавать оценочные обязательства по МСФО и что раскрывать в примечаниях к финансовой отчетности по МСФО. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206739/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206739/bssPhr3/"></a><a data-anchor="/document/16/206739/dfas8w6x8m/" data-dfa="dfas8w6x8m"></a>Условные обязательства</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206739/bssPhr5/"></a><a data-anchor="/document/16/206739/dfaspafqkc/" data-dfa="dfaspafqkc"></a>Условное обязательство – это:</p><ul class="c-list"><li><a data-anchor="/document/16/206739/bssPhr6/"></a><a data-anchor="/document/16/206739/dfas7lh8bu/" data-dfa="dfas7lh8bu"></a>возможное обязательство, которое еще не было подтверждено текущим обязательством, и может привести к выбытию ресурсов компании;</li><li>текущее обязательство, возникшее в связи с прошлыми событиями, которое не было признано потому, что невозможно надежно оценить его размер или мала вероятность выбытия ресурсов, содержащих экономическую выгоду, так как обязательство было урегулировано.</li></ul><p><a data-anchor="/document/16/206739/bssPhr7/"></a><a data-anchor="/document/16/206739/dfashfxgtu/" data-dfa="dfashfxgtu"></a>Условные обязательства можно разделить на 2 группы:</p><ol class="c-list"><li><a data-anchor="/document/16/206739/bssPhr8/"></a><a data-anchor="/document/16/206739/dfas7ilkg6/" data-dfa="dfas7ilkg6"></a>условные обязательства, которые существуют на отчетную дату обязательства организации, и по которым еще не надежно определен размер и срок исполнения. Например, судебное разбирательство, которое началось, но не завершилось в отчетном году;</li><li><a data-anchor="/document/16/206739/bssPhr9/"></a><a data-anchor="/document/16/206739/dfas0nn7iv/" data-dfa="dfas0nn7iv"></a>возможные обязательства организации, существование которых на отчетную дату может быть подтверждено исключительно наступлением либо не наступлением будущих событий, которые не подконтрольны компании. Например, компания выдала гарантию на проданный товар, вследствие чего возникли гарантийные обязательства.</li></ol></div><a data-anchor="/document/16/206739/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206739/bssPhr10/"></a><a data-anchor="/document/16/206739/dfast86syc/" data-dfa="dfast86syc"></a>Порядок отражения условных обязательств в финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206739/bssPhr12/"></a><a data-anchor="/document/16/206739/dfasdb4kez/" data-dfa="dfasdb4kez"></a>Порядок учета и отражения условных обязательств в финансовой отчетности регулирует МСФО (IAS) 37 «Оценочные обязательства, условные обязательства и условные активы».</p><p><a data-anchor="/document/16/206739/bssPhr13/"></a><a data-anchor="/document/16/206739/dfashpsnc1/" data-dfa="dfashpsnc1"></a>Также данный стандарт применяют к резервам на реструктуризацию, включая прекращенную деятельность, в отношении которой могут понадобиться дополнительные раскрытия по требованиям МСФО (IFRS) 5 «Внеоборотные активы, предназначенные для продажи, и прекращенная деятельность».</p><p><a data-anchor="/document/16/206739/bssPhr14/"></a><a data-anchor="/document/16/206739/dfasvq7zd4/" data-dfa="dfasvq7zd4"></a>МСФО (IAS) 37 не применим в отношении следующих условных обязательств:</p><ul class="c-list"><li><a data-anchor="/document/16/206739/bssPhr15/"></a><a data-anchor="/document/16/206739/dfaskav1n9/" data-dfa="dfaskav1n9"></a>условное возмещение, которое выплачивает компания-покупатель в сделках по объединению бизнеса. В этом случае применяйте МСФО (IFRS) 3 «Объединения бизнеса»;</li><li>вознаграждения работникам, применяйте МСФО (IAS) 19 «Вознаграждения работникам»;</li><li>налоги на прибыль, применяйте МСФО (IAS) 12 «Налоги на прибыль»;</li><li>договоры страхования, применяйте МСФО (IFRS) 4 «Договоры страхования». МСФО (IAS) 37 следует применять в случае учета оценочных обязательств страховой компании, отличных от тех, которые учитывают в соответствии в МСФО (IFRS) 4;</li><li>обязательства по договорам с покупателями. В этом случае применяйте МСФО (IFRS) 15 «Выручка по договорам с покупателями». МСФО (IAS) 37 применяйте только в отношении обременительных договоров;</li><li>обязательства в рамках финансовых инструментов, применяйте МСФО (IFRS) 9 «Финансовые инструменты»;</li><li>обязательства по договорам на стадии исполнения;</li><li>арендные платежи, применяйте МСФО (IFRS) 16 «Аренда».</li></ul><p><a data-anchor="/document/16/206739/bssPhr16/"></a><a data-anchor="/document/16/206739/dfas3podp7/" data-dfa="dfas3podp7"></a>МСФО (IAS) 37 в отношении арендных платежей применяйте при только в случаях:</p><ul class="c-list"><li><a data-anchor="/document/16/206739/bssPhr17/"></a><a data-anchor="/document/16/206739/dfaslm6fi6/" data-dfa="dfaslm6fi6"></a>если аренда становится обременительной еще до даты ее начала;</li><li>учета краткосрочной аренды;</li><li>учета аренды, в которой базовый актив имеет низкую стоимость, которая ранее учитывалась по МСФО (IFRS) 16 и стала обременительной.</li></ul></div><a data-anchor="/document/16/206739/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206739/bssPhr18/"></a><a data-anchor="/document/16/206739/dfasqbun1w/" data-dfa="dfasqbun1w"></a>Признание условных обязательств</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206739/bssPhr20/"></a><a data-anchor="/document/16/206739/dfasya9lc7/" data-dfa="dfasya9lc7"></a>Все оценочные обязательства условные, так как нет четкого понимания их времени и суммы удовлетворения. В МСФО понятие «условное обязательство» применяют к обязательствам, которые не были признаны потому, что будут подтверждены только при наступлении или не наступлении каких-то неопределенных событий в будущем.</p><p><a data-anchor="/document/16/206739/bssPhr21/"></a><a data-anchor="/document/16/206739/dfasty9x44/" data-dfa="dfasty9x44"></a>Условными являются обязательства, которые не соответствуют критериям признания обязательства.</p><p><a data-anchor="/document/16/206739/bssPhr22/"></a><a data-anchor="/document/16/206739/dfasuugx47/" data-dfa="dfasuugx47"></a>МСФО выделяет понятие оценочные обязательства, то есть те, которые уже существуют как обязательства и их необходимо признавать в отчетности. Условные обязательства не признают, так как они являются возможными, либо существующими обязательствами, которые не отвечают критериям признания.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206739/bssPhr23/"></a><a data-anchor="/document/16/206739/dfashkrt51/" data-dfa="dfashkrt51"></a>МСФО (IAS) 37 запрещает создавать оценочные обязательства под будущие события, чтобы не допустить резервирование компанией средств для сглаживания представляемой в отчетности прибыли.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/206739/bssPhr25/"></a><a data-anchor="/document/16/206739/dfasywdqbo/" data-dfa="dfasywdqbo"></a>Выделяют следующие критерии признания оценочного обязательства:</p><ul class="c-list"><li><a data-anchor="/document/16/206739/bssPhr26/"></a><a data-anchor="/document/16/206739/dfas9s4o8n/" data-dfa="dfas9s4o8n"></a>у компании есть текущее обязательство, которое возникло в результате прошлого события;</li><li>существует вероятность, что для погашения обязательства потребуется выбытие ресурсов, которые содержат в себе экономические выгоды для компании;</li><li>компания может надежно оценить размер обязательства.</li></ul><p><a data-anchor="/document/16/206739/bssPhr27/"></a><a data-anchor="/document/16/206739/dfasm71vvc/" data-dfa="dfasm71vvc"></a>Соответственно, компания не может признать условное обязательство, а только раскрывать о нем информацию в примечаниях в том случае, если возникает вероятность выбытия ресурсов компании, которые содержат в себе экономические выгоды.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206739/bssPhr28/"></a><a data-anchor="/document/16/206739/dfas86qyqz/" data-dfa="dfas86qyqz"></a>Условное обязательство, информацию о котором компания раскрывает в финансовой отчетности на отчетную дату, может быть признано резервом на другую отчетную дату.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206739/bssPhr29/"></a><a data-anchor="/document/16/206739/dfassthbpu/" data-dfa="dfassthbpu"></a>При этом, по состоянию на такую отчетную дату компания должна достоверно оценить обязательство и быть уверена, что есть вероятность уменьшения экономических выгод в результате исполнения этого обязательства в будущем.</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/206739/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206739/bssPhr30/"></a><a data-anchor="/document/16/206739/dfasli2c0n/" data-dfa="dfasli2c0n"></a>Оценка условных обязательств</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206739/bssPhr32/"></a><a data-anchor="/document/16/206739/dfaskggsm4/" data-dfa="dfaskggsm4"></a>Компания оценивает условные обязательства непрерывно, при этом определяя вероятность выбытия ресурсов, которые содержат в себе экономические выгоды.</p><p><a data-anchor="/document/16/206739/bssPhr33/"></a><a data-anchor="/document/16/206739/dfas4mwnpk/" data-dfa="dfas4mwnpk"></a>Компания может признавать резерв под исполнение такого условного обязательства только после того, как возникнет вероятность удовлетворения такого условного обязательства.</p><p><a data-anchor="/document/16/206739/bssPhr34/"></a><a data-anchor="/document/16/206739/dfasol1vex/" data-dfa="dfasol1vex"></a>Если условные обязательства сходны друг с другом по своему характеру, то компания должна рассматривать вероятность выбытия ресурсов для исполнения этих обязанностей, распространяя это на весь класс обязательств в целом. Тогда, для получения наилучшей оценки оценочного обязательства часто применяют статистический метод ожидаемой стоимости: сумму обязательства оценивают путем взвешивания всех возможных результатов по их соответствующим вероятностям.</p></div><a data-anchor="/document/16/206739/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206739/bssPhr35/"></a><a data-anchor="/document/16/206739/dfaswuzq2p/" data-dfa="dfaswuzq2p"></a>Примечания к финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206739/bssPhr37/"></a><a data-anchor="/document/16/206739/dfascgzq6n/" data-dfa="dfascgzq6n"></a>Согласно МСФО, по каждому условному обязательству в примечаниях к финансовой отчетности на отчетную дату компания должна раскрыть:</p><ul class="c-list"><li><a data-anchor="/document/16/206739/bssPhr38/"></a><a data-anchor="/document/16/206739/dfasya86z6/" data-dfa="dfasya86z6"></a>краткое описание характера условного обязательства;</li><li>оценочное значение финансового воздействия обязательства;</li><li>перечень неопределенностей по времени и сумме исполнения обязательства и выбытия ресурсов;</li><li>возможность любого возмещения;</li><li>примерную оценку суммы обязательства;</li><li>вероятность получения возмещения от третьих лиц, связанного с этим обстоятельством.</li></ul><p><a data-anchor="/document/16/206739/bssPhr39/"></a><a data-anchor="/document/16/206739/dfasgn0wqh/" data-dfa="dfasgn0wqh"></a>Если нет возможности раскрыть вышеуказанную информацию, компания должна описать это в отчетности.</p><p><a data-anchor="/document/16/206739/bssPhr40/"></a><a data-anchor="/document/16/206739/dfas6dv6og/" data-dfa="dfas6dv6og"></a>В ситуациях, когда компания не может частично или полностью раскрыть информацию по условным обязательствам, так как это может нанести ущерб ее положению в споре с третьими лицами, необходимо описать это в примечаниях и разъяснить характер спора.</p></div><p><a data-anchor="/document/16/206739/dfasub8z60/" data-dfa="dfasub8z60"></a><a data-anchor="/document/16/206739/bssPhr41/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

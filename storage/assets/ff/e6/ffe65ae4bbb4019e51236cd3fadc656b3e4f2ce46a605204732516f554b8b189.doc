@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">В какие сроки и в каком порядке платить земельный налог с юрлиц</h2><div id="documentBody" class="content-common"><a data-anchor="/document/16/202684/bssPhr1/"></a><a data-anchor="/document/16/202684/tit0/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/202684/dfasqzagb7/" data-dfa="dfasqzagb7"></a><h2 class="main__title-section title toc" toc-anchor="tit0">В какие сроки платить земельный налог с юридических лиц</h2><p><a data-anchor="/document/16/202684/bssPhr2/"></a><a data-anchor="/document/16/202684/dfas6s5y2u/" data-dfa="dfas6s5y2u"></a>Для уплаты земельного налога действуют разные сроки, которые зависят от категории юрлица.</p><p><a data-anchor="/document/16/202684/bssPhr3/"></a><a data-anchor="/document/16/202684/dfas79fvoa/" data-dfa="dfas79fvoa"></a><a data-anchor="/document/16/202684/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/11205/dfasv3kieg/" class="link npd" moduleId="90" documentId="11205" anchor="dfasv3kieg">Микрофирмы и малые предприятия</a> платят земельный налог равными частями 4 раза в год (<a data-anchor="/document/16/202684/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas4i3uv0/" class="link npd" title="микрофирмами и малыми предприятиями — до 10 числа каждого первого месяца квартала в размере одной четвертой части годовой суммы земельного налога;" moduleId="90" documentId="20918" anchor="dfas4i3uv0">абз. 2</a> ч. 1 ст. 286 НК). График платежей:</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tr valign="top" align="center"><td class="bdAll"><p align="center"><a data-anchor="/document/16/202684/bssPhr4/"></a><a data-anchor="/document/16/202684/dfasoi577b/" data-dfa="dfasoi577b"></a>1-й платеж</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/202684/bssPhr5/"></a><a data-anchor="/document/16/202684/dfasuha985/" data-dfa="dfasuha985"></a>до 10 января включительно</p></td><td rowspan="4" valign="middle" class="bdAll"><p align="center"><a data-anchor="/document/16/202684/bssPhr6/"></a><a data-anchor="/document/16/202684/dfasvwb4oa/" data-dfa="dfasvwb4oa"></a>Каждый платеж – ¼ (25%) годовой суммы <a data-anchor="/document/16/202684/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/16/221164" title="лательщики, подробнее читайте в рекомендации «Кто платит земельный налог с юридических лиц», земельного налога с юридических лиц исчисляют его исходя из налогооблагаемой..." moduleId="16" documentId="221164" class="link ">налога</a></p></td></tr><tr valign="top" align="center"><td class="bdAll"><p align="center"><a data-anchor="/document/16/202684/bssPhr7/"></a><a data-anchor="/document/16/202684/dfasfulnbg/" data-dfa="dfasfulnbg"></a>2-й платеж</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/202684/bssPhr8/"></a><a data-anchor="/document/16/202684/dfask3a1o9/" data-dfa="dfask3a1o9"></a>до 10 апреля включительно</p></td></tr><tr valign="top" align="center"><td class="bdAll"><p align="center"><a data-anchor="/document/16/202684/bssPhr9/"></a><a data-anchor="/document/16/202684/dfaszzpze8/" data-dfa="dfaszzpze8"></a>3-й платеж</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/202684/bssPhr10/"></a><a data-anchor="/document/16/202684/dfaswk3zys/" data-dfa="dfaswk3zys"></a>до 10 июля включительно</p></td></tr><tr valign="top" align="center"><td class="bdAll"><p align="center"><a data-anchor="/document/16/202684/bssPhr11/"></a><a data-anchor="/document/16/202684/dfasy3cd8l/" data-dfa="dfasy3cd8l"></a>4-й платеж</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/202684/bssPhr12/"></a><a data-anchor="/document/16/202684/dfas5470fd/" data-dfa="dfas5470fd"></a>до 10 октября включительно</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><p><a data-anchor="/document/16/202684/bssPhr13/"></a><a data-anchor="/document/16/202684/dfasc04yri/" data-dfa="dfasc04yri"></a>Налогоплательщики, которые не входят в категорию микрофирм, малых и сельскохозяйственных предприятий, платят земельный налог до 10-го числа каждого месяца в размере 1/12 части годовой суммы <a data-anchor="/document/16/202684/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/16/221164" title="Плательщики, подробнее читайте в рекомендации «Кто платит земельный налог с юридических лиц», земельного налога с юридических лиц исчисляют его исходя из налогооблагаемой..." moduleId="16" documentId="221164" class="link ">земельного налога</a> (<a data-anchor="/document/16/202684/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasgps9gx/" class="link npd" title="налогоплательщиками, не относящимися к микрофирмам и малым предприятиям, — до 10 числа каждого месяца в размере одной двенадцатой части годовой суммы земельного налога." moduleId="90" documentId="20918" anchor="dfasgps9gx">абз. 3</a> ч. 1 ст. 286 НК).</p><p><a data-anchor="/document/16/202684/bssPhr14/"></a><a data-anchor="/document/16/202684/dfask8e8ky/" data-dfa="dfask8e8ky"></a>А сельскохозяйственные предприятия, которые не перешли на уплату единого земельного налога, обязаны платить земельный налог в следующие сроки:</p><ul class="c-list"><li><a data-anchor="/document/16/202684/bssPhr15/"></a><a data-anchor="/document/16/202684/dfasszig3y/" data-dfa="dfasszig3y"></a>до 1 сентября отчетного года – 30% годовой суммы налога;</li><li>до 1 декабря отчетного года – оставшаяся сумма налога (<a data-anchor="/document/16/202684/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas5u6vi1/" class="link npd" title="Уплата земельного налога сельскохозяйственными предприятиями, не перешедшими на уплату единого земельного налога, производится в следующем порядке:" moduleId="90" documentId="20918" anchor="dfas5u6vi1">ч. 3</a> ст. 286 НК).</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как поступить, если последняя дата для уплаты налога выпала на выходной</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/202684/bssPhr27/"></a><a data-anchor="/document/16/202684/dfasx7rf5u/" data-dfa="dfasx7rf5u"></a>Оплатите налог в первый рабочий день, который следует за выходным. В такой ситуации срок исполнения налогового обязательства продлевается до конца первого рабочего дня, а штрафы и пени налоговые органы начислять не вправе (<span title="Если последний день срока исполнения налогового обязательства приходится на выходной (нерабочий) день, днем окончания срока считается следующий за ним первый рабочий день." num="13" lnktype="intlnk" class="doc">ч. 5</span> ст. 36 НК). </p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Вправе ли налогоплательщик заплатить земельный налог с юридических лиц за год либо полгода вперед</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/202684/bssPhr32/"></a><a data-anchor="/document/16/202684/dfask7tw8w/" data-dfa="dfask7tw8w"></a>Да, вправе.</p><p><a data-anchor="/document/16/202684/bssPhr33/"></a><a data-anchor="/document/16/202684/dfasp7u62u/" data-dfa="dfasp7u62u"></a>Согласно <span title="Налогоплательщик вправе исполнить налоговое обязательство досрочно" num="16" lnktype="intlnk" class="doc">части 2</span> статьи 36 НК налогоплательщик вправе исполнить налоговое обязательство досрочно. </p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должен ли новый собственник здания платить земельный налог с юридических лиц с момента госрегистрации сделки до конца года, если предыдущий собственник заплатил налог за год вперед</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/202684/bssPhr38/"></a><a data-anchor="/document/16/202684/dfas3u6i37/" data-dfa="dfas3u6i37"></a>Да, должен.</p><p><a data-anchor="/document/16/202684/bssPhr39/"></a><a data-anchor="/document/16/202684/dfasla01n1/" data-dfa="dfasla01n1"></a>Для предыдущего и нового собственников уплата земельного налога – два самостоятельных налоговых обязательства. Предыдущий собственник имеет право на перерасчет и возврат излишней суммы налога (<span title="За земельные участки, на которые право собственности, владения, пользования или аренды перешло налогоплательщику в течение года, налогооблагаемая база исчисляется начиная со следующего..." num="19" lnktype="intlnk" class="doc">ч. 2</span> ст. 281, <span title="При изменении площади земельного участка и возникновении (прекращении) права на льготы в течение года органы государственной налоговой службы должны в течение месяца после указанных..." num="21" lnktype="intlnk" class="doc">ч. 5</span> ст. 293 НК). </p></div></div><a data-anchor="/document/16/202684/bssPhr16/"></a><a data-anchor="/document/16/202684/tit1/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/202684/dfashnsqa1/" data-dfa="dfashnsqa1"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Как перечислить в бюджет земельный налог с юридических лиц</h2><p><a data-anchor="/document/16/202684/bssPhr17/"></a><a data-anchor="/document/16/202684/dfaseykxet/" data-dfa="dfaseykxet"></a>Налогоплательщик обязан перечислить сумму земельного налога в бюджет Каракалпакстана, местные бюджеты областей и г. Ташкента на соответствующие казначейские лицевые счета. </p><p><a data-anchor="/document/16/202684/bssPhr18/"></a><a data-anchor="/document/16/202684/dfastc6pwv/" data-dfa="dfastc6pwv"></a><a data-anchor="/document/16/202684/_GoBack/"></a>В персональном кабинете налогоплательщика на сайте <a href="https://1gb.uz/#/document/16/202684/">my.soliq.uz</a> можно найти конкретные реквизиты получателей средств и сформировать платежное поручение. </p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/202684/bssPhr19/"></a><a data-anchor="/document/16/202684/dfasoo67tq/" data-dfa="dfasoo67tq"></a>когда земельный участок и юридическое лицо зарегистрированы в разных районах, земельный налог платят по месту нахождения участка. При наличии двух и более участков в разных районах за каждый участок налог платится отдельно.</p><div class="incut-v4__icon"></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

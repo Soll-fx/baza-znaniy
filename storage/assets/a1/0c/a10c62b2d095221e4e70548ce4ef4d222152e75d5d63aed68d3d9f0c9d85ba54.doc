@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Производственный календарь на 2026 год при шестидневной рабочей неделе </h2><div class="doc-snippet"><a data-anchor="/document/16/220858/dfasnhufn1/" data-dfa="dfasnhufn1"></a><a data-anchor="/document/16/220858/bssPhr2/"></a>Поможет рассчитать рабочие и выходные дни, а также продолжительность рабочего времени в 2026&nbsp;году для шестидневной рабочей недели. </div><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/16/220858/bssPhr5/"></a><a data-anchor="/document/16/220858/dfas2sh4r0/" data-dfa="dfas2sh4r0"></a><strong>ПРОИЗВОДСТВЕННЫЙ КАЛЕНДАРЬ НА&nbsp;2026&nbsp;ГОД&nbsp;<br>при шестидневной рабочей неделе</strong></p><p><a data-anchor="/document/16/220858/dfasw8zggi/" data-dfa="dfasw8zggi"></a><a data-anchor="/document/16/220858/bssPhr6/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41915951" sourceId="1" fullSizeImageId="-41915950" width="610" height="261.78474114441417" src="https://1gb.uz/system/content/image/297/1/-41915951/"></p><p><a data-anchor="/document/16/220858/bssPhr7/"></a><a data-anchor="/document/16/220858/dfaskwos29/" data-dfa="dfaskwos29"></a>Производственный календарь на&nbsp;2026&nbsp;год <a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-xlsx" href="https://1gb.uz/system/content/attachment/1/16/-116653/">скачать</a></p><p style="text-align:center"><a data-anchor="/document/16/220858/bssPhr8/"></a><a data-anchor="/document/16/220858/dfaspdt30m/" data-dfa="dfaspdt30m"></a><strong>НОРМЫ РАБОЧЕГО ВРЕМЕНИ НА&nbsp;2026&nbsp;ГОД&nbsp;</strong><br><strong>при шестидневной рабочей неделе</strong></p><p><a data-anchor="/document/16/220858/dfas0363nv/" data-dfa="dfas0363nv"></a><a data-anchor="/document/16/220858/bssPhr9/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41915953" sourceId="1" fullSizeImageId="-41915952" width="610" height="250.14986376021798" src="https://1gb.uz/system/content/image/297/1/-41915953/"></p><p style="text-align:center"><a data-anchor="/document/16/220858/bssPhr10/"></a><a data-anchor="/document/16/220858/dfasunbggi/" data-dfa="dfasunbggi"></a>Нормы рабочего времени на 2026 год &nbsp;&nbsp;<a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-xlsx" href="https://1gb.uz/system/content/attachment/1/16/-116654/">скачать</a></p><p style="text-align:center"><a data-anchor="/document/16/220858/bssPhr11/"></a><a data-anchor="/document/16/220858/dfas664rqg/" data-dfa="dfas664rqg"></a><strong>КОММЕНТАРИЙ</strong></p><p style="text-align:center"><a data-anchor="/document/16/220858/bssPhr12/"></a><a data-anchor="/document/16/220858/dfasvwb9qd/" data-dfa="dfasvwb9qd"></a><strong>к производственному календарю на&nbsp;2026&nbsp;год</strong><br><strong>при шестидневной рабочей неделе</strong></p><p><a data-anchor="/document/16/220858/bssPhr13/"></a><a data-anchor="/document/16/220858/dfasbaugdn/" data-dfa="dfasbaugdn"></a>В производственном календаре указаны: норма рабочего времени на&nbsp;месяцы, кварталы и&nbsp;2026&nbsp;год в&nbsp;целом, а&nbsp;также количество рабочих и&nbsp;выходных дней при шестидневной рабочей неделе с&nbsp;одним выходным днем.</p><p><a data-anchor="/document/16/220858/bssPhr14/"></a><a data-anchor="/document/16/220858/dfasn1g6uw/" data-dfa="dfasn1g6uw"></a>Нерабочие праздничные дни в&nbsp;Узбекистане установлены в <a data-anchor="/document/16/220858/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/21678/dfas7qredu/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfas7qredu">статье&nbsp;208</a>&nbsp;ТК:</p><p><a data-anchor="/document/16/220858/bssPhr15/"></a><a data-anchor="/document/16/220858/dfaskhd5l1/" data-dfa="dfaskhd5l1"></a><strong>1&nbsp;января&nbsp;</strong>— Новый год;</p><p><a data-anchor="/document/16/220858/bssPhr16/"></a><a data-anchor="/document/16/220858/dfas15gf4l/" data-dfa="dfas15gf4l"></a><strong>8&nbsp;марта&nbsp;</strong>— День женщин;</p><p><a data-anchor="/document/16/220858/bssPhr17/"></a><a data-anchor="/document/16/220858/dfasy3gycl/" data-dfa="dfasy3gycl"></a><strong>20 марта</strong> — первый день религиозного праздника «Руза хайит» (Ийд-ал-Фитр);</p><p><a data-anchor="/document/16/220858/bssPhr18/"></a><a data-anchor="/document/16/220858/dfascmqefd/" data-dfa="dfascmqefd"></a><strong>21&nbsp;марта&nbsp;</strong>— Праздник Навруз;</p><p><a data-anchor="/document/16/220858/bssPhr19/"></a><a data-anchor="/document/16/220858/dfasb3kuo7/" data-dfa="dfasb3kuo7"></a><strong>9&nbsp;мая&nbsp;</strong>— День Памяти и&nbsp;Почестей;</p><p><a data-anchor="/document/16/220858/bssPhr20/"></a><a data-anchor="/document/16/220858/dfas4cpnfw/" data-dfa="dfas4cpnfw"></a><strong>27&nbsp;мая</strong>&nbsp;— первый день религиозного праздника «Курбан хайит» (Ийд-ал-Адха)</p><p><a data-anchor="/document/16/220858/bssPhr21/"></a><a data-anchor="/document/16/220858/dfas5aw1mi/" data-dfa="dfas5aw1mi"></a><strong>1&nbsp;сентября&nbsp;</strong>— День Независимости;</p><p><a data-anchor="/document/16/220858/bssPhr22/"></a><a data-anchor="/document/16/220858/dfasudqcgm/" data-dfa="dfasudqcgm"></a><strong>1&nbsp;октября&nbsp;</strong>— День учителя и&nbsp;наставника;</p><p><a data-anchor="/document/16/220858/bssPhr23/"></a><a data-anchor="/document/16/220858/dfasrrio3u/" data-dfa="dfasrrio3u"></a><strong>8&nbsp;декабря&nbsp;</strong>— День Конституции;.</p><p><a data-anchor="/document/16/220858/bssPhr24/"></a><a data-anchor="/document/16/220858/dfasafqzxi/" data-dfa="dfasafqzxi"></a>Помимо официально утвержденных праздников нас ожидают дополнительные нерабочие дни. Согласно Указа Президента от 24.12.2025 № <a data-anchor="/document/16/220858/backlinkanchor10/" type="backlink-anchor"></a><a href="#/document/90/17673" class="link npd" target="_blank" title="" moduleId="90" documentId="17673">УП-257</a> «Об установлении дополнительных нерабочих дней в период празднования официальных дат и переносе выходных дней в 2026 году» &nbsp;официальные нерабочие праздничные дни включают:</p><ul class="c-list"><li><a data-anchor="/document/16/220858/bssPhr25/"></a><a data-anchor="/document/16/220858/dfas2vk4oq/" data-dfa="dfas2vk4oq"></a>2-4 января (пятница-воскресенье) – выходные дни;</li><li>дополнительные выходные 28, 29, 30 мая (четверг, пятница, суббота) в связи с празднованием Курбан Хайит;</li><li>дополнительные&nbsp;выходные&nbsp;31 августа (понедельник) и 31 декабря (четверг);</li></ul><p><a data-anchor="/document/16/220858/bssPhr26/"></a><a data-anchor="/document/16/220858/dfasbghvue/" data-dfa="dfasbghvue"></a>Норму рабочего времени на&nbsp;определенные периоды времени считают по&nbsp;расчетному графику шестидневной рабочей недели с&nbsp;одним выходным днем&nbsp;— воскресенье<br>(<a data-anchor="/document/16/220858/backlinkanchor4/" type="backlink-anchor"></a><a href="#/document/90/21678/dfassayggf/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfassayggf">ст.&nbsp;207</a>&nbsp;ТК).</p><p><a data-anchor="/document/16/220858/bssPhr27/"></a><a data-anchor="/document/16/220858/dfasyynol6/" data-dfa="dfasyynol6"></a>Продолжительность рабочей недели исходя из&nbsp;продолжительности ежедневной работы или смены:</p><ul class="c-list"><li><a data-anchor="/document/16/220858/bssPhr28/"></a><a data-anchor="/document/16/220858/dfas7gu9it/" data-dfa="dfas7gu9it"></a>при 40-часовой рабочей неделе&nbsp;— 6,67&nbsp;часов;</li><li>при менее чем 40-часовой рабочей неделе&nbsp;— количество часов, которое получают в&nbsp;результате деления установленной продолжительности рабочей недели на&nbsp;шесть дней.</li></ul><p><a data-anchor="/document/16/220858/bssPhr29/"></a><a data-anchor="/document/16/220858/dfassirgfh/" data-dfa="dfassirgfh"></a>При этом организация самостоятельно разрабатывает график по&nbsp;оптимальному для себя балансу рабочего времени.</p><p><a data-anchor="/document/16/220858/bssPhr30/"></a><a data-anchor="/document/16/220858/dfasgm5rlm/" data-dfa="dfasgm5rlm"></a>Накануне нерабочих праздничных дней рабочее время сокращайте на&nbsp;1&nbsp;час (<a data-anchor="/document/16/220858/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasa973fl/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasa973fl">ст.&nbsp;187</a>&nbsp;ТК).</p><p><a data-anchor="/document/16/220858/bssPhr31/"></a><a data-anchor="/document/16/220858/dfas51gow6/" data-dfa="dfas51gow6"></a>При совпадении выходного дня с&nbsp;праздничным нерабочим днем выходной день переносится на&nbsp;рабочий день, следующий после праздничного нерабочего дня (<a data-anchor="/document/16/220858/backlinkanchor6/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasyxrxba/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasyxrxba">ч.&nbsp;2</a>&nbsp;ст.&nbsp;208&nbsp;ТК):</p><p><a data-anchor="/document/16/220858/bssPhr32/"></a><a data-anchor="/document/16/220858/dfask9sriz/" data-dfa="dfask9sriz"></a>–&nbsp;9 марта –&nbsp;перенесенный выходной день</p><p><a data-anchor="/document/16/220858/bssPhr33/"></a><a data-anchor="/document/16/220858/dfasniag1g/" data-dfa="dfasniag1g"></a>Согласно Производственного&nbsp;календаря&nbsp;на&nbsp;2026&nbsp;год&nbsp;при шестидневной рабочей неделе с&nbsp;одним выходным днем:</p><ul class="c-list"><li><a data-anchor="/document/16/220858/bssPhr34/"></a><a data-anchor="/document/16/220858/dfasxmivo6/" data-dfa="dfasxmivo6"></a><strong>297&nbsp;рабочих </strong>дней, в&nbsp;том числе&nbsp; шесть предпраздничных дней&nbsp;— 7 марта, 19 марта, 8 мая, 26 мая, 30 сентября, 7 декабря;</li><li><strong>68 выходных</strong> дней с&nbsp;учетом дополнительных дней отдыха и&nbsp;переносов праздничных дней.</li></ul><p><a data-anchor="/document/16/220858/bssPhr35/"></a><a data-anchor="/document/16/220858/dfash0ib59/" data-dfa="dfash0ib59"></a>Норма рабочего времени на&nbsp;2026&nbsp;год&nbsp;при <strong>шестидневной 40-часовой </strong> рабочей неделе составит 1977&nbsp;часов.</p><p><a data-anchor="/document/16/220858/bssPhr36/"></a><a data-anchor="/document/16/220858/dfas01glku/" data-dfa="dfas01glku"></a><a data-anchor="/document/16/220858/dfas00n8sb/" data-dfa="dfas00n8sb"></a>В&nbsp;течение года в&nbsp;Производственный календарь могут быть внесены изменения, связанные с&nbsp;изменением дат праздников. Например, даты начала религиозных праздников Руза хайит и Курбан хайит могут отличаться от указанных в календаре.</p><p><a data-anchor="/document/16/220858/bssPhr37/"></a><a data-anchor="/document/16/220858/dfasn2gbcz/" data-dfa="dfasn2gbcz"></a>20 марта - первый день религиозного праздника «Руза хайит» (Ийд-ал-Фитр) – понедельник – перенесенный нерабочий день для работников, работающих по пятидневному графику работы.</p><p><a data-anchor="/document/16/220858/bssPhr38/"></a><a data-anchor="/document/16/220858/dfasi38r2d/" data-dfa="dfasi38r2d"></a>27 мая - первый день религиозного праздника «Курбан хайит» (Ийд-ал-Адха) - среда - нерабочий праздничный день для всех работников, независимо от вида рабочей недели.</p><p style="text-align:center"><a data-anchor="/document/16/220858/bssPhr39/"></a><a data-anchor="/document/16/220858/dfasm726k8/" data-dfa="dfasm726k8"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-docx" href="https://1gb.uz/system/content/attachment/1/16/-116655/"><strong>Скачать</strong></a></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

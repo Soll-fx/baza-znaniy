@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие документы оформить при возвращении работника из&#160;командировки</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div id="documentBody" class="content-common"><p><a data-anchor="/document/86/52888/bssPhr121/"></a><a data-anchor="/document/86/52888/dfasws4pzg/" data-dfa="dfasws4pzg"></a><a data-anchor="/document/86/52888/dfasw142zw/" data-dfa="dfasw142zw"></a>По&nbsp;возвращении из&nbsp;командировки работник обязан в&nbsp;течение трех дней представить в&nbsp;бухгалтерию:</p><ul class="c-list"><li><a data-anchor="/document/86/52888/bssPhr122/"></a><a data-anchor="/document/86/52888/dfas6w59q8/" data-dfa="dfas6w59q8"></a>утвержденный руководителем письменный отчет о&nbsp;результатах командировки;</li><li>авансовый отчет об&nbsp;использовании средств, выданных на&nbsp;командировочные расходы. Авансовый отчет работник предоставляет в&nbsp;той валюте, в&nbsp;которой был получен аванс.</li></ul><p><a data-anchor="/document/86/52888/bssPhr123/"></a><a data-anchor="/document/86/52888/dfasvbhb3a/" data-dfa="dfasvbhb3a"></a>По&nbsp;результатам проверки авансового отчета:</p><ul class="c-list"><li><a data-anchor="/document/86/52888/bssPhr124/"></a><a data-anchor="/document/86/52888/dfasqvyk56/" data-dfa="dfasqvyk56"></a>неиспользованные суммы иностранной валюты работник должен вернуть в&nbsp;кассу предприятия в&nbsp;течение двух банковских дней с&nbsp;момента сдачи авансового отчета (<a data-anchor="/document/86/52888/backlinkanchor89/" type="backlink-anchor"></a><a href="#/document/90/4067/dfasn1plcs/" class="link npd" title="48. В случае полного или частичного неиспользования иностранной валюты, предоставленной на транспортные расходы, проживание (наем жилого помещения), на представительские и непредвиденные..." moduleId="90" documentId="4067" anchor="dfasn1plcs">абз.&nbsp;1</a>&nbsp;п.&nbsp;48&nbsp;Положения №&nbsp;2730);</li><li>документально подтвержденный перерасход предприятие возмещает работнику в&nbsp;наличной иностранной валюте или с&nbsp;согласия работника&nbsp;— в&nbsp;эквиваленте в&nbsp;сумах по&nbsp;курсу на&nbsp;дату сдачи авансового отчета.</li></ul><p><a data-anchor="/document/86/52888/bssPhr125/"></a><a data-anchor="/document/86/52888/dfasl96f3d/" data-dfa="dfasl96f3d"></a>Если для оплаты командировочных расходов предприятие приобретало иностранную валюту, то&nbsp;неиспользованную сумму предприятие возвращают на&nbsp;спецсчет и&nbsp;в&nbsp;течение трех банковских рабочих дней она подлежит перепродаже коммерческому банку (<a data-anchor="/document/86/52888/backlinkanchor376/" type="backlink-anchor"></a><a href="#/document/90/16982/dfasc11cz6/" class="link npd" target="_self" title="" moduleId="90" documentId="16982" anchor="dfasc11cz6">п.&nbsp;29</a>&nbsp;«Правил осуществления валютных операций в&nbsp;Республике Узбекистан», рег.&nbsp;от&nbsp;31.08.2020 №&nbsp;3281).</p><p><a data-anchor="/document/86/52888/bssPhr126/"></a><a data-anchor="/document/86/52888/dfasxft66y/" data-dfa="dfasxft66y"></a><a data-anchor="/document/86/52888/dfas20mtph/" data-dfa="dfas20mtph"></a>Если для оплаты командировочных расходов предприятие расходовало собственные средств, то&nbsp;иностранную валюту предприятие возвращает на&nbsp;свой счет. Для оплаты командировочных расходов, можно использовать корпоративные банковские карты юридических лиц в&nbsp;иностранной валюте (<a data-anchor="/document/86/52888/backlinkanchor173/" type="backlink-anchor"></a><a href="#/document/90/15748/dfasde84ei/" class="link npd" target="_self" title="" moduleId="90" documentId="15748" anchor="dfasde84ei">п.&nbsp;19</a>&nbsp;Положения «О&nbsp;правилах выпуска и&nbsp;обращения банковских карт на&nbsp;территории Республики Узбекистан», рег.&nbsp;от&nbsp;03.04.2021 №&nbsp;3294). В&nbsp;этом случае, командированный работник, по&nbsp;возвращении из&nbsp;командировки, должен представить в&nbsp;бухгалтерию отчет о&nbsp;расходах по&nbsp;этой карте.</p><p><a data-anchor="/document/86/52888/bssPhr127/"></a><a data-anchor="/document/86/52888/dfasm5l4pk/" data-dfa="dfasm5l4pk"></a>Для получения со&nbsp;счетов предприятия суммы перерасхода по&nbsp;командировочным расходам, если она документально подтверждена, представьте в&nbsp;банк документы:</p><ol class="c-list" style="counter-reset: item 0;" start="1"><li><a data-anchor="/document/86/52888/bssPhr128/"></a><a data-anchor="/document/86/52888/dfas7soxxf/" data-dfa="dfas7soxxf"></a>Заявление на&nbsp;выдачу средств;</li><li><a data-anchor="/document/86/52888/bssPhr129/"></a><a data-anchor="/document/86/52888/dfastwzbzs/" data-dfa="dfastwzbzs"></a>Авансовый отчет, который заверяют руководитель и&nbsp;главный бухгалтер;</li><li><a data-anchor="/document/86/52888/bssPhr130/"></a><a data-anchor="/document/86/52888/dfas92ewna/" data-dfa="dfas92ewna"></a>Копии документов, подтверждающих расходы командированного лица за&nbsp;пределами Узбекистана;</li><li><a data-anchor="/document/86/52888/bssPhr131/"></a><a data-anchor="/document/86/52888/dfasw74l7h/" data-dfa="dfasw74l7h"></a>Расчет суммы к&nbsp;выплате.</li></ol><p><a data-anchor="/document/86/52888/bssPhr132/"></a><a data-anchor="/document/86/52888/dfas3fd4oq/" data-dfa="dfas3fd4oq"></a>Если документы представлены не&nbsp;в&nbsp;полном объеме или заявленная сумма не&nbsp;соответствует фактическим расходам, банк не&nbsp;выдаст суммы возмещения перерасхода.</p><p><a data-anchor="/document/86/52888/bssPhr133/"></a><a data-anchor="/document/86/52888/dfast1g1mv/" data-dfa="dfast1g1mv"></a>Бухгалтерские проводки:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><a data-anchor="/document/86/52888/bssPhr134/"></a><a data-anchor="/document/86/52888/dfasgcfnpy/" data-dfa="dfasgcfnpy"></a>&nbsp;</td><td class="bdTopbdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr135/"></a><a data-anchor="/document/86/52888/dfasq7zwta/" data-dfa="dfasq7zwta"></a><strong>Дебет</strong></p></td><td class="bdTopbdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr136/"></a><a data-anchor="/document/86/52888/dfasdu4ozq/" data-dfa="dfasdu4ozq"></a><strong>Кредит</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr137/"></a><a data-anchor="/document/86/52888/dfasmksyy6/" data-dfa="dfasmksyy6"></a>Покупка валюты на&nbsp;командировочные расходы</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr138/"></a><a data-anchor="/document/86/52888/dfascmomzs/" data-dfa="dfascmomzs"></a>5210<br>«Валютные счета внутри страны»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr139/"></a><a data-anchor="/document/86/52888/dfasgn6287/" data-dfa="dfasgn6287"></a>5530<br>«Прочие специальные счета»</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr140/"></a><a data-anchor="/document/86/52888/dfastlpdpi/" data-dfa="dfastlpdpi"></a>Оприходование валюты в&nbsp;кассу</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr141/"></a><a data-anchor="/document/86/52888/dfasrlcs8n/" data-dfa="dfasrlcs8n"></a>5020<br>«Денежные средства в&nbsp;иностранной валюте»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr142/"></a><a data-anchor="/document/86/52888/dfasii7xuo/" data-dfa="dfasii7xuo"></a>5210<br>«Валютные счета внутри страны»</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr143/"></a><a data-anchor="/document/86/52888/dfasbs8gp6/" data-dfa="dfasbs8gp6"></a>Выдача аванса на&nbsp;командировку</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr144/"></a><a data-anchor="/document/86/52888/dfasngvo76/" data-dfa="dfasngvo76"></a>4220<br>«Авансы, выданные на&nbsp;служебные командировки»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr145/"></a><a data-anchor="/document/86/52888/dfasy7y715/" data-dfa="dfasy7y715"></a>5020<br>«Денежные средства в&nbsp;иностранной валюте»</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr146/"></a><a data-anchor="/document/86/52888/dfas4vnbqq/" data-dfa="dfas4vnbqq"></a>Списание расходов по&nbsp;командировке (по&nbsp;курсу на&nbsp;день сдачи авансового отчета)</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr147/"></a><a data-anchor="/document/86/52888/dfasdp44bi/" data-dfa="dfasdp44bi"></a>2010<br>«Основное производство»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr148/"></a><a data-anchor="/document/86/52888/dfasivt2yx/" data-dfa="dfasivt2yx"></a>2310<br>«Вспомогательное производство»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr149/"></a><a data-anchor="/document/86/52888/dfas9q9ff9/" data-dfa="dfas9q9ff9"></a>9410<br>«Расходы по&nbsp;реализации»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr150/"></a><a data-anchor="/document/86/52888/dfasqy0ffi/" data-dfa="dfasqy0ffi"></a>9420<br>«Административные расходы»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr151/"></a><a data-anchor="/document/86/52888/dfasfgkptu/" data-dfa="dfasfgkptu"></a>9430<br>«Прочие операционные расходы»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr152/"></a><a data-anchor="/document/86/52888/dfasr6z35x/" data-dfa="dfasr6z35x"></a>0800<br>«Счета учета капитальных вложений»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr153/"></a><a data-anchor="/document/86/52888/dfaslkphku/" data-dfa="dfaslkphku"></a>0700<br>«Оборудование к&nbsp;установке&nbsp;— импортное»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr154/"></a><a data-anchor="/document/86/52888/dfas0qtfbl/" data-dfa="dfas0qtfbl"></a>1000<br>«Счета учета материалов»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr155/"></a><a data-anchor="/document/86/52888/dfasylgwck/" data-dfa="dfasylgwck"></a>4220<br>«Авансы, выданные на&nbsp;служебные командировки»</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr156/"></a><a data-anchor="/document/86/52888/dfas6aaqph/" data-dfa="dfas6aaqph"></a>Задолженность подотчетному лицу (при перерасходе)</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr157/"></a><a data-anchor="/document/86/52888/dfascl4mv4/" data-dfa="dfascl4mv4"></a>2010<br>«Основное производство»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr158/"></a><a data-anchor="/document/86/52888/dfas1l4iuk/" data-dfa="dfas1l4iuk"></a>2310<br>«Вспомогательное производство»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr159/"></a><a data-anchor="/document/86/52888/dfasnkpy3g/" data-dfa="dfasnkpy3g"></a>9410<br>«Расходы по&nbsp;реализации»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr160/"></a><a data-anchor="/document/86/52888/dfasco83yw/" data-dfa="dfasco83yw"></a>9420<br>«Административные расходы»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr161/"></a><a data-anchor="/document/86/52888/dfasw3sbri/" data-dfa="dfasw3sbri"></a>9430<br>«Прочие операционные расходы»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr162/"></a><a data-anchor="/document/86/52888/dfasi9tef8/" data-dfa="dfasi9tef8"></a>0800<br>«Счета учета капитальных вложений»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr163/"></a><a data-anchor="/document/86/52888/dfas9lo2xr/" data-dfa="dfas9lo2xr"></a>0700<br>«Оборудование к&nbsp;установке&nbsp;— импортное»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr164/"></a><a data-anchor="/document/86/52888/dfasiiov00/" data-dfa="dfasiiov00"></a>1000<br>«Счета учета материалов»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr165/"></a><a data-anchor="/document/86/52888/dfaslggadq/" data-dfa="dfaslggadq"></a>6970<br>«Задолженность подотчетным лицам»</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr166/"></a><a data-anchor="/document/86/52888/dfas1wg7st/" data-dfa="dfas1wg7st"></a>Выплачена задолженность подотчетному лицу</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr167/"></a><a data-anchor="/document/86/52888/dfaszghe8e/" data-dfa="dfaszghe8e"></a>6970<br>«Задолженность подотчетным лицам»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr168/"></a><a data-anchor="/document/86/52888/dfasm32fzl/" data-dfa="dfasm32fzl"></a>5010<br>«Денежные средства в&nbsp;национальной валюте» (при выплате в&nbsp;эквиваленте сумах по&nbsp;курсу)</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr169/"></a><a data-anchor="/document/86/52888/dfas9tx9tt/" data-dfa="dfas9tx9tt"></a>5020<br>«Денежные средства в&nbsp;иностранной валюте» (при выплате в&nbsp;иностранной валюте)</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr170/"></a><a data-anchor="/document/86/52888/dfasm7x1eu/" data-dfa="dfasm7x1eu"></a>Возврат неиспользованной иностранной валюты</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr171/"></a><a data-anchor="/document/86/52888/dfasbpgdl7/" data-dfa="dfasbpgdl7"></a>5020<br>«Денежные средства в&nbsp;иностранной валюте»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr172/"></a><a data-anchor="/document/86/52888/dfasdx9o3q/" data-dfa="dfasdx9o3q"></a>4220<br>«Авансы, выданные на&nbsp;служебные командировки»</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr173/"></a><a data-anchor="/document/86/52888/dfasvwqmw9/" data-dfa="dfasvwqmw9"></a>Положительная курсовая разница</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr174/"></a><a data-anchor="/document/86/52888/dfastlwdtg/" data-dfa="dfastlwdtg"></a>4220<br>«Авансы, выданные на&nbsp;служебные командировки»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr175/"></a><a data-anchor="/document/86/52888/dfas3b0xbx/" data-dfa="dfas3b0xbx"></a>6970<br>«Задолженность подотчетным лицам»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr176/"></a><a data-anchor="/document/86/52888/dfasbokws5/" data-dfa="dfasbokws5"></a>9540<br>«Доходы от&nbsp;валютных курсовых разниц»</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr177/"></a><a data-anchor="/document/86/52888/dfas9sbplu/" data-dfa="dfas9sbplu"></a>Отрицательная курсовая разница</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr178/"></a><a data-anchor="/document/86/52888/dfaso6bugq/" data-dfa="dfaso6bugq"></a>9620<br>«Убытки от&nbsp;валютных курсовых разниц»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr179/"></a><a data-anchor="/document/86/52888/dfash2hciy/" data-dfa="dfash2hciy"></a>4220<br>«Авансы, выданные на&nbsp;служебные командировки»</p><p style="text-align:center"><a data-anchor="/document/86/52888/bssPhr180/"></a><a data-anchor="/document/86/52888/dfasizfrlm/" data-dfa="dfasizfrlm"></a>6970<br>«Задолженность подотчетным лицам»</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/86/52888/dfaslgkly1/" data-dfa="dfaslgkly1"></a><a data-anchor="/document/86/52888/bssPhr181/"></a>Как оформить возвращение работника из&nbsp;командировки</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/86/52888/bssPhr182/"></a><a data-anchor="/document/86/52888/dfaswu0o7m/" data-dfa="dfaswu0o7m"></a>Работник предприятия направлен в&nbsp;командировку в&nbsp;Казахстан для заключения договора о&nbsp;поставке оборудования. Срок командировки&nbsp;— 5&nbsp;дней. После возвращения работник представил авансовый отчет по&nbsp;командировочным расходам:</p><ul class="c-list"><li><a data-anchor="/document/86/52888/bssPhr183/"></a><a data-anchor="/document/86/52888/dfas05d23u/" data-dfa="dfas05d23u"></a>стоимость авиабилета в&nbsp;оба конца&nbsp;— 250 долларов США;</li><li>суточные: 25&nbsp;долларов США × 5 × 10&nbsp;900 сумов = 1&nbsp;362&nbsp;500&nbsp;сумов;</li><li>стоимость проживания в&nbsp;гостинице по&nbsp;счету: 100 долларов США × 5 × 10&nbsp;900 сумов = 5&nbsp;450&nbsp;000&nbsp;сумов.</li></ul><p><a data-anchor="/document/86/52888/bssPhr184/"></a><a data-anchor="/document/86/52888/dfas5ozw38/" data-dfa="dfas5ozw38"></a>10&nbsp;900 сумов&nbsp;— курс доллара США, установленный&nbsp;ЦБ, на&nbsp;дату сдачи авансового отчета.</p><p><a data-anchor="/document/86/52888/bssPhr185/"></a><a data-anchor="/document/86/52888/dfaszuggzn/" data-dfa="dfaszuggzn"></a>На&nbsp;предприятии не&nbsp;предусмотрены доплаты к&nbsp;командировочным расходам. Расходы по&nbsp;служебным командировкам на&nbsp;основании приказа руководителя возмещают по&nbsp;установленным нормам.</p><p><a data-anchor="/document/86/52888/bssPhr186/"></a><a data-anchor="/document/86/52888/dfasylfley/" data-dfa="dfasylfley"></a>Сумма суточных соответствует установленной норме при командировке в&nbsp;Казахстан&nbsp;— 25&nbsp;долларов США.</p><p><a data-anchor="/document/86/52888/bssPhr187/"></a><a data-anchor="/document/86/52888/dfas322lew/" data-dfa="dfas322lew"></a>Расходы по&nbsp;проживанию соответствуют установленным нормам&nbsp;— 100 долларов США за&nbsp;сутки.</p><p><a data-anchor="/document/86/52888/bssPhr188/"></a><a data-anchor="/document/86/52888/dfas23rlyy/" data-dfa="dfas23rlyy"></a>Командировочные расходы, возмещаемые работнику, не&nbsp;включаются в&nbsp;его совокупный доход и&nbsp;не&nbsp;облагаются НДФЛ и&nbsp;социальным налогом.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как оформить покупку авиабилетов руководителю предприятия за&#160;счет фирмы, если он&#160;летает по&#160;служебным делам</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/86/52888/bssPhr190/"></a><a data-anchor="/document/86/52888/dfasxnuker/" data-dfa="dfasxnuker"></a>Правила оформления командировок и&nbsp;расчетов по&nbsp;ним регулирует:</p><ul class="c-list"><li><a data-anchor="/document/86/52888/bssPhr191/"></a><a data-anchor="/document/86/52888/dfas0ouzl8/" data-dfa="dfas0ouzl8"></a>внутри страны Положение о&nbsp;служебных командировках на&nbsp;территории Республики Узбекистан (<span num="332" target="_self" lnktype="intlnk" title="" class="doc">приложение</span> к&nbsp;постановление Кабмина от&nbsp;02.08.2022 №&nbsp;424);</li><li>за&nbsp;границу <span num="101" target="_self" lnktype="intlnk" title="" class="doc">Положение</span> о&nbsp;порядке выдачи средств на&nbsp;командировочные расходы при командировках работников министерств, ведомств, предприятий и&nbsp;организаций за&nbsp;пределы Республики Узбекистан от&nbsp;19.11.2015 №&nbsp;2730.</li></ul><p><a data-anchor="/document/86/52888/bssPhr192/"></a><a data-anchor="/document/86/52888/dfasaarosp/" data-dfa="dfasaarosp"></a>Служебной командировкой признается поездка работника по&nbsp;распоряжению руководителя организации на&nbsp;определенный срок в&nbsp;другую местность для выполнения служебного поручения вне места его постоянной работы (<span num="333" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;Положения, приложение к&nbsp;постановление Кабмина от&nbsp;02.08.2022 №&nbsp;424).</p><p><a data-anchor="/document/86/52888/bssPhr193/"></a><a data-anchor="/document/86/52888/dfasp4gtpn/" data-dfa="dfasp4gtpn"></a><a data-anchor="/document/86/52888/dfas3k0vlk/" data-dfa="dfas3k0vlk"></a>Чтобы признать поездки руководителя командировками, необходимо оформить первичные документы. Документальным подтверждением командировочных расходов служат:</p><ul class="c-list"><li><a data-anchor="/document/86/52888/bssPhr194/"></a><a data-anchor="/document/86/52888/dfas0wl42n/" data-dfa="dfas0wl42n"></a>приказ на&nbsp;командировку;</li><li>командировочное удостоверение при командировке в&nbsp;пределах Узбекистана. При командировках за&nbsp;пределы Узбекистана командировочное удостоверение оформлять не&nbsp;надо, оно не&nbsp;предусмотрено <span num="334" target="_self" lnktype="intlnk" title="" class="doc">Положением</span> №&nbsp;2730;</li><li>производственное задание для командированного работника;</li><li>авансовый отчет;</li><li>отчет о&nbsp;выполнении задания;</li><li><a data-anchor="/document/86/52888/dfasa227yh/" data-dfa="dfasa227yh"></a>документы, подтверждающие транспортные расходы, расходы на&nbsp;проживание и&nbsp;другие фактические расходы.</li></ul><p><a data-anchor="/document/86/52888/bssPhr195/"></a><a data-anchor="/document/86/52888/dfas6gwwng/" data-dfa="dfas6gwwng"></a>Чтобы обосновать правомерность выезда руководителя в&nbsp;командировку, необходимо уведомить учредителей предприятия о&nbsp;целях и&nbsp;задачах поездки, дать экономическое обоснование командировки, предоставить план-задание с&nbsp;производственной необходимостью командировки и&nbsp;получить в&nbsp;письменной форме подтверждение от&nbsp;учредителей о&nbsp;целесообразности и&nbsp;производственной необходимости командировки и&nbsp;связанных с&nbsp;ней расходов.</p><p><a data-anchor="/document/86/52888/bssPhr196/"></a><a data-anchor="/document/86/52888/dfasu6zge3/" data-dfa="dfasu6zge3"></a>По&nbsp;возращению из&nbsp;командировки, руководитель обязан помимо авансового отчета представить письменный отчет о&nbsp;выполнении задания, в&nbsp;котором указать где и&nbsp;какие встречи были проведены, какие вопросы обсуждались. Данный отчет будет веским подтверждением деловой поездки руководителя.</p><p style="text-align:left"><a data-anchor="/document/86/52888/bssPhr197/"></a><a data-anchor="/document/86/52888/dfaso864xs/" data-dfa="dfaso864xs"></a><a data-anchor="/document/86/52888/dfasyo80q1/" data-dfa="dfasyo80q1"></a>Помимо транспортных расходов —покупки авиабилета, командированному работнику должны выплачивать и&nbsp;другие командировочные расходы&nbsp;— суточные, расходы на&nbsp;проживание и&nbsp;другие, по&nbsp;нормам, утвержденным <span num="335" target="_self" lnktype="intlnk" title="" class="doc">Положением</span> №&nbsp;2730. Предприятие вправе не&nbsp;выплачивать сотруднику командировочные расходы, если принимающая сторона:</p><ul class="c-list"><li><a data-anchor="/document/86/52888/bssPhr198/"></a><a data-anchor="/document/86/52888/dfasa4agpr/" data-dfa="dfasa4agpr"></a>обеспечивает командированного работника бесплатным питанием —завтрак, обед, ужин, выплачивает ему суточные в&nbsp;размере 30&nbsp;процентов на&nbsp;прочие расходы. Если принимающая сторона также обеспечивает работника средствами на&nbsp;личные нужды, то&nbsp;суточные работнику направляющая сторона не&nbsp;выплачивает (<span num="105" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;7</span>&nbsp;Положения рег. №&nbsp;2730);</li><li>предоставляет бесплатно жилое помещение либо выплачивает соответствующую денежную компенсацию за&nbsp;его наем, то&nbsp;средства на&nbsp;проживание —наем жилого помещения, направляющая сторона не&nbsp;выплачивает (<span num="106" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;17</span>&nbsp;Положения рег. №&nbsp;2730).</li></ul><p><a data-anchor="/document/86/52888/bssPhr199/"></a><a data-anchor="/document/86/52888/dfas9lol2q/" data-dfa="dfas9lol2q"></a><a data-anchor="/document/86/52888/dfasagacew/" data-dfa="dfasagacew"></a>Чтобы подтвердить обоснованность невыплаты работнику суточных расходов и&nbsp;расходов на&nbsp;проживание принимающая сторона должна письменно известить предприятие, командирующее работника, о&nbsp;том, что она готова покрыть все его расходы, связанные с&nbsp;пребыванием в&nbsp;стране командирования. В&nbsp;противном случае есть риски, если проверяющими органами будет доказано, что:</p><ul class="c-list"><li><a data-anchor="/document/86/52888/bssPhr200/"></a><a data-anchor="/document/86/52888/dfasz01ssg/" data-dfa="dfasz01ssg"></a>это действительно служебная командировка, то&nbsp;у&nbsp;предприятия возникает налогооблагаемый доход на&nbsp;сумму не&nbsp;выплаченных командировочных расходов, так как работник находился в&nbsp;командировке за&nbsp;свой счет (<span num="107" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;10</span>&nbsp;ч.&nbsp;3&nbsp;ст.&nbsp;297&nbsp;НК, <span num="108" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;463&nbsp;НК);</li><li>работник летал за&nbsp;границу в&nbsp;личных целях, то&nbsp;у&nbsp;работника возникает налогооблагаемый доход в&nbsp;виде материальной выгоды на&nbsp;сумму оплаченных предприятием авиабилетов (<span num="109" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;376&nbsp;НК</span>).</li></ul><p><a data-anchor="/document/86/52888/bssPhr201/"></a><a data-anchor="/document/86/52888/dfasi1cg3s/" data-dfa="dfasi1cg3s"></a>Если руководитель часто летает за&nbsp;границу и&nbsp;при этом деловые встречи и&nbsp;переговоры с&nbsp;потенциальными инвесторами не&nbsp;приводят к&nbsp;улучшению деловой активности и&nbsp;коммерческой деятельности предприятия на&nbsp;международном рынке: заключение договоров с&nbsp;иностранными партнерами, привлечение иностранных инвестиций, то&nbsp;предприятию будет непросто признать данные поездки командировками.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как отразить в&#160;отчете по&#160;загранкомандировке затраты на&#160;ПЦР-тест</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/86/52888/bssPhr203/"></a><a data-anchor="/document/86/52888/dfas8xdi17/" data-dfa="dfas8xdi17"></a>В&nbsp;авансовом отчете командированный работник указывает сумму расхода на&nbsp;ПЦР-тест на&nbsp;оборотной стороне формы № АО-1&nbsp;в составе расходов на&nbsp;командировку и&nbsp;прикладывает к&nbsp;отчету чек, либо другой документ, подтверждающий оплату.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Когда сотрудник должен&#160;предоставить авансовый отчет о расходах на визу и авиабилеты для служебной&#160;командировки за пределы Узбекистана</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/86/52888/bssPhr205/"></a><a data-anchor="/document/86/52888/dfasrg2xx6/" data-dfa="dfasrg2xx6"></a>Служебные командировки за пределы Узбекистана регулирует&nbsp;<span num="441" target="_self" lnktype="intlnk" title="" class="doc">Положение</span> о порядке выдачи средств на командировочные расходы при командировках работников министерств, ведомств, предприятий и организаций за пределы Республики Узбекистан от 19.11.2015 № 2730.</p><p style="text-align:left"><a data-anchor="/document/86/52888/bssPhr206/"></a><a data-anchor="/document/86/52888/dfas8l0lmh/" data-dfa="dfas8l0lmh"></a>Авансовый отчет об использовании средств, выданных на командировочные расходы, командированный сотрудник представляет&nbsp;в бухгалтерию организации не позднее <strong>трех рабочих дней после возвращения из командировки </strong> в той валюте, в которой был получен аванс (<span num="442" target="_self" lnktype="intlnk" title="" class="doc">п. 43</span> Положения № 2730).&nbsp;</p><p style="text-align:left"><a data-anchor="/document/86/52888/bssPhr207/"></a><a data-anchor="/document/86/52888/dfast32m4v/" data-dfa="dfast32m4v"></a>Днем выезда и приезда является <strong>день пересечения государственной границы Республики Узбекистан (</strong><span num="443" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span> Положения № 2730). Командировочные расходы по всем направлениям возмещают после окончания командировки и возвращения сотрудника в Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/86/52888/bssPhr208/"></a><a data-anchor="/document/86/52888/dfaswb5l85/" data-dfa="dfaswb5l85"></a>Средства для покрытия транспортных расходов (кроме такси) выплачивают&nbsp;по фактическим расходам с условием их подтверждения соответствующими документами (<span num="444" target="_self" lnktype="intlnk" title="" class="doc">п. 18</span> Положения № 2730). Помимо расходов по проезду, проживанию (найму жилого помещения), суточных, представительских и непредвиденных расходов, возмещают&nbsp;документально подтвержденные расходы по получению визы (<span num="445" target="_self" lnktype="intlnk" title="" class="doc">п. 29</span> Положения № 2730). Авансовый отчет сотрудника должен содержать документы, подтверждающие приобретение авиабилета (сам билет с указанием его стоимости и посадочный талон, свидетельствующий, что билетом воспользовались) и оплату визы (квитанцию по оплате сбора за визовое заявление).</p><p style="text-align:left"><a data-anchor="/document/86/52888/bssPhr209/"></a><a data-anchor="/document/86/52888/dfaskse210/" data-dfa="dfaskse210"></a>При наличии перерасхода у командированного лица по авансу в наличной иностранной валюте на командировочные расходы, что должно быть подтверждено документально, сумма задолженности перед командированным лицом погашается путем выдачи соответствующей суммы в наличной иностранной валюте (<span num="446" target="_self" lnktype="intlnk" title="" class="doc">п. 50</span> Положения № 2730). Как видно из данного пункта, срок возмещения перерасхода командировочных средств не установлен.</p></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

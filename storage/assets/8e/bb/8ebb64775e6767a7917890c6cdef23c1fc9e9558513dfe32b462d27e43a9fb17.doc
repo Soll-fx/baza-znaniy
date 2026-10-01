@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие налоговые последствия возникают при безвозмездной передаче и продаже доли в уставном фонде ООО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/210246/dfashqmlut/" data-dfa="dfashqmlut"></a><a data-anchor="/document/16/210246/bssPhr2/"></a>Из&nbsp;рекомендации узнаете, какие налоговые последствия возникают, если учредитель-физлицо безвозмездно передает свою долю учредителю-юрлицу, либо учредитель-юрлицо безвозмездно передает свою долю учредителю-физлицу. А&nbsp;также какие налоговые последствия возникают, если учредитель-юрлицо продает долю учредителю-физлицу, либо если учредитель-физлицо продает долю учредителю-физлицу или учредителю-юрлицу. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/210246/bssPhr5/"></a><a data-anchor="/document/16/210246/dfasph7ez4/" data-dfa="dfasph7ez4"></a>Учредители ООО вправе продать или уступить иным образом свою долю (часть доли) другим учредителям Общества, или третьим лицам, если это не&nbsp;запрещено уставом общества (<a data-anchor="/document/16/210246/backlinkanchor73/" type="backlink-anchor"></a><a href="#/document/90/16509/dfas68ngg8/" class="link npd" target="_self" title="" moduleId="90" documentId="16509" anchor="dfas68ngg8">ст.&nbsp;20</a>&nbsp;Закона «Об&nbsp;обществах с&nbsp;ограниченной и&nbsp;дополнительной ответственностью» №&nbsp;310-II от&nbsp;6.12.2001&nbsp;г.).</p><p><a data-anchor="/document/16/210246/bssPhr6/"></a><a data-anchor="/document/16/210246/dfash6o8f7/" data-dfa="dfash6o8f7"></a>Учредитель, решивший продать или уступить свою долю, обязан письменно известить об&nbsp;этом остальных участников и&nbsp;само ООО, с&nbsp;указанием цены и&nbsp;других условий продажи/уступки доли. Остальные учредители имеют первоочередное право на&nbsp;выкуп доли выбывающего учредителя. Если никто из&nbsp;них не&nbsp;изъявит желания приобрести долю, тогда выбывающий учредитель может реализовать свою долю третьим лицам.</p><p><a data-anchor="/document/16/210246/bssPhr7/"></a><a data-anchor="/document/16/210246/dfasaaq9zq/" data-dfa="dfasaaq9zq"></a>При продаже или безвозмездной передаче доли в&nbsp;уставном фонде ООО оформляется письменная сделка <strong>между двумя учредителями</strong>: учредителем, выходящим из&nbsp;Общества, и&nbsp;новым учредителем, покупающим/получающим долю. Если это предусмотрено уставом ООО, то&nbsp;сделка оформляется нотариально (<a data-anchor="/document/16/210246/backlinkanchor74/" type="backlink-anchor"></a><a href="#/document/90/16509/dfas68ngg8/" class="link npd" target="_self" title="" moduleId="90" documentId="16509" anchor="dfas68ngg8">ст.&nbsp;20</a>&nbsp;Закона ЗРУ №&nbsp;310-II от&nbsp;06.12.2001&nbsp;г.).</p><p><a data-anchor="/document/16/210246/bssPhr8/"></a><a data-anchor="/document/16/210246/dfasu4gigk/" data-dfa="dfasu4gigk"></a>Сделки по&nbsp;безвозмездной передаче доли оформляются договором дарения. Договор дарения должен быть оформлен в&nbsp;письменной форме если:</p><ul class="c-list"><li><a data-anchor="/document/16/210246/bssPhr9/"></a><a data-anchor="/document/16/210246/dfaswbq5gi/" data-dfa="dfaswbq5gi"></a>одной из&nbsp;сторон сделки является юрлицо;</li><li>договор заключается между физлицами на&nbsp;сумму более десяти БРВ (<a data-anchor="/document/16/210246/backlinkanchor75/" type="backlink-anchor"></a><a href="#/document/90/21031/dfash0kl1t/" class="link npd" target="_self" title="" moduleId="90" documentId="21031" anchor="dfash0kl1t">ст.&nbsp;502</a>&nbsp;ГК, <a data-anchor="/document/16/210246/backlinkanchor76/" type="backlink-anchor"></a><a href="#/document/90/21031/dfass55588/" class="link npd" target="_self" title="" moduleId="90" documentId="21031" anchor="dfass55588">ст.&nbsp;504</a>&nbsp;ГК).</li></ul><p><a data-anchor="/document/16/210246/bssPhr10/"></a><a data-anchor="/document/16/210246/dfas0e3pda/" data-dfa="dfas0e3pda"></a>Сделки по&nbsp;продаже&nbsp;доли оформляются договором купли-продажи.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210246/bssPhr11/"></a><a data-anchor="/document/16/210246/dfasas94ev/" data-dfa="dfasas94ev"></a>Само ООО не&nbsp;участвует в&nbsp;данных сделках. Поэтому у&nbsp;ООО не&nbsp;возникают доходы или расходы, не&nbsp;возникают активы или обязательства. ООО не&nbsp;выплачивает никакие средства ни&nbsp;одной из&nbsp;сторон сделки и&nbsp;не&nbsp;получает никакие средства ни&nbsp;от&nbsp;одной из&nbsp;сторон.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/210246/bssPhr13/"></a><a data-anchor="/document/16/210246/dfasbzoupu/" data-dfa="dfasbzoupu"></a>У&nbsp;ООО только меняется состав учредителей. При этом размер уставного фонда ООО не&nbsp;меняется.</p><p><a data-anchor="/document/16/210246/bssPhr14/"></a><a data-anchor="/document/16/210246/dfasnd0h8b/" data-dfa="dfasnd0h8b"></a>После государственной регистрации изменений в&nbsp;учредительные документы в&nbsp;бухучете ООО делается проводка:</p><p><a data-anchor="/document/16/210246/bssPhr15/"></a><a data-anchor="/document/16/210246/dfasdplnfr/" data-dfa="dfasdplnfr"></a><strong>Дебет 8330 «Паи и&nbsp;вклады» </strong>(контрагент&nbsp;– выбывающий учредитель)</p><p><a data-anchor="/document/16/210246/bssPhr16/"></a><a data-anchor="/document/16/210246/dfasygwqnh/" data-dfa="dfasygwqnh"></a><strong>Кредит 8330 «Паи и&nbsp;вклады» </strong> (контрагент&nbsp;– новый учредитель).</p><p><a data-anchor="/document/16/210246/bssPhr17/"></a><a data-anchor="/document/16/210246/dfaspsiv3w/" data-dfa="dfaspsiv3w"></a><strong>У&nbsp;ООО, доля в&nbsp;УФ которого продается или дарится, налоговых последствий не&nbsp;возникает. </strong></p><a data-anchor="/document/16/210246/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210246/bssPhr18/"></a><a data-anchor="/document/16/210246/dfas037s5g/" data-dfa="dfas037s5g"></a>Безвозмездная передача доли в&nbsp;УФ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210246/bssPhr20/"></a><a data-anchor="/document/16/210246/dfas0hxocv/" data-dfa="dfas0hxocv"></a>У <strong>учредителя-физлица </strong>налоговых последствий нет.</p><p><a data-anchor="/document/16/210246/bssPhr21/"></a><a data-anchor="/document/16/210246/dfasvptbuc/" data-dfa="dfasvptbuc"></a>У <strong>учредителя-юрлица </strong>возникает доход –&nbsp;безвозмездно полученное имущество. Данный доход включается в&nbsp;состав совокупного дохода при исчислении налога на&nbsp;прибыль (<span num="7" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;10</span>&nbsp;ч.&nbsp;3&nbsp;ст.&nbsp;297&nbsp;НК) или налога с&nbsp;оборота (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;463&nbsp;НК).</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210246/bssPhr23/"></a><a data-anchor="/document/16/210246/dfascybm6r/" data-dfa="dfascybm6r"></a><strong>Учредитель-юрлицо </strong>получает убыток в&nbsp;размере балансовой, номинальной стоимости доли, если инвестиция не&nbsp;переоценивалась. Данный убыток&nbsp;– невычитаемый расход при расчете налога на&nbsp;прибыль (<span num="9" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;18</span>&nbsp;ст.&nbsp;317&nbsp;НК). При этом, убыток, полученный от&nbsp;реализации или иного выбытия доли участия в&nbsp;уставном фонде юридического лица, предприятия как имущественного комплекса, компенсируется за&nbsp;счет доходов, полученных от&nbsp;реализации (выбытия) активов, аналогичных реализованному (выбывшему) (<span num="55" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;336&nbsp;НК).</p><p><a data-anchor="/document/16/210246/bssPhr24/"></a><a data-anchor="/document/16/210246/dfasd6wg1a/" data-dfa="dfasd6wg1a"></a>Безвозмездная передача доли в&nbsp;УФ&nbsp;– оборот по&nbsp;реализации товаров (<span num="10" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;238&nbsp;НК, <span num="11" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;239&nbsp;НК). Однако, данный оборот по&nbsp;реализации освобожден от&nbsp;НДС (<span num="12" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;244&nbsp;НК).</p><p><a data-anchor="/document/16/210246/bssPhr25/"></a><a data-anchor="/document/16/210246/dfasl4hufg/" data-dfa="dfasl4hufg"></a><strong>Учредитель-физлицо</strong> получает доход в&nbsp;виде материальной выгоды, облагаемый НДФЛ (<span num="13" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;376&nbsp;НК). НДФЛ уплачивает учредитель-юрлицо, как налоговый агент (<span num="56" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;386&nbsp;НК, <span num="57" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;387&nbsp;НК).</p><p><a data-anchor="/document/16/210246/bssPhr26/"></a><a data-anchor="/document/16/210246/dfaseamg4t/" data-dfa="dfaseamg4t"></a>Если физлицо, получающее долю, не&nbsp;состоит в&nbsp;трудовых отношениях с&nbsp;выбывающим учредителем-юрлицом (дарителем), даритель вправе не&nbsp;удерживать налог на&nbsp;основании письменного заявления этого физлица. При этом учредитель-физлицо по&nbsp;доходу в&nbsp;виде материальной выгоды обязан подать в&nbsp;налоговую инспекцию декларацию и&nbsp;уплатить НДФЛ самостоятельно в&nbsp;соответствии со <span num="98" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;393</span>&nbsp;НК, а&nbsp;даритель должен подать в&nbsp;ГНИ справку (<span num="58" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;387, <span num="15" target="_self" lnktype="intlnk" title="" class="doc">389</span>, <span num="16" target="_self" lnktype="intlnk" title="" class="doc">390</span>&nbsp;НК, <span num="17" target="_self" lnktype="intlnk" title="" class="doc">глава&nbsp;57</span>&nbsp;НК).</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210246/bssPhr28/"></a><a data-anchor="/document/16/210246/dfasonpe5a/" data-dfa="dfasonpe5a"></a>У <strong>учредителя, передающего долю</strong>, налоговых последствий нет.</p><p><a data-anchor="/document/16/210246/bssPhr29/"></a><a data-anchor="/document/16/210246/dfashto8i0/" data-dfa="dfashto8i0"></a>У <strong>учредителя, получающего долю</strong>, возникает прочий доход, облагаемый НДФЛ (<span num="59" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ст.&nbsp;377&nbsp;НК). Исключение составляет случай, если он&nbsp;является близким родственником дарителя (<span num="60" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;11</span>, <span num="61" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;17</span>&nbsp;ст.&nbsp;<span num="165" target="_blank" lnktype="intlnk" title="" class="doc">378</span>&nbsp;НК). Близкие родственники&nbsp;– это родители, кровные и&nbsp;сводные братья и&nbsp;сестры, супруг (супруга), дети, в&nbsp;том числе усыновленные (удочеренные), дедушки, бабушки, внуки, а&nbsp;также родители супруга (супруги) (<span num="99" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;60&nbsp;НК</span>).</p><p><a data-anchor="/document/16/210246/bssPhr30/"></a><a data-anchor="/document/16/210246/dfasa4rgkh/" data-dfa="dfasa4rgkh"></a>Доход от&nbsp;безвозмездно полученной доли облагается НДФЛ на&nbsp;основании декларации. Он&nbsp;должен подать в&nbsp;налоговую инспекцию декларацию и&nbsp;уплатить НДФЛ самостоятельно (<span num="100" target="_self" lnktype="intlnk" title="" class="doc">глава&nbsp;57&nbsp;НК</span>).</p></div><a data-anchor="/document/16/210246/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210246/bssPhr31/"></a><a data-anchor="/document/16/210246/dfas97f6vr/" data-dfa="dfas97f6vr"></a>Продажа доли в&nbsp;УФ</h2><p><a data-anchor="/document/16/210246/bssPhr32/"></a><a data-anchor="/document/16/210246/dfassk4egu/" data-dfa="dfassk4egu"></a>Учредители ООО вправе продать свою долю по&nbsp;стоимости, оговоренной сторонами, которая может соответствовать как номинальной стоимости доли, так и&nbsp;быть выше или ниже нее.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210246/bssPhr35/"></a><a data-anchor="/document/16/210246/dfasqcy6ih/" data-dfa="dfasqcy6ih"></a>А) Если учредитель-юрлицо продает учредителю-физлицу долю <strong>по&nbsp;номинальной стоимости, то:</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210246/bssPhr36/"></a><a data-anchor="/document/16/210246/dfasesrpl8/" data-dfa="dfasesrpl8"></a>у<strong> учредителя-юрлица </strong>налоговых последствий нет (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ст.&nbsp;304&nbsp;НК);</li><li>у<strong> учредителя-физлица </strong>налоговых последствий нет.</li></ul><p><a data-anchor="/document/16/210246/bssPhr38/"></a><a data-anchor="/document/16/210246/dfaslnglww/" data-dfa="dfaslnglww"></a>Б) Если учредитель-юрлицо продает учредителю-физлицу долю <strong>выше номинальной стоимости</strong>, то:</p><ul class="c-list"><li><a data-anchor="/document/16/210246/bssPhr39/"></a><a data-anchor="/document/16/210246/dfas4vlitt/" data-dfa="dfas4vlitt"></a><strong>у&nbsp;учредителя-физлица</strong> налоговых последствий нет;</li><li><strong>у&nbsp;учредителя-юрлица</strong> возникает доход от&nbsp;реализации&nbsp;– это превышение суммы реализации над номинальной стоимостью. Данный доход включается в&nbsp;состав совокупного дохода при исчислении налога на&nbsp;прибыль (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;27</span>&nbsp;ч.&nbsp;3&nbsp;ст.&nbsp;297&nbsp;НК) или налога с&nbsp;оборота (<span num="20" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;463&nbsp;НК).</li></ul><p><a data-anchor="/document/16/210246/bssPhr40/"></a><a data-anchor="/document/16/210246/dfastuurlw/" data-dfa="dfastuurlw"></a>Доля в&nbsp;УФ юрлица является имущественным правом. В&nbsp;целях налогообложения имущественные права признаются товаром (ч. <span num="21" target="_self" lnktype="intlnk" title="" class="doc">3</span>, <span num="22" target="_self" lnktype="intlnk" title="" class="doc">5</span>&nbsp;ст.&nbsp;45&nbsp;НК). Реализация доли в&nbsp;уставном фонде является оборотом по&nbsp;реализации товаров (<span num="23" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;238&nbsp;НК, <span num="24" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;239&nbsp;НК). Однако, данный оборот как <strong>финансовая </strong>услуга освобожден от&nbsp;НДС (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;244&nbsp;НК).</p><p><a data-anchor="/document/16/210246/bssPhr42/"></a><a data-anchor="/document/16/210246/dfash33f07/" data-dfa="dfash33f07"></a>В) Если учредитель-юрлицо продает учредителю-физлицу долю<strong> ниже номинальной стоимости</strong>:</p><ul class="c-list"><li><a data-anchor="/document/16/210246/bssPhr43/"></a><a data-anchor="/document/16/210246/dfasr1xlt4/" data-dfa="dfasr1xlt4"></a><strong>учредитель-физлицо</strong> получает доход в&nbsp;виде матвыгоды&nbsp;– это разница между номинальной стоимостью и&nbsp;ценой реализации (<span num="66" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;376&nbsp;НК). НДФЛ уплачивает учредитель-юрлицо, как налоговый агент (<span num="67" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;386&nbsp;НК, <span num="68" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;387&nbsp;НК);</li><li><strong>учредитель-юрлицо </strong>получает убыток(разница между ценой реализации и&nbsp;номинальной стоимостью доли). Его не&nbsp;вычитайте при расчете налоговой базы по&nbsp;налогу на&nbsp;прибыль (<span num="26" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;18</span>&nbsp;ст.&nbsp;317&nbsp;НК).</li></ul><p><a data-anchor="/document/16/210246/bssPhr44/"></a><a data-anchor="/document/16/210246/dfas974u11/" data-dfa="dfas974u11"></a>При этом, убыток, полученный от&nbsp;реализации или иного выбытия доли участия в&nbsp;уставном фонде юридического лица, предприятия как имущественного комплекса, компенсируется за&nbsp;счет доходов, полученных от&nbsp;реализации (выбытия) активов, аналогичных реализованному (выбывшему) (<span num="65" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;336&nbsp;НК).</p><p><a data-anchor="/document/16/210246/bssPhr45/"></a><a data-anchor="/document/16/210246/dfasgaz66h/" data-dfa="dfasgaz66h"></a>Если физлицо не&nbsp;состоит в&nbsp;трудовых отношениях с&nbsp;выбывающим учредителем-юрлицом, то&nbsp;учредитель-юрлицо вправе не&nbsp;удерживать налог на&nbsp;основании письменного заявления этого физлица. При этом учредитель-физлицо по&nbsp;доходу в&nbsp;виде материальной выгоды обязан подать в&nbsp;налоговую инспекцию декларацию и&nbsp;уплатить НДФЛ самостоятельно в&nbsp;соответствии со <span num="69" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;393</span>&nbsp;НК, а&nbsp;учредитель-юрлицо должен подать в&nbsp;ГНИ справку (<span num="70" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;387, <span num="34" target="_self" lnktype="intlnk" title="" class="doc">389</span>, <span num="35" target="_self" lnktype="intlnk" title="" class="doc">390</span>&nbsp;НК, <span num="36" target="_self" lnktype="intlnk" title="" class="doc">глава&nbsp;57</span>&nbsp;НК).</p><p><a data-anchor="/document/16/210246/bssPhr46/"></a><a data-anchor="/document/16/210246/dfasyatwny/" data-dfa="dfasyatwny"></a><a data-anchor="/document/16/210246/dfas97tk84/" data-dfa="dfas97tk84"></a>Социального налога нет (<span num="37" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;403, <span num="38" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;404&nbsp;НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какие налоговые последствия возникнут при продаже доли в&#160;УФ учредителем иностранной компанией физлицу-иностранцу по&#160;номинальной стоимости</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210246/bssPhr48/"></a><a data-anchor="/document/16/210246/dfaskvo790/" data-dfa="dfaskvo790"></a>Доходы нерезидентов, не&nbsp;образующих постоянного учреждения в&nbsp;Узбекистане, от&nbsp;реализации доли в&nbsp;уставном фонде юрлиц&nbsp;– резидентов облагаются у&nbsp;источника выплаты доходов (<span num="115" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;5</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;351&nbsp;НК).</p><p><a data-anchor="/document/16/210246/bssPhr49/"></a><a data-anchor="/document/16/210246/dfasg9zv44/" data-dfa="dfasg9zv44"></a>Доходы нерезидента от&nbsp;реализации доли в&nbsp;уставном фонде определяются как превышение суммы реализации имущества над стоимостью его приобретения, подтверждаемой документально. При отсутствии документов, подтверждающих стоимость приобретения имущества, удержание налога налоговым агентом производится исходя из&nbsp;стоимости реализации имущества (<span num="116" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;356&nbsp;НК).</p><p><a data-anchor="/document/16/210246/bssPhr50/"></a><a data-anchor="/document/16/210246/dfasv2beyp/" data-dfa="dfasv2beyp"></a>В&nbsp;данном случае подтверждением номинальной стоимости доли будут учредительные документы.</p><p><a data-anchor="/document/16/210246/bssPhr51/"></a><a data-anchor="/document/16/210246/dfasrmlstd/" data-dfa="dfasrmlstd"></a>При реализации доли в&nbsp;УФ по&nbsp;номинальной стоимости, доход у&nbsp;продавца юрлица не&nbsp;возникает, налоговых последствий нет. У&nbsp;покупателя физлица также налоговых последствий не&nbsp;возникает.</p><p><a data-anchor="/document/16/210246/bssPhr52/"></a><a data-anchor="/document/16/210246/dfasmqb8qm/" data-dfa="dfasmqb8qm"></a>Для предприятия налоговых последствий тоже не&nbsp;возникает, в&nbsp;бухгалтерском учете лишь измените аналитическую часть <strong>счета 8330 «Паи и&nbsp;вклады» </strong> (сумма вклада переводится с&nbsp;субсчета одного учредителя на&nbsp;субсчет другого учредителя).</p></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210246/bssPhr56/"></a><a data-anchor="/document/16/210246/dfas45391o/" data-dfa="dfas45391o"></a>А) Если физлицо продает физлицу долю<strong> по&nbsp;номинальной стоимости, </strong>то&nbsp;налоговых последствий нет ни&nbsp;у <strong>продавца, </strong>ни&nbsp;у<strong> покупателя</strong>.</p><p><a data-anchor="/document/16/210246/bssPhr57/"></a><a data-anchor="/document/16/210246/dfasm5txkc/" data-dfa="dfasm5txkc"></a>Б) Если физлицо продает физлицу долю <strong>выше номинальной стоимости, </strong>то:</p><ul class="c-list"><li><a data-anchor="/document/16/210246/bssPhr58/"></a><a data-anchor="/document/16/210246/dfase07qix/" data-dfa="dfase07qix"></a><strong>физлицо-продавец </strong>получает имущественный доход&nbsp;– превышение суммы реализации доли над стоимостью ее&nbsp;приобретения, который подлежит обложению НДФЛ (<span num="39" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;ст.&nbsp;375&nbsp;НК). НДФЛ продавец уплачивает самостоятельно на&nbsp;основании декларации о&nbsp;доходах (<span num="101" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;393&nbsp;НК</span>);</li><li><strong>у&nbsp;физлица-покупателя</strong> налоговых последствий нет.</li></ul><p><a data-anchor="/document/16/210246/bssPhr59/"></a><a data-anchor="/document/16/210246/dfasepdloh/" data-dfa="dfasepdloh"></a>В) Если физлицо продает физлицу долю <strong>ниже номинальной стоимости, </strong>то:</p><ul class="c-list"><li><a data-anchor="/document/16/210246/bssPhr60/"></a><a data-anchor="/document/16/210246/dfasgbc1xs/" data-dfa="dfasgbc1xs"></a>у <strong>физлица-продавца </strong>налоговых последствий нет;</li><li><strong>у&nbsp;физлица-покупателя </strong>возникает доход в&nbsp;виде материальной выгоды&nbsp;– разница между номинальной стоимостью и&nbsp;ценой реализации, облагаемый НДФЛ (<span num="71" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;376&nbsp;НК). Покупатель уплачивает НДФЛ по&nbsp;декларации (<span num="102" target="_self" lnktype="intlnk" title="" class="doc">гл.&nbsp;57&nbsp;НК</span>).</li></ul><p><a data-anchor="/document/16/210246/bssPhr61/"></a><a data-anchor="/document/16/210246/dfasq0kkr6/" data-dfa="dfasq0kkr6"></a>Если сделка заключена между близкими родственниками, то&nbsp;налоговых последствий у <strong>физлица-покупателя нет </strong>(<span num="43" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;17</span>&nbsp;ст.&nbsp;378&nbsp;НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может&#160;ли узбекская компания или физлицо&#160;&#8211; гражданин РУз приобрести долю в&#160;китайской компании и&#160;каков порядок приобретения</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr63/"></a><a data-anchor="/document/16/210246/dfasd2lvby/" data-dfa="dfasd2lvby"></a>Да, может. Законодательство не&nbsp;содержит запрета для участия граждан Узбекистана в&nbsp;иностранных компаниях.</p><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr64/"></a><a data-anchor="/document/16/210246/dfasa5ar2a/" data-dfa="dfasa5ar2a"></a>Однако обратите внимание, что инвестиционная деятельности за&nbsp;рубежом в&nbsp;сумме, превышающей в&nbsp;эквиваленте 10&nbsp;000 долларов США, формирование (или долевое участие) УФ&nbsp;предприятий за&nbsp;рубежом со&nbsp;счетов резидентов в&nbsp;банках РУз, перевод средств для пополнения оборотными средствами своих филиалов, находящихся за&nbsp;рубежом осуществляется только при наличии решений Президента, Кабмина или международного договора Республики Узбекистан (п.&nbsp;6-1 Положения о&nbsp;порядке осуществления отдельных валютных операций, связанных с&nbsp;движением капитала).</p><p><a data-anchor="/document/16/210246/bssPhr65/"></a><a data-anchor="/document/16/210246/dfaskmn2o8/" data-dfa="dfaskmn2o8"></a>Порядок приобретения доли в&nbsp;иностранном государстве определяет законодательство этого государства.</p></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210246/bssPhr68/"></a><a data-anchor="/document/16/210246/dfasq8lx15/" data-dfa="dfasq8lx15"></a>Если физлицо продает юрлицу долю <strong>по&nbsp;номинальной стоимости</strong>, то&nbsp;налоговых последствий <strong>нет </strong>ни <strong>у&nbsp;продавца</strong>, ни <strong>у&nbsp;покупателя</strong>.<br>Далее рассмотрим последствия при покупке-продаже доли выше номинала или ниже номинала.</p><p><a data-anchor="/document/16/210246/bssPhr70/"></a><a data-anchor="/document/16/210246/dfascgigx3/" data-dfa="dfascgigx3"></a>Если физлицо продает юрлицу долю <strong>выше номинальной стоимости, </strong>то:</p><ul class="c-list"><li><a data-anchor="/document/16/210246/bssPhr71/"></a><a data-anchor="/document/16/210246/dfaskclc6z/" data-dfa="dfaskclc6z"></a>у<strong> физлица </strong>возникает имущественный доход&nbsp;– превышение суммы реализации доли над стоимостью ее&nbsp;приобретения, который подлежит обложению НДФЛ (<span num="44" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;ст.&nbsp;375&nbsp;НК). При этом покупатель-юрлицо, являясь налоговым агентом (<span num="45" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;386&nbsp;НК), должен рассчитать и&nbsp;уплатить НДФЛ за&nbsp;продавца-выбывающего учредителя самостоятельно, а&nbsp;денежные средства за&nbsp;долю выплатить продавцу за&nbsp;вычетом налога;</li><li><strong>у&nbsp;юрлица</strong> налоговых последствий нет.</li></ul><p><a data-anchor="/document/16/210246/bssPhr73/"></a><a data-anchor="/document/16/210246/dfasivz538/" data-dfa="dfasivz538"></a>Если физлицо продает юрлицу долю <strong>ниже номинальной стоимости, </strong>то:</p><ul class="c-list"><li><a data-anchor="/document/16/210246/bssPhr74/"></a><a data-anchor="/document/16/210246/dfask45v2z/" data-dfa="dfask45v2z"></a><strong>у&nbsp;физлица&nbsp;</strong>– налоговых последствий нет;</li><li><strong>у&nbsp;юрлица</strong> возникает доход – это разница между номинальной стоимостью и&nbsp;ценой реализации. Данный доход включается в&nbsp;состав совокупного дохода при исчислении налога на&nbsp;прибыль (<span num="72" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;27</span>&nbsp;ч.&nbsp;3&nbsp;ст.&nbsp;297&nbsp;НК) или налога с&nbsp;оборота (<span num="47" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;463&nbsp;НК).</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Продажа&#160;доли по&#160;номинальной стоимости&#160;юрлицу другого государства</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr76/"></a><a data-anchor="/document/16/210246/dfaszqinrx/" data-dfa="dfaszqinrx"></a>Налоговые последствия для физического лица&nbsp;– учредителя возникают в&nbsp;рамках действия налогового законодательства его страны. Операция по&nbsp;купле-продаже доли учредителем не&nbsp;имеет отношения к&nbsp;деятельности и&nbsp;налогообложению предприятия.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Учредитель&#160;&#8211; физлицо-нерезидент продает&#160;долю&#160;ниже номинальной стоимости иностранному юрлицу или физлицу</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr78/"></a><a data-anchor="/document/16/210246/dfasxgg8tq/" data-dfa="dfasxgg8tq"></a>Если учредитель&nbsp;– нерезидент реализует свою долю иностранному юридическому лицу или иностранному гражданину (резиденту или нерезиденту) <strong>ниже номинальной стоимости </strong>&nbsp;<strong>или безвозмездно</strong>, то&nbsp;в&nbsp;этом случае у&nbsp;продавца не&nbsp;возникает доход.</p><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr79/"></a><a data-anchor="/document/16/210246/dfas8hs4s9/" data-dfa="dfas8hs4s9"></a>Документальным подтверждением номинальной стоимости доли служат учредительные документы&nbsp;– учредительный договор, устав, если учредитель первоначально вносил свою долю в&nbsp;уставный фонд.</p><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr80/"></a><a data-anchor="/document/16/210246/dfas7h1p4m/" data-dfa="dfas7h1p4m"></a>Покупатель&nbsp;– иностранное юридическое или физическое лицо, резидент или нерезидент РУз будет налоговым агентом и&nbsp;должен представить налоговую отчетность по&nbsp;данной операции (<span num="139" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;356</span>&nbsp;НК).</p><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr81/"></a><a data-anchor="/document/16/210246/dfass9qila/" data-dfa="dfass9qila"></a>В&nbsp;Налоговом кодексе не&nbsp;предусмотрен механизм обложения дохода по&nbsp;безвозмездно полученной доле нерезидентами РУз (иностранное юридическое или физическое лицо). По&nbsp;данному вопросу обратитесь в&nbsp;Налоговый комитет.</p><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr82/"></a><a data-anchor="/document/16/210246/dfasvo20r8/" data-dfa="dfasvo20r8"></a>Если долю безвозмездно получает резидент РУз (физическое лицо РУз или иностранного государства), то&nbsp;у&nbsp;данного резидента РУз возникает имущественный доход, который подлежит обложению НДФЛ на&nbsp;основании декларации о&nbsp;совокупном годовом доходе (<span num="140" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;393</span>&nbsp;НК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какие налоговые последствия возникают при продаже учредителем&#160;&#8211; иностранным физлицом-резидентом РУз своей доли выше номинальной стоимости юрлицу РУз или физлицу-резиденту РУз</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr84/"></a><a data-anchor="/document/16/210246/dfas3n4qmg/" data-dfa="dfas3n4qmg"></a>Если иностранное физическое лицо&nbsp;– резидент РУз реализует свою долю <strong>выше номинальной стоимости юридическому лицу РУз или физическому лицу-резиденту РУз, </strong>то&nbsp;у&nbsp;продавца-физлица возникает имущественный доход (<span num="141" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;ст.&nbsp;375&nbsp;НК). Доход от&nbsp;реализации имущества определяют как превышение суммы реализации над стоимостью его приобретения&nbsp;– номинальной стоимостью, если учредитель первоначально вносил свою долю в&nbsp;уставный фонд, подтвержденной документально.</p><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr85/"></a><a data-anchor="/document/16/210246/dfasm1sst3/" data-dfa="dfasm1sst3"></a>Документальным подтверждением номинальной стоимости доли служат учредительные документы&nbsp;– учредительный договор, устав.</p><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr86/"></a><a data-anchor="/document/16/210246/dfascquu8p/" data-dfa="dfascquu8p"></a>Имущественные доходы, если они не&nbsp;обложены у&nbsp;источника выплаты, подлежат обложению НДФЛ на&nbsp;основании декларации о&nbsp;совокупном годовом доходе (<span num="142" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;393</span>&nbsp;НК).</p><p style="text-align:left"><a data-anchor="/document/16/210246/bssPhr87/"></a><a data-anchor="/document/16/210246/dfasb8igt6/" data-dfa="dfasb8igt6"></a>Если долю приобретает юридическое лицо РУз, то&nbsp;при выплате имущественного дохода (реализация доли в&nbsp;уставном фонде) налоговый агент&nbsp;– юридическое лицо РУз обязан удержать НДФЛ по&nbsp;ставке&nbsp;12 процентов.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какими проводками ООО должно отразить продажу доли в&#160;своем&#160;УФ</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210246/bssPhr89/"></a><a data-anchor="/document/16/210246/dfasmlv7s8/" data-dfa="dfasmlv7s8"></a>Само ООО не&nbsp;участвует в&nbsp;данной сделке. Поэтому у&nbsp;ООО не&nbsp;возникают доходы или расходы, не&nbsp;появляются дополнительные активы или обязательства. ООО не&nbsp;выплачивает никакие средства ни&nbsp;одной из&nbsp;сторон сделки и&nbsp;не&nbsp;получает ни&nbsp;от&nbsp;одной из&nbsp;сторон никакие средства.</p><p><a data-anchor="/document/16/210246/bssPhr90/"></a><a data-anchor="/document/16/210246/dfas45fkey/" data-dfa="dfas45fkey"></a>У&nbsp;ООО только меняются учредители, налоговых последствий для него нет.</p><p><a data-anchor="/document/16/210246/bssPhr91/"></a><a data-anchor="/document/16/210246/dfas05f6ud/" data-dfa="dfas05f6ud"></a>Основанием для отражения в&nbsp;бухучете смены учредителей являются учредительные документы.</p><p><a data-anchor="/document/16/210246/bssPhr92/"></a><a data-anchor="/document/16/210246/dfasof9wx9/" data-dfa="dfasof9wx9"></a>После государственной регистрации изменений в&nbsp;учредительные документы в&nbsp;бухучете ООО сделайте проводку:</p><p><a data-anchor="/document/16/210246/bssPhr93/"></a><a data-anchor="/document/16/210246/dfass4oo6l/" data-dfa="dfass4oo6l"></a><strong>Дебет 8330 «Паи и&nbsp;вклады»</strong>, выбывающий учредитель</p><p><a data-anchor="/document/16/210246/bssPhr94/"></a><a data-anchor="/document/16/210246/dfas6r97xp/" data-dfa="dfas6r97xp"></a><strong>Кредит 8330 «Паи и&nbsp;вклады»</strong>, новый учредитель.</p></div></div></div><p><a data-anchor="/document/16/210246/dfas54uama/" data-dfa="dfas54uama"></a><a data-anchor="/document/16/210246/bssPhr95/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882120" sourceId="1" fullSizeImageId="-41882119" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882120/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

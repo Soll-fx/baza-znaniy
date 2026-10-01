@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассчитать акцизный налог, уплачиваемый при ввозе подакцизных товаров</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203527/dfasrtronr/" data-dfa="dfasrtronr"></a><a data-anchor="/document/16/203527/bssPhr1/"></a>Плательщики акцизного налога – юридические и физические лица, которые импортируют подакцизные товары на таможенную территорию.</p><p><a data-anchor="/document/16/203527/dfas1ngkig/" data-dfa="dfas1ngkig"></a><a data-anchor="/document/16/203527/bssPhr2/"></a>Объект обложения – импорт на таможенную территорию подакцизных товаров.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203527/dfas0gybtn/" data-dfa="dfas0gybtn"></a><a data-anchor="/document/16/203527/bssPhr10/"></a>Не облагается акцизным налогом импорт подакцизных товаров, ввозимых:</p><ul class="c-list"><li><a data-anchor="/document/16/203527/bssPhr11/"></a><a data-anchor="/document/16/203527/dfasgk53cw/" data-dfa="dfasgk53cw"></a>в целях благотворительной и гуманитарной помощи;</li><li>физлицами в пределах норм ввоза товаров, которые не облагаются акцизным налогом. Предельные нормы ввоза утверждены <span title="ПОСТАНОВЛЕНИЕ от 6 февраля 2018 года № ПП-3512 О мерах по дальнейшему упорядочению перемещения товаров физическими лицами через таможенную границу" num="1" lnktype="intlnk" class="doc">ПП-3512</span> от 6.02. 2018 г. В случае ввоза физлицами подакцизных товаров в объемах, превышающих предельные нормы безакцизного ввоза, налогообложение таких товаров производится в общеустановленном порядке.</li></ul><p><a data-anchor="/document/16/203527/bssPhr12/"></a><a data-anchor="/document/16/203527/dfasvom09k/" data-dfa="dfasvom09k"></a>Конкретный перечень товаров, по которым предусмотрены льготы по акцизному налогу при их ввозе, установлен в <span title="Статья 211. Импорт, освобождаемый от налога" num="3" lnktype="intlnk" class="doc">статье 211</span> НК.</p><p><a data-anchor="/document/16/203527/dfas91gdfg/" data-dfa="dfas91gdfg"></a><a data-anchor="/document/16/203527/bssPhr13/"></a>Перечень подакцизных товаров, как производимых, так и импортируемых на таможенную территорию, а также ставки акцизного налога ежегодно устанавливаются решением Президента.</p><p><a data-anchor="/document/16/203527/bssPhr14/"></a><a data-anchor="/document/16/203527/dfasp3qekh/" data-dfa="dfasp3qekh"></a><a data-anchor="/document/16/203527/dfas8ggg8s/" data-dfa="dfas8ggg8s"></a><a data-anchor="/document/16/203527/dfas3gm62q/" data-dfa="dfas3gm62q"></a><a data-anchor="/document/16/203527/dfas41kp4t/" data-dfa="dfas41kp4t"></a><a data-anchor="/document/16/203527/dfasgo8mgu/" data-dfa="dfasgo8mgu"></a>В случае ввоза физическими лицами подакцизных товаров в объемах, превышающих предельные нормы без акцизного ввоза, налогообложение таких товаров производится в общеустановленном порядке. </p><p><a data-anchor="/document/16/203527/bssPhr15/"></a><a data-anchor="/document/16/203527/dfashguyon/" data-dfa="dfashguyon"></a>Конкретный перечень товаров, по которым предусмотрены льготы по акцизному налогу при их ввозе, установлен в НК.</p></div><a data-anchor="/document/16/203527/bssPhr3/"></a><a data-anchor="/document/16/203527/tit0/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203527/dfasgztm33/" data-dfa="dfasgztm33"></a><a data-anchor="/document/16/203527/dfasd9gvie/" data-dfa="dfasd9gvie"></a><a data-anchor="/document/16/203527/dfas5z2fpg/" data-dfa="dfas5z2fpg"></a><a data-anchor="/document/16/203527/dfas6c0zer/" data-dfa="dfas6c0zer"></a><a data-anchor="/document/16/203527/dfasl049mv/" data-dfa="dfasl049mv"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Виды ставок при расчете акцизного налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203527/dfas5nef7p/" data-dfa="dfas5nef7p"></a><a data-anchor="/document/16/203527/bssPhr19/"></a>Для расчета таможенных пошлин применяют следующие виды ставок:</p><p><a data-anchor="/document/16/203527/bssPhr20/"></a><a data-anchor="/document/16/203527/dfasezqoot/" data-dfa="dfasezqoot"></a>1. Адвалорная ставка начисляется в процентах к таможенной стоимости облагаемого товара. Сумма таможенных платежей по товару, в отношении которого установлена адвалорная ставка, исчисляется как произведение адвалорной ставки таможенных платежей на таможенную стоимость товара.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203527/dfas59fzry/" data-dfa="dfas59fzry"></a><a data-anchor="/document/16/203527/bssPhr21/"></a>таможенная стоимость завозимого товара 35 тыс. долларов США, что в пересчете на национальную валюту составляет 280 млн сумов</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203527/bssPhr22/"></a><a data-anchor="/document/16/203527/dfastcubv9/" data-dfa="dfastcubv9"></a><a data-anchor="/document/16/203527/dfas408may/" data-dfa="dfas408may"></a>Сумма таможенной пошлины при применении адвалорной ставки 15 процентов составит 42 млн сумов. Она исчисляется по формуле:</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr align="center"><td><p align="center"><a data-anchor="/document/16/203527/dfasr8b9oe/" data-dfa="dfasr8b9oe"></a><a data-anchor="/document/16/203527/bssPhr23/"></a>Таможенная стоимость</p></td><td><p align="center"><a data-anchor="/document/16/203527/dfasdd9zgm/" data-dfa="dfasdd9zgm"></a><a data-anchor="/document/16/203527/bssPhr24/"></a>×</p></td><td><p align="center"><a data-anchor="/document/16/203527/dfasv35lgb/" data-dfa="dfasv35lgb"></a><a data-anchor="/document/16/203527/bssPhr25/"></a>Ставка</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><p><a data-anchor="/document/16/203527/bssPhr26/"></a><a data-anchor="/document/16/203527/dfas1tcn0b/" data-dfa="dfas1tcn0b"></a>2. Специфическая ставка начисляется в установленном размере за единицу облагаемого товара. Сумма таможенных платежей по товару, в отношении которого установлена специфическая ставка, исчисляется как произведение специфической ставки таможенных платежей на количество товара.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203527/dfasa93pem/" data-dfa="dfasa93pem"></a><a data-anchor="/document/16/203527/bssPhr27/"></a>юрлицо завозит сигары. По этому виду товара специфическая ставка акцизного налога составляет – 0,42 долларов США за 1 штуку </name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203527/bssPhr28/"></a><a data-anchor="/document/16/203527/dfasdu4bpe/" data-dfa="dfasdu4bpe"></a><a data-anchor="/document/16/203527/dfas9kzxcn/" data-dfa="dfas9kzxcn"></a>Завезено 10 тыс. пачек (по 5 штук в пачке). Общее количество завезенных сигар составляет 50 тыс. штук. Сумма акцизного налога при применении специфической ставки составит 21 тыс. долларов США (50 тыс. штук × 0,42 долларов США), или в пересчете на национальную валюту – 168 млн сумов (курс доллара США на момент оформления ГТД составлял 8000 тыс. сумов).</p></div></div><p><a data-anchor="/document/16/203527/bssPhr29/"></a><a data-anchor="/document/16/203527/dfasz13km2/" data-dfa="dfasz13km2"></a>3. Комбинированная ставка<b> </b>сочетает адвалорную и специфическую. При применении комбинированной ставки пошлина устанавливается в процентах от таможенной стоимости облагаемых товаров, но не менее установленной суммы за единицу товара. </p><p><a data-anchor="/document/16/203527/bssPhr30/"></a><a data-anchor="/document/16/203527/dfasyc5cge/" data-dfa="dfasyc5cge"></a>В некоторых случаях при применении комбинированной ставки расчет таможенной пошлины производится отдельно по адвалорной и специфической ставкам, и таможенная пошлина уплачивается по наибольшей сумме.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203527/dfas45ax97/" data-dfa="dfas45ax97"></a><a data-anchor="/document/16/203527/bssPhr31/"></a>предприятие розничной торговли завозит для реализации на внутреннем рынке пылесосы. Контрактная стоимость единицы завозимого товара составляет 90 долларов США. Таможенная стоимость, которую установили таможенные органы, – 120 долларов США за единицу. Общее количество завозимых пылесосов – 300. Курс доллара США на момент оформления ГТД составлял 8000 тыс. сумов</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203527/bssPhr32/"></a><a data-anchor="/document/16/203527/dfas28y4x6/" data-dfa="dfas28y4x6"></a><a data-anchor="/document/16/203527/dfasrgxm0t/" data-dfa="dfasrgxm0t"></a>Для расчета таможенных платежей применятся таможенная стоимость товара, пересчитанная в национальную валюту, – 288 млн сумов на весь объем завезенного товара. </p><p><a data-anchor="/document/16/203527/bssPhr33/"></a><a data-anchor="/document/16/203527/dfasyk402c/" data-dfa="dfasyk402c"></a>Ставка акцизного налога утверждена в размере 20 процентов, но не менее 15 долларов США за штуку. Чтобы определить сумму налога для уплаты в бюджет, определите акцизный налог с применением адвалорной и специфической ставок.</p><p><a data-anchor="/document/16/203527/bssPhr34/"></a><a data-anchor="/document/16/203527/dfasvu4gd4/" data-dfa="dfasvu4gd4"></a>Акцизный налог по адвалорной ставке составляет:</p><p><a data-anchor="/document/16/203527/bssPhr35/"></a><a data-anchor="/document/16/203527/dfaszlcdmc/" data-dfa="dfaszlcdmc"></a>– на единицу товара: <br><a data-anchor="/document/16/203527/dfas47q8yo/" data-dfa="dfas47q8yo"></a>120 × 8000 × 20% = 192 тыс. сумов</p><p><a data-anchor="/document/16/203527/bssPhr36/"></a><a data-anchor="/document/16/203527/dfaswp4rms/" data-dfa="dfaswp4rms"></a>– на весь объем завезенного товара:<br><a data-anchor="/document/16/203527/dfasgmkb3q/" data-dfa="dfasgmkb3q"></a>57,6 млн сумов = (288 × 20%), либо (192 × 300).</p><p><a data-anchor="/document/16/203527/bssPhr37/"></a><a data-anchor="/document/16/203527/dfas1ar3a1/" data-dfa="dfas1ar3a1"></a>Акцизный налог по специфической ставке:</p><p><a data-anchor="/document/16/203527/bssPhr38/"></a><a data-anchor="/document/16/203527/dfas09yxsh/" data-dfa="dfas09yxsh"></a>– на единицу товара:<br><a data-anchor="/document/16/203527/dfasq7a27g/" data-dfa="dfasq7a27g"></a>15 × 8000 = 120 тыс. сумов</p><p><a data-anchor="/document/16/203527/bssPhr39/"></a><a data-anchor="/document/16/203527/dfaso9k5fi/" data-dfa="dfaso9k5fi"></a>– на весь объем завезенного товара:<br><a data-anchor="/document/16/203527/dfas6gics8/" data-dfa="dfas6gics8"></a>120 ×300 = 36 млн сумов.</p><p><a data-anchor="/document/16/203527/bssPhr40/"></a><a data-anchor="/document/16/203527/dfashgpmzi/" data-dfa="dfashgpmzi"></a>Сумма налога по адвалорной ставке больше, чем по специфической. Поэтому в бюджет уплачивается акцизный налог – 57,6 млн сумов, то есть сумма налога равна наибольшей из сумм по двум ставкам.</p><p><a data-anchor="/document/16/203527/bssPhr41/"></a><a data-anchor="/document/16/203527/dfasexxk6d/" data-dfa="dfasexxk6d"></a>В некоторых случаях при применении комбинированной ставки к процентам от таможенной стоимости прибавляют ставку установленного размера за единицу облагаемого товара. В этом случае таможенные платежи равны сумме, платежей, исчисленных по адвалорной и специфической ставкам. </p><p><a data-anchor="/document/16/203527/bssPhr42/"></a><a data-anchor="/document/16/203527/dfase8x3vx/" data-dfa="dfase8x3vx"></a>При этом методе применения комбинированной ставки сумма акцизного налога исчисляется по следующей формуле: </p><p><a data-anchor="/document/16/203527/bssPhr43/"></a><a data-anchor="/document/16/203527/dfasggnbp4/" data-dfa="dfasggnbp4"></a>А = К × Сс +Тс × Са</p><p><a data-anchor="/document/16/203527/bssPhr44/"></a><a data-anchor="/document/16/203527/dfasgnu2w6/" data-dfa="dfasgnu2w6"></a>где:<br>А – сумма акцизного налога; <br>К – количество завезенного товара;<br>Сс – специфическая ставка; <br>Тс – таможенная стоимость завозимого товара;<br>Са – адвалорная ставка.</p><p><a data-anchor="/document/16/203527/bssPhr45/"></a><a data-anchor="/document/16/203527/dfasdehmgv/" data-dfa="dfasdehmgv"></a>Сумма налога по подакцизным товарам с комбинированными ставками – это результат сложения сумм акциза, исчисленных по специфической твердой и адвалорной ставкам.</p><p><a data-anchor="/document/16/203527/bssPhr46/"></a><a data-anchor="/document/16/203527/dfasnxtay9/" data-dfa="dfasnxtay9"></a>Если по этому методу исчислить акцизный налог, его сумма составит 96,6 млн сумов (57,6 млн сумов + 36,0 млн сумов). </p></div></div><p></p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

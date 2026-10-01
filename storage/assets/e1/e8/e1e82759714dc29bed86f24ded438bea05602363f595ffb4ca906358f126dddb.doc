@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Работники, которые имеют право на отпуск в любое удобное для них время</h2><div class="doc-snippet"><a data-anchor="/document/16/211565/dfasgbia1d/" data-dfa="dfasgbia1d"></a><a data-anchor="/document/16/211565/bssPhr2/"></a>В&nbsp;справочнике&nbsp;— перечень работников, которые имеют право на&nbsp;отпуск в&nbsp;удобное для них время.&nbsp; </div><div id="documentBody" class="content-common"><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><thead><tr><th class="bdAll" style="width: 41.09%;"><p style="text-align:center"><a data-anchor="/document/16/211565/bssPhr3/"></a><a data-anchor="/document/16/211565/dfas07c0f8/" data-dfa="dfas07c0f8"></a><strong>Категория работников</strong></p></th><th class="bdTop bdBottom bdRight" style="width: 30.71%;"><p style="text-align:center"><a data-anchor="/document/16/211565/bssPhr4/"></a><a data-anchor="/document/16/211565/dfaseb54hq/" data-dfa="dfaseb54hq"></a><strong>Основание</strong></p></th><th class="bdTop bdBottom bdRight" style="width: 28%;"><p style="text-align:center"><a data-anchor="/document/16/211565/bssPhr5/"></a><a data-anchor="/document/16/211565/dfascgthrq/" data-dfa="dfascgthrq"></a><strong>Документ, который подтверждает льготу</strong></p></th></tr></thead><tbody><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr6/"></a><a data-anchor="/document/16/211565/dfaslu6kgo/" data-dfa="dfaslu6kgo"></a><a data-anchor="/document/16/211565/backlinkanchor2/" type="backlink-anchor"></a><a href="#/document/16/207001" target="_self" title="" data-warm-notices="42176302" data-warm-notice-type="error" moduleId="16" documentId="207001" class="link ">Несовершеннолетние</a></p></td><td class="bdBottombdRight" style="width: 30.71%;"><p><a data-anchor="/document/16/211565/bssPhr7/"></a><a data-anchor="/document/16/211565/dfaso0umcc/" data-dfa="dfaso0umcc"></a><a data-anchor="/document/16/211565/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/21678/dfas9e3yyd/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfas9e3yyd">Абз. 7</a>&nbsp;ч.&nbsp;4&nbsp;ст.&nbsp;228&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 28%;"><p><a data-anchor="/document/16/211565/bssPhr8/"></a><a data-anchor="/document/16/211565/dfassrmtis/" data-dfa="dfassrmtis"></a>Паспорт либо свидетельство о&nbsp;рождении работника</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr9/"></a><a data-anchor="/document/16/211565/dfas8xvero/" data-dfa="dfas8xvero"></a>Родители, в&nbsp;том числе приемные, опекуны или попечители, которые воспитывают ребенка с&nbsp;инвалидностью в&nbsp;возрасте до&nbsp;16&nbsp;лет</p></td><td class="bdBottombdRight" style="width: 30.71%;"><p><a data-anchor="/document/16/211565/bssPhr10/"></a><a data-anchor="/document/16/211565/dfas8xv06c/" data-dfa="dfas8xv06c"></a><a data-anchor="/document/16/211565/backlinkanchor4/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasmpvgoq/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasmpvgoq">Абз.&nbsp;4</a>&nbsp;ч.&nbsp;4&nbsp;ст.&nbsp;228&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 28%;"><p><a data-anchor="/document/16/211565/bssPhr11/"></a><a data-anchor="/document/16/211565/dfasxsycux/" data-dfa="dfasxsycux"></a>Свидетельство о&nbsp;рождении ребенка, справка, подтверждающая инвалидность</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr12/"></a><a data-anchor="/document/16/211565/dfasqv2xes/" data-dfa="dfasqv2xes"></a>Работники, которые награждены знаками «Почетный донор Республики Узбекистан»</p></td><td class="bdBottombdRight" style="width: 30.71%;"><p><a data-anchor="/document/16/211565/bssPhr13/"></a><a data-anchor="/document/16/211565/dfasvgx3mb/" data-dfa="dfasvgx3mb"></a><a data-anchor="/document/16/211565/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasaczsfw/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasaczsfw">Абз.&nbsp;9</a>&nbsp;ч.&nbsp;4&nbsp;ст.&nbsp;228&nbsp;ТК,<br><a data-anchor="/document/16/211565/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/90/8591/dfastpcz7n/" class="link npd" target="_self" title="" moduleId="90" documentId="8591" anchor="dfastpcz7n">пп.&nbsp;б</a> п.&nbsp;4 № ПП-348 от&nbsp;09.08.2022</p></td><td class="bdBottombdRight" style="width: 28%;"><p><a data-anchor="/document/16/211565/bssPhr14/"></a><a data-anchor="/document/16/211565/dfasxp9aum/" data-dfa="dfasxp9aum"></a>Удостоверение почетного донора</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr15/"></a><a data-anchor="/document/16/211565/dfasb07pqe/" data-dfa="dfasb07pqe"></a>Беременные перед или после <a data-anchor="/document/16/211565/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/16/221408" target="_self" title="" data-warm-notices="42176303" data-warm-notice-type="error" moduleId="16" documentId="221408" class="link ">отпуска по&nbsp;беременности и&nbsp;родам</a>.</p><p><a data-anchor="/document/16/211565/bssPhr16/"></a><a data-anchor="/document/16/211565/dfaskrgd56/" data-dfa="dfaskrgd56"></a>До&nbsp;или после <a data-anchor="/document/16/211565/backlinkanchor16/" type="backlink-anchor"></a><a href="#/document/16/221479" target="_self" title="" data-warm-notices="42176304" data-warm-notice-type="error" moduleId="16" documentId="221479" class="link ">отпуска по&nbsp;уходу за&nbsp;ребенком</a></p></td><td class="bdBottombdRight" style="width: 30.71%;"><p><a data-anchor="/document/16/211565/bssPhr17/"></a><a data-anchor="/document/16/211565/dfaski2vn2/" data-dfa="dfaski2vn2"></a>Абз. <a data-anchor="/document/16/211565/backlinkanchor6/" type="backlink-anchor"></a><a href="#/document/90/21678/dfas244y1w/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfas244y1w">2</a>, <a data-anchor="/document/16/211565/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasf7ge4o/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasf7ge4o">3</a>&nbsp;ч.&nbsp;4&nbsp;ст.&nbsp;228&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 28%;"><p><a data-anchor="/document/16/211565/bssPhr18/"></a><a data-anchor="/document/16/211565/dfastv3cq9/" data-dfa="dfastv3cq9"></a>Справка о&nbsp;беременности, больничный, выданный в&nbsp;связи с&nbsp;отпуском по&nbsp;беременности и&nbsp;родам</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr19/"></a><a data-anchor="/document/16/211565/dfasagtk3m/" data-dfa="dfasagtk3m"></a>Работники, которые в&nbsp;одиночку воспитывают одного и&nbsp;более детей в&nbsp;возрасте до&nbsp;14&nbsp;лет</p></td><td class="bdBottombdRight" style="width: 30.71%;"><p><a data-anchor="/document/16/211565/bssPhr20/"></a><a data-anchor="/document/16/211565/dfaso1bxo6/" data-dfa="dfaso1bxo6"></a><a data-anchor="/document/16/211565/backlinkanchor8/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasmpvgoq/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasmpvgoq">Абз.&nbsp;4</a>&nbsp;ч.&nbsp;4&nbsp;ст.&nbsp;228&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 28%;"><p><a data-anchor="/document/16/211565/bssPhr21/"></a><a data-anchor="/document/16/211565/dfas2m1are/" data-dfa="dfas2m1are"></a>Свидетельства о&nbsp;рождении детей</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr22/"></a><a data-anchor="/document/16/211565/dfasa3rvv5/" data-dfa="dfasa3rvv5"></a>Супруг, который хочет воспользоваться отпуском во&nbsp;время отпуска по&nbsp;беременности и&nbsp;родам его жены</p></td><td class="bdBottombdRight" style="width: 30.71%;"><p><a data-anchor="/document/16/211565/bssPhr23/"></a><a data-anchor="/document/16/211565/dfasztdik6/" data-dfa="dfasztdik6"></a><a data-anchor="/document/16/211565/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/21678/dfas68t4hh/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfas68t4hh">Ч. 5</a>&nbsp;ст.&nbsp;228&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 28%;"><p><a data-anchor="/document/16/211565/bssPhr24/"></a><a data-anchor="/document/16/211565/dfashumwas/" data-dfa="dfashumwas"></a>Справка о&nbsp;беременности, копия больничного, который выдан для оформления отпуска по&nbsp;беременности и&nbsp;родам</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr25/"></a><a data-anchor="/document/16/211565/dfas7ri30v/" data-dfa="dfas7ri30v"></a>Жены военнослужащего срочной военной службы, которая хочет уйти в&nbsp;отпуск одновременно с&nbsp;отпуском супруга</p></td><td class="bdBottombdRight" style="width: 30.71%;"><p><a data-anchor="/document/16/211565/bssPhr26/"></a><a data-anchor="/document/16/211565/dfasnxqgfz/" data-dfa="dfasnxqgfz"></a><a data-anchor="/document/16/211565/backlinkanchor10/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasmpvgoq/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasmpvgoq">Абз.&nbsp;4</a>&nbsp;ч.&nbsp;4&nbsp;ст.&nbsp;228&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 28%;"><p><a data-anchor="/document/16/211565/bssPhr27/"></a><a data-anchor="/document/16/211565/dfasvtwa6i/" data-dfa="dfasvtwa6i"></a>Справка с&nbsp;места службы, выписка из&nbsp;графика отпусков супруга</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr28/"></a><a data-anchor="/document/16/211565/dfaso8h3lg/" data-dfa="dfaso8h3lg"></a>Военнослужащие-супруги, проходящие военную службу по&nbsp;контракту</p></td><td class="bdBottombdRight" style="width: 30.71%;"><a data-anchor="/document/16/211565/bssPhr29/"></a><a data-anchor="/document/16/211565/dfas8go24y/" data-dfa="dfas8go24y"></a><a data-anchor="/document/16/211565/backlinkanchor21/" type="backlink-anchor"></a><a href="#/document/90/21398/dfasx9wvo4/" class="link npd" target="_self" title="" moduleId="90" documentId="21398" anchor="dfasx9wvo4">п.&nbsp;262</a> Положения (приложение №&nbsp;1&nbsp;к постановлению Президента от&nbsp;12.09.2019 № ПП-4447)</td><td class="bdBottombdRight" style="width: 28%;"><a data-anchor="/document/16/211565/bssPhr30/"></a><a data-anchor="/document/16/211565/dfaswbckam/" data-dfa="dfaswbckam"></a>Выписка из&nbsp;графика отпусков супруга</td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr31/"></a><a data-anchor="/document/16/211565/dfas39r8ue/" data-dfa="dfas39r8ue"></a>Участники войны 1941&nbsp;— 1945 годов и&nbsp;приравненным к&nbsp;ним по&nbsp;льготам лицам</p></td><td class="bdBottombdRight" style="width: 30.71%;"><p><a data-anchor="/document/16/211565/bssPhr32/"></a><a data-anchor="/document/16/211565/dfasdr2gg2/" data-dfa="dfasdr2gg2"></a><a data-anchor="/document/16/211565/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasolu80b/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasolu80b">Абз.&nbsp;6</a>&nbsp;ч.&nbsp;4&nbsp;ст.&nbsp;228&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 28%;"><p><a data-anchor="/document/16/211565/bssPhr33/"></a><a data-anchor="/document/16/211565/dfasxr1ybh/" data-dfa="dfasxr1ybh"></a>Удостоверение ветерана</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><a data-anchor="/document/16/211565/bssPhr34/"></a>Работники с&nbsp;инвалидностью<p><a data-anchor="/document/16/211565/bssPhr35/"></a><a data-anchor="/document/16/211565/dfasxngeuv/" data-dfa="dfasxngeuv"></a><a data-anchor="/document/16/211565/dfas0smxia/" data-dfa="dfas0smxia"></a>I&nbsp;и&nbsp;II групп</p></td><td class="bdBottombdRight" style="width: 30.71%;"><a data-anchor="/document/16/211565/bssPhr36/"></a><a data-anchor="/document/16/211565/dfasnged6h/" data-dfa="dfasnged6h"></a><a data-anchor="/document/16/211565/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/21678/dfaslfmbxt/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfaslfmbxt">Абз.&nbsp;5</a>&nbsp;ч.&nbsp;4&nbsp;ст.&nbsp;228&nbsp;ТК</td><td class="bdBottombdRight" style="width: 28%;"><a data-anchor="/document/16/211565/bssPhr37/"></a><a data-anchor="/document/16/211565/dfasbmh67q/" data-dfa="dfasbmh67q"></a>Удостоверение об&nbsp;инвалидности</td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr38/"></a><a data-anchor="/document/16/211565/dfas27lymh/" data-dfa="dfas27lymh"></a>Работники, заболевшие и&nbsp;перенесшие лучевую болезнь, и&nbsp;инвалиды</p></td><td class="bdBottombdRight" style="width: 30.71%;"><p><a data-anchor="/document/16/211565/bssPhr39/"></a><a data-anchor="/document/16/211565/dfasw07grh/" data-dfa="dfasw07grh"></a><a data-anchor="/document/16/211565/backlinkanchor12/" type="backlink-anchor"></a><a href="#/document/90/10917/dfasolg8sd/" class="link npd" target="_self" title="" moduleId="90" documentId="10917" anchor="dfasolg8sd">П. 14</a>&nbsp;ч. II&nbsp;Перечня (приложение к&nbsp;постановлению ПВС и&nbsp;Кабмина от&nbsp;06.04.1992 №&nbsp;170)</p></td><td class="bdBottombdRight" style="width: 28%;"><p><a data-anchor="/document/16/211565/bssPhr40/"></a><a data-anchor="/document/16/211565/dfasm9wg0z/" data-dfa="dfasm9wg0z"></a>Удостоверение гражданина, который подвергся воздействию радиации вследствие катастрофы на&nbsp;Чернобыльской АЭС, удостоверение об&nbsp;инвалидности</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr41/"></a><a data-anchor="/document/16/211565/dfasn2g9tn/" data-dfa="dfasn2g9tn"></a>Работники, которые претендуют на&nbsp;отпуск за&nbsp;первый рабочий год, при намерении работодателя включить их&nbsp;в&nbsp;график</p></td><td class="bdBottombdRight" style="width: 30.71%;"><p><a data-anchor="/document/16/211565/bssPhr42/"></a><a data-anchor="/document/16/211565/dfasrru003/" data-dfa="dfasrru003"></a><a data-anchor="/document/16/211565/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/21678/dfaspvphb8/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfaspvphb8">Ст.&nbsp;227</a>&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 28%;"><p><a data-anchor="/document/16/211565/bssPhr43/"></a><a data-anchor="/document/16/211565/dfasbp6exc/" data-dfa="dfasbp6exc"></a>Приказ о&nbsp;приеме на&nbsp;работу, график отпусков</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr44/"></a><a data-anchor="/document/16/211565/dfaszdrgbz/" data-dfa="dfaszdrgbz"></a>Совместители, проработавшие менее шести месяцев</p></td><td class="bdBottombdRight" style="width: 30.71%;"><a data-anchor="/document/16/211565/bssPhr45/"></a><a data-anchor="/document/16/211565/dfas6zkmm1/" data-dfa="dfas6zkmm1"></a><a data-anchor="/document/16/211565/backlinkanchor23/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasg8dexq/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasg8dexq">ч.&nbsp;5</a>&nbsp;ст.227&nbsp;ТК</td><td class="bdBottombdRight" style="width: 28%;"><a data-anchor="/document/16/211565/bssPhr46/"></a><a data-anchor="/document/16/211565/dfasxytvdt/" data-dfa="dfasxytvdt"></a>Выписка из графика отпусков или справка с основного места работы</td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 41.09%;"><p><a data-anchor="/document/16/211565/bssPhr47/"></a><a data-anchor="/document/16/211565/dfas0oor24/" data-dfa="dfas0oor24"></a>Преподавательскому составу образовательных организаций</p></td><td class="bdBottombdRight" style="width: 30.71%;"><a data-anchor="/document/16/211565/bssPhr48/"></a><a data-anchor="/document/16/211565/dfasvlklwy/" data-dfa="dfasvlklwy"></a><a data-anchor="/document/16/211565/backlinkanchor24/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasevdytc/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasevdytc">ч.6</a>&nbsp;ст.&nbsp;227&nbsp;ТК</td><td class="bdBottombdRight" style="width: 28%;"><a data-anchor="/document/16/211565/bssPhr49/"></a><a data-anchor="/document/16/211565/dfaszocv64/" data-dfa="dfaszocv64"></a>Приказ о&nbsp;приеме на&nbsp;работу</td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

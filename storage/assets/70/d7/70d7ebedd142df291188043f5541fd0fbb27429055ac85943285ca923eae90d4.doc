@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как оплачивать труд надомника</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулчехра&nbsp;Юсупханова,&nbsp;Главный редактор Системы Кадры, юрист</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206562/dfas3n589k/" data-dfa="dfas3n589k"></a><a data-anchor="/document/16/206562/bssPhr2/"></a>Работу надомника, как правило, оплачивают сдельно. Оплата производите за фактически выполненную работу или произведенную продукцию, которая отвечает по качеству установленным требованиям. </div><div id="documentBody" class="content-common"><list><item><a anchor="dfasoqo8fc" icon="useful" itemid="_29d3754wg" label="Полезно" text="Узнайте какие удержания производить">Узнайте какие удержания производить</a></item></list><a data-anchor="/document/16/206562/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206562/bssPhr3/"></a><a data-anchor="/document/16/206562/dfasuneg1r/" data-dfa="dfasuneg1r"></a><strong>Размер зарплаты&nbsp;</strong></h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206562/bssPhr5/"></a><a data-anchor="/document/16/206562/dfash63al7/" data-dfa="dfash63al7"></a>Труд надомников оплачивается согласно&nbsp;по договоренности между работником и работодателем.&nbsp;Размер оплаты труда установите в <span data-warm-notices="46311383" data-warm-notice-type="error" num="26" lnktype="intlnk" title="" class="doc">трудовом договоре с надомником</span> с учетом поручаемой&nbsp;работы.&nbsp;При этом, устанавливая нормы выработки для надомников, учитывайте нормальную продолжительность рабочего дня.</p><p><a data-anchor="/document/16/206562/bssPhr6/"></a><a data-anchor="/document/16/206562/dfassg2x4f/" data-dfa="dfassg2x4f"></a>Если работник занят изготовлением изделий, например, швейных, трикотажных, сувениров, упаковочных материалов, то лучше платить за произведенную продукцию сдельно. Поэтому обычно работодатель, как правило, использует сдельную систему оплаты труда&nbsp;за фактически выполненные работы или произведенную продукцию.</p><p style="text-align:start"><a data-anchor="/document/16/206562/bssPhr7/"></a><a data-anchor="/document/16/206562/dfas4yhsg5/" data-dfa="dfas4yhsg5"></a>Если надомник использует в работе собственные инструменты и механизмы, то предусмотрите в трудовом договоре <span data-warm-notices="46311382" data-warm-notice-type="error" num="87" target="_self" lnktype="intlnk" title="" class="doc">выплату компенсации</span> за их износ. Кроме того, в трудовом договоре с надомником рекомендуем предусмотреть возмещение и иных расходов, которые связаны с выполнением работы. Например, расходы на оплату электроэнергии, водо- и газоснабжения, городской и мобильной телефонной связи. Этот порядок предусмотрен в статьях <span num="55" target="_self" lnktype="intlnk" title="" class="doc">446</span>,&nbsp;<span num="56" target="_self" lnktype="intlnk" title="" class="doc">448</span>, <span data-warm-notices="11201295" data-warm-notice-type="error" num="57" target="_self" lnktype="intlnk" title="" class="doc">450 </span>ТК.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206562/bssPhr8/"></a><a data-anchor="/document/16/206562/dfaswdofr0/" data-dfa="dfaswdofr0"></a>Не допускайте различия между оплатой труда надомника и оплатой за тот же объем работнику, который непосредственно трудится на предприятии.</p><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206562/bssPhr10/"></a><a data-anchor="/document/16/206562/dfaslp3sym/" data-dfa="dfaslp3sym"></a>Оплата труда надомника оформляйте не ниже установленного МРОТ.</p><div class="incut-v4__icon"></div></div><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr12/"></a><a data-anchor="/document/16/206562/dfas1in383/" data-dfa="dfas1in383"></a>Если в местности, где работает надомник, установлен районный коэффициент к заработной плате, оплату труда надомника оформляйте с учетом этого коэффициента (<span num="58" target="_self" lnktype="intlnk" title="" class="doc">ч. 7</span> ст. 450 ТК).</p></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может ли надомник получить надбавку&#160;за стаж работы&#160;</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr15/"></a><a data-anchor="/document/16/206562/dfasw8zw5w/" data-dfa="dfasw8zw5w"></a>Закон не запрещает получить надбавку за выслугу лет, если это закреплено в ваших локальных актах.</p><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr16/"></a><a data-anchor="/document/16/206562/dfasmc9u1m/" data-dfa="dfasmc9u1m"></a>Надомники – это лица, которые заключили трудовой договор о выполнении работы на дому из материалов и с использованием инструментов и механизмов, полученных от работодателя либо приобретаемых за свой счет. Надомник может выполнять работу, обусловленную трудовым договором, с участием членов его семьи.</p><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr17/"></a><a data-anchor="/document/16/206562/dfasr0nb7q/" data-dfa="dfasr0nb7q"></a>Учитывая, что надомник распределяет рабочее время по своему усмотрению, всю выполненную им работу оплачивайте в одинарном размере. На него не распространяются условия оплаты труда за сверхурочную работу, <span num="121" target="_self" lnktype="intlnk" title="" class="doc">работу в выходные и праздничные дни</span>, а также за работу в ночное время (<span num="122" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 448 ТК).</p></div></div><a data-anchor="/document/16/206562/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206562/bssPhr18/"></a><a data-anchor="/document/16/206562/dfaswf6rgh/" data-dfa="dfaswf6rgh"></a><strong>Выплата зарплаты&nbsp;</strong></h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206562/bssPhr20/"></a><a data-anchor="/document/16/206562/dfas56n90a/" data-dfa="dfas56n90a"></a><a data-anchor="/document/16/206562/dfas2fuusm/" data-dfa="dfas2fuusm"></a><a data-anchor="/document/16/206562/dfasisqkw7/" data-dfa="dfasisqkw7"></a>Зарплату&nbsp;надомнику выплачивайте&nbsp;в момент сдачи работ или задания либо&nbsp;через регулярные промежутки времени. При этом период между выплатами — 16 дней (ст. <span num="78" target="_self" lnktype="intlnk" title="" class="doc">253</span>, <span num="79" target="_self" lnktype="intlnk" title="" class="doc">450</span> ТК).</p><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr21/"></a><a data-anchor="/document/16/206562/dfascg3ghy/" data-dfa="dfascg3ghy"></a><a data-anchor="/document/16/206562/dfas07xwpn/" data-dfa="dfas07xwpn"></a>Сроки выплат по заработной плате установите в <span data-warm-notices="46311384" data-warm-notice-type="error" num="32" lnktype="intlnk" title="" class="doc">трудовом договоре</span>. Если не установите сроки оплаты в договоре, то надомник&nbsp;вправе требовать проведения оплаты в общеустановленные на&nbsp;предприятии сроки.&nbsp;Кроме того, в трудовом договоре с надомником предусмотреть можно оплату авансом (<span num="80" target="_self" lnktype="intlnk" title="" class="doc">ч. 6</span> ст. 450 ТК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Надо ли компенсировать надомнику работу сверхурочно, ночью и на праздники по повышенной ставке</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr23/"></a><a data-anchor="/document/16/206562/dfasitmvl9/" data-dfa="dfasitmvl9"></a>Нет, не нужно.</p><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr24/"></a><a data-anchor="/document/16/206562/dfasatgska/" data-dfa="dfasatgska"></a>Учитывая, что надомник распределяет рабочее время по своему усмотрению, всю выполненную им работу оплачивайте в одинарном размере.&nbsp;На него не распространяются условия оплаты труда за сверхурочную работу, <span num="76" target="_self" lnktype="intlnk" title="" class="doc">работу в выходные и праздничные дни</span>, а также за работу в ночное время (<span num="66" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 448 ТК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Платить ли временному работнику за брак и простой</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206562/bssPhr26/"></a><a data-anchor="/document/16/206562/dfasgmqg8g/" data-dfa="dfasgmqg8g"></a>В положениях <span num="67" target="_self" lnktype="intlnk" title="" class="doc">статьи 266</span> ТК предусмотрена обязанность работодателя производить гарантийные выплаты, состоящие в сохранении за работником среднего заработка на период простоя по вине работодателя.</p><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr27/"></a><a data-anchor="/document/16/206562/dfas0vl3g2/" data-dfa="dfas0vl3g2"></a>В законодательстве нет определения брака, но в общепризнанном значении под браком подразумевается единица продукции, отбираемая на стадии изготовления, не удовлетворяющая установленным предприятием требованиям. Передача такой продукции конечному потребителю не допускается из-за наличия дефектов.</p><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr28/"></a><a data-anchor="/document/16/206562/dfasi4ah6m/" data-dfa="dfasi4ah6m"></a>Если работник по своей вине допустил полный брак товара, то такой товар не оплачивайте. Частичный брак товара, произошедший по вине работника, оплачивайте по пониженным расценкам в зависимости от степени годности продукции (<span num="68" target="_self" lnktype="intlnk" title="" class="doc">ст. 267</span> ТК).</p><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr29/"></a><a data-anchor="/document/16/206562/dfas63llup/" data-dfa="dfas63llup"></a>Кроме того, условия <span data-warm-notices="46311379" data-warm-notice-type="error" num="48" lnktype="intlnk" title="" class="doc">об оплате за простой и брак</span> должны быть отражены в трудовом договоре с надомником.</p></div></div></div><a data-anchor="/document/16/206562/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206562/bssPhr30/"></a><a data-anchor="/document/16/206562/dfasoqo8fc/" data-dfa="dfasoqo8fc"></a><strong>Удержания из зарплаты&nbsp;</strong></h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206562/bssPhr32/"></a><a data-anchor="/document/16/206562/dfaspx38my/" data-dfa="dfaspx38my"></a>Без согласия надомника удерживайте из зарплаты:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206562/bssPhr33/"></a><a data-anchor="/document/16/206562/dfas0s2ou2/" data-dfa="dfas0s2ou2"></a>налоги и другие обязательные платежи;</li><li style="text-align:left"><a data-anchor="/document/16/206562/dfastostnp/" data-dfa="dfastostnp"></a>суммы по исполнительным актам;</li><li style="text-align:left"><a data-anchor="/document/16/206562/dfasewysur/" data-dfa="dfasewysur"></a>суммы для возмещения вреда, причиненного работником работодателю, если размер вреда не превышает среднего месячного заработка;</li><li style="text-align:left"><a data-anchor="/document/16/206562/dfas8xrbu7/" data-dfa="dfas8xrbu7"></a>дисциплинарный штраф, если был наложен на работника.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr34/"></a><a data-anchor="/document/16/206562/dfasaicndg/" data-dfa="dfasaicndg"></a>Размер суммы удержаний не превышает 50% начисленного заработка (<span num="96" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span>&nbsp;ст. 270 ТК).</p><p style="text-align:left"><a data-anchor="/document/16/206562/bssPhr35/"></a><a data-anchor="/document/16/206562/dfasuic7pb/" data-dfa="dfasuic7pb"></a>При этом, надомник вправе распоряжаться неполученной зарплатой. То есть работник вправе подать заявление на имя работодателя с указанием куда направить зарплату (оплата кредита, оплата коммунальных расходов и т.д.). При этом, работодатель не вправе отказать работнику в удовлетворении заявления.</p></div><a data-anchor="/document/16/206562/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206562/bssPhr36/"></a><a data-anchor="/document/16/206562/dfascm7htx/" data-dfa="dfascm7htx"></a><strong>Предоставление отпуска&nbsp;</strong></h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206562/bssPhr38/"></a><a data-anchor="/document/16/206562/dfasan95hk/" data-dfa="dfasan95hk"></a>Продолжительность ежегодного трудового отпуска надомника — не менее 21 календарного дня. Исключение, когда надомник относится к категории работников, которым установлен отпуск специальной продолжительности: инвалиды, несовершеннолетние и т. п. В остальном, порядок предоставления отпуска не отличается от общеустановленного (<span data-warm-notices="11201296" data-warm-notice-type="error" num="88" target="_self" lnktype="intlnk" title="" class="doc">ст. 449 </span>ТК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="108" target="_self" lnktype="intlnk" title="" class="doc">Как предоставить ежегодный отпуск</span></li><li class="incut-v4-more-about__item"><span num="109" target="_self" lnktype="intlnk" title="" class="doc">Как продлить, перенести отпуск на другой период или разделить его на части</span></li></ul></div><div class="incut-v4__icon"></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как ПУ поставить на учет в налоговых органах и открыть счет в банке</h2><div class="doc-snippet"><a data-anchor="/document/16/205758/dfasa0ogg5/" data-dfa="dfasa0ogg5"></a><a data-anchor="/document/16/205758/bssPhr2/"></a>Из рекомендации узнаете, что такое постоянное и какие основания для его образования. Разъяснили, какие виды деятельности не ведут к образованию постоянного учреждения. А также узнаете, как поставить постоянное учреждение на учет в налоговых органах и&nbsp;открыть счет в банке. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/205758/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205758/bssPhr3/"></a><a data-anchor="/document/16/205758/dfasm7pc5x/" data-dfa="dfasm7pc5x"></a>Понятие ПУ и основания для его образования</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205758/bssPhr8/"></a><a data-anchor="/document/16/205758/dfas7ze5z6/" data-dfa="dfas7ze5z6"></a>Юридические лица – нерезиденты вправе вести предпринимательскую деятельность на территории Республики Узбекистан. Они могут создавать юрлица либо же действовать без их образования – через постоянное учреждение. Но, в любом случае, доходы нерезидентов должны отражаться в налоговых органах. Постоянное учреждение – это не отдельная организационно-правовая форма предприятия и служит лишь для определения порядка расчетов с налоговыми органами.</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr9/"></a><a data-anchor="/document/16/205758/dfasxrnnum/" data-dfa="dfasxrnnum"></a>Постоянным учреждением иностранного юрлица в Республике Узбекистан признается постоянное место деятельности, через которое это иностранное юрлицо полностью или частично ведет предпринимательскую деятельность (<span num="6" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 36 НК).</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr10/"></a><a data-anchor="/document/16/205758/dfasy5q6vg/" data-dfa="dfasy5q6vg"></a><span num="7" target="_self" lnktype="intlnk" title="" class="doc">Статья 36</span> НК дает полный перечень мест осуществления деятельности, которые приводят к образованию постоянного учреждения. В этот список входят:</p><ol class="c-list"><li><a data-anchor="/document/16/205758/bssPhr11/"></a><a data-anchor="/document/16/205758/dfas4v58qp/" data-dfa="dfas4v58qp"></a>любое место управления, филиал, отделение, бюро, контора, офис, кабинет, агентство, фабрика, мастерская, цех, лаборатория;</li><li><a data-anchor="/document/16/205758/bssPhr12/"></a><a data-anchor="/document/16/205758/dfasgebq0k/" data-dfa="dfasgebq0k"></a>место осуществления производства, переработки, комплектации, фасовки и упаковки товара;</li><li><a data-anchor="/document/16/205758/bssPhr13/"></a><a data-anchor="/document/16/205758/dfas20lxvg/" data-dfa="dfas20lxvg"></a>любое место, в том числе склад, используемое в качестве торговой точки;</li><li><a data-anchor="/document/16/205758/bssPhr14/"></a><a data-anchor="/document/16/205758/dfasudw6si/" data-dfa="dfasudw6si"></a>рудник, шахта, нефтяная или газовая скважина, карьер или любое другое место добычи природных ресурсов;</li><li><a data-anchor="/document/16/205758/bssPhr15/"></a><a data-anchor="/document/16/205758/dfasugqann/" data-dfa="dfasugqann"></a>установка или сооружение, включая его монтаж, используемое для изучения, разведки, разработки, добычи или эксплуатации природных ресурсов, но только при условии, что установка или сооружение используется или готово к использованию в течение более 183 дней;</li><li><a data-anchor="/document/16/205758/bssPhr16/"></a><a data-anchor="/document/16/205758/dfas2tr6k9/" data-dfa="dfas2tr6k9"></a>любое место осуществления деятельности, в том числе контрольной или наблюдательной, связанной с трубопроводом, газопроводом;</li><li><a data-anchor="/document/16/205758/bssPhr17/"></a><a data-anchor="/document/16/205758/dfasagygul/" data-dfa="dfasagygul"></a>любое место осуществления деятельности, связанной с установкой, наладкой и эксплуатацией игровых автоматов, включая приставки, компьютерных сетей и каналов связи, аттракционов.</li></ol><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr18/"></a><a data-anchor="/document/16/205758/dfastz8b9k/" data-dfa="dfastz8b9k"></a>При условии, что объект или деятельность существуют или продолжаются более 183 дней в течение любого последовательного 12-месячного периода, ПУ также образуют:</p><ol class="c-list"><li><a data-anchor="/document/16/205758/bssPhr19/"></a><a data-anchor="/document/16/205758/dfasvh322v/" data-dfa="dfasvh322v"></a>строительная площадка, строительный, монтажный или сборочный объект либо связанная с ними надзорная, контрольная деятельность;</li><li><a data-anchor="/document/16/205758/bssPhr20/"></a><a data-anchor="/document/16/205758/dfasg2ip1l/" data-dfa="dfasg2ip1l"></a>оказание услуг, включая консультационные услуги, выполняемых этим иностранным юрлицом посредством своих служащих или другого нанимаемого им персонала для этих целей.</li></ol><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr21/"></a><a data-anchor="/document/16/205758/dfasc899nu/" data-dfa="dfasc899nu"></a>Если один или несколько взаимосвязанных между собой нерезидентов оказывают услуги на строительной площадке или ином объекте в разные периоды времени, каждый из которых в отдельности не превышает 183 дней, то периоды деятельности по таким услугам добавляются к совокупному периоду времени, в течение которого осуществлялась деятельность на этой строительной площадке или ином объекте.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205758/dfasgmw0eq/" data-dfa="dfasgmw0eq"></a><a data-anchor="/document/16/205758/bssPhr22/"></a>Нерезидент производит монтажные работы для разных предприятий РУз, но период каждой работы нерезидента менее 183 дней. В этом случае, все дни работы для разных предприятий в РУз суммируются.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205758/bssPhr23/"></a><a data-anchor="/document/16/205758/dfassf4gm0/" data-dfa="dfassf4gm0"></a>Постоянное учреждение нерезидента образуется, если:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/205758/bssPhr24/"></a><a data-anchor="/document/16/205758/dfas861xsa/" data-dfa="dfas861xsa"></a>лицо действует в Узбекистане от имени нерезидента;</li><li style="text-align:left">заключает контракты;</li><li style="text-align:left">играет главную роль в заключении контрактов по передаче права собственности, оказания услуг или предоставлении права пользования имуществом от имени нерезидента.</li></ul><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr25/"></a><a data-anchor="/document/16/205758/dfas3ouqtr/" data-dfa="dfas3ouqtr"></a>Но если нерезидент ведет предпринимательскую деятельность через независимого агента на основании договора комиссии либо поручения, который не подписывает от имени нерезидента договоры, то не нужно открывать ПУ для нерезидента (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">ч. 9-10</span> ст. 36 НК).</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr26/"></a><a data-anchor="/document/16/205758/dfasp2ewzs/" data-dfa="dfasp2ewzs"></a>Если нерезидент работает в РУз на основании договора о совместной деятельности, например, договора простого товарищества, то:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/205758/bssPhr27/"></a><a data-anchor="/document/16/205758/dfasoe10lw/" data-dfa="dfasoe10lw"></a>деятельность каждого участника такого договора образует ПУ;</li><li style="text-align:left">каждый участник такого договора исполняет налоговые обязательства самостоятельно.</li></ul><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr28/"></a><a data-anchor="/document/16/205758/dfasoma20g/" data-dfa="dfasoma20g"></a>Об этом сказано в <span num="9" target="_self" lnktype="intlnk" title="" class="doc">части 12</span> статьи 36 НК.</p></div></div></div><a data-anchor="/document/16/205758/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205758/bssPhr29/"></a><a data-anchor="/document/16/205758/dfasreodof/" data-dfa="dfasreodof"></a>Случаи, когда постоянное учреждение не образуется</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205758/bssPhr31/"></a><a data-anchor="/document/16/205758/dfascwf7si/" data-dfa="dfascwf7si"></a>По налоговому законодательству к ПУ не приводят следующие виды деятельности:</p><ol class="c-list"><li><a data-anchor="/document/16/205758/bssPhr32/"></a><a data-anchor="/document/16/205758/dfas2ix17y/" data-dfa="dfas2ix17y"></a>использование объектов исключительно для целей хранения или демонстрации принадлежащих ему товаров или изделий.<br>Например, нерезидент арендует или приобретает товарный склад в Узбекистане лишь для хранения своих товаров. В данном случае, такая деятельность не приведет к образованию ПУ. Но если нерезидент будет реализовывать товары со склада, то эта деятельность уже расценивается как предпринимательская, и тем самым образует ПУ.</li><li><a data-anchor="/document/16/205758/bssPhr33/"></a><a data-anchor="/document/16/205758/dfastgnm28/" data-dfa="dfastgnm28"></a>содержание принадлежащих ему запасов товаров или изделий исключительно для целей хранения или демонстрации.<br>Например, если нерезидент хранит товары на товарном складе и хочет организовать выставку товаров, то эта деятельность не приведет к ПУ.</li><li><a data-anchor="/document/16/205758/bssPhr34/"></a><a data-anchor="/document/16/205758/dfas8ftxn3/" data-dfa="dfas8ftxn3"></a>содержание принадлежащих ему запасов товаров или изделий исключительно для целей переработки другим лицом;</li><li><a data-anchor="/document/16/205758/bssPhr35/"></a><a data-anchor="/document/16/205758/dfass8ogkr/" data-dfa="dfass8ogkr"></a>содержание постоянного места деятельности исключительно для целей закупки товаров, изделий или сбора информации для этого иностранного юрлица;</li><li><a data-anchor="/document/16/205758/bssPhr36/"></a><a data-anchor="/document/16/205758/dfasnx9vee/" data-dfa="dfasnx9vee"></a>содержание постоянного места деятельности только для целей осуществления любой другой деятельности подготовительного или вспомогательного характера;</li><li><a data-anchor="/document/16/205758/bssPhr37/"></a><a data-anchor="/document/16/205758/dfaswcnb4a/" data-dfa="dfaswcnb4a"></a>содержание постоянного места деятельности исключительно для любого сочетания видов деятельности, упомянутых в пунктах 1-5, при условии, что совокупная деятельность этого постоянного места деятельности, возникающая из такого сочетания, носит подготовительный или вспомогательный характер. При этом деятельность подготовительного и вспомогательного характера должна осуществляться для самого нерезидента, а не для третьих лиц.</li></ol><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205758/dfaspue69z/" data-dfa="dfaspue69z"></a><a data-anchor="/document/16/205758/bssPhr38/"></a>Нерезидент хочет открыть в Узбекистане свою фирму для производства какой-либо продукции. С этой целью он проводит маркетинговые исследования рынка страны. Содержание помещения для проведения маркетинговых исследований.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205758/bssPhr39/"></a><a data-anchor="/document/16/205758/dfas21ngki/" data-dfa="dfas21ngki"></a>Если нерезидент ведет в Узбекистане деятельность, не связанную с извлечением прибыли, то такой вид деятельности считается вспомогательным и не приводит к образованию ПУ.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205758/dfasra54qd/" data-dfa="dfasra54qd"></a><a data-anchor="/document/16/205758/bssPhr40/"></a>Нерезидент хочет купить ценные бумаги в Узбекистане. Для такой сделки он обращается к брокерской компании в Узбекистане. Для нерезидента не нужно образовывать ПУ, так как брокер является отдельным юридическим лицом и действует в рамках своей обычной деятельности.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205758/bssPhr41/"></a><a data-anchor="/document/16/205758/dfasyon3zf/" data-dfa="dfasyon3zf"></a>Однако, если агент помимо своей деятельности, также действует в отношении нерезидента как постоянный агент, уполномоченный заключать контракты и вести дело от имени нерезидента, то в данном случае такая деятельность уполномоченного агента рассматривается как ПУ нерезидента, так как он действует вне рамок своей обычной деятельности.</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr42/"></a><a data-anchor="/document/16/205758/dfasie7iqb/" data-dfa="dfasie7iqb"></a>Также предоставление нерезидентом своего персонала для работы в Узбекистане юрлицу не приводит к образованию ПУ с условием, что:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/205758/bssPhr43/"></a><a data-anchor="/document/16/205758/dfasmuwbum/" data-dfa="dfasmuwbum"></a>такой персонал действует от имени и в интересах юрлица, которому он предоставлен;</li><li style="text-align:left">нерезидент не несет ответственности за результаты работы своего персонала;</li><li style="text-align:left">доход нерезидента от предоставления персонала не превышает 10 процентов от общей суммы его затрат по предоставлению этого персонала за налоговый период (<span num="10" target="_self" lnktype="intlnk" title="" class="doc">ч. 11</span> ст.36 НК).</li></ul></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Есть ли признаки ПУ, в случае когда компания &#8211; резидент Узбекистана заключает договор с иностранной компанией на продвижение продукта иностранного партнера на территории Узбекистана. Компания будет агентом, вести переговоры с заказчиками, делать рекламу на рынке. Но права подписи у узбекской компании не будет.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205758/bssPhr45/"></a><a data-anchor="/document/16/205758/dfas5r3403/" data-dfa="dfas5r3403"></a>Нет, признаков ПУ в этой ситуации нет. Когда иностранное юрлицо осуществляет деятельность в Узбекистане через независимого агента, действующего на основании договора комиссии, поручения или иного аналогичного договора и не уполномоченного подписывать контракты от имени этого иностранного юрлица, то это не приводит к образованию постоянного учреждения (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">ч. 10</span> ст. 36 НК).</p></div></div></div><a data-anchor="/document/16/205758/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205758/bssPhr46/"></a><a data-anchor="/document/16/205758/dfas1ey5xs/" data-dfa="dfas1ey5xs"></a>Дата образования ПУ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205758/bssPhr48/"></a><a data-anchor="/document/16/205758/dfas8k7dtb/" data-dfa="dfas8k7dtb"></a>Деятельность нерезидента образует ПУ с даты начала выполнения работы нерезидента в РУз, если этот день можно точно установить. В обратном случае, датой начала осуществления деятельности считается дата:</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr49/"></a><a data-anchor="/document/16/205758/dfas5rrubd/" data-dfa="dfas5rrubd"></a>1) заключения любого контракта:</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr50/"></a><a data-anchor="/document/16/205758/dfasaottm7/" data-dfa="dfasaottm7"></a>а) на оказание услуг в РУз, в том числе в рамках договора о совместной деятельности;<br>б) предоставление полномочий на совершение от его имени действий в РУз;<br>в) приобретение товаров в РУз для использования или реализации на территории РУз;<br>г) приобретение услуг для оказания услуг в РУз;</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr51/"></a><a data-anchor="/document/16/205758/dfas6udqvv/" data-dfa="dfas6udqvv"></a>2) заключения первого трудового контракта в целях осуществления деятельности в РУз;</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr52/"></a><a data-anchor="/document/16/205758/dfasgwwgn5/" data-dfa="dfasgwwgn5"></a>3) прибытия в РУз физического лица – нерезидента, найма работника или иного персонала нерезидентом для выполнения условий контракта</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr53/"></a><a data-anchor="/document/16/205758/dfas3niw6e/" data-dfa="dfas3niw6e"></a>Такие правила установлены частью 14 статьи 36 НК.</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr54/"></a><a data-anchor="/document/16/205758/dfasskxogi/" data-dfa="dfasskxogi"></a>Если одновременно выполнены несколько указанных пунктов, то датой начала осуществления деятельности нерезидента признается наиболее ранняя из этих дат (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">ч. 15</span> ст. 36 НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205758/dfastubinm/" data-dfa="dfastubinm"></a><a data-anchor="/document/16/205758/bssPhr55/"></a>Нерезидент заключил контракт на оказание услуг в Узбекистане 05.06.2020 года. Начинает нанимать работников для выполнения контракта и заключает с ними трудовой контракт 10.06.2020 года. Следовательно, датой образования ПУ считается 10.06.2020 года.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205758/bssPhr56/"></a><a data-anchor="/document/16/205758/dfasw8ituz/" data-dfa="dfasw8ituz"></a>Стройплощадка, строительный, монтажный или сборочный объект образует ПУ нерезидента с момента подписания акта о передаче площадки подрядчику. Если международными договорами предусмотрены другие нормы по определению ПУ, то применяются положения международных договоров.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205758/dfas9ifgf4/" data-dfa="dfas9ifgf4"></a><a data-anchor="/document/16/205758/bssPhr57/"></a>В Соглашении между Правительством РФ и Правительством РУз об избежании двойного налогообложения доходов и имущества применяется термин «постоянное представительство». Установленный Соглашением срок, приводящий к его образованию по строительной площадке.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205758/bssPhr58/"></a><a data-anchor="/document/16/205758/dfaszfmhkg/" data-dfa="dfaszfmhkg"></a>Значит, деятельность резидента РФ в Узбекистане, связанная со строительством, приведет к образованию постоянного учреждения или постоянного представительства, если она осуществляется свыше 12 месяцев, а не с момента подписания акта о передаче площадки подрядчику.</p><p><a data-anchor="/document/16/205758/bssPhr59/"></a><a data-anchor="/document/16/205758/dfas1587fi/" data-dfa="dfas1587fi"></a>Если деятельность нерезидента носит передвижной характер: строительство дорог, разведка полезных ископаемых и другие виды деятельности передвижного характера, то весь проект рассматривается как одно ПУ (<span num="12" target="_self" lnktype="intlnk" title="" class="doc">ч. 18</span> ст. 36 НК).</p></div></div></div><a data-anchor="/document/16/205758/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205758/bssPhr60/"></a><a data-anchor="/document/16/205758/dfas94t3xe/" data-dfa="dfas94t3xe"></a>Постановка ПУ на учет в налоговых органах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205758/bssPhr62/"></a><a data-anchor="/document/16/205758/dfaspy8gzz/" data-dfa="dfaspy8gzz"></a>Для постановки на учет ПУ нерезидента подайте в налоговую инспекцию по месту, где функционирует ПУ, документы:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/205758/bssPhr63/"></a><a data-anchor="/document/16/205758/dfas72yltb/" data-dfa="dfas72yltb"></a>заявление о постановке на учет;</li><li style="text-align:left">документ, подтверждающий госрегистрацию в стране иностранного юрлица;</li><li style="text-align:left">специальные разрешительные документы или лицензии, при их наличии;</li><li style="text-align:left">доверенность или иной документ, при их наличии, удостоверяющий право на совершение действий в РУз от имени иностранного юрлица;</li><li style="text-align:left">договор, при наличии, исполнение которого приводит к образованию ПУ.</li></ul><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr64/"></a><a data-anchor="/document/16/205758/dfasgtd86k/" data-dfa="dfasgtd86k"></a>Такие правила установлены в <span data-warm-notices="12830569" data-warm-notice-type="error" num="13" target="_self" lnktype="intlnk" title="" class="doc">части 1 </span>статьи 130 НК.</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr65/"></a><a data-anchor="/document/16/205758/dfasqv01l1/" data-dfa="dfasqv01l1"></a>Документы, составленные на других языках, должны быть переведены на узбекский язык с нотариальным заверением перевода (<span num="14" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 130 НК).</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr66/"></a><a data-anchor="/document/16/205758/dfas7i6d20/" data-dfa="dfas7i6d20"></a>Кроме указанных документов в налоговую необходимо предоставить эскизы печати для утверждения (абз. 3 п. 6 ПП-1245).</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr67/"></a><a data-anchor="/document/16/205758/dfaswgl9cb/" data-dfa="dfaswgl9cb"></a>ПУ должно быть поставлено на учет в налоговой в течение 183 календарных дней с момента начала деятельности в РУз (<span num="15" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 130 НК). Однако, если нерезидент заключил один или несколько контрактов на общий срок более 183 календарных дней, то встать на учет нужно в течение 30 календарных дней с даты начала осуществления деятельности (ч. <span num="16" target="_self" lnktype="intlnk" title="" class="doc">2</span>, <span num="17" target="_self" lnktype="intlnk" title="" class="doc">3</span> ст. 130 НК). Нарушение этого срока приведет к штрафу. Размер штрафа – 10 процентов от доходов, полученных с даты осуществления такой деятельности до фактической постановки на учет, но в любом случае не менее десяти миллионов сумов (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 219 НК).</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr68/"></a><a data-anchor="/document/16/205758/dfascniht0/" data-dfa="dfascniht0"></a>В результате постановки на учет ПУ присвоят ИНН.</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr69/"></a><a data-anchor="/document/16/205758/dfas07xd8l/" data-dfa="dfas07xd8l"></a>Вновь созданное ПУ нерезидента принимает решение о способах ведения учета в целях налогообложения в течение первого отчетного периода после его создания (<span num="19" target="_self" lnktype="intlnk" title="" class="doc">ч. 4</span> ст. 77 НК).</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr70/"></a><a data-anchor="/document/16/205758/dfas3u29hn/" data-dfa="dfas3u29hn"></a>Если после исключения ПУ из Единого реестра налогоплательщиков в течение 12 месяцев нерезидент возобновляет деятельность, он признается образовавшим ПУ и подлежит регистрации с даты возобновления своей деятельности (<span num="20" target="_self" lnktype="intlnk" title="" class="doc">ч. 19</span> ст. 36 НК).</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr71/"></a><a data-anchor="/document/16/205758/dfasbfh0i1/" data-dfa="dfasbfh0i1"></a>Если нерезидент осуществляет деятельность, приводящую к образованию двух и более ПУ, подлежащих регистрации в одном налоговом органе, регистрации подлежит одно ПУ совокупно по группе таких ПУ. Исключение составляет деятельность, которая образует строительную площадку, строительный, монтажный или иной объект (<span num="21" target="_self" lnktype="intlnk" title="" class="doc">ч. 17</span> ст. 36 НК).</p></div><a data-anchor="/document/16/205758/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/205758/bssPhr72/"></a><a data-anchor="/document/16/205758/dfashtqoig/" data-dfa="dfashtqoig"></a>Открытие счета в банках</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205758/bssPhr74/"></a><a data-anchor="/document/16/205758/dfas9tuas9/" data-dfa="dfas9tuas9"></a>ПУ вправе открывать счета до востребования в банках (<span num="40" lnktype="intlnk" title="" class="doc">абз. 3</span> п. 6 ПП-1245).</p><p style="text-align:left"><a data-anchor="/document/16/205758/bssPhr75/"></a><a data-anchor="/document/16/205758/dfas07u5yc/" data-dfa="dfas07u5yc"></a>Чтобы открыть счет в национальной и иностранной валюте представьте в банк:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/205758/bssPhr76/"></a><a data-anchor="/document/16/205758/dfassu9a17/" data-dfa="dfassu9a17"></a>заявление об открытии счета;</li><li style="text-align:left">копию свидетельства ГНИ о присвоении ИНН;</li><li style="text-align:left">два экземпляра <span data-warm-notices="12830604" data-warm-notice-type="error" num="22" lnktype="intlnk" title="" class="doc">карточек с образцами подписей</span>&nbsp;и оттиском печати по установленной форме;</li><li style="text-align:left">документ, удостоверяющий личность лица, имеющего полномочия подписания денежно-расчетных документов от имени иностранного юрлица. Копию банк принимает после предъявления оригинала, удостоверяющего личность;– заверенные консульством или нотариусом копии учредительных документов: учредительный договор, устав иностранного юрлица, действующего через ПУ, а также внесенные в них изменения и дополнения (п. <span data-warm-notices="29111184" data-warm-notice-type="error" num="23" target="_self" lnktype="intlnk" title="" class="doc">16</span>, <span data-warm-notices="29111185" data-warm-notice-type="error" num="24" target="_self" lnktype="intlnk" title="" class="doc">21</span> Инструкции о банковских счетах, открываемых в банках Республики Узбекистан, рег. № 1948 от 27.04.2009).</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Возникнет ли ПУ при заключении договора субподряда между компанией &#8211; генеральным подрядчиком и компанией-резидентом РУз &#8211; субподрядчиком</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205758/bssPhr78/"></a><a data-anchor="/document/16/205758/dfaslo165n/" data-dfa="dfaslo165n"></a>Нет, не возникнет. Если договор субподряда заключают компания – генеральный подрядчик и компания-резидент РУз – субподрядчик, ПУ не возникнет (<span num="39" target="_self" lnktype="intlnk" title="" class="doc">ст. 36 НК</span>).</p></div></div></div><p><a data-anchor="/document/16/205758/dfas30o8vc/" data-dfa="dfas30o8vc"></a><a data-anchor="/document/16/205758/bssPhr79/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/205758/dfaseppdpk/" data-dfa="dfaseppdpk"></a><a data-anchor="/document/16/205758/bssPhr80/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

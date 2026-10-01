@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как трактовать понятия «резидент», «нерезидент» и «постоянное учреждение»</h2><div class="doc-snippet"><a data-anchor="/document/16/205053/dfasw2vrzb/" data-dfa="dfasw2vrzb"></a><a data-anchor="/document/16/205053/bssPhr2/"></a>В&nbsp;рекомендации&nbsp;— кого считать налоговыми резидентами и&nbsp;нерезидентами, какие налоги они платят и&nbsp;как платят налоги приглашенные иностранные специалисты. Также для чего нужно соглашение об&nbsp;избежании двойного налогообложения. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/205053/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205053/bssPhr3/"></a><a data-anchor="/document/16/205053/p1/"></a><a data-anchor="/document/16/205053/dfas6ig7gg/" data-dfa="dfas6ig7gg"></a>Налоговые резиденты и&nbsp;нерезиденты</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205053/bssPhr6/"></a><a data-anchor="/document/16/205053/dfasra5d8k/" data-dfa="dfasra5d8k"></a>Резиденты&nbsp;— это:</p><ul class="c-list"><li><a data-anchor="/document/16/205053/bssPhr7/"></a><a data-anchor="/document/16/205053/dfas8bz6g0/" data-dfa="dfas8bz6g0"></a>юрлица РУз;</li><li>иностранные юрлица, которых признают резидентами по&nbsp;международным договорам, а&nbsp;также место фактического управления которыми&nbsp;— РУз, если иное не&nbsp;предусмотрено международным договором;</li><li>физлица, которые проживают в&nbsp;стране в&nbsp;совокупности более 183 дней в&nbsp;течение любого последовательного 12-месячного периода в&nbsp;рамках текущего налогового периода.</li></ul><p><a data-anchor="/document/16/205053/bssPhr8/"></a><a data-anchor="/document/16/205053/dfas5g4t8d/" data-dfa="dfas5g4t8d"></a>Нерезиденты&nbsp;— это юрлица или физлица, которые не&nbsp;отвечают этим критериям.</p><p><a data-anchor="/document/16/205053/bssPhr9/"></a><a data-anchor="/document/16/205053/dfasu0h5c2/" data-dfa="dfasu0h5c2"></a>Постоянное учреждение нерезидента&nbsp;— это любое место, через которое нерезидент осуществляет предпринимательскую деятельность (<span num="124" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;36&nbsp;НК). ПУ&nbsp;нерезидента обязано встать на&nbsp;учет в&nbsp;качестве налогоплательщика в&nbsp;налоговой службе в&nbsp;течение 183 дней со&nbsp;дня начала бизнеса.</p><p><a data-anchor="/document/16/205053/bssPhr10/"></a><a data-anchor="/document/16/205053/dfasyyhmig/" data-dfa="dfasyyhmig"></a>Для этого организация подает в&nbsp;налоговую службу заявление, к&nbsp;которому прилагает:</p><ul class="c-list"><li><a data-anchor="/document/16/205053/bssPhr11/"></a><a data-anchor="/document/16/205053/dfassy97he/" data-dfa="dfassy97he"></a>договор или доверенность на&nbsp;совершение действий в&nbsp;Узбекистане;</li><li>если есть, договор, выполнение обязательств по&nbsp;которому приводит к&nbsp;образованию постоянного учреждения (<span num="106" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;16</span>&nbsp;ст.&nbsp;36&nbsp;НК, <span num="107" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;130</span>&nbsp;НК).</li></ul><p><a data-anchor="/document/16/205053/bssPhr12/"></a><a data-anchor="/document/16/205053/dfasbrhgvm/" data-dfa="dfasbrhgvm"></a>Постоянным учреждением нерезидента считается также:</p><ul class="c-list"><li><a data-anchor="/document/16/205053/bssPhr13/"></a><a data-anchor="/document/16/205053/dfaslu5glh/" data-dfa="dfaslu5glh"></a>строительная площадка, строительный, монтажный или сборочный объект либо связанная с&nbsp;ними надзорная деятельность, при условии, что такие объекты существуют или деятельность продолжается более 183 дней в&nbsp;течение любого последовательного 12-месячного периода;</li><li>оказание услуг, включая консультационные, выполняемых иностранным юрлицом посредством своих служащих или другого нанимаемого им&nbsp;персонала, при условии, что такая деятельность продолжается не&nbsp;менее 183 дней в&nbsp;течение любого последовательного 12-месячного периода (<span num="15" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;36&nbsp;НК).</li></ul></div><a data-anchor="/document/16/205053/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205053/bssPhr14/"></a><a data-anchor="/document/16/205053/dfas6fm6q9/" data-dfa="dfas6fm6q9"></a>Налоги с&nbsp;юрлиц-нерезидентов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205053/bssPhr21/"></a><a data-anchor="/document/16/205053/dfasdat2rq/" data-dfa="dfasdat2rq"></a>Облагают налогами доходы нерезидентов:</p><ul class="c-list"><li><a data-anchor="/document/16/205053/bssPhr22/"></a><a data-anchor="/document/16/205053/dfasnv2sux/" data-dfa="dfasnv2sux"></a>осуществляющих деятельность через постоянное учреждение;</li><li>не&nbsp;связанных с&nbsp;постоянным учреждением.</li></ul><p><a data-anchor="/document/16/205053/bssPhr23/"></a><a data-anchor="/document/16/205053/dfas0g3z1k/" data-dfa="dfas0g3z1k"></a>Доходы нерезидентов, не&nbsp;связанные с&nbsp;постоянным учреждением, облагают налогами у&nbsp;источника выплаты (<span num="22" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;351</span>, <span num="251" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;353</span>&nbsp;НК):</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="text-align: center; width: 74.78%;"><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr24/"></a><a data-anchor="/document/16/205053/dfasmgrg99/" data-dfa="dfasmgrg99"></a><strong>Доходы</strong></p></td><td style="text-align: center; width: 25.08%;"><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr25/"></a><a data-anchor="/document/16/205053/dfascgdoxu/" data-dfa="dfascgdoxu"></a><strong>Ставка налогообложения</strong></p></td></tr><tr><td style="width: 74.78%;"><p><a data-anchor="/document/16/205053/bssPhr26/"></a><a data-anchor="/document/16/205053/dfasfgabpk/" data-dfa="dfasfgabpk"></a>Дивиденды и&nbsp;проценты</p></td><td style="width: 25.08%;"><p><a data-anchor="/document/16/205053/bssPhr27/"></a><a data-anchor="/document/16/205053/dfasuanoqn/" data-dfa="dfasuanoqn"></a>10%</p></td></tr><tr><td style="width: 74.78%;"><p><a data-anchor="/document/16/205053/bssPhr28/"></a><a data-anchor="/document/16/205053/dfasxqdq42/" data-dfa="dfasxqdq42"></a>Страховые премии по&nbsp;договорам страхования, сострахования и&nbsp;перестрахования</p></td><td style="width: 25.08%;"><p><a data-anchor="/document/16/205053/bssPhr29/"></a><a data-anchor="/document/16/205053/dfaswmoygl/" data-dfa="dfaswmoygl"></a>10%</p></td></tr><tr><td style="width: 74.78%;"><p style="margin-left:3pt; margin-right:7pt"><a data-anchor="/document/16/205053/bssPhr30/"></a><a data-anchor="/document/16/205053/dfas5xioit/" data-dfa="dfas5xioit"></a>Телекоммуникации для международной связи, международные перевозки (доходы от&nbsp;фрахта)</p></td><td style="width: 25.08%;"><p><a data-anchor="/document/16/205053/bssPhr31/"></a><a data-anchor="/document/16/205053/dfassez2f4/" data-dfa="dfassez2f4"></a>6%</p></td></tr><tr><td style="width: 74.78%;"><p style="margin-left:3pt; margin-right:7pt"><a data-anchor="/document/16/205053/bssPhr32/"></a><a data-anchor="/document/16/205053/dfas8mkku2/" data-dfa="dfas8mkku2"></a>Доходы по&nbsp;кредитам, привлеченным для финансирования инвестиционных проектов, выплачиваемые банками и&nbsp;лизингодателями Республики Узбекистан иностранным финансовым институтам</p></td><td style="width: 25.08%;"><p><a data-anchor="/document/16/205053/bssPhr33/"></a><a data-anchor="/document/16/205053/dfaski2ybu/" data-dfa="dfaski2ybu"></a>0%</p></td></tr><tr><td style="width: 74.78%;"><p style="margin-left:3pt; margin-right:7pt"><a data-anchor="/document/16/205053/bssPhr34/"></a><a data-anchor="/document/16/205053/dfasomp8ll/" data-dfa="dfasomp8ll"></a>Доходы от&nbsp;оказания услуг, связанных с&nbsp;открытием и&nbsp;ведением корреспондентских счетов банков&nbsp;— резидентов РУз и&nbsp;осуществлением расчетов по&nbsp;ним, а&nbsp;также с&nbsp;осуществлением расчетов посредством международных платежных карточек</p></td><td style="width: 25.08%;"><p><a data-anchor="/document/16/205053/bssPhr35/"></a><a data-anchor="/document/16/205053/dfaslouyym/" data-dfa="dfaslouyym"></a>0%</p></td></tr><tr><td style="width: 74.78%;"><p><a data-anchor="/document/16/205053/bssPhr36/"></a><a data-anchor="/document/16/205053/dfas3dtm7h/" data-dfa="dfas3dtm7h"></a>Иные доходы, за&nbsp;исключением доходов, указанных в <span num="28" target="_self" lnktype="intlnk" title="" class="doc">пунктах&nbsp;1-5</span> статьи&nbsp;353&nbsp;НК</p></td><td style="width: 25.08%;"><p><a data-anchor="/document/16/205053/bssPhr37/"></a><a data-anchor="/document/16/205053/dfasg47o9h/" data-dfa="dfasg47o9h"></a>20%</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/205053/bssPhr38/"></a><a data-anchor="/document/16/205053/dfass3zzhn/" data-dfa="dfass3zzhn"></a>Доходы постоянных учреждений облагают налогами по&nbsp;ставкам:</p><div align="left"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr39/"></a><a data-anchor="/document/16/205053/dfasughxgm/" data-dfa="dfasughxgm"></a><strong>Доходы</strong></td><td style="text-align:left; vertical-align:middle; width:49.89%"><a data-anchor="/document/16/205053/bssPhr40/"></a><a data-anchor="/document/16/205053/dfaszzuue5/" data-dfa="dfaszzuue5"></a><strong>Ставка налогообложения</strong></td></tr><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr41/"></a><a data-anchor="/document/16/205053/dfaszzsfo8/" data-dfa="dfaszzsfo8"></a>Налог на&nbsp;прибыль</td><td style="text-align:left; vertical-align:middle; width:49.89%"><a data-anchor="/document/16/205053/bssPhr42/"></a><a data-anchor="/document/16/205053/dfaszascab/" data-dfa="dfaszascab"></a>15%</td></tr><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr43/"></a><a data-anchor="/document/16/205053/dfasfyx83s/" data-dfa="dfasfyx83s"></a>Налог с&nbsp;дивидендов</td><td style="text-align:left; vertical-align:middle; width:49.89%"><a data-anchor="/document/16/205053/bssPhr44/"></a><a data-anchor="/document/16/205053/dfas6ygn2b/" data-dfa="dfas6ygn2b"></a>10% </td></tr><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr45/"></a><a data-anchor="/document/16/205053/dfasog96qa/" data-dfa="dfasog96qa"></a>НДС</td><td style="text-align:left; vertical-align:middle; width:49.89%"><a data-anchor="/document/16/205053/bssPhr46/"></a><a data-anchor="/document/16/205053/dfasb3sku2/" data-dfa="dfasb3sku2"></a>12%</td></tr><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr47/"></a><a data-anchor="/document/16/205053/dfaswcn5mx/" data-dfa="dfaswcn5mx"></a>Налог на&nbsp;имущество</td><td style="text-align:left; vertical-align:middle; width:49.89%"><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr48/"></a><a data-anchor="/document/16/205053/dfassn6n3k/" data-dfa="dfassn6n3k"></a>Недвижимое имущество&nbsp;— 1,5%.</p><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr49/"></a><a data-anchor="/document/16/205053/dfas6645ma/" data-dfa="dfas6645ma"></a>В&nbsp;отношении объектов незавершенного строительства&nbsp;— 3%.</p><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr50/"></a><a data-anchor="/document/16/205053/dfasd9r2gd/" data-dfa="dfasd9r2gd"></a>Для отдельных категорий имущества&nbsp;— 0,6%.</p></td></tr><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr51/"></a><a data-anchor="/document/16/205053/dfase8gvpe/" data-dfa="dfase8gvpe"></a>Земельный налог</td><td style="text-align:left; vertical-align:middle; width:49.89%"><p><a data-anchor="/document/16/205053/bssPhr52/"></a><a data-anchor="/document/16/205053/dfas02lpw6/" data-dfa="dfas02lpw6"></a>исходя из&nbsp;налогооблагаемой базы и&nbsp;установленных ставок</p></td></tr><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr53/"></a><a data-anchor="/document/16/205053/dfasugbpqr/" data-dfa="dfasugbpqr"></a>Налог за&nbsp;пользование водными ресурсами</td><td style="text-align:left; vertical-align:middle; width:49.89%"><p><a data-anchor="/document/16/205053/bssPhr54/"></a><a data-anchor="/document/16/205053/dfaskiqq18/" data-dfa="dfaskiqq18"></a>исходя из&nbsp;налогооблагаемой базы и&nbsp;установленных ставок</p></td></tr><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr55/"></a><a data-anchor="/document/16/205053/dfasqbbdg1/" data-dfa="dfasqbbdg1"></a>Налог за&nbsp;пользование недрами</td><td style="text-align:left; vertical-align:middle; width:49.89%"><p><a data-anchor="/document/16/205053/bssPhr56/"></a><a data-anchor="/document/16/205053/dfaszo40ci/" data-dfa="dfaszo40ci"></a>исходя из&nbsp;налогооблагаемой базы и&nbsp;установленных ставок</p></td></tr><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr57/"></a><a data-anchor="/document/16/205053/dfas04x0wb/" data-dfa="dfas04x0wb"></a>Акцизный налог</td><td style="text-align:left; vertical-align:middle; width:49.89%"><a data-anchor="/document/16/205053/bssPhr58/"></a><a data-anchor="/document/16/205053/dfasya4w86/" data-dfa="dfasya4w86"></a>исходя из&nbsp;налогооблагаемой базы и&nbsp;установленных ставок</td></tr><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr59/"></a><a data-anchor="/document/16/205053/dfas9v4zkn/" data-dfa="dfas9v4zkn"></a>НДФЛ</td><td style="text-align:left; vertical-align:middle; width:49.89%"><a data-anchor="/document/16/205053/bssPhr60/"></a><a data-anchor="/document/16/205053/dfasp1x84e/" data-dfa="dfasp1x84e"></a>12%</td></tr><tr><td style="text-align:left; vertical-align:middle; width:49.96%"><a data-anchor="/document/16/205053/bssPhr61/"></a><a data-anchor="/document/16/205053/dfasgawmt7/" data-dfa="dfasgawmt7"></a>Социальный налог</td><td style="text-align:left; vertical-align:middle; width:49.89%"><a data-anchor="/document/16/205053/bssPhr62/"></a><a data-anchor="/document/16/205053/dfask3rbts/" data-dfa="dfask3rbts"></a>12%</td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Если российская компания не&nbsp;предоставила справку о&nbsp;резидентстве, нужно&nbsp;ли удерживать налог на&nbsp;прибыль у&nbsp;источника выплаты</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr64/"></a><a data-anchor="/document/16/205053/dfash4g7zh/" data-dfa="dfash4g7zh"></a>Нет, не&nbsp;нужно.</p><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr65/"></a><a data-anchor="/document/16/205053/dfashvwymp/" data-dfa="dfashvwymp"></a>Если консалтинговые услуги оказаны резидентом Российской Федерации за&nbsp;пределами Республики Узбекистан, например, на&nbsp;территории Российской Федерации, то&nbsp;данные доходы не&nbsp;подлежат обложению в&nbsp;Республике Узбекистан, следовательно, резидент Российской Федерации не&nbsp;должен предоставлять документ, подтверждающий налоговое резидентство.</p><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr66/"></a><a data-anchor="/document/16/205053/dfasc23nvk/" data-dfa="dfasc23nvk"></a>Доходы от&nbsp;выполнения работ, оказания услуг за&nbsp;пределами Республики Узбекистан, за&nbsp;исключением доходов от&nbsp;выполнения работ, оказания услуг, предусмотренных <span num="51" target="_self" lnktype="intlnk" title="" class="doc">частью второй</span> статьи&nbsp;351&nbsp;НК, не&nbsp;относятся к&nbsp;доходам нерезидентов от&nbsp;источников в&nbsp;Республике Узбекистан (<span num="52" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;3&nbsp;ст.&nbsp;351&nbsp;НК).</p></div></div></div><a data-anchor="/document/16/205053/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205053/bssPhr67/"></a><a data-anchor="/document/16/205053/dfas4lfs3w/" data-dfa="dfas4lfs3w"></a>Налоги с&nbsp;физлиц-нерезидентов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205053/bssPhr69/"></a><a data-anchor="/document/16/205053/dfasgnsgy6/" data-dfa="dfasgnsgy6"></a>Постоянное проживающие физлица-нерезиденты имеют:</p><ul class="c-list"><li><a data-anchor="/document/16/205053/bssPhr70/"></a><a data-anchor="/document/16/205053/dfaswchxdz/" data-dfa="dfaswchxdz"></a>прописку;</li><li><a data-anchor="/document/16/205053/dfas3t1u74/" data-dfa="dfas3t1u74"></a>вид на&nbsp;жительство.</li></ul><p><a data-anchor="/document/16/205053/bssPhr71/"></a><a data-anchor="/document/16/205053/dfasnxif3z/" data-dfa="dfasnxif3z"></a>Доходы физлица-нерезидента у&nbsp;источника доходов в&nbsp;РУз облагают налогами без вычетов:</p><ul class="c-list"><li><a data-anchor="/document/16/205053/bssPhr72/"></a><a data-anchor="/document/16/205053/dfastbggmc/" data-dfa="dfastbggmc"></a>дивиденды и&nbsp;проценты, страховые премии по&nbsp;договорам страхования, сострахования и&nbsp;перестрахования по&nbsp;ставке 10&nbsp;процентов;</li><li>доходы от&nbsp;предоставления транспортных услуг при международных перевозках по&nbsp;ставке 6&nbsp;процентов;</li><li>доходы по&nbsp;трудовым договорам и&nbsp;ГПД, другие доходы по&nbsp;ставке 20&nbsp;процентов.</li></ul><p><a data-anchor="/document/16/205053/bssPhr73/"></a><a data-anchor="/document/16/205053/dfassdqpnc/" data-dfa="dfassdqpnc"></a>Налогообложение у&nbsp;источника выплаты не&nbsp;зависит от&nbsp;того, произведен платеж внутри или за&nbsp;пределами республики.</p><p><a data-anchor="/document/16/205053/bssPhr74/"></a><a data-anchor="/document/16/205053/dfasftdfec/" data-dfa="dfasftdfec"></a>Если иностранный гражданин или лицо без гражданства находился на&nbsp;территории страны в&nbsp;качестве:</p><ul class="c-list"><li><a data-anchor="/document/16/205053/bssPhr75/"></a><a data-anchor="/document/16/205053/dfas1rvvgg/" data-dfa="dfas1rvvgg"></a>лица с&nbsp;дипломатическим или консульским статусом и&nbsp;члена его семьи;</li><li>сотрудника международной организации;</li><li>транзитного пассажира;</li><li>туриста на&nbsp;лечении или отдыхе;</li><li>то&nbsp;его пребывание не&nbsp;будет фактическим временем нахождения (<span num="34" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;7</span>&nbsp;ст.&nbsp;30&nbsp;НК).</li></ul><p><a data-anchor="/document/16/205053/bssPhr76/"></a><a data-anchor="/document/16/205053/dfaswaoifw/" data-dfa="dfaswaoifw"></a>Налогообложение нерезидентов устанавливают&nbsp;НК, решения Президента и&nbsp;Правительства.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какие налоги платить с&nbsp;заработной платы директора-нерезидента</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205053/bssPhr78/"></a><a data-anchor="/document/16/205053/dfasbw343b/" data-dfa="dfasbw343b"></a>Налогоплательщиками <span num="177" target="_self" lnktype="intlnk" title="" class="doc">НДФЛ</span> признаются физлица: (<span num="178" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;364</span>&nbsp;НК)</p><ol class="c-list"><li><a data-anchor="/document/16/205053/bssPhr79/"></a><a data-anchor="/document/16/205053/dfastoia0s/" data-dfa="dfastoia0s"></a>резиденты РУз;</li><li><a data-anchor="/document/16/205053/bssPhr80/"></a><a data-anchor="/document/16/205053/dfaspw1tx2/" data-dfa="dfaspw1tx2"></a>нерезиденты РУз, получающие доходы от&nbsp;источников в&nbsp;РУз.</li></ol><p><a data-anchor="/document/16/205053/bssPhr81/"></a><a data-anchor="/document/16/205053/dfasl0gd4g/" data-dfa="dfasl0gd4g"></a>Доходы, полученные нерезидентом по <span num="179" target="_self" lnktype="intlnk" title="" class="doc">трудовым договорам</span> (контрактам) облагаются по&nbsp;ставке 12&nbsp;процентов (<span num="180" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ст.&nbsp;382&nbsp;НК).</p><p><a data-anchor="/document/16/205053/bssPhr82/"></a><a data-anchor="/document/16/205053/dfasl1iqr6/" data-dfa="dfasl1iqr6"></a>Расходы работодателя на&nbsp;оплату труда работников являются объектом налогообложения <span num="181" target="_self" lnktype="intlnk" title="" class="doc">соцналогом</span> (<span num="182" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;403&nbsp;НК).</p><p><a data-anchor="/document/16/205053/bssPhr83/"></a><a data-anchor="/document/16/205053/dfasf5gv12/" data-dfa="dfasf5gv12"></a>Право на&nbsp;накопительное пенсионное обеспечение имеют граждане РУз, а&nbsp;также иностранные граждане и&nbsp;лица без гражданства, постоянно проживающие на&nbsp;территории РУз (<span num="183" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;4</span>&nbsp;Закона «О&nbsp;накопительном пенсионном обеспечении граждан»). Для работодателей, а&nbsp;также граждан, осуществляющих трудовую деятельность по&nbsp;трудовому договору, участие в&nbsp;накопительной пенсионной системе является обязательным (<span num="184" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;6</span>&nbsp;Закона «О&nbsp;накопительном пенсионном обеспечении граждан»). Следовательно, граждане Узбекистана участвуют в&nbsp;НПС в&nbsp;обязательном порядке, тогда как иностранные граждане и&nbsp;лица без гражданства имеют право участвовать в&nbsp;НПС на&nbsp;добровольной основе при условии их&nbsp;постоянного проживания в&nbsp;стране.</p><p><a data-anchor="/document/16/205053/bssPhr84/"></a><a data-anchor="/document/16/205053/dfashuocvo/" data-dfa="dfashuocvo"></a>То&nbsp;есть по&nbsp;доходам, начисленным нерезиденту-физлицу в:</p><ul class="c-list"><li><a data-anchor="/document/16/205053/bssPhr85/"></a><a data-anchor="/document/16/205053/dfaslolgnt/" data-dfa="dfaslolgnt"></a>обязательном порядке уплачивается НДФЛ и&nbsp;социальный налог;</li><li>добровольном порядке&nbsp;— <span num="185" target="_self" lnktype="intlnk" title="" class="doc">ИНПС</span>.</li></ul><p><a data-anchor="/document/16/205053/bssPhr86/"></a><a data-anchor="/document/16/205053/dfas5t1o6b/" data-dfa="dfas5t1o6b"></a>Данные по&nbsp;доходам, начисленным нерезиденту, нужно отразить в&nbsp;«Расчет налога на&nbsp;доходы физических лиц и&nbsp;социального налога» в&nbsp;Приложение 4&nbsp;с пометкой «2» по&nbsp;графе 6. Отдельного Расчета на&nbsp;доходы, выплаченные нерезиденту-физлицу, сдавать не&nbsp;нужно.</p></div></div></div><a data-anchor="/document/16/205053/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205053/bssPhr87/"></a><a data-anchor="/document/16/205053/dfas7f1gre/" data-dfa="dfas7f1gre"></a>Соглашение об&nbsp;избежании двойного налогообложения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205053/bssPhr91/"></a><a data-anchor="/document/16/205053/dfaszixklq/" data-dfa="dfaszixklq"></a>Чтобы избежать <span num="159" lnktype="intlnk" title="Двойное налогообложение" class="doc">двойного налогообложения</span>, страны подписывают Соглашения об&nbsp;избежании двойного налогообложения. Если в&nbsp;Соглашении предусмотрен иной порядок налогообложения, нежели в&nbsp;НК, то&nbsp;следует применять положения Соглашения (<span num="160" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;2&nbsp;НК). Налогообложение в&nbsp;международных договорах основано на&nbsp;принципах взаимности.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205053/dfasyeucdm/" data-dfa="dfasyeucdm"></a><a data-anchor="/document/16/205053/bssPhr92/"></a>Налогообложения доходов, если физлицо-резидент РФ&nbsp;получило доход в&nbsp;РУз</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205053/bssPhr93/"></a><a data-anchor="/document/16/205053/dfasl27htm/" data-dfa="dfasl27htm"></a>Доход облагают налогами в&nbsp;Узбекистане по&nbsp;тем&nbsp;же ставкам и&nbsp;в&nbsp;том&nbsp;же порядке, в&nbsp;каком облагают в&nbsp;России доход резидента Узбекистана из&nbsp;источника в&nbsp;России.</p></div></div></div><a data-anchor="/document/16/205053/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/205053/bssPhr94/"></a><a data-anchor="/document/16/205053/dfascw0pbd/" data-dfa="dfascw0pbd"></a>Налоги с&nbsp;приглашенных иностранных специалистов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205053/bssPhr97/"></a><a data-anchor="/document/16/205053/dfas5dhw5d/" data-dfa="dfas5dhw5d"></a>Приглашенные иностранные специалисты платят налоги согласно <span num="234" target="_self" lnktype="intlnk" title="" class="doc">НК</span>. Если иностранный работник-нерезидент живет в&nbsp;Узбекистане менее 183&nbsp;дней, его доходы облагают по&nbsp;ставке 20&nbsp;процентов. Когда он&nbsp;получает статус <a href="https://1gb.uz/#/document/16/205053/p1/">резидента</a>, <span num="86" lnktype="intlnk" title="" class="doc">НДФЛ</span> пересчитывают по&nbsp;шкале.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какие налоговые последствия возникнут, если предприятие привлекает для работ иностранных специалистов</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr99/"></a><a data-anchor="/document/16/205053/dfas60f5se/" data-dfa="dfas60f5se"></a>Расходы предприятия на&nbsp;оплату проезда иностранных сотрудников к&nbsp;месту работы относятся к&nbsp;доходам в&nbsp;виде материальной выгоды этих физических лиц (<span num="60" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;376&nbsp;НК).</p><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr100/"></a><a data-anchor="/document/16/205053/dfaslzby10/" data-dfa="dfaslzby10"></a>Доходы в&nbsp;виде материальной выгоды подлежат обложению НДФЛ у&nbsp;источника выплат (<span num="61" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;1&nbsp;т.&nbsp;387&nbsp;НК), по&nbsp;ставкам, предусмотренным <span num="73" target="_self" lnktype="intlnk" title="" class="doc">пунктом&nbsp;3</span>&nbsp;статьи&nbsp;382&nbsp;НК.</p><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr101/"></a><a data-anchor="/document/16/205053/dfasn09dkh/" data-dfa="dfasn09dkh"></a>При определении налоговой базы по&nbsp;налогу на&nbsp;прибыль расходы предприятия, являющиеся доходами физических лиц в&nbsp;виде материальной выгоды, не&nbsp;вычитайте из&nbsp;налоговой базы (<span num="62" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ст.&nbsp;317&nbsp;НК).</p><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr102/"></a><a data-anchor="/document/16/205053/dfasd0wy9o/" data-dfa="dfasd0wy9o"></a>Предприятие не&nbsp;может взять в&nbsp;зачет НДС, уплаченный при компенсации расходов, признаваемых доходом физических лиц в&nbsp;виде материальной выгоды (<span num="63" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;7</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;267&nbsp;НК). Сумму НДС, не&nbsp;подлежащую зачету, учитывайте в&nbsp;стоимости приобретенных товаров, услуг (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;267&nbsp;НК).</p><p style="text-align:left"><a data-anchor="/document/16/205053/bssPhr103/"></a><a data-anchor="/document/16/205053/dfas3iwgx3/" data-dfa="dfas3iwgx3"></a>Доходы иностранных физических лиц подлежат налогообложению на&nbsp;территории Узбекистана с&nbsp;учетом условий международных договоров. Если международным договором установлены иные правила, чем&nbsp;те, которые предусмотрены налоговым законодательством РУз, то&nbsp;применяйте правила международного договора (<span num="65" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;4</span>&nbsp;НК).</p></div></div></div><p><a data-anchor="/document/16/205053/dfas78xdkh/" data-dfa="dfas78xdkh"></a><a data-anchor="/document/16/205053/bssPhr104/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

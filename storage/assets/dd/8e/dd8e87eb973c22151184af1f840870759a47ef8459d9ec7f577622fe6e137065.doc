@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как зарегистрировать и снять с учета онлайн-ККТ</h2><div class="doc-snippet"><a data-anchor="/document/16/209925/dfasm5bnh0/" data-dfa="dfasm5bnh0"></a><a data-anchor="/document/16/209925/bssPhr2/"></a>. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/209925/bssPhr3/"></a><a data-anchor="/document/16/209925/dfasxiebqa/" data-dfa="dfasxiebqa"></a>ККМ можно применять <strong>только после регистрации </strong>ее в налоговых органах по месту расположения стационарной торговой точки (<a data-anchor="/document/16/209925/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/20923/dfas1nkza1/" class="link npd" target="_self" title="" moduleId="90" documentId="20923" anchor="dfas1nkza1">п. 16</a> Положения, приложение № 1 к ПКМ № 943).&nbsp;</p><p><a data-anchor="/document/16/209925/bssPhr4/"></a><a data-anchor="/document/16/209925/dfas0ecn8t/" data-dfa="dfas0ecn8t"></a>Субъекты предпринимательства, осуществляющие выездную торговлю, регистрируют онлайн-ККМ или виртуальную кассу в налоговых органах по месту своей регистрации (<a data-anchor="/document/16/209925/backlinkanchor12/" type="backlink-anchor"></a><a href="#/document/90/20924/dfaseuxcm5/" class="link npd" target="_self" title="" moduleId="90" documentId="20924" anchor="dfaseuxcm5">абз.2</a> п.16 Положения, приложение №1 к ПКМ № 943, введен с 01.03.2021 г. <a data-anchor="/document/16/209925/backlinkanchor16/" type="backlink-anchor"></a><a href="#/document/90/10613" class="link npd" target="_self" title="" moduleId="90" documentId="10613">ПКМ № 736</a> от 20.11.2020 г.).</p><p><a data-anchor="/document/16/209925/bssPhr5/"></a><a data-anchor="/document/16/209925/dfas83ug1f/" data-dfa="dfas83ug1f"></a>О том, как это сделать, в каких случаях онлайн-ККМ или виртуальную кассу нужно снять с учета – в этой рекомендации.</p><a data-anchor="/document/16/209925/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/209925/bssPhr6/"></a><a data-anchor="/document/16/209925/dfasq86e1o/" data-dfa="dfasq86e1o"></a>Регистрация онлайн-ККТ в налоговых органах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209925/bssPhr8/"></a><a data-anchor="/document/16/209925/dfasy7o18v/" data-dfa="dfasy7o18v"></a>Для постановки на учет онлайн-ККТ<strong>в налоговых органах нужно подать заявление в письменной или в электронной форме через центр по оказанию технических услуг (ЦОТУ).</strong></p><p><a data-anchor="/document/16/209925/bssPhr9/"></a><a data-anchor="/document/16/209925/dfask0ngzy/" data-dfa="dfask0ngzy"></a>К заявлению приложите:</p><ul class="c-list"><li><a data-anchor="/document/16/209925/bssPhr10/"></a><a data-anchor="/document/16/209925/dfasdyvocs/" data-dfa="dfasdyvocs"></a>копии документов, подтверждающих наличие стационарного пункта или объекта выездной торговли. Такими документами являются договор аренды здания, сооружения или его части, либо кадастровые документы. С 01.07.2022 г. отменено требование о наличии стационарной точки для регистрации в налоговых органах ККМ с фискальной памятью (<span num="20" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span> приложения № 3 к № УП-113 от 20.04.2022г.). Но для онлайн ККМ это не предусмотрено;</li><li>координаты на карте адреса стационарного пункта торговли, оказания услуг, а для объекта выездной торговли – координаты офиса;</li><li>копию договора, заключенного с ЦОТУ о техническом обслуживании и ремонте онлайн-ККМ и (или) виртуальной кассы.</li></ul><p><a data-anchor="/document/16/209925/bssPhr11/"></a><a data-anchor="/document/16/209925/dfasvz3f4m/" data-dfa="dfasvz3f4m"></a><a data-anchor="/document/16/209925/dfastcfdgw/" data-dfa="dfastcfdgw"></a>ЦОТУ в течение 4 рабочих часов с момента принятия заявления регистрирует его в специальной информационной системе. После регистрации, заявление рассматривает налоговый орган в течение 8 рабочих часов (<span num="4" target="_self" lnktype="intlnk" title="" class="doc">п. 18</span> Положения, приложение № 1 к ПКМ № 943, с 01.03.2021 г. в редакции <span num="21" target="_self" lnktype="intlnk" title="" class="doc">ПКМ № 736</span> от 20.11.2020 г.).</p><p><a data-anchor="/document/16/209925/bssPhr12/"></a><a data-anchor="/document/16/209925/dfasqmigao/" data-dfa="dfasqmigao"></a>Если налоговыми органами выявлены несоответствия в представленных данных, то сотрудник налогового органа в течение одного рабочего дня выезжает на место для изучения несоответствий.</p><p><a data-anchor="/document/16/209925/bssPhr13/"></a><a data-anchor="/document/16/209925/dfasznuuzf/" data-dfa="dfasznuuzf"></a>Налоговые органы могут отказать в регистрации онлайн-ККТ только при:</p><ul class="c-list"><li><a data-anchor="/document/16/209925/bssPhr14/"></a><a data-anchor="/document/16/209925/dfaspnlv46/" data-dfa="dfaspnlv46"></a>неполном представлении документов,</li><li>выявлении в представленных документах несоответствий,</li><li>указании данных онлайн-ККМ или виртуальной кассы, не включенных в Государственный реестр.</li></ul><p><a data-anchor="/document/16/209925/bssPhr15/"></a><a data-anchor="/document/16/209925/dfasvf4k56/" data-dfa="dfasvf4k56"></a>В других случаях отказ в регистрации не допускается. Уведомление об отказе, с указанием конкретных причин, налоговый орган не позднее одного рабочего дня направляет в ЦОТУ и персональный кабинет субъекта предпринимательства.</p><p><a data-anchor="/document/16/209925/bssPhr16/"></a><a data-anchor="/document/16/209925/dfasqwiwgx/" data-dfa="dfasqwiwgx"></a>После устранения всех причин отказа, субъект предпринимательства вправе повторно обратиться в налоговые органы для регистрации онлайн-ККТ.</p><p><a data-anchor="/document/16/209925/bssPhr17/"></a><a data-anchor="/document/16/209925/dfas7xhctr/" data-dfa="dfas7xhctr"></a>Если причин для отказа в регистрации онлайн-ККТ нет, то налоговые органы регистрируют её и данные о регистрации направляют в персональный кабинет субъекта предпринимательства.</p><p><a data-anchor="/document/16/209925/bssPhr18/"></a><a data-anchor="/document/16/209925/dfasceqxgg/" data-dfa="dfasceqxgg"></a>Плата за регистрацию онлайн-ККМ или виртуальной кассы не взимается.</p><p><a data-anchor="/document/16/209925/bssPhr19/"></a><a data-anchor="/document/16/209925/dfasdeq8fc/" data-dfa="dfasdeq8fc"></a>Если субъект предпринимательства изменил адрес стационарного пункта, то в течение трёх рабочих дней он должен представить в ЦОТУ заявление вместе с копиями документов, подтверждающих наличие стационарного пункта по новому адресу. Заявление можно представить в явочном порядке или в электронном виде.</p><p><a data-anchor="/document/16/209925/bssPhr20/"></a><a data-anchor="/document/16/209925/dfasoueoti/" data-dfa="dfasoueoti"></a>Заявление в ЦОТУ нужно также представить при:</p><ul class="c-list"><li><a data-anchor="/document/16/209925/bssPhr21/"></a><a data-anchor="/document/16/209925/dfasuqx8v0/" data-dfa="dfasuqx8v0"></a>приостановлении деятельности;</li><li>неисправности, окончании срока действия онлайн-ККМ или виртуальной кассы;</li><li>заполнения данными памяти фискального модуля;</li><li>необходимости замены онлайн-ККМ или виртуальной кассы;</li><li>в других непредусмотренных случаях.</li></ul><p><a data-anchor="/document/16/209925/bssPhr22/"></a><a data-anchor="/document/16/209925/dfasbak856/" data-dfa="dfasbak856"></a>При возникновении необходимости использования на объектах выездной торговли онлайн-ККМ или виртуальной кассы, установленных в приостановившем свою деятельность стационарном пункте торговли, субъект предпринимательства до начала деятельности уведомляет об этом налоговые органы по месту регистрации с указанием места и срока осуществления выездной торговли.</p></div><a data-anchor="/document/16/209925/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/209925/bssPhr23/"></a><a data-anchor="/document/16/209925/dfas3qq8t9/" data-dfa="dfas3qq8t9"></a>Как снять с учета онлайн-ККТ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209925/bssPhr25/"></a><a data-anchor="/document/16/209925/dfaskvtgyt/" data-dfa="dfaskvtgyt"></a>Обязательно снимите ККМ с регистрационного учета, при:</p><ul class="c-list"><li><a data-anchor="/document/16/209925/bssPhr26/"></a><a data-anchor="/document/16/209925/dfas4ughkk/" data-dfa="dfas4ughkk"></a>ликвидации хоз. субъекта;</li><li>прекращении использования ККМ.</li></ul><p><a data-anchor="/document/16/209925/bssPhr27/"></a><a data-anchor="/document/16/209925/dfasc20gix/" data-dfa="dfasc20gix"></a>Об этом сказано в <span num="5" target="_self" lnktype="intlnk" title="" class="doc">пункте 26</span> Положения, приложение № 1 к ПКМ № 943 .</p><p><a data-anchor="/document/16/209925/bssPhr28/"></a><a data-anchor="/document/16/209925/dfasostu01/" data-dfa="dfasostu01"></a>Чтобы снять онлайн-ККТ с учета, подайте в ЦОТУ, с которым заключили договор, заявление в явочном порядке по форме <span num="22" target="_self" lnktype="intlnk" title="" class="doc">приложения № 3</span> к Положению, № 943.</p><p><a data-anchor="/document/16/209925/bssPhr29/"></a><a data-anchor="/document/16/209925/dfasevxs66/" data-dfa="dfasevxs66"></a>К заявлению приложите фискальный модуль, используемый в снимаемой с учета онлайн-ККТ (<span num="6" target="_self" lnktype="intlnk" title="" class="doc">п. 12</span> Положения, приложение № 1 к ПКМ № 943 от 23.11.2019 г.).</p><p><a data-anchor="/document/16/209925/bssPhr30/"></a><a data-anchor="/document/16/209925/dfasznmtzf/" data-dfa="dfasznmtzf"></a>В течение одного рабочего дня, с момента подачи заявления, ЦОТУ регистрирует заявление в информационной системе онлайн-ККТ (<span num="7" target="_self" lnktype="intlnk" title="" class="doc">п. 27</span> Положения, приложение № 1 к ПКМ № 943).</p><p><a data-anchor="/document/16/209925/bssPhr31/"></a><a data-anchor="/document/16/209925/dfasaalxmz/" data-dfa="dfasaalxmz"></a>После регистрации заявления налоговый орган в течение одного рабочего дня изучает правильность и достоверность представленных данных и принимает решение. Налоговые органы в течение одного рабочего дня изучают правильность и достоверность, полученных данных, сравнивают их со сведениями, имеющимися у них и если обнаружены несоответствия, то могут выехать на место (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">п. 28</span> Положения, приложение № 1 к ПКМ № 943).</p><p><a data-anchor="/document/16/209925/bssPhr32/"></a><a data-anchor="/document/16/209925/dfasrhkqkc/" data-dfa="dfasrhkqkc"></a>После принятия решения, снятие с учета отражается в информационной системе учета онлайн-ККТ и в персональном кабинете налогоплательщика. Напротив номера модуля онлайн-ККМ или виртуальной кассы появится сообщение о снятии с учета.</p><p><a data-anchor="/document/16/209925/bssPhr33/"></a><a data-anchor="/document/16/209925/dfasrdqkyw/" data-dfa="dfasrdqkyw"></a>При приостановке деятельности сообщите об этом ЦОТУ, представив в течение трех рабочих дней заявление в явочном порядке или в электронном виде (<span num="9" target="_self" lnktype="intlnk" title="" class="doc">п. 25</span> Положения, приложение № 1 к ПКМ № 943).&nbsp;</p><p><a data-anchor="/document/16/209925/bssPhr34/"></a><a data-anchor="/document/16/209925/dfas1o7eu0/" data-dfa="dfas1o7eu0"></a>Фискальный модуль нужно сдать в ЦОТУ вместе с заявлением о снятии с учета онлайн-ККТ (<span num="10" target="_self" lnktype="intlnk" title="" class="doc">п. 12</span> Положения, прил. № 1 к ПКМ № 943 от 23.11.2019 г.).</p><p><a data-anchor="/document/16/209925/bssPhr35/"></a><a data-anchor="/document/16/209925/dfasbnpssb/" data-dfa="dfasbnpssb"></a>Но, онлайн-ККМ или виртуальная касса - это собственность субъекта предпринимательства, следовательно, после снятия их с учета они остаются у субъекта предпринимательства.</p><p><a data-anchor="/document/16/209925/bssPhr36/"></a><a data-anchor="/document/16/209925/dfasipq6wq/" data-dfa="dfasipq6wq"></a>Договор с ЦОТУ на техническое обслуживание нужно расторгнуть или приостановить, в случае временной приостановки деятельности предприятия.</p></div><p><a data-anchor="/document/16/209925/dfasm1qfhe/" data-dfa="dfasm1qfhe"></a><a data-anchor="/document/16/209925/bssPhr37/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

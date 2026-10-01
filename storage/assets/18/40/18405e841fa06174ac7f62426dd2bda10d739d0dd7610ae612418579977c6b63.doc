@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Постановление ГТК РУз от 31.01.2019 № 2019-07</div><h2 class="auth__title">Якка тартибдаги тадбиркорлар томонидан товарларни (ишларни, хизматларни) реализация қилишдан олинган тушумни ҳисоблаш ва солиқлар тўлаш тартиби тўғрисидаги низомни тасдиқлаш ҳақида (ўз кучини йўқотган)</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/4223/dfashkem49/"></a><a data-anchor="/document/90/4223/titq3_qq/"></a><a data-anchor="/document/90/4223/dfas3g2zg5/"></a><strong>ЎЗБЕКИСТОН РЕСПУБЛИКАСИ ДАВЛАТ СОЛИҚ ҚЎМИТАСИНИНГ<br>ҚАРОРИ</strong></p><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/4223/dfas0cp6ni/"></a><strong>Якка тартибдаги тадбиркорлар томонидан товарларни (ишларни, хизматларни) реализация қилишдан олинган тушумни ҳисоблаш ва солиқлар тўлаш тартиби тўғрисидаги низомни тасдиқлаш ҳақида</strong></p><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/4223/dfas4s8apu/"></a><strong>[Ўзбекистон Республикаси Адлия вазирлиги томонидан 2019 йил 19 мартда рўйхатдан ўтказилди, рўйхат рақами 3143]</strong></p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/4223/dfaslig7nt/"></a>Ўзбекистон Республикасининг Солиқ кодекси ва Ўзбекистон Республикаси Президентининг 2018 йил 26 декабрдаги ПҚ-4086-сон &#171;Ўзбекистон Республикасининг 2019 йилги асосий макроиқтисодий кўрсаткичлари прогнози ва Давлат бюджети параметрлари ҳамда 2020-2021 йилларга бюджет мўлжаллари тўғрисида&#187;ги қарорига мувофиқ Ўзбекистон Республикаси Давлат солиқ қўмитаси қарор қилади:</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/4223/dfas7wqd3z/"></a>1. Якка тартибдаги тадбиркорлар томонидан товарларни (ишларни, хизматларни) реализация қилишдан олинган тушумни ҳисоблаш ва солиқлар тўлаш тартиби тўғрисидаги низом <a href="https://1gb.uz/#/document/90/4223/p/" title="" class="anc npd" anchor="#p">иловага</a> мувофиқ тасдиқлансин.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/4223/dfasug1me8/"></a>2. Ўзбекистон Республикаси Молия вазирлиги, Иқтисодиёт вазирлиги ҳамда Давлат солиқ қўмитасининг 2017 йил 27 ноябрдаги 165, 151, 2017-68-сон &#171;Савдо фаолиятини амалга оширувчи якка тартибдаги тадбиркорларнинг даромадларини ва товар операцияларини ҳисобга олиш тартиби тўғрисидаги низомни тасдиқлаш ҳақида&#187;ги қарори (рўйхат рақами 2958, 2017 йил 29 декабрь) (Қонун ҳужжатлари маълумотлари миллий базаси, 30.12.2017 й., 10/17/2958/0477-сон) ўз кучини йўқотган деб топилсин.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/4223/dfasg3vifk/"></a>3. Мазкур қарор расмий эълон қилинган кундан эътиборан кучга киради.</p><p style="text-align:right"><a data-anchor="/document/90/4223/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/4223/dfaswlpgyu/"></a><strong>Раис<br>Б. Мусаев</strong></p><p><a data-anchor="/document/90/4223/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/4223/dfasw4vgef/"></a>Тошкент ш.,<br>2019 йил 31 январь,<br>2019-07-сон</p><p style="text-align:right"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/4223/dfaslqixit/"></a><a data-anchor="/document/90/4223/p/"></a>Ўзбекистон Республикаси Давлат солиқ қўмитасининг<br>2019 йил 31 январдаги 2019-07-сон қарорига<br>ИЛОВА</p><div class="doc__untyped doc-start" data-type="untyped" data-level="2"><a data-role="toc" data-anchor="/document/90/4223/tit9/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/4223/dfasrq5ng6/"></a>Якка тартибдаги тадбиркорлар томонидан товарларни (ишларни, хизматларни) реализация қилишдан олинган тушумни ҳисоблаш ва солиқлар тўлаш тартиби тўғрисидаги&#160;<br>НИЗОМ</span></div><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/4223/dfasg1apq7/"></a>Мазкур Низом Ўзбекистон Республикасининг Солиқ кодекси ва Ўзбекистон Республикаси Президентининг 2018 йил 26 декабрдаги ПҚ-4086-сон &#171;Ўзбекистон Республикасининг 2019 йилги асосий макроиқтисодий кўрсаткичлари прогнози ва Давлат бюджети параметрлари ҳамда 2020-2021 йилларга бюджет мўлжаллари тўғрисида&#187;ги қарори 8-бандига мувофиқ якка тартибдаги тадбиркорлар томонидан товарларни (ишларни, хизматларни) реализация қилишдан олинган тушумни ҳисоблаш ва солиқларни тўлаш тартибини белгилайди.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/4223/tit2/"></a><span class="doc__chapter-number" style="text-align:left"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/4223/dfass6f66d/"></a>1 </span><span class="doc__chapter-name">-боб. Умумий қоидалар</span></div><p><a data-anchor="/document/90/4223/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/4223/dfas5kpqor/"></a>1. Мазкур Низом:</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/4223/dfas8qkx48/"></a>календарь йилида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўмдан ошмаган қатъий белгиланган солиқ тўловчиларга;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/4223/dfaszmo7pp/"></a>календарь йилида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўмдан ошган, бироқ бир миллиард сўмгача бўлган ягона солиқ тўловини тўловчи якка тартибдаги тадбиркорларга нисбатан татбиқ этилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/4223/dfasbsxlot/"></a>2. Товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми календарь йил давомида бир миллиард сўмдан ошган якка тартибдаги тадбиркорлар солиқлар ва мажбурий тўловларни юридик шахслар учун назарда тутилган тартибда тўлайди ҳамда бухгалтерия ҳисобини қонун ҳужжатларида белгиланган тартибда юритади.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/4223/tit3/"></a><span class="doc__chapter-number" style="text-align:left"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/4223/dfasgqevok/"></a>2 </span><span class="doc__chapter-name">-боб. Якка тартибдаги тадбиркорлар учун даромадларни ва товар операцияларини ҳисобга олиш регистрлари</span></div><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/4223/dfash5ttqi/"></a>3. Товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми бир миллиард сўмдан ошмаган якка тартибдаги тадбиркорлар томонидан даромадларни ва товар операцияларини ҳисобга олиш регистрлари ҳамда товар чеклари китобчаси юритилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/4223/dfasq95451/"></a>4. Даромадларни ва товар операцияларини ҳисобга олиш регистрлари ва товар чеклари китобчаси Ўзбекистон Республикаси Молия вазирлиги ва Давлат солиқ қўмитасининг 2019 йил 7 январдаги 2, 2019-05-сон &#171;Солиқ ҳисоботининг шаклларини тасдиқлаш тўғрисида&#187;ги қарорининг (рўйхат рақами 3126, 2019 йил 21 январь) 11-иловасига мувофиқ шаклда юритилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/4223/dfasmggzmu/"></a>Бунда даромадларни ва товар операцияларини ҳисобга олиш регистрлари китоб шаклида (бундан буён матнда Ҳисобга олиш китоби деб юритилади) тикилади, унинг биринчи варағида якка тартибдаги тадбиркор тўғрисидаги маълумотлар тўлдирилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/4223/dfasrr5hr6/"></a>Ҳисобга олиш китобининг кейинги варақларида фаолият туридан келиб чиқиб:</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/4223/dfasz3ymng/"></a>чакана савдо фаолияти билан шуғулланувчи якка тартибдаги тадбиркорларнинг товарлар ҳаракати тўғрисидаги регистри;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/4223/dfasgr3mmx/"></a>тижорат фаолияти учун четдан товарлар олиб келувчи якка тартибдаги тадбиркорларнинг товарлар ҳаракати тўғрисидаги регистри;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/4223/dfasvogkrf/"></a>хизмат кўрсатиш фаолияти билан шуғулланувчи якка тартибдаги тадбиркорларнинг кўрсатилган хизматлар ҳаракати тўғрисидаги регистрлари ўз фаолияти учун лозим бўладиган миқдорда (варақда) тикилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/4223/dfasfu96gg/"></a>5. Аҳоли билан пулли ҳисоб-китобларни назорат-касса машиналарини қўлламасдан амалга ошириши мумкин бўлган фаолият турлари билан шуғулланадиган якка тартибдаги тадбиркор товар чеклари китобчасини солиқ органларига рўйхатдан ўтказиш учун тақдим этиши лозим.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/4223/dfaslmmcbz/"></a>Товар чеклари китобчаси якка тартибдаги тадбиркорнинг аризасига асосан у рўйхатдан ўтказилган жойдаги давлат солиқ хизмати органларида рўйхатдан ўтказилади.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/4223/tit4/"></a><span class="doc__chapter-number" style="text-align:left"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/4223/dfas8drp95/"></a>3 </span><span class="doc__chapter-name">-боб. Якка тартибдаги тадбиркорлар томонидан даромадларни ва товар операцияларининг ҳисобини юритиш</span></div><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/4223/dfasogzxro/"></a>6. Ўз фаолиятининг хусусиятига кўра аҳоли билан пулли ҳисоб-китобларни назорат-касса машиналарини қўлламасдан амалга ошириши мумкин бўлган якка тартибдаги тадбиркорлар товар чеклари китобчасини юритишлари шарт.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/4223/dfas8yhrag/"></a>7. Ҳисобга олиш китобидаги ёзувлар уларнинг тўғрилигини тасдиқлаш учун у билан бирга сақланадиган ҳужжатлар асосида юритилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/4223/dfasb2dp59/"></a>8. Қуйидагилар якка тартибдаги тадбиркор томонидан харид қилинган товарларнинг (ишларнинг, хизматларнинг) манбаини тасдиқлайдиган ҳужжатлар бўлиб ҳисобланади:</p><p><a data-anchor="/document/90/4223/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/4223/dfasgpd5bz/"></a>шартнома;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/4223/dfase9lip1/"></a>товарларнинг (ишларнинг, хизматларнинг) олинганлигини тасдиқловчи ҳужжат.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/4223/dfasrew3tm/"></a>9. Қуйидагилар товарларнинг (ишларнинг, хизматларнинг) реализация қилинганлигини тасдиқлайдиган ҳужжат бўлиб ҳисобланади:</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/4223/dfasv6wgdg/"></a>назорат-касса машинаси умумий кўрсаткичи &#8212; назорат-касса машинаси қўлланилиши орқали товарлар сотилганда;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/4223/dfas1nznwa/"></a>банк пластик карточкаларидан фойдаланган ҳолда тўловлар қабул қилиш бўйича ҳисоб-китоб терминаллари чеклари нусхалари &#8212; ҳисоб-китоб терминали қўлланилганда;</p><p><a data-anchor="/document/90/4223/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/4223/dfas17676r/"></a>товар чеклари китобчаси &#8212; товар чеки берилганда.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/4223/dfas2zwf4c/"></a>10. Сотилган товарлар ва кўрсатилган хизматлар реквизитлари тўғрисидаги (товарларни сотиш, кўрсатилган хизматлар, буюртмалар манбаини тасдиқлайдиган ҳужжат, кирим ҳужжати, тўлов ҳужжати, товар коди, ўлчов бирлиги, харид ва хизмат нархи) маълумотлар Ҳисобга олиш китобига шу куннинг ўзида тегишли ёзувлар билан қайд этилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/4223/dfasngdtt5/"></a>Кунлик сотилган товарлар ва кўрсатилган хизматлар суммаси назорат-касса машинаси кўрсаткичи билан ва/ёки банк пластик карточкаларидан фойдаланган ҳолда тўловлар қабул қилиш бўйича ҳисоб-китоб терминаллари чеклари ёки ёзилган товар чеклари суммаси билан мос тушиши керак.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/4223/dfasfqahgx/"></a>11. Ҳар бир мижозга товарларнинг (ишларнинг, хизматларнинг) реализация қилинганлиги тўғрисидаги маълумотлар товар чеклари китобчасининг алоҳида варағида акс эттирилади. Товар чеклари китобчасидаги варақа икки нусхада тўлдирилади, бир нусхаси қирқиб олинади ва харидорга берилади, иккинчи нусхаси товар чеклари китобчасида тикилган ҳолда қолади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/4223/dfas9cp3by/"></a>Бунда харидорга бериладиган ва ўзида қоладиган товар чеклари китобчасининг варақасида барча ёзувлар айнан бир хил бўлиши керак.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/4223/dfaszh1hyf/"></a>12. Товар чеклари китобчасидаги варақаларда қуйидаги ёзувлар:</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/4223/dfasixu4sh/"></a>якка тартибдаги тадбиркорнинг СТИР, Ф.И.О. ва имзоси &#8212; товар чеклари китобчасини солиқ органида рўйхатдан ўтказиш учун тақдим этилгунга қадар барча варақларда якка тартибдаги тадбиркор томонидан мустақил равишда киритилади;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/4223/dfasmv9lge/"></a>қолган ёзувлар &#8212; товар чеки харидорга берилгунга қадар сотиш, хизмат кўрсатиш ва буюртмаларни бажариш пайтида киритилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/4223/dfaswcyo19/"></a>13. Товар чеклари китобининг варақлари тўлдирилганда:</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/4223/dfascuwuwg/"></a>&#171;Товар, хизмат ва буюртма номи&#187; устунида товарнинг (ишларнинг, хизматларнинг) қисқа номи акс эттирилади;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/4223/dfasb3ftll/"></a>харидорга сотиладиган ҳар бир товар, кўрсатиладиган хизматлар ва буюртмалар алоҳида сатрда акс эттирилади. Агар битта харидорга сотиладиган товарлар, кўрсатиладиган хизматлар ва буюртмаларнинг барча номини товар чеклари китобчасининг бир варағида акс эттириш имкони бўлмаса, битта харидорга сотиш бир неча варақларда расмийлаштирилади ва унга биттадан ортиқ товар чеки берилади;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/4223/dfasheitee/"></a>товар чеклари китобчаси варағининг тўлдирилмаган сатрлари чизиб қўйилади;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/4223/dfasrogpx0/"></a>нарх, миқдор, сон ва сумма тўғрисидаги маълумотлар рақамлар билан киритилади;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/4223/dfasgwpkbi/"></a>нарх ва сумма тўғрисидаги маълумотлар сўмда кўрсатилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/4223/dfas4tkb98/"></a>14. Товар чеклари китобчаси тугашига қадар, якка тартибдаги тадбиркор давлат солиқ хизмати органларида фақат битта янги товар чеклари китобчасини рўйхатдан ўтказиши мумкин.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/4223/tit5/"></a><span class="doc__chapter-number" style="text-align:left"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/4223/dfasr4gmlq/"></a>4 </span><span class="doc__chapter-name">-боб. Товарларни (ишларни, хизматларни) реализация қилишдан олинган тушумни аниқлаш</span></div><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/4223/dfasgu5l1t/"></a>15. Якка тартибдаги тадбиркорларни қатъий белгиланган солиққа тортиш тартибидан ягона солиқ тўловига ўтказиш учун солиқ органларига қуйидаги белгилар асос бўлиши мумкин:</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/4223/dfas1kir8h/"></a>якка тартибдаги тадбиркор томонидан тақдим этиладиган солиқ ҳисоботи;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/4223/dfasrawa4k/"></a>хизмат кўрсатувчи банклардаги ҳисобварақларида 100 миллион сўмдан ошган бироқ бир миллиард сўмгача товар айланмани амалга оширганлиги тўғрисидаги банк маълумотлари;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/4223/dfasivty6l/"></a>камерал назорат натижасида якка тартибдаги тадбиркор томонидан қиймати 100 миллион сўмдан ошган бироқ бир миллиард сўмгача бўлган товарларнинг сотиб олинганлиги;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/4223/dfasfzgybl/"></a>давлат божхона хизмати органларидан олинган маълумотга кўра суммаси 100 миллион сўмдан ошган бироқ бир миллиард сўмгача бўлган товарларнинг импорт қилганлиги;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/4223/dfasf1mub6/"></a>белгиланган тартибда ўтказилган хронометраж кўздан кечириш натижалари билан тушуми 100 миллион сўмдан ошган бироқ бир миллиард сўмгача эканлиги ҳисоб-китоб қилинган ҳолатда;</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/4223/dfasmik3lu/"></a>тегишли ташкилотлардан олинган бошқа маълумотлар асосида тушуми 100 миллион сўмдан ошган бироқ бир миллиард сўмгача бўлган деган хулосага келинганда.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/4223/dfaspw1p71/"></a>16. Якка тартибдаги тадбиркорларнинг товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми бир календарь йилдаги ойлар давомида ўсиб борувчи тушумдан келиб чиқиб аниқланади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/4223/dfas4qggev/"></a>17. Якка тартибдаги тадбиркорларнинг товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми миқдори фаолиятнинг бир неча тури билан шуғулланувчи якка тартибдаги тадбиркор учун барча фаолиятидан товарларни (ишларни, хизматларни) реализация қилишдан олинган жами тушумидан келиб чиқиб аниқланади.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/4223/tit6/"></a><span class="doc__chapter-number" style="text-align:left"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/4223/dfasyh80yy/"></a>5 </span><span class="doc__chapter-name">-боб. Якка тартибдаги тадбиркорларнинг ягона солиқ тўлови тўлашга ўтишининг ўзига хос хусусиятлари</span></div><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/4223/dfashv6sw0/"></a>18. Календарь йилида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўмдан ошган, бироқ бир миллиард сўмдан ошмаган якка тартибдаги тадбиркорлар ягона солиқ тўловини тўлашга ўтказилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/4223/dfasm1agik/"></a>Бунда календарь йилида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми миқдори 100 миллион сўмдан ошган ойдан кейинги ойнинг биринчи санасидан бошлаб якка тартибдаги тадбиркор товар айланмасидан ягона солиқ тўловини тўлашга ўтади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/4223/dfaspkbnqg/"></a>19. Календарь йилида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми бир миллиард сўмдан ошган якка тартибдаги тадбиркорлар солиқлар ва бошқа мажбурий тўловларни юридик шахслар учун назарда тутилган тартибда тўлайди.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/4223/dfas03hg7w/"></a>Бунда якка тартибдаги тадбиркорлар товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми миқдори бир миллиард сўмдан ошган ойдан кейинги ойнинг биринчи санасидан бошлаб ихтиёрий равишда қайта юридик шахс ташкил этган ҳолда фаолият кўрсатишлари ёки якка тартибдаги тадбиркор мақомини сақлаб қолган ҳолда юридик шахслар учун назарда тутилган солиқлар ва мажбурий тўловларни тўлашга ўтадилар.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/4223/dfasb2ygbg/"></a>20. Календарь йилида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўмдан ошмаган якка тартибдаги тадбиркорлар қатъий белгиланган солиқни тўлайди.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/4223/dfasb2tcn1/"></a>21. Ягона солиқ тўловини ҳисоблаб чиқишда қатъий белгиланган солиқ солиш даврида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушум солиқ солиш базасига киритилмайди.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/4223/dfasko2gli/"></a>Якка тартибдаги тадбиркорларга юридик шахслар учун назарда тутилган солиқлар ва мажбурий тўловларни ҳисоблашда қатъий белгиланган ва ягона солиқ тўловини тўлаш давридаги товарларни (ишларни, хизматларни) реализация қилишдан олинган тушум солиқ солиш базаси сифатида қаралмайди.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/4223/dfasgdvgi8/"></a>22. Календарь йилида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўм ва бир миллиард сўмдан ошган ҳолатда фаолиятини вақтинчалик тўхтатган (тугатган) якка тартибдаги тадбиркорлар фаолиятини қайта тиклаган санадан бошлаб ягона солиқ тўловининг ёки юридик шахслар учун назарда тутилган солиқлар ва мажбурий тўловларнинг тўловчилари ҳисобланади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/4223/dfas8or9s7/"></a>Товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўм ва бир миллиард сўмдан ошган ҳолатда фаолият турини тўхтатиб (бутунлай ёки вақтинчалик) бошқа фаолият турига ўзгартирса, олдинги фаолият турида амалга оширган товар айланмасидан келиб чиқиб ягона солиқ тўловига ёки юридик шахслар каби умумбелгиланган солиқларни тўлаш тартиби қўлланилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/4223/dfasg2aguq/"></a>23. Якка тартибдаги тадбиркорлар томонидан товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўмдан ошган ойнинг кейинги ойидан бошлаб, қатъий белгиланган солиқ бўйича тақдим этилган имтиёзлар татбиқ этилмайди.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/4223/tit7/"></a><span class="doc__chapter-number" style="text-align:left"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/4223/dfas6gbc5o/"></a>6 </span><span class="doc__chapter-name">-боб. Ҳисоботларни тақдим этиш ва тўлаш муддатлари</span></div><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/4223/dfasbptmhv/"></a>24. Товарларни (ишларни, хизматларни) реализация қилишдан олинган тушумлари 100 миллион сўмдан ошмаган якка тартибдаги тадбиркор томонидан ҳисобга олиш жойидаги солиқ органига товар айланмалари бўйича ҳисоботларни чорак якуни билан кейинги ойнинг 10-кунидан кечиктирмай тақдим этилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/4223/dfasq6qb4d/"></a>Бунда, якка тартибдаги тадбиркор товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми 100 миллион сўмдан ошган ойнинг кейинги ойидан бошлаб тушумлар тўғрисидаги ҳисоботлар тақдим этилмайди.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/4223/dfaswbpryo/"></a>Якка тартибдаги тадбиркорнинг товарларни (ишларни хизматларни) реализация қилишдан олинган тушумлари тўғрисида ҳисобот Ўзбекистон Республикаси Молия вазирлиги ва Давлат солиқ қўмитасининг 2019 йил 7 январдаги 2, 2019-05-сон &#171;Солиқ ҳисоботининг шаклларини тасдиқлаш тўғрисида&#187;ги қарорининг (рўйхат рақами 3126, 2019 йил 21 январь) 11-иловасига мувофиқ шаклда тақдим этилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/4223/dfasi4kn8y/"></a>25. Якка тартибдаги тадбиркорлар томонидан солиқ ҳисоботини тақдим этиш ва ягона солиқ тўловини тўлаш якка тартибдаги тадбиркор рўйхатдан ўтказилган жойдаги давлат солиқ хизмати органларига Ўзбекистон Республикасининг Солиқ кодексида белгиланган тартибида амалга оширилади.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/4223/dfasmizahf/"></a>Якка тартибдаги тадбиркорларихтиёрий равишда ҳар ойда ягона солиқ тўловини аванс тариқасида тўлашлари мумкин.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr79/" data-role="phrase-anchor" data-phrase-id="79" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr79"></a><a data-anchor="/document/90/4223/dfasuof8ux/"></a>26. Якка тартибдаги тадбиркорлар томонидан тақдим этиладиган ягона солиқ тўлови ҳисоб-китоб шакллари Ўзбекистон Республикаси Молия вазирлиги ва Давлат солиқ қўмитасининг 2019 йил 7 январдаги 2, 2019-05-сон &#171;Солиқ ҳисоботининг шаклларини тасдиқлаш тўғрисида&#187;ги қарорининг (рўйхат рақами 3126-сонли, 2019 йил 21 январь) 9-иловаси билан тасдиқланган.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr80/" data-role="phrase-anchor" data-phrase-id="80" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr80"></a><a data-anchor="/document/90/4223/dfass4tz48/"></a>27. Ҳисобланган солиқлар билан бир қаторда якка тартибдаги тадбиркорлар Ўзбекистон Республикасининг Солиқ кодексида белгиланган тартибда фаолияти доирасида бошқа солиқлар ва мажбурий тўловларни ҳам тўлашлари шарт.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr81/" data-role="phrase-anchor" data-phrase-id="81" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr81"></a><a data-anchor="/document/90/4223/dfase13n54/"></a>28. Календарь йили давомида товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми бир миллиард сўмдан ошмаган якка тартибдаги тадбиркорлар томонидан ўзи ҳамда ҳар бир ёлланган ходим учун Ўзбекистон Республикасининг Солиқ кодексида белгиланган миқдор ва муддатларда ягона ижтимоий тўлов тўланади.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/4223/tit8/"></a><span class="doc__chapter-number" style="text-align:left"><a kazakh="yes" data-anchor="/document/90/4223/bssPhr82/" data-role="phrase-anchor" data-phrase-id="82" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr82"></a><a data-anchor="/document/90/4223/dfaseiet6u/"></a>7 </span><span class="doc__chapter-name">-боб. Якуний қоидалар</span></div><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr83/" data-role="phrase-anchor" data-phrase-id="83" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr83"></a><a data-anchor="/document/90/4223/dfasqzhamf/"></a>29. Якка тартибдаги тадбиркорлар ушбу Низом талабларини ҳисобга олган ҳолда солиқлар ва мажбурий тўловларни ҳисоблашнинг тўғрилиги ҳамда уларнинг қонунчиликка мувофиқ ўз вақтида тўланиши юзасидан жавобгардирлар.</p><p><a kazakh="yes" data-anchor="/document/90/4223/bssPhr84/" data-role="phrase-anchor" data-phrase-id="84" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr84"></a><a data-anchor="/document/90/4223/dfasexgnqg/"></a>30. Якка тартибдаги тадбиркорлар томонидан ҳисоблаб чиқарилиши, тўланиши лозим бўлган солиқлар ва мажбурий тўловлар устидан назорат ҳамда тегишли чоралар давлат солиқ хизмати органлари томонидан Ўзбекистон Республикаси қонун ҳужжатларига мувофиқ амалга оширилади.</p><p><a data-anchor="/document/90/4223/bssPhr85/" data-role="phrase-anchor" data-phrase-id="85" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr85"></a><a data-anchor="/document/90/4223/dfasef7pbk/"></a>31. Ушбу Низом Ўзбекистон Республикаси Молия вазирлиги ва Савдо-саноат палатаси билан келишилган.</p><p style="text-align:right"><a data-anchor="/document/90/4223/bssPhr86/" data-role="phrase-anchor" data-phrase-id="86" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr86"></a><a data-anchor="/document/90/4223/dfast76cut/"></a><strong>Молия вазири<br>Д. Кучкаров</strong></p><p><a data-anchor="/document/90/4223/bssPhr87/" data-role="phrase-anchor" data-phrase-id="87" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr87"></a><a data-anchor="/document/90/4223/dfasa5htkf/"></a>2019 йил 31 январь</p><p style="text-align:right"><a data-anchor="/document/90/4223/bssPhr88/" data-role="phrase-anchor" data-phrase-id="88" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr88"></a><a data-anchor="/document/90/4223/dfasnyd1qt/"></a><strong>Савдо-саноат палатаси<br>раисининг биринчи ўринбосари<br>И. Жасимов</strong></p><p><a data-anchor="/document/90/4223/bssPhr89/" data-role="phrase-anchor" data-phrase-id="89" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr89"></a><a data-anchor="/document/90/4223/dfas9da3zb/"></a>2019 йил 31 январь</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

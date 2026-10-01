@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как проверить доверенность представителя контрагента</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/203289/dfasi283he/" data-dfa="dfasi283he"></a><a data-anchor="/document/16/203289/bssPhr2/"></a>В рекомендации – инструкция «Как проверить доверенность представителя контрагента». Узнайте, что нужно проверить в доверенности представителя контрагента и как проверить его полномочия, а также как проверить доверенность, выданную в порядке передоверия. Эксперты на ситуациях пояснили, какие последствия возникнут, если заключить договор с неуполномоченным лицом. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/203289/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/203289/bssPhr3/"></a><a data-anchor="/document/16/203289/dfasmhoo71/" data-dfa="dfasmhoo71"></a>Что проверить в доверенности представителя контрагента</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203289/bssPhr5/"></a><a data-anchor="/document/16/203289/dfask3bzv8/" data-dfa="dfask3bzv8"></a>Если от имени участвующей в закупочных процедурах компании по доверенности действует ее представитель, то проверьте:</p><ul class="c-list"><li><a data-anchor="/document/16/203289/bssPhr6/"></a><a data-anchor="/document/16/203289/dfaspk4qbf/" data-dfa="dfaspk4qbf"></a>дату выдачи доверенности. Без нее документ недействителен (<span num="1" lnktype="intlnk" title="Доверенность, в которой не указана дата ее выдачи, недействительна." class="doc">ч. 2</span> ст. 139 ГК);</li><li>полномочия по доверенности;</li><li>информацию о доверителе и представителе;</li><li><a data-anchor="/document/16/203289/dfaskg66gh/" data-dfa="dfaskg66gh"></a><a data-anchor="/document/16/203289/dfasofab98/" data-dfa="dfasofab98"></a>срок действия доверенности.</li></ul><p><a data-anchor="/document/16/203289/bssPhr7/"></a><a data-anchor="/document/16/203289/dfasng7ynx/" data-dfa="dfasng7ynx"></a><a data-anchor="/document/16/203289/dfaslsn3f8/" data-dfa="dfaslsn3f8"></a><a data-anchor="/document/16/203289/dfasqncut5/" data-dfa="dfasqncut5"></a><a data-anchor="/document/16/203289/dfasaprxb1/" data-dfa="dfasaprxb1"></a><a data-anchor="/document/16/203289/dfasmqcd1c/" data-dfa="dfasmqcd1c"></a>Доверенность действует в течение срока, на который ее выдали. Если срок не указан, доверенность действительна в течение года со дня выдачи (<span num="3" lnktype="intlnk" title="Доверенность, в которой не указана дата ее выдачи, недействительна." class="doc">ч. 2</span> ст. 139 ГК). Максимальный срок действия доверенности по законодательству – три года. Но доверенность на совершение действий за границей, которую удостоверил нотариус, действует до отмены представляемым (<span num="5" lnktype="intlnk" title="Удостоверенная нотариусом доверенность, предназначенная для совершения действий за пределами Республики Узбекистан, не содержащая указания о сроке ее действия, сохраняет силу до ее..." class="doc">ч. 3</span> ст. 139 ГК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Представитель контрагента предъявил доверенность с неограниченным сроком действия. Считается ли это правомерным?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203289/bssPhr9/"></a><a data-anchor="/document/16/203289/dfassbwdpz/" data-dfa="dfassbwdpz"></a>Да, считается.</p><p><a data-anchor="/document/16/203289/bssPhr10/"></a><a data-anchor="/document/16/203289/dfas55amg7/" data-dfa="dfas55amg7"></a>Если в доверенности нет такого срока, но стоит дата выдачи, то она будет действительной. Такие правила содержатся в <span num="7" lnktype="intlnk" title="Доверенность, в которой не указана дата ее выдачи, недействительна." class="doc">ч. 2</span> ст. 139 ГК. В таком случае документ сохраняет силу в течение года со дня выдачи (<span num="9" lnktype="intlnk" title="Доверенность может быть выдана на срок не более трех лет. Если срок в доверенности не указан, она сохраняет силу в течение одного года со дня ее выдачи." class="doc">ч.&nbsp;1</span> ст.&nbsp;139 ГК).</p><p><a data-anchor="/document/16/203289/bssPhr11/"></a><a data-anchor="/document/16/203289/dfastync4y/" data-dfa="dfastync4y"></a>Исключение: доверенность на совершение действий за границей, удостоверенная нотариусом, действительна не в течение года, а до ее отмены представляемым (<span num="11" lnktype="intlnk" title="Удостоверенная нотариусом доверенность, предназначенная для совершения действий за пределами Республики Узбекистан, не содержащая указания о сроке ее действия, сохраняет силу до ее..." class="doc">ч.&nbsp;3</span> ст.&nbsp;139 ГК).</p></div></div><p><a data-anchor="/document/16/203289/bssPhr12/"></a><a data-anchor="/document/16/203289/dfasigin1e/" data-dfa="dfasigin1e"></a>В информации о представляемом и представителе наименования юрлиц нужно прописать полностью, без сокращений. Также в доверенности нужно указать:</p><ul class="c-list"><li><a data-anchor="/document/16/203289/bssPhr13/"></a><a data-anchor="/document/16/203289/dfasn8mlks/" data-dfa="dfasn8mlks"></a>местонахождение;</li><li>ОКЭД;</li><li>ИНН компании.</li></ul><p><a data-anchor="/document/16/203289/bssPhr14/"></a><a data-anchor="/document/16/203289/dfas16a91g/" data-dfa="dfas16a91g"></a><a data-anchor="/document/16/203289/dfas9wn8sh/" data-dfa="dfas9wn8sh"></a><a data-anchor="/document/16/203289/dfaskpctul/" data-dfa="dfaskpctul"></a><a data-anchor="/document/16/203289/dfasc7opld/" data-dfa="dfasc7opld"></a>Если представляемый и представитель – физические лица, Ф. И. О. и адрес проживания нужно указать полностью. Тогда не будет споров, кто и кому выдал доверенность.</p><p><a data-anchor="/document/16/203289/bssPhr15/"></a><a data-anchor="/document/16/203289/dfasswzbsf/" data-dfa="dfasswzbsf"></a>Если в тексте доверенности указаны числа и сроки, относящиеся к содержанию документа, хотя бы один раз они должны быть написаны прописью.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Представитель контрагента предъявил доверенность, в которой нет образца подписи представителя. Считается ли она действительной?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203289/bssPhr17/"></a><a data-anchor="/document/16/203289/dfasbcx8hw/" data-dfa="dfasbcx8hw"></a>Да, считается.</p><p><a data-anchor="/document/16/203289/bssPhr18/"></a><a data-anchor="/document/16/203289/dfasdq6gkp/" data-dfa="dfasdq6gkp"></a>Отсутствие в доверенности образца подписи представителя не влияет на ее действительность. При выполнении юридически значимых действий запрашивайте паспорт.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Представитель контрагента предъявил доверенность на юридическое лицо, а не на физическое. Будет ли она действительной?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203289/bssPhr20/"></a><a data-anchor="/document/16/203289/dfasfa07r5/" data-dfa="dfasfa07r5"></a><a data-anchor="/document/16/203289/dfasu68klm/" data-dfa="dfasu68klm"></a>Нет, по следующим причинам:</p><ul class="c-list"><li><a data-anchor="/document/16/203289/bssPhr21/"></a><a data-anchor="/document/16/203289/dfasryv0ok/" data-dfa="dfasryv0ok"></a>по законодательству интересы предприятия имеют право представлять его работники (<span num="15" lnktype="intlnk" title="3) работники юридических лиц — по делам этих юридических лиц;" class="doc">ч. 2</span> п. 3 ст. 67 ГПК; <span num="17" lnktype="intlnk" title="4) уполномоченные представители некоммерческих организаций, которым законом предоставлено право защищать права и интересы других лиц;" class="doc">ч. 4</span>. п. 2 ст. 61 ЭПК).</li><li>по <span data-warm-notices="29305371" data-warm-notice-type="error" num="19" lnktype="intlnk" title="ПОЛОЖЕНИЕ о порядке выдачи доверенностей на получение товарно-материальных ценностей и отпуска их по доверенности" class="doc">«Положению о порядке выдачи доверенностей на получение товарно-материальных ценностей и отпуска их по доверенности» № 62 от 7 мая 2003 г</span>., в журнале учета выданных доверенностей заполните строку с Ф.И.О. и должность человека, которому выдается доверенность. Значит, выдавать доверенность можно только штатному сотруднику.</li></ul></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Представитель контрагента предъявил доверенность, на которой нет печати компании. Считается ли она действительной?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203289/bssPhr23/"></a><a data-anchor="/document/16/203289/dfasa7s0yq/" data-dfa="dfasa7s0yq"></a><a data-anchor="/document/16/203289/dfase8scrn/" data-dfa="dfase8scrn"></a>Да, действительна если у юрлица не предусмотрена печать.</p><p><a data-anchor="/document/16/203289/bssPhr24/"></a><a data-anchor="/document/16/203289/dfas22brqk/" data-dfa="dfas22brqk"></a>Такая доверенность выдается за подписью руководителя с приложением печати юрлица (при наличии печати) (<span num="22" lnktype="intlnk" title="Доверенность от имени юридического лица выдается за подписью руководителя с приложением печати этого юридического лица (при наличии печати)." class="doc">ч. 1</span> ст. 138 ГК, <span num="24" lnktype="intlnk" title="Доверенность от имени организации выдается за подписью руководителя, заверенной печатью организации (при наличии печати)." class="doc">ч. 4</span> ст. 68 ГПК, <span num="26" lnktype="intlnk" title="Доверенность от имени юридического лица должна быть подписана ее руководителем или иным уполномоченным на это ее учредительными документами лицом и заверена печатью этого юридического..." class="doc">ч. 2</span> ст. 62 ЭПК). До внесения изменений в ряд нормативно-правовых, требовалось проставление печати в доверенности, выдаваемой представителю.</p><p><a data-anchor="/document/16/203289/bssPhr25/"></a><a data-anchor="/document/16/203289/dfasspvp0z/" data-dfa="dfasspvp0z"></a>Если доверенность от имени организации удостоверил руководитель, проверьте его полномочия на момент выдачи документа. Проще самостоятельно получить или попросить у контрагента выписку приказа о его назначении.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>У организации-контрагента сменился гендиректор. Сотрудник организации предъявил доверенность, которую подписал прежний руководитель. Считается ли она действительной?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203289/bssPhr27/"></a><a data-anchor="/document/16/203289/dfas964086/" data-dfa="dfas964086"></a>Да, считается.</p><p><a data-anchor="/document/16/203289/bssPhr28/"></a><a data-anchor="/document/16/203289/dfas921way/" data-dfa="dfas921way"></a>Смена руководителя компании не отменяет доверенностей. Отменить выданную доверенность может новый гендиректор.</p></div></div></div><a data-anchor="/document/16/203289/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/203289/bssPhr29/"></a><a data-anchor="/document/16/203289/dfaspgsk9z/" data-dfa="dfaspgsk9z"></a><a data-anchor="/document/16/203289/dfas0q3nyl/" data-dfa="dfas0q3nyl"></a><a data-anchor="/document/16/203289/dfasv5h5oi/" data-dfa="dfasv5h5oi"></a><a data-anchor="/document/16/203289/dfass5356t/" data-dfa="dfass5356t"></a>Как проверить полномочия представителя</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203289/bssPhr31/"></a><a data-anchor="/document/16/203289/dfasofzh1b/" data-dfa="dfasofzh1b"></a>Представитель контрагента может предъявить доверенность с общими или ограниченными полномочиями.</p><p><a data-anchor="/document/16/203289/bssPhr32/"></a><a data-anchor="/document/16/203289/dfasifdg82/" data-dfa="dfasifdg82"></a>Если представитель предъявил доверенность, в которой прописаны полномочия, это означает, что он имеет право представлять интересы доверителя в госорганах и организациях с правом подписывать, выдавать и получать документы.</p><p><a data-anchor="/document/16/203289/bssPhr33/"></a><a data-anchor="/document/16/203289/dfasdu7d7v/" data-dfa="dfasdu7d7v"></a>Представитель вправе предъявить доверенность, в которой его полномочия ограничены.</p><p><a data-anchor="/document/16/203289/bssPhr34/"></a><a data-anchor="/document/16/203289/dfasztmadf/" data-dfa="dfasztmadf"></a>Общие полномочия: право участвовать в процедурах вскрытия внесенного доверителем предложения, подавать предложения, объяснения, заявлять ходатайства, знакомиться с материалами и выступать от компании участника.</p><p><a data-anchor="/document/16/203289/bssPhr35/"></a><a data-anchor="/document/16/203289/dfasavxxty/" data-dfa="dfasavxxty"></a>Эти полномочия могут быть отражены в доверенности тремя способами.</p><p><a data-anchor="/document/16/203289/bssPhr36/"></a><a data-anchor="/document/16/203289/dfasbsr5po/" data-dfa="dfasbsr5po"></a>Способ 1: представитель вправе совершать от имени доверителя все действия.</p><p><a data-anchor="/document/16/203289/bssPhr37/"></a><a data-anchor="/document/16/203289/dfasz39c3q/" data-dfa="dfasz39c3q"></a>Способ 2: представитель вправе совершать действия, за исключением некоторых.</p><p><a data-anchor="/document/16/203289/bssPhr38/"></a><a data-anchor="/document/16/203289/dfasb7rw78/" data-dfa="dfasb7rw78"></a>Способ 3: представитель вправе совершать от имени доверителя только отдельные действия.</p><p><a data-anchor="/document/16/203289/bssPhr39/"></a><a data-anchor="/document/16/203289/dfask0g8ht/" data-dfa="dfask0g8ht"></a>Специально предусмотренные полномочия совершают только в том случае, если каждое из них прописано в доверенности.</p><p><a data-anchor="/document/16/203289/bssPhr40/"></a><a data-anchor="/document/16/203289/dfaskg9mqa/" data-dfa="dfaskg9mqa"></a>Специально предусмотренные полномочия представителя перечислены в <span num="31" lnktype="intlnk" title="Полномочия на ведение дела в суде дают право представителю на совершение от имени представляемого всех процессуальных действий." class="doc">ч. 1</span> ст. 69 ГПК и в <span num="33" lnktype="intlnk" title="Полномочия на ведение дела в суде дают представителю право на совершение от имени представляемого всех процессуальных действий, кроме подписания искового заявления, передачи дела..." class="doc">ч. 1</span> ст. 63 ЭПК.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Будет ли действительна доверенность, которую выдали нескольким представителям?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203289/bssPhr42/"></a><a data-anchor="/document/16/203289/dfason0hta/" data-dfa="dfason0hta"></a>Да, ее можно выдать на любое количество представителей.</p><p><a data-anchor="/document/16/203289/bssPhr43/"></a><a data-anchor="/document/16/203289/dfasw560qc/" data-dfa="dfasw560qc"></a>В таком случае у каждого представителя будут полномочия, которые указаны в доверенности. В ней можно указать, что представители действуют совместно. Тогда для юридического действия нужно согласие каждого представителя.</p></div></div></div><a data-anchor="/document/16/203289/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/203289/bssPhr44/"></a><a data-anchor="/document/16/203289/dfashrxytm/" data-dfa="dfashrxytm"></a><a data-anchor="/document/16/203289/dfasvbyuhl/" data-dfa="dfasvbyuhl"></a><a data-anchor="/document/16/203289/dfasy363eq/" data-dfa="dfasy363eq"></a>Каковы последствия заключения договора с неуполномоченным лицом</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203289/bssPhr46/"></a><a data-anchor="/document/16/203289/dfas7r0fdm/" data-dfa="dfas7r0fdm"></a>Здесь возможны две ситуации.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Компания не получала извещений об отмене доверенности от контрагента и таких сведений нет в общедоступных источниках информации.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203289/bssPhr48/"></a><a data-anchor="/document/16/203289/dfasnodqmk/" data-dfa="dfasnodqmk"></a><a data-anchor="/document/16/203289/dfascmnnoe/" data-dfa="dfascmnnoe"></a><a data-anchor="/document/16/203289/dfaspb3avw/" data-dfa="dfaspb3avw"></a>Если контрагент отменил доверенность, но не опубликовал сообщение и не известил стороны, то считается, что об этом никто не знал, и представитель сохранил полномочия. Права и обязанности представителя в этой ситуации сохраняют силу для доверителя (<span num="37" lnktype="intlnk" title="Статья 143. Действия, совершенные лицом, которому выдана доверенность, после прекращения доверенности" class="doc">ст. 143</span> ГК). То есть, если сделку заключили с представителем без полномочий, для другой стороны это ничего не меняет при условии, что она не знала об отмене доверенности.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Контрагент отправил компании извещение об отмене доверенности либо компания не проверила сведения в общедоступных источниках информации.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203289/bssPhr50/"></a><a data-anchor="/document/16/203289/dfas0bt7vt/" data-dfa="dfas0bt7vt"></a><a data-anchor="/document/16/203289/dfasdwdtqg/" data-dfa="dfasdwdtqg"></a><a data-anchor="/document/16/203289/dfasle7nq1/" data-dfa="dfasle7nq1"></a>Если компания, несмотря на почтовое уведомление или публикацию сообщения об отмене доверенности, подписала договор с представителем без полномочий, сделка считается действительной. Если доверитель одобрит действия представителя, сделка считается совершенной в интересах подписавших ее сторон (<span num="40" lnktype="intlnk" title="Последующее одобрение представляемым сделки делает ее действительной с момента заключения." class="doc">ч. 2</span> ст. 132 ГК). Это значит, что контрагентом по сделке будет представитель, подписавший договор, а не представляемый.</p></div></div><p><a data-anchor="/document/16/203289/bssPhr51/"></a><a data-anchor="/document/16/203289/dfas6t6g77/" data-dfa="dfas6t6g77"></a>Если есть подозрения, что к моменту подписания сделки или совершения юридически значимых действий контрагент отменит доверенность, обратитесь к нему письменно и получите ответ о намерениях по заключению сделки.</p></div><a data-anchor="/document/16/203289/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/203289/bssPhr52/"></a><a data-anchor="/document/16/203289/dfasqwvxd5/" data-dfa="dfasqwvxd5"></a><a data-anchor="/document/16/203289/dfasv8aqby/" data-dfa="dfasv8aqby"></a>Как проверить доверенность, выданную в порядке передоверия</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203289/bssPhr54/"></a><a data-anchor="/document/16/203289/dfas3hsawx/" data-dfa="dfas3hsawx"></a><a data-anchor="/document/16/203289/_GoBack/"></a>Чтобы проверить доверенность, выданную в порядке передоверия, попросите оригинал или копию первоначальной доверенности. При этом обратите внимание на:</p><p><a data-anchor="/document/16/203289/bssPhr55/"></a><a data-anchor="/document/16/203289/dfas85vg6g/" data-dfa="dfas85vg6g"></a>1. Наличие нотариального удостоверения (<span num="44" lnktype="intlnk" title="Доверенность, по которой передаются полномочия другому лицу, должна быть нотариально удостоверена за исключением случаев, предусмотренных статьями 136, 137, 138 настоящего Кодекса." class="doc">ч. 2</span> ст. 140 ГК). Но это не обязательно, если документ выдало юрлицо или руководитель его филиалов (<span num="46" lnktype="intlnk" title="Доверенность от имени юридического лица выдается за подписью руководителя с приложением печати этого юридического лица (при наличии печати)." class="doc">ч. 1</span> ст. 138 ГК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Сотрудник организации-контрагента действует по доверенности, которую заместитель гендиректора выдал в порядке передоверия. Можно ли считать такую доверенность действительной без нотариального удостоверения?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203289/bssPhr57/"></a><a data-anchor="/document/16/203289/dfassfhda5/" data-dfa="dfassfhda5"></a>Да, считается.</p><p><a data-anchor="/document/16/203289/bssPhr58/"></a><a data-anchor="/document/16/203289/dfasr6dchq/" data-dfa="dfasr6dchq"></a>Нотариус заверяет только доверенности на совершение сделок, которые требуют нотариальной формы либо действий в отношении юрлиц (<span num="48" lnktype="intlnk" title="Доверенность на совершение сделок, требующих нотариальной формы, либо действий в отношении юридических лиц, должна быть нотариально удостоверена, за исключением случаев, предусмотренных..." class="doc">ч.&nbsp;2</span> ст.&nbsp;135 ГК).</p><p><a data-anchor="/document/16/203289/bssPhr59/"></a><a data-anchor="/document/16/203289/dfasnlbqxm/" data-dfa="dfasnlbqxm"></a>Доверенность от имени гражданина в порядке передоверия может удостоверить как нотариус, так и лица, которые указаны в <span num="50" lnktype="intlnk" title="Статья 136. Доверенности, приравниваемые к нотариально удостоверенным" class="doc">ст. 136</span>-<span num="52" lnktype="intlnk" title="Статья 137. Иные формы доверенности" class="doc">137</span> ГК.</p></div></div><p><a data-anchor="/document/16/203289/bssPhr60/"></a><a data-anchor="/document/16/203289/dfasifikna/" data-dfa="dfasifikna"></a><a data-anchor="/document/16/203289/dfasoitolq/" data-dfa="dfasoitolq"></a>2. Передоверие допустимо в двух случаях:</p><ul class="c-list"><li><a data-anchor="/document/16/203289/bssPhr61/"></a><a data-anchor="/document/16/203289/dfasnp8xs0/" data-dfa="dfasnp8xs0"></a>если право на это предусмотрено в самой доверенности;</li><li>если возникли непредвиденные обстоятельства, при которых передоверие нужно для защиты интересов представляемого, а в доверенности нет прямого запрета на передоверие.</li></ul><p><a data-anchor="/document/16/203289/bssPhr62/"></a><a data-anchor="/document/16/203289/dfasu0dnlr/" data-dfa="dfasu0dnlr"></a><a data-anchor="/document/16/203289/dfasx57lzh/" data-dfa="dfasx57lzh"></a><a data-anchor="/document/16/203289/dfasy2yipp/" data-dfa="dfasy2yipp"></a>Чтобы проверить первый случай, убедитесь, что в документе предусмотрено передоверие.</p><p><a data-anchor="/document/16/203289/bssPhr63/"></a><a data-anchor="/document/16/203289/dfasdp55gd/" data-dfa="dfasdp55gd"></a>Второй случай проверить сложнее, так как контрагент не обязан представлять доказательства, подтверждающие непредвиденные обстоятельства. Но если право на передоверие в основном документе запрещено, то представленная доверенность недействительна.</p><p><a data-anchor="/document/16/203289/bssPhr64/"></a><a data-anchor="/document/16/203289/dfasl98ahk/" data-dfa="dfasl98ahk"></a>3. Сроки действия передоверия и основной доверенности должны совпадать <span num="55" lnktype="intlnk" title="Срок действия доверенности, выданной по передоверию, не может превышать срока действия основной доверенности, на основании которой она выдана." class="doc">(ч. 3</span> ст. 140 ГК).</p><p><a data-anchor="/document/16/203289/bssPhr65/"></a><a data-anchor="/document/16/203289/dfasik7esq/" data-dfa="dfasik7esq"></a>4. Передоверие недопустимо, если доверенность заверила организация, где доверитель работает или учится, администрация стационарного лечебного учреждения, в котором доверитель находится на излечении, а сама доверенность выдана на получение:</p><ul class="c-list"><li><a data-anchor="/document/16/203289/bssPhr66/"></a><a data-anchor="/document/16/203289/dfasmxgpoz/" data-dfa="dfasmxgpoz"></a>зарплаты и платежей, которые связаны с трудовыми отношениями;</li><li>вознаграждений авторов и изобретателей;</li><li>пенсий, пособий, стипендий или почтовой корреспонденции.</li></ul><p><a data-anchor="/document/16/203289/bssPhr67/"></a><a data-anchor="/document/16/203289/dfas9kdp3c/" data-dfa="dfas9kdp3c"></a><a data-anchor="/document/16/203289/dfastfnl47/" data-dfa="dfastfnl47"></a><a data-anchor="/document/16/203289/dfasbaf2gd/" data-dfa="dfasbaf2gd"></a><a data-anchor="/document/16/203289/dfas6vmhg8/" data-dfa="dfas6vmhg8"></a>В этих случаях доверенность считается разовой.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

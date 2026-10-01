@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Указ Президента РУз от 07.06.2019 № УП-5739</div><h2 class="auth__title">О мерах по упрощению процедуры ликвидации субъектов предпринимательства</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/19732/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/19732/dfasdomzk8/"></a><strong>ПРЕЗИДЕНТА РЕСПУБЛИКИ УЗБЕКИСТАН</strong></p><p style="text-align:center"><a data-anchor="/document/90/19732/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/19732/dfas7ukxw6/"></a><strong>УКАЗ</strong></p><p style="text-align:center"><a data-anchor="/document/90/19732/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/19732/dfas67dqmq/"></a><strong>О мерах по упрощению процедуры ликвидации субъектов предпринимательства</strong></p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/19732/dfas13y21z/"></a>В целях упрощения порядка ликвидации субъектов предпринимательства, отмены излишних административных ограничений, способствующих возникновению необоснованных расходов для субъектов предпринимательства в процессе ликвидации, дальнейшего улучшения позиций Республики Узбекистан в мировых рейтингах и индексах по ведению бизнеса, а также во исполнение задач, определенных в Государственной программе по реализации Стратегии действий по пяти приоритетным направлениям развития Республики Узбекистан в 2017 &#8212; 2021 годах в &#171;Год активных инвестиций и социального развития&#187;:</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/19732/dfasyfnf9f/"></a>1. Согласиться с предложениями Уполномоченного при Президенте Республики Узбекистан по защите прав и законных интересов субъектов предпринимательства, Государственного налогового комитета и Министерства юстиции о том, что с 1 января 2020 года:</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/19732/dfas7blesr/"></a>упраздняются постоянно действующие территориальные специальные комиссии по ликвидации предприятий, не осуществляющих финансово-хозяйственную деятельность и (или) не сформировавших свои уставные фонды в установленные законодательством сроки;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/19732/dfas3m74gh/"></a>отменяется порядок ликвидации субъектов предпринимательства, не сформировавших в течение одного года с даты государственной регистрации уставные фонды в размерах, предусмотренных учредительными документами;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/19732/dfasqkgcxe/"></a>вводится электронный обмен информацией между государственными органами путем сокращения излишних документов и процедур при ликвидации субъектов предпринимательства.</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/19732/dfasm66whq/"></a>2. Ввести с 1 января 2020 года порядок, в соответствии с которым:</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/19732/dfase8tavf/"></a>а) при добровольной ликвидации субъектов предпринимательства &#8212; юридических лиц (далее &#8212; предприятия):</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/19732/dfaspm012u/"></a>не требуется опубликование в одном или нескольких периодических печатных изданиях объявления о ликвидации предприятия, при этом соответствующие данные размещаются на официальном сайте регистрирующего органа;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/19732/dfasaba7t6/"></a>не подлежит проверке финансово-хозяйственная деятельность предприятий, не осуществлявших финансово-хозяйственную деятельность с момента государственной регистрации, не имеющих налоговой задолженности;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/19732/dfasss4r3c/"></a>максимальная периодичность проведения проверок финансово-хозяйственной деятельности ликвидируемых предприятий органами государственной налоговой службы составляет три года;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/19732/dfas9h4wqq/"></a>получение имеющихся сведений о предприятии из уполномоченных государственных органов для проверки его финансово-хозяйственной деятельности осуществляется через Автоматизированную систему государственной регистрации и постановки на учет субъектов предпринимательства (далее &#8212; Система);</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/19732/dfaszrhdyy/"></a>общий срок добровольной ликвидации предприятия не должен превышать шести месяцев со дня получения регистрирующим органом уведомления о добровольной ликвидации;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/19732/dfaswal335/"></a>б) не требуется получение заявителем заключения органа государственной налоговой службы об отсутствии задолженности по налогам и другим обязательным платежам при приостановлении деятельности физических лиц &#8212; субъектов предпринимательства;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/19732/dfas89tvw3/"></a>в) основанием для признания предприятия не осуществляющим финансово-хозяйственную деятельность являются:</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/19732/dfas1h040c/"></a>неоткрытие банковского счета в течение трех месяцев с даты прохождения государственной регистрации;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/19732/dfasqhglii/"></a>в течение шести месяцев после открытия банковского счета:</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/19732/dfasbpsefi/"></a>непоступление средств на банковский счет по финансово-хозяйственной деятельности;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/19732/dfaszl5seg/"></a>неоформление электронных счетов-фактур;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/19732/dfas46zcdm/"></a>неиспользование онлайн-контрольно-кассовых машин, виртуальной кассы или платежной системы &#171;маркетплейс&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/19732/dfas8gxgi0/"></a>неосуществление внешних торговых операций;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/19732/dfasycgb0p/"></a>г) при ликвидации предприятий, не осуществляющих финансово-хозяйственную деятельность:</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/19732/dfas56o4ys/"></a>по представлению органа государственной налоговой службы предприятия, не осуществляющие финансово-хозяйственную деятельность, переводятся регистрирующим органом на бездействующий режим сроком на один год;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/19732/dfas6tn1qx/"></a>регистрирующий орган исключает их из Единого государственного реестра субъектов предпринимательства при невосстановлении деятельности предприятий, переведенных на бездействующий режим в течение одного года.</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/19732/dfassp1w1q/"></a>3. Определить, что несвоевременное, неполноценное и недостоверное обеспечение введения государственными органами и иными организациями, подключенными к Системе, соответствующей информации считается нарушением установленного порядка оказания государственных услуг.</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/19732/dfasyvbaua/"></a>Министерству юстиции Республики Узбекистан обеспечить постоянный контроль, в том числе через Систему, за своевременным, полноценным и достоверным введением соответствующей информации государственными органами и другими организациями, подключенными к Системе.</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/19732/dfas88za58/"></a>4. Агентству &#171;Узархив&#187; при Кабинете Министров Республики Узбекистан в месячный срок принять меры по снижению в два раза расценок на оказываемые архивные услуги, определяемые по действующему нормативу при принятии документов добровольно ликвидируемых субъектов предпринимательства и внести информацию о результатах в Кабинет Министров.</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/19732/dfasuxfyt3/"></a>5. Государственному налоговому комитету Республики Узбекистан, Министерству юстиции в двухмесячный срок внести в Кабинет Министров:</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/19732/dfasnhi6w5/"></a>совместно с Национальным агентством проектного управления при Президенте Республики Узбекистан, Министерством по развитию информационных технологий и коммуникаций и Министерством финансов программу мер по приведению Системы в соответствие с требованиями настоящего Указа, подключению к ней заинтересованных государственных органов и организаций с указанием конкретных источников финансирования;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/19732/dfasylsd66/"></a>совместно с Верховным судом Республики Узбекистан, Уполномоченным при Президенте Республики Узбекистан по защите прав и законных интересов субъектов предпринимательства предложения по внесению изменений и дополнений в Гражданский кодекс Республики Узбекистан, Экономический процессуальный кодекс Республики Узбекистан, Закон Республики Узбекистан &#171;О гарантиях свободы предпринимательской деятельности&#187;, предусматривающих перевод регистрирующим органом на бездействующий режим предприятий, не осуществляющих финансово-хозяйственную деятельность сроком на три года, при невосстановлении деятельности &#8212; исключение их из Единого государственного реестра субъектов предпринимательства;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/19732/dfasaa7nhy/"></a>совместно с заинтересованными министерствами и ведомствами проекты Положения о порядке добровольной ликвидации субъектов предпринимательства и приостановлении их деятельности и Положения о порядке исключения из государственного реестра субъектов предпринимательства, не осуществляющих финансово-хозяйственную деятельность;</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/19732/dfasgmkmvf/"></a>совместно с заинтересованными министерствами и ведомствами предложения об изменениях и дополнениях в законодательство, вытекающих из настоящего Указа.</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/19732/dfasdg41og/"></a>6. Признать утратившими силу некоторые акты Президента Республики Узбекистан начиная с 1 января 2020 года согласно приложению.</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/19732/dfasb41h8y/"></a>7. Контроль за исполнением настоящего Указа возложить на Премьер-министра Республики Узбекистан А.Н. Арипова.</p><p style="text-align:right"><a data-anchor="/document/90/19732/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/19732/dfas3ggrrh/"></a><strong>Президент Республики Узбекистан<br>Ш. Мирзиёев</strong></p><p><a data-anchor="/document/90/19732/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/19732/dfaseeziw4/"></a><a data-anchor="/document/90/19732/dfasy9ggy0/"></a><a data-anchor="/document/90/19732/dfas40e7e5/"></a>г. Ташкент,<br>7 июня 2019 г.,<br>№ УП-5739</p><p style="text-align:right"><a data-anchor="/document/90/19732/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/19732/dfasggcykf/"></a>ПРИЛОЖЕНИЕ<br>к Указу Президента Республики Узбекистан<br>от 7 июня 2019 года № УП-5739</p><div class="doc__untyped doc-start" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/19732/tit1/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/19732/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/19732/dfaszramu3/"></a>ПЕРЕЧЕНЬ<br>некоторых актов Президента Республики Узбекистан, признаваемых утратившими силу начиная с 1 января 2020 года</span></div><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/19732/dfase088nd/"></a>1. Указ Президента Республики Узбекистан от 28.06.1999 г. № УП-2331 &#171;О мерах по упрощению порядка ликвидации предприятий, не осуществляющих финансово-хозяйственную деятельность и не сформировавших свои уставные фонды в установленные законодательством сроки&#187; (Вестник Олий Мажлиса Республики Узбекистан от 1999 г. № 6, ст. 155).</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/19732/dfas7412gi/"></a>2.&#160;утратил силу с 26&#160;ноября 2025&#160;года</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/19732/dfasu6i258/"></a>3.&#160;утратил силу с 26 ноября 2025 года</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/19732/dfaswvg08d/"></a>4. Пункт 9 приложения № 1 к Указу Президента Республики Узбекистан от 03.10.2012 г. № УП-4473 &#171;О внесении изменений в некоторые акты Президента Республики Узбекистан&#187; (Собрание законодательства Республики Узбекистан, 2012 г., № 40, ст. 466).</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/19732/dfaszicmkg/"></a>5. Пункт 7 и пункт 33 приложения к Указу Президента Республики Узбекистан от 08.07.2014 г. № УП-4631 &#171;О внесении изменений и дополнений в некоторые акты Президента Республики Узбекистан&#187; (Собрание законодательства Республики Узбекистан, 21 июля 2014 г., № 29, ст. 356).</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/19732/dfas2knr69/"></a>6. Пункт 3 приложения № 1 к Указу Президента Республики Узбекистан от 24.05.2017 г. № УП-5055 &#171;О внесении изменений и дополнения, а также признании утратившими силу некоторых актов Президента Республики Узбекистан&#187; (Собрание законодательства Республики Узбекистан, 5 июня 2017 г., № 22, ст. 411).</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/19732/dfaswggpp2/"></a>7. Пункт 5 приложения № 1 к Указу Президента Республики Узбекистан от 11.09.2017 г. № УП-5187 &#171;О внесении изменений, а также признании утратившими силу некоторых актов Президента Республики Узбекистан&#187; (Собрание законодательства Республики Узбекистан, 18 сентября 2017 г., № 37, ст. 980).</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/19732/dfasvgq0yx/"></a>8. Пункт 3 приложения № 1 к Указу Президента Республики Узбекистан от 09.10.2017 г. № УП-5200 &#171;О внесении изменений и дополнений, а также признании утратившими силу некоторых актов Президента Республики Узбекистан&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/19732/dfas1cnh7g/"></a>9. Пункт 1 приложения к Указу Президента Республики Узбекистан от 15.01.2018 г. № УП-5302 &#171;О внесении изменений и дополнений в некоторые акты Президента Республики Узбекистан&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/19732/dfasa5u9bp/"></a>10. Пункт 1 приложения № 1 к Указу Президента Республики Узбекистан от 18.01.2018 г. № УП-5304 &#171;О внесении изменений, а также признании утратившими силу некоторых актов Президента Республики Узбекистан&#187; (Указ Президента Республики Узбекистан от 9 октября 2017 года № УП-5199 &#171;О мерах по коренному совершенствованию системы защиты прав и законных интересов фермерских, дехканских хозяйств и владельцев приусадебных земель, эффективного использования посевных площадей сельского хозяйства&#187;).</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/19732/dfasnqudft/"></a>11. Пункт 4 приложения к Указу Президента Республики Узбекистан от 17.04.2018 г. № УП-5420 &#171;О внесении изменений и дополнений в некоторые акты Президента Республики Узбекистан&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/19732/dfasd2nc0z/"></a>12. Постановление Президента Республики Узбекистан от 27.04.2007 г. № ПП-630 &#171;О совершенствовании порядка добровольной ликвидации и прекращения деятельности субъектов предпринимательства&#187; (Собрание законодательства Республики Узбекистан, 2007 г., № 17-18, ст. 179).</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/19732/dfasirwwhw/"></a>13.&#160;утратил силу с 30 апреля 2021 года</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/19732/dfas8nxqog/"></a>14. Постановление Президента Республики Узбекистан от 31.10.2013 г. № ПП-2060 &#171;О внесении изменений и дополнений в отдельные постановления Президента Республики Узбекистан&#187; (Собрание законодательства Республики Узбекистан, 11 ноября 2013 г., № 45, ст. 585).</p><p style="text-align:left"><a data-anchor="/document/90/19732/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/19732/dfash57owa/"></a>15. Постановление Президента Республики Узбекистан от 22.05.2017 г. № ПП-2985 &#171;О внесении дополнения и изменений в Положение о порядке добровольной ликвидации и прекращения деятельности субъектов предпринимательства&#187; (Собрание законодательства Республики Узбекистан, 29 мая 2017 г., № 21, ст. 386).</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассчитать и заплатить бонус коммерческого обнаружения</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203131/bssPhr1/"></a><a data-anchor="/document/16/203131/dfasegsipl/" data-dfa="dfasegsipl"></a>Наряду с <a data-anchor="/document/16/203131/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/16/210735" moduleId="16" documentId="210735" class="link ">налогом за пользование недрами</a> и <a data-anchor="/document/16/203131/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/16/202732" moduleId="16" documentId="202732" class="link ">налогом на сверхприбыль</a> бонусы являются специальными платежами для недропользователей. Особенность бонусов в том, что это – разовые платежи, поэтому для них нет налогового и отчетного периодов.</p><a data-anchor="/document/16/203131/tit0/" data-role="toc-anchor" class="toc-anchor"></a><p><a data-anchor="/document/16/203131/bssPhr2/"></a><a data-anchor="/document/16/203131/dfasq2dqdh/" data-dfa="dfasq2dqdh"></a><a data-anchor="/document/16/203131/dfas5m2yh6/" data-dfa="dfas5m2yh6"></a><b>В этой рекомендации – о бонусе коммерческого обнаружения. Информация о <a data-anchor="/document/16/203131/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/16/203130" moduleId="16" documentId="203130" class="link ">подписном бонусе</a> изложена в отдельной рекомендации.</b></p><h2 class="main__title-section title toc" toc-anchor="tit0">Кто платит бонус коммерческого обнаружения</h2><p><a data-anchor="/document/16/203131/bssPhr3/"></a><a data-anchor="/document/16/203131/dfasns2fxz/" data-dfa="dfasns2fxz"></a>Бонус коммерческого обнаружения – плата за право добычи полезных ископаемых на конкретном новом участке недр.</p><p><a data-anchor="/document/16/203131/bssPhr4/"></a><a data-anchor="/document/16/203131/dfaskcc7yx/" data-dfa="dfaskcc7yx"></a>Несмотря на свое название бонус не связан с правом на геологическое изучение недр и его успешным окончанием. Неверно думать, что недропользователь обязан заплатить бонус коммерческого обнаружения, если обнаружил в ходе геологоразведки запасы полезных ископаемых в объеме, достаточном для промышленного освоения.</p><p><a data-anchor="/document/16/203131/bssPhr5/"></a><a data-anchor="/document/16/203131/dfasq1c30t/" data-dfa="dfasq1c30t"></a>Во-первых, на каждый <a data-anchor="/document/16/203131/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/16/203130/dfas5qc3kt/" moduleId="16" documentId="203130" anchor="dfas5qc3kt" class="link ">вид недропользования</a>, как правило, выдается отдельная <a data-anchor="/document/16/203131/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/4098/dfas3dixh7/" class="link npd" moduleId="90" documentId="4098" anchor="dfas3dixh7">лицензия</a>. Лицензия на геологическое изучение недр сама по себе не дает права на опытно-промышленную или промышленную добычу полезных ископаемых. Вместе с тем, по частям шестой и седьмой <a data-anchor="/document/16/203131/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas67mlot/" class="link npd" title="Бонус коммерческого обнаружения является платежом, уплачиваемым за каждое коммерческое обнаружение месторождений полезных ископаемых на участке недр, указанных в соответствующей лицензии,.." moduleId="90" documentId="20918" anchor="dfas67mlot">статьи 254</a> НК главное условие для возникновения обязанности платить подписной бонус – получение права добычи полезных ископаемых в виде лицензии.</p><p><a data-anchor="/document/16/203131/bssPhr6/"></a><a data-anchor="/document/16/203131/dfast86ek3/" data-dfa="dfast86ek3"></a>Отметим, что категорический запрет на выдачу лицензий на несколько видов недропользования отсутствует.</p><p><a data-anchor="/document/16/203131/bssPhr7/"></a><a data-anchor="/document/16/203131/dfasl3l88y/" data-dfa="dfasl3l88y"></a>Во-вторых, при выдаче лицензии на геологическое изучение недр рассчитать бонус коммерческого обнаружения невозможно. Дело в том, что еще не утверждены объемы извлекаемых запасов полезных ископаемых, которые станут известны только по итогам геологоразведки. Работы могут занять до 5 лет (<a data-anchor="/document/16/203131/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/8074/dfasghqwap/" class="link npd" title="геологического изучения;" moduleId="90" documentId="8074" anchor="dfasghqwap">абз. 2</a> ст. 19 закона «О недрах»). А бонус коммерческого обнаружения рассчитывается исходя из стоимости объемов извлекаемых запасов полезных ископаемых. Вместе с тем, части <a data-anchor="/document/16/203131/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaslvoorn/" class="link npd" title="Расчет бонуса коммерческого обнаружения представляется налогоплательщиком в органы государственной налоговой службы по месту налогового учета не позднее двадцати пяти дней со дня..." moduleId="90" documentId="20918" anchor="dfaslvoorn">шестая</a> и <a data-anchor="/document/16/203131/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasem2cu2/" class="link npd" title="Уплата бонуса коммерческого обнаружения производится не позднее девяноста дней со дня получения лицензии на право пользования участками недр для добычи полезных ископаемых." moduleId="90" documentId="20918" anchor="dfasem2cu2">седьмая</a> статьи 254 НК требуют сдать расчет бонуса в течение 25 календарных дней уплатить его в течение 90 календарных дней со дня выдачи лицензии. Это также свидетельствует об уплате бонуса коммерческого обнаружения только при получении лицензии на добычу полезных ископаемых.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203131/dfas4qp2ar/" data-dfa="dfas4qp2ar"></a><a data-anchor="/document/16/203131/bssPhr8/"></a>Юридическое лицо в стандартном порядке получило лицензию на геологическое изучение недр для оценки и разведки песчано-гравийной смеси на участке недр в целях производства строительных материалов. По результатам геологического изучения установлены и утверждены запасы полезных ископаемых.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203131/bssPhr9/"></a><a data-anchor="/document/16/203131/dfaswbn3xs/" data-dfa="dfaswbn3xs"></a><a data-anchor="/document/16/203131/dfasdbozdh/" data-dfa="dfasdbozdh"></a><a data-anchor="/document/16/203131/dfas6sgd8g/" data-dfa="dfas6sgd8g"></a><a data-anchor="/document/16/203131/dfasz20hfp/" data-dfa="dfasz20hfp"></a>В условиях пользования недрами, которые прилагаются к лицензии на геологическое изучение недр, Госкомгеологии предусматривает только уплату подписного бонуса. О порядке расчета подписного бонуса – <a data-anchor="/document/16/203131/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/16/203130/dfasvl1itd/" moduleId="16" documentId="203130" anchor="dfasvl1itd" class="link ">здесь</a>.</p></div></div><p><a data-anchor="/document/16/203131/bssPhr10/"></a><a data-anchor="/document/16/203131/dfas7uc4r7/" data-dfa="dfas7uc4r7"></a>Итак, бонус коммерческого обнаружения платят лица, которые:</p><p><a data-anchor="/document/16/203131/bssPhr11/"></a><a data-anchor="/document/16/203131/dfaszra3hf/" data-dfa="dfaszra3hf"></a>–&nbsp;получили лицензию на добычу полезных ископаемых и по данному месторождению не уплачен бонус коммерческого обнаружения (<a data-anchor="/document/16/203131/backlinkanchor21/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasvuhf4x/" class="link npd" title="Бонус коммерческого обнаружения является платежом, уплачиваемым за каждое коммерческое обнаружение месторождений полезных ископаемых на участке недр, указанных в соответствующей лицензии,.." moduleId="90" documentId="20918" anchor="dfasvuhf4x">ч. 1</a> ст. 254 НК);</p><p><a data-anchor="/document/16/203131/bssPhr12/"></a><a data-anchor="/document/16/203131/dfas67zpq2/" data-dfa="dfas67zpq2"></a>–&nbsp;после получения лицензии на добычу полезных ископаемых провели дополнительную разведку месторождений, после которой увеличились первоначально установленные извлекаемые запасы (<a data-anchor="/document/16/203131/backlinkanchor23/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas0b8ox8/" class="link npd" title="Бонус является разовым платежом, осуществляемым недропользователем." moduleId="90" documentId="20918" anchor="dfas0b8ox8">ч. 1</a> ст. 252 НК).</p><p><a data-anchor="/document/16/203131/bssPhr13/"></a><a data-anchor="/document/16/203131/dfasf87fg4/" data-dfa="dfasf87fg4"></a>В рамках соглашения о разделе продукции иностранный инвестор в течение всего срока действия СРП уплачивает налоги и специальные платежи для недропользователей. Сюда входит также бонус коммерческого обнаружения (<a data-anchor="/document/16/203131/backlinkanchor25/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasllx5g3/" class="link npd" title="4) налоги и специальные платежи для недропользователей, за исключением налога на сверхприбыль;" moduleId="90" documentId="20918" anchor="dfasllx5g3">п. 4</a> ч. 1, <a data-anchor="/document/16/203131/backlinkanchor27/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas8wvgzb/" class="link npd" title="бонусы при заключении соглашения о разделе продукции и (или) по достижении определенного результата, установленные в соответствии с условиями соглашения;" moduleId="90" documentId="20918" anchor="dfas8wvgzb">абз. 2</a> п. 2 ч. 3 ст. 256 НК). Однако от уплаты подписного бонуса они <a data-anchor="/document/16/203131/backlinkanchor29/" type="backlink-anchor"></a><a href="#/document/16/203130/dfas5qc3kt/" moduleId="16" documentId="203130" anchor="dfas5qc3kt" class="link ">освобождены</a>.</p><p><a data-anchor="/document/16/203131/bssPhr14/"></a><a data-anchor="/document/16/203131/dfas55uzr0/" data-dfa="dfas55uzr0"></a>Не нужно платить бонус коммерческого обнаружения, если:</p><p><a data-anchor="/document/16/203131/bssPhr15/"></a><a data-anchor="/document/16/203131/dfashgmn9i/" data-dfa="dfashgmn9i"></a>–&nbsp;по данному участку недр бонус коммерческого обнаружения уже платился другим недропользователем (<a data-anchor="/document/16/203131/backlinkanchor31/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasvuhf4x/" class="link npd" title="Бонус коммерческого обнаружения является платежом, уплачиваемым за каждое коммерческое обнаружение месторождений полезных ископаемых на участке недр, указанных в соответствующей лицензии,.." moduleId="90" documentId="20918" anchor="dfasvuhf4x">ч. 1</a> ст. 254 НК);</p><p><a data-anchor="/document/16/203131/bssPhr16/"></a><a data-anchor="/document/16/203131/dfaslwvv53/" data-dfa="dfaslwvv53"></a>–&nbsp;получена лицензия на право пользования участками недр в виде старательской добычи драгоценных металлов (<a data-anchor="/document/16/203131/backlinkanchor33/" type="backlink-anchor"></a><a href="#/document/90/18776/dfasqff90k/" class="link npd" title="4. Освободить лиц, осуществляющих деятельность по старательской добыче драгоценных металлов с соблюдением условий, предусмотренных настоящим постановлением, от уплаты всех видов налогов..." moduleId="90" documentId="18776" anchor="dfasqff90k">п. 4</a> № ПП–4030 от 26.11.2018 г.);</p><p><a data-anchor="/document/16/203131/bssPhr17/"></a><a data-anchor="/document/16/203131/dfasnm46pp/" data-dfa="dfasnm46pp"></a>–&nbsp;недропользователь является органом государственного управления (прил. № 1 к № УП–3358 от 9.12.2003 г. ).</p><a data-anchor="/document/16/203131/bssPhr18/"></a><a data-anchor="/document/16/203131/tit1/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203131/dfasy1zag7/" data-dfa="dfasy1zag7"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Как рассчитать бонус коммерческого обнаружения</h2><p><a data-anchor="/document/16/203131/bssPhr19/"></a><a data-anchor="/document/16/203131/dfasll7gsl/" data-dfa="dfasll7gsl"></a>При расчете бонуса коммерческого обнаружения учтите следующие правила.</p><p><a data-anchor="/document/16/203131/bssPhr20/"></a><a data-anchor="/document/16/203131/dfaswg529m/" data-dfa="dfaswg529m"></a>Правило 1. На каждый участок недр Госкомгеологии выдает отдельную лицензию, поэтому бонус нужно платить по каждому месторождению (<a data-anchor="/document/16/203131/backlinkanchor35/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasvuhf4x/" class="link npd" title="Бонус коммерческого обнаружения является платежом, уплачиваемым за каждое коммерческое обнаружение месторождений полезных ископаемых на участке недр, указанных в соответствующей лицензии,.." moduleId="90" documentId="20918" anchor="dfasvuhf4x">ч. 1</a> ст. 254 НК).</p><p><a data-anchor="/document/16/203131/bssPhr21/"></a><a data-anchor="/document/16/203131/dfasuryvoo/" data-dfa="dfasuryvoo"></a>Правило 2. Бонус взимается с участка недр только один раз. Если ранее по участку уплачен бонус коммерческого обнаружения, платить его снова не нужно, даже когда бонус платил другой недропользователь (<a data-anchor="/document/16/203131/backlinkanchor37/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasvuhf4x/" class="link npd" title="Бонус коммерческого обнаружения является платежом, уплачиваемым за каждое коммерческое обнаружение месторождений полезных ископаемых на участке недр, указанных в соответствующей лицензии,.." moduleId="90" documentId="20918" anchor="dfasvuhf4x">ч. 1</a> ст. 254 НК).</p><p><a data-anchor="/document/16/203131/bssPhr22/"></a><a data-anchor="/document/16/203131/dfaskccmox/" data-dfa="dfaskccmox"></a>Правило 3. Размер бонуса коммерческого обнаружения рассчитывается формуле:</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tr align="center"><td class="bdAll"><p align="center"><a data-anchor="/document/16/203131/bssPhr23/"></a><a data-anchor="/document/16/203131/dfasa0uuq8/" data-dfa="dfasa0uuq8"></a>Сумма бонуса коммерческого обнаружения</p></td><td class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203131/bssPhr24/"></a><a data-anchor="/document/16/203131/dfaspzzgsz/" data-dfa="dfaspzzgsz"></a>꓿</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/203131/bssPhr25/"></a><a data-anchor="/document/16/203131/dfas8kz56a/" data-dfa="dfas8kz56a"></a>Стоимость объема извлекаемых запасов полезных ископаемых</p></td><td class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203131/bssPhr26/"></a><a data-anchor="/document/16/203131/dfasc4dgb6/" data-dfa="dfasc4dgb6"></a>×</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/203131/bssPhr27/"></a><a data-anchor="/document/16/203131/dfas9ykw07/" data-dfa="dfas9ykw07"></a>Ставка бонуса коммерческого обнаружения</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><p><a data-anchor="/document/16/203131/bssPhr28/"></a><a data-anchor="/document/16/203131/dfas2cvoni/" data-dfa="dfas2cvoni"></a>Процедура расчета делится на несколько этапов.</p><p><a data-anchor="/document/16/203131/bssPhr29/"></a><a data-anchor="/document/16/203131/dfaste96zo/" data-dfa="dfaste96zo"></a>Шаг 1. Уточните утвержденный объем извлекаемых запасов полезных ископаемых.</p><p><a data-anchor="/document/16/203131/bssPhr30/"></a><a data-anchor="/document/16/203131/dfasngpf6d/" data-dfa="dfasngpf6d"></a>Извлекаемые запасы полезных ископаемых – часть геологических запасов, которая может быть извлечена из недр за весь срок разработки месторождения. Данный объем утверждается Госкомиссией по запасам полезных ископаемых при Госкомгеологии (<a data-anchor="/document/16/203131/backlinkanchor39/" type="backlink-anchor"></a><a href="#/document/90/9009/dfase4bmm5/" class="link npd" title="утверждение запасов всех видов полезных ископаемых, обеспечивающих развитие минерально-сырьевой базы республики." moduleId="90" documentId="9009" anchor="dfase4bmm5">абз. 5</a> п. 5 Положения о Государственной комиссии по запасам полезных ископаемых при Государственном комитете Республики Узбекистан по геологии и минеральным ресурсам), а затем прописывается в условиях пользования недрами, которые прилагаются к лицензии.</p><p><a data-anchor="/document/16/203131/bssPhr31/"></a><a data-anchor="/document/16/203131/dfasnob6xt/" data-dfa="dfasnob6xt"></a>Шаг 2. Уточните стоимость объема извлекаемых запасов полезных ископаемых.</p><p><a data-anchor="/document/16/203131/bssPhr32/"></a><a data-anchor="/document/16/203131/dfasvwwg69/" data-dfa="dfasvwwg69"></a>По общему правилу, стоимость объема извлекаемых запасов полезных ископаемых рассчитывается по цене, установлненной на международной бирже (<a data-anchor="/document/16/203131/backlinkanchor41/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasudwwwq/" class="link npd" title="для других недропользователей — по биржевой цене, установленной на международной бирже, в порядке, установленном законодательством, а при отсутствии цены на мировом рынке стоимость..." moduleId="90" documentId="20918" anchor="dfasudwwwq">абз. 3</a> ч. 4 ст. 254 НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203131/bssPhr33/"></a><a data-anchor="/document/16/203131/dfas1o2g4u/" data-dfa="dfas1o2g4u"></a>Точную информацию об объеме извлекаемых запасов полезных ископаемых, а также о мировых ценах на полезные ископаемые можно получить в государственном предприятии «<a class="oir" target="_blank" href="http://uzgeolcom.uz/ru/about/organizations/gosudarstvennoe-predpriyatie-gosudarstvennyy-geologicheskiy-informatsionnyy-tsentr-gp-gosgeolinformts/">Государственный геологический информационный центр</a>».</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/203131/bssPhr34/"></a><a data-anchor="/document/16/203131/dfasde10cy/" data-dfa="dfasde10cy"></a>Если цена на мировом рынке отсутствует, стоимость полезных ископаемых исчисляется исходя из производственной себестоимости их добычи по технико-экономическому обоснованию, которая увеличивается на 20% (<a data-anchor="/document/16/203131/backlinkanchor43/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasudwwwq/" class="link npd" title="для других недропользователей — по биржевой цене, установленной на международной бирже, в порядке, установленном законодательством, а при отсутствии цены на мировом рынке стоимость..." moduleId="90" documentId="20918" anchor="dfasudwwwq">абз. 3</a> ч. 4 ст. 254 НК). Технико-экономическое обоснование является частью условий пользования участками недр, прилагаемых к лицензии.</p><p><a data-anchor="/document/16/203131/bssPhr35/"></a><a data-anchor="/document/16/203131/dfas73y60v/" data-dfa="dfas73y60v"></a>А для недропользователей, включенных в <a class="oir" target="_blank" href="https://gkk.uz/ru/otkrytye-dannye/perechen-predpriyatij-zanimayushchikh-dominiruyushchee-polozhenie-na-tovarnykh-i-finansovykh-rynkakh">Государственный реестр</a> хозяйствующих субъектов, занимающих доминирующее положение на товарных рынках, действует другой порядок оценки стоимости объема извлекаемых запасов полезных ископаемых. Здесь за основу расчета возьмите декларированную цену, утвержденную на данный вид полезного ископаемого (<a data-anchor="/document/16/203131/backlinkanchor45/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasudwwwq/" class="link npd" title="для других недропользователей — по биржевой цене, установленной на международной бирже, в порядке, установленном законодательством, а при отсутствии цены на мировом рынке стоимость..." moduleId="90" documentId="20918" anchor="dfasudwwwq">абз. 3</a> ч. 4 ст. 254 НК).</p><p><a data-anchor="/document/16/203131/bssPhr36/"></a><a data-anchor="/document/16/203131/dfashpw9hd/" data-dfa="dfashpw9hd"></a>Шаг 3. Стоимость объема извлекаемых полезных ископаемых умножьте на ставку бонуса коммерческого обнаружения.</p><p><a data-anchor="/document/16/203131/bssPhr37/"></a><a data-anchor="/document/16/203131/dfas9y641t/" data-dfa="dfas9y641t"></a>На 2019 год установлена единая ставка бонуса коммерческого обнаружения для всех видов полезных ископаемых. Ставка закреплена в <a data-anchor="/document/16/203131/backlinkanchor47/" type="backlink-anchor"></a><a href="#/document/90/18678/dfasrcmmq0/" class="link npd" moduleId="90" documentId="18678" anchor="dfasrcmmq0">приложении № 12</a> к постановлению Президента от 26.12.2018 г. ПП № 4086:</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr align="center"><td><p align="center"><a data-anchor="/document/16/203131/bssPhr38/"></a><a data-anchor="/document/16/203131/dfasy2qfo3/" data-dfa="dfasy2qfo3"></a>Право добычи полезных ископаемых</p></td><td><p align="center"><a data-anchor="/document/16/203131/bssPhr39/"></a><a data-anchor="/document/16/203131/dfas5ngguk/" data-dfa="dfas5ngguk"></a>Ставка в % к налогооблагаемой базе</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203131/bssPhr40/"></a><a data-anchor="/document/16/203131/dfas3toadg/" data-dfa="dfas3toadg"></a>Право добычи углеводородов, драгоценных и редких металлов, рудных и нерудных полезных ископаемых</p></td><td><p align="center"><a data-anchor="/document/16/203131/bssPhr41/"></a><a data-anchor="/document/16/203131/dfas3rdwcv/" data-dfa="dfas3rdwcv"></a>0,1%</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><p></p><a data-anchor="/document/16/203131/dfas5adqqn/" data-dfa="dfas5adqqn"></a><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203131/bssPhr48/"></a><a data-anchor="/document/16/203131/dfasa7ggd4/" data-dfa="dfasa7ggd4"></a>Уплата бонуса коммерческого обнаружения производится не позднее 90 календарных дней со дня получения лицензии на право пользования участком недр для добычи полезных ископаемых (<span title="Уплата бонуса коммерческого обнаружения производится не позднее девяноста дней со дня получения лицензии на право пользования участками недр для добычи полезных ископаемых." num="49" lnktype="intlnk" class="doc">ч. 7</span> 254 НК).</p><p><a data-anchor="/document/16/203131/bssPhr49/"></a><a data-anchor="/document/16/203131/dfas70sn1o/" data-dfa="dfas70sn1o"></a>Министерство финансов может дать рассрочку по уплате бонуса коммерческого обнаружения на срок до 3-х лет. Условие для рассрочки – сумма бонуса коммерческорго обнаружения должна превышать годовую сумму налога за пользование недрами (<span title="Ставки бонуса коммерческого обнаружения" num="51" lnktype="intlnk" class="doc">прил. № 12</span> к № ПП-4086 от 26.12.2018 г. ). О том, как рассчитать сумму налога на пользования недрами, читайте в рекомендации <span num="53" lnktype="intlnk" class="doc">«Как рассчитать сумму налога за пользование недрами»</span>.</p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

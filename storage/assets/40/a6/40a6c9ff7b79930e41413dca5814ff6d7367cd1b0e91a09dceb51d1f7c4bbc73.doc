@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кто платит налог на прибыль юридических лиц</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/202987/bssPhr1/"></a><a data-anchor="/document/16/202987/dfas8fr926/" data-dfa="dfas8fr926"></a>Налог на прибыль юридических лиц – общеустановленный налог для субъектов предпринимательства.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/202987/bssPhr2/"></a><a data-anchor="/document/16/202987/dfas62pvcb/" data-dfa="dfas62pvcb"></a>название налога не отражает круг его плательщиков. Неверно думать, что налог на прибыль платят только юрлица. На самом деле с 1 января 2019 года плательщиками этого налога стали также индивидуальные предприниматели с годовой выручкой от реализации товаров (работ, услуг) свыше 1 млрд сумов <span class="xx-small">(<a data-anchor="/document/16/202987/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasikid3s/" class="link npd" title="Плательщики единого налогового платежа, валовая выручка которых в течение налогового периода превысила один миллиард сум, переходят на уплату общеустановленных налогов начиная с начала..." moduleId="90" documentId="20918" anchor="dfasikid3s">ч. 5</a></span> <span class="xx-small">ст. 351 НК)</span>.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/202987/bssPhr3/"></a><a data-anchor="/document/16/202987/dfasvf7vc9/" data-dfa="dfasvf7vc9"></a>Обязанность по уплате налога на прибыль тесно связана с переходом от упрощенного порядка налогообложения к общеустановленному. Здесь много особых правил, поэтому разберем каждую группу плательщиков в отдельности.</p><a data-anchor="/document/16/202987/bssPhr4/"></a><a data-anchor="/document/16/202987/tit0/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/202987/dfasxp5cao/" data-dfa="dfasxp5cao"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Коммерческие организации – резиденты</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/202987/dfasy6gi4i/" data-dfa="dfasy6gi4i"></a><a data-anchor="/document/16/202987/bssPhr14/"></a>Коммерческие организации, которые прошли госрегистрацию в Республике Узбекистан, приобретают статус резидента <span class="xx-small">(<span title="юридическое лицо, прошедшее государственную регистрацию в Республике Узбекистан;" num="3" lnktype="intlnk" class="doc">абз. 2</span> ч. 1 ст. 19 НК). </span>В зависимости от вовлеченности коммерческой организации – резидента в сельскохозяйственную деятельность обязанность по уплате налога на прибыль возникает при разных условиях.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/202987/dfasgg5qxi/" data-dfa="dfasgg5qxi"></a><a data-anchor="/document/16/202987/bssPhr15/"></a>Случай 1. Сельское хозяйство не является основным видом деятельности коммерческой организации – резидента. </name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/202987/bssPhr16/"></a><a data-anchor="/document/16/202987/dfaskpb9eb/" data-dfa="dfaskpb9eb"></a><a data-anchor="/document/16/202987/dfashq02g0/" data-dfa="dfashq02g0"></a><a data-anchor="/document/16/202987/dfasqn7snq/" data-dfa="dfasqn7snq"></a><a data-anchor="/document/16/202987/dfasqvwrbm/" data-dfa="dfasqvwrbm"></a>Если <span num="5" lnktype="intlnk" class="doc">валовая выручка</span> коммерческой организации – резидента в течение календарного года не превышает 1 млрд сумов, то организация может выбрать, что платить: единый налоговый платеж или общеустановленные налоги. Поэтому при выручке не более 1 млрд сумов уплата налога на прибыль является правом, а не обязанностью.</p><p><a data-anchor="/document/16/202987/bssPhr17/"></a><a data-anchor="/document/16/202987/dfaspgp9ca/" data-dfa="dfaspgp9ca"></a>Когда миллиардный порог превышен, юрлицо становится плательщиком налога на прибыль и других общеустановленных налогов уже в обязательном порядке <span class="xx-small">(<span title="1) юридические лица, валовая выручка которых за налоговый период не превышает одного миллиарда сум;" num="7" lnktype="intlnk" class="doc">п. 1</span> ч. 1 ст. 350, <i><span title="Плательщики единого налогового платежа, валовая выручка которых в течение налогового периода превысила один миллиард сум, переходят на уплату общеустановленных налогов начиная с начала..." num="9" lnktype="intlnk" class="doc">ч. 5</span></i></span> <span class="xx-small">ст. 351 НК)</span>. Это произойдет со следующего месяца после превышения. В течение последующих 12 месяцев организация не сможет перейти обратно на уплату ЕНП <span class="xx-small">(<span title="Налогоплательщики, указанные в части пятой статьи 351 настоящего Кодекса, вправе вновь перейти на уплату единого налогового платежа, начиная с очередного налогового периода при условии,.." num="11" lnktype="intlnk" class="doc">ч. 2</span> ст. 354 НК)</span>.</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/202987/bssPhr18/"></a><a data-anchor="/document/16/202987/dfaskyei4y/" data-dfa="dfaskyei4y"></a>данный порядок распространяется также на лесные и охотничьи хозяйства, поскольку они не являются плательщиками единого земельного налога <span class="xx-small">(<span title="Не рассматриваются в качестве плательщиков единого земельного налога:" num="13" lnktype="intlnk" class="doc">ч. 4</span> ст. 362 НК)</span>.</p><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/202987/dfasqs013s/" data-dfa="dfasqs013s"></a><a data-anchor="/document/16/202987/bssPhr19/"></a>Случай 2. Коммерческая организация – резидент является сельскохозяйственным товаропроизводителем</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/202987/bssPhr20/"></a><a data-anchor="/document/16/202987/dfasfsl965/" data-dfa="dfasfsl965"></a><a data-anchor="/document/16/202987/dfass634g2/" data-dfa="dfass634g2"></a><a data-anchor="/document/16/202987/dfashhkgca/" data-dfa="dfashhkgca"></a><a data-anchor="/document/16/202987/dfas05fi15/" data-dfa="dfas05fi15"></a>Для коммерческих организаций – резидентов из числа сельскохозяйственных товаропроизводителей годовой размер валовой выручки не всегда влияет на порядок налогообложения. Когда сельскохозяйственный товаропроизводитель отвечает требованиям <span title="К сельскохозяйственным товаропроизводителям в целях налогообложения относятся юридические лица, отвечающие одновременно следующим условиям, если иное не предусмотрено частью третьей настоящей статьи" num="15" lnktype="intlnk" class="doc">части 2</span> статьи 362 НК, в том числе основным видом его деятельности является производство сельхозпродукции с использованием земельных участков или переработка сельхозпродукции собственного производства, он не вправе выбирать порядок налогообложения по основному виду деятельности и платит по нему единый земельный налог (далее – ЕЗН). Даже если валовая выручка по о<a data-anchor="/document/16/202987/_GoBack/"></a>сновному виду деятельности превысит 1 млрд сумов в течение календарного года, сельскохозяйственный товаропроизводитель не перейдет на общеустановленные налоги по основному виду деятельности <span class="xx-small">(<span title="Сельскохозяйственные товаропроизводители, отвечающие условиям, установленным в части второй статьи 362 настоящего Кодекса, а также опытно-экспериментальные хозяйства научно-исследовательских..." num="17" lnktype="intlnk" class="doc">ч. 6</span> ст. 363 НК)</span>. По другим видам деятельности плательщики ЕЗН обязаны вести раздельный учет и параллельно платить иные налоги <span class="xx-small">(<span title="При осуществлении видов деятельности, не связанных с производством и переработкой сельскохозяйственной продукции, плательщик единого земельного налога по данным видам деятельности..." num="19" lnktype="intlnk" class="doc">ч. 7</span> ст. 363 НК)</span>. А именно, когда в течение года выручка по сопутствующим видам деятельности не превышает 1 млрд сумов, плательщик ЕЗН вправе платить ЕНП в части деятельности, не связанной с сельским хозяйством. Если же превышает миллиардный порог, плательщик ЕЗН обязан платить в этой части налог на прибыль и другие общеустановленные налоги <span class="xx-small">(<span title="1) юридические лица, валовая выручка которых за налоговый период не превышает одного миллиарда сум;" num="21" lnktype="intlnk" class="doc">п. 1</span> ч. 1 ст. 350 НК)</span>. Сельскохозяйственные товаропроизводители, которые по итогам предыдущего года перестали отвечать требованиям <span title="К сельскохозяйственным товаропроизводителям в целях налогообложения относятся юридические лица, отвечающие одновременно следующим условиям, если иное не предусмотрено частью третьей настоящей статьи" num="23" lnktype="intlnk" class="doc">части 2</span> статьи 362 НК, теряют право платить ЕЗН с 1 января текущего года. Они перестают быть сельскохозяйственными товаропроизводителями и по всем видам деятельности, включая производство и переработку сельхозпродукции, платят либо ЕНП, либо налог на прибыль и другие общеустановленные налоги в зависимости от размера валовой выручки.</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/202987/bssPhr21/"></a><a data-anchor="/document/16/202987/dfash11szt/" data-dfa="dfash11szt"></a>дехканские хозяйства с образованием и без образования юрлица никогда не рассматриваются в качестве плательщиков ЕЗН. Порядок уплаты ими налогов регулируется <span title="Глава 61. Особенности налогообложения дехканских хозяйств" num="25" lnktype="intlnk" class="doc">главой 61</span> НК. А такие плательщики ЕЗН, как опытно-экспериментальные хозяйства научно-исследовательских организаций сельскохозяйственного профиля и учебно-опытные хозяйства образовательных учреждений, не должны соответствовать требованиям части 2 статьи 362 НК, чтобы платить ЕЗН. Поэтому при осуществлении нескольких видов деятельности их переход на уплату ЕНП или общеустановленных налогов по производству и переработке сельхозпродукции невозможен при любом соотношении видов деятельности. Они продолжат вести раздельный учет и параллельно платить ЕЗН и другие налоги.</p><div class="incut-v4__icon"></div></div><p></p></div><a data-anchor="/document/16/202987/bssPhr5/"></a><a data-anchor="/document/16/202987/tit1/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/202987/dfasxaffxs/" data-dfa="dfasxaffxs"></a><a data-anchor="/document/16/202987/dfasr0g8kv/" data-dfa="dfasr0g8kv"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Некоммерческие организации – резиденты</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/202987/dfasf8le9g/" data-dfa="dfasf8le9g"></a><a data-anchor="/document/16/202987/bssPhr25/"></a>Некоммерческие организации – резиденты (НКО), по общему правилу, налог на прибыль не платят <span class="xx-small">(<span title="резиденты Республики Узбекистан;" num="28" lnktype="intlnk" class="doc">абз. 2</span> ч. 2 ст. 126 НК)</span>. Но в части доходов от предпринимательства они становятся налогоплательщиками.</p><p><a data-anchor="/document/16/202987/bssPhr26/"></a><a data-anchor="/document/16/202987/dfas96xe8c/" data-dfa="dfas96xe8c"></a>До 2017 года включительно при ведении бизнеса НКО платили общеустановленные налоги по доходам от предпринимательской деятельности. С 1 января 2018 года НКО получили право переходить на уплату ЕНП в части доходов от предпринимательства <span class="xx-small">(<span title="10. Предоставить некоммерческим организациям право с 1 января 2018 года уплачивать единый налоговый платеж в порядке, предусмотренном для микрофирм и малых предприятий, в части доходов,.." num="30" lnktype="intlnk" class="doc">п. 10</span> № ПП-3454 от 29.12.2017)</span>. А с 1 января 2019 года, как и для других налогоплательщиков, некоммерческим организациям ввели ограничение по размеру оборота для добровольной уплаты ЕНП. Теперь, если доходы от предпринимательской деятельности превысили 1 млрд сумов в течение календарного года, НКО обязаны платить по ним общеустановленные налоги <span class="xx-small">(<span title="6) некоммерческие организации в части доходов, полученных ими от предпринимательской деятельности, при условии, что доходы от предпринимательской деятельности за налоговый период..." num="32" lnktype="intlnk" class="doc">п. 6</span> ч. 1 ст. 350 НК)</span>.</p><p></p></div><a data-anchor="/document/16/202987/bssPhr6/"></a><a data-anchor="/document/16/202987/tit2/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/202987/dfast5eewo/" data-dfa="dfast5eewo"></a><a data-anchor="/document/16/202987/dfasinp931/" data-dfa="dfasinp931"></a><h2 class="main__title-section title toc" toc-anchor="tit2">Индивидуальные предприниматели</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/202987/dfaseogo2v/" data-dfa="dfaseogo2v"></a><a data-anchor="/document/16/202987/bssPhr30/"></a>Индивидуальные предприниматели обязаны платить налог на прибыль только в одном случае – когда их выручка от реализации товаров (работ, услуг) превысила 1 млрд сумов в течение календарного года <span class="xx-small">(<span title="Плательщики единого налогового платежа, валовая выручка которых в течение налогового периода превысила один миллиард сум, переходят на уплату общеустановленных налогов начиная с начала..." num="35" lnktype="intlnk" class="doc">ч. 5</span> ст. 351 НК)</span>.</p><p></p></div><a data-anchor="/document/16/202987/bssPhr7/"></a><a data-anchor="/document/16/202987/tit3/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/202987/dfasts0b9q/" data-dfa="dfasts0b9q"></a><a data-anchor="/document/16/202987/dfasrgwefi/" data-dfa="dfasrgwefi"></a><h2 class="main__title-section title toc" toc-anchor="tit3">Когда нерезиденты платят налог на прибыль</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/202987/dfasaz28iw/" data-dfa="dfasaz28iw"></a><a data-anchor="/document/16/202987/bssPhr34/"></a>Юрлица, которые прошли госрегистрацию за рубежом, признаются в Узбекистане нерезидентами <span class="xx-small">(<span title="юридическое лицо, прошедшее государственную регистрацию в Республике Узбекистан;" num="38" lnktype="intlnk" class="doc">абз. 2</span> ч. 1, <span title="Нерезидентом Республики Узбекистан признается лицо, не отвечающее критериям, установленным частью первой настоящей статьи." num="40" lnktype="intlnk" class="doc">ч. 3</span> ст. 19 НК)</span>. Статус коммерческой либо некоммерческой организации при налогообложении нерезидентов значения не имеет.</p><p><a data-anchor="/document/16/202987/bssPhr35/"></a><a data-anchor="/document/16/202987/dfasu8obb2/" data-dfa="dfasu8obb2"></a>Порядок уплаты нерезидентами налога на прибыль зависит от постановки на учет постоянного учреждения на территории Узбекистана. Напомним, постоянное учреждение нерезидента – любое место, через которое он осуществляет деятельность в Республике Узбекистан <span class="xx-small">(<span title="Статья 20. Постоянное учреждение" num="42" lnktype="intlnk" class="doc">ст. 20</span> НК)</span>.</p><p><a data-anchor="/document/16/202987/bssPhr36/"></a><a data-anchor="/document/16/202987/dfasrgckwp/" data-dfa="dfasrgckwp"></a>Без постановки на учет постоянного учреждения нерезидент не вправе применять упрощенный порядок налогообложения и платит налог на прибыль и другие общеустановленные налоги. Налог на прибыль такого нерезидента удерживается с источника выплаты в Узбекистане местными налоговыми агентами <span class="xx-small">(<span title="Доходы нерезидента Республики Узбекистан, не связанные с постоянным учреждением, подлежат налогообложению, если иное не предусмотрено частью второй настоящей статьи, у источника выплаты..." num="44" lnktype="intlnk" class="doc">ч. 1</span> ст.155 НК)</span>.</p><p><a data-anchor="/document/16/202987/bssPhr37/"></a><a data-anchor="/document/16/202987/dfasp3tt1v/" data-dfa="dfasp3tt1v"></a>Налоговый агент освобождается от обязанности удерживать налог на прибыль, если нерезидент представит:</p><p><a data-anchor="/document/16/202987/bssPhr38/"></a><a data-anchor="/document/16/202987/dfas8o313b/" data-dfa="dfas8o313b"></a>– документ, выданный компетентным органом иностранного государства, с которым Узбекистан имеет международный договор об избежании двойного налогообложения (для иностранных банков и международных систем такой документ не требуется);</p><p><a data-anchor="/document/16/202987/bssPhr39/"></a><a data-anchor="/document/16/202987/dfasfybpr8/" data-dfa="dfasfybpr8"></a>– справку о том, что нерезидент осуществляет деятельность и состоит на учете в органе государственной налоговой службы как постоянное учреждение нерезидента, заверенную органами государственной налоговой службы Республики Узбекистан <span class="xx-small">(<span title="Выплата дохода нерезиденту Республики Узбекистан производится без удержания налога на прибыль юридических лиц у источника выплаты при наличии справки о том, что нерезидент Республики..." num="46" lnktype="intlnk" class="doc">ч. 11</span>–<span title="В случае выплаты доходов иностранным банкам и международным межбанковским телекоммуникационным системам подтверждение факта постоянного местонахождения иностранного банка или международной..." num="48" lnktype="intlnk" class="doc">13</span> ст. 155 НК)</span>.</p><p><a data-anchor="/document/16/202987/bssPhr40/"></a><a data-anchor="/document/16/202987/dfasly5urw/" data-dfa="dfasly5urw"></a>Со дня постановки на учет постоянного учреждения нерезидент начинает платить налоги самостоятельно <span class="xx-small">(<span title="Выплата дохода нерезиденту Республики Узбекистан производится без удержания налога на прибыль юридических лиц у источника выплаты при наличии справки о том, что нерезидент Республики..." num="50" lnktype="intlnk" class="doc">ч. 11</span> ст. 155 НК)</span>.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/202987/bssPhr41/"></a><a data-anchor="/document/16/202987/dfascace6g/" data-dfa="dfascace6g"></a>в Налоговом кодексе отсутствует запрет на применение упрощенного порядка налогообложения нерезидентами, создавшими постоянное учреждение на территории Узбекистана. В связи с этим при объеме валовой выручки по постоянному учреждению менее 1 млрд сумов в течение календарного года нерезидент уплачивает налог на прибыль в добровольном порядке <span class="xx-small">(<span title="1) юридические лица, валовая выручка которых за налоговый период не превышает одного миллиарда сум;" num="52" lnktype="intlnk" class="doc">п. 1</span> ч. 1 ст. 350 НК)</span>.</p><div class="incut-v4__icon"></div></div><p></p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

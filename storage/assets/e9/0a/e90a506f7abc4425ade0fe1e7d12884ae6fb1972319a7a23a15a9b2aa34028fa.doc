@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Третья Практическая Конференция «Бухгалтер Будущего» — 2025: Как это было</h2><div class="doc-snippet"><a data-anchor="/document/16/218921/dfasuua4nd/" data-dfa="dfasuua4nd"></a><a data-anchor="/document/16/218921/bssPhr2/"></a>Предлагаем краткий обзор с эксклюзивными материалами о III-ей Практической конференции «Бухгалтер Будущего», которая прошла 22 мая 2025 года. В этом году мероприятие прошло не так, как обычно. Участников ждали сюрпризы как от организаторов, так и от чиновников. В материале вы найдете: презентации по теме выступлений, видеозаписи выступлений, а также яркий фотоотчет. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/218921/bssPhr3/"></a><a data-anchor="/document/16/218921/dfasa5lhko/" data-dfa="dfasa5lhko"></a>Практическая конференция «Бухгалтер Будущего» в очередной раз подтвердила статус одного из главных профессиональных событий. Впервые среди почетных гостей присутствовали специалисты ГНК. Все были рады видеть и уже постоянных гостей Конференции — представителей с Минэкономфина и Минзанятости. На единой площадке встретились более 200 профессионалов. Как и ранее, коллеги делились своими проблемами, болевыми точками, а спикеры подсказали возможные безопасные решения. Но начало конференции было нестандартным.</p><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td style="text-align: center; vertical-align: middle; width: 50%;"><a data-anchor="/document/16/218921/bssPhr4/"></a><a data-anchor="/document/16/218921/dfasgho7hg/" data-dfa="dfasgho7hg"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41892082" sourceId="1" fullSizeImageId="-41892081" width="610" height="407.22070844686647" src="https://1gb.uz/system/content/image/297/1/-41892082/"></td><td style="text-align: center; vertical-align: middle;"><a data-anchor="/document/16/218921/bssPhr5/"></a><a data-anchor="/document/16/218921/dfaslnkph5/" data-dfa="dfaslnkph5"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41883934" sourceId="1" fullSizeImageId="-41883933" width="610" height="406.38964577656674" src="https://1gb.uz/system/content/image/297/1/-41883934/"></td></tr><tr><td style="text-align: center; vertical-align: middle; width: 50%;"><a data-anchor="/document/16/218921/bssPhr6/"></a><a data-anchor="/document/16/218921/dfasohpghn/" data-dfa="dfasohpghn"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41892346" sourceId="1" fullSizeImageId="-41892345" width="610" height="398.9100817438692" src="https://1gb.uz/system/content/image/297/1/-41892346/"></td><td style="text-align: center; vertical-align: middle;"><a data-anchor="/document/16/218921/bssPhr7/"></a><a data-anchor="/document/16/218921/dfasnp0bd9/" data-dfa="dfasnp0bd9"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41892353" sourceId="1" fullSizeImageId="-41892352" width="610" height="343.22888283378745" src="https://1gb.uz/system/content/image/297/1/-41892353/"></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218921/bssPhr8/"></a><a data-anchor="/document/16/218921/dfasezopwy/" data-dfa="dfasezopwy"></a>Чтобы разрядить обстановку, и добавить коллегам позитивных моментов, мероприятие открыли лазерным шоу. Судя по реакции коллег — это был приятный сюрприз.</p><p><a data-anchor="/document/16/218921/bssPhr9/"></a><a data-anchor="/document/16/218921/dfasarftt0/" data-dfa="dfasarftt0"></a><a href="https://youtu.be/-a4M_A3ehko?si=ZNf-FKpm1ITm4BlP" target="_blank" title="">Посмотреть полное видео лазерного шоу</a></p><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td style="text-align: center; vertical-align: middle; width: 50%;"><a data-anchor="/document/16/218921/bssPhr10/"></a><a data-anchor="/document/16/218921/dfas7sd270/" data-dfa="dfas7sd270"></a><a href="https://youtu.be/-a4M_A3ehko?si=ZNf-FKpm1ITm4BlP" data-warm-notices="" data-warm-notice-type="" target="_blank" title=""><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41892390" sourceId="1" width="598" height="322" src="https://1gb.uz/system/content/image/297/1/-41892390/"></a></td><td style="text-align: center; vertical-align: middle;"><a data-anchor="/document/16/218921/bssPhr11/"></a><a data-anchor="/document/16/218921/dfas2kfln7/" data-dfa="dfas2kfln7"></a><a href="https://youtu.be/-a4M_A3ehko?si=ZNf-FKpm1ITm4BlP" data-warm-notices="" data-warm-notice-type="" target="_blank" title=""><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41892391" sourceId="1" width="598" height="322" src="https://1gb.uz/system/content/image/297/1/-41892391/"></a></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218921/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218921/bssPhr12/"></a><a data-anchor="/document/16/218921/dfaszym4u7/" data-dfa="dfaszym4u7"></a>Темы конференции: презентации и видеозаписи&nbsp;</h2><p><a data-anchor="/document/16/218921/bssPhr13/"></a><a data-anchor="/document/16/218921/dfaskwqxv6/" data-dfa="dfaskwqxv6"></a>На мероприятии участники обсуждали налоговые изменения в 2025 году, новые НСБУ и правила учета аренды, подводные камни расчета среднего заработка по измененным формулам, практику налоговых споров. Также уделили внимание сложным моментам при работе на платформах Didox и 1С.</p><a data-anchor="/document/16/218921/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218921/bssPhr14/"></a><a data-anchor="/document/16/218921/dfasqx078c/" data-dfa="dfasqx078c"></a>Налоговые изменения — 2025</h3><p><a data-anchor="/document/16/218921/bssPhr15/"></a><a data-anchor="/document/16/218921/dfasn4rbeh/" data-dfa="dfasn4rbeh"></a>В рамках конференции по вопросам налогообложения выступила сертифицированный налоговый консультант <strong>Эргашева Гульнара Холдаровна</strong>. Спикер детально осветила актуальные важные налоговые изменения и подсказала, как в новых реалиях не потерять позицию в рейтинге, снизить налоговые риски (подробнее о новом рейтинге, как он работает и на что влияет – в <a data-anchor="/document/16/218921/backlinkanchor145/" type="backlink-anchor"></a><a href="#/document/16/221502" data-warm-notices="45069879" data-warm-notice-type="error" target="_self" title="" moduleId="16" documentId="221502" class="link ">рекомендации</a>.</p><p><a data-anchor="/document/16/218921/bssPhr16/"></a><a data-anchor="/document/16/218921/dfaswgoh5m/" data-dfa="dfaswgoh5m"></a>Особое значение имело присутствие <strong>представителей ГНК</strong>, что стало приятным прецедентом. Произошел открытый и конструктивный диалог между бизнес-сообществом и органами контроля.</p><p><a data-anchor="/document/16/218921/bssPhr17/"></a><a data-anchor="/document/16/218921/dfaswwa27p/" data-dfa="dfaswwa27p"></a>В ходе конференции участники получили развернутые ответы на конкретные вопросы, возникающие в отчетном периоде при применении норм НК. Причем не только от высококлассного профессионала — Гульнары Холдаровны, но и от экспертов ГНК. Не по всем вопросам практики и специалисты ведомства пришли к единому мнению. Коллеги открыто дискутировали, что тоже очень ценно.</p><p><a data-anchor="/document/16/218921/bssPhr18/"></a><a data-anchor="/document/16/218921/dfasqfk3xv/" data-dfa="dfasqfk3xv"></a><strong>Презентация, которая поможет внедрить изменения в работу</strong></p><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/37a626b2-ce60-45b6-964d-f807843ad6e0/index.html" data-itype="presentation" data-moduleId="237" data-id="120" style="min-height:400px" width="100%"></iframe></div><p style="text-align:center"><a data-anchor="/document/16/218921/bssPhr19/"></a><a data-anchor="/document/16/218921/dfas3gs80r/" data-dfa="dfas3gs80r"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-pdf" href="https://1gb.uz/system/content/attachment/1/16/-101792/">Скачать презентацию</a></p><p><a data-anchor="/document/16/218921/bssPhr20/"></a><a data-anchor="/document/16/218921/dfasxzacug/" data-dfa="dfasxzacug"></a><strong>Видео-лекция:</strong></p><div class="iframe"><iframe width="560" height="455" src="https://www.youtube.com/embed/C-1ExzfN4g8?si=LBha1ZAqoZ-ceZLz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="45069882" data-warm-notice-type="error" num="125" target="_self" lnktype="intlnk" title="" class="doc">Изменения по налогам в 2025 году</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="45069881" data-warm-notice-type="error" num="157" target="_self" lnktype="intlnk" title="" class="doc">Как узнать рейтинг компании</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="45069880" data-warm-notice-type="error" num="4" target="_self" lnktype="intlnk" title="" class="doc">Как проводят камеральную и выездную налоговую проверку</span></li></ul></div><div class="incut-v4__icon"></div></div><a data-anchor="/document/16/218921/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218921/bssPhr22/"></a><a data-anchor="/document/16/218921/dfasmqg7tg/" data-dfa="dfasmqg7tg"></a>Новые НСБУ и учет в новых условиях</h3><p><a data-anchor="/document/16/218921/bssPhr23/"></a><a data-anchor="/document/16/218921/dfasf7o3oa/" data-dfa="dfasf7o3oa"></a>О новых национальных стандартах бухгалтерского учета рассказала <strong>Шабанова Ольга Павловна</strong>, бухгалтер-практик, преподаватель с 20-летним педагогическим стажем в области бухучета. На примерах из практики участники увидели как НСБУ адаптировать под МСФО, корректно вести учет основных средств в соответствии с НК, формировать учетную политику. Особое внимание коллеги уделили правилам перерасчета авансовых платежей по НСБУ № 22 и отражения их на балансе предприятия. В представленной презентации полезные наглядные примеры, которые помогут разобраться в учете по новым НСБУ. Подробно об учете курсовых разниц – в <a data-anchor="/document/16/218921/backlinkanchor28/" type="backlink-anchor"></a><a href="#/document/16/218842" data-warm-notices="45069878" data-warm-notice-type="error" target="_self" title="" moduleId="16" documentId="218842" class="link ">рекомендации</a>.</p><p><a data-anchor="/document/16/218921/bssPhr24/"></a><a data-anchor="/document/16/218921/dfasf3dege/" data-dfa="dfasf3dege"></a><strong>Презентация, которая поможет внедрить изменения в работу</strong></p><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/8bb89f36-4b58-49e0-97d4-0f6522b9297e/index.html" data-itype="presentation" data-moduleId="237" data-id="114" style="min-height:400px" width="100%"></iframe></div><p style="text-align:center"><a data-anchor="/document/16/218921/bssPhr25/"></a><a data-anchor="/document/16/218921/dfaszzg1zb/" data-dfa="dfaszzg1zb"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-pdf" href="https://1gb.uz/system/content/attachment/1/16/-101793/">Скачать презентацию</a></p><p><a data-anchor="/document/16/218921/bssPhr26/"></a><a data-anchor="/document/16/218921/dfass10p4p/" data-dfa="dfass10p4p"></a><strong>Видео-лекция:</strong></p><div class="iframe"><iframe width="560" height="455" src="https://www.youtube.com/embed/TnvvWQ3Q3l8?si=N4Jh4G9cn1ytGCIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="45069885" data-warm-notice-type="error" num="8" target="_self" lnktype="intlnk" title="" class="doc">Как составить учетную политику для целей бухгалтерского учета на 2025 год</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="45069884" data-warm-notice-type="error" num="127" target="_self" lnktype="intlnk" title="" class="doc">Когда в бухучете возникают курсовые разницы при покупке товаров</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="45069883" data-warm-notice-type="error" num="9" target="_self" lnktype="intlnk" title="" class="doc">Как начислить амортизацию по нематериальным активам в бухучете</span></li></ul></div><div class="incut-v4__icon"></div></div><a data-anchor="/document/16/218921/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218921/bssPhr28/"></a><a data-anchor="/document/16/218921/dfasfolsth/" data-dfa="dfasfolsth"></a>Учет аренды: практика 2025 года</h3><p><a data-anchor="/document/16/218921/bssPhr29/"></a><a data-anchor="/document/16/218921/dfasoi1s0b/" data-dfa="dfasoi1s0b"></a><strong>Калараш Оксана Витальевна</strong>, ведущий бухгалтер компании OOO «PRIME BUSINESS EXPERTS», представила обзор изменений в учете аренды. В этом году на учет аренды повлияли не только новые НСБУ. Уже несколько раз менялись минимальные ставки и коллегам приходится несколько раз пересчитывать суммы, даже без изменений договоров. Ведь ставки влияют на налогообложение (подробно – в <a data-anchor="/document/16/218921/backlinkanchor54/" type="backlink-anchor"></a><a href="#/document/16/218855" data-warm-notices="45069877" data-warm-notice-type="error" target="_self" title="" moduleId="16" documentId="218855" class="link ">рекомендации</a>).</p><p><a data-anchor="/document/16/218921/bssPhr30/"></a><a data-anchor="/document/16/218921/dfasqdbrug/" data-dfa="dfasqdbrug"></a><strong>Презентация, которая поможет внедрить изменения в работу</strong></p><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/b262c8c8-67ef-4ac2-be9b-cf2c07cbae4b/index.html" data-itype="presentation" data-moduleId="237" data-id="117" style="min-height:400px" width="100%"></iframe></div><p style="text-align:center"><a data-anchor="/document/16/218921/bssPhr31/"></a><a data-anchor="/document/16/218921/dfasycnp5v/" data-dfa="dfasycnp5v"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-pdf" href="https://1gb.uz/system/content/attachment/1/16/-101794/">Скачать презентацию</a></p><p style="text-align:start"><a data-anchor="/document/16/218921/bssPhr32/"></a><a data-anchor="/document/16/218921/dfas1dagu9/" data-dfa="dfas1dagu9"></a><strong>Видео-лекция:</strong></p><div class="iframe"><iframe width="560" height="455" src="https://www.youtube.com/embed/rfrHXhqezuY?si=szOTVJ5IFR850G6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="45069887" data-warm-notice-type="error" num="33" target="_self" lnktype="intlnk" title="" class="doc">Как учесть финансовую аренду у арендодателя по МСФО</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="45069886" data-warm-notice-type="error" num="34" target="_self" lnktype="intlnk" title="" class="doc">Минимальные ставки арендной платы с учетом повышающих коэффициентов</span></li></ul></div><div class="incut-v4__icon"></div></div><a data-anchor="/document/16/218921/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218921/bssPhr34/"></a><a data-anchor="/document/16/218921/dfaskgghug/" data-dfa="dfaskgghug"></a>Расчет среднего заработка с учетом новых норм ТК</h3><p><a data-anchor="/document/16/218921/bssPhr35/"></a><a data-anchor="/document/16/218921/dfas2q9xgm/" data-dfa="dfas2q9xgm"></a><strong>Газизова Альфия Рамиловна</strong>, редакционный директор компании «АКТИОН-МЦФЭР», организатор конференции, глубоко проанализировала изменения в расчете среднего заработка в соответствии с новым положением Кабмина и ТК. На конкретных числовых примерах она объяснила, как считать отпускные, пособия и компенсации, а также как снизить риск трудовых споров. Так как в этом году правила расчета среднего заработка изменили, тема расчета отпускных и больничных вызвала у коллег неподдельный интерес (подробности - в <a data-anchor="/document/16/218921/backlinkanchor83/" type="backlink-anchor"></a><a href="#/document/16/219005" target="_self" title="" moduleId="16" documentId="219005" class="link ">рекомендации</a>).</p><p><a data-anchor="/document/16/218921/bssPhr36/"></a><a data-anchor="/document/16/218921/dfas0304cd/" data-dfa="dfas0304cd"></a>Участники непосредственно обратились к почетному гостю — специалисту Минзанятости —<strong>Бобамуратову Отабеку Эркиновичу</strong> с просьбой вернуть старые правила расчета среднего заработка. Главный специалист Управления трудовых стандартов и оплаты труда Министерства занятости и сокращения бедности объяснил, что новые правила в ТК разработаны с учетом международной практики. Они ориентированы на сохранение гарантий работников, а не работодателей. Но согласился, что пока не все идеально и в настоящее время чиновники работают над очередными правками ТК и пожелания коллег, высказанные в ходе конференции, будут учтены.</p><p><a data-anchor="/document/16/218921/bssPhr37/"></a><a data-anchor="/document/16/218921/dfasxt9h4c/" data-dfa="dfasxt9h4c"></a><strong>Презентация, которая поможет внедрить изменения в работу</strong></p><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/10b886dd-2748-4d87-b59d-fab4d82b9103/index.html" data-itype="presentation" data-moduleId="237" data-id="115" style="min-height:400px" width="100%"></iframe></div><p style="text-align:center"><a data-anchor="/document/16/218921/bssPhr38/"></a><a data-anchor="/document/16/218921/dfascscfh3/" data-dfa="dfascscfh3"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-pdf" href="https://1gb.uz/system/content/attachment/1/16/-101795/">Скачать презентацию</a></p><p style="text-align:start"><a data-anchor="/document/16/218921/bssPhr39/"></a><a data-anchor="/document/16/218921/dfas784hq3/" data-dfa="dfas784hq3"></a><strong>Видеозапись разбора темы</strong></p><div class="iframe"><iframe width="560" height="455" src="https://www.youtube.com/embed/y78Nkow8th4?si=L38-KR_uOHciGCQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="151" target="_self" lnktype="intlnk" title="" class="doc">Как рассчитать среднюю заработную плату в 2025 году</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="45069888" data-warm-notice-type="error" num="62" target="_self" lnktype="intlnk" title="" class="doc">Как рассчитать компенсацию за неиспользованный отпуск</span></li><li class="incut-v4-more-about__item"><span num="60" target="_self" lnktype="intlnk" title="" class="doc">Какие существуют системы оплаты труда</span></li><li class="incut-v4-more-about__item"><span num="61" target="_self" lnktype="intlnk" title="" class="doc">Как рассчитывать и оплачивать пособие по временной нетрудоспособности</span></li></ul></div><div class="incut-v4__icon"></div></div><a data-anchor="/document/16/218921/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/218921/bssPhr41/"></a><a data-anchor="/document/16/218921/dfasg923zm/" data-dfa="dfasg923zm"></a>Скачайте полезные шаблоны</h3><div class="doc-columns doc-columns_type_forms"><table class="" style="width:92%"><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/-41878723/" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/-41878724/" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/-41878725/" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/-41878727/" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr></table></div><a data-anchor="/document/16/218921/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/218921/bssPhr42/"></a><a data-anchor="/document/16/218921/dfas7y1aym/" data-dfa="dfas7y1aym"></a>Налоговые споры: как избежать рисков</h3><p><a data-anchor="/document/16/218921/bssPhr43/"></a><a data-anchor="/document/16/218921/dfas07d324/" data-dfa="dfas07d324"></a>Юрист и налоговый консультант <strong>Мухамедбаев Абдугани Абдусаттарович</strong> подробно осветил на одну из самых актуальных и сложных тем для бизнеса — практику налоговых споров. Его выступление включало всесторонний анализ механизмов разрешения конфликтов с налоговыми органами. Коллеги получили рекомендации по минимизации рисков, а также правовые основания для защиты интересов налогоплательщика (как разрешают споры, связанные с созданием, реорганизацией и ликвидацией юридического лица - в <a data-anchor="/document/16/218921/backlinkanchor85/" type="backlink-anchor"></a><a href="#/document/16/206392" data-warm-notices="41581218,45069876" data-warm-notice-type="error" target="_self" title="" moduleId="16" documentId="206392" class="link ">рекомендации).</a></p><p><a data-anchor="/document/16/218921/bssPhr44/"></a><a data-anchor="/document/16/218921/dfas3m9gwa/" data-dfa="dfas3m9gwa"></a>Ценно, что Абдугани Абдусаттарович поделился практическими кейсами — привел реальные решения судов, которые удалось выиграть. Узнайте, какими доводами апеллировать, если налоговики незаконно:</p><ul class="c-list"><li><a data-anchor="/document/16/218921/bssPhr45/"></a><a data-anchor="/document/16/218921/dfaskxwyok/" data-dfa="dfaskxwyok"></a>начислили НДС;</li><li>отказали в уточненке;</li><li>переквалифицировали сделку и доначислили налоги, пени, штрафы;</li><li>пересчитали платежи по налогу на прибыль иностранному агенту</li></ul><p><a data-anchor="/document/16/218921/bssPhr46/"></a><a data-anchor="/document/16/218921/dfaslylmh4/" data-dfa="dfaslylmh4"></a>Тексты решений можно посмотреть в презентациях, комментарии юриста — в видео.</p><p><a data-anchor="/document/16/218921/bssPhr47/"></a><a data-anchor="/document/16/218921/dfash4og10/" data-dfa="dfash4og10"></a><strong>Презентация, которая поможет внедрить изменения в работу</strong></p><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/25869ad1-201a-48a2-b45a-ce4a23b3b01c/index.html" data-itype="presentation" data-moduleId="237" data-id="116" style="min-height:400px" width="100%"></iframe></div><p style="text-align:center"><a data-anchor="/document/16/218921/bssPhr48/"></a><a data-anchor="/document/16/218921/dfasexa6xh/" data-dfa="dfasexa6xh"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-pdf" href="https://1gb.uz/system/content/attachment/1/16/-101796/">Скачать презентацию</a></p><p style="text-align:start"><a data-anchor="/document/16/218921/bssPhr49/"></a><a data-anchor="/document/16/218921/dfas6g0cei/" data-dfa="dfas6g0cei"></a><strong>Видео-лекция:</strong></p><div class="iframe"><iframe width="560" height="455" src="https://www.youtube.com/embed/ip1l1ATTTS4?si=AX1XwoRV3-8zOlh7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><a data-anchor="/document/16/218921/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/218921/bssPhr50/"></a><a data-anchor="/document/16/218921/dfaseg321v/" data-dfa="dfaseg321v"></a>Работа на платформе Didox в 2025 году</h3><p><a data-anchor="/document/16/218921/bssPhr51/"></a><a data-anchor="/document/16/218921/dfasboo05n/" data-dfa="dfasboo05n"></a>Руководитель проекта Didox, <strong>Антон Анатольевич Ли рассказал о </strong>ключевых обновлениях платформы: внедрение гибридной ЭСФ, новые инструменты анализа рисков в договорах, а также обновленная форма ЭТТН. Так, действующее законодательство предусматривает возможность объединения ЭФС и ТТН в единый документ ( подробнее – <a data-anchor="/document/16/218921/backlinkanchor117/" type="backlink-anchor"></a><a href="#/document/16/221506" data-warm-notices="41581219,45069875" data-warm-notice-type="error" target="_self" title="" moduleId="16" documentId="221506" class="link ">здесь).</a>Задача специалистов платформ реализовать это на практике.</p><p><a data-anchor="/document/16/218921/bssPhr52/"></a><a data-anchor="/document/16/218921/dfasiavlo4/" data-dfa="dfasiavlo4"></a>Одна из гордостей специалистов системы – внедрение нового сервиса автоматической проверки договоров. Предварительная проверка договора позволит снизить риски компании. Пока сервис работает в тестовом режиме и в скором времени будет доступен всем клиентам. Причем, пока бесплатно.</p><p><a data-anchor="/document/16/218921/bssPhr53/"></a><a data-anchor="/document/16/218921/dfasn5yivt/" data-dfa="dfasn5yivt"></a>Коллеги озвучили свои проблемы при работе на платформе. Например, сетовали о проблемах регистрации чеков по корпоративным актам. Один из вариантов решения проблемы – проверять полученные чеки. В частности, реквизит типа карты.</p><p><a data-anchor="/document/16/218921/bssPhr54/"></a><a data-anchor="/document/16/218921/dfasb3qtip/" data-dfa="dfasb3qtip"></a>Антон Анатольевич услышал о сложностях с регистрацией актов выполненных работ, оформлением ЭСФ при оплате физическим лицом, зачетом и т. п. Руководитель проекта Didox заверил, что его команда учтет все пожелания и предложит оптимальные решения.</p><p><a data-anchor="/document/16/218921/bssPhr55/"></a><a data-anchor="/document/16/218921/dfasondgan/" data-dfa="dfasondgan"></a>.<strong>Презентация, которая поможет внедрить изменения в работу</strong></p><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/822d4cd7-7823-4c18-aeaa-e19826abcd1a/index.html" data-itype="presentation" data-moduleId="237" data-id="118" style="min-height:400px" width="100%"></iframe></div><p style="text-align:center"><a data-anchor="/document/16/218921/bssPhr56/"></a><a data-anchor="/document/16/218921/dfaskxzcoh/" data-dfa="dfaskxzcoh"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-pdf" href="https://1gb.uz/system/content/attachment/1/16/-101797/">Скачать презентацию</a></p><p style="text-align:start"><a data-anchor="/document/16/218921/bssPhr57/"></a><a data-anchor="/document/16/218921/dfas7llzoa/" data-dfa="dfas7llzoa"></a><strong>Видео-лекция:</strong></p><div class="iframe"><iframe width="560" height="455" src="https://www.youtube.com/embed/WMGmgjYoZaM?si=3MIiJ7uSBksH_Qio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><a data-anchor="/document/16/218921/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/218921/bssPhr58/"></a><a data-anchor="/document/16/218921/dfaszhloir/" data-dfa="dfaszhloir"></a>Нестандартные, но эффективные решения в 1С</h3><p><a data-anchor="/document/16/218921/bssPhr59/"></a><a data-anchor="/document/16/218921/dfaslyapec/" data-dfa="dfaslyapec"></a><strong>Ветрова Людмила Андреевна</strong>, руководитель методологии Venkon Group, рассказала о нестандартных, но практичных решениях в 1С, которые помогают автоматизировать и упростить ведение учета в организациях. Особое внимание уделила новым возможностям в программах 1С.</p><p><a data-anchor="/document/16/218921/bssPhr60/"></a><a data-anchor="/document/16/218921/dfaslnvk23/" data-dfa="dfaslnvk23"></a>Сейчас под требования законодательства адаптирована новая версия программы — Бухгалтерия для Узбекистана 3.0. Среди новых сервисов 1С: упрощение отчетности, автоматизация внешнего обмена и т.д.</p><p><a data-anchor="/document/16/218921/bssPhr61/"></a><a data-anchor="/document/16/218921/dfas93dar5/" data-dfa="dfas93dar5"></a>Среди планов команды – внедрить интеграцию с порталом my. mehnat.uz и автоматизацию обмена данными между 1С и государственной системой. При работе с большими объемами товаров может помочь «1С-Декларант», он позволяет массовую загрузку в форматах, совместимых с таможенными программами.</p><p><a data-anchor="/document/16/218921/bssPhr62/"></a><a data-anchor="/document/16/218921/dfasthowg2/" data-dfa="dfasthowg2"></a><strong>Презентация, которая поможет внедрить изменения в работу</strong></p><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/5becc025-ea09-40b7-93f6-db2840487165/index.html" data-itype="presentation" data-moduleId="237" data-id="119" style="min-height:400px" width="100%"></iframe></div><p style="text-align:center"><a data-anchor="/document/16/218921/bssPhr63/"></a><a data-anchor="/document/16/218921/dfas0lza42/" data-dfa="dfas0lza42"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-pdf" href="https://1gb.uz/system/content/attachment/1/16/-101798/">Скачать презентацию</a></p><p style="text-align:start"><a data-anchor="/document/16/218921/bssPhr64/"></a><a data-anchor="/document/16/218921/dfasvm3lo2/" data-dfa="dfasvm3lo2"></a><strong>Видео-лекция:</strong></p><div class="iframe"><iframe width="560" height="455" src="https://www.youtube.com/embed/ZpKCoO85JmM?si=J4wh9wuA0rJ7_nfd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

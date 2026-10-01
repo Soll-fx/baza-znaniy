@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">В каких случаях необходимо применять онлайн-ККМ и виртуальную кассу</h2><div class="doc-snippet"><a data-anchor="/document/16/221315/dfasrvpeke/" data-dfa="dfasrvpeke"></a><a data-anchor="/document/16/221315/bssPhr2/"></a>Апрель 2026 года добавил бизнесу новые нюансы в работе с онлайн-ККМ: обновлены ИКПУ, введены обязательные безналичные расчеты за ряд товаров и услуг, а также ограничения на наличные расчеты. Разберем, что проверить в работе кассы, чтобы избежать ошибок и санкций. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/221315/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221315/bssPhr3/"></a><a data-anchor="/document/16/221315/dfasen713w/" data-dfa="dfasen713w"></a>Какие изменения вступили в силу с апреля 2026 года</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p data-semantic-type="paragraph"><a data-anchor="/document/16/221315/bssPhr6/"></a><a data-anchor="/document/16/221315/dfas4vuf7i/" data-dfa="dfas4vuf7i"></a>С 1 апреля 2026 года в Узбекистане вступили в силу новые правила расчетов за ряд товаров и услуг. Они предусмотрены <span num="68" target="_blank" lnktype="intlnk" title="" class="doc">Указом</span> Президента от 10.12.2025 № УП-246 «О дополнительных мерах по популяризации безналичных расчетов и сокращению доли теневой экономики».&nbsp;Введены обязательные безналичные расчеты по ряду операций, расширено использование единого QR-кода и усилен&nbsp;контроль налогового администрирования.&nbsp;</p><p data-semantic-type="paragraph" style="text-align:left"><a data-anchor="/document/16/221315/bssPhr7/"></a><a data-anchor="/document/16/221315/dfasczlbmu/" data-dfa="dfasczlbmu"></a>С 1 апреля 2026 года ряд товаров и услуг нельзя оплачивать наличными. Расчеты должны проводиться только посредством:</p><ul class="c-list"><li><a data-anchor="/document/16/221315/bssPhr8/"></a><a data-anchor="/document/16/221315/dfasmdv4r3/" data-dfa="dfasmdv4r3"></a>банковских&nbsp;карт;</li><li>электронных платежных систем;</li><li>банковских переводов;</li><li>единого QR-кода.</li></ul><p data-semantic-type="paragraph" style="text-align:left"><a data-anchor="/document/16/221315/bssPhr9/"></a><a data-anchor="/document/16/221315/dfas9nodsw/" data-dfa="dfas9nodsw"></a>Такое требование установлено <span num="69" target="_blank" lnktype="intlnk" title="" class="doc">Указом</span> Президента от 10.12.2025 № УП-246.</p><p data-semantic-type="paragraph" style="text-align:left"><a data-anchor="/document/16/221315/bssPhr10/"></a><a data-anchor="/document/16/221315/dfas3lplnb/" data-dfa="dfas3lplnb"></a>Безналичный расчет обязателен для оплаты:</p><ul class="c-list"><li><a data-anchor="/document/16/221315/bssPhr11/"></a><a data-anchor="/document/16/221315/dfassdfzer/" data-dfa="dfassdfzer"></a>услуг&nbsp;государственных органов;</li><li>коммунальных платежей –&nbsp;оплаты&nbsp;электроэнергии,&nbsp;природного газа,&nbsp;питьевой воды. Исключение – платежи через кассы банков;</li><li>алкогольной и табачной продукции;</li><li>топлива и услуг&nbsp;АЗС. Наличными нельзя&nbsp;оплачивать бензин, дизельное топливо, газ на автозаправках и услуги по зарядке электромобилей;</li><li>крупных покупок. Безналичный расчет обязателен при покупке товаров и услуг стоимостью более 25 млн сумов. Исключение сделано только для сельскохозяйственной продукции.</li><li>покупки автомобилей и недвижимости. Обязательный безналичный расчет введен&nbsp;при купле-продаже недвижимости, автомобилей категорий M, N, O и G, если с даты производства прошло менее 10 лет и специальных транспортных средств.</li></ul><a data-anchor="/document/16/221315/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221315/bssPhr12/"></a><a data-anchor="/document/16/221315/dfashnk28s/" data-dfa="dfashnk28s"></a>Как это выглядит на практике</h3><p><a data-anchor="/document/16/221315/bssPhr13/"></a><a data-anchor="/document/16/221315/dfasl49eeg/" data-dfa="dfasl49eeg"></a>Теперь именно ИКПУ – ключевой&nbsp; элемент&nbsp;всей системы. Касса ориентируется именно на ИКПУ, а не на «название товара». Поэтому ошибка в коде может привести к тому, что операция будет проведена с нарушением, даже если по сути она допустима. Касса должна блокировать наличную оплату по запрещенным ИКПУ, корректно определять форму оплаты и формировать чек с учетом всех ограничений. Однако важно понимать: даже если касса не была обновлена или «пропустила» такую операцию, ответственность все равно лежит на организации.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Что делать если клиент покупает несколько товаров одновременно, а среди них есть хотя бы один, подпадающий под запрет наличных</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221315/bssPhr15/"></a><a data-anchor="/document/16/221315/dfasxm9hh5/" data-dfa="dfasxm9hh5"></a>Если среди товаров есть хотя бы один, подпадающий под запрет наличных в соответствии с <span num="78" target="_blank" lnktype="intlnk" title="" class="doc">Указом</span> Президента от 10.12.2025 № УП-246, кассир не может просто пробить общий чек.</p><p><a data-anchor="/document/16/221315/bssPhr16/"></a><a data-anchor="/document/16/221315/dfasuygth0/" data-dfa="dfasuygth0"></a>В этом случае либо всю покупку проводите по безналу, либо&nbsp;разделить покупку на два чека: отдельно по безналичной оплате и отдельно по наличной.</p></div></div><p><a data-anchor="/document/16/221315/bssPhr17/"></a><a data-anchor="/document/16/221315/dfasg2wmth/" data-dfa="dfasg2wmth"></a>Отдельное внимание стоит уделить лимиту в 25 млн сумов. Многие ошибочно считают, что его можно обойти, разбивая оплату на части. Но в <span num="82" target="_blank" lnktype="intlnk" title="" class="doc">Указе</span> Президента от 10.12.2025 № УП-246 речь идет именно о стоимости товара или услуги, а не о размере платежа. Если цена превышает лимит, наличные принимать нельзя ни при каких условиях. При этом лимит считается по каждому ИКПУ отдельно: если в чеке несколько разных товаров, их стоимость не суммируется, а если это один и тот же товар – суммируется.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Клиент заказывает ужин в ресторане с бокалом вина. Как оформить чек</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221315/bssPhr19/"></a><a data-anchor="/document/16/221315/dfasvio8gk/" data-dfa="dfasvio8gk"></a>Алкогольная продукция теперь полностью переведена в безналичную форму оплаты. Это значит, что даже если клиент заказывает обычный ужин с бокалом вина, кассир должен либо провести весь чек по безналу, либо разделить его: ужин за наличный расчет, а бокал вина за безналичный.</p></div></div><a data-anchor="/document/16/221315/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/221315/bssPhr20/"></a><a data-anchor="/document/16/221315/dfas755b6b/" data-dfa="dfas755b6b"></a>Что делать бизнесу</h3><p><a data-anchor="/document/16/221315/bssPhr21/"></a><a data-anchor="/document/16/221315/dfas4wuiwn/" data-dfa="dfas4wuiwn"></a>Именно бухгалтер должен убедиться, что в системе корректно настроены ИКПУ, потому что от этого напрямую зависит, разрешит ли касса принять наличные или нет. Кроме того, бухгалтеру важно регулярно проверять сами чеки: совпадает ли форма оплаты с требованиями, не проводятся ли наличные по запрещенным операциям, корректно ли применяется лимит в 25 млн сумов.&nbsp;</p><p><a data-anchor="/document/16/221315/bssPhr22/"></a><a data-anchor="/document/16/221315/dfas06z9m9/" data-dfa="dfas06z9m9"></a>Отдельная задача бухгалтера – взаимодействие с ЦОТУ и контроль технического состояния кассы. Если онлайн-ККМ не обновлена или не поддерживает ограничения, это не снимает ответственности с организации. Поэтому убедитесь, что касса прошла обновление и соответствует требованиям, в том числе умеет блокировать наличные по запрещенным ИКПУ и корректно формировать чеки. При необходимости бухгалтеру стоит инициировать запрос в ЦОТУ и получить подтверждение, что касса соответствует требованиям.</p><p><a data-anchor="/document/16/221315/bssPhr23/"></a><a data-anchor="/document/16/221315/dfas5h5mab/" data-dfa="dfas5h5mab"></a>Кассир теперь должен заранее понимать, какие товары нельзя оплачивать наличными, и проверять состав покупки до формирования чека. Если в корзине есть позиции с ограничением, важно сразу предложить клиенту варианты: либо оплатить все по безналу, либо разделить чек. Ошибка на этом этапе – самая частая причина нарушений. При этом кассиру важно уметь объяснить клиенту, что это не внутренние правила компании, а требование законодательства.</p><p><a data-anchor="/document/16/221315/bssPhr24/"></a><a data-anchor="/document/16/221315/dfase5axip/" data-dfa="dfase5axip"></a>Для владельца бизнеса ключевая задача – обучить персонал: кассиры, продавцы, официанты должны понимать не только «как нажать кнопку», но и логику ограничений. Также важно заранее информировать клиентов – через объявления на кассе, в торговом зале или в меню. Это снижает количество конфликтных ситуаций, когда клиент узнает о невозможности оплаты наличными уже в момент расчета.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязан ли индивидуальный предприниматель использовать единый QR-код при приеме оплаты от покупателей</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221315/bssPhr26/"></a><a data-anchor="/document/16/221315/dfasx1c1ug/" data-dfa="dfasx1c1ug"></a>Да, обязан.</p><p><a data-anchor="/document/16/221315/bssPhr27/"></a><a data-anchor="/document/16/221315/dfasgb81nb/" data-dfa="dfasgb81nb"></a>В законодательстве Республики Узбекистан предусмотрено внедрение системы единого QR-кода для приема электронных платежей всеми субъектами торговли и сферы услуг&nbsp;(<span num="117" target="_blank" lnktype="intlnk" title="" class="doc">Указ</span>&nbsp;Президента от 10.12.2025 № УП-246).</p><p data-end="360" data-start="222"><a data-anchor="/document/16/221315/bssPhr28/"></a><a data-anchor="/document/16/221315/dfasgzspu5/" data-dfa="dfasgzspu5"></a>Обязанность по использованию единого QR-кода зависит не от организационно-правовой формы субъекта, а от характера осуществляемых расчетов.</p><p data-end="581" data-start="362"><a data-anchor="/document/16/221315/bssPhr29/"></a><a data-anchor="/document/16/221315/dfasyzwtha/" data-dfa="dfasyzwtha"></a>Единый QR-код обязателен для субъектов предпринимательства, которые принимают оплату от физических лиц за товары, работы или услуги. Требование направлено на обеспечение возможности безналичной оплаты и прозрачности расчетов.</p><p data-end="699" data-start="583"><a data-anchor="/document/16/221315/bssPhr30/"></a><a data-anchor="/document/16/221315/dfastolqe3/" data-dfa="dfastolqe3"></a>Для индивидуальных предпринимателей применяется аналогичный порядок: если ИП принимает оплату от физических лиц, он обязан обеспечить возможность приема платежей с использованием единого QR-кода. Если ИП ведет расчеты исключительно с юридическими лицами, обязанность по использованию QR-кода не возникает.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли получать отдельный единый QR-код на каждый банковский счет предприятия, включая вторичные счета</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221315/bssPhr32/"></a><a data-anchor="/document/16/221315/dfas151l67/" data-dfa="dfas151l67"></a>Нет, не нужно.</p><p><a data-anchor="/document/16/221315/bssPhr33/"></a><a data-anchor="/document/16/221315/dfasxmqpgh/" data-dfa="dfasxmqpgh"></a>Законодательство не содержит требования оформлять отдельный QR-код на каждый банковский счет. QR-код привязывается к субъекту хозяйствования или к месту осуществления расчетов (торговой точке, филиалу), а не к количеству счетов.</p></div></div></div><a data-anchor="/document/16/221315/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/221315/bssPhr34/"></a><a data-anchor="/document/16/221315/dfasn3eei2/" data-dfa="dfasn3eei2"></a>Применение онлайн-ККМ и&nbsp;виртуальной кассы</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221315/bssPhr36/"></a><a data-anchor="/document/16/221315/dfas9mbkk4/" data-dfa="dfas9mbkk4"></a>По данным онлайн-ККМ&nbsp;формируются показатели для налога с оборота и НДС, налоговые органы отслеживают соблюдение налогового законодательства, в персональном кабинете налогоплательщика отражаются поступления и реализация, а по маркируемой продукции через систему Asl belgisi списываются товары из оборота.</p><p><a data-anchor="/document/16/221315/bssPhr37/"></a><a data-anchor="/document/16/221315/dfas73asxg/" data-dfa="dfas73asxg"></a>Расчеты с населением в торговых точках и точках оказания услуг наличными и (или) банковскими картами должны проводиться с применением онлайн-ККМ или виртуальных касс (<span num="79" target="_blank" lnktype="intlnk" title="" class="doc">п. 1</span> Указа Президента от 06.09.2019 УП № 5813, <span num="80" target="_blank" lnktype="intlnk" title="" class="doc">п. 1</span> приложения № 1 к постановлению Кабмина&nbsp;от 23.11.2019 № 943). Использовать онлайн-ККТ обязаны юридические лица, индивидуальные предприниматели и семейные предприниматели. Самозанятые тоже могут использовать онлайн-ККМ.</p><a data-anchor="/document/16/221315/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/221315/bssPhr38/"></a><a data-anchor="/document/16/221315/dfaswhybod/" data-dfa="dfaswhybod"></a>Какие есть варианты онлайн-ККМ&nbsp;</h3><p><a data-anchor="/document/16/221315/bssPhr39/"></a><a data-anchor="/document/16/221315/dfasd0cs57/" data-dfa="dfasd0cs57"></a>Онлайн-ККМ – это готовое цельное устройство. На рынке есть кнопочные и андроидные модели. Кнопочные кассы не считаются устаревшими: они по-прежнему отвечают требованиям налоговых органов и часто выигрывают за счет простоты и дешевизны обслуживания.</p><p><a data-anchor="/document/16/221315/bssPhr40/"></a><a data-anchor="/document/16/221315/dfasnaz676/" data-dfa="dfasnaz676"></a>Виртуальная касса – это программное решение, особенно удобное&nbsp;для сетевых магазинов, нескольких кассовых точек, небольших торговых объектов и служб доставки.</p><p><a data-anchor="/document/16/221315/bssPhr41/"></a><a data-anchor="/document/16/221315/dfasts0q9x/" data-dfa="dfasts0q9x"></a>Маркетплейсы – это отдельная категория.&nbsp;В&nbsp;Узбекистане к ним отнесены маркетплейсы, агрегаторы такси и приложения электронных платежных систем, которые при расчетах с предпринимателями могут формировать фискальные чеки. Этим цифровым платформам придан статус онлайн-ККМ, что позволяет использовать их там, где другие виды ККМ&nbsp;неудобны, в частности при дистанционных расчетах и поездках в такси или общественном транспорте.</p><p><a data-anchor="/document/16/221315/bssPhr42/"></a><a data-anchor="/document/16/221315/dfas75mdny/" data-dfa="dfas75mdny"></a>Порядок применения онлайн-ККМ и виртуальной кассы определен специальным <span num="42" target="_self" lnktype="intlnk" title="" class="doc">Положением</span>, утвержденным постановлением Кабмина от 23.11.2019 № 943.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221315/bssPhr43/"></a><a data-anchor="/document/16/221315/dfasogkozl/" data-dfa="dfasogkozl"></a>За торговлю и оказание услуг без применения онлайн-ККМ, когда ее применение обязательно, предусмотрен штраф в размере 5 млн&nbsp;сумов.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221315/bssPhr44/"></a><a data-anchor="/document/16/221315/dfas3kq052/" data-dfa="dfas3kq052"></a>Также&nbsp;за данное правонарушение предусмотрена ответственность по <span num="27" target="_self" lnktype="intlnk" title="" class="doc">статье 164</span> КоАо и <span num="28" target="_self" lnktype="intlnk" title="" class="doc">статье 189</span> УК (<span num="26" target="_self" lnktype="intlnk" title="" class="doc">ст. 221</span> НК).</p></div><div class="incut-v4__icon"></div></div><a data-anchor="/document/16/221315/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/221315/bssPhr45/"></a><a data-anchor="/document/16/221315/dfassf4fg1/" data-dfa="dfassf4fg1"></a>Прием платежей через онлайн-ККМ</h3><p><a data-anchor="/document/16/221315/bssPhr46/"></a><a data-anchor="/document/16/221315/dfas0h29at/" data-dfa="dfas0h29at"></a>При реализации товаров, услуг покупателям в обязательном порядке выдавайте чеки онлайн-ККМ или виртуальной кассы. Эти чеки заменяют счет-фактуру (<span num="35" target="_self" lnktype="intlnk" title="" class="doc">п. 3</span> Положения о формах счетов-фактур и порядке их заполнения, представления и приема, утв. Постановлением Кабмина&nbsp;от 14.08.2020 № 489).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221315/bssPhr47/"></a><a data-anchor="/document/16/221315/dfasx4wxqg/" data-dfa="dfasx4wxqg"></a>За торговлю и оказание услуг без выдачи покупателю квитанций, талонов, чеков и других, приравненных к ним документов, когда их выдача обязательна, предусмотрен штраф в размере 5 млн сумов.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221315/bssPhr48/"></a><a data-anchor="/document/16/221315/dfasxxmnvf/" data-dfa="dfasxxmnvf"></a>Торговля и оказание услуг с выдачей покупателю квитанции, талонов, чека или других приравненных к ним документов, не зарегистрированных в налоговых органах, влечет штраф в размере 5 млн сумов (<span num="10" target="_self" lnktype="intlnk" title="" class="doc">ст. 221 НК</span>).</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/221315/bssPhr49/"></a><a data-anchor="/document/16/221315/dfasypz1xt/" data-dfa="dfasypz1xt"></a>Юрлица, ИП и семейные предприниматели, получив оплату, обязаны выдать чек онлайн-ККМ. Самозанятые – только если применяют онлайн-ККТ в своей деятельности.</p><p><a data-anchor="/document/16/221315/bssPhr50/"></a><a data-anchor="/document/16/221315/dfaszy4vzf/" data-dfa="dfaszy4vzf"></a>Чек обязателен и при расчетах корпоративными банковскими картами. Для покупателя-юрлица этот чек нужен, чтобы подотчетное лицо составило отчет, компания приняла купленные товары или услуги к учету и, при наличии права, приняла в зачет НДС. Поэтому содержание чеков по корпоративным картам проверяйте очень внимательно.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221315/bssPhr51/"></a><a data-anchor="/document/16/221315/dfass2cd81/" data-dfa="dfass2cd81"></a>С 1 января 2026 года появилось еще одно обязательное требование для ИП и самозанятых:</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221315/bssPhr52/"></a><a data-anchor="/document/16/221315/dfasxdnoca/" data-dfa="dfasxdnoca"></a>у них должен быть специальный QR-код для приема электронных платежей, сгенерированных на цифровых платформах платежных организаций. Отсутствие такого QR-кода приравнено к неприменению ККТ и (или) расчетных терминалов.</p><p><a data-anchor="/document/16/221315/bssPhr53/"></a><a data-anchor="/document/16/221315/dfas5heqxg/" data-dfa="dfas5heqxg"></a>Это закреплено в <span num="81" target="_blank" lnktype="intlnk" title="" class="doc">пункте 7</span> Постановления Президента от 12.08.2025 ПП-247.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/221315/bssPhr54/"></a><a data-anchor="/document/16/221315/dfasetzs9h/" data-dfa="dfasetzs9h"></a>При расчетах через маркетплейсы и электронные платежные системы всегда действует одно правило: чек формирует онлайн-ККМ. Но какая именно онлайн-ККМ его сформирует, зависит от схемы расчетов.</p><p><a data-anchor="/document/16/221315/bssPhr55/"></a><a data-anchor="/document/16/221315/dfasd8qg90/" data-dfa="dfasd8qg90"></a>Если используется схема «оплата на местах», покупатель и продавец рассчитываются при личном контакте. В этом случае чек формирует онлайн-ККМ или виртуальная касса, которые интегрированы с маркетплейсом или платежной системой, а чек выдает продавец.&nbsp;Если используется схема «дистанционная оплата», очного контакта покупателя и продавца нет. Тогда маркетплейс или электронная платежная система участвуют не только в платеже, но и в формировании электронного чека онлайн-ККМ, а покупателю предоставляют ссылку на этот чек – в личном кабинете или по SMS. Это особенно важно для такси, доставки, онлайн-сервисов и других случаев, когда классическая касса на точке неудобна.</p></div><a data-anchor="/document/16/221315/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/221315/bssPhr56/"></a><a data-anchor="/document/16/221315/dfaspgp6c0/" data-dfa="dfaspgp6c0"></a>Требования к онлайн-ККМ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221315/bssPhr58/"></a><a data-anchor="/document/16/221315/dfasg2hp17/" data-dfa="dfasg2hp17"></a>Предприниматели могут использовать только ту технику, которая включена в государственные реестры: Государственный реестр онлайн-ККМ, Государственный реестр виртуальных касс и Государственный реестр маркетплейсов. В реестры включают только те онлайн-ККМ, которые соответствуют техническим требованиям. В частности, они должны поддерживать считывание и идентификацию штрихкодов и кодов цифровой маркировки, а также отображать ИКПУ товаров (услуг) (<span num="91" target="_blank" lnktype="intlnk" title="" class="doc">п. 2</span>, <span num="92" target="_blank" lnktype="intlnk" title="" class="doc">3</span> приложения № 1 к постановлению Кабмина от 23.11.2019&nbsp;№ 943).</p><p><a data-anchor="/document/16/221315/bssPhr59/"></a><a data-anchor="/document/16/221315/dfasce739i/" data-dfa="dfasce739i"></a>Если есть сомнения, что ваша онлайн-ККМ соответствует всем требованиям, лучше обратитесь&nbsp;в ЦОТУ за проверкой и консультацией. Использование ККМ, которая не соответствует техническим требованиям либо используется с нарушением электронной программы обслуживания, влечет штраф 20 млн сумов&nbsp;по <span num="93" target="_blank" lnktype="intlnk" title="" class="doc">части&nbsp;4</span> статьи&nbsp;221 НК.</p><p><a data-anchor="/document/16/221315/bssPhr60/"></a><a data-anchor="/document/16/221315/dfas3iafkq/" data-dfa="dfas3iafkq"></a>С 1 сентября 2024 года действуют специальные правила контроля за продажей продукции с цифровой маркировкой без использования 2D-сканеров. Если нарушение выявят, предпринимателю сначала направят предупреждение через персональный кабинет. Если в течение месяца после двукратного предупреждения нарушение повторится, назначат налоговую проверку за соответствующий квартал. Если после завершения такой проверки в течение месяца нарушение повторится снова, назначат уже проверку без уведомления, а в день проверки об этом сообщат Бизнес-омбудсману. Основание – <span num="94" target="_blank" lnktype="intlnk" title="" class="doc">пункт 2</span> Постановления Президента от 30.05.2024 № ПП-203.</p></div><a data-anchor="/document/16/221315/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/221315/bssPhr61/"></a><a data-anchor="/document/16/221315/dfasn8837v/" data-dfa="dfasn8837v"></a>Неисправности онлайн-ККМ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221315/bssPhr63/"></a><a data-anchor="/document/16/221315/dfasll868k/" data-dfa="dfasll868k"></a>При любой неисправности онлайн-ККМ или виртуальной кассы сразу обращайтесь&nbsp;в ЦОТУ. Это требование следует из <span num="95" target="_blank" lnktype="intlnk" title="" class="doc">пункта 32</span> приложения № 1 к постановлению Кабмина от 23.11.2019 № 943. Признаки неисправности: касса не включается, не обеспечивает четкую печать чека, у виртуальной кассы нет возможности корректно выдать чек, либо есть любые другие сбои, которые пользователь не может устранить самостоятельно.</p><p><a data-anchor="/document/16/221315/bssPhr64/"></a><a data-anchor="/document/16/221315/dfasghm3u5/" data-dfa="dfasghm3u5"></a>После обращения в ЦОТУ на период ремонта работники центра должны в течение одного дня установить резервную онлайн-ККМ или виртуальную кассу. До момента ее установки расчеты с покупателями ведите по квитанциям. При этом на практике до резервной кассы дело доходит не всегда: многие неполадки устраняют&nbsp;на месте или даже дистанционно после консультации с ЦОТУ. Но рассчитывать на это как на правило не стоит – порядок с квитанциями должен быть подготовлен заранее.</p><p><a data-anchor="/document/16/221315/bssPhr65/"></a><a data-anchor="/document/16/221315/dfaspt9g2w/" data-dfa="dfaspt9g2w"></a><a data-anchor="/document/16/221315/dfasgyahqs/" data-dfa="dfasgyahqs"></a>Если касса утрачена из-за пожара, кражи, утери или другого форс-мажора, об этом нужно письменно сообщить в ЦОТУ не позднее одного рабочего дня.&nbsp;Вместе с ЦОТУ&nbsp;организуйте&nbsp;замену кассы: приобретите&nbsp;новую ККМ, оплатите НИЦ «Yangi texnologiyalar» новый фискальный модуль в размере 1 БРВ, подготовьте документы для регистрации новой кассы, зарегистрируйте ее в налоговых органах и снимите с учета старую.</p><p><a data-anchor="/document/16/221315/bssPhr66/"></a><a data-anchor="/document/16/221315/dfasm22g4k/" data-dfa="dfasm22g4k"></a>На случай поломки, отключения электричества или других форс-мажорных обстоятельств заранее приобретите и зарегистрируйте&nbsp;в налоговых органах книжку квитанций, заменяющих чеки онлайн-ККМ и виртуальной кассы. Это требование предусмотрено <span num="104" target="_blank" lnktype="intlnk" title="" class="doc">пунктом&nbsp;33</span> приложения № 1 к постановлению Кабмина от 23.11.2019&nbsp;№ 943. Если онлайн-ККМ не работает, а зарегистрированной книжки квитанций нет, торговать нельзя.</p><p><a data-anchor="/document/16/221315/bssPhr67/"></a><a data-anchor="/document/16/221315/dfashg7fxs/" data-dfa="dfashg7fxs"></a>После того как онлайн-ККМ или виртуальную кассу починили либо установили резервную, в течение одного рабочего дня введите в систему сведения обо всех продажах из книжки квитанций. То есть по каждой квитанции пробейте&nbsp;чек с той же информацией. Пока чек не передан оператору фискальных данных, суммы по нему не попадут в проактивные отчеты налоговых органов, его нельзя будет восстановить или скорректировать через сервис «Информация об онлайн контрольно-кассовой технике юридических лиц», покупатель не сможет открыть электронную копию чека по QR-коду, физлицо – зарегистрировать его для кешбэка в приложении Soliq, а покупатель, оплативший корпоративной картой, – использовать его для зачета НДС.&nbsp;</p></div><a data-anchor="/document/16/221315/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/221315/bssPhr68/"></a><a data-anchor="/document/16/221315/dfas9xve0i/" data-dfa="dfas9xve0i"></a>Санкции</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221315/bssPhr70/"></a><a data-anchor="/document/16/221315/dfasab8uwn/" data-dfa="dfasab8uwn"></a>Использование контрольно-кассовой техники, не&nbsp;зарегистрированной в&nbsp;налоговых органах, влечет наложение штрафа в&nbsp;размере 7&nbsp;млн сумов (<span num="50" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;221&nbsp;НК).</p><p><a data-anchor="/document/16/221315/bssPhr71/"></a><a data-anchor="/document/16/221315/dfasx0bg21/" data-dfa="dfasx0bg21"></a>Использование контрольно-кассовой техники, не&nbsp;соответствующей техническим требованиям, или с&nbsp;нарушением электронной программы обслуживания, влечет наложение штрафа в&nbsp;размере 20&nbsp;млн&nbsp;сумов (<span num="51" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;221&nbsp;НК).</p><p><a data-anchor="/document/16/221315/bssPhr72/"></a><a data-anchor="/document/16/221315/dfas2zgo2e/" data-dfa="dfas2zgo2e"></a>Незаконное внесение изменений в&nbsp;программу обслуживания фискальной памяти контрольно-кассовой техники признается сокрытием, занижением налоговой базы и&nbsp;влечет наложение штрафа в&nbsp;размере 20&nbsp;процентов от&nbsp;суммы сокрытой, заниженной налоговой базы (<span num="52" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;223&nbsp;НК</span>).</p><p><a data-anchor="/document/16/221315/bssPhr73/"></a><a data-anchor="/document/16/221315/dfaspebpoo/" data-dfa="dfaspebpoo"></a>За торговлю и оказание услуг без применения онлайн-ККМ, когда ее применение обязательно, предусмотрен штраф в размере 5 млн&nbsp;сумов (<span num="105" target="_blank" lnktype="intlnk" title="" class="doc">ст. 221</span> НК).&nbsp;Также&nbsp;за данное правонарушение предусмотрена ответственность по <span num="58" target="_self" lnktype="intlnk" title="" class="doc">статье 164</span> КоАо и <span num="59" target="_self" lnktype="intlnk" title="" class="doc">статье 189</span> УК.</p><p><a data-anchor="/document/16/221315/bssPhr74/"></a><a data-anchor="/document/16/221315/dfasi9whxb/" data-dfa="dfasi9whxb"></a>За торговлю и оказание услуг без выдачи покупателю квитанций, талонов, чеков и других, приравненных к ним документов, когда их выдача обязательна, предусмотрен штраф в размере 5 млн&nbsp;сумов (<span num="106" target="_blank" lnktype="intlnk" title="" class="doc">ст. 221</span> НК).</p></div><p><a data-anchor="/document/16/221315/dfask2l6xz/" data-dfa="dfask2l6xz"></a><a data-anchor="/document/16/221315/bssPhr75/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

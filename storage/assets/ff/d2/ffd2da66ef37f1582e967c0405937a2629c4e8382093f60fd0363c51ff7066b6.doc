@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как оформить и отразить в бухучете НМА, полученные в качестве вклада в уставный фонд</h2><div class="doc-snippet"><a data-anchor="/document/16/218401/dfasybplyv/" data-dfa="dfasybplyv"></a><a data-anchor="/document/16/218401/bssPhr3/"></a>Из&nbsp;рекомендации вы&nbsp;узнаете: какими документами оформляется получение НМА в&nbsp;качестве вклада в&nbsp;УФ, как определить их&nbsp;первоначальную стоимость и&nbsp;какими проводками отразить в&nbsp;бухучете. Пример от&nbsp;экспертов поможет понять как отразить поступление НМА в&nbsp;налоговом учете в&nbsp;качестве вклада в&nbsp;УФ. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218401/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218401/bssPhr4/"></a><a data-anchor="/document/16/218401/dfasepzrz3/" data-dfa="dfasepzrz3"></a>Какими документами оформить НМА</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218401/bssPhr6/"></a><a data-anchor="/document/16/218401/dfasgscus7/" data-dfa="dfasgscus7"></a>Если в&nbsp;качестве вклада в&nbsp;УФ поступают объекты интеллектуальной собственности, то&nbsp;оформляйте договор между владельцем&nbsp;— правообладателем и&nbsp;предприятием. Поступивший нематериальный актив (НМА) должен соответствовать требованиям признания его нематериальным (п.&nbsp;6&nbsp;<span num="59" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;7</span>).</p><p><a data-anchor="/document/16/218401/bssPhr7/"></a><a data-anchor="/document/16/218401/dfas3uo1ie/" data-dfa="dfas3uo1ie"></a>При приеме объектов интеллектуальной собственности в&nbsp;качестве вклада в&nbsp;УФ проверьте правильность:</p><ul class="c-list"><li><a data-anchor="/document/16/218401/bssPhr8/"></a><a data-anchor="/document/16/218401/dfas75k6bk/" data-dfa="dfas75k6bk"></a>оформления прав на&nbsp;них;</li><li>оценки стоимости;</li><li>оформления документов.</li></ul><p><a data-anchor="/document/16/218401/bssPhr9/"></a><a data-anchor="/document/16/218401/dfasirg08d/" data-dfa="dfasirg08d"></a>Денежную оценку имущественного вклада согласовывают учредители общества и&nbsp;фиксируют протоколом общего собрания. Порядок внесения актива в&nbsp;качестве вклада в&nbsp;уставный капитал акционерного общества определен в <span num="5" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;31</span>&nbsp;Закона «Об&nbsp;акционерных обществах и&nbsp;защите прав акционеров». НМА принимайте к&nbsp;учету на&nbsp;основании первичных документов:</p><ul class="c-list"><li><a data-anchor="/document/16/218401/bssPhr10/"></a><a data-anchor="/document/16/218401/dfaslode1q/" data-dfa="dfaslode1q"></a><span num="6" lnktype="intlnk" title="" class="doc">счета-фактуры</span>. Если учредитель физлицо, счет-фактуру он&nbsp;не&nbsp;оформляет;</li><li><span num="7" lnktype="intlnk" title="" class="doc">акта приема-передачи объекта НМА</span>.</li></ul><p style="text-align:left"><a data-anchor="/document/16/218401/bssPhr11/"></a><a data-anchor="/document/16/218401/dfas90d9hm/" data-dfa="dfas90d9hm"></a><a data-anchor="/document/16/218401/dfas2lt4nu/" data-dfa="dfas2lt4nu"></a>Счета-фактуры нужно оформлять в&nbsp;электронной форме в&nbsp;системе электронных счетов-фактур (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;47&nbsp;НК</span>, <span num="27" target="_self" lnktype="intlnk" title="" class="doc">Приложение №&nbsp;2</span>&nbsp;к постановлению Кабмина от&nbsp;14.08.2020 №&nbsp;489).</p><p><a data-anchor="/document/16/218401/bssPhr12/"></a><a data-anchor="/document/16/218401/dfasexstk3/" data-dfa="dfasexstk3"></a>В&nbsp;законодательстве не&nbsp;утверждена форма акта приема-передачи, поэтому форму этого документа разработайте самостоятельно. В&nbsp;форму включите все обязательные реквизиты, предусмотренные <span num="9" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;14</span>&nbsp;Закона о&nbsp;бухучете, и&nbsp;утвердите как приложение к <span num="10" target="_self" lnktype="intlnk" title="" class="doc">учетной политике для целей бухучета</span>.</p><p><a data-anchor="/document/16/218401/bssPhr13/"></a><a data-anchor="/document/16/218401/dfass78rob/" data-dfa="dfass78rob"></a>Акт заполните в&nbsp;двух экземплярах в&nbsp;момент получения НМА. Оба экземпляра акта подписывают учредитель и&nbsp;предприятие-получатель.</p><p style="text-align:left"><a data-anchor="/document/16/218401/bssPhr14/"></a><a data-anchor="/document/16/218401/dfasuhq0ir/" data-dfa="dfasuhq0ir"></a><a data-anchor="/document/16/218401/dfasuen4s1/" data-dfa="dfasuen4s1"></a>На&nbsp;основании акта приема-передачи на&nbsp;каждый приходуемый НМА открывайте <span num="11" target="_self" lnktype="intlnk" title="" class="doc">инвентарную карточку</span>.</p><p><a data-anchor="/document/16/218401/bssPhr15/"></a><a data-anchor="/document/16/218401/dfassgbdxg/" data-dfa="dfassgbdxg"></a>В&nbsp;законодательстве не&nbsp;утверждена форма <span num="12" lnktype="intlnk" title="" class="doc">инвентарной карточки</span>, поэтому этот документ составьте на&nbsp;основе типовых или самостоятельно разработанных форм, главное, чтобы в&nbsp;нём были все необходимые реквизиты (<span num="13" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;14</span>&nbsp;Закона о&nbsp;бухучете). Типовые формы не&nbsp;запрещены к&nbsp;применению. Типовой бланк инвентарной карточки для учета НМА форма НМА-1.</p><p><a data-anchor="/document/16/218401/bssPhr16/"></a><a data-anchor="/document/16/218401/dfaswz443s/" data-dfa="dfaswz443s"></a>Какую&nbsp;бы форму вы&nbsp;ни&nbsp;использовали&nbsp;— типовую или самостоятельно разработанную, она должна быть утверждена как приложение к <span num="14" target="_self" lnktype="intlnk" title="" class="doc">учетной политике для целей бухучета</span>.</p><p style="text-align:left"><a data-anchor="/document/16/218401/bssPhr17/"></a><a data-anchor="/document/16/218401/dfas8og07h/" data-dfa="dfas8og07h"></a>Инвентарную карточку оформляет бухгалтерия в&nbsp;одном экземпляре. В&nbsp;карточке указывайте первоначальную стоимость НМА, сумму амортизации и&nbsp;другие данные по&nbsp;НМА.</p></div><a data-anchor="/document/16/218401/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218401/bssPhr18/"></a><a data-anchor="/document/16/218401/dfasm1up3e/" data-dfa="dfasm1up3e"></a><a data-anchor="/document/16/218401/dfasggmg8l/" data-dfa="dfasggmg8l"></a>Как определить первоначальную стоимость НМА</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218401/bssPhr20/"></a><a data-anchor="/document/16/218401/dfasagctqb/" data-dfa="dfasagctqb"></a>В&nbsp;бухгалтерском учете первоначальную стоимость НМА, полученных в&nbsp;качестве вклада в&nbsp;УФ, определяйте по&nbsp;их&nbsp;денежной оценке, согласованной учредителями, участниками предприятия (п.&nbsp;19&nbsp;<span num="60" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;7</span>). Все расходы предприятия по&nbsp;НМА, полученным в&nbsp;счет вклада в&nbsp;уставный капитал, включаются в&nbsp;их&nbsp;первоначальную стоимость (п.&nbsp;15&nbsp;<span num="61" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;7</span>).</p><p style="text-align:left"><a data-anchor="/document/16/218401/bssPhr21/"></a><a data-anchor="/document/16/218401/dfasy9evvk/" data-dfa="dfasy9evvk"></a>При внесении НМА в&nbsp;УФ&nbsp;ООО оценку вклада согласовывают учредители, участники общества (<span num="17" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;15</span>&nbsp;Закона об&nbsp;обществах с&nbsp;ограниченной и&nbsp;дополнительной ответственностью).</p><p><a data-anchor="/document/16/218401/bssPhr22/"></a><a data-anchor="/document/16/218401/dfasdpxczr/" data-dfa="dfasdpxczr"></a>С&nbsp;1&nbsp;апреля 2023 года неденежные вклады в&nbsp;уставный капитал ООО стоимостью свыше 10&nbsp;000&nbsp;БРВ должны оцениваться оценочной организацией и&nbsp;не&nbsp;могут превышать оценочной стоимости (<span num="47" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;Постановление Президента Республики Узбекистан от&nbsp;08.11.2022 № ПП-415).</p><p style="text-align:left"><a data-anchor="/document/16/218401/bssPhr23/"></a><a data-anchor="/document/16/218401/dfascugh2p/" data-dfa="dfascugh2p"></a>В&nbsp;АО&nbsp;денежную оценку НМА, вносимого в&nbsp;счет оплаты акций, определяет оценочная организация, при условии, что номинальная стоимость приобретаемых таким способом акций, превышает 200&nbsp;БРВ (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;31</span>&nbsp;Закона об&nbsp;акционерных обществах).</p><p><a data-anchor="/document/16/218401/bssPhr24/"></a><a data-anchor="/document/16/218401/dfassvr0da/" data-dfa="dfassvr0da"></a>В&nbsp;целях налогового учета с&nbsp;1&nbsp;января 2022 года введен отдельный порядок определения первоначальной стоимости НМА в&nbsp;соответствии со&nbsp;статьями <span num="28" target="_self" lnktype="intlnk" title="" class="doc">306</span> и <span num="29" target="_self" lnktype="intlnk" title="" class="doc">307</span>&nbsp;НК:</p><ul class="c-list"><li><a data-anchor="/document/16/218401/bssPhr25/"></a><a data-anchor="/document/16/218401/dfasvxoygg/" data-dfa="dfasvxoygg"></a>первоначальной стоимостью актива, полученного в&nbsp;счет вклада в&nbsp;УФ, является его денежная оценка, согласованная акционерами, участниками, собственниками, но&nbsp;не&nbsp;выше его рыночной стоимости (<span num="30" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;12</span>&nbsp;ст.&nbsp;306&nbsp;НК). Рыночная стоимость определяется в&nbsp;соответствии со <span num="31" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;299</span>&nbsp;НК;</li><li>плательщики НДС не&nbsp;включают в&nbsp;первоначальную стоимость НМА НДС, относимый в&nbsp;зачет в&nbsp;соответствии с&nbsp;требованиями&nbsp;НК или относимый на&nbsp;расходы в&nbsp;соответствии со <span num="32" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;314</span>&nbsp;НК (<span num="33" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;14</span>&nbsp;ст.&nbsp;306&nbsp;НК).</li></ul></div><a data-anchor="/document/16/218401/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218401/bssPhr26/"></a><a data-anchor="/document/16/218401/dfasormvur/" data-dfa="dfasormvur"></a>Как отразить в&nbsp;бухучете НМА</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218401/bssPhr28/"></a><a data-anchor="/document/16/218401/dfasyq6tui/" data-dfa="dfasyq6tui"></a><a data-anchor="/document/16/218401/dfas8wh62k/" data-dfa="dfas8wh62k"></a><a data-anchor="/document/16/218401/dfas7nlq9w/" data-dfa="dfas7nlq9w"></a>Поступление НМА в&nbsp;качестве вклада в&nbsp;УФ отражайте проводками:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width:36%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr29/"></a><a data-anchor="/document/16/218401/dfasmb7hxo/" data-dfa="dfasmb7hxo"></a><strong>Дебет</strong></p></td><td class="bdTopbdBottombdRight" style="width:28%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr30/"></a><a data-anchor="/document/16/218401/dfas0wdzv4/" data-dfa="dfas0wdzv4"></a><strong>Кредит</strong></p></td><td class="bdTopbdBottombdRight"><a data-anchor="/document/16/218401/dfasca9gw2/" data-dfa="dfasca9gw2"></a></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:36%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr31/"></a><a data-anchor="/document/16/218401/dfasaz2vzs/" data-dfa="dfasaz2vzs"></a>4610 «Задолженность учредителей по&nbsp;вкладам в&nbsp;уставный капитал»</p></td><td class="bdBottombdRight" style="width:28%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr32/"></a><a data-anchor="/document/16/218401/dfasredo5v/" data-dfa="dfasredo5v"></a>8330 «Паи и&nbsp;вклады»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr33/"></a><a data-anchor="/document/16/218401/dfastnxyro/" data-dfa="dfastnxyro"></a>Отражается задолженность учредителей по&nbsp;вкладам в&nbsp;УФ</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:36%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr34/"></a><a data-anchor="/document/16/218401/dfasaki1be/" data-dfa="dfasaki1be"></a>0830 «Приобретение нематериальных активов»</p></td><td class="bdBottombdRight" style="width:28%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr35/"></a><a data-anchor="/document/16/218401/dfasg2pwmm/" data-dfa="dfasg2pwmm"></a>4610 «Задолженность учредителей по&nbsp;вкладам в&nbsp;уставный капитал»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr36/"></a><a data-anchor="/document/16/218401/dfasducg2x/" data-dfa="dfasducg2x"></a>Поступили НМА в&nbsp;качестве вклада в&nbsp;УФ</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:36%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr37/"></a><a data-anchor="/document/16/218401/dfashpkwb9/" data-dfa="dfashpkwb9"></a>4410 «Авансовые платежи по&nbsp;налогам и&nbsp;другим обязательным платежам в&nbsp;бюджет (по&nbsp;видам)»</p></td><td class="bdBottombdRight" style="width:28%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr38/"></a><a data-anchor="/document/16/218401/dfasmlx2f1/" data-dfa="dfasmlx2f1"></a>4610 «Задолженность учредителей по&nbsp;вкладам в&nbsp;уставный капитал»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr39/"></a><a data-anchor="/document/16/218401/dfasax7uzb/" data-dfa="dfasax7uzb"></a>Отражен НДС по&nbsp;поступившим НМА (у&nbsp;плательщиков налога)</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:36%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr40/"></a><a data-anchor="/document/16/218401/dfassn2akg/" data-dfa="dfassn2akg"></a>6410 «Задолженность по&nbsp;платежам в&nbsp;бюджет (по&nbsp;видам)»</p></td><td class="bdBottombdRight" style="width:28%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr41/"></a><a data-anchor="/document/16/218401/dfaslz8xhb/" data-dfa="dfaslz8xhb"></a>4410 «Авансовые платежи по&nbsp;налогам и&nbsp;другим обязательным платежам в&nbsp;бюджет (по&nbsp;видам)»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr42/"></a><a data-anchor="/document/16/218401/dfasozas6p/" data-dfa="dfasozas6p"></a>Зачтен НДС по&nbsp;поступившим НМА (у&nbsp;плательщиков налога)</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:36%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr43/"></a><a data-anchor="/document/16/218401/dfas5bt1ad/" data-dfa="dfas5bt1ad"></a>0400 «Нематериальные активы»</p></td><td class="bdBottombdRight" style="width:28%"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr44/"></a><a data-anchor="/document/16/218401/dfasghskcq/" data-dfa="dfasghskcq"></a>0830 «Приобретение нематериальных активов»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/218401/bssPhr45/"></a><a data-anchor="/document/16/218401/dfasrm0ccg/" data-dfa="dfasrm0ccg"></a>Приняты к&nbsp;учету (введены в&nbsp;эксплуатацию) НМА</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><a data-anchor="/document/16/218401/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218401/bssPhr46/"></a><a data-anchor="/document/16/218401/dfasp9ztm8/" data-dfa="dfasp9ztm8"></a>Как отразить в&nbsp;налоговом учете поступление НМА</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218401/bssPhr48/"></a><a data-anchor="/document/16/218401/dfasexvhy9/" data-dfa="dfasexvhy9"></a>Плательщики НДС при получении НМА в&nbsp;качестве вклада в&nbsp;УФ имеют право на&nbsp;зачет суммы НДС. Сумму НДС по&nbsp;полученному НМА принимайте к&nbsp;зачету в&nbsp;полном объеме (<span num="34" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;266&nbsp;НК).</p><p><a data-anchor="/document/16/218401/bssPhr49/"></a><a data-anchor="/document/16/218401/dfask5i46y/" data-dfa="dfask5i46y"></a>НДС по&nbsp;полученному в&nbsp;качестве вклада в&nbsp;УФ&nbsp;НМА, предприятия плательщики налога принимают к&nbsp;зачету если:</p><ul class="c-list"><li><a data-anchor="/document/16/218401/bssPhr50/"></a><a data-anchor="/document/16/218401/dfasur39xv/" data-dfa="dfasur39xv"></a>соблюдены условия, предусмотренных статьями <span num="35" target="_self" lnktype="intlnk" title="" class="doc">266</span>, <span num="36" target="_self" lnktype="intlnk" title="" class="doc">267</span>, <span num="37" target="_self" lnktype="intlnk" title="" class="doc">268</span>&nbsp;НК (<span num="38" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;266&nbsp;НК);</li><li>предприятие и&nbsp;учредитель поставлены на&nbsp;специальный регистрационный учет в&nbsp;налоговых органах в&nbsp;качестве плательщика НДС и&nbsp;имеют действующее свидетельство (<span num="39" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>, <span num="40" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;5</span>&nbsp;Положения, утв. постановлением Кабмина от&nbsp;22.09.2021 №&nbsp;595)</li></ul><p><a data-anchor="/document/16/218401/bssPhr51/"></a><a data-anchor="/document/16/218401/dfasoow1r5/" data-dfa="dfasoow1r5"></a>С&nbsp;1&nbsp;января 2023 года ставка НДС 12&nbsp;процентов.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218401/dfasynz1tg/" data-dfa="dfasynz1tg"></a><a data-anchor="/document/16/218401/bssPhr52/"></a>С&nbsp;1&nbsp;января 2023 года в&nbsp;счетах-фактурах должна быть указана ставка НДС 12&nbsp;процентов</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218401/bssPhr53/"></a><a data-anchor="/document/16/218401/dfasgf97no/" data-dfa="dfasgf97no"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/218401/bssPhr54/"></a><a data-anchor="/document/16/218401/dfasguox0g/" data-dfa="dfasguox0g"></a>При приостановлении действия свидетельства суммы НДС, отнесенные в&nbsp;зачет по&nbsp;фактически полученным НМА до&nbsp;вынесения налоговым органом решения о&nbsp;приостановлении, не&nbsp;подлежат корректировке (<span num="48" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;34</span>&nbsp;Положения, утв. постановлением Кабмина от&nbsp;22.09.2021 №&nbsp;595).</p><p><a data-anchor="/document/16/218401/bssPhr55/"></a><a data-anchor="/document/16/218401/dfasnnw1oo/" data-dfa="dfasnnw1oo"></a>С&nbsp;1&nbsp;января 2023 года можно принять к&nbsp;зачету «входной» НДС, ранее не&nbsp;принятый к&nbsp;зачету в&nbsp;связи с&nbsp;приостановлением действия свидетельства плательщика НДС, при возобновлении его действия (<span num="49" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;266-1</span>&nbsp;НК).</p><p><a data-anchor="/document/16/218401/bssPhr56/"></a><a data-anchor="/document/16/218401/dfaso1onhf/" data-dfa="dfaso1onhf"></a>Принять к&nbsp;зачету «входной» НДС может и&nbsp;сам налогоплательщик, чье свидетельство было приостановлено, и&nbsp;его контрагенты.</p><p><a data-anchor="/document/16/218401/bssPhr57/"></a><a data-anchor="/document/16/218401/dfas89e92m/" data-dfa="dfas89e92m"></a>С&nbsp;1&nbsp;января 2023 года при возобновлении действия свидетельства плательщика НДС «входной» НДС, не&nbsp;принятый к&nbsp;зачету за&nbsp;период приостановки, подлежит отнесению в&nbsp;зачет (корректировке). То&nbsp;есть, после возобновления действия свидетельства НДС восстанавливается право на&nbsp;зачет «входного» НДС и&nbsp;по&nbsp;сумме налога, не&nbsp;принятой в&nbsp;зачет за&nbsp;период приостановления свидетельства.</p><p><a data-anchor="/document/16/218401/bssPhr58/"></a><a data-anchor="/document/16/218401/dfasrvyg1m/" data-dfa="dfasrvyg1m"></a>Принять к&nbsp;зачету «входной» НДС можно только на&nbsp;основании ЭСФ поставщиков с&nbsp;действующим свидетельством плательщика НДС.</p><p><a data-anchor="/document/16/218401/bssPhr59/"></a><a data-anchor="/document/16/218401/dfase4ulim/" data-dfa="dfase4ulim"></a>Порядок регистрационного учета плательщиков НДС в&nbsp;налоговых органах и&nbsp;порядок приостановления действия свидетельства плательщика НДС установлен Положением, <span num="51" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;1</span>&nbsp;к постановлению Кабмина от&nbsp;22.09.2021 №&nbsp;595.</p><p><a data-anchor="/document/16/218401/bssPhr60/"></a><a data-anchor="/document/16/218401/dfaslzgvbq/" data-dfa="dfaslzgvbq"></a>Как принять к&nbsp;зачету НДС по&nbsp;НМА читайте в&nbsp;рекомендации «<span num="41" target="_self" lnktype="intlnk" title="" class="doc">Как зачесть и&nbsp;рассчитать НДС по&nbsp;основным средствам, нематериальным активам и&nbsp;«незавершенке»</span>».</p><p style="text-align:left"><a data-anchor="/document/16/218401/bssPhr61/"></a><a data-anchor="/document/16/218401/dfas1myyuo/" data-dfa="dfas1myyuo"></a>По&nbsp;принятым к&nbsp;учету НМА начисляйте амортизацию. О&nbsp;начислении амортизации в&nbsp;бухгалтерском и&nbsp;налоговом учете&nbsp;— в&nbsp;рекомендации «<span num="21" target="_self" lnktype="intlnk" title="" class="doc">Как начислить амортизацию по&nbsp;НМА</span>».</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218401/dfas1kqqx4/" data-dfa="dfas1kqqx4"></a><a data-anchor="/document/16/218401/bssPhr62/"></a>Как отразить в&nbsp;бухучете НМА, полученные в&nbsp;качестве вклада в&nbsp;УФ</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/218401/bssPhr63/"></a><a data-anchor="/document/16/218401/dfasx6u9si/" data-dfa="dfasx6u9si"></a>ООО «Альфа» получает от&nbsp;учредителя ООО «Гермес» в&nbsp;качестве вклада в&nbsp;УФ исключительные права на&nbsp;программное обеспечение. В&nbsp;соответствии с&nbsp;учетной политикой ООО «Альфа» данный актив соответствует критериям отнесения его к&nbsp;НМА. Стоимость вносимого НМА, согласованная учредителями, составила 17&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/218401/bssPhr64/"></a><a data-anchor="/document/16/218401/dfaso1brit/" data-dfa="dfaso1brit"></a>ООО «Альфа» и&nbsp;ООО «Гермес»&nbsp;— плательщики налога с&nbsp;оборота.</p><p style="text-align:left"><a data-anchor="/document/16/218401/bssPhr65/"></a><a data-anchor="/document/16/218401/dfas07cno5/" data-dfa="dfas07cno5"></a><a data-anchor="/document/16/218401/dfastel3yp/" data-dfa="dfastel3yp"></a>Программное обеспечение учитывается на&nbsp;счете <strong>0430 «Программное обеспечение» </strong> (<span num="22" lnktype="intlnk" title="" class="doc">§&nbsp;4&nbsp;Инструкции к&nbsp;плану счетов</span>).</p><p style="text-align:left"><a data-anchor="/document/16/218401/bssPhr66/"></a><a data-anchor="/document/16/218401/dfasm2trwo/" data-dfa="dfasm2trwo"></a><a data-anchor="/document/16/218401/dfas51ywcu/" data-dfa="dfas51ywcu"></a>В&nbsp;учете бухгалтер ООО «Альфа» отразил данную операцию проводками:</p><p><a data-anchor="/document/16/218401/bssPhr67/"></a><a data-anchor="/document/16/218401/dfasyb2wsy/" data-dfa="dfasyb2wsy"></a><strong>Дебет 4610 Кредит 8330</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218401/bssPhr68/"></a><a data-anchor="/document/16/218401/dfasnc8u40/" data-dfa="dfasnc8u40"></a>17&nbsp;000&nbsp;000 сумов&nbsp;— отражена задолженность учредителя по&nbsp;вкладу в&nbsp;УФ;</li></ul><p><a data-anchor="/document/16/218401/bssPhr69/"></a><a data-anchor="/document/16/218401/dfas53tswg/" data-dfa="dfas53tswg"></a><strong>Дебет 0830 Кредит 4610</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218401/bssPhr70/"></a><a data-anchor="/document/16/218401/dfascl61zd/" data-dfa="dfascl61zd"></a>17&nbsp;000&nbsp;000 сумов&nbsp;— отражено поступление НМА в&nbsp;качестве вклада в&nbsp;УФ;</li></ul><p><a data-anchor="/document/16/218401/bssPhr71/"></a><a data-anchor="/document/16/218401/dfas9msdh4/" data-dfa="dfas9msdh4"></a><strong>Дебет 0430 Кредит 0830</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218401/bssPhr72/"></a><a data-anchor="/document/16/218401/dfas2foism/" data-dfa="dfas2foism"></a>17&nbsp;000&nbsp;000 сумов&nbsp;— отражен ввод в&nbsp;эксплуатацию полученного НМА.</li></ul></div></div></div><p><a data-anchor="/document/16/218401/dfaswe69a9/" data-dfa="dfaswe69a9"></a><a data-anchor="/document/16/218401/bssPhr73/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882021" sourceId="1" fullSizeImageId="-41882020" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882021/"></p><p><a data-anchor="/document/16/218401/bssPhr74/"></a><a data-anchor="/document/16/218401/dfash7dw2l/" data-dfa="dfash7dw2l"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

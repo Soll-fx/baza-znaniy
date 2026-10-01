@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как поставить нерезидента на налоговый учет</h2><div class="doc-snippet"><a data-anchor="/document/16/204936/dfasls57h4/" data-dfa="dfasls57h4"></a><a data-anchor="/document/16/204936/bssPhr2/"></a>. </div><div id="documentBody" class="content-common"><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/204936/bssPhr4/"></a><a data-anchor="/document/16/204936/dfasd72vhv/" data-dfa="dfasd72vhv"></a><a data-anchor="/document/16/204936/dfasdfwzmi/" data-dfa="dfasdfwzmi"></a><a data-anchor="/document/16/204936/dfashdr7xg/" data-dfa="dfashdr7xg"></a>Постоянные учреждения встают на учет в налоговой службе по месту осуществления деятельности (<span num="1" target="_self" lnktype="intlnk" title="Иностранные юридические лица, осуществляющие деятельность в Республике Узбекистан через представительство..." class="doc">ч. 5</span> ст. 128 НК).</p></div><a data-anchor="/document/16/204936/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/204936/bssPhr5/"></a><a data-anchor="/document/16/204936/dfasbfqkmh/" data-dfa="dfasbfqkmh"></a>Постановка на учет ПУ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/204936/bssPhr7/"></a><a data-anchor="/document/16/204936/dfas11tt0m/" data-dfa="dfas11tt0m"></a>Постоянные учреждения встают на учет в налоговых органах с момента начала деятельности независимо от наличия налоговых обязательств по законодательству РУз или международным соглашениям (<span num="4" target="_self" lnktype="intlnk" title="Юридическое лицо – нерезидент Республики Узбекистан, осуществляющее деятельность в Республике Узбекистан через постоянное учреждение..." class="doc">ч. 1</span> ст.130 НК).</p><p><a data-anchor="/document/16/204936/bssPhr8/"></a><a data-anchor="/document/16/204936/dfasee3n80/" data-dfa="dfasee3n80"></a>Чтобы встать на учет в качестве постоянного учреждения не позднее 183 календарных дней со дня начала работы представьте в налоговую службу заявление. Если заключаете договор на срок более 183 календарных дней, заявление представьте не позднее 30 календарных дней с момента начала деятельности. Если заключили несколько договоров, по которым суммарный срок деятельности составит более 183 календарных дней, то заявление представьте в налоговую не позднее 30 календарных дней с даты начала деятельности или заключения договора (<span num="6" target="_self" lnktype="intlnk" title="Если юридическое лицо – нерезидент Республики Узбекистан заключило договор на срок более ста восьмидесяти трех календарных дней..." class="doc">ч. 2, 3</span> ст 130 НК).</p><p><a data-anchor="/document/16/204936/bssPhr9/"></a><a data-anchor="/document/16/204936/dfas06643g/" data-dfa="dfas06643g"></a>К заявлению приложите:<br>– документ, подтверждающий госрегистрацию в стране, в которой учреждено это юридическое лицо – нерезидент;<br>– специальные разрешительные документы или лицензии;<br>– доверенность или другой документ, удостоверяющий право на совершение от имени юрлица – нерезидента действий в Республике Узбекистан;<br>– договор, исполнение которого приводит к образованию постоянного учреждения.</p><p><a data-anchor="/document/16/204936/bssPhr10/"></a><a data-anchor="/document/16/204936/dfashil67g/" data-dfa="dfashil67g"></a>Все эти документы предоставьте в оригиналах или нотариально заверенных копиях, переведенных на государственный язык (<span num="8" target="_self" lnktype="intlnk" title="Юридическое лицо – нерезидент Республики Узбекистан, осуществляющее деятельность в Республике Узбекистан через постоянное учреждение..." class="doc">ч. 1</span> ст. 130 НК).</p><p><a data-anchor="/document/16/204936/bssPhr11/"></a><a data-anchor="/document/16/204936/dfas232daf/" data-dfa="dfas232daf"></a>На основании заявления о постановке на учет, налоговая присваивает ИНН, вводит учетные данные в Единый реестр налогоплательщиков РУз (<span num="10" target="_self" lnktype="intlnk" title="На основе данных учета налогоплательщиков Государственный налоговый комитет Республики Узбекистан ведет..." class="doc">ч. 5</span> ст. 126, <span num="12" target="_self" lnktype="intlnk" title="При постановке на учет каждому налогоплательщику присваивается единый на всей территории Республики Узбекистан..." class="doc">ч. 1</span> ст. 127 НК).</p><p><a data-anchor="/document/16/204936/bssPhr12/"></a><a data-anchor="/document/16/204936/dfasibow39/" data-dfa="dfasibow39"></a>Постановку на учет налогоплательщика подтверждает один из документов:<br>– свидетельство о присвоении ИНН, выданное налоговой;<br>– свидетельство о госрегистрации, в случае одновременной госрегистрации и постановки налогоплательщика на учет в налоговых органах и органах статистики (<span num="14" target="_self" lnktype="intlnk" title="Документом, подтверждающим постановку налогоплательщика на учет, является свидетельство о присвоении ему..." class="doc">ч. 4</span> ст. 126 НК).</p><p><a data-anchor="/document/16/204936/bssPhr13/"></a><a data-anchor="/document/16/204936/dfas0ogkg0/" data-dfa="dfas0ogkg0"></a>Далее откройте депозитный счет до востребования в коммерческом банке. Открыть валютный счет можно только при наличии открытого основного счета в национальной валюте.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как зарегистрировать постоянное учреждение, если предпринимательская деятельность иностранного юрлица приводит к образованию двух и более постоянных учреждений</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/204936/bssPhr15/"></a><a data-anchor="/document/16/204936/dfasfyyz9r/" data-dfa="dfasfyyz9r"></a>В таком случае регистрируйте одно постоянное учреждение совокупно по группе таких учреждений. Исключение – деятельность, которая образует строительную площадку, строительный, монтажный или сборочный объект либо связанная с ними надзорная деятельность. При условии, что такая площадка, объект или деятельность существуют или продолжаются более 183 дней в течение любого последовательного 12-месячного периода (<span num="16" target="_self" lnktype="intlnk" title="Если иностранное юридическое лицо осуществляет предпринимательскую деятельность, приводящую к образованию двух..." class="doc">ч. 17</span> ст. 36 НК).</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/204936/dfas6xxuso/" data-dfa="dfas6xxuso"></a><a data-anchor="/document/16/204936/bssPhr16/"></a>с момента начала деятельности должно зарегистрироваться постоянное учреждение, которое оказывает услуги, включая консультационные.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/204936/bssPhr17/"></a><a data-anchor="/document/16/204936/dfas28y3hb/" data-dfa="dfas28y3hb"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/204936/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/204936/bssPhr18/"></a><a data-anchor="/document/16/204936/dfasmgr49i/" data-dfa="dfasmgr49i"></a>Пообъектная постановка на учет ПУ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/204936/bssPhr20/"></a><a data-anchor="/document/16/204936/dfaszsueuu/" data-dfa="dfaszsueuu"></a>Постоянные учреждения, у которых возникло обязательство по уплате налога на имущество, земельного налога и налога за пользование водными ресурсами не по месту постановки на учет, встают на учет по месту нахождения объекта налогообложения (<span num="22" target="_self" lnktype="intlnk" title="Налогоплательщик, у которого возникло обязательство по уплате земельного налога, налога на имущество или налога за пользование..." class="doc">ч. 3</span> ст. 131 НК).</p><p><a data-anchor="/document/16/204936/bssPhr21/"></a><a data-anchor="/document/16/204936/dfasgk5cuv/" data-dfa="dfasgk5cuv"></a>Например, предприятие зарегистрировано в одном районе города, а земельный участок расположен в другом районе. В таком случае производите пообъектную постановку на учет налогоплательщика по месту нахождения объекта налогообложения, то есть по месту нахождения земельного участка (<span num="24" target="_self" lnktype="intlnk" title="Постановка на учет налогоплательщика по месту нахождения объекта налогообложения осуществляется после его постановки на учет..." class="doc">ч. 2</span> ст. 131 НК).</p><p><a data-anchor="/document/16/204936/bssPhr22/"></a><a data-anchor="/document/16/204936/dfasxp24uy/" data-dfa="dfasxp24uy"></a>В этом случае нерезидент обязан в течение 10 дней со дня госрегистрации права на земельный участок либо со дня возникновения объекта налогообложения обратиться в налоговую службу по месту нахождения участков для регистрации в качестве налогоплательщика (<span num="26" target="_self" lnktype="intlnk" title="Налогоплательщик, у которого возникло обязательство по уплате земельного налога, налога на имущество или налога за пользование..." class="doc">ч. 3</span> ст. 131 НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/204936/dfasmbuehn/" data-dfa="dfasmbuehn"></a><a data-anchor="/document/16/204936/bssPhr23/"></a>налог начисляйте со следующего месяца после госрегистрации права на земельный участок (ч. 2 ст. 427 НК). Эта обязанность не распространяется на нерезидентов-физлиц – плательщиков налога на имущество и земельного налога (ч. 4 ст. 131 НК)</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/204936/bssPhr24/"></a><a data-anchor="/document/16/204936/dfasgv0phg/" data-dfa="dfasgv0phg"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/204936/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/204936/bssPhr25/"></a><a data-anchor="/document/16/204936/dfas6de0wl/" data-dfa="dfas6de0wl"></a>Ответственность за нарушение порядка постановки на учет налогоплательщика</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/204936/bssPhr27/"></a><a data-anchor="/document/16/204936/dfasdx5nrq/" data-dfa="dfasdx5nrq"></a>Если продолжать деятельность без постановки на учет в налоговой службе, то вас оштрафуют в размере 10 процентов от доходов, полученных с момента начала такой деятельности до фактической постановки на учет, но не менее 10 миллионов сумов (<span num="35" target="_self" lnktype="intlnk" title="Осуществление иностранным юридическим лицом деятельности, приводящей к образованию постоянного учреждения..." class="doc">ч. 3</span> ст. 219 НК).</p><p><a data-anchor="/document/16/204936/bssPhr28/"></a><a data-anchor="/document/16/204936/dfasihuqoa/" data-dfa="dfasihuqoa"></a>Если вы нарушите сроки постановки на учет по объектам налогообложения, то за это грозит штраф в размере:</p><p><a data-anchor="/document/16/204936/bssPhr29/"></a><a data-anchor="/document/16/204936/dfasa7ra0k/" data-dfa="dfasa7ra0k"></a>– одного миллиона сумов, если от установленного срока прошло не более 30 дней;<br>– двух миллионов сумов, если от установленного срока прошло более 30 дней.</p><p><a data-anchor="/document/16/204936/bssPhr30/"></a><a data-anchor="/document/16/204936/dfasg2wyl9/" data-dfa="dfasg2wyl9"></a>Это предусмотрено <span num="37" target="_self" lnktype="intlnk" title="Нарушение сроков постановки на учет в налоговых органах по объектам налогообложения в случаях, предусмотренных статьей 131..." class="doc">частью 2</span> статьи 219 НК.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/204936/dfasu76t2r/" data-dfa="dfasu76t2r"></a><a data-anchor="/document/16/204936/bssPhr31/"></a>если вы не поставили компанию на учет в налоговой службе, то штраф за невыполнение данного обязательства должен уплатить учредитель этой компании.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/204936/bssPhr32/"></a><a data-anchor="/document/16/204936/dfasckany1/" data-dfa="dfasckany1"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><p><a data-anchor="/document/16/204936/dfas999mb0/" data-dfa="dfas999mb0"></a><a data-anchor="/document/16/204936/bssPhr33/"></a>&nbsp;</p><p><a data-anchor="/document/16/204936/dfasue7sle/" data-dfa="dfasue7sle"></a><a data-anchor="/document/16/204936/bssPhr34/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/204936/dfas8dg0zf/" data-dfa="dfas8dg0zf"></a><a data-anchor="/document/16/204936/bssPhr35/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

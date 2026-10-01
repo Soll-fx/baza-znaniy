@@ -1,0 +1,27 @@
+# Всё, что не нужно в production-образе.
+# Ориентир — Dockerfile: в образ попадают server/dist, web/dist, db,
+# storage/assets и docker/start.sh.
+
+# Локальный кластер Postgres — 677 МБ, в образе ему не место
+.pgdata
+
+# Исходный корпус — 232 МБ. Сервер читает content/ только при импорте
+# и валидации, в рантайме не нужен: все данные отдаются из Postgres.
+content
+
+node_modules
+**/node_modules
+.git
+.github
+tools
+docs
+scripts
+*.log
+.DS_Store
+coverage
+.vscode
+.idea
+**/*.tsbuildinfo
+tsconfig.tsbuildinfo
+.env
+.env.*

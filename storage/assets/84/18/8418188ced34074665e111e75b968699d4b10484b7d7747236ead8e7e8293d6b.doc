@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Закон от 30.12.2019 № ЗРУ-599</div><h2 class="auth__title">О внесении изменений и дополнений в Налоговый кодекс Республики Узбекистан</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/9796/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/9796/dfas1zz9le/"></a><strong>РЕСПУБЛИКИ УЗБЕКИСТАН</strong></p><p style="text-align:center"><a data-anchor="/document/90/9796/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/9796/dfasyxg983/"></a><strong>ЗАКОН</strong></p><p style="text-align:center"><a data-anchor="/document/90/9796/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/9796/dfasfws5ut/"></a><strong>О внесении изменений и дополнений в Налоговый кодекс Республики Узбекистан</strong></p><p style="text-align:right"><a data-anchor="/document/90/9796/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/9796/dfasxisvqs/"></a>Принят Законодательной палатой 9 декабря 2019 года<br>Одобрен Сенатом 14 декабря 2019 года</p><div class="doc__article doc-start" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/9796/tit1/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/9796/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/9796/dfas0weic0/"></a>Статья 1. </span><span class="doc__article-name"></span></div><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/9796/dfas5hr4yu/"></a>Внести в Налоговый кодекс Республики Узбекистан, утвержденный Законом Республики Узбекистан от 25 декабря 2007 года № ЗРУ-136 (Ведомости палат Олий Мажлиса Республики Узбекистан, 2007 г., приложение 1 к № 12; 2008 г., № 12, ст. 639; 2009 г., № 9, ст.ст. 330, 331, № 12, ст.ст. 470, 472, 473; 2010 г., № 5, ст. 178, № 9, ст.ст. 334, 335, 336, 337, № 10, ст. 380, № 12, ст. 474; 2011 г., № 1, ст. 1, № 9, ст. 248, № 12/2, ст.ст. 364, 365; 2012 г., № 4, ст. 106, № 9/1, ст. 238, № 12, ст.ст. 334, 336; 2013 г., № 10, ст. 263, № 12, ст. 349; 2014 г., № 1, ст. 2, № 9, ст. 244, № 12, ст.ст. 341, 343; 2015 г., № 8, ст. 312, № 12, ст.ст. 452, 454; 2016 г., № 4, ст. 125, № 9, ст. 276, № 12, ст.ст. 383, 384, 385; 2017 г., № 4, ст. 137, № 6, ст. 300, № 9, ст. 510, № 10, ст. 605, № 12, ст.ст. 772, 773; 2018 г., № 1, ст.ст. 1, 4, № 4, ст. 224, № 7, ст.ст. 431, 433, № 10, ст. 676, № 12, ст.ст. 781, 783; 2019 г., № 1, ст.ст. 1, 2, 3, № 2, ст. 47, № 3, ст.ст. 161, 166, № 8, ст. 471, № 9, ст. 589, № 11, ст. 792), изменения и дополнения, утвердив его новую редакцию (прилагается).</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/9796/tit2/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/9796/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/9796/dfasb24hfz/"></a>Статья 2. </span><span class="doc__article-name"></span></div><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/9796/dfasw015fy/"></a>Кабинету Министров Республики Узбекистан:</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/9796/dfasp7nd9f/"></a>в течение 2020 и 2021 годов обеспечить постоянный и всесторонний мониторинг и анализ практического действия и эффективности норм Налогового кодекса Республики Узбекистан в новой редакции (далее &#8212; Налоговый кодекс);</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/9796/dfasl206oo/"></a>при необходимости вносить в установленном порядке предложения, направленные на дальнейшее совершенствование отдельных норм Налогового кодекса;</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/9796/dfas2xowdy/"></a>привести решения правительства в соответствие с Налоговым кодексом;</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/9796/dfasv59waw/"></a>обеспечить пересмотр и отмену органами государственного управления их нормативно-правовых актов, противоречащих Налоговому кодексу.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/9796/tit3/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/9796/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/9796/dfasmf5g62/"></a>Статья 3. </span><span class="doc__article-name"></span></div><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/9796/dfashb52ce/"></a>Государственному налоговому комитету Республики Узбекистан совместно с Министерством финансов, Министерством юстиции Республики Узбекистан и другими заинтересованными министерствами, государственными комитетами и ведомствами обеспечить исполнение, доведение до исполнителей и разъяснение сути и значения Налогового кодекса.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/9796/tit4/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/9796/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/9796/dfas9ozsgb/"></a>Статья 4. </span><span class="doc__article-name"></span></div><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/9796/dfas5fkbik/"></a>Льготы по налогам и другим обязательным платежам, предусмотренные:</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/9796/dfassyg9di/"></a>Налоговым кодексом Республики Узбекистан, утвержденным Законом Республики Узбекистан от 25 декабря 2007 года № ЗРУ-136, действуют до 1 апреля 2020 года;</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/9796/dfasku2ble/"></a>актами налогового законодательства, в том числе решениями Президента Республики Узбекистан и Кабинета Министров Республики Узбекистан, принятыми до 1 января 2020 года, действуют до истечения срока их действия.</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/9796/dfasd65xvg/"></a>Установить, что взамен единого социального платежа, единого налогового платежа и фиксированного налога вводится социальный налог, налог с оборота и налог на доходы физических лиц в фиксированном размере соответственно с распространением на их плательщиков ранее предоставленных законодательством льгот и особенностей исчисления.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/9796/tit5/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/9796/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/9796/dfasafw1da/"></a>Статья 5. </span><span class="doc__article-name"></span></div><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/9796/dfasx36s6k/"></a>Установить, что возмещение суммы налога на добавленную стоимость, образовавшейся в результате превышения суммы налога на добавленную стоимость, относимого в зачет, над суммой начисленного налога, осуществляется с 1 июля 2020 года.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/9796/tit6/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/9796/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/9796/dfasevpukr/"></a>Статья 6. </span><span class="doc__article-name"></span></div><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/9796/dfasrmimyu/"></a>Настоящий Закон вступает в силу с 1 января 2020 года.</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/9796/dfas75xc79/"></a>Положения главы 69 Налогового кодекса применяются к соглашениям о разделе продукции, заключаемым после 1 января 2020 года.</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/9796/dfas82oa6m/"></a>Ввоз товаров, а также оборот по реализации товаров (услуг), приобретаемых юридическими лицами в рамках проектов, реализуемых в Республике Узбекистан полностью или частично за счет средств (займов, кредитов) международных финансовых институтов и зарубежных правительственных финансовых организаций, одобренных до 1 июля 2020 года по международным договорам Республики Узбекистан, не облагаются налогом на добавленную стоимость и акцизным налогом. При этом настоящие налоговые льготы не применяются в отношении товаров (услуг), приобретаемых за счет средств (займов, кредитов) международных финансовых институтов и зарубежных правительственных финансовых организаций, рефинансируемых или перекредитуемых через коммерческие банки Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/9796/dfasr0rvf4/"></a>На период до 1 января 2022 года вводится порядок, в соответствии с которым органы государственной налоговой службы уведомляют Уполномоченного при Президенте Республики Узбекистан по защите прав и законных интересов субъектов предпринимательства о назначении налогового аудита в порядке, установленном законодательством.</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/9796/dfasoc9dcc/"></a>Налогоплательщик вправе осуществлять перенос убытка, образовавшегося до 1 января 2020 года, на будущее в течение не более пяти лет, следующих за тем налоговым периодом, в котором получен этот убыток. Совокупная сумма переносимого убытка, учитываемая в каждом последующем налоговом периоде, не может превышать 50 процентов налоговой базы текущего налогового периода.</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/9796/dfas1a70zs/"></a>Разделы VI, VII и глава 5 Налогового кодекса вводятся в действие с 1 января 2022 года.</p><p style="text-align:left"><a data-anchor="/document/90/9796/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/9796/dfassba4ik/"></a>Пункт 1 части первой статьи 40 Налогового кодекса вводится в действие с 1 января 2023 года. До 1 января 2023 года контролирующим лицом иностранной компании признается юридическое или физическое лицо, доля участия которого в иностранной компании составляет более 50 процентов.</p><p style="text-align:right"><a data-anchor="/document/90/9796/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/9796/dfasdeszbp/"></a><strong>Президент Республики Узбекистан<br>Ш. Мирзиёев</strong></p><p><a data-anchor="/document/90/9796/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/9796/dfas30uzyn/"></a>г. Ташкент,<br>30 декабря 2019 г.,<br>№ ЗРУ-599&#160;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

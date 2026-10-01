@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как вести бухучет</h2><div class="doc-snippet"><a data-anchor="/document/16/218802/dfasrmkoxt/" data-dfa="dfasrmkoxt"></a><a data-anchor="/document/16/218802/bssPhr2/"></a>В&nbsp;рекомендации&nbsp;— правила бухучета, которые должна соблюдать каждая организация, перечень требований к&nbsp;ведению бухучета, а&nbsp;также ответственность за&nbsp;нарушение правил ведения бухучета. Узнайте, кто должен вести бухучет, кто освобожден от&nbsp;его ведения, а&nbsp;кто вправе применять упрощенный порядок, на&nbsp;основании каких документов вести бухучет и&nbsp;как передать дела при смене главного бухгалтера. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218802/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218802/bssPhr5/"></a><a data-anchor="/document/16/218802/dfaskgg1lw/" data-dfa="dfaskgg1lw"></a>Основные правила бухучета</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218802/bssPhr7/"></a><a data-anchor="/document/16/218802/dfasd3u48f/" data-dfa="dfasd3u48f"></a>Организации должны вести бухучет, соблюдая требования <span num="13" lnktype="intlnk" title="" class="doc">Закона о&nbsp;бухучете</span> и&nbsp;ряда нормативных документов. Так, при ведении бухучета руководствуйтесь:</p><ul class="c-list"><li><a data-anchor="/document/16/218802/bssPhr8/"></a><a data-anchor="/document/16/218802/dfas1u0vhv/" data-dfa="dfas1u0vhv"></a>НСБУ. Субъекты малого предпринимательства могут вести бухучет в&nbsp;упрощенном порядке в&nbsp;соответствии с&nbsp;требованиями <span num="307" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №20</span>, при этом в&nbsp;своей деятельности пользуются и&nbsp;другими национальными стандартами бухгалтерского учета и&nbsp;общепринятыми правилами бухгалтерского учета и&nbsp;отчетности;</li><li>рекомендациями в&nbsp;области бухучета, например, письма Минфина и&nbsp;ГНК;</li><li>инструкциями, положениями, законодательными актами;</li><li>другими документами в&nbsp;области регулирования бухучета.</li></ul><p><a data-anchor="/document/16/218802/bssPhr9/"></a><a data-anchor="/document/16/218802/dfasuu6g59/" data-dfa="dfasuu6g59"></a>Законодательство устанавливает ряд требований к&nbsp;ведению бухучета:</p><ol class="c-list"><li><a data-anchor="/document/16/218802/bssPhr10/"></a><a data-anchor="/document/16/218802/dfasuhhfg7/" data-dfa="dfasuhhfg7"></a>Вести бухучет в&nbsp;национальной валюте.</li><li><a data-anchor="/document/16/218802/bssPhr11/"></a><a data-anchor="/document/16/218802/dfasv3wm4o/" data-dfa="dfasv3wm4o"></a>Вести бухучет непрерывно с&nbsp;даты госрегистрации до&nbsp;даты прекращения деятельности в&nbsp;результате ликвидации или реорганизации.</li><li><a data-anchor="/document/16/218802/bssPhr12/"></a><a data-anchor="/document/16/218802/dfas1vfkn7/" data-dfa="dfas1vfkn7"></a>Все объекты бухучета отражать в&nbsp;регистрах бухучета без пропусков и&nbsp;изъятий, то&nbsp;есть каждый объект должен быть документально подтвержден и&nbsp;отражен в&nbsp;учете.</li><li><a data-anchor="/document/16/218802/bssPhr13/"></a><a data-anchor="/document/16/218802/dfass1pvtc/" data-dfa="dfass1pvtc"></a>Не&nbsp;допускать отражения в&nbsp;регистрах бухучета мнимых и&nbsp;притворных объектов бухучета. То&nbsp;есть бухгалтерский учет должен быть полным и&nbsp;достоверным.</li><li><a data-anchor="/document/16/218802/bssPhr14/"></a><a data-anchor="/document/16/218802/dfasavigu0/" data-dfa="dfasavigu0"></a>Вести бухучет с&nbsp;использованием метода двойной записи.</li></ol><p><a data-anchor="/document/16/218802/bssPhr15/"></a><a data-anchor="/document/16/218802/dfasyh3we8/" data-dfa="dfasyh3we8"></a>Эти и&nbsp;другие правила установлены <span num="14" target="_self" lnktype="intlnk" title="" class="doc">Законом</span> «О&nbsp;бухгалтерском учете».</p></div><a data-anchor="/document/16/218802/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218802/bssPhr16/"></a><a data-anchor="/document/16/218802/dfas3t4xdz/" data-dfa="dfas3t4xdz"></a>Документы для ведения бухучета</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218802/bssPhr18/"></a><a data-anchor="/document/16/218802/dfastpmrq3/" data-dfa="dfastpmrq3"></a><a data-anchor="/document/16/218802/dfas30ollq/" data-dfa="dfas30ollq"></a>Бухучет ведите на&nbsp;основании первичных документов. Первичный документ нужно составлять при совершении каждого факта хозяйственной жизни, а&nbsp;если это невозможно&nbsp;— непосредственно после его окончания. Формы первичных документов определяет законодательство, а&nbsp;в&nbsp;некоторых случаях такое право дано руководителю.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218802/bssPhr19/"></a><a data-anchor="/document/16/218802/dfasvtnoks/" data-dfa="dfasvtnoks"></a>Подробнее о&nbsp;том, <span num="189" target="_self" lnktype="intlnk" title="" class="doc">как организовать документооборот в&nbsp;бухгалтерии</span> читайте в&nbsp;рекомендации от&nbsp;эксперт а&nbsp;Системы Главбух.</p></div><p><a data-anchor="/document/16/218802/bssPhr20/"></a><a data-anchor="/document/16/218802/dfasz5r033/" data-dfa="dfasz5r033"></a>Факт хозяйственной жизни&nbsp;— сделка, событие, операция, которые оказывают или способны оказать влияние на&nbsp;финансовое положение экономического субъекта, финансовый результат его деятельности или движение денежных средств.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как организовать внутренний контроль совершаемых фактов хозяйственной жизни</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218802/bssPhr22/"></a><a data-anchor="/document/16/218802/dfask6nlwi/" data-dfa="dfask6nlwi"></a>Организация обязана организовать внутренний контроль совершаемых фактов хозяйственной жизни (<span num="15" lnktype="intlnk" title="" class="doc">ст.&nbsp;21</span>&nbsp;Закона о&nbsp;бухучете). Как именно это сделать, законодательство не&nbsp;разъясняет. На&nbsp;практике для этого обычно создают службу внутреннего контроля организации или назначают ответственного сотрудника. Функции и&nbsp;задачи пропишите в&nbsp;должностных инструкциях сотрудников, которые отвечают за&nbsp;внутренний контроль, либо в&nbsp;Положении о&nbsp;внутреннем контроле.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какие документы должно оформлять предприятие при передаче ведения бухучета на&#160;аутсорсинг</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218802/bssPhr24/"></a><a data-anchor="/document/16/218802/dfas3pq3hs/" data-dfa="dfas3pq3hs"></a>Руководители предприятий имеют право передавать на&nbsp;договорных условиях ведение бухучета специализированным фирмам (<span num="89" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;11</span>&nbsp;Закона о&nbsp;бухучете, <span num="52" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;20</span>).</p><p><a data-anchor="/document/16/218802/bssPhr25/"></a><a data-anchor="/document/16/218802/dfasukrcki/" data-dfa="dfasukrcki"></a>Но&nbsp;в&nbsp;этих документах и&nbsp;других законодательных актах не&nbsp;определены положения, касающиеся организации работы при передаче специализированной фирме ведения бухучета.</p><p><a data-anchor="/document/16/218802/bssPhr26/"></a><a data-anchor="/document/16/218802/dfaspy28zv/" data-dfa="dfaspy28zv"></a>Отсутствуют и&nbsp;четкие законодательные требования к&nbsp;самим аутсорсинговым компаниям. Каждая фирма, практикующая услуги аутсорсинга, самостоятельно разрабатывает и&nbsp;внедряет свои стандарты по&nbsp;работе с&nbsp;клиентами.</p><p><a data-anchor="/document/16/218802/bssPhr27/"></a><a data-anchor="/document/16/218802/dfasc1q5ta/" data-dfa="dfasc1q5ta"></a>Поэтому предприятие, которое передает ведение бухучета на&nbsp;аутсорсинг, должно самостоятельно удостовериться в&nbsp;надежности и&nbsp;квалифицированности таких фирм.</p><p><a data-anchor="/document/16/218802/bssPhr28/"></a><a data-anchor="/document/16/218802/dfas5iuimc/" data-dfa="dfas5iuimc"></a>Правовые отношения по&nbsp;договору аутсорсинга можно регулировать нормами договора возмездного оказания услуг, где исполнитель обязуется по&nbsp;заданию заказчика оказать услуги, совершить определенные действия или осуществить определенную деятельность, не&nbsp;имеющую вещественной формы, а&nbsp;заказчик обязуется оплатить эти услуги (<span num="53" lnktype="intlnk" title="" class="doc">ст.&nbsp;703&nbsp;ГК</span>).</p><p><a data-anchor="/document/16/218802/bssPhr29/"></a><a data-anchor="/document/16/218802/dfas1pb02x/" data-dfa="dfas1pb02x"></a>В&nbsp;условиях договора с&nbsp;аутсорсинговой компанией должно быть предусмотрено:</p><ul class="c-list"><li><a data-anchor="/document/16/218802/bssPhr30/"></a><a data-anchor="/document/16/218802/dfas55brog/" data-dfa="dfas55brog"></a>виды услуг, которые принимает на&nbsp;себя аутсорсинговая компания;</li><li>способы передачи первичных бухгалтерских документов;</li><li>ответственность перед заказчиком за&nbsp;некачественное выполнение услуги;</li><li>связь со&nbsp;специалистами, оказывающими аутсорсинговые услуги;</li><li>другие условия, согласованные между исполнителем и&nbsp;заказчиком.</li></ul></div></div></div><a data-anchor="/document/16/218802/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218802/bssPhr31/"></a><a data-anchor="/document/16/218802/dfasn3lcim/" data-dfa="dfasn3lcim"></a>Рабочий план счетов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218802/bssPhr36/"></a><a data-anchor="/document/16/218802/dfaszag087/" data-dfa="dfaszag087"></a>Обязанность утвердить рабочий план счетов установлена в <span num="208" target="_self" lnktype="intlnk" title="" class="doc">пункте&nbsp;5</span>&nbsp;НСБУ №&nbsp;21. При разработке плана счетов руководствуйтесь Планом счетов. Рабочий план счетов должен учитывать специфику деятельности организации. Обеспечить это можно, если оптимально построить синтетический и&nbsp;аналитический учет.</p><p><a data-anchor="/document/16/218802/bssPhr37/"></a><a data-anchor="/document/16/218802/dfasv2xdvp/" data-dfa="dfasv2xdvp"></a>В&nbsp;рабочий план включите только те&nbsp;счета, которые организация будет использовать на&nbsp;практике. Учтите, что НСБУ № <span num="269" target="_self" lnktype="intlnk" title="" class="doc">21</span>&nbsp;является обязательным для исполнения хозяйствующими субъектами независимо от&nbsp;форм собственности, за&nbsp;исключением бюджетных организаций, страховых организаций, банков и&nbsp;иных кредитных организаций.</p><p><a data-anchor="/document/16/218802/bssPhr38/"></a><a data-anchor="/document/16/218802/dfasu0ld6z/" data-dfa="dfasu0ld6z"></a>Определить структуру аналитического учета: виды субсчетов, глубину аналитики и&nbsp;т.&nbsp;п. организация может самостоятельно. При этом данные аналитического учета должны соответствовать оборотам и&nbsp;остаткам по&nbsp;счетам синтетического учета.</p><p><a data-anchor="/document/16/218802/bssPhr39/"></a><a data-anchor="/document/16/218802/dfaslp53bc/" data-dfa="dfaslp53bc"></a>В&nbsp;Инструкции к&nbsp;плану счетов после характеристики каждого синтетического счета дана типовая схема его корреспонденции с&nbsp;другими синтетическими счетами. В&nbsp;случае возникновения фактов хозяйственной деятельности, корреспонденция по&nbsp;которым не&nbsp;предусмотрена в&nbsp;типовой схеме, организация может дополнить&nbsp;ее, соблюдая единые подходы, установленные Инструкцией к&nbsp;плану счетов.</p></div><a data-anchor="/document/16/218802/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218802/bssPhr40/"></a><a data-anchor="/document/16/218802/dfasg7skzx/" data-dfa="dfasg7skzx"></a>Ответственный за&nbsp;ведение бухучета</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218802/bssPhr42/"></a><a data-anchor="/document/16/218802/dfasg1q1bg/" data-dfa="dfasg1q1bg"></a>Вести бухучет и&nbsp;составлять бухгалтерскую отчетность обязаны все организации без исключения (<span num="21" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;6&nbsp;Закона о&nbsp;бухучете).</p><p><a data-anchor="/document/16/218802/bssPhr43/"></a><a data-anchor="/document/16/218802/dfaswsgraz/" data-dfa="dfaswsgraz"></a><a data-anchor="/document/16/218802/dfasx8rogq/" data-dfa="dfasx8rogq"></a>Некоторые организации могут вести бухучет в&nbsp;упрощенном порядке. Не&nbsp;обязаны вести бухучет:</p><ul class="c-list"><li><a data-anchor="/document/16/218802/bssPhr44/"></a><a data-anchor="/document/16/218802/dfasg0f85g/" data-dfa="dfasg0f85g"></a>индивидуальные предприниматели&nbsp;— они ведут учет доходов и&nbsp;расходов или иных объектов налогообложения в&nbsp;порядке, установленном налоговым законодательством;</li><li>находящиеся на&nbsp;территории Узбекистана филиалы, представительства или иные структурные подразделения иностранных юридических лиц. Они ведут бухгалтерский учет в&nbsp;соответствии с&nbsp;учетной политикой создавшего их&nbsp;иностранного юрлица и&nbsp;налоговый учет&nbsp;— в&nbsp;соответствии с <span num="106" target="_self" lnktype="intlnk" title="" class="doc">главой&nbsp;7</span>&nbsp;НК (<span num="107" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;76&nbsp;НК).</li></ul><p><a data-anchor="/document/16/218802/bssPhr45/"></a><a data-anchor="/document/16/218802/dfast41ngv/" data-dfa="dfast41ngv"></a>Об&nbsp;этом сказано в <span num="22" lnktype="intlnk" title="" class="doc">части&nbsp;2</span>&nbsp;статьи&nbsp;6&nbsp;Закона о&nbsp;бухучете.</p></div><a data-anchor="/document/16/218802/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218802/bssPhr46/"></a><a data-anchor="/document/16/218802/dfassdgwql/" data-dfa="dfassdgwql"></a>Упрощенный порядок бухучета</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218802/bssPhr48/"></a><a data-anchor="/document/16/218802/dfasx5pdw1/" data-dfa="dfasx5pdw1"></a><a data-anchor="/document/16/218802/dfasgtszlf/" data-dfa="dfasgtszlf"></a>Упрощенные способы ведения бухучета, включая упрощенную бухгалтерскую отчетность, вправе применять организации, относящиеся к&nbsp;субъектам малого предпринимательства. При этом упрощенные способы ведения бухучета не&nbsp;вправе применять:</p><ul class="c-list"><li><a data-anchor="/document/16/218802/bssPhr49/"></a><a data-anchor="/document/16/218802/dfasfhvn0z/" data-dfa="dfasfhvn0z"></a>индивидуальные предприниматели. Они ведут учет доходов, расходов или иных объектов налогообложения в&nbsp;порядке, установленном налоговым законодательством;</li><li>фермерские хозяйства&nbsp;— ведут учет в&nbsp;соответствии с <span num="23" target="_self" lnktype="intlnk" title="" class="doc">Положением</span> об&nbsp;организации упрощенной системы бухгалтерского учета в&nbsp;фермерских хозяйствах (рег. №&nbsp;1781 от&nbsp;26.03.2008).</li></ul><p><a data-anchor="/document/16/218802/bssPhr50/"></a><a data-anchor="/document/16/218802/dfasyh6n72/" data-dfa="dfasyh6n72"></a>Таковы требования <span num="288" target="_self" lnktype="intlnk" title="" class="doc">пункта&nbsp;2</span>&nbsp;НСБУ №&nbsp;20.</p></div><a data-anchor="/document/16/218802/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/218802/bssPhr51/"></a><a data-anchor="/document/16/218802/dfasz8tmbl/" data-dfa="dfasz8tmbl"></a>Ответственность за&nbsp;организацию бухучета</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218802/bssPhr53/"></a><a data-anchor="/document/16/218802/dfaszwc6q7/" data-dfa="dfaszwc6q7"></a>Ведение бухучета и&nbsp;отчетности организует руководитель предприятия (<span num="345" target="_self" lnktype="intlnk" title="" class="doc">ст. 7</span>&nbsp;Закона о&nbsp;бухучете). Он&nbsp;обязан выбрать один из&nbsp;следующих вариантов и&nbsp;закрепить это в <span num="26" lnktype="intlnk" title="" class="doc">учетной политике</span>:</p><ul class="c-list"><li><a data-anchor="/document/16/218802/bssPhr54/"></a><a data-anchor="/document/16/218802/dfas9gw6f4/" data-dfa="dfas9gw6f4"></a>создать службу бухгалтерии и&nbsp;возложить ведение бухучета на&nbsp;главного бухгалтера или на&nbsp;другое должностное лицо, осуществляющее функции бухгалтерского учета и&nbsp;финансового управления;</li><li>передать по&nbsp;договору ведение бухучета специализированной организации или бухгалтеру-специалисту. Выбор зависит от&nbsp;объема учетной работы;</li><li>принять ведение бухучета на&nbsp;себя.</li></ul><p><a data-anchor="/document/16/218802/bssPhr55/"></a><a data-anchor="/document/16/218802/dfascdg1x6/" data-dfa="dfascdg1x6"></a>Об&nbsp;этом сказано в &nbsp;статьи <span num="326" target="_self" lnktype="intlnk" title="" class="doc">7</span>&nbsp;Закона «О&nbsp;бухгалтерском учете».</p><p><a data-anchor="/document/16/218802/bssPhr56/"></a><a data-anchor="/document/16/218802/dfaszu2u1t/" data-dfa="dfaszu2u1t"></a>В&nbsp;большинстве случаев руководители коммерческих организаций выбирают первый вариант, как наиболее оптимальный, а&nbsp;руководители некоммерческих организаций для организации бухгалтерского учета, составления и&nbsp;сдачи финансовой, статистической и&nbsp;иной отчетности привлекают специализированную организацию или бухгалтера на&nbsp;договорной основе.</p></div><a data-anchor="/document/16/218802/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/218802/bssPhr57/"></a><a data-anchor="/document/16/218802/dfasnbkge3/" data-dfa="dfasnbkge3"></a>Требования к&nbsp;главбуху</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218802/bssPhr59/"></a><a data-anchor="/document/16/218802/dfas8zzgg6/" data-dfa="dfas8zzgg6"></a>Требования к&nbsp;главному бухгалтеру предприятий, которые подлежат обязательной аудиторской проверке, установлены в <span num="28" lnktype="intlnk" title="" class="doc">статье&nbsp;12</span>&nbsp;Закона «О&nbsp;бухгалтерском учете». Он&nbsp;должен соответствовать следующим требованиям:</p><ul class="c-list"><li><a data-anchor="/document/16/218802/bssPhr60/"></a><a data-anchor="/document/16/218802/dfase4iap9/" data-dfa="dfase4iap9"></a>иметь высшее образование, не&nbsp;обязательно по&nbsp;профессии;</li><li>иметь стаж работы, связанной с&nbsp;ведением бухучета, составлением отчетности либо с&nbsp;аудиторской деятельностью, не&nbsp;менее трех лет из&nbsp;последних пяти календарных лет, при наличии высшего экономического образования. Если высшее образование не&nbsp;экономическое, то&nbsp;стаж должен быть не&nbsp;менее семи лет из&nbsp;последних десяти календарных лет;</li><li>не&nbsp;должен иметь неснятой или непогашенной судимости за&nbsp;умышленное преступление.</li></ul><p><a data-anchor="/document/16/218802/bssPhr61/"></a><a data-anchor="/document/16/218802/dfasp7ex3k/" data-dfa="dfasp7ex3k"></a>Если договор об&nbsp;оказании услуг по&nbsp;ведению бухучета заключен с&nbsp;работником специализированной организации, то&nbsp;он&nbsp;также должен отвечать указанным требованиям. Если предприятие заключает ГПД с&nbsp;физическим лицом&nbsp;— не&nbsp;работником специализированной организации, на&nbsp;оказание услуг по&nbsp;бухучету, то&nbsp;на&nbsp;него эти требования не&nbsp;распространяются.</p><p><a data-anchor="/document/16/218802/bssPhr62/"></a><a data-anchor="/document/16/218802/dfaszizvu3/" data-dfa="dfaszizvu3"></a>Законодательство может устанавливать и&nbsp;иные дополнительные требования к&nbsp;главному бухгалтеру или другому лицу, на&nbsp;которое возложено ведение бухучета. Например, требования к&nbsp;главбухам банков и&nbsp;иных кредитных организаций устанавливает Центральный банк.</p><p><a data-anchor="/document/16/218802/bssPhr63/"></a><a data-anchor="/document/16/218802/dfashxan44/" data-dfa="dfashxan44"></a>Требования к&nbsp;главному бухгалтеру предприятий, которые не&nbsp;подлежат обязательной аудиторской проверке, законодательно не&nbsp;установлены.</p></div><a data-anchor="/document/16/218802/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/218802/bssPhr64/"></a><a data-anchor="/document/16/218802/dfasfakavw/" data-dfa="dfasfakavw"></a>Смена главного бухгалтера</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218802/bssPhr66/"></a><a data-anchor="/document/16/218802/dfasdbkg2e/" data-dfa="dfasdbkg2e"></a>Порядок передачи дел при увольнении главного бухгалтера действующим законодательством не&nbsp;определен. Предприятие должно само предусмотреть и&nbsp;организовать порядок передачи документов, материальных ценностей, за&nbsp;которые ответственен главный бухгалтер.</p><p><a data-anchor="/document/16/218802/bssPhr67/"></a><a data-anchor="/document/16/218802/dfasmfoi9b/" data-dfa="dfasmfoi9b"></a><a data-anchor="/document/16/218802/dfasmg2758/" data-dfa="dfasmg2758"></a>Трудовой договор с&nbsp;главным бухгалтером можно прекратить по&nbsp;основаниям, предусмотренным в&nbsp;статье <span num="210" target="_self" lnktype="intlnk" title="" class="doc">155</span>&nbsp;ТК с&nbsp;учетом статьи <span num="211" target="_self" lnktype="intlnk" title="" class="doc">163</span>&nbsp;ТК. Если главный бухгалтер увольняется по&nbsp;собственному желанию, то&nbsp;он&nbsp;должен письменно предупредить работодателя об&nbsp;этом не&nbsp;позднее, чем за&nbsp;14&nbsp;календарных дней до&nbsp;даты увольнения (ст.&nbsp;160&nbsp;ТК).</p><p><a data-anchor="/document/16/218802/bssPhr68/"></a><a data-anchor="/document/16/218802/dfasgp7p14/" data-dfa="dfasgp7p14"></a>В&nbsp;бюджетных организациях при назначении и&nbsp;освобождении от&nbsp;должности главного бухгалтера создается комиссия. В&nbsp;день приема-передачи комиссия составляет акт приема-передачи бухгалтерских дел, в&nbsp;котором отражают состояние учета, отчетности и&nbsp;архивных документов. В&nbsp;необходимых случаях в&nbsp;состав комиссии могут быть включены представители вышестоящих организаций и&nbsp;представители соответствующих финансовых органов (<span num="110" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;7</span>&nbsp;«Инструкции по&nbsp;бухгалтерскому учету в&nbsp;бюджетных организациях», приложение к&nbsp;приказу Минфина от&nbsp;22.12.2010 №&nbsp;2169).</p><p><a data-anchor="/document/16/218802/bssPhr69/"></a><a data-anchor="/document/16/218802/dfasi3v1g3/" data-dfa="dfasi3v1g3"></a><a data-anchor="/document/16/218802/dfasrk6bbh/" data-dfa="dfasrk6bbh"></a>Для коммерческих организаций требование о&nbsp;создании комиссии не&nbsp;предусмотрено. Чтобы организовать передачу дел руководитель должен издать приказ.</p><p><a data-anchor="/document/16/218802/bssPhr70/"></a><a data-anchor="/document/16/218802/dfasq6fgg6/" data-dfa="dfasq6fgg6"></a><a data-anchor="/document/16/218802/dfasn6yp9l/" data-dfa="dfasn6yp9l"></a><a data-anchor="/document/16/218802/dfasvx48d0/" data-dfa="dfasvx48d0"></a>Главный бухгалтер передает дела своему заместителю либо другому сотруднику, уполномоченному на&nbsp;это приказом руководителя предприятия. Также принять дела от&nbsp;увольняющего главного бухгалтер может сам директор. По&nbsp;результатам передачи дел оформляют акт приема-передачи документов или специальную опись. При этом учитывайте, что бухгалтерские документы, в&nbsp;частности, первичку, отчетность, регистры, учетную политику, аудиторские заключения и&nbsp;т.&nbsp;д., нужно включить в&nbsp;опись или в&nbsp;акт. Передающее и&nbsp;принимающее лицо подписывают акт и&nbsp;опись, которые затем утверждаются руководителем и&nbsp;заверяются печатью организации. Акт и&nbsp;опись составляйте в&nbsp;произвольной форме.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно&#160;ли уведомлять налоговую инспекцию о&#160;смене главного бухгалтера</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218802/bssPhr72/"></a><a data-anchor="/document/16/218802/dfas04302l/" data-dfa="dfas04302l"></a>Да, нужно.</p><p><a data-anchor="/document/16/218802/bssPhr73/"></a><a data-anchor="/document/16/218802/dfas7q5qqt/" data-dfa="dfas7q5qqt"></a>Сведения о&nbsp;главбухе предприятие подает при гос. регистрации и&nbsp;содержатся в&nbsp;базе ГНИ, поэтому необходимо информировать ГНИ о&nbsp;назначении нового главбуха. Для этого в&nbsp;персональном кабинете налогоплательщика зайдите в&nbsp;раздел «Учетные данные», а&nbsp;затем во&nbsp;вкладке «Изменение учетных данных» внесите данные нового главного бухгалтера.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно&#160;ли уведомить банк о&#160;смене главного бухгалтера</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218802/bssPhr75/"></a><a data-anchor="/document/16/218802/dfasymdadi/" data-dfa="dfasymdadi"></a>Да, нужно.</p><p><a data-anchor="/document/16/218802/bssPhr76/"></a><a data-anchor="/document/16/218802/dfass6i452/" data-dfa="dfass6i452"></a>Главный бухгалтер имеет право подписи платежных документов, поэтому о&nbsp;назначении нового главбуха банк нужно уведомить. Для этого подготовьте новую банковскую карточку с&nbsp;образцами его подписи. Форму карточки уточните в&nbsp;банке.</p><p><a data-anchor="/document/16/218802/bssPhr77/"></a><a data-anchor="/document/16/218802/dfasx2p6gv/" data-dfa="dfasx2p6gv"></a>Карточку предоставьте в&nbsp;банк в&nbsp;двух экземплярах вместе с&nbsp;копией приказа о&nbsp;назначении нового главного бухгалтера, а&nbsp;также копией паспорта главбуха. В&nbsp;некоторых случаях банки требуют сопроводительное письмо. Полный пакет документов уточните в&nbsp;обслуживающем банке.</p></div></div></div><a data-anchor="/document/16/218802/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/218802/bssPhr78/"></a><a data-anchor="/document/16/218802/dfas2sato5/" data-dfa="dfas2sato5"></a>Ответственность за&nbsp;нарушение правил ведения бухучета</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218802/bssPhr80/"></a><a data-anchor="/document/16/218802/dfaskqybxn/" data-dfa="dfaskqybxn"></a>Отсутствие бухучета или нарушение правил бухучета влечет наказание:<br>—&nbsp;по&nbsp;Налоговому кодексу;<br>—&nbsp;по&nbsp;Кодексу об&nbsp;административной ответственности.</p><p><a data-anchor="/document/16/218802/bssPhr81/"></a><a data-anchor="/document/16/218802/dfas4u01pn/" data-dfa="dfas4u01pn"></a><strong>Ответственность по&nbsp;НК</strong></p><p><a data-anchor="/document/16/218802/bssPhr82/"></a><a data-anchor="/document/16/218802/dfas9lclog/" data-dfa="dfas9lclog"></a>Неправильное ведение бухучета влечет за&nbsp;собой налоговые правонарушения.</p><p><a data-anchor="/document/16/218802/bssPhr83/"></a><a data-anchor="/document/16/218802/dfasao3bvp/" data-dfa="dfasao3bvp"></a>Виды налоговых правонарушений и&nbsp;ответственность за&nbsp;них приведены в <span num="111" target="_self" lnktype="intlnk" title="" class="doc">статьях&nbsp;223-237</span>&nbsp;НК.</p><p><a data-anchor="/document/16/218802/bssPhr84/"></a><a data-anchor="/document/16/218802/dfasknp5rp/" data-dfa="dfasknp5rp"></a><strong>Ответственность по&nbsp;КоАО</strong></p><p><a data-anchor="/document/16/218802/bssPhr85/"></a><a data-anchor="/document/16/218802/dfasmpslbz/" data-dfa="dfasmpslbz"></a>Существуют также наказания за&nbsp;нарушение порядка ведения бухучета и&nbsp;отчетности для должностных лиц организации, прописанные в <span num="36" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;175-1</span>&nbsp;КоАО. Какой штраф предусмотрен за&nbsp;такое нарушение, смотрите в&nbsp;таблице.</p><p><a data-anchor="/document/16/218802/bssPhr86/"></a><a data-anchor="/document/16/218802/dfasfgeygh/" data-dfa="dfasfgeygh"></a><strong>Сумма штрафа для должностных лиц по <span num="37" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;175-1</span> КоАО</strong></p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 77.72%;"><p><a data-anchor="/document/16/218802/bssPhr87/"></a><a data-anchor="/document/16/218802/dfass2yghl/" data-dfa="dfass2yghl"></a><strong>Условие</strong></p></td><td class="bdTopbdBottombdRight" style="width: 22.13%;"><p><a data-anchor="/document/16/218802/bssPhr88/"></a><a data-anchor="/document/16/218802/dfas3dzvy7/" data-dfa="dfas3dzvy7"></a><strong>Сумма штрафа</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 77.72%;"><p><a data-anchor="/document/16/218802/bssPhr89/"></a><a data-anchor="/document/16/218802/dfash03bve/" data-dfa="dfash03bve"></a>Однократное нарушение</p></td><td class="bdBottombdRight" style="width: 22.13%;"><p><a data-anchor="/document/16/218802/bssPhr90/"></a><a data-anchor="/document/16/218802/dfashl7815/" data-dfa="dfashl7815"></a>от&nbsp;3&nbsp;до&nbsp;7&nbsp;БРВ</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 77.72%;"><p><a data-anchor="/document/16/218802/bssPhr91/"></a><a data-anchor="/document/16/218802/dfas5fedno/" data-dfa="dfas5fedno"></a>Повторное нарушение в&nbsp;течение года после применения административного взыскания</p></td><td class="bdBottombdRight" style="width: 22.13%;"><p><a data-anchor="/document/16/218802/bssPhr92/"></a><a data-anchor="/document/16/218802/dfas6b2bny/" data-dfa="dfas6b2bny"></a><a data-anchor="/document/16/218802/dfasiqhox9/" data-dfa="dfasiqhox9"></a>от&nbsp;7&nbsp;до&nbsp;10&nbsp;БРВ</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Последует&#160;ли штраф, если налогоплательщик сам обнаружил ошибку и&#160;сдал уточненную отчетность</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218802/bssPhr94/"></a><a data-anchor="/document/16/218802/dfasep8s3b/" data-dfa="dfasep8s3b"></a>Нет, не&nbsp;последует.</p><p><a data-anchor="/document/16/218802/bssPhr95/"></a><a data-anchor="/document/16/218802/dfaswmhagm/" data-dfa="dfaswmhagm"></a>Штрафа не&nbsp;будет, если исправить ошибки в&nbsp;бухучете и&nbsp;сдать в&nbsp;инспекцию уточненную налоговую отчетность до&nbsp;обнаружения налоговым органом ошибки или начала налогового аудита, а&nbsp;перед этим погасить недоимку и&nbsp;заплатить пени (<span num="32" lnktype="intlnk" title="" class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;83, <span num="33" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;213&nbsp;НК).</p></div></div></div><p><a data-anchor="/document/16/218802/dfase4ng8w/" data-dfa="dfase4ng8w"></a><a data-anchor="/document/16/218802/bssPhr96/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882021" sourceId="1" fullSizeImageId="-41882020" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882021/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кто платит госпошлину в судах</h2><div class="doc-snippet"><a data-anchor="/document/16/205029/dfasmvuglt/" data-dfa="dfasmvuglt"></a><a data-anchor="/document/16/205029/bssPhr2/"></a>Из рекомендации узнаете, кто и за что платит госпошлину в судах. Эксперты объяснили в каких случаях госпошлину в судах платят истцы, в каких – ответчики, а когда – третьи лица. В рекомендации – перечень обстоятельств, при которых лица освобождаются от уплаты госпошлины в гражданских, экономических и административных судах. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/205029/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205029/bssPhr3/"></a><a data-anchor="/document/16/205029/dfas82duny/" data-dfa="dfas82duny"></a>Действия, за которые установлена госпошлина</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205029/bssPhr5/"></a><a data-anchor="/document/16/205029/dfas6s7ttu/" data-dfa="dfas6s7ttu"></a>Чаще всего госпошлину платят:</p><p><a data-anchor="/document/16/205029/bssPhr6/"></a><a data-anchor="/document/16/205029/dfasxb9h4g/" data-dfa="dfasxb9h4g"></a>– за подачу в суды исковых заявлений, апелляционных, кассационных и надзорных жалоб на решения судов, а также выдача судами копий документов;<br>– выдачу лицензии и разрешений на осуществление отдельных видов деятельности;<br>– нотариальные действия нотариальными конторами и председателями сходов граждан поселков, кишлаков и аулов;<br>– госрегистрация юрлиц и индивидуальных предпринимателей, а также другие действия, указанные в <span num="1" target="_self" lnktype="intlnk" title="" class="doc">статье 5</span> Закона о госпошлине.</p></div><a data-anchor="/document/16/205029/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205029/bssPhr7/"></a><a data-anchor="/document/16/205029/dfas19uc7z/" data-dfa="dfas19uc7z"></a>Плательщики госпошлины в судах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205029/bssPhr9/"></a><a data-anchor="/document/16/205029/dfasgy3fbr/" data-dfa="dfasgy3fbr"></a>Госпошлину платят юридические и физические лица, которые обратились в гражданский, экономический либо административный суды с заявлениями, исковыми заявлениями, апелляционными, кассационными и другими жалобами, а также за выдачу судами дубликатов и копий документов (<span num="4" target="_self" lnktype="intlnk" title="" class="doc">ст. 4</span> Закона о госпошлине).</p><p><a data-anchor="/document/16/205029/bssPhr10/"></a><a data-anchor="/document/16/205029/dfasiqtxos/" data-dfa="dfasiqtxos"></a>При обращении в суд госпошлину платят не только истцы, но и в некоторых случаях <span num="6" lnktype="intlnk" title="" class="doc">ответчики</span> и <span num="8" lnktype="intlnk" title="" class="doc">третьи лица</span>.</p></div><a data-anchor="/document/16/205029/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205029/bssPhr11/"></a><a data-anchor="/document/16/205029/dfaslvv19x/" data-dfa="dfaslvv19x"></a>Когда платят истцы</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205029/bssPhr13/"></a><a data-anchor="/document/16/205029/dfasdw7i20/" data-dfa="dfasdw7i20"></a>Истец платит госпошлину, когда подает в суд иск в первый раз. Кроме этого, также в случаях:</p><p><a data-anchor="/document/16/205029/bssPhr14/"></a><a data-anchor="/document/16/205029/dfas50yzbu/" data-dfa="dfas50yzbu"></a>1. если суд заменил первоначального истца с его согласия другим лицом, то «новый» истец должен оплатить госпошлину на общих основаниях (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 19 Закона о госпошлине). При этом госпошлина, уплаченная первоначальным истцом, ему не возвращается (<span num="13" lnktype="intlnk" title="В соответствии с частью второй статьи 337 НК при замене судом первоначального истца с его согласия другим лицом это лицо должно уплатить государственную пошлину на общих основаниях..." class="doc">абз. 1</span> п. 5 постановления Пленума);<br>2. по повторно предъявленным заявлениям, которые ранее были оставлены без рассмотрения (<span num="15" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 19 Закона о госпошлине).<br>3. при увеличении суммы иска – недостающая сумма госпошлины уплачивается в соответствии с увеличенной суммой иска (<span num="17" target="_self" lnktype="intlnk" title="" class="doc">ч. 9</span> ст. 19 Закона о госпошлине).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205029/dfas1n07w3/" data-dfa="dfas1n07w3"></a><a data-anchor="/document/16/205029/bssPhr15/"></a>Если заявление осталось без рассмотрения, и в связи с этим, госпошлина подлежала возврату, но не была возвращена, к повторному заявлению приложите первоначальный документ об уплате госпошлины,</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205029/bssPhr16/"></a><a data-anchor="/document/16/205029/dfasei2q24/" data-dfa="dfasei2q24"></a>если не истек срок исковой давности (3 года) (ст. 150 ГК) со дня зачисления ее в бюджет (ч. 5 ст. 19 Закона о госпошлине) во избежание повторной уплаты госпошлины.&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/205029/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205029/bssPhr17/"></a><a data-anchor="/document/16/205029/dfaswxd7g5/" data-dfa="dfaswxd7g5"></a>Когда платят ответчики</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205029/bssPhr19/"></a><a data-anchor="/document/16/205029/dfasx3ny5f/" data-dfa="dfasx3ny5f"></a>Ответчики платят госпошлину:</p><p><a data-anchor="/document/16/205029/bssPhr20/"></a><a data-anchor="/document/16/205029/dfasa5fk7k/" data-dfa="dfasa5fk7k"></a>1) со встречных исковых заявлений (<span num="24" target="_self" lnktype="intlnk" title="С подаваемых в суды исковых заявлений, с заявлений по делам особого производства, с жалоб по делам, возникающим из ..." class="doc">абз. 3</span> ч. 1 ст. 19 Закона о госпошлине);<br>2) когда истец <span num="26" lnktype="intlnk" title="" class="doc">освобожден от уплаты</span> госпошлины, а суд своим решением удовлетворил иск полностью либо частично (<span num="28" lnktype="intlnk" title="При освобождении истца от уплаты государственной пошлины в случае удовлетворения иска государственная пошлина..." class="doc">ч. 10</span> ст. 19 Закона о госпошлине). Это означает, что ответчик платит госпошлину пропорционально размеру удовлетворенных исковых требований, если он не освобожден от ее уплаты (<span num="30" lnktype="intlnk" title="При предъявлении иска совместно несколькими истцами к одному или нескольким ответчикам государственная...." class="doc">ч. 11</span> ст. 19 Закона о госпошлине);<br>3) когда <span num="32" lnktype="intlnk" title="" class="doc">освобожденный от уплаты</span> госпошлины истец не поддерживает своих требований вследствие добровольного полного или частичного удовлетворения их ответчиком после предъявления иска (<span num="34" lnktype="intlnk" title="При полном или частичном удовлетворении иска, предъявленного к нескольким ответчикам одним или несколькими ..." class="doc">ч. 13</span> ст. 19 Закона о госпошлине).</p><p><a data-anchor="/document/16/205029/bssPhr21/"></a><a data-anchor="/document/16/205029/dfas40w57e/" data-dfa="dfas40w57e"></a>По общему правилу, судебные расходы относят на лиц, участвующих в деле, пропорционально размеру удовлетворенных требований (<span num="36" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 118 ЭПК, <span num="38" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 138 ГПК; <span num="40" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 115 КоАС). Стороне, в пользу которой состоялось решение, возмещают за счет другой стороны все понесенные по делу судебные расходы (<span num="42" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 118 ЭПК; <span num="44" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 138 ГПК; <span num="46" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 115 КоАС). Это означает, что при удовлетворении требований истца, ответчик должен возместить ему все понесенные судебные расходы, включая госпошлину пропорционально той части требований, в удовлетворении которых было отказано судом. Если же истец был освобожден от госпошлины, то ответчик все равно уплачивает ее, только в доход государства.</p></div><a data-anchor="/document/16/205029/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/205029/bssPhr22/"></a><a data-anchor="/document/16/205029/dfasanaoxx/" data-dfa="dfasanaoxx"></a>Когда платят третьи лица</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205029/bssPhr24/"></a><a data-anchor="/document/16/205029/dfasbntyzg/" data-dfa="dfasbntyzg"></a>Третьи лица платят госпошлину с заявлений о вступлении в дело третьих лиц с самостоятельными исковыми требованиями (<span num="49" lnktype="intlnk" title="С подаваемых в суды исковых заявлений, с заявлений по делам особого производства, с жалоб по делам, возникающим ..." class="doc">абз. 3</span> ч. 1 ст. 19 Закона о госпошлине).</p><p><a data-anchor="/document/16/205029/bssPhr25/"></a><a data-anchor="/document/16/205029/dfas19m0pc/" data-dfa="dfas19m0pc"></a>В случае если стороны заключили мировое соглашение, в котором содержатся условия о распределении судебных расходов по госпошлине, не противоречащие законодательству и не нарушающие права и охраняемые законом интересы других лиц, экономический суд распределяет госпошлину в соответствии с этим соглашением (<span num="51" lnktype="intlnk" title="В случае если лица, участвующие в деле, заключили мировое соглашение, в котором содержатся условия о распределении судебных расходов по государственной пошлине, не противоречащие..." class="doc">абз. 1</span> п. 24 постановления Пленума). Если же в мировом соглашении отсутствует условие о распределении судебных расходов по госпошлине, экономический суд разрешает этот вопрос при утверждении мирового соглашения в общем порядке (<span num="53" lnktype="intlnk" title="Если в мировом соглашении отсутствует условие о распределении судебных расходов по государственной пошлине, экономический суд разрешает этот вопрос при утверждении мирового соглашения..." class="doc">абз. 2</span> пункта 24 постановления Пленума).</p></div><a data-anchor="/document/16/205029/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/205029/bssPhr26/"></a><a data-anchor="/document/16/205029/dfasi8gys4/" data-dfa="dfasi8gys4"></a>Кто освобожден от уплаты госпошлины в судах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205029/bssPhr28/"></a><a data-anchor="/document/16/205029/dfas0q01pm/" data-dfa="dfas0q01pm"></a>С полным перечнем обстоятельств, при которых лица освобождаются от уплаты госпошлины в гражданских, экономических и административных судах, можно ознакомиться в статьях <span num="56" target="_self" lnktype="intlnk" title="" class="doc">Закона</span> «О государственной пошлине».</p><p><a data-anchor="/document/16/205029/bssPhr29/"></a><a data-anchor="/document/16/205029/dfas1h4x2h/" data-dfa="dfas1h4x2h"></a>На практике бухгалтеры чаще всего сталкиваются со следующими случаями, при которых предусмотрено освобождение от уплаты госпошлины в судах.</p><p><a data-anchor="/document/16/205029/bssPhr30/"></a><a data-anchor="/document/16/205029/dfasxd9w3m/" data-dfa="dfasxd9w3m"></a><strong>В гражданских судах:</strong></p><p><a data-anchor="/document/16/205029/bssPhr31/"></a><a data-anchor="/document/16/205029/dfas7x5vg4/" data-dfa="dfas7x5vg4"></a>1) юридические и физические лица – по жалобам на действия или бездействие государственного исполнителя (<span num="58" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в судах по гражданским делам освобождаются: ..." class="doc">п. 8</span> ст. 8 Закона о госпошлине);<br>2) субъекты предпринимательства, когда подают в суд на решения государственных и иных органов, действия либо бездействие их должностных лиц о нарушении их прав и законных интересов, связанных с предпринимательской деятельностью (<span num="60" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в судах по гражданским делам освобождаются:..." class="doc">п. 9</span> ст. 8 Закона о госпошлине);<br>3) ННО при обжаловании в суд неправомерных решений государственных органов, действий либо бездействия их должностных лиц, нарушающих их права и законные интересы (<span num="62" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в судах по гражданским делам освобождаются: ..." class="doc">п. 15</span> ст. 8 Закона о госпошлине);<br>4) юрлица – заказчики при строительстве индивидуального жилья по договору с индивидуальным застройщиком в сельской местности по типовым проектам, – по искам о разрешении споров с застройщиками по вопросам этого строительства (<span num="64" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в судах по гражданским делам освобождаются: ..." class="doc">п. 33</span> ст. 8 Закона о госпошлине);<br>5) коммерческие банки, которые выдают льготные кредиты на строительство индивидуального жилья в сельской местности по типовым проектам, – по искам о взыскании кредиторской задолженности заемщиков по льготным ипотечным кредитам, выданным для этого строительства (<span num="66" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в судах по гражданским делам освобождаются: ..." class="doc">п. 34</span> ст. 8 Закона о госпошлине);<br>6) акционерные общества с иностранными инвестициями – по искам о нарушении их прав и законных интересов (<span num="68" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в судах по гражданским делам освобождаются:" class="doc">п. 35</span> ст. 8 Закона о госпошлине);<br>7) субъекты предпринимательства – при подаче заявления о выдаче исполнительного листа на принудительное исполнение решений третейского суда (<span num="70" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в судах по гражданским делам освобождаются:" class="doc">п. 36</span> ст. 8 Закона о госпошлине).</p><p><a data-anchor="/document/16/205029/bssPhr32/"></a><a data-anchor="/document/16/205029/dfas4z0gcf/" data-dfa="dfas4z0gcf"></a>В случае полного или частичного отказа в удовлетворении требований лиц, указанных в вышеперечисленных пунктах (кроме третьего, то есть ННО), госпошлина взыскивается с этих лиц пропорционально размеру требований, в удовлетворении которых отказано (<span num="72" target="_self" lnktype="intlnk" title="В случае полного или частичного отказа в удовлетворении требований лиц, указанных в пунктах ..." class="doc">ч. 2</span> ст. 8 Закона о госпошлине).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205029/dfas4brcko/" data-dfa="dfas4brcko"></a><a data-anchor="/document/16/205029/bssPhr33/"></a>Банк, уполномоченный выдавать льготные кредиты на строительство индивидуального жилья в сельской местности по типовым проектам, обратился в суд с иском о взыскании кредиторской задолженности заемщика по льготному ипотечному кредиту.&nbsp;</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205029/bssPhr34/"></a><a data-anchor="/document/16/205029/dfas41s95z/" data-dfa="dfas41s95z"></a>Банк при подаче этого иска был освобожден от уплаты госпошлины на основании пункта 34 статьи 8 Закона о госпошлине.</p><p><a data-anchor="/document/16/205029/bssPhr35/"></a><a data-anchor="/document/16/205029/dfaslq82ni/" data-dfa="dfaslq82ni"></a>Общая цена исковых требований составила 100 000 000 сумов. Суд своим решением обязал заемщика выплатить банку 70 000 000 сумов. В удовлетворении остальных 30 000 000 сумов, то есть 30 процентов от общего размера исковых требований было отказано. Банк на основании решения должен уплатить 30 процентов от госпошлины, предусмотренной законодательством.</p><p><a data-anchor="/document/16/205029/bssPhr36/"></a><a data-anchor="/document/16/205029/dfastnarv1/" data-dfa="dfastnarv1"></a>Так как это исковое заявление имущественного характера, то ставка госпошлины для всего иска составит 4 процента от цены иска, но не менее 1 БРВ (<span num="74" target="_self" lnktype="intlnk" title="" class="doc">приложение</span> к Закону о госпошлине):</p><p><a data-anchor="/document/16/205029/bssPhr37/"></a><a data-anchor="/document/16/205029/dfas59bcgy/" data-dfa="dfas59bcgy"></a>4 % × 100 000 000 сумов = 4 000 000сумов – это сумма госпошлины за всю сумму иска.</p><p><a data-anchor="/document/16/205029/bssPhr38/"></a><a data-anchor="/document/16/205029/dfasw65q8g/" data-dfa="dfasw65q8g"></a>Однако банк должен уплатить госпошлину только пропорционально размеру требований, в удовлетворении которых отказано, то есть 30 процентов от общей цены госпошлины:</p><p><a data-anchor="/document/16/205029/bssPhr39/"></a><a data-anchor="/document/16/205029/dfasx9fa6z/" data-dfa="dfasx9fa6z"></a>30 % × 4 000 000 сумов = 1 200 000 сумов должен уплатить банк в этом конкретном случае.</p></div></div><p><a data-anchor="/document/16/205029/bssPhr40/"></a><a data-anchor="/document/16/205029/dfasaygr6p/" data-dfa="dfasaygr6p"></a><strong>В экономических судах:</strong></p><p><a data-anchor="/document/16/205029/bssPhr41/"></a><a data-anchor="/document/16/205029/dfaserger0/" data-dfa="dfaserger0"></a>1) акционерные общества с иностранными инвестициями – по искам о нарушении их прав и законных интересов (<span num="76" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в экономических судах освобождаются:" class="doc">п. 20</span> ст. 9 Закона о госпошлине);<br>2) субъекты предпринимательства – при подаче заявления о выдаче исполнительного листа на принудительное исполнение решений третейского суда (<span num="78" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в экономических судах освобождаются: ..." class="doc">п. 21</span> ст. 9 Закона о госпошлине).</p><p><a data-anchor="/document/16/205029/bssPhr42/"></a><a data-anchor="/document/16/205029/dfaskb4ykp/" data-dfa="dfaskb4ykp"></a>Однако, в случае полного или частичного отказа в удовлетворении требований лиц, указанных в приведенных выше двух пунктах, госпошлина взыскивается с этих лиц пропорционально размеру требований, в удовлетворении которых отказано (<span num="80" target="_self" lnktype="intlnk" title="В случае полного или частичного отказа в удовлетворении требований лиц ..." class="doc">ч. 2</span> ст. 9 Закона о госпошлине).</p><p><a data-anchor="/document/16/205029/bssPhr43/"></a><a data-anchor="/document/16/205029/dfasnw7z8o/" data-dfa="dfasnw7z8o"></a>В экономических судах по делам о применении мер правового воздействия обе стороны освобождаются от уплаты госпошлины независимо от исхода дела (<span num="82" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в экономических судах освобождаются: ..." class="doc">п. 19</span> ст. 9 Закона о госпошлине). Эта льгота применяется к ним также при обращении с апелляционными и кассационными жалобами на судебные акты (<span num="84" lnktype="intlnk" title="Обратить внимание судов, что согласно пункту 31 статьи 330 НК по делам о применении мер правового воздействия заявитель и ответчик освобождены от уплаты государственной пошлины. Настоящая..." class="doc">п. 26.4</span> постановления Пленума). Перечень мер правового воздействия предусмотрен в <span num="86" lnktype="intlnk" title="" class="doc">статье 217</span> ЭПК.</p><p><a data-anchor="/document/16/205029/bssPhr44/"></a><a data-anchor="/document/16/205029/dfasog0a3l/" data-dfa="dfasog0a3l"></a><strong>В административных судах:</strong></p><p><a data-anchor="/document/16/205029/bssPhr45/"></a><a data-anchor="/document/16/205029/dfasigm94r/" data-dfa="dfasigm94r"></a>1) субъекты предпринимательства – при обращении в суд на решения, действия либо бездействие органов государственного управления, иных органов, уполномоченных на осуществление административно-правовой деятельности, органов самоуправления граждан, их должностных лиц, нарушающие их права и законные интересы, связанные с предпринимательской деятельностью (<span num="88" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в административных судах освобождаются: ..." class="doc">п. 1</span> ст. 10 Закона о госпошлине);<br>2) юридические и физические лица – по заявлениям, жалобам на действия либо бездействие государственного исполнителя (<span num="90" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в административных судах освобождаются:" class="doc">п. 9</span> ст. 10 Закона о госпошлине);<br>3) собственники – по делам об обжаловании в суд решений государственных и иных органов, органов самоуправления граждан, действий либо бездействия их должностных лиц о нарушении их прав и законных интересов, связанных с осуществлением права частной собственности (<span num="92" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в административных судах освобождаются:" class="doc">п. 11</span> ст. 10 Закона о госпошлине);<br>4) акционерные общества с иностранными инвестициями – по заявлениям, жалобам о нарушении их прав и законных интересов (<span num="94" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в административных судах освобождаются: ..." class="doc">п. 12</span> ст. 10 Закона о госпошлине).</p><p><a data-anchor="/document/16/205029/bssPhr46/"></a><a data-anchor="/document/16/205029/dfas17w3kz/" data-dfa="dfas17w3kz"></a>Однако, в случае полного или частичного отказа в удовлетворении требований вышеуказанных четырех категорий лиц, государственная пошлина взыскивается с этих лиц пропорционально размеру требований, в удовлетворении которых отказано (<span num="96" target="_self" lnktype="intlnk" title="В случае полного или частичного отказа в удовлетворении требований лиц..." class="doc">ч. 2</span> ст. 10 Закона о госпошлине).</p></div><a data-anchor="/document/16/205029/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/205029/bssPhr47/"></a><a data-anchor="/document/16/205029/dfasukxz75/" data-dfa="dfasukxz75"></a>Освобождение по принципу «обращение госоргана в суд в интересах юридических и физических лиц»</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205029/bssPhr49/"></a><a data-anchor="/document/16/205029/dfas1lguvm/" data-dfa="dfas1lguvm"></a>Существует несколько государственных органов, при обращении через которые в гражданский, экономический, административный суд предусмотрено освобождение от уплаты госпошлины. Это означает, что эти органы сами обращаются в суд в интересах, к примеру, юрлица. Но чтобы инициировать такой процесс, юрлицо или физлицо сначала должно обратиться в один из нижеперечисленных органов:</p><p><a data-anchor="/document/16/205029/bssPhr50/"></a><a data-anchor="/document/16/205029/dfasghwdup/" data-dfa="dfasghwdup"></a>1) торгово-промышленная палата и ее территориальные управления – по искам в интересах членов палаты – для пользования льготой необходимо быть действующим членом ТПП (<span num="125" target="_self" lnktype="intlnk" title="14) Торгово-промышленная палата Республики Узбекистан и ее территориальные управления — по искам в интересах членов палаты, а также по жалобам на решения органов государственного и хозяйственного управления, органов государственной власти на местах, действия (бездействие) их должностных лиц;" class="doc">п. 14</span> ст. 8, <span num="126" target="_self" lnktype="intlnk" title="2) Торгово-промышленная палата Республики Узбекистан и ее территориальные управления — по искам в интересах членов палаты;" class="doc">п. 2</span> ст. 9, <span num="127" target="_self" lnktype="intlnk" title="2) Торгово-промышленная палата Республики Узбекистан и ее территориальные управления — по заявлениям в интересах членов палаты на решения, действия (бездействие) органов государственного управления, иных органов, уполномоченных на осуществление административно-правовой деятельности, органов самоуправления граждан, их должностных лиц;" class="doc">п. 2</span> ст. 10 Закона о госпошлине). Дополнительную информацию по преимуществам членства в ТПП и о членских взносах можно узнать по номеру (+998 71) 150-60-06, 150-60-05 или же на <a href="http://www.chamber.uz/ru/page/3390" title="">сайте ТПП</a>.<br>2) органы прокуратуры – по искам и заявлениям, подаваемым в интересах юридических и физических лиц (<span num="99" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в судах по гражданским делам освобождаются: ..." class="doc">п. 25</span> ст. 8, <span num="101" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в экономических судах освобождаются:..." class="doc">п. 13</span> ст. 9, <span num="103" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в административных судах освобождаются: ..." class="doc">п. 7</span> ст. 10 Закона о госпошлине);<br>3) органы юстиции – по искам и заявлениям, подаваемым в интересах юридических и физических лиц (<span num="105" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в судах по гражданским делам освобождаются:..." class="doc">п. 26</span> ст. 8, <span num="107" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в экономических судах освобождаются:" class="doc">п. 14</span> ст. 9, <span num="109" target="_self" lnktype="intlnk" title="От уплаты государственной пошлины в административных судах освобождаются:..." class="doc">п. 8</span> ст. 10 Закона о госпошлине).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205029/dfasp83qdg/" data-dfa="dfasp83qdg"></a><a data-anchor="/document/16/205029/bssPhr51/"></a>В случае отказа в удовлетворении или частичном удовлетворении требований, заявленных освобожденными от уплаты госпошлины госорганами и иными лицами в интересах юридических и физических лиц,&nbsp;</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205029/bssPhr52/"></a><a data-anchor="/document/16/205029/dfasfcgby9/" data-dfa="dfasfcgby9"></a>госпошлина взыскивается с лиц, в интересах которых заявлено требование, пропорционально той части требований, в удовлетворении которой отказано (ч. 28 ст. 19 Закона о госпошлине).</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205029/dfasxwqdds/" data-dfa="dfasxwqdds"></a><a data-anchor="/document/16/205029/bssPhr53/"></a>ООО является членом ТПП.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205029/bssPhr54/"></a><a data-anchor="/document/16/205029/dfasdnrmko/" data-dfa="dfasdnrmko"></a>ООО обратилось в ТПП с заявлением о защите его интересов в экономическом суде против другого юрлица по делу о просрочке оплаты поставленных товаров. ТПП, изучив материалы, подготовила исковое заявление в экономический суд и 1 февраля 2019 года подала его в интересах ООО – своего члена. Цена иска составила 20 000 000сумов.</p><p><a data-anchor="/document/16/205029/bssPhr55/"></a><a data-anchor="/document/16/205029/dfasu8ydcb/" data-dfa="dfasu8ydcb"></a>Если бы ООО напрямую без ТПП обратилось бы в экономический суд, то оно уплатило бы госпошлину на общих основаниях. В экономических судах с исковых заявлений имущественного характера госпошлина составляет 2 процента от цены иска, но не менее БРВ (<span num="113" target="_self" lnktype="intlnk" title="" class="doc">приложение</span> к Закону о госпошлине). Госпошлина в данном случае составила бы 400 000 сумов (20 000 000 × 2% = 400 000 сумов). Но благодаря ТПП, ООО было освобождено от уплаты госпошлины.</p><p><a data-anchor="/document/16/205029/bssPhr56/"></a><a data-anchor="/document/16/205029/dfasanm3zw/" data-dfa="dfasanm3zw"></a>Суд своим решением удовлетворил 12 000 000 сумов от общей суммы иска, то есть только 60 процентов от первоначально заявленных требований, в удовлетворении остальных 40 процентов (8 000 000 сумов) отказал. Поэтому ООО после вынесения решения должно все же уплатить госпошлину, исчисляемую от неудовлетворенной части иска, то есть 40 процентов от общей суммы иска. Эта сумма составит 160 000 сумов, исчисленная следующим образом:</p><p><a data-anchor="/document/16/205029/bssPhr57/"></a><a data-anchor="/document/16/205029/dfaszcfi1d/" data-dfa="dfaszcfi1d"></a>2 процента от неудовлетворенной части иска, то есть от 8 000 000 сумов = 2 % × 8 000 000 = 160 000 сумов</p><p><a data-anchor="/document/16/205029/bssPhr58/"></a><a data-anchor="/document/16/205029/dfasbgc3ta/" data-dfa="dfasbgc3ta"></a>Госпошлина с исковых заявлений имущественного характера не должна быть менее одного БРВ (<span num="115" target="_self" lnktype="intlnk" title="" class="doc">приложение</span> к Закону о госпошлине). С учетом того, что с 1января 2020 года БРВ составляет 223 000сумов, то истец в данном случае должен уплатить сумму 1 БРВ 223 000 сумов.</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205029/dfas6ha0hg/" data-dfa="dfas6ha0hg"></a><a data-anchor="/document/16/205029/bssPhr59/"></a>наличие освобождения от уплаты госпошлин не должно приводить к преднамеренным необоснованным искам в отношении других лиц. Иначе, платить все равно придется.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205029/bssPhr60/"></a><a data-anchor="/document/16/205029/dfasmfexvt/" data-dfa="dfasmfexvt"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div><p><a data-anchor="/document/16/205029/bssPhr61/"></a><a data-anchor="/document/16/205029/dfasqb5km7/" data-dfa="dfasqb5km7"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

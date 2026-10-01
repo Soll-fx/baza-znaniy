@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как учесть выплату выходного пособия при прекращении трудового договора</h2><div class="doc-snippet"><a data-anchor="/document/16/218734/dfasvbkcqw/" data-dfa="dfasvbkcqw"></a><a data-anchor="/document/16/218734/bssPhr3/"></a>Из&nbsp;рекомендации узнаете как рассчитать выходное пособие по новым правилам&nbsp;обновленной статьи <span num="201" target="_self" lnktype="intlnk" title="" class="doc">257</span> ТК. Эксперты пояснили, какими налогами облагать выходное пособие и&nbsp;на&nbsp;примере показали, как рассчитать и&nbsp;отразить в&nbsp;бухучете выходное пособие, которое выплатили уволенному работнику. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218734/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218734/bssPhr4/"></a><a data-anchor="/document/16/218734/dfasrucbnk/" data-dfa="dfasrucbnk"></a>Выплата выходного пособия</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218734/bssPhr6/"></a><a data-anchor="/document/16/218734/dfasztwiio/" data-dfa="dfasztwiio"></a>Выходное пособие&nbsp;— это единовременная выплата работнику, которую производит работодатель при прекращении с&nbsp;ним трудового договора по&nbsp;отдельным основаниям.</p><p><a data-anchor="/document/16/218734/bssPhr7/"></a><a data-anchor="/document/16/218734/dfas0kb9rn/" data-dfa="dfas0kb9rn"></a>С&nbsp;30.04.2023г. порядок выплаты выходного пособия при прекращении трудового договора предусмотрен в <span num="143" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;173</span> нового ТК.</p><p><a data-anchor="/document/16/218734/bssPhr8/"></a><a data-anchor="/document/16/218734/dfasiios88/" data-dfa="dfasiios88"></a><span num="2" target="_self" lnktype="intlnk" title="" class="doc">Выходное пособие</span>, выплачивается при прекращении трудового договора:</p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr9/"></a><a data-anchor="/document/16/218734/dfasis4pka/" data-dfa="dfasis4pka"></a>по&nbsp;инициативе работодателя, кроме прекращения договора по&nbsp;основаниям, связанным с&nbsp;виновными действиями (бездействием) работника;</li><li><a data-anchor="/document/16/218734/dfash6nqng/" data-dfa="dfash6nqng"></a>по&nbsp;обстоятельствам, не&nbsp;зависящим от&nbsp;воли сторон;</li><li>в&nbsp;связи с&nbsp;отказом работника от&nbsp;продолжения работы в&nbsp;новых условиях труда (<span num="144" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;137&nbsp;ТК</span>);</li><li>в&nbsp;связи с&nbsp;отказом работника от&nbsp;перевода в&nbsp;соответствии с&nbsp;медицинским заключением на&nbsp;другую работу, не&nbsp;противопоказанную ему по&nbsp;состоянию здоровья, либо отсутствием у&nbsp;работодателя соответствующей работы;</li><li>в&nbsp;связи с&nbsp;отказом работника от&nbsp;переезда на&nbsp;работу в&nbsp;другую местность вместе с&nbsp;работодателем;</li><li>в&nbsp;связи с&nbsp;отказом работника от&nbsp;продолжения работы в&nbsp;связи со&nbsp;сменой собственника организации, ее&nbsp;реорганизацией, изменением подведомственности (подчиненности).</li></ul><p><a data-anchor="/document/16/218734/bssPhr10/"></a><a data-anchor="/document/16/218734/dfasn8q9a7/" data-dfa="dfasn8q9a7"></a>Обстоятельствами, не&nbsp;зависящими от&nbsp;воли сторон, по&nbsp;которым выплачивается выходное пособие при прекращении трудового договора, являются:</p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr11/"></a><a data-anchor="/document/16/218734/dfaswuen7t/" data-dfa="dfaswuen7t"></a>призыв работника на&nbsp;военную или альтернативную службу (<span num="145" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;168&nbsp;ТК). За&nbsp;исключением службы в&nbsp;мобилизационном призывном резерве. С&nbsp;работником, призванным на&nbsp;военную службу в&nbsp;мобилизационно-призывном резерве, трудовой договор по&nbsp;инициативе работодателя <strong>не&nbsp;может быть прекращен </strong> в&nbsp;период со&nbsp;дня получения справки о&nbsp;направлении на&nbsp;военные сборы до&nbsp;возвращения с&nbsp;них, кроме случаев ликвидации организации (<span num="53" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ПКМ №&nbsp;99&nbsp;от&nbsp;22.02.2003);</li><li>восстановление на&nbsp;работе работника, который ранее выполнял эту работу (<span num="146" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;168&nbsp;ТК);</li><li>вступление в&nbsp;законную силу решения суда о&nbsp;ликвидации организации или о&nbsp;прекращении деятельности индивидуального предпринимателя, являющегося работодателем (<span num="147" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;6</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;168&nbsp;ТК);</li><li>возвращение депутата Законодательной палаты, а&nbsp;также члена Сената Олий Мажлиса Республики Узбекистан, работавшего в&nbsp;Сенате на&nbsp;постоянной основе, на&nbsp;прежнюю должность (работу) в&nbsp;связи с&nbsp;истечением срока полномочий или роспуском Законодательной палаты и&nbsp;Сената Олий Мажлиса Республики Узбекистан (<span num="148" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;9</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;168&nbsp;ТК);</li><li>нарушение установленных правил приема на&nbsp;работу, если допущенное нарушение не&nbsp;может быть устранено и&nbsp;препятствует продолжению работы (<span num="149" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;168&nbsp;ТК). За&nbsp;исключением случаев, когда установленные правила приема были нарушены по&nbsp;вине работника. А&nbsp;именно, работник сокрыл приговора суда о&nbsp;лишении права занимать определенные должности или заниматься определенной деятельностью, предоставил подложные документов, либо, действия работника привели к&nbsp;наступлению обстоятельств, которые в&nbsp;соответствии с&nbsp;законодательством препятствуют продолжению индивидуального трудового отношения (<span num="150" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;173&nbsp;ТК);</li><li>наступление обстоятельств, которые в&nbsp;соответствии с&nbsp;законодательством препятствуют продолжению трудовых отношений&nbsp;— признание работника полностью неспособным к&nbsp;трудовой деятельности в&nbsp;соответствии с&nbsp;медицинским заключением, выданным в&nbsp;установленном порядке, а&nbsp;также прекращение допуска к&nbsp;государственным секретам, если выполняемая работа требует такого допуска, лишение разрешения или лицензии на&nbsp;выполнение определенной работы и&nbsp;другие (<span num="151" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;5</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;168&nbsp;ТК). За&nbsp;исключением случаев, когда установленные правила приема были нарушены по&nbsp;вине работника. А&nbsp;именно, работник сокрыл приговора суда о&nbsp;лишении права занимать определенные должности или заниматься определенной деятельностью, предоставил подложные документов, либо, действия работника привели к&nbsp;наступлению обстоятельств, которые в&nbsp;соответствии с&nbsp;законодательством препятствуют продолжению индивидуального трудового отношения (<span num="152" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;173&nbsp;ТК).</li></ul><p><a data-anchor="/document/16/218734/bssPhr12/"></a><a data-anchor="/document/16/218734/dfasxvgnbd/" data-dfa="dfasxvgnbd"></a>Прекращение трудового договора оформляйте приказом (распоряжением) руководителя предприятия. Запись об&nbsp;увольнении внесите в&nbsp;личный листок работника по <span num="59" target="_self" lnktype="intlnk" title="" class="doc">форме Т-2</span> и&nbsp;выдайте уволенному работнику справку о&nbsp;полученных им&nbsp;доходах и&nbsp;уплаченных налогах.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязан&#160;ли работодатель выплатить выходное пособие при увольнении работника по&#160;соглашению сторон</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218734/bssPhr14/"></a><a data-anchor="/document/16/218734/dfas7zfvz8/" data-dfa="dfas7zfvz8"></a>Нет, не&nbsp;обязан.</p><p><a data-anchor="/document/16/218734/bssPhr15/"></a><a data-anchor="/document/16/218734/dfasrw4kxg/" data-dfa="dfasrw4kxg"></a>Выходное пособие работодатель выплачивает работнику при прекращении с&nbsp;ним трудового договора (<span num="190" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;173&nbsp;ТК):</p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr16/"></a><a data-anchor="/document/16/218734/dfas1ch7cc/" data-dfa="dfas1ch7cc"></a>по&nbsp;инициативе работодателя, кроме увольнения в&nbsp;связи с&nbsp;виновными действиями (бездействием) работника;</li><li>по&nbsp;обстоятельствам, не&nbsp;зависящим от&nbsp;воли сторон, за&nbsp;исключением отдельных случаев;</li><li>в&nbsp;связи с&nbsp;отказом работника от&nbsp;продолжения работы в&nbsp;новых условиях труда;</li><li>в&nbsp;связи с&nbsp;отказом работника от&nbsp;перевода согласно медицинскому заключению на&nbsp;другую работу, не&nbsp;противопоказанную ему по&nbsp;состоянию здоровья, либо отсутствием у&nbsp;работодателя соответствующей работы;</li><li>в&nbsp;связи с&nbsp;отказом работника от&nbsp;переезда на&nbsp;работу в&nbsp;другую местность вместе с&nbsp;работодателем;</li><li>в&nbsp;случае отказа работника от&nbsp;продолжения работы в&nbsp;связи со&nbsp;сменой собственника организации, ее&nbsp;реорганизацией, изменением подведомственности (подчиненности).</li></ul><p><a data-anchor="/document/16/218734/bssPhr17/"></a><a data-anchor="/document/16/218734/dfasovaiaf/" data-dfa="dfasovaiaf"></a>Статья <span num="191" target="_self" lnktype="intlnk" title="" class="doc">173</span>&nbsp;ТК не&nbsp;предусматривает выплату выходного пособия при прекращении трудового договора по&nbsp;другим основаниям.</p><p><a data-anchor="/document/16/218734/bssPhr18/"></a><a data-anchor="/document/16/218734/dfas96idfn/" data-dfa="dfas96idfn"></a>Прекращение трудового договора с&nbsp;работником по&nbsp;соглашению сторон не&nbsp;входит в&nbsp;перечень оснований, по&nbsp;которым работодатель обязан выплатить выходное пособие (<span num="192" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;157</span>&nbsp;ТК).</p><p><a data-anchor="/document/16/218734/bssPhr19/"></a><a data-anchor="/document/16/218734/dfas2wmok8/" data-dfa="dfas2wmok8"></a>Выходное пособие&nbsp;— это единовременная денежная выплата работнику при прекращении с&nbsp;ним трудового договора по&nbsp;отдельным основаниям, производимая с&nbsp;целью смягчения последствий потери работником работы (<span num="193" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;173&nbsp;ТК).</p></div></div></div><a data-anchor="/document/16/218734/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218734/bssPhr20/"></a><a data-anchor="/document/16/218734/dfaslxmxg5/" data-dfa="dfaslxmxg5"></a><a data-anchor="/document/16/218734/dfasusgmvd/" data-dfa="dfasusgmvd"></a>Расчет выходного пособия</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218734/bssPhr22/"></a><a data-anchor="/document/16/218734/dfasoe621d/" data-dfa="dfasoe621d"></a>Размер выходного пособия зависит&nbsp;от:</p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr23/"></a><a data-anchor="/document/16/218734/dfas20kgg0/" data-dfa="dfas20kgg0"></a>стажа работы у&nbsp;данного работодателя;</li><li>категории работника.</li></ul><p><a data-anchor="/document/16/218734/bssPhr24/"></a><a data-anchor="/document/16/218734/dfas8l7l96/" data-dfa="dfas8l7l96"></a><strong>Размер выходного пособия в&nbsp;зависимости от&nbsp;стажа работы у&nbsp;данного работодателя (<span num="153" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;173&nbsp;ТК):</strong></p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width:43.2%"><p style="text-align:center"><a data-anchor="/document/16/218734/bssPhr25/"></a><a data-anchor="/document/16/218734/dfas2n9elb/" data-dfa="dfas2n9elb"></a><strong>Стаж работ</strong></p></td><td class="bdTopbdBottombdRight" style="width:43.3%"><p style="text-align:center"><a data-anchor="/document/16/218734/bssPhr26/"></a><a data-anchor="/document/16/218734/dfas57lbt6/" data-dfa="dfas57lbt6"></a><strong>Размер пособия</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:43.2%"><p><a data-anchor="/document/16/218734/bssPhr27/"></a><a data-anchor="/document/16/218734/dfasqaeqi8/" data-dfa="dfasqaeqi8"></a>до&nbsp;трех лет</p></td><td class="bdBottombdRight" style="width:43.3%"><p><a data-anchor="/document/16/218734/bssPhr28/"></a><a data-anchor="/document/16/218734/dfas5wsbz8/" data-dfa="dfas5wsbz8"></a>50% от&nbsp;среднего месячного заработка работника</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:43.2%"><p><a data-anchor="/document/16/218734/bssPhr29/"></a><a data-anchor="/document/16/218734/dfaspa3gbb/" data-dfa="dfaspa3gbb"></a>от&nbsp;трех до&nbsp;пяти лет</p></td><td class="bdBottombdRight" style="width:43.3%"><p><a data-anchor="/document/16/218734/bssPhr30/"></a><a data-anchor="/document/16/218734/dfasy0nenp/" data-dfa="dfasy0nenp"></a>75% от&nbsp;среднего месячного заработка работника</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:43.2%"><p><a data-anchor="/document/16/218734/bssPhr31/"></a><a data-anchor="/document/16/218734/dfaswczc22/" data-dfa="dfaswczc22"></a>от&nbsp;пяти до&nbsp;десяти лет</p></td><td class="bdBottombdRight" style="width:43.3%"><p><a data-anchor="/document/16/218734/bssPhr32/"></a><a data-anchor="/document/16/218734/dfash18no4/" data-dfa="dfash18no4"></a>100% от&nbsp;среднего месячного заработка работника</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:43.2%"><p><a data-anchor="/document/16/218734/bssPhr33/"></a><a data-anchor="/document/16/218734/dfasrpd9gg/" data-dfa="dfasrpd9gg"></a>от&nbsp;десяти до&nbsp;пятнадцати лет</p></td><td class="bdBottombdRight" style="width:43.3%"><p><a data-anchor="/document/16/218734/bssPhr34/"></a><a data-anchor="/document/16/218734/dfasggxtq1/" data-dfa="dfasggxtq1"></a>150% от&nbsp;среднего месячного заработка работника</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:43.2%"><p><a data-anchor="/document/16/218734/bssPhr35/"></a><a data-anchor="/document/16/218734/dfasf7pwbw/" data-dfa="dfasf7pwbw"></a>свыше пятнадцати лет</p></td><td class="bdBottombdRight" style="width:43.3%"><p><a data-anchor="/document/16/218734/bssPhr36/"></a><a data-anchor="/document/16/218734/dfasu8dsug/" data-dfa="dfasu8dsug"></a>200% от&nbsp;среднего месячного заработка работника</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218734/bssPhr37/"></a><a data-anchor="/document/16/218734/dfasg8fvh1/" data-dfa="dfasg8fvh1"></a><strong>Размер выходного пособия для отдельных категорий работников:</strong></p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width:28.9%"><p style="text-align:center"><a data-anchor="/document/16/218734/bssPhr38/"></a><a data-anchor="/document/16/218734/dfasxhmmas/" data-dfa="dfasxhmmas"></a><strong>Категория работников</strong></p></td><td class="bdTopbdBottombdRight" style="width:28.9%"><p style="text-align:center"><a data-anchor="/document/16/218734/bssPhr39/"></a><a data-anchor="/document/16/218734/dfasmomnhy/" data-dfa="dfasmomnhy"></a><strong>Размер пособия</strong></p></td><td class="bdTopbdBottombdRight" style="width:28.9%"><p style="text-align:center"><a data-anchor="/document/16/218734/bssPhr40/"></a><a data-anchor="/document/16/218734/dfasx2bq96/" data-dfa="dfasx2bq96"></a><strong>Основание </strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:28.9%"><p><a data-anchor="/document/16/218734/bssPhr41/"></a><a data-anchor="/document/16/218734/dfasle4zf4/" data-dfa="dfasle4zf4"></a>совместители</p></td><td class="bdBottombdRight" style="width:28.9%"><p><a data-anchor="/document/16/218734/bssPhr42/"></a><a data-anchor="/document/16/218734/dfasu1df5v/" data-dfa="dfasu1df5v"></a>двухнедельная средняя заработная плата</p></td><td class="bdBottombdRight" style="width:28.9%"><p style="text-align:center"><a data-anchor="/document/16/218734/bssPhr43/"></a><a data-anchor="/document/16/218734/dfas8iyvbg/" data-dfa="dfas8iyvbg"></a><span num="154" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;442</span>&nbsp;ТК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:28.9%"><p><a data-anchor="/document/16/218734/bssPhr44/"></a><a data-anchor="/document/16/218734/dfasv6fgi9/" data-dfa="dfasv6fgi9"></a>сезонные</p></td><td class="bdBottombdRight" style="width:28.9%"><p><a data-anchor="/document/16/218734/bssPhr45/"></a><a data-anchor="/document/16/218734/dfasd8x9uv/" data-dfa="dfasd8x9uv"></a>50% от&nbsp;средней месячной заработной платы</p></td><td class="bdBottombdRight" style="width:28.9%"><p style="text-align:center"><a data-anchor="/document/16/218734/bssPhr46/"></a><a data-anchor="/document/16/218734/dfasxh3typ/" data-dfa="dfasxh3typ"></a><span num="155" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;494</span>&nbsp;ТК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:28.9%"><p><a data-anchor="/document/16/218734/bssPhr47/"></a><a data-anchor="/document/16/218734/dfaskyq6yf/" data-dfa="dfaskyq6yf"></a>временные</p></td><td class="bdBottombdRight" style="width:28.9%"><p><a data-anchor="/document/16/218734/bssPhr48/"></a><a data-anchor="/document/16/218734/dfas67f8rt/" data-dfa="dfas67f8rt"></a>не&nbsp;выплачивается, если выплата не&nbsp;предусмотрена в&nbsp;коллективном или трудовом договоре</p></td><td class="bdBottombdRight" style="width:28.9%"><p style="text-align:center"><a data-anchor="/document/16/218734/bssPhr49/"></a><a data-anchor="/document/16/218734/dfaskzu71o/" data-dfa="dfaskzu71o"></a><span num="156" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;499</span>&nbsp;ТК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:28.9%"><p><a data-anchor="/document/16/218734/bssPhr50/"></a><a data-anchor="/document/16/218734/dfaso8utc5/" data-dfa="dfaso8utc5"></a>работники микрофирм</p></td><td class="bdBottombdRight" style="width:28.9%"><p><a data-anchor="/document/16/218734/bssPhr51/"></a><a data-anchor="/document/16/218734/dfasuqq893/" data-dfa="dfasuqq893"></a>в&nbsp;порядке, определенном в&nbsp;трудовом договоре. Если порядок выплаты пособия не&nbsp;определен в&nbsp;трудовом договоре, то&nbsp;пособие выплачивается в&nbsp;общем порядке, предусмотренном в <span num="182" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;3</span>&nbsp;статьи&nbsp;173&nbsp;ТК</p></td><td class="bdBottombdRight" style="width:28.9%"><p style="text-align:center"><a data-anchor="/document/16/218734/bssPhr52/"></a><a data-anchor="/document/16/218734/dfashtxmxg/" data-dfa="dfashtxmxg"></a><span num="157" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;506</span>&nbsp;ТК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:28.9%"><p><a data-anchor="/document/16/218734/bssPhr53/"></a><a data-anchor="/document/16/218734/dfasgnm700/" data-dfa="dfasgnm700"></a>работники индивидуального предпринимателя</p></td><td class="bdBottombdRight" style="width:28.9%"><p><a data-anchor="/document/16/218734/bssPhr54/"></a><a data-anchor="/document/16/218734/dfasaxzxag/" data-dfa="dfasaxzxag"></a>определяется в&nbsp;трудовом договоре</p></td><td class="bdBottombdRight" style="width:28.9%"><p style="text-align:center"><a data-anchor="/document/16/218734/bssPhr55/"></a><a data-anchor="/document/16/218734/dfast4ml2a/" data-dfa="dfast4ml2a"></a><span num="158" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;511</span>&nbsp;ТК</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218734/bssPhr56/"></a><a data-anchor="/document/16/218734/dfasrqm9l5/" data-dfa="dfasrqm9l5"></a>Среднемесячную зарплату для оплаты выходного пособия рассчитывайте в&nbsp;соответствии с обновленной&nbsp;<span num="159" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;257</span>&nbsp;ТК.</p><p><a data-anchor="/document/16/218734/bssPhr57/"></a><a data-anchor="/document/16/218734/dfasd92gg8/" data-dfa="dfasd92gg8"></a>Расчет среднемесячной заработной платы в&nbsp;рекомендации "<span num="172" target="_self" lnktype="intlnk" title="" class="doc">Как рассчитать среднюю заработную плату</span>"</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218734/dfasoyubfh/" data-dfa="dfasoyubfh"></a><a data-anchor="/document/16/218734/bssPhr58/"></a>Матпомощь, выплачиваемую работникам по&nbsp;случаю рождения ребенка, вступления в&nbsp;брак работника или его детей, не&nbsp;включайте в&nbsp;состав доходов в виде оплаты труда при расчете среднего заработка, так как она относится к&nbsp;прочим доходам работника.</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/218734/bssPhr59/"></a><a data-anchor="/document/16/218734/dfasgqg63s/" data-dfa="dfasgqg63s"></a><span num="160" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;10</span>&nbsp;ст.&nbsp;377&nbsp;НК</p><p><a data-anchor="/document/16/218734/bssPhr60/"></a><a data-anchor="/document/16/218734/dfaspz9blm/" data-dfa="dfaspz9blm"></a>Несмотря на&nbsp;то, что она связана с&nbsp;событиями личного характера работника.</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218734/dfas36kb2n/" data-dfa="dfas36kb2n"></a><a data-anchor="/document/16/218734/bssPhr61/"></a>Как рассчитать выходное пособие при прекращении трудового договора</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218734/bssPhr62/"></a><a data-anchor="/document/16/218734/dfasxwxtvi/" data-dfa="dfasxwxtvi"></a>Работник увольняется 10&nbsp;марта по&nbsp;инициативе работодателя в&nbsp;связи с&nbsp;сокращением штата. Стаж работника в&nbsp;данной организации&nbsp;— 2&nbsp;года 3&nbsp;месяца.</p><p><a data-anchor="/document/16/218734/bssPhr63/"></a><a data-anchor="/document/16/218734/dfasxb6yo9/" data-dfa="dfasxb6yo9"></a><a data-anchor="/document/16/218734/dfasgww9qa/" data-dfa="dfasgww9qa"></a>Должностной оклад в&nbsp;за последние 12 месяцев&nbsp;— 60 000 000 сум. (по 5&nbsp;000&nbsp;000&nbsp;сум. ежемесячно).&nbsp;За расчетный период (март 2024 года – февраль 2025 года) ему было также выплачена премия в размере 3 600 000 сум.</p><p><a data-anchor="/document/16/218734/bssPhr64/"></a><a data-anchor="/document/16/218734/dfasqcnc4h/" data-dfa="dfasqcnc4h"></a>Среднемесячная зарплата работника:</p><p><a data-anchor="/document/16/218734/bssPhr65/"></a><a data-anchor="/document/16/218734/dfasr36h9c/" data-dfa="dfasr36h9c"></a>(60&nbsp;000&nbsp;000&nbsp;сум. + 3 600 000&nbsp;сум.)&nbsp;÷ 12 = 5&nbsp;300&nbsp;000&nbsp;сум.</p><p><a data-anchor="/document/16/218734/bssPhr66/"></a><a data-anchor="/document/16/218734/dfasigze1e/" data-dfa="dfasigze1e"></a>Выходное пособие:</p><p><a data-anchor="/document/16/218734/bssPhr67/"></a><a data-anchor="/document/16/218734/dfasbr6cbc/" data-dfa="dfasbr6cbc"></a>5&nbsp;300&nbsp;000&nbsp;сум. × 50% = 2&nbsp;650&nbsp;000&nbsp;сум.</p><p><a data-anchor="/document/16/218734/bssPhr68/"></a><a data-anchor="/document/16/218734/dfasshf4ya/" data-dfa="dfasshf4ya"></a>Также работник должен получить на&nbsp;период поиска работы за&nbsp;первый месяц средний заработок за&nbsp;минусом выходного пособия&nbsp;— 2&nbsp;650&nbsp;000 сум.&nbsp;(5&nbsp;300&nbsp;000&nbsp;— 2&nbsp;650&nbsp;000).</p></div></div></div><a data-anchor="/document/16/218734/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218734/bssPhr69/"></a><a data-anchor="/document/16/218734/dfas9h991k/" data-dfa="dfas9h991k"></a><a data-anchor="/document/16/218734/dfasovezfa/" data-dfa="dfasovezfa"></a>Бухучет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218734/bssPhr71/"></a><a data-anchor="/document/16/218734/dfas3a7x70/" data-dfa="dfas3a7x70"></a>В&nbsp;бухучете начисление и&nbsp;выплату выходного пособия при увольнении работника отнесите на&nbsp;расходы периода и&nbsp;отразите на&nbsp;счете 9430 «Прочие операционные расходы» (<span data-warm-notices="41342926" data-warm-notice-type="error" num="42" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.3.9.3.</span> Положения о&nbsp;составе затрат).</p><p><a data-anchor="/document/16/218734/bssPhr72/"></a><a data-anchor="/document/16/218734/dfaswhlak3/" data-dfa="dfaswhlak3"></a>В&nbsp;бухучете сделайте проводки:</p><p><a data-anchor="/document/16/218734/bssPhr73/"></a><a data-anchor="/document/16/218734/dfas8v0unt/" data-dfa="dfas8v0unt"></a><strong>Дебет 9430 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr74/"></a><a data-anchor="/document/16/218734/dfas69i26d/" data-dfa="dfas69i26d"></a>начислено работникам выходное пособие при увольнении;</li></ul><p><a data-anchor="/document/16/218734/bssPhr75/"></a><a data-anchor="/document/16/218734/dfasy7of1w/" data-dfa="dfasy7of1w"></a><strong>Дебет 6710 Кредит 5010, 5530</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr76/"></a><a data-anchor="/document/16/218734/dfasnky1zs/" data-dfa="dfasnky1zs"></a>выплачено выходное пособие при увольнении (наличными из&nbsp;кассы предприятия или перечислением на&nbsp;пластиковую карту работника).</li></ul></div><a data-anchor="/document/16/218734/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218734/bssPhr77/"></a><a data-anchor="/document/16/218734/dfass4gcop/" data-dfa="dfass4gcop"></a><a data-anchor="/document/16/218734/dfasc71kxy/" data-dfa="dfasc71kxy"></a>Налогообложение выходного пособия</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218734/bssPhr83/"></a><a data-anchor="/document/16/218734/dfascy9qw3/" data-dfa="dfascy9qw3"></a>Сумма выходного пособия относится к&nbsp;прочим доходам работника (<span num="43" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;9</span>&nbsp;ст.&nbsp;377&nbsp;НК), соответственно:</p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr84/"></a><a data-anchor="/document/16/218734/dfaszcbdi6/" data-dfa="dfaszcbdi6"></a>облагается НДФЛ (<span num="44" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;365</span>, <span num="45" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;ст.&nbsp;370&nbsp;НК);</li><li>не&nbsp;облагается социальным налогом (<span num="46" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;403, <span num="47" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;404&nbsp;НК).</li></ul><p><a data-anchor="/document/16/218734/bssPhr85/"></a><a data-anchor="/document/16/218734/dfasruonrv/" data-dfa="dfasruonrv"></a>Предприятия&nbsp;— плательщики налога на&nbsp;прибыль вычитают сумму выходного пособия при расчете налога (<span num="48" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;305&nbsp;НК</span>).</p><p><a data-anchor="/document/16/218734/bssPhr86/"></a><a data-anchor="/document/16/218734/dfastgaq7v/" data-dfa="dfastgaq7v"></a>Предприятия&nbsp;— плательщики налога с&nbsp;оборота не&nbsp;уменьшают налоговую базу на&nbsp;сумму выходного пособия при расчете налога (<span num="49" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;463&nbsp;НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218734/dfasxrkdwm/" data-dfa="dfasxrkdwm"></a><a data-anchor="/document/16/218734/bssPhr87/"></a>Расчета и&nbsp;отражения в&nbsp;бухучете выходного пособия, выплаченного работнику, уволенному при ликвидации организации</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218734/bssPhr88/"></a><a data-anchor="/document/16/218734/dfasdeouce/" data-dfa="dfasdeouce"></a>С.А. Колесов работает водителем в&nbsp;ООО «Бета» 4&nbsp;года и&nbsp;5&nbsp;месяцев.&nbsp;10 марта 2025 года его уволили в&nbsp;связи с&nbsp;ликвидацией организации. Должностной оклад в за последние 12 месяцев — 60 000 000 сум. (по 5 000 000 сум. ежемесячно). За расчетный период (март 2024 года – февраль 2025 года) ему было также выплачена премия в размере 5 500 000 сум.</p><p><a data-anchor="/document/16/218734/bssPhr89/"></a><a data-anchor="/document/16/218734/dfas5ndxtg/" data-dfa="dfas5ndxtg"></a>При увольнении сотрудника в&nbsp;связи с&nbsp;ликвидацией организация выплачивает ему выходное пособие в&nbsp;размере 75&nbsp;% от&nbsp;среднего месячного заработка (<span num="161" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;173&nbsp;ТК).</p><p><a data-anchor="/document/16/218734/bssPhr90/"></a><a data-anchor="/document/16/218734/dfasv6cfa3/" data-dfa="dfasv6cfa3"></a>Среднемесячная заработная плата для оплаты выходного пособия определяется в&nbsp;порядке, установленном обновленной&nbsp;<span num="162" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;257</span>&nbsp;ТК.</p><p><a data-anchor="/document/16/218734/bssPhr91/"></a><a data-anchor="/document/16/218734/dfas9gsw8w/" data-dfa="dfas9gsw8w"></a>Во всех системах оплаты труда средняя зарплата определяется в размере 1/12 суммы от всех доходов в виде оплаты труда, начисленных работнику за 12 календарных месяцев, предшествующих месяцу, в котором за работником сохраняется средняя зарплата.</p><p><a data-anchor="/document/16/218734/bssPhr92/"></a><a data-anchor="/document/16/218734/dfaswlf9mh/" data-dfa="dfaswlf9mh"></a>Среднемесячный заработок Колесова для определения суммы выходного пособия составляет:</p><p><a data-anchor="/document/16/218734/bssPhr93/"></a><a data-anchor="/document/16/218734/dfasoqo7f8/" data-dfa="dfasoqo7f8"></a>(60 000 000 + 5 500 000) ÷ 12 = 5 458 333,33 сум.</p><p><a data-anchor="/document/16/218734/bssPhr94/"></a><a data-anchor="/document/16/218734/dfas56o2sl/" data-dfa="dfas56o2sl"></a>Сумма выходного пособия составила:</p><p><a data-anchor="/document/16/218734/bssPhr95/"></a><a data-anchor="/document/16/218734/dfas3isge6/" data-dfa="dfas3isge6"></a>5 458 333,33 ×75% = 4 093 750 сум.</p><p><a data-anchor="/document/16/218734/bssPhr96/"></a><a data-anchor="/document/16/218734/dfasx541cn/" data-dfa="dfasx541cn"></a>Выходное пособие, выплачиваемое при прекращении трудового договора, относится к&nbsp;прочим доходам работника (<span num="173" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;9</span>&nbsp;ст.&nbsp;377&nbsp;НК), соответственно:</p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr97/"></a><a data-anchor="/document/16/218734/dfasfwzhug/" data-dfa="dfasfwzhug"></a>облагается НДФЛ (<span num="174" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;365</span>, <span num="175" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;ст.&nbsp;370&nbsp;НК);</li><li>не&nbsp;облагается социальным налогом (<span num="164" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;403, <span num="165" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;404&nbsp;НК).</li></ul><p><a data-anchor="/document/16/218734/bssPhr98/"></a><a data-anchor="/document/16/218734/dfasutl1n2/" data-dfa="dfasutl1n2"></a>НДФЛ, начисленный с&nbsp;суммы выходного пособия, составит 491 250 сум.&nbsp;(4 093 750 × 12%).</p><p><a data-anchor="/document/16/218734/bssPhr99/"></a><a data-anchor="/document/16/218734/dfas4v63cs/" data-dfa="dfas4v63cs"></a>В&nbsp;бюджет ООО «Альфа» перечислило НДФЛ в&nbsp;размере 491 250 сум.&nbsp;</p><p><a data-anchor="/document/16/218734/bssPhr100/"></a><a data-anchor="/document/16/218734/dfas6l8eus/" data-dfa="dfas6l8eus"></a>Соответственно выходное пособие Колесову выплачивается в&nbsp;размере 3 602 000 сум.&nbsp;(4 093 250 –&nbsp;491 250).</p><p><a data-anchor="/document/16/218734/bssPhr101/"></a><a data-anchor="/document/16/218734/dfasn0fisg/" data-dfa="dfasn0fisg"></a>Бухгалтер «Альфы» сделал в&nbsp;учете проводки:</p><p><a data-anchor="/document/16/218734/bssPhr102/"></a><a data-anchor="/document/16/218734/dfasdloxk1/" data-dfa="dfasdloxk1"></a><strong>Дебет 9430 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr103/"></a><a data-anchor="/document/16/218734/dfasd53ygg/" data-dfa="dfasd53ygg"></a>4 093 750 сум.&nbsp;— начислено выходное пособие;</li></ul><p><a data-anchor="/document/16/218734/bssPhr104/"></a><a data-anchor="/document/16/218734/dfasut6qc1/" data-dfa="dfasut6qc1"></a><strong>Дебет 6710 Кредит 6410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr105/"></a><a data-anchor="/document/16/218734/dfasq1q59b/" data-dfa="dfasq1q59b"></a>491 250 сум.&nbsp;— удержан НДФЛ с&nbsp;суммы выходного пособия;</li></ul><p><a data-anchor="/document/16/218734/bssPhr106/"></a><a data-anchor="/document/16/218734/dfasstb2ag/" data-dfa="dfasstb2ag"></a><strong>Дебет 6410 Кредит 5110</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr107/"></a><a data-anchor="/document/16/218734/dfasl5zu5f/" data-dfa="dfasl5zu5f"></a>491 250 сум.&nbsp;— перечислен НДФЛ в&nbsp;бюджет;</li></ul><p><a data-anchor="/document/16/218734/bssPhr108/"></a><a data-anchor="/document/16/218734/dfaslh62yx/" data-dfa="dfaslh62yx"></a><a data-anchor="/document/16/218734/dfasya5964/" data-dfa="dfasya5964"></a><strong>Дебет 6710 Кредит 5010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218734/bssPhr109/"></a><a data-anchor="/document/16/218734/dfas5727f3/" data-dfa="dfas5727f3"></a>3 602 000 сум.&nbsp;— выдано выходное пособие.</li></ul></div></div></div><p><a data-anchor="/document/16/218734/dfasosuq33/" data-dfa="dfasosuq33"></a><a data-anchor="/document/16/218734/bssPhr110/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

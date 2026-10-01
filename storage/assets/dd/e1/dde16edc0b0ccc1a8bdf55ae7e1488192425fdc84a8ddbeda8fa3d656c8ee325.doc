@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какую налоговую отчетность и в какие сроки сдавать по налогу за пользование водными ресурсами</h2><div class="doc-snippet"><a data-anchor="/document/16/210704/dfasgqpib6/" data-dfa="dfasgqpib6"></a><a data-anchor="/document/16/210704/bssPhr2/"></a>В какие сроки сдавать расчет, а также справки об авансовых платежах каждой категории плательщиков, узнаете из таблицы. В рекомендации – пример, как заполнить справку по авансовым платежам, а также инструкция как заполнить Расчет по налогу за пользование водными ресурсами для юрлиц и ИП. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210704/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210704/bssPhr7/"></a><a data-anchor="/document/16/210704/dfas72cp5t/" data-dfa="dfas72cp5t"></a>Общие правила</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210704/bssPhr9/"></a><a data-anchor="/document/16/210704/dfas80a3ko/" data-dfa="dfas80a3ko"></a>Налоговый период по налогу за пользование водными ресурсами – календарный год (<span num="6" target="_self" lnktype="intlnk" title="" class="doc">ст. 446 НК</span>).</p><p><a data-anchor="/document/16/210704/bssPhr10/"></a><a data-anchor="/document/16/210704/dfasqixd89/" data-dfa="dfasqixd89"></a>В течение налогового периода – календарного года налогоплательщики, которые уплачивают авансовые платежи по налогу за пользование водными ресурсами и предоставляют Справку о сумме налога за текущий налоговый период (<span num="7" target="_self" lnktype="intlnk" title="" class="doc">ст. 448 НК</span>).</p><p><a data-anchor="/document/16/210704/bssPhr11/"></a><a data-anchor="/document/16/210704/dfasp2ad48/" data-dfa="dfasp2ad48"></a>Авансовые платежи не уплачивают:</p><ul class="c-list"><li><a data-anchor="/document/16/210704/bssPhr12/"></a><a data-anchor="/document/16/210704/dfas9dpdka/" data-dfa="dfas9dpdka"></a>&nbsp;сельскохозяйственные предприятия;</li><li>&nbsp;юридические лица - нерезиденты РУз, осуществляющие деятельность через постоянные учреждения;</li><li>&nbsp;дехканские хозяйства;</li><li>&nbsp;физические лица, имеющие земли сельскохозяйственного назначения и объекты недвижимого имущества нежилого назначения, предназначенные для предпринимательской деятельности и (или) извлечения дохода (<span num="37" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 448 НК в редакции № <span num="38" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от 30.12.2022г.).</li></ul><p><a data-anchor="/document/16/210704/bssPhr13/"></a><a data-anchor="/document/16/210704/dfas780gy7/" data-dfa="dfas780gy7"></a>Налог за пользование водными ресурсами плательщики рассчитывают самостоятельно, исходя из налоговой базы и установленных ставок в расчете на год за исключением:</p><ul class="c-list"><li><a data-anchor="/document/16/210704/bssPhr14/"></a><a data-anchor="/document/16/210704/dfase79e43/" data-dfa="dfase79e43"></a>&nbsp;дехканских хозяйств;</li><li>&nbsp;физлиц, имеющих земли сельскохозяйственного назначения;</li><li>физлиц, имеющих объекты недвижимого имущества нежилого назначения, предназначенные для предпринимательской деятельности и (или) извлечения дохода;</li><li>&nbsp;сельскохозяйственных предприятий. Для сельскохозяйственных предприятий сумма налога определяется до 1 октября в размере 70% от объема воды, использованной в предыдущем налоговом периоде для полива сельскохозяйственных земель и разведения (выращивания) рыбы. При отсутствии информации об объеме использованной воды в предыдущем налоговом периоде, сумма налога определяется по нормативам потребления воды, утвержденным уполномоченным органом Министерства водного хозяйства.</li></ul><p><a data-anchor="/document/16/210704/bssPhr15/"></a><a data-anchor="/document/16/210704/dfasgtfa4b/" data-dfa="dfasgtfa4b"></a>Для данных налогоплательщиков сумму налога исходя из налоговой базы и налоговых ставок определяют налоговые органы на основании данных, представленных уполномоченным органом в области водопользования и водопотребления (<span num="39" target="_self" lnktype="intlnk" title="" class="doc">ч. 10</span> ст. 444 НК, <span num="40" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 447 НК).</p><p><a data-anchor="/document/16/210704/bssPhr16/"></a><a data-anchor="/document/16/210704/dfashzuf4y/" data-dfa="dfashzuf4y"></a>Окончательный расчет по налогу за налоговый период производят с учетом авансовых платежей и предоставляют Расчет по налогу.</p><p><a data-anchor="/document/16/210704/bssPhr17/"></a><a data-anchor="/document/16/210704/dfasfs1zt1/" data-dfa="dfasfs1zt1"></a>Налоговую отчетность представляют в налоговые органы по месту водопользования или водопотребления один раз в год (<span num="41" target="_self" lnktype="intlnk" title="" class="doc">ст. 447 НК</span>).</p><p><a data-anchor="/document/16/210704/bssPhr18/"></a><a data-anchor="/document/16/210704/dfasufkfmv/" data-dfa="dfasufkfmv"></a>Налоговая отчетность по налогу за пользование водными ресурсами утверждена в <span num="42" target="_self" lnktype="intlnk" title="" class="doc">приложении № 6</span> к Постановлению МФ и ГНК (рег. № 3221 от 24.02.2020).</p><p><a data-anchor="/document/16/210704/bssPhr19/"></a><a data-anchor="/document/16/210704/dfasfvmgy1/" data-dfa="dfasfvmgy1"></a>Налогоплательщики – юрлица и индивидуальные предприниматели представляют налоговую отчетность в электронном виде (<span num="43" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 82 НК). Порядок представления налоговой отчетности в электронном виде определен специальным <span num="44" target="_self" lnktype="intlnk" title="" class="doc">Положением</span>, рег. МЮ 12.07.2016 г. № 2808.</p><p><a data-anchor="/document/16/210704/bssPhr20/"></a><a data-anchor="/document/16/210704/dfas04ggbg/" data-dfa="dfas04ggbg"></a>С 1 января 2023 г. по выбору налогоплательщика услуги по формированию налоговой отчетности могут оказывать налоговые органы (<span num="45" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 81 НК, введена № <span num="46" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от 30.12.2022 г.).</p><p><a data-anchor="/document/16/210704/bssPhr21/"></a><a data-anchor="/document/16/210704/dfasdl21yg/" data-dfa="dfasdl21yg"></a>Электронные формы налоговой отчетности представлены в персональном кабинете налогоплательщика на сайте <a href="http://my.soliq.uz" target="_self" title="">my.soliq.uz</a>.</p></div><a data-anchor="/document/16/210704/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210704/bssPhr22/"></a><a data-anchor="/document/16/210704/dfassxl8lk/" data-dfa="dfassxl8lk"></a>Справка об авансовых платежах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210704/bssPhr24/"></a><a data-anchor="/document/16/210704/dfasm7v6p1/" data-dfa="dfasm7v6p1"></a>В какие сроки сдавать Справку об авансовых платежах</p><p><a data-anchor="/document/16/210704/bssPhr26/"></a><a data-anchor="/document/16/210704/dfasc1pfqo/" data-dfa="dfasc1pfqo"></a>Для расчета авансовых платежей в ГНИ по месту водопользования или водопотребления налогоплательщики представляют Справку о сумме налога за текущий налоговый период в следующие сроки:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr27/"></a><a data-anchor="/document/16/210704/dfasx0y3kx/" data-dfa="dfasx0y3kx"></a><strong>№</strong></p></td><td class="bdTopbdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr28/"></a><a data-anchor="/document/16/210704/dfasvayxql/" data-dfa="dfasvayxql"></a><strong>Плательщики налога за пользование водными ресурсами</strong></p></td><td class="bdTopbdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr29/"></a><a data-anchor="/document/16/210704/dfas2vqn9o/" data-dfa="dfas2vqn9o"></a><strong>Срок предоставления справки</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr30/"></a><a data-anchor="/document/16/210704/dfaspzbt7s/" data-dfa="dfaspzbt7s"></a>1.</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr31/"></a><a data-anchor="/document/16/210704/dfas8umy2a/" data-dfa="dfas8umy2a"></a>Действующие</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr32/"></a><a data-anchor="/document/16/210704/dfas9a6ybl/" data-dfa="dfas9a6ybl"></a>не позднее 20 января текущего налогового периода</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr33/"></a><a data-anchor="/document/16/210704/dfasvnbie8/" data-dfa="dfasvnbie8"></a>2.</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr34/"></a><a data-anchor="/document/16/210704/dfasd9d3la/" data-dfa="dfasd9d3la"></a>Вновь созданные</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr35/"></a><a data-anchor="/document/16/210704/dfasgkn3uf/" data-dfa="dfasgkn3uf"></a>не позднее тридцати дней с даты госрегистрации</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr36/"></a><a data-anchor="/document/16/210704/dfasdcpuil/" data-dfa="dfasdcpuil"></a>3.</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr37/"></a><a data-anchor="/document/16/210704/dfas0ggqeu/" data-dfa="dfas0ggqeu"></a>У которых обязательства по налогу за пользование водными ресурсами возникли в течение налогового периода</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr38/"></a><a data-anchor="/document/16/210704/dfas2664my/" data-dfa="dfas2664my"></a>не позднее тридцати дней с даты возникновения налогового обязательства</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210704/bssPhr39/"></a><a data-anchor="/document/16/210704/dfasg50ltg/" data-dfa="dfasg50ltg"></a>Такие требования предусмотрены в <span num="11" target="_self" lnktype="intlnk" title="" class="doc">части 2</span> статьи 448 НК в редакции № <span num="48" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от 30.12.2022г..</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210704/bssPhr40/"></a><a data-anchor="/document/16/210704/dfaszk7pfq/" data-dfa="dfaszk7pfq"></a>При изменении в течение налогового периода предполагаемой налоговой базы налогоплательщик вправе представить уточненную справку о сумме налога. При этом авансовые платежи за оставшуюся часть налогового периода корректируются на сумму изменения налога равными долями.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210704/bssPhr41/"></a><a data-anchor="/document/16/210704/dfas5v9ly7/" data-dfa="dfas5v9ly7"></a>При занижении за налоговый период суммы авансовых платежей по налогу по сравнению с суммой налога, подлежащей уплате в бюджет по Расчету, более чем на 10 процентов налоговый орган пересчитывает авансовые платежи исходя из фактической суммы налога с начислением пени (<span num="49" target="_self" lnktype="intlnk" title="" class="doc">ст. 448 НК</span>).</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/210704/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210704/bssPhr42/"></a><a data-anchor="/document/16/210704/dfasczcv8e/" data-dfa="dfasczcv8e"></a>Заполнение справки по авансовым платежам</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210704/bssPhr44/"></a><a data-anchor="/document/16/210704/dfas5ct2o1/" data-dfa="dfas5ct2o1"></a>На <a href="https://my.soliq.uz/main/?lang=ru" target="_self" title="">сайте</a> в персональном кабинете выберите электронные формы по налогу за пользование водными ресурсами.</p><p><a data-anchor="/document/16/210704/bssPhr45/"></a><a data-anchor="/document/16/210704/dfasn48nr2/" data-dfa="dfasn48nr2"></a>Форма Справки предусмотрена для:</p><ul class="c-list"><li><a data-anchor="/document/16/210704/bssPhr46/"></a><a data-anchor="/document/16/210704/dfasni75oq/" data-dfa="dfasni75oq"></a>плательщиков налога на прибыль и НДС, у которых сумма налога за налоговый период составляет более 200-кратного размера БРВ – месячная;</li><li>плательщиков налога на прибыль и НДС, у которых сумма налога за налоговый период составляет менее 200-кратного размера БРВ, а также для плательщиков налога с оборота – квартальная.</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210704/bssPhr47/"></a><a data-anchor="/document/16/210704/dfasgwneg8/" data-dfa="dfasgwneg8"></a>Как заполнить справку для исчисления авансовых платежей по налогу за пользование водными ресурсами</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210704/bssPhr48/"></a><a data-anchor="/document/16/210704/dfasaznpca/" data-dfa="dfasaznpca"></a>Предприятие легкой промышленности является плательщиком налога с оборота. На 2024&nbsp;год предполагаемый объем использования воды, подлежащий налогообложению, составляет 1 600 куб. м. Предприятие находится в Яккасарайском районе города Ташкент.</p><p><a data-anchor="/document/16/210704/bssPhr49/"></a><a data-anchor="/document/16/210704/dfas1coa13/" data-dfa="dfas1coa13"></a>В 2024 г. промышленные предприятия платят налог по ставкам (ст. 445: НК)</p><ul class="c-list"><li><a data-anchor="/document/16/210704/bssPhr50/"></a><a data-anchor="/document/16/210704/dfas5sn6vf/" data-dfa="dfas5sn6vf"></a>638 сум за 1 куб. м из поверхностных источников;</li><li>760 сум за 1 куб. м из подземных источников.</li></ul><p><a data-anchor="/document/16/210704/bssPhr51/"></a><a data-anchor="/document/16/210704/dfasa5g422/" data-dfa="dfasa5g422"></a>На 2024 год в Яккасарайском районе города Ташкента установлено&nbsp;следующее соотношение объемов воды, поступающей в водопроводную сеть:</p><ul class="c-list"><li><a data-anchor="/document/16/210704/bssPhr52/"></a><a data-anchor="/document/16/210704/dfaskvv578/" data-dfa="dfaskvv578"></a>из поверхностных источников – 95 %;</li><li>из подземных источников – 5&nbsp;%.</li></ul><p><a data-anchor="/document/16/210704/bssPhr53/"></a><a data-anchor="/document/16/210704/dfasuegq27/" data-dfa="dfasuegq27"></a>Предполагаемый объем используемой воды составит:</p><ul class="c-list"><li><a data-anchor="/document/16/210704/bssPhr54/"></a><a data-anchor="/document/16/210704/dfas9107cr/" data-dfa="dfas9107cr"></a>из поверхностных источников 1 520 куб.м. (1600 х 95%)</li><li>из подземных источников 80 куб.м. (1600 х 5%)</li></ul><p><a data-anchor="/document/16/210704/bssPhr55/"></a><a data-anchor="/document/16/210704/dfasm3e5q1/" data-dfa="dfasm3e5q1"></a>Для предприятия годовая сумма налога рассчитывается:</p><ul class="c-list"><li><a data-anchor="/document/16/210704/bssPhr56/"></a><a data-anchor="/document/16/210704/dfasfgah3g/" data-dfa="dfasfgah3g"></a>из поверхностных источников:</li></ul><p><a data-anchor="/document/16/210704/bssPhr57/"></a><a data-anchor="/document/16/210704/dfasymvsqv/" data-dfa="dfasymvsqv"></a>1 520 × 638 = 969 760 сумов;</p><ul class="c-list"><li><a data-anchor="/document/16/210704/bssPhr58/"></a><a data-anchor="/document/16/210704/dfasbyb4i6/" data-dfa="dfasbyb4i6"></a>из подземных источников:</li></ul><p><a data-anchor="/document/16/210704/bssPhr59/"></a><a data-anchor="/document/16/210704/dfasibl36w/" data-dfa="dfasibl36w"></a>80 × 760 = 60 800 сумов.</p><p><a data-anchor="/document/16/210704/bssPhr60/"></a><a data-anchor="/document/16/210704/dfasxzrqi6/" data-dfa="dfasxzrqi6"></a>Итого: 969 760 + 60 800 = 1 030 560 сумов.</p><p><a data-anchor="/document/16/210704/bssPhr61/"></a><a data-anchor="/document/16/210704/dfaska02ce/" data-dfa="dfaska02ce"></a>Сумма авансовых платежей, уплачиваемая не позднее 20 числа третьего месяца каждого квартала, составит:</p><p><a data-anchor="/document/16/210704/bssPhr62/"></a><a data-anchor="/document/16/210704/dfasico3g3/" data-dfa="dfasico3g3"></a>1 030 560 ÷ 4 = 257 640 сумов.</p><p><a data-anchor="/document/16/210704/bssPhr63/"></a><a data-anchor="/document/16/210704/dfasgp5qx5/" data-dfa="dfasgp5qx5"></a>Выберите форму Справки с действующим кодом квартальную. Укажите налоговый период, год и вид расчета.</p><p><a data-anchor="/document/16/210704/bssPhr64/"></a><a data-anchor="/document/16/210704/dfasmmwy8k/" data-dfa="dfasmmwy8k"></a>По <strong>строке 020 в графах 4 и 5 </strong>укажите предполагаемый объем воды в части поверхностных и подземных вод соответственно: 1 520 куб.м. и 80 куб. м. Установленные налоговые ставки за 1 куб. м воды автоматически отражаются в графах 6 и 7.</p><p><a data-anchor="/document/16/210704/bssPhr65/"></a><a data-anchor="/document/16/210704/dfasp8ngfu/" data-dfa="dfasp8ngfu"></a>Общая сумма налога, подлежащая уплате, автоматически выйдет в графах 15,16,17. Разбивку по кварталам нужно внести в ручную в строках 0801 –&nbsp;0804.</p><p><a data-anchor="/document/16/210704/bssPhr66/"></a><a data-anchor="/document/16/210704/dfasdlxiyu/" data-dfa="dfasdlxiyu"></a><strong>Общая сумма налога, причитающаяся к уплате, составила 1 030 560 сумов. Из нее 95% приходится на поверхностные воды – 969 760 сумов, 5 % на подземные источники – 60 800 сумов.</strong></p><p><a data-anchor="/document/16/210704/bssPhr67/"></a><a data-anchor="/document/16/210704/dfasvp1q8g/" data-dfa="dfasvp1q8g"></a>Сумма авансовых платежей, подлежащих уплате за каждый квартал составила 257 640 сумов, из нее на поверхностные источники приходится – 244 758 сумов, на подземные источники – 12 882 сумов. Эти значения нужно разнести в графах 16, 17 по строкам 0801 –&nbsp;0804.</p><p><a data-anchor="/document/16/210704/bssPhr68/"></a><a data-anchor="/document/16/210704/dfash2bgct/" data-dfa="dfash2bgct"></a>В <strong>графах 8-14 </strong> отражаются объем воды и суммы предоставленных льгот, данные по которым формируются с помощью программы E-imtiyoz. Если у вас есть льгота по налогу, то необходимо в персональном кабинете через сервис «Обращение по использованию налоговых льгот» указать основание для применения льготы и срок её действия.</p></div></div></div><a data-anchor="/document/16/210704/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/210704/bssPhr69/"></a><a data-anchor="/document/16/210704/dfas2zzfbw/" data-dfa="dfas2zzfbw"></a>Расчет налога за пользование водными ресурсами</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210704/bssPhr71/"></a><a data-anchor="/document/16/210704/dfase59so0/" data-dfa="dfase59so0"></a>Плательщик обязан один раз в год представлять расчет налога в налоговые органы по месту <span num="16" target="_self" lnktype="intlnk" title="" class="doc">водопользования</span> или <span num="17" target="_self" lnktype="intlnk" title="" class="doc">водопотребления</span>.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210704/bssPhr72/"></a><a data-anchor="/document/16/210704/dfas7gr9un/" data-dfa="dfas7gr9un"></a>С 1 января 2023 года изменились сроки сдачи годового Расчета по налогу за пользование водными ресурсами. Для каждой категории плательщиков установлены сроки сдачи расчета</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/210704/bssPhr73/"></a><a data-anchor="/document/16/210704/dfasukcev4/" data-dfa="dfasukcev4"></a>(<span num="18" target="_self" lnktype="intlnk" title="" class="doc">ст. 447 НК</span>).</p></div><div class="incut-v4__icon"></div></div><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr74/"></a><a data-anchor="/document/16/210704/dfasb5lqzr/" data-dfa="dfasb5lqzr"></a><strong>№</strong></p></td><td class="bdTopbdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr75/"></a><a data-anchor="/document/16/210704/dfas1s0muv/" data-dfa="dfas1s0muv"></a><strong>Плательщики налога за пользование водными ресурсами</strong></p></td><td class="bdTopbdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr76/"></a><a data-anchor="/document/16/210704/dfas51g1hg/" data-dfa="dfas51g1hg"></a><strong>Сроки предоставления расчета</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr77/"></a><a data-anchor="/document/16/210704/dfaspwkpod/" data-dfa="dfaspwkpod"></a>1.</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr78/"></a><a data-anchor="/document/16/210704/dfaspgpge8/" data-dfa="dfaspgpge8"></a>Юрлица-резиденты, за исключением сельскохозяйственных предприятий</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr79/"></a><a data-anchor="/document/16/210704/dfas6batbz/" data-dfa="dfas6batbz"></a>не позднее 1 марта года, следующего за отчетным периодом (<span data-warm-notices="21645813" data-warm-notice-type="error" num="64" target="_self" lnktype="intlnk" title="" class="doc">ч. 3 </span>ст. 447 НК в редакции № <span num="53" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от 30.12.2022г.)</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr80/"></a><a data-anchor="/document/16/210704/dfasgzu3tn/" data-dfa="dfasgzu3tn"></a>2.</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr81/"></a><a data-anchor="/document/16/210704/dfasladkrf/" data-dfa="dfasladkrf"></a>Сельскохозяйственные предприятия</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr82/"></a><a data-anchor="/document/16/210704/dfasymftdg/" data-dfa="dfasymftdg"></a>не позднее 15 декабря текущего налогового периода</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr83/"></a><a data-anchor="/document/16/210704/dfasx2w4y7/" data-dfa="dfasx2w4y7"></a>3.</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr84/"></a><a data-anchor="/document/16/210704/dfas1x2lc9/" data-dfa="dfas1x2lc9"></a>Юрлица- нерезиденты РУз, осуществляющие деятельность через постоянное учреждение</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr85/"></a><a data-anchor="/document/16/210704/dfasg7mg7e/" data-dfa="dfasg7mg7e"></a>не позднее 20 января года, следующего за налоговым периодом</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/210704/bssPhr86/"></a><a data-anchor="/document/16/210704/dfas8ag4xz/" data-dfa="dfas8ag4xz"></a>4.</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr87/"></a><a data-anchor="/document/16/210704/dfas4l3mpa/" data-dfa="dfas4l3mpa"></a>Индивидуальные предприниматели</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/210704/bssPhr88/"></a><a data-anchor="/document/16/210704/dfasq4ap6m/" data-dfa="dfasq4ap6m"></a>не позднее 20 января года, следующего за налоговым периодом</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210704/bssPhr89/"></a><a data-anchor="/document/16/210704/dfas6n0oht/" data-dfa="dfas6n0oht"></a>Крупные налогоплательщики сдают отчетность в Межрегиональную государственную налоговую инспекцию по крупным налогоплательщикам (<span num="19" target="_self" lnktype="intlnk" title="" class="doc">ч. 4</span> ст. 82 НК).</p><p><a data-anchor="/document/16/210704/bssPhr90/"></a><a data-anchor="/document/16/210704/dfaseb8b71/" data-dfa="dfaseb8b71"></a>На <a href="https://my.soliq.uz/main/?lang=ru" target="_self" title="">сайте</a> персональном кабинете выберите электронные формы по налогу за пользование водными ресурсами. Предусмотрены две формы Расчета:</p><ol class="c-list" style="counter-reset: item 0;" start="1"><li><a data-anchor="/document/16/210704/bssPhr91/"></a><a data-anchor="/document/16/210704/dfaszgml4i/" data-dfa="dfaszgml4i"></a>для юрлиц, нерезидентов&nbsp;и индивидуальных предпринимателей</li><li><a data-anchor="/document/16/210704/bssPhr92/"></a><a data-anchor="/document/16/210704/dfas2edrx7/" data-dfa="dfas2edrx7"></a>для сельскохозяйственных предприятий</li></ol><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как предприятию (ОКЭД 10.13.2) сдавать расчет по налогу на пользование водой, если оно использует воду для производственных и сельхознужд: одним расчетом или раздельно по 10601_17 и 10601_19</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210704/bssPhr94/"></a><a data-anchor="/document/16/210704/dfas57cpt4/" data-dfa="dfas57cpt4"></a>Одним расчетом.</p><p style="text-align:left"><a data-anchor="/document/16/210704/bssPhr95/"></a><a data-anchor="/document/16/210704/dfasmf98k9/" data-dfa="dfasmf98k9"></a>Предприятие, производящее колбасные изделия (ОКЭД 10.13.2), не относится к сельскохозяйственным. Поэтому оно представляет один Расчет налога за пользование водными ресурсами – для юрлиц и ИП (форма 10601_17). В этой форме предусмотрен расчет налога по объемам воды, используемой как для производственных нужд, так и для полива сельскохозяйственных земель, полученных предприятием в многолетнюю аренду.&nbsp;</p><p style="text-align:left"><a data-anchor="/document/16/210704/bssPhr96/"></a><a data-anchor="/document/16/210704/dfasi5q3lg/" data-dfa="dfasi5q3lg"></a>Юридические лица, за исключением сельхозпредприятий, представляют Налоговую отчетность&nbsp;в налоговые органы по месту водопользования или водопотребления один раз в год – не позднее 1 марта года, следующего за отчетным периодом (<span num="79" target="_blank" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 447 НК).</p><p style="text-align:left"><a data-anchor="/document/16/210704/bssPhr97/"></a><a data-anchor="/document/16/210704/dfasxorv1w/" data-dfa="dfasxorv1w"></a>Следовательно, если место водопотребления – земли сельхозназначения расположено не по месту налогового учета (место производственной деятельности), то предприятие представляет Расчет (10601_17)&nbsp;по производственной деятельности – по месту налогового учета организации – в части объема воды, используемой по месту производственной деятельности;&nbsp;по сельхоздеятельности – по месту расположения земель сельхозназначения – в части объема воды, используемой для полива.</p></div></div></div><a data-anchor="/document/16/210704/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/210704/bssPhr98/"></a><a data-anchor="/document/16/210704/dfas2f4gsp/" data-dfa="dfas2f4gsp"></a>Как заполнить Расчет по налогу за пользование водными ресурсами для юрлиц и ИП</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210704/bssPhr100/"></a><a data-anchor="/document/16/210704/dfaswi7zn4/" data-dfa="dfaswi7zn4"></a>Порядок заполнения Расчета следующий:</p><ul class="c-list"><li><a data-anchor="/document/16/210704/bssPhr101/"></a><a data-anchor="/document/16/210704/dfasq2lssx/" data-dfa="dfasq2lssx"></a>в строках 010–060 указывайте налоговую базу по соответствующему виду деятельности. Налоговая база - это общий фактический объем использованной воды, подлежащий налогообложению, в куб. м. В графе 3 указывайте объем использованной воды из поверхностных источников, в графе 4 – из подземных источников. В графе 18 (поверхностные источники) и графе 19 (подземные источники) указывайте объем забранной воды сверх установленных лимитов водопользования, объем использованной воды без разрешительных документов или объем воды, используемый для мойки автотранспортных средств;</li><li>строку 0701 заполняют налогоплательщики, у которых отсутствуют водоизмерительные приборы и указывают в ней объем воды, используемой для полива сельскохозяйственных земель и разведения, выращивания рыбы, включая дехканские хозяйства. В графе 3 указывайте объем использованной воды из поверхностных источников, в графе 4 – из подземных источников. В графе 18 (поверхностные источники) и графе 19 (подземные источники) указывайте объем забранной воды сверх установленных лимитов водопользования, объем использованной воды без разрешительных документов или объем воды, используемый для мойки автотранспортных средств;</li><li>строку 0702 заполняют налогоплательщики, у которых установлены водоизмерительные приборы и указывают в ней объем воды, используемой для полива сельскохозяйственных земель и разведения, выращивания рыбы, включая дехканские хозяйства. В графе 3 указывайте объем использованной воды из поверхностных источников, в графе 4 – из подземных источников. В графе 18 (поверхностные источники) и графе 19 (подземные источники) указывайте объем забранной воды сверх установленных лимитов водопользования, объем использованной воды без разрешительных документов или объем воды, используемый для мойки автотранспортных средств;</li><li>в графах 6, 7 отражается объем воды, по которому применяются льготы, а в графах 13-16 автоматически отражаются предоставленные льготы и суммы по ним. Если у вас есть льгота по налогу, то необходимо в персональном кабинете через сервис «Обращение по использованию налоговых льгот» указать основание для применения льготы и срок её действия;</li><li>в строке 090 в графе 22 указывайте сумму уплаченных авансовых платежей;</li><li>налоговые ставки отразятся автоматически;</li><li>все остальные показатели рассчитываются автоматически;</li><li>в строке 100 в графе 22 автоматически рассчитается окончательная сумма налога с учетом авансовых платежей, подлежащая к доплате в бюджет;</li><li>в строке 110 в графе 22 автоматически рассчитается окончательная сумма налога с учетом авансовых платежей, подлежащая к уменьшению.</li></ul></div><p><a data-anchor="/document/16/210704/dfasq8c9of/" data-dfa="dfasq8c9of"></a><a data-anchor="/document/16/210704/bssPhr102/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как продавать товары в рассрочку, кредит</h2><div class="doc-snippet"><a data-anchor="/document/16/211488/dfasz0uzba/" data-dfa="dfasz0uzba"></a><a data-anchor="/document/16/211488/bssPhr2/"></a>Товарный потребительский кредит,&nbsp;рассрочку предоставляют в соответствии с правилами предоставления потребительского кредита. Читайте в рекомендации –&nbsp;каких требований придерживаться, кто&nbsp;может получить&nbsp;потребительский кредит, как отразить в бухучете и налоговом учете&nbsp;реализацию товаров в рассрочку, кредит и как оформить приобретение товаров у физлиц на рынке. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211488/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211488/bssPhr3/"></a><a data-anchor="/document/16/211488/dfasnc6b5t/" data-dfa="dfasnc6b5t"></a>Потребительский кредит</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr5/"></a><a data-anchor="/document/16/211488/dfasvw4ui3/" data-dfa="dfasvw4ui3"></a>Товарный потребительский кредит – это кредит, предоставляемый потребителю в виде рассрочки оплаты за приобретенные товары, выполненные работы или оказанные услуги (<span num="7" target="_self" lnktype="intlnk" title="" class="doc">ст. 5</span> Закона от 06.05.2006 № ЗРУ-33). К отношениям по договору потребительского кредита применяют правила, указанные в <span num="8" target="_self" lnktype="intlnk" title="" class="doc">статье 748</span> ГК.</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr6/"></a><a data-anchor="/document/16/211488/dfasqfrg5m/" data-dfa="dfasqfrg5m"></a>Рассрочка – это одна из форм коммерческого кредитования (<span num="9" target="_self" lnktype="intlnk" title="" class="doc">ст. 748 ГК</span>). При реализации товаров с рассрочкой платежа покупатель не оплачивает всю стоимость товара сразу, а рассчитывается с продавцом частями, как правило, равными, в течение определенного договором времени. Например, погашает долг ежемесячно.</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr7/"></a><a data-anchor="/document/16/211488/dfas9z6cmu/" data-dfa="dfas9z6cmu"></a>Потребительский кредит предоставляют физлицам по договору потребительского кредита на условиях платности, срочности и обеспеченности в соответствии с правилами предоставления потребительского кредита (<span num="10" target="_self" lnktype="intlnk" title="" class="doc">ст. 7</span> Закона от 06.05.2006 № ЗРУ-33). Правила должны быть доступны для всеобщего ознакомления и содержать:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/211488/bssPhr8/"></a><a data-anchor="/document/16/211488/dfas1cyzrz/" data-dfa="dfas1cyzrz"></a>условия предоставления потребительского кредита;</li><li style="text-align:left">размер кредита;</li><li style="text-align:left">срок предоставления кредита;</li><li style="text-align:left">процентную ставку;</li><li style="text-align:left">график выплат потребителем.</li></ul><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr9/"></a><a data-anchor="/document/16/211488/dfasbdstwe/" data-dfa="dfasbdstwe"></a>Потребительский кредит предоставляют физлицам, которые имеют доходы от результатов своей деятельности, пенсию и иные доходы (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">ст. 7</span> Закона от 06.05.2006 № ЗРУ-33). Следовательно, потребитель при подаче документов на получение потребительского кредита должен доказать свою платежеспособность. Это могут быть кредитная заявка и другие документы, содержащие сведения о доходах потребителя.</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr10/"></a><a data-anchor="/document/16/211488/dfascnddlu/" data-dfa="dfascnddlu"></a>В кредитной заявке указывают:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/211488/bssPhr11/"></a><a data-anchor="/document/16/211488/dfasn6r6wl/" data-dfa="dfasn6r6wl"></a>Ф.И.О., серию и номер паспорта или идентификационной ID-карты (документа, удостоверяющего личность) и место жительства потребителя;</li><li style="text-align:left">объект потребительского кредита;</li><li style="text-align:left">срок потребительского кредита;</li><li style="text-align:left">вид деятельности и доходы потребителя;</li><li style="text-align:left">способ обеспечения исполнения потребителем обязательств по договору.</li></ul><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr12/"></a><a data-anchor="/document/16/211488/dfasuzy7pa/" data-dfa="dfasuzy7pa"></a>Такие требования содержит <span num="12" target="_self" lnktype="intlnk" title="" class="doc">статья 8</span> Закона от 06.05.2006 № ЗРУ-33.</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr13/"></a><a data-anchor="/document/16/211488/dfasbgyh4l/" data-dfa="dfasbgyh4l"></a><a data-anchor="/document/16/211488/dfass58gs3/" data-dfa="dfass58gs3"></a>Потребитель подписывает кредитную заявку и указывает дату подачи заявки.&nbsp;В договоре должны быть указаны:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/211488/bssPhr14/"></a><a data-anchor="/document/16/211488/dfaso4bh11/" data-dfa="dfaso4bh11"></a>Ф.И.О., серия и номер паспорта или документа, заменяющего паспорт, место жительства потребителя;</li><li style="text-align:left">наименование и другие реквизиты предприятия, которое предоставляет потребительский кредит;</li><li style="text-align:left">сведения об объекте потребительского кредита;</li><li style="text-align:left">общая сумма потребительского кредита;</li><li style="text-align:left">способ обеспечения исполнения потребителем обязательств по договору;</li><li style="text-align:left">процентная ставка;</li><li style="text-align:left">размер аванса для предварительной оплаты стоимости приобретенного товара, если это является требованием предприятия, предоставляющего потребительский кредит;</li><li style="text-align:left">порядок и сроки предоставления и возврата суммы потребительского кредита и иная необходимая информация.</li></ul><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr15/"></a><a data-anchor="/document/16/211488/dfas2zu6qg/" data-dfa="dfas2zu6qg"></a>Обеспечением исполнения потребителем обязательств по договору могут служить:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/211488/bssPhr16/"></a><a data-anchor="/document/16/211488/dfasxyqewh/" data-dfa="dfasxyqewh"></a>гарантия банка или страховой организации;</li><li style="text-align:left">поручительство третьих лиц;</li><li style="text-align:left">залог имущества и ценных бумаг, в том числе залоговый депозит, сберегательные сертификаты банков;</li><li style="text-align:left">другие способы.</li></ul><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr17/"></a><a data-anchor="/document/16/211488/dfasu46ba6/" data-dfa="dfasu46ba6"></a>Такие условия предусматривает <span num="13" target="_self" lnktype="intlnk" title="" class="doc">статья 17</span> Закона от 06.05.2006 № ЗРУ-33.</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr18/"></a><a data-anchor="/document/16/211488/dfasock9ra/" data-dfa="dfasock9ra"></a>Объем доходов потребителя, а также предоставленное им обеспечение исполнения обязательств по договору должно быть достаточным для возврата суммы потребительского кредита и оплаты начисленных процентов по нему.</p></div><a data-anchor="/document/16/211488/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211488/bssPhr19/"></a><a data-anchor="/document/16/211488/dfasnm7th8/" data-dfa="dfasnm7th8"></a>Бухучет реализации товаров в рассрочку, кредит</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr21/"></a><a data-anchor="/document/16/211488/dfast72evp/" data-dfa="dfast72evp"></a>Доход от реализации товаров в рассрочку, кредит продавец признает на дату их реализации, а проценты за рассрочку признает в качестве дохода по мере их получения.</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr22/"></a><a data-anchor="/document/16/211488/dfasph7tkl/" data-dfa="dfasph7tkl"></a><strong>Бухгалтерские проводки для продажи&nbsp;товаров в рассрочку, кредит</strong></p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 32%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr23/"></a><a data-anchor="/document/16/211488/dfas8pvgns/" data-dfa="dfas8pvgns"></a><strong>Содержание хозяйственной операции</strong></p></td><td class="bdTopbdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr24/"></a><a data-anchor="/document/16/211488/dfass3mopd/" data-dfa="dfass3mopd"></a><strong>Дебет</strong></p></td><td class="bdTopbdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr25/"></a><a data-anchor="/document/16/211488/dfaswx60fu/" data-dfa="dfaswx60fu"></a><strong>Кредит</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 32%;"><p><a data-anchor="/document/16/211488/bssPhr26/"></a><a data-anchor="/document/16/211488/dfaslyzeg7/" data-dfa="dfaslyzeg7"></a>Получен аванс от покупателя</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr27/"></a><a data-anchor="/document/16/211488/dfas6dg42f/" data-dfa="dfas6dg42f"></a>5110 «Расчетный счет»</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr28/"></a><a data-anchor="/document/16/211488/dfasgezp7q/" data-dfa="dfasgezp7q"></a>6310 «Авансы, полученные от покупателей и заказчиков»</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 32%;"><p><a data-anchor="/document/16/211488/bssPhr29/"></a><a data-anchor="/document/16/211488/dfaslv5mah/" data-dfa="dfaslv5mah"></a>Списана себестоимость товаров</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr30/"></a><a data-anchor="/document/16/211488/dfasu4zwev/" data-dfa="dfasu4zwev"></a>9120 «Себестоимость реализованных товаров»</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr31/"></a><a data-anchor="/document/16/211488/dfaserehsp/" data-dfa="dfaserehsp"></a>2900 «Товары»</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 32%;"><p><a data-anchor="/document/16/211488/bssPhr32/"></a><a data-anchor="/document/16/211488/dfas2cgb7a/" data-dfa="dfas2cgb7a"></a>Отражен доход от реализации товаров</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr33/"></a><a data-anchor="/document/16/211488/dfasvadqiy/" data-dfa="dfasvadqiy"></a>4010 «Счета к получению от покупателей и заказчиков»</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr34/"></a><a data-anchor="/document/16/211488/dfasaod65f/" data-dfa="dfasaod65f"></a>9020 «Доходы от реализации товаров»</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 32%;"><p><a data-anchor="/document/16/211488/bssPhr35/"></a><a data-anchor="/document/16/211488/dfas3a2gib/" data-dfa="dfas3a2gib"></a>Начислен НДС (плательщиками)</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr36/"></a><a data-anchor="/document/16/211488/dfassu869g/" data-dfa="dfassu869g"></a>4010 «Счета к получению от покупателей и заказчиков»</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr37/"></a><a data-anchor="/document/16/211488/dfas0m4dox/" data-dfa="dfas0m4dox"></a>6410 «Задолженность по платежам в бюджет (по видам)»</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 32%;"><p><a data-anchor="/document/16/211488/bssPhr38/"></a><a data-anchor="/document/16/211488/dfas57uopf/" data-dfa="dfas57uopf"></a>Зачтен аванс</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr39/"></a><a data-anchor="/document/16/211488/dfas79x8k3/" data-dfa="dfas79x8k3"></a>6310 «Авансы, полученные от покупателей и заказчиков»</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr40/"></a><a data-anchor="/document/16/211488/dfasmhh25s/" data-dfa="dfasmhh25s"></a>4010 «Счета к получению от покупателей и заказчиков»</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 32%;"><p><a data-anchor="/document/16/211488/bssPhr41/"></a><a data-anchor="/document/16/211488/dfasnr3if2/" data-dfa="dfasnr3if2"></a>Погашение задолженности покупателя по мере поступления платежей</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr42/"></a><a data-anchor="/document/16/211488/dfask57i3c/" data-dfa="dfask57i3c"></a>5110 «Расчетный счет»</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr43/"></a><a data-anchor="/document/16/211488/dfasub4f8i/" data-dfa="dfasub4f8i"></a>4010 «Счета к получению от покупателей и заказчиков»</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 32%;"><p><a data-anchor="/document/16/211488/bssPhr44/"></a><a data-anchor="/document/16/211488/dfasp50lv3/" data-dfa="dfasp50lv3"></a>Отражены проценты за рассрочку платежа</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr45/"></a><a data-anchor="/document/16/211488/dfas2b117u/" data-dfa="dfas2b117u"></a>4830 «Проценты к получению»</p><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr46/"></a><a data-anchor="/document/16/211488/dfasevwiun/" data-dfa="dfasevwiun"></a>5110 «Расчетный счет»</p></td><td class="bdBottombdRight" style="width: 34%;"><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr47/"></a><a data-anchor="/document/16/211488/dfasp84gd8/" data-dfa="dfasp84gd8"></a>9530 «Доходы в виде процентов»</p><p style="text-align:center"><a data-anchor="/document/16/211488/bssPhr48/"></a><a data-anchor="/document/16/211488/dfas23rhsu/" data-dfa="dfas23rhsu"></a>4830 «Проценты к получению»</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><a data-anchor="/document/16/211488/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211488/bssPhr49/"></a><a data-anchor="/document/16/211488/dfassptxeu/" data-dfa="dfassptxeu"></a>Налоговый учет реализации товаров в рассрочку, кредит</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr51/"></a><a data-anchor="/document/16/211488/dfasm2eqko/" data-dfa="dfasm2eqko"></a>При реализации товаров в рассрочку, кредит возникают налоговые последствия, аналогичные налоговым последствиям при реализации товаров. Налоговую база по НДС определяйте на основе стоимости реализуемых товаров без включения в нее НДС. Однако налоговые органы вправе скорректировать налоговую базу, если цена сделки ниже либо выше рыночной стоимости товаров (<span num="14" target="_self" lnktype="intlnk" title="" class="doc">ст. 248 НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr52/"></a><a data-anchor="/document/16/211488/dfasw1x0nw/" data-dfa="dfasw1x0nw"></a>Сумму выручки от реализации товаров – товарооборот включайте в налоговую базу предприятия по налогу с оборота. При расчете налога на прибыль в совокупный доход включайте доход от реализации товаров, определяемый как выручка от реализации за вычетом НДС и акцизного налога (<span num="15" target="_self" lnktype="intlnk" title="" class="doc">ст. 297 НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr53/"></a><a data-anchor="/document/16/211488/dfas145qt0/" data-dfa="dfas145qt0"></a>При получении процентов за рассрочку их сумму включайте в доходы предприятия и облагайте налогом по установленной ставке (<span num="16" target="_self" lnktype="intlnk" title="" class="doc">п. 19</span> ст. 297 НК). Проценты, выплачиваемые налоговому резиденту Узбекистана, учитывают в налоговой базе получателя этих доходов (<span num="17" target="_self" lnktype="intlnk" title="" class="doc">ст. 344 НК</span>). Если предприятие реализует товары в рассрочку физическому лицу, то налог с процентов должно удержать и уплатить предприятие.</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr54/"></a><a data-anchor="/document/16/211488/dfas52d0ot/" data-dfa="dfas52d0ot"></a>Предприятие – плательщик налога на прибыль должно самостоятельно уплатить налог с полученного дохода по ставкам, установленным <span num="18" target="_self" lnktype="intlnk" title="" class="doc">ст. 337 НК</span>. Плательщики налога с оборота платят по ставке вида деятельности, по которому доля доходов в общем совокупном доходе преобладает по итогам отчетного, налогового периода (<span num="19" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 468 НК). Предприятия, которые выбрали уплату налога с оборота в фиксированной сумме, включают полученные проценты в совокупный доход для определения ставки налога (<span num="20" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 467, <span num="21" target="_self" lnktype="intlnk" title="" class="doc">ст. 470-1</span> НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>На какую сумму&#160;выставлять&#160;ЭСФ при продаже автомобилей в рассрочку: на&#160;общую сумму или на предоплату</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr56/"></a><a data-anchor="/document/16/211488/dfasbay2g3/" data-dfa="dfasbay2g3"></a>На какую сумму выставлять ЭСФ, зависит от того в какой момент покупателю автотранспортного средства переходит право собственности на него по условиям заключенного договора купли-продажи.</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr57/"></a><a data-anchor="/document/16/211488/dfas3nwu8b/" data-dfa="dfas3nwu8b"></a>Право собственности на имущество, подлежащее нотариальному удостоверению, у покупателя возникает с момента удостоверения договора купли-продажи (<span num="44" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 185 ГК).&nbsp;&nbsp;<strong>Сделки, совершаемые с автотранспортными средствами, подлежат нотариальному удостоверению (<span num="45" target="_self" lnktype="intlnk" title="" class="doc">ПКМ от 07.03.2006 № 38</span>).</strong></p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr58/"></a><a data-anchor="/document/16/211488/dfas09wlc8/" data-dfa="dfas09wlc8"></a>Если право собственности на автотранспортное средство переходит покупателю на день внесения им предоплаты, то ЭСФ выставляйте&nbsp;на дату внесения предоплаты, на всю стоимость автомашины.</p><p style="text-align:left"><a data-anchor="/document/16/211488/bssPhr59/"></a><a data-anchor="/document/16/211488/dfasqmo0g8/" data-dfa="dfasqmo0g8"></a>В случае если право собственности переходит покупателю по истечении срока, установленного договором (12-24 месяцев), а также полной его оплаты, то ЭСФ выставляйте&nbsp;на дату нотариального удостоверения договора купли-продажи и передачи права собственности на авто.</p></div></div></div><a data-anchor="/document/16/211488/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211488/bssPhr60/"></a><a data-anchor="/document/16/211488/dfasg6qwcr/" data-dfa="dfasg6qwcr"></a>Продажа товаров в рассрочку, кредит населению с применением онлайн-ККМ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211488/dfase3zv6k/" data-dfa="dfase3zv6k"></a><a data-anchor="/document/16/211488/bssPhr62/"></a>Согласно части 1 статьи 242 Налогового кодекса, датой совершения оборота по реализации товаров считается день их отгрузки или передачи покупателю. Это правило действует независимо от того, когда фактически будет произведена оплата.</p><p><a data-anchor="/document/16/211488/dfas028n93/" data-dfa="dfas028n93"></a><a data-anchor="/document/16/211488/bssPhr63/"></a>Если товар продаётся в рассрочку или в кредит, покупатель получает его сразу. Поэтому при передаче товара продавец обязан сформировать первый чек в онлайн-ККМ или виртуальной кассе на полную стоимость товара. Данные из такого чека автоматически включаются в налоговую отчетность. В этом чеке обязательно формируются QR-код и фискальный признак, подтверждающие факт реализации.</p><p><a data-anchor="/document/16/211488/dfaswc6huz/" data-dfa="dfaswc6huz"></a><a data-anchor="/document/16/211488/bssPhr64/"></a>Дальнейшие платежи покупателя, которые вносятся по графику для погашения задолженности, оформляются иначе. При каждом таком платеже продавец формирует чек с типом «Рассрочка» или «Кредит», указывая сумму фактической оплаты. Для этих чеков QR-код и фискальный признак не формируются, так как они не отражают новую реализацию, а лишь фиксируют оплату ранее переданного товара.</p><p><a data-anchor="/document/16/211488/dfas3kzcdk/" data-dfa="dfas3kzcdk"></a><a data-anchor="/document/16/211488/bssPhr65/"></a>Таким образом, ключевой момент для бухгалтерского и налогового учета – корректное оформление первого чека на полную стоимость товара в день его передачи покупателю.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="74" target="_blank" lnktype="intlnk" title="" class="doc">Как определить дату совершения оборота по&nbsp;реализации (работ, услуг)</span></li><li class="incut-v4-more-about__item"><span num="75" target="_blank" lnktype="intlnk" title="" class="doc">Как применять онлайн-ККМ и виртуальную кассу</span></li><li class="incut-v4-more-about__item"><span num="76" target="_blank" lnktype="intlnk" title="" class="doc">Какие санкции предусмотрены за&nbsp;нарушение требований к&nbsp;онлайн-ККМ</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211488/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211488/bssPhr67/"></a><a data-anchor="/document/16/211488/dfas9873cg/" data-dfa="dfas9873cg"></a>Оформление приобретения товаров у физлиц на рынке</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211488/bssPhr71/"></a><a data-anchor="/document/16/211488/dfas65mfe8/" data-dfa="dfas65mfe8"></a>По общему правилу приобретение имущества у физлиц оформляют договором купли-продажи и актом приема-передачи (<span num="22" target="_self" lnktype="intlnk" title="" class="doc">ст. 386 ГК</span>). В договоре купли-продажи должен быть указан ПИНФЛ физлица, так как его нужно будет отразить в налоговых расчетах по НДФЛ. Предприятие может приобретать у физических лиц, не являющихся субъектами предпринимательства, только их личное имущество. Оплачивать товары можно наличными денежными средствами, полученными из обслуживающего банка, с приложением документов, подтверждающих приобретение товара.</p><p><a data-anchor="/document/16/211488/bssPhr72/"></a><a data-anchor="/document/16/211488/dfasu88gui/" data-dfa="dfasu88gui"></a>Чтобы признать в учете имущество, которое приобрели у физлица на рынке, оформите авансовый отчет, закупочный акт. Его заполняет сотрудник предприятия – материально-ответственное лицо, если покупки сделаны на базаре. Данные авансового отчета должны отражать, на что и в какой сумме израсходованы деньги предприятия, полученные подотчетным лицом. Фактическое поступление товаров подтверждает документ от работника склада – приходный ордер или накладная на прием товаров.</p><p><a data-anchor="/document/16/211488/bssPhr73/"></a><a data-anchor="/document/16/211488/dfas0rwgw7/" data-dfa="dfas0rwgw7"></a>Доход от продажи личного имущества физлица относят к имущественным доходам (<span num="23" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span> ст. 375 НК). Доходы от реализации имущества определяют как превышение суммы реализации данного имущества над стоимостью его приобретения, подтверждаемой документально. Если нет документального подтверждения указанной стоимости, то доходом признают стоимость реализованного имущества.</p><p><a data-anchor="/document/16/211488/bssPhr74/"></a><a data-anchor="/document/16/211488/dfasrsnqg9/" data-dfa="dfasrsnqg9"></a>При выплате имущественных доходов налоговый агент обязан удержать НДФЛ у источника выплаты (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">п. 3</span> ч. 1 ст. 387 НК).&nbsp;На основании <span num="54" target="_self" lnktype="intlnk" title="" class="doc">п. 8</span> ст. 378 НК, имеется льгота по НДФЛ. При сдаче расчета по НДФЛ налоговый агент обязан показать в отчете имущественный доход физлица и отразить льготу в Приложении № 2.</p></div><p><a data-anchor="/document/16/211488/dfaspyw1g8/" data-dfa="dfaspyw1g8"></a><a data-anchor="/document/16/211488/bssPhr75/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">С 2027 года заработают новые правила возмещения ущерба от госслужащих</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/86/77957/bssPhr527/"></a><a data-anchor="/document/86/77957/dfasf0eqvg/" data-dfa="dfasf0eqvg"></a><a data-anchor="/document/86/77957/dfasxo8ocb/" data-dfa="dfasxo8ocb"></a>С 28 января 2027 года компании&nbsp;и физлица смогут получать компенсацию за ущерб от незаконных решений, действий или бездействие госорганов и их должностных лиц (<a data-anchor="/document/86/77957/backlinkanchor17488/" type="backlink-anchor"></a><a href="#/document/90/20513/dfasxo2fkm/" class="link npd" target="_blank" title="" moduleId="90" documentId="20513" anchor="dfasxo2fkm">Закон</a> от 27.07.2026 № ЗРУ-1161).&nbsp;Государство впервые установило единый механизм выплат. Если раньше право на возмещение существовало, но его было сложно получить на практике, теперь компенсацию будут выплачивать из специальных территориальных фондов. Государство взыщет деньги&nbsp;с виновного в порядке регресса. Смотрите также,&nbsp;<a data-anchor="/document/86/77957/backlinkanchor17616/" type="backlink-anchor"></a><a href="#/document/86/63904" data-warm-notices="45599111" data-warm-notice-type="error" target="_blank" title="" moduleId="86" documentId="63904" class="link ">в какой срок работодатель вправе обратиться в суд за возмещением&nbsp;ущерба, причиненного сотрудником</a>.</p><p><a data-anchor="/document/86/77957/bssPhr528/"></a><a data-anchor="/document/86/77957/dfas6gm6ph/" data-dfa="dfas6gm6ph"></a><strong>Налоговые инспекции. </strong>Возмещение вреда от некоторых госорганов регулируют отдельные законы. Например, это касается Национальной&nbsp;гвардии, органов&nbsp;внутренних дел, таможни, государственных&nbsp;нотариусов (<a data-anchor="/document/86/77957/backlinkanchor17489/" type="backlink-anchor"></a><a href="#/document/90/20434/dfasrw0xzu/" class="link npd" target="_blank" title="" moduleId="90" documentId="20434" anchor="dfasrw0xzu">ст.&nbsp;2</a> Закона от 27.07.2026 № ЗРУ-1161). Налоговый комитет не вошел в этот перечень, поэтому на него распространяется новый общий порядок. Например, теперь проще&nbsp;взыскать убытки,&nbsp;если суд признает незаконными:</p><ul class="c-list"><li><a data-anchor="/document/86/77957/bssPhr529/"></a><a data-anchor="/document/86/77957/dfasuqq6ld/" data-dfa="dfasuqq6ld"></a><a data-anchor="/document/86/77957/backlinkanchor17617/" type="backlink-anchor"></a><a href="#/document/86/51024" data-warm-notices="45599110" data-warm-notice-type="error" target="_blank" title="" moduleId="86" documentId="51024" class="link ">блокировку банковских счетов</a>;</li><li>инкассовое поручение;</li><li>налоговые доначисления;</li><li>отказ принять уточненную налоговую отчетность;</li><li>другие незаконные действия или бездействие инспекторов.</li></ul><p><a data-anchor="/document/86/77957/bssPhr530/"></a><a data-anchor="/document/86/77957/dfasw29i95/" data-dfa="dfasw29i95"></a>Одного факта нарушения недостаточно. Чтобы получить компенсацию, нужно&nbsp;решение суда, которое вступило в законную силу и определяет размер причиненного ущерба. Приводим&nbsp;<a data-anchor="/document/86/77957/backlinkanchor17490/" type="backlink-anchor"></a><a href="#/document/16/210123" data-warm-notices="45599109" data-warm-notice-type="error" target="_blank" title="" moduleId="16" documentId="210123" class="link ">порядок подачи искового заявления</a>.</p><p><a data-anchor="/document/86/77957/bssPhr531/"></a><a data-anchor="/document/86/77957/dfasi8vmgm/" data-dfa="dfasi8vmgm"></a><strong>Размер возмещения.&nbsp;</strong>По&nbsp;<a data-anchor="/document/86/77957/backlinkanchor17491/" type="backlink-anchor"></a><a href="#/document/90/20513/dfasxo2fkm/" class="link npd" target="_blank" title="" moduleId="90" documentId="20513" anchor="dfasxo2fkm">Закону</a>&nbsp;возмещается:</p><ul class="c-list"><li><a data-anchor="/document/86/77957/bssPhr532/"></a><a data-anchor="/document/86/77957/dfasbck5mr/" data-dfa="dfasbck5mr"></a>реальный ущерб&nbsp;– расходы на восстановление нарушенного права, а также стоимость утраченного или поврежденного имущества;</li><li>упущенная выгода – доходы, которые получили&nbsp;бы при обычных условиях гражданского оборота, если бы право не нарушили;</li><li>моральный вред&nbsp;– только физлицам, юридическим лицам моральный вред не компенсируют.</li></ul><p><a data-anchor="/document/86/77957/bssPhr533/"></a><a data-anchor="/document/86/77957/dfasg4v86o/" data-dfa="dfasg4v86o"></a><strong>Порядок выплаты&nbsp;компенсации.&nbsp;</strong>После получения исполнительного документа:</p><ul class="c-list"><li><a data-anchor="/document/86/77957/bssPhr534/"></a><a data-anchor="/document/86/77957/dfas3mpa03/" data-dfa="dfas3mpa03"></a>юридическая служба подготовит проект решения в течение пяти рабочих дней;</li><li>наблюдательный совет примет решение за один рабочий день;</li><li>подразделение Минэкономфина перечислит деньги взыскателю еще за один рабочий день.</li></ul><p><a data-anchor="/document/86/77957/bssPhr535/"></a><a data-anchor="/document/86/77957/dfasv9dk78/" data-dfa="dfasv9dk78"></a><a data-anchor="/document/86/77957/dfas7563od/" data-dfa="dfas7563od"></a><strong>Спорные ситуации.&nbsp;</strong>Закон закрепил еще одну важную гарантию. Если при возмещении вреда возникнут противоречия или неясности законодательства, их будут толковать в пользу физлиц и бизнеса (<a data-anchor="/document/86/77957/backlinkanchor17492/" type="backlink-anchor"></a><a href="#/document/90/20434/dfas811l3r/" class="link npd" target="_blank" title="" moduleId="90" documentId="20434" anchor="dfas811l3r">ст. 18</a> Закона от 27.07.2026 № ЗРУ-1161).&nbsp;Одновременно закон внес изменения в Гражданский, Гражданский процессуальный, Экономический процессуальный кодексы и законодательство об исполнительном производстве. Поправки&nbsp;должны ускорить исполнение судебных решений о взыскании ущерба.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="45599107" data-warm-notice-type="error" num="17470" target="_blank" lnktype="intlnk" title="" class="doc">Порядок подачи искового заявления</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="45599106" data-warm-notice-type="error" num="17471" target="_blank" lnktype="intlnk" title="" class="doc">Как защитить свои интересы в экономическом суде</span></li></ul></div><div class="incut-v4__icon"></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

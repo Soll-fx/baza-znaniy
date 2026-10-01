@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие условия предусмотреть в договоре индивидуальному предпринимателю </h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулчехра&nbsp;Юсупханова,&nbsp;Главный редактор Системы Кадры, юрист</p></td></tr></table><div class="doc-snippet"><p><a data-anchor="/document/16/207128/dfas7iyu3u/" data-dfa="dfas7iyu3u"></a><a data-anchor="/document/16/207128/bssPhr3/"></a>Чтобы оформить&nbsp;трудовой&nbsp;договор&nbsp;с работником индивидуального&nbsp;предпринимателя, определите его форму и разделы. В&nbsp;договоре укажите обязательные условия&nbsp;условия и&nbsp;при необходимости дополните его дополнительными сведениями.</p></div><div id="documentBody" class="content-common"><a data-anchor="/document/16/207128/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/207128/bssPhr4/"></a><a data-anchor="/document/16/207128/dfas4k4mkn/" data-dfa="dfas4k4mkn"></a>Форма договора</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr6/"></a><a data-anchor="/document/16/207128/dfasgcnngf/" data-dfa="dfasgcnngf"></a>Индивидуальный предприниматель вправе заключить с работником трудовой договор на неопределенный срок либо срочный трудовой договор. При этом срок трудового договора — не превышает срок действия свидетельства о государственной регистрации предпринимателя.</p><p><a data-anchor="/document/16/207128/bssPhr7/"></a><a data-anchor="/document/16/207128/dfas418x29/" data-dfa="dfas418x29"></a>Индивидуальный предприниматель при приеме работника вправе составить <span num="18" lnktype="intlnk" title="" class="doc">трудовой договор</span> в произвольной форме, с учетом <span num="19" lnktype="intlnk" title="" class="doc">типовой формы</span>, которую утвердили Кабмин и трехсторонняя комиссия по социально-трудовым вопросам (<span data-warm-notices="43248662" data-warm-notice-type="error" num="20" lnktype="intlnk" title="" class="doc">Приложение № 2</span> к Положению (ПКМ № 219 от 31.07.2015).</p><p><a data-anchor="/document/16/207128/bssPhr8/"></a><a data-anchor="/document/16/207128/dfas2cf6c1/" data-dfa="dfas2cf6c1"></a>Включите в договор все обязательные сведения и условия: укажите место работы, трудовую функцию, условия труда на рабочем месте, оплаты труда.</p><p><a data-anchor="/document/16/207128/bssPhr9/"></a><a data-anchor="/document/16/207128/dfast5su7s/" data-dfa="dfast5su7s"></a>Если предприниматель заключит с работником трудовой договор по такой форме, возникает право&nbsp;— частично или в полном объеме не оформлять локальные акты:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr10/"></a><a data-anchor="/document/16/207128/dfas321avx/" data-dfa="dfas321avx"></a><span num="21" lnktype="intlnk" title="" class="doc">Правила&nbsp;внутреннего трудового распорядка</span>;</li><li><span num="22" lnktype="intlnk" title="" class="doc">Положение&nbsp;об оплате труда</span>;</li><li><span num="23" lnktype="intlnk" title="" class="doc">Положение&nbsp;о премировании</span>;</li><li><span data-warm-notices="43264481" data-warm-notice-type="error" num="171" target="_self" lnktype="intlnk" title="" class="doc">График&nbsp;сменности</span>;</li><li>другие акты по труду.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/207128/bssPhr11/"></a><a data-anchor="/document/16/207128/dfasfr7tqe/" data-dfa="dfasfr7tqe"></a>Если не оформляете локальные акты, то условия и гарантии включайте в типовой трудовой договор.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/207128/bssPhr13/"></a><a data-anchor="/document/16/207128/dfaslirw2k/" data-dfa="dfaslirw2k"></a><span num="24" lnktype="intlnk" title="" class="doc">Трудовой договор</span> оформите в трех экземплярах – один оставляет себе индивидуальный предприниматель, второй передайте работнику, а третий – представьте в орган государственной налоговой службы по месту налогового учета индивидуального предпринимателя. На экземпляре предпринимателя расписывается работник.&nbsp;Подпись подтверждает, что работник получил свой экземпляр трудового договора. Заверять в трудовом договоре подпись индивидуального предпринимателя печатью не надо.</p><p><a data-anchor="/document/16/207128/bssPhr14/"></a><a data-anchor="/document/16/207128/dfasog6f2b/" data-dfa="dfasog6f2b"></a>Язык, на котором составляется трудовой договор, законодательством не установлен. Рекомендуем составлять трудовой договор на языке, которым владеет работник. В случае, если на предприятии язык делопроизводства отличается от языка, которым владеет нанимаемый работник – заключите договор на двух языках (зеркальный двуязычный договор).</p><p><a data-anchor="/document/16/207128/bssPhr15/"></a><a data-anchor="/document/16/207128/dfasgluupw/" data-dfa="dfasgluupw"></a>Такие правила установлены <span num="78" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;508</span> ТК.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="252" target="_self" lnktype="intlnk" title="" class="doc">Как заключить трудовой договор с работником</span></li><li class="incut-v4-more-about__item"><span num="253" target="_self" lnktype="intlnk" title="" class="doc">Трудовой договор между индивидуальным предпринимателем и работником индивидуального предпринимателя</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/207128/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/207128/bssPhr17/"></a><a data-anchor="/document/16/207128/dfasqowg2g/" data-dfa="dfasqowg2g"></a>Разделы</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr19/"></a><a data-anchor="/document/16/207128/dfasvp71ic/" data-dfa="dfasvp71ic"></a>Как правило, трудовой договор состоит из:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr20/"></a><a data-anchor="/document/16/207128/dfasacfabf/" data-dfa="dfasacfabf"></a>заголовка;</li><li><a data-anchor="/document/16/207128/dfasoqvuoo/" data-dfa="dfasoqvuoo"></a>преамбулы;</li><li><a data-anchor="/document/16/207128/dfasrps5ng/" data-dfa="dfasrps5ng"></a>пронумерованных разделов.</li></ul><p><a data-anchor="/document/16/207128/bssPhr21/"></a><a data-anchor="/document/16/207128/dfasb287p5/" data-dfa="dfasb287p5"></a>В заголовке трудового договора укажите место и дату его заключения. Предусмотрите место для регистрационного номера, если ведете нумерацию трудовых договоров.</p><p><a data-anchor="/document/16/207128/bssPhr22/"></a><a data-anchor="/document/16/207128/dfasag73sm/" data-dfa="dfasag73sm"></a>В преамбуле трудового договора укажите:</p><p><a data-anchor="/document/16/207128/bssPhr23/"></a><a data-anchor="/document/16/207128/dfasklhkuz/" data-dfa="dfasklhkuz"></a>– фамилию, имя, отчество работника, с которым заключаете трудовой договор;<br>– фамилию, имя отчество индивидуального предпринимателя.</p><p><a data-anchor="/document/16/207128/bssPhr24/"></a><a data-anchor="/document/16/207128/dfasyep66x/" data-dfa="dfasyep66x"></a>Кроме того, в преамбуле дайте ссылку на свидетельство о госрегистрации предпринимателя — основание, наделяющее работодателя полномочиями на подписание трудового договора.</p><p><a data-anchor="/document/16/207128/bssPhr25/"></a><a data-anchor="/document/16/207128/dfasp8v25r/" data-dfa="dfasp8v25r"></a>На практике трудовой договор включает в себя следующие разделы:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr26/"></a><a data-anchor="/document/16/207128/dfasfe5k26/" data-dfa="dfasfe5k26"></a>«Общие положения»;</li><li>«Права и обязанности работника»;</li><li>«Права и обязанности работодателя»;</li><li>«Оплата труда и социальные гарантии»;</li><li>«Рабочее время и время отдыха»;</li><li>«Иные условия трудового договора»;</li><li>«Ответственность сторон трудового договора»;</li><li>«Изменение и прекращение трудового договора»;</li><li>«Заключительные положения»;</li><li>«Адреса, реквизиты и подписи сторон».</li></ul></div><a data-anchor="/document/16/207128/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/207128/bssPhr27/"></a><a data-anchor="/document/16/207128/dfaswwzvg9/" data-dfa="dfaswwzvg9"></a>Общие положения</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr29/"></a><a data-anchor="/document/16/207128/dfaszazo63/" data-dfa="dfaszazo63"></a>В раздел «Общие положения» трудового договора внесите обязательные условия трудового договора:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr30/"></a><a data-anchor="/document/16/207128/dfas7gufkg/" data-dfa="dfas7gufkg"></a>место работы – у индивидуального предпринимателя, месторасположение организации;</li><li>трудовую функцию – работа по определенной профессии, специальности, квалификации либо должности, а также конкретный вид поручаемой работнику работы;</li><li>дату начала работы – календарная дата, когда работник приступает к&nbsp;работе, обусловленной трудовым договором;</li><li>срок трудового договора в случае, когда с работником заключен срочный трудовой договор.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/207128/bssPhr31/"></a><a data-anchor="/document/16/207128/dfascr36gz/" data-dfa="dfascr36gz"></a>Индивидуальный предприниматель вправе заключать срочный трудовой договор с работником.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207128/bssPhr32/"></a><a data-anchor="/document/16/207128/dfasay3tff/" data-dfa="dfasay3tff"></a>При этом, срок трудового договора не превышает срок действия свидетельства о госрегистрации индивидуального предпринимателя.&nbsp;</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может ли предприниматель заключить с работником срочный трудовой договор</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207128/bssPhr34/"></a><a data-anchor="/document/16/207128/dfas8iu8zl/" data-dfa="dfas8iu8zl"></a>Да, может.<br>Предприниматель вправе заключить с работником договор на неопределенный срок либо <span num="199" target="_self" lnktype="intlnk" title="" class="doc">срочный трудовой договор</span>. При этом срок трудового договора не превышает срок действия свидетельства о госрегистрации индивидуального предпринимателя (<span num="89" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 508 ТК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="285" target="_self" lnktype="intlnk" title="" class="doc">Трудовой договор между индивидуальным предпринимателем и работником индивидуального предпринимателя</span></li><li class="incut-v4-more-about__item"><span num="286" target="_self" lnktype="intlnk" title="" class="doc">Как заключить срочный трудовой договор</span></li></ul></div><div class="incut-v4__icon"></div></div></div></div></div><a data-anchor="/document/16/207128/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/207128/bssPhr36/"></a><a data-anchor="/document/16/207128/dfase4bs2v/" data-dfa="dfase4bs2v"></a>Права и обязанности работника</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr38/"></a><a data-anchor="/document/16/207128/dfaso3wy97/" data-dfa="dfaso3wy97"></a>В разделе «Права и обязанности работника» укажите:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr39/"></a><a data-anchor="/document/16/207128/dfas3yrrrs/" data-dfa="dfas3yrrrs"></a>трудовые права и обязанности, предусмотренные Законом и обязательные для всех работников;</li><li>трудовые права и обязанности, которые индивидуальный предприниматель предусмотрел для конкретной должности. Если индивидуальный предприниматель разработал должностные инструкции или иные локальные акты, то права и обязанности не дублируйте, сделать ссылку на инструкцию.&nbsp; Работника ознакомьте&nbsp; под подпись с должностной инструкцией в процессе изучения трудового договора.</li></ul><p><a data-anchor="/document/16/207128/bssPhr40/"></a><a data-anchor="/document/16/207128/dfasmt32sd/" data-dfa="dfasmt32sd"></a>Если в трудовом договоре не указали права и обязанности, которые прописаны в Законе, то это не лишает и не дает право ни работнику, ни работодателю ими пренебрегать (<span num="200" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 104 ТК).</p></div><a data-anchor="/document/16/207128/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/207128/bssPhr41/"></a><a data-anchor="/document/16/207128/dfasf92ote/" data-dfa="dfasf92ote"></a>Права и обязанности работодателя</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr43/"></a><a data-anchor="/document/16/207128/dfasp0emct/" data-dfa="dfasp0emct"></a>В раздел трудового договора «Права и обязанности работодателя» включите информацию из статей <span num="91" target="_self" lnktype="intlnk" title="" class="doc">24</span> и <span num="92" target="_self" lnktype="intlnk" title="" class="doc">25</span>&nbsp;ТК. Кроме того, в этом разделе рекомендуем предусмотреть дополнительные права и обязанности работодателя.</p><p><a data-anchor="/document/16/207128/bssPhr44/"></a><a data-anchor="/document/16/207128/dfasvd0qde/" data-dfa="dfasvd0qde"></a>Если в трудовом договоре не указали права и обязанности, которые прописаны в Законе, то это не лишает и не дает право ни работодателю, ни работнику ими пренебрегать&nbsp;(<span num="93" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span>&nbsp;ст. 104 ТК).</p></div><a data-anchor="/document/16/207128/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/207128/bssPhr45/"></a><a data-anchor="/document/16/207128/dfastiqcfq/" data-dfa="dfastiqcfq"></a>Оплата труда и социальные гарантии</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr47/"></a><a data-anchor="/document/16/207128/dfashn7pd8/" data-dfa="dfashn7pd8"></a>В раздел трудового договора «Оплата труда и социальные гарантии» включите обязательное условие о заработной плате работника на основании системы оплаты труда, которая установлена у индивидуального предпринимателя. Укажите конкретный размер тарифной ставки или оклада, компенсационные и стимулирующие выплаты. При этом, когда указываете размер оклада или тарифной ставки, учтите квалификацию работника, сложность выполняемой работы и МРОТ. Поскольку индивидуальные предприниматели освобождены от обязанности принятия локальных актов, в случае их отсутствия, пропишите подробно порядок выплат в трудовом договоре.</p><p><a data-anchor="/document/16/207128/bssPhr48/"></a><a data-anchor="/document/16/207128/dfastravul/" data-dfa="dfastravul"></a>Кроме того, если работник будет выполнять работу с вредными или опасными условиями труда, укажите компенсации за нее и характеристику условий труда на рабочем месте.</p></div><a data-anchor="/document/16/207128/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/207128/bssPhr49/"></a><a data-anchor="/document/16/207128/dfasoiqwam/" data-dfa="dfasoiqwam"></a>Рабочее время и время отдыха</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr51/"></a><a data-anchor="/document/16/207128/dfasi1l6ve/" data-dfa="dfasi1l6ve"></a>Режим работы, порядок предоставления выходных дней и ежегодных трудовых отпусков определяю по соглашению между работником и индивидуальным предпринимателем.</p><p><a data-anchor="/document/16/207128/bssPhr52/"></a><a data-anchor="/document/16/207128/dfasf2g7fc/" data-dfa="dfasf2g7fc"></a>В разделе трудового договора «Рабочее время и время отдыха» укажите продолжительность рабочей недели, выходные дни, время начала и окончания рабочего дня, время перерывов на обед.&nbsp;При этом учтите, что продолжительность рабочей недели не может быть больше, чем установлена Трудовым кодексом.</p><p><a data-anchor="/document/16/207128/bssPhr53/"></a><a data-anchor="/document/16/207128/dfasn7r2od/" data-dfa="dfasn7r2od"></a>В этот раздел также включите условия о продолжительности <span num="125" target="_self" lnktype="intlnk" title="" class="doc">ежегодного оплачиваемого отпуска</span>. Минимальная продолжительность трудового отпуска — 21 календарный день.</p><p><a data-anchor="/document/16/207128/bssPhr54/"></a><a data-anchor="/document/16/207128/dfasrh8cg0/" data-dfa="dfasrh8cg0"></a>Это установлено статьями <span num="94" target="_self" lnktype="intlnk" title="" class="doc">182</span>, <span num="95" target="_self" lnktype="intlnk" title="" class="doc">217</span>, <span num="96" target="_self" lnktype="intlnk" title="" class="doc">509</span> ТК.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="256" target="_self" lnktype="intlnk" title="" class="doc">Как предоставить ежегодный отпуск</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="43264479" data-warm-notice-type="error" num="257" target="_self" lnktype="intlnk" title="" class="doc">Как установить перерывы в течение рабочего дня</span></li></ul></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/207128/bssPhr56/"></a><a data-anchor="/document/16/207128/dfaslwou59/" data-dfa="dfaslwou59"></a>Поскольку индивидуальные предприниматели вправе не утверждать график отпусков, в трудовом договоре предусмотрите либо конкретные даты, в которые работнику предоставляете отпуск, либо процедуру получения отпуска.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207128/bssPhr57/"></a><a data-anchor="/document/16/207128/dfas2cgcl0/" data-dfa="dfas2cgcl0"></a>Например, «работник вправе направить заявление работодателю с просьбой предоставить отпуск. Заявление подается не позднее одного месяца до дня предоставления отпуска. В случае невозможности предоставления отпуска в даты, указанные в заявлении работника, работодатель обязан указать&nbsp; альтернативную дату&nbsp;в течение данного рабочего года, в которые ежегодный трудовой отпуск может быть предоставлен».</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какие обязательные условия ИП указать в трудовом договоре с работником</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207128/bssPhr59/"></a><a data-anchor="/document/16/207128/dfasffcm0a/" data-dfa="dfasffcm0a"></a>В трудовой договор рекомендуем включить обязательные сведения и условия, а именно:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr60/"></a><a data-anchor="/document/16/207128/dfasngg73z/" data-dfa="dfasngg73z"></a>место работы;</li><li>трудовую функцию;</li><li>дату начала работы;</li><li>условия оплаты труда;</li><li>режим рабочего времени и времени отдыха;</li><li>гарантии и компенсации за работу с вредными или опасными условиями труда;</li><li>условия, которые определяют характер работы, например, разъездной, в пути и др.;</li><li>условия труда на рабочем месте;</li><li>обязательное социальное страхование.</li></ul><p><a data-anchor="/document/16/207128/bssPhr61/"></a><a data-anchor="/document/16/207128/dfas443fbz/" data-dfa="dfas443fbz"></a>Предприниматель вправе использовать типовую форму трудового договора, утвержденную Кабмином и трехсторонней комиссией по социально-трудовым вопросам (<span data-warm-notices="43248660" data-warm-notice-type="error" num="37" lnktype="intlnk" title="" class="doc">Приложение №2</span> к Положению (ПКМ-219 от 31.07.2015) и дополнить его условиями, не ухудшающими положение работника.</p><p><a data-anchor="/document/16/207128/bssPhr62/"></a><a data-anchor="/document/16/207128/dfas6vh5kr/" data-dfa="dfas6vh5kr"></a><span num="38" lnktype="intlnk" title="" class="doc">Трудовой договор</span> заключают в письменной форме в трех экземплярах, имеющих одинаковую силу, каждый из которых подписывается сторонами. При этом заверение печатью подписи индивидуального предпринимателя не требуется.</p></div></div></div><a data-anchor="/document/16/207128/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/207128/bssPhr63/"></a><a data-anchor="/document/16/207128/dfas96f8n9/" data-dfa="dfas96f8n9"></a>Иные условия</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr65/"></a><a data-anchor="/document/16/207128/dfasyhocdm/" data-dfa="dfasyhocdm"></a>Кроме основных обязательных условий включите в <span num="39" lnktype="intlnk" title="" class="doc">трудовой договор</span> также другие условия, если это прямо устанавливает Закон или предусматривает соглашение сторон.</p><p><a data-anchor="/document/16/207128/bssPhr66/"></a><a data-anchor="/document/16/207128/dfasuppqt8/" data-dfa="dfasuppqt8"></a>Поэтому в раздел «Иные условия трудового договора» включите любые дополнительные условия, которые не ухудшают положение работника по сравнению с Законом. К ним относят:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr67/"></a><a data-anchor="/document/16/207128/dfashcawzk/" data-dfa="dfashcawzk"></a>неразглашение коммерческой тайны или служебной тайны;</li><li>обязанность работника отработать определенный срок после обучения, которое проводилось за счет индивидуального предпринимателя;</li><li>виды и условия дополнительного страхования работника. Например, добровольное медицинское страхование;</li><li>улучшение социально-бытовых условий работника и членов его семьи.</li></ul><p><a data-anchor="/document/16/207128/bssPhr68/"></a><a data-anchor="/document/16/207128/dfaswlatmq/" data-dfa="dfaswlatmq"></a>В случае изменения условий труда работника индивидуальный предприниматель письменно предупреждает работника за 14 календарных дней. Это предусмотрено <span num="124" target="_self" lnktype="intlnk" title="" class="doc">статьей 510</span> ТК.</p></div><a data-anchor="/document/16/207128/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/207128/bssPhr69/"></a><a data-anchor="/document/16/207128/dfas84evn7/" data-dfa="dfas84evn7"></a>Ответственность сторон</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr71/"></a><a data-anchor="/document/16/207128/dfasgnxstw/" data-dfa="dfasgnxstw"></a>В разделе <span num="41" lnktype="intlnk" title="" class="doc">трудового договора</span> «Ответственность сторон» пропишите ответственность работника и индивидуального предпринимателя:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr72/"></a><a data-anchor="/document/16/207128/dfasc7115k/" data-dfa="dfasc7115k"></a>материальную ответственность индивидуального предпринимателя;</li><li>материальную ответственность работника;</li><li>ответственность за совершение дисциплинарного проступка.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/207128/bssPhr73/"></a><a data-anchor="/document/16/207128/dfashp3kse/" data-dfa="dfashp3kse"></a>В трудовом договоре с работником индивидуального предпринимателя вправе предусмотреть перечень однократных грубых нарушений (ч. 4 ст. 511 ТК).</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207128/bssPhr74/"></a><a data-anchor="/document/16/207128/dfasp2e2x9/" data-dfa="dfasp2e2x9"></a>Включите в раздел трудового договора «Ответственность сторон» понятие дисциплинарного проступка, перечень нарушений и укажите ответственность работника за совершение дисциплинарного проступка.</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/207128/tit10/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit10"><a data-anchor="/document/16/207128/bssPhr75/"></a><a data-anchor="/document/16/207128/dfasvc13zq/" data-dfa="dfasvc13zq"></a>Изменение и прекращение трудового договора</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr77/"></a><a data-anchor="/document/16/207128/dfasgbcsny/" data-dfa="dfasgbcsny"></a>В раздел «Изменение и прекращение трудового договора» внесите условия об изменении <span num="43" lnktype="intlnk" title="" class="doc">трудового договора</span> и порядке его прекращения:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr78/"></a><a data-anchor="/document/16/207128/dfaskerdme/" data-dfa="dfaskerdme"></a>порядок изменения работодателем условий трудового договора в связи с изменением организационных или технологических условий труда;</li><li>порядок прекращения трудового договора по собственному желанию работника.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/207128/bssPhr79/"></a><a data-anchor="/document/16/207128/dfasbi8xec/" data-dfa="dfasbi8xec"></a>Сроки предупреждения и размеры выходного пособия при прекращении трудового договора оговорите в трудовом договоре.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207128/bssPhr80/"></a><a data-anchor="/document/16/207128/dfasklg54d/" data-dfa="dfasklg54d"></a>Если не укажите эти условия в договоре, то будут действовать гарантии, предусмотренные Трудовым кодексом&nbsp;(<span num="228" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 511 ТК).&nbsp;</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="258" target="_self" lnktype="intlnk" title="" class="doc">В каких случаях и по каким основаниям можно уволить работника</span></li><li class="incut-v4-more-about__item"><span num="259" target="_self" lnktype="intlnk" title="" class="doc">Как прекратить трудовой договор за однократное грубое нарушение</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/207128/tit11/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit11"><a data-anchor="/document/16/207128/bssPhr82/"></a><a data-anchor="/document/16/207128/dfasl5s3nz/" data-dfa="dfasl5s3nz"></a>Заключительные положения</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr84/"></a><a data-anchor="/document/16/207128/dfasypigyb/" data-dfa="dfasypigyb"></a>В разделе «Заключительные положения» предусмотрите, как вы будете разрешать возможные трудовые споры и разногласия по вопросам несоблюдения <span num="45" lnktype="intlnk" title="" class="doc">трудового договора</span>.</p></div><a data-anchor="/document/16/207128/tit12/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit12"><a data-anchor="/document/16/207128/bssPhr85/"></a><a data-anchor="/document/16/207128/dfas64lhzg/" data-dfa="dfas64lhzg"></a>Адреса, реквизиты и подписи сторон</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr87/"></a><a data-anchor="/document/16/207128/dfas5iwbb7/" data-dfa="dfas5iwbb7"></a>В реквизитах работника укажите:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr88/"></a><a data-anchor="/document/16/207128/dfastf9qye/" data-dfa="dfastf9qye"></a>фамилию, имя, отчество;</li><li>сведения о документах, удостоверяющих личность (серию, номер паспорта и орган, его выдавший);</li><li>адрес места жительства или пребывания и контактные данные;</li><li>ИНН;</li><li>ПИНФЛ.</li></ul><p><a data-anchor="/document/16/207128/bssPhr89/"></a><a data-anchor="/document/16/207128/dfasy8kklc/" data-dfa="dfasy8kklc"></a>В реквизитах работодателя укажите:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr90/"></a><a data-anchor="/document/16/207128/dfasbaqvea/" data-dfa="dfasbaqvea"></a>наименование работодателя – Ф.И.О. индивидуального предпринимателя;</li><li>адрес места жительства работодателя-индивидуального предпринимателя;</li><li>ПИНФЛ;</li><li>номер и дата выдачи свидетельства о государственной регистрации;</li><li>банковские реквизиты;</li><li>контактные данные работодателя.</li></ul><p><a data-anchor="/document/16/207128/bssPhr91/"></a><a data-anchor="/document/16/207128/dfasgpletz/" data-dfa="dfasgpletz"></a>Если при заключении трудового договора в него не были включены какие-либо реквизиты, то это не будет основанием для признания трудового договора незаключенным или его прекращения. При этом, вы обязаны составить с работником допсоглашение и внести недостающие реквизиты.</p><p><a data-anchor="/document/16/207128/bssPhr92/"></a><a data-anchor="/document/16/207128/dfas9qoevc/" data-dfa="dfas9qoevc"></a>В случае изменения реквизитов – уведомите работника об этом в письменном виде в течение 3 рабочих дней с момента их изменения. Такая же обязанность и у работника.</p><p><a data-anchor="/document/16/207128/bssPhr93/"></a><a data-anchor="/document/16/207128/dfasytpf1r/" data-dfa="dfasytpf1r"></a>Также в разделе предусмотрите место для подписей сторон трудового договора. Поскольку <span num="57" lnktype="intlnk" title="" class="doc">трудовой договор</span> подписывают индивидуальный предприниматель и работник. Для этого пропишите место для самих подписей и для их расшифровок. При этом заверять печатью не нужно.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="43264480" data-warm-notice-type="error" num="260" target="_self" lnktype="intlnk" title="" class="doc">Какие сведения указать в разделе трудового договора «Адреса, реквизиты и подписи сторон»</span></li><li class="incut-v4-more-about__item"><span num="261" target="_self" lnktype="intlnk" title="" class="doc">Трудовой договор между индивидуальным предпринимателем и работником индивидуального предпринимателя</span></li></ul></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какие реквизиты ИП нужно указать в трудовом договоре с работником</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207128/bssPhr96/"></a><a data-anchor="/document/16/207128/dfas1eaa1g/" data-dfa="dfas1eaa1g"></a>В разделе «Адреса, реквизиты и подписи сторон» трудового договора обязательно укажите следующие сведения об индивидуальном предпринимателе:</p><ul class="c-list"><li><a data-anchor="/document/16/207128/bssPhr97/"></a><a data-anchor="/document/16/207128/dfaste7q1b/" data-dfa="dfaste7q1b"></a>Ф. И. О. индивидуального предпринимателя;</li><li>сведения о документе, который удостоверяет личность работодателя – физического лица;</li><li>ПИНФЛ индивидуального предпринимателя;</li><li>свидетельство о государственной регистрации;</li><li>адрес регистрации по месту жительства работодателя – индивидуального предпринимателя из документа, удостоверяющего личность;</li><li>банковские реквизиты.</li></ul><p><a data-anchor="/document/16/207128/bssPhr98/"></a><a data-anchor="/document/16/207128/dfas35ala9/" data-dfa="dfas35ala9"></a>При этом заверение в <span num="47" lnktype="intlnk" title="" class="doc">трудовом договоре</span> подписи индивидуального предпринимателя печатью не требуется.</p></div></div></div><a data-anchor="/document/16/207128/tit13/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit13"><a data-anchor="/document/16/207128/bssPhr99/"></a><a data-anchor="/document/16/207128/dfasqw0wqb/" data-dfa="dfasqw0wqb"></a>Дополнительные реквизиты&nbsp;</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207128/bssPhr101/"></a><a data-anchor="/document/16/207128/dfaslpa94a/" data-dfa="dfaslpa94a"></a>В трудовом договоре стоит предусмотреть место для дополнительной подписи работника. Это связано с тем, что работник своей подписью на экземпляре работодателя подтверждает&nbsp;получение договора (<span num="153" target="_self" lnktype="intlnk" title="" class="doc">ст. 106</span> ТК). Это рекомендуем оформить так: «Экземпляр <span num="59" lnktype="intlnk" title="" class="doc">трудового договора</span> получил, подпись, расшифровка подписи, дата получения».</p><p><a data-anchor="/document/16/207128/bssPhr102/"></a><a data-anchor="/document/16/207128/dfasyd0f65/" data-dfa="dfasyd0f65"></a>При этом работник вправе собственноручно поставить отметку о получении второго экземпляра трудового договора на экземпляре работодателя.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязан ли работодатель ставить печать&#160;на трудовом договоре</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207128/bssPhr104/"></a><a data-anchor="/document/16/207128/dfas8otowp/" data-dfa="dfas8otowp"></a>Нет.</p><p><a data-anchor="/document/16/207128/bssPhr105/"></a><a data-anchor="/document/16/207128/dfasla0at2/" data-dfa="dfasla0at2"></a>Закон не требует скреплять печатью трудовые договоры с работниками (<nobr><span data-warm-notices="43248661" data-warm-notice-type="error" num="48" lnktype="intlnk" title="" class="doc">п. 11</span></nobr> Положения (ПКМ № 219 от 31.07.2015).</p></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

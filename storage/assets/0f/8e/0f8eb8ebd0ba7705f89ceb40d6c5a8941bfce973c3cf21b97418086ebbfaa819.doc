@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отразить в бухучете и при налогообложении уценку товаров</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/218460/dfaslnucer/" data-dfa="dfaslnucer"></a><a data-anchor="/document/16/218460/bssPhr3/"></a>В&nbsp;рекомендации&nbsp;— ответы на&nbsp;вопросы: по&nbsp;каким причинам можно уценить товар, как определить его текущую рыночную стоимость, как и&nbsp;когда проводить уценку товара, а&nbsp;также как отразить ее&nbsp;в&nbsp;бухучете. Эксперты привели примеры, как отразить в&nbsp;бухучете продажу уцененного товара и&nbsp;учесть уценку при расчете налога на&nbsp;прибыль и&nbsp;НДС. Узнайте, как отразить уценку товара ниже фактической себестоимости. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218460/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218460/bssPhr4/"></a><a data-anchor="/document/16/218460/dfasflhy3g/" data-dfa="dfasflhy3g"></a>Причины уценки</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218460/bssPhr6/"></a><a data-anchor="/document/16/218460/dfaseqnube/" data-dfa="dfaseqnube"></a>Организация может уценить товаров по&nbsp;разным причинам:</p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr7/"></a><a data-anchor="/document/16/218460/dfass1fnkf/" data-dfa="dfass1fnkf"></a>наличие повреждений;</li><li>полное или частичное устаревание;</li><li>снижение чистой стоимости реализации.</li></ul><p><a data-anchor="/document/16/218460/bssPhr8/"></a><a data-anchor="/document/16/218460/dfas0pkkh2/" data-dfa="dfas0pkkh2"></a>Чистая стоимость реализации&nbsp;— это текущая стоимость запасов за&nbsp;вычетом оцененных затрат по&nbsp;доведению до&nbsp;состояния используемых по&nbsp;назначению и&nbsp;реализации (<span num="27" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;46</span>&nbsp;НСБУ №&nbsp;4). Чистую стоимость реализации определяют по&nbsp;каждой единице, виду товарно-материальных запасов.</p><p><a data-anchor="/document/16/218460/bssPhr9/"></a><a data-anchor="/document/16/218460/dfas8ycksg/" data-dfa="dfas8ycksg"></a>Кроме того, организация может уменьшить стоимость товаров, если затраты на&nbsp;комплектацию, работы по&nbsp;приведению в&nbsp;товарный вид или предполагаемые расходы на&nbsp;реализацию возросли. Также организация может уценить товары в&nbsp;связи с&nbsp;окончанием срока их&nbsp;хранения, порчей или по&nbsp;другим причинам. Уценивать товары могут как торговые, так и&nbsp;неторговые организации. Уценку товаров ниже себестоимости до&nbsp;чистой стоимости реализации проводят, когда на&nbsp;складе большое скопление товаров, оборачиваемость товаров низкая и&nbsp;сумма от&nbsp;их&nbsp;реализации ожидается ниже себестоимости (<span num="9" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;4</span>).</p><p><a data-anchor="/document/16/218460/bssPhr10/"></a><a data-anchor="/document/16/218460/dfasb872bq/" data-dfa="dfasb872bq"></a>Предприятие может провести переоценку товарно-материальных запасов самостоятельно либо с&nbsp;помощью оценочной организации.</p></div><a data-anchor="/document/16/218460/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218460/bssPhr11/"></a><a data-anchor="/document/16/218460/dfas619bnc/" data-dfa="dfas619bnc"></a>Текущая рыночная стоимость товаров</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218460/bssPhr13/"></a><a data-anchor="/document/16/218460/dfasknx3wh/" data-dfa="dfasknx3wh"></a>Перед тем как провести уценку, подтвердите расчет текущей рыночной стоимости товаров. Чтобы установить рыночную цену, ориентируйтесь на&nbsp;уровень цен, который сложился на&nbsp;день уценки товара. Сведения об&nbsp;уровне текущих рыночных цен подтвердите документально. Для этого используйте любые источники информации, такие как:</p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr14/"></a><a data-anchor="/document/16/218460/dfas47qqs3/" data-dfa="dfas47qqs3"></a>данные о&nbsp;текущих ценах на&nbsp;аналогичный товар, полученные в&nbsp;письменной форме от&nbsp;производителей и&nbsp;их&nbsp;официальных дилеров, товарно-сырьевых бирж, бирж недвижимости;</li><li>сведения об&nbsp;уровне цен, имеющиеся у&nbsp;соответствующих государственных органов;</li><li>цены, опубликованные в&nbsp;период проведения переоценки в&nbsp;СМИ и&nbsp;в&nbsp;специальной литературе;</li><li>отчет оценщика о&nbsp;текущей стоимости соответствующей единицы товарно-материальных запасов.</li></ul></div><a data-anchor="/document/16/218460/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218460/bssPhr15/"></a><a data-anchor="/document/16/218460/dfas0rnpup/" data-dfa="dfas0rnpup"></a>Порядок проведения и&nbsp;оформления уценки</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218460/bssPhr18/"></a><a data-anchor="/document/16/218460/dfas1cz4yx/" data-dfa="dfas1cz4yx"></a>Предприятие может самостоятельно разработать внутренний документ, например, Положение о&nbsp;проведении переоценки, в&nbsp;том числе, уценки ТМЗ. В&nbsp;учетной политике пропишите порядок и&nbsp;основания для проведения переоценки, уценки ТМЗ. Уценку товаров проводите по&nbsp;приказу руководителя организации. Организация может уценивать товары по&nbsp;мере необходимости. Скачайте также <span num="63" target="_self" lnktype="intlnk" title="" class="doc">Акт об&nbsp;уценке ТМЦ</span>. См. также:</p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr19/"></a><a data-anchor="/document/16/218460/dfasl5znv8/" data-dfa="dfasl5znv8"></a><a href="https://1gb.uz/#/document/16/218460/dfasgwh371/">Как отразить в&nbsp;бухучете уценку товаров</a></li><li><a href="https://1gb.uz/#/document/16/218460/dfas6g2s1g/">Как учесть уценку товаров при расчете налогов</a></li></ul><p><a data-anchor="/document/16/218460/bssPhr20/"></a><a data-anchor="/document/16/218460/dfas4mhnvw/" data-dfa="dfas4mhnvw"></a>Законодательно порядок проведения уценки не&nbsp;урегулирован. Предприятие может самостоятельно разработать внутренний документ, например, Положение о&nbsp;проведении переоценки, в&nbsp;том числе, уценки ТМЗ. Также необходимо в&nbsp;учетной политике прописать порядок и&nbsp;основания для проведения переоценки, уценки ТМЗ.</p><p><a data-anchor="/document/16/218460/bssPhr21/"></a><a data-anchor="/document/16/218460/dfasu2yg7m/" data-dfa="dfasu2yg7m"></a>ТМЗ обычно уценивают до&nbsp;чистой стоимости реализации на&nbsp;основе «постатейного метода». При этом однотипные или взаимосвязанные ТМЗ могут быть сгруппированы по&nbsp;ассортименту, по&nbsp;предназначению или конечному использованию в&nbsp;одной географической зоне (<span num="16" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;54</span>&nbsp;НСБУ №&nbsp;4).</p><p><a data-anchor="/document/16/218460/bssPhr22/"></a><a data-anchor="/document/16/218460/dfasl33mb6/" data-dfa="dfasl33mb6"></a>Уценку товаров проводите по&nbsp;приказу руководителя организации.</p><p><a data-anchor="/document/16/218460/bssPhr23/"></a><a data-anchor="/document/16/218460/dfaszb24mu/" data-dfa="dfaszb24mu"></a>Перед уценкой проведите расчет текущей рыночной стоимости и&nbsp;инвентаризацию товаров, подлежащих уценке. По&nbsp;результатам инвентаризации составьте инвентаризационную опись (приложение №&nbsp;<span num="91" target="_self" lnktype="intlnk" title="" class="doc">6</span>&nbsp;к НСБУ №&nbsp;19). В&nbsp;описи-акте отразите:</p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr24/"></a><a data-anchor="/document/16/218460/dfas6kfr82/" data-dfa="dfas6kfr82"></a>наименование товара;</li><li>инвентаризационный номер;</li><li>количество;</li><li>старую и&nbsp;новую цены;</li><li>сумму уценки.</li></ul><p><a data-anchor="/document/16/218460/bssPhr25/"></a><a data-anchor="/document/16/218460/dfasv4sor3/" data-dfa="dfasv4sor3"></a>После инвентаризации составьте акт об&nbsp;уценке товаров по&nbsp;форме, утвержденной руководителем организации. В&nbsp;нем зафиксируйте:</p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr26/"></a><a data-anchor="/document/16/218460/dfascu95vs/" data-dfa="dfascu95vs"></a>перечень товаров, которые подлежат уценке;</li><li>количество товаров, подлежащих уценке, по&nbsp;каждому наименованию;</li><li>процент уценки товара;</li><li>сумму, на&nbsp;которую уценивается товар;</li><li>цену товара до&nbsp;и&nbsp;после уценки;</li><li>причину уценки.</li></ul><p><a data-anchor="/document/16/218460/bssPhr27/"></a><a data-anchor="/document/16/218460/dfaslhub4n/" data-dfa="dfaslhub4n"></a>Акт на&nbsp;уценку товаров составьте в&nbsp;двух экземплярах. Его должны подписать ответственные члены комиссии. Один экземпляр акта направьте в&nbsp;бухгалтерию, второй передайте материально ответственному лицу на&nbsp;хранение.</p><p><a data-anchor="/document/16/218460/bssPhr28/"></a><a data-anchor="/document/16/218460/dfasdzufzh/" data-dfa="dfasdzufzh"></a>Материально ответственное лицо склада подтверждает своей подписью в&nbsp;акте&nbsp;то, что перечисленные в&nbsp;акте товары находятся на&nbsp;его ответственном хранении. Важно помнить, что если при последующей переоценке уцененного ранее товара, чистая стоимость реализации повысится, то&nbsp;соответствующая сумма списания восстанавливается (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;57</span>&nbsp;НСБУ №&nbsp;4).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Когда проводить уценку товаров</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218460/bssPhr30/"></a><a data-anchor="/document/16/218460/dfasgxoid4/" data-dfa="dfasgxoid4"></a>Периодичность проведения уценок законодательно не&nbsp;установлена. Поэтому организация может уценивать товары по&nbsp;мере необходимости.</p></div></div></div><a data-anchor="/document/16/218460/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218460/bssPhr31/"></a><a data-anchor="/document/16/218460/dfasdc5862/" data-dfa="dfasdc5862"></a>Бухучет</h2><p><a data-anchor="/document/16/218460/bssPhr33/"></a><a data-anchor="/document/16/218460/dfasy2qucf/" data-dfa="dfasy2qucf"></a>Налогооблагаемая база по&nbsp;НДС определяется на&nbsp;основе стоимости реализуемых товаров без включения в&nbsp;нее НДС. При расчете налога на&nbsp;прибыль сумма уценки товаров&nbsp;— невычитаемый расход (<span num="39" target="_self" lnktype="intlnk" title="" data-warm-notices="41114060" data-warm-notice-type="error" class="doc">п.&nbsp;31</span>&nbsp;ст.&nbsp;317&nbsp;НК). Не&nbsp;вычитается сумма разницы между первоначальной и&nbsp;уцененной себестоимостью товара. При расчете налога с&nbsp;оборота сумма уценки не&nbsp;уменьшает налоговую базу. В&nbsp;бухучете сумму уценки отражайте на <strong>счете 9430 «Прочие операционные расходы» </strong>и <a href="https://1gb.uz/#/document/16/218460/dfasq4htib/">сделайте проводки</a></p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218460/bssPhr35/"></a><a data-anchor="/document/16/218460/dfas3pac8f/" data-dfa="dfas3pac8f"></a>Сумму уценки товаров относите на&nbsp;прочие расходы в&nbsp;том отчетном периоде, в&nbsp;котором она возникла и&nbsp;отражайте на <strong>счете 9430 «Прочие операционные расходы» </strong>(<span num="75" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.3.15.3</span> Положения о&nbsp;составе затрат от&nbsp;05.02.1999 №&nbsp;54).</p><p><a data-anchor="/document/16/218460/bssPhr36/"></a><a data-anchor="/document/16/218460/dfasndwi17/" data-dfa="dfasndwi17"></a>Законодательство предусматривает два варианта учета товаров: по&nbsp;покупным или по&nbsp;продажным ценам (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;30</span>&nbsp;НСБУ №&nbsp;4). Торговым организациям разрешено учитывать товары по&nbsp;продажным ценам с&nbsp;обособленным учетом торговых наценок (<span num="12" target="_self" lnktype="intlnk" title="" class="doc">абз.&nbsp;2</span>&nbsp;п.&nbsp;30&nbsp;НСБУ №&nbsp;4).</p><p><a data-anchor="/document/16/218460/bssPhr37/"></a><a data-anchor="/document/16/218460/dfasett77x/" data-dfa="dfasett77x"></a>При учете товаров по&nbsp;продажным ценам уценку в&nbsp;пределах торговой наценки отразите сторнирующей проводкой:</p><p><a data-anchor="/document/16/218460/bssPhr38/"></a><a data-anchor="/document/16/218460/dfasq4htib/" data-dfa="dfasq4htib"></a><strong>Дебет 2910, 2920 Кредит 2980 </strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr39/"></a><a data-anchor="/document/16/218460/dfasg5zrgn/" data-dfa="dfasg5zrgn"></a>отражена «сторно» сумма уценки в&nbsp;пределах торговой наценки.</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218460/dfasfq8i3g/" data-dfa="dfasfq8i3g"></a><a data-anchor="/document/16/218460/bssPhr40/"></a>Отражения в&nbsp;бухучете реализации уцененного товара</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218460/bssPhr41/"></a><a data-anchor="/document/16/218460/dfasyyukod/" data-dfa="dfasyyukod"></a>ООО «Бета» занимается розничной торговлей и&nbsp;учитывает товар по&nbsp;покупным ценам. В&nbsp;январе организация приобрела 10&nbsp;штук мониторов для перепродажи. Цена одного монитора&nbsp;— 1&nbsp;200&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/218460/bssPhr42/"></a><a data-anchor="/document/16/218460/dfasq7wgu7/" data-dfa="dfasq7wgu7"></a>На&nbsp;начало июня мониторы не&nbsp;были реализованы. По&nbsp;заключению приглашенной оценочной организации, в&nbsp;связи с&nbsp;появлением новых моделей, данные мониторы морально устарели, и&nbsp;их&nbsp;рыночная цена снизилась.</p><p><a data-anchor="/document/16/218460/bssPhr43/"></a><a data-anchor="/document/16/218460/dfasncmp9v/" data-dfa="dfasncmp9v"></a>В&nbsp;июне по&nbsp;приказу директора организации на&nbsp;основании заключения оценочной организации мониторы были уценены до&nbsp;чистой стоимости реализации, которая составила 900&nbsp;000 сумов.То есть каждый монитор уценивается на&nbsp;300&nbsp;000 сумов (1&nbsp;200&nbsp;000&nbsp;— 900&nbsp;000). Общая сумма уценки составила 3&nbsp;000&nbsp;000 сумов (300&nbsp;000 сумов × 10&nbsp;шт.).</p><p><a data-anchor="/document/16/218460/bssPhr44/"></a><a data-anchor="/document/16/218460/dfasg1ci4g/" data-dfa="dfasg1ci4g"></a>В&nbsp;июле мониторы были реализованы по&nbsp;цене 1&nbsp;000&nbsp;000 сумов за&nbsp;штуку.</p><p><a data-anchor="/document/16/218460/bssPhr45/"></a><a data-anchor="/document/16/218460/dfasn6yh6c/" data-dfa="dfasn6yh6c"></a>В&nbsp;бухучете «Беты» сделаны следующие записи.</p><p><a data-anchor="/document/16/218460/bssPhr46/"></a><a data-anchor="/document/16/218460/dfasc1evf6/" data-dfa="dfasc1evf6"></a>В&nbsp;январе:<br><strong>Дебет 2910 Кредит 6010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr47/"></a><a data-anchor="/document/16/218460/dfasdms5ol/" data-dfa="dfasdms5ol"></a>12&nbsp;000&nbsp;000 сумов (1&nbsp;200&nbsp;000 сумов × 10&nbsp;шт.)&nbsp;— оприходованы мониторы;</li></ul><p><a data-anchor="/document/16/218460/bssPhr48/"></a><a data-anchor="/document/16/218460/dfaslcy0ae/" data-dfa="dfaslcy0ae"></a>В&nbsp;июне:<br><strong>Дебет 9430 Кредит 2910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr49/"></a><a data-anchor="/document/16/218460/dfasg97bfr/" data-dfa="dfasg97bfr"></a>3&nbsp;000&nbsp;000&nbsp;— отражена сумма уценки товара.</li></ul><p><a data-anchor="/document/16/218460/bssPhr50/"></a><a data-anchor="/document/16/218460/dfasgw87f4/" data-dfa="dfasgw87f4"></a>В&nbsp;июле:</p><p><a data-anchor="/document/16/218460/bssPhr51/"></a><a data-anchor="/document/16/218460/dfast5kbfz/" data-dfa="dfast5kbfz"></a><strong>Дебет 4010 Кредит 9020</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr52/"></a><a data-anchor="/document/16/218460/dfasngtqta/" data-dfa="dfasngtqta"></a>10&nbsp;000&nbsp;000 сумов&nbsp;— отражена выручка от&nbsp;реализации мониторов;</li></ul><p><a data-anchor="/document/16/218460/bssPhr53/"></a><a data-anchor="/document/16/218460/dfase13b9g/" data-dfa="dfase13b9g"></a><strong>Дебет 5110 Кредит 4010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr54/"></a><a data-anchor="/document/16/218460/dfasbas254/" data-dfa="dfasbas254"></a>10&nbsp;000&nbsp;000 сумов&nbsp;— получены деньги от&nbsp;покупателей за&nbsp;мониторы;</li></ul><p><a data-anchor="/document/16/218460/bssPhr55/"></a><a data-anchor="/document/16/218460/dfasgvb0tg/" data-dfa="dfasgvb0tg"></a><strong>Дебет 9120 Кредит 2910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr56/"></a><a data-anchor="/document/16/218460/dfaste33qb/" data-dfa="dfaste33qb"></a>9&nbsp;000&nbsp;000 сумов&nbsp;— списана себестоимость мониторов.</li></ul></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218460/bssPhr58/"></a><a data-anchor="/document/16/218460/dfaszqdxmf/" data-dfa="dfaszqdxmf"></a>Уценивайте товар ниже себестоимости до&nbsp;чистой стоимости реализации&nbsp;— текущей рыночной стоимости, в&nbsp;случаях чрезмерного скопления запасов и&nbsp;их&nbsp;медленной оборачиваемости. Делайте это для того, чтобы в&nbsp;финансовой отчетности не&nbsp;отражать стоимость товаров выше суммы, ожидаемой от&nbsp;их&nbsp;реализации. Сумму уценки товаров, превышающую сумму наценки, относите на&nbsp;прочие расходы в&nbsp;том отчетном периоде, в&nbsp;котором произведена уценка.</p></div><a data-anchor="/document/16/218460/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218460/bssPhr59/"></a><a data-anchor="/document/16/218460/dfasrzqkoa/" data-dfa="dfasrzqkoa"></a>Отражение в&nbsp;налоговом учете уценки товаров</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218460/bssPhr61/"></a><a data-anchor="/document/16/218460/dfasg5qvol/" data-dfa="dfasg5qvol"></a>Налогооблагаемая база по&nbsp;НДС определяется на&nbsp;основе стоимости реализуемых товаров без включения в&nbsp;нее НДС. При реализации товаров, уцененных ниже себестоимости до&nbsp;чистой стоимости реализации, НК&nbsp;не&nbsp;предусматривает досчета налоговой базы до&nbsp;себестоимости товаров. При этом, налоговые органы вправе скорректировать налоговую базу, если цена сделки ниже либо выше рыночной стоимости товаров (<span num="13" target="_self" lnktype="intlnk" title="" data-warm-notices="41114062" data-warm-notice-type="error" class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;248&nbsp;НК). Налогоплательщик вправе оспорить такое решение, представив обоснование того, что цена сделки соответствует рыночным ценам и&nbsp;не&nbsp;направлена на&nbsp;уклонение от&nbsp;налогообложения.</p><p><a data-anchor="/document/16/218460/bssPhr62/"></a><a data-anchor="/document/16/218460/dfas2ucobc/" data-dfa="dfas2ucobc"></a>С <strong>1&nbsp;января 2023 года </strong> ставка НДС <strong>12&nbsp;процентов</strong> (ч.&nbsp;1&nbsp;ст.&nbsp;258&nbsp;НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218460/dfasnnfo66/" data-dfa="dfasnnfo66"></a><a data-anchor="/document/16/218460/bssPhr63/"></a>С&nbsp;1&nbsp;января 2023 года в&nbsp;счетах-фактурах и&nbsp;чеках онлайн-ККТ должна быть указана ставка НДС 12&nbsp;процентов независимо от&nbsp;даты заключения договоров</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218460/dfasnshg5x/" data-dfa="dfasnshg5x"></a></p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/218460/bssPhr64/"></a><a data-anchor="/document/16/218460/dfas5merx2/" data-dfa="dfas5merx2"></a>При расчете налога на&nbsp;прибыль сумма уценки товаров&nbsp;— невычитаемый расход (<span num="14" target="_self" lnktype="intlnk" title="" data-warm-notices="41114063" data-warm-notice-type="error" class="doc">п.&nbsp;31</span>&nbsp;ст.&nbsp;317&nbsp;НК). Не&nbsp;вычитается сумма разницы между первоначальной и&nbsp;уцененной себестоимостью товара.</p><p><a data-anchor="/document/16/218460/bssPhr65/"></a><a data-anchor="/document/16/218460/dfash0wkhx/" data-dfa="dfash0wkhx"></a>При расчете налога с&nbsp;оборота сумма уценки не&nbsp;уменьшает налоговую базу.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218460/dfasdyqkge/" data-dfa="dfasdyqkge"></a><a data-anchor="/document/16/218460/bssPhr66/"></a>Налоговые органы вправе скорректировать налоговую базу по&nbsp;налогу с&nbsp;оборота и&nbsp;налогу на&nbsp;прибыль, если цена сделки ниже либо выше рыночной стоимости товаров</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218460/bssPhr67/"></a><a data-anchor="/document/16/218460/dfastnipkg/" data-dfa="dfastnipkg"></a>Это следует из <span num="15" target="_self" lnktype="intlnk" title="" class="doc">пункта&nbsp;32</span>&nbsp;статьи&nbsp;1&nbsp;Закона от&nbsp;29.12.2021 № ЗРУ-741, Информационное сообщение&nbsp;МФ от&nbsp;30.12.2021 №&nbsp;06/04-01-01-32/2987.</p><p><a data-anchor="/document/16/218460/bssPhr68/"></a><a data-anchor="/document/16/218460/dfas2y29wz/" data-dfa="dfas2y29wz"></a>Налогоплательщик вправе оспорить такое решение, представив обоснование того, что цена сделки соответствует рыночным ценам и&nbsp;не&nbsp;направлена на&nbsp;уклонение от&nbsp;налогообложения (<span num="51" target="_self" lnktype="intlnk" title="" data-warm-notices="41114065" data-warm-notice-type="error" class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;248&nbsp;НК).</p><p><a data-anchor="/document/16/218460/bssPhr69/"></a><a data-anchor="/document/16/218460/dfasaxbvkw/" data-dfa="dfasaxbvkw"></a>С&nbsp;1&nbsp;января 2022 года налоговые органы могут скорректировать налоговую базу и/или сумму налога по&nbsp;сделкам с&nbsp;трансфертными ценами в&nbsp;соответствии с&nbsp;порядком, предусмотренным <span num="52" target="_self" lnktype="intlnk" title="" data-warm-notices="41114067" data-warm-notice-type="error" class="doc">разделом VI</span>&nbsp;НК.</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218460/dfaso7wi2c/" data-dfa="dfaso7wi2c"></a><a data-anchor="/document/16/218460/bssPhr70/"></a>Учета уценки товаров при расчете налога на&nbsp;прибыль и&nbsp;НДС</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218460/bssPhr71/"></a><a data-anchor="/document/16/218460/dfasiwhfez/" data-dfa="dfasiwhfez"></a>В&nbsp;феврале организация передала для демонстрационного зала образец мебельного гарнитура стоимостью 16&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/218460/bssPhr72/"></a><a data-anchor="/document/16/218460/dfasg6glqe/" data-dfa="dfasg6glqe"></a>В&nbsp;марте гарнитур был возвращен из&nbsp;демонстрационного зала на&nbsp;склад для продажи. В&nbsp;связи с&nbsp;частичной потерей первоначальных качеств гарнитур был уценен на&nbsp;30&nbsp;процентов, до&nbsp;чистой стоимости реализации, то&nbsp;есть на&nbsp;4&nbsp;800&nbsp;000 сумов (16&nbsp;000&nbsp;000 сумов × 30%). После уценки стоимость гарнитура составила 11&nbsp;200&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/218460/bssPhr73/"></a><a data-anchor="/document/16/218460/dfaszp6llu/" data-dfa="dfaszp6llu"></a>В&nbsp;мае после уценки гарнитур продали за&nbsp;12&nbsp;544&nbsp;000&nbsp;сумов, в&nbsp;том числе НДС&nbsp;— 1&nbsp;344&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/218460/bssPhr74/"></a><a data-anchor="/document/16/218460/dfasz1dh60/" data-dfa="dfasz1dh60"></a>В&nbsp;учете «Бета» бухгалтер сделал проводки.</p><p><a data-anchor="/document/16/218460/bssPhr75/"></a><a data-anchor="/document/16/218460/dfas4o3u46/" data-dfa="dfas4o3u46"></a>В&nbsp;феврале:<br><strong>Дебет 2930 Кредит 2910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr76/"></a><a data-anchor="/document/16/218460/dfase26pxm/" data-dfa="dfase26pxm"></a>16&nbsp;000&nbsp;000 сумов&nbsp;— передан гарнитур для демонстрационного зала.</li></ul><p><a data-anchor="/document/16/218460/bssPhr77/"></a><a data-anchor="/document/16/218460/dfaspidhsh/" data-dfa="dfaspidhsh"></a>В&nbsp;марте:<br><strong>Дебет 2910 Кредит 2930</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr78/"></a><a data-anchor="/document/16/218460/dfasxext4c/" data-dfa="dfasxext4c"></a>16&nbsp;000&nbsp;000 сумов&nbsp;— передан гарнитур из&nbsp;демонстрационного зала на&nbsp;склад;</li></ul><p><a data-anchor="/document/16/218460/bssPhr79/"></a><a data-anchor="/document/16/218460/dfas3hae69/" data-dfa="dfas3hae69"></a><strong>Дебет 9430 Кредит 2910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr80/"></a><a data-anchor="/document/16/218460/dfasb2teom/" data-dfa="dfasb2teom"></a>4&nbsp;800&nbsp;000 сумов (16&nbsp;000&nbsp;000 сумов × 30&nbsp;%)&nbsp;— произведена уценка товара, и&nbsp;сумма уценки отнесена на&nbsp;прочие расходы.</li></ul><p><a data-anchor="/document/16/218460/bssPhr81/"></a><a data-anchor="/document/16/218460/dfas6n6lhx/" data-dfa="dfas6n6lhx"></a>В&nbsp;мае:<br><strong>Дебет 4010 Кредит 9020</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr82/"></a><a data-anchor="/document/16/218460/dfasq0e85b/" data-dfa="dfasq0e85b"></a>11&nbsp;200&nbsp;000 сумов&nbsp;— отражена выручка от&nbsp;реализации гарнитура;</li></ul><p><a data-anchor="/document/16/218460/bssPhr83/"></a><a data-anchor="/document/16/218460/dfas7olgm6/" data-dfa="dfas7olgm6"></a><strong>Дебет 4010 Кредит 6410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr84/"></a><a data-anchor="/document/16/218460/dfas43h48e/" data-dfa="dfas43h48e"></a>1&nbsp;344&nbsp;000 сумов&nbsp;— начислен НДС (11&nbsp;200&nbsp;000 сумов × 12&nbsp;%);</li></ul><p><a data-anchor="/document/16/218460/bssPhr85/"></a><a data-anchor="/document/16/218460/dfasck5mf1/" data-dfa="dfasck5mf1"></a><strong>Дебет 9120 Кредит 2910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr86/"></a><a data-anchor="/document/16/218460/dfasn6n4m5/" data-dfa="dfasn6n4m5"></a>11&nbsp;200&nbsp;000 сумов&nbsp;— списана себестоимость реализованного товара;</li></ul><p><a data-anchor="/document/16/218460/bssPhr87/"></a><a data-anchor="/document/16/218460/dfasftybo0/" data-dfa="dfasftybo0"></a><strong>Дебет 5110 Кредит 4010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218460/bssPhr88/"></a><a data-anchor="/document/16/218460/dfasfb8s7g/" data-dfa="dfasfb8s7g"></a>12&nbsp;544&nbsp;000 сумов&nbsp;— получена оплата за&nbsp;товары от&nbsp;покупателя.</li></ul></div></div></div><p><a data-anchor="/document/16/218460/dfasvgzbpn/" data-dfa="dfasvgzbpn"></a><a data-anchor="/document/16/218460/bssPhr89/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

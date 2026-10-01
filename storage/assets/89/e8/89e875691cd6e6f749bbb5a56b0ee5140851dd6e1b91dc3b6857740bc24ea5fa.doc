@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как провести аттестацию рабочих мест по условиям труда</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулчехра&nbsp;Юсупханова,&nbsp;Главный редактор Системы Кадры, юрист</p></td></tr><tr class="author"><td><p class="author__about">Карина&nbsp;Шадиева,&nbsp;Начальник отдела охраны труда АО "Uzbekistan airways"</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/218507/dfas2wg4do/" data-dfa="dfas2wg4do"></a><a data-anchor="/document/16/218507/bssPhr3/"></a>Чтобы провести аттестацию рабочих мест, образуйте специальную комиссию. Затем определите перечень рабочих мест для аттестации и утвердите график ее проведения. Заключите договор с организацией, которая будет оценивать условия труда на ваших рабочих местах. По итогам аттестации оформите Карту условий труда. Если специалисты выявят вредные факторы, определите мероприятия по улучшению условий труда. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218507/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218507/bssPhr4/"></a><a data-anchor="/document/16/218507/dfasqxpnb6/" data-dfa="dfasqxpnb6"></a>Аттестация рабочих мест&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218507/bssPhr8/"></a><a data-anchor="/document/16/218507/dfasg9dbhp/" data-dfa="dfasg9dbhp"></a>Аттестация рабочих мест – это комплекс мероприятий, которые проводят работодатели, чтобы оценить условия труда, напряженность трудового процесса на рабочих местах, травмоопасность оборудования, выявить опасные производственные факторы. Аттестацию проводят, чтобы привести условия труда, тяжесть трудового процесса в соответствие с установленными требованиями законодательства.</p><p><a data-anchor="/document/16/218507/bssPhr9/"></a><a data-anchor="/document/16/218507/dfaskpu35n/" data-dfa="dfaskpu35n"></a>Аттестация рабочих мест по условиям труда, тяжести и напряженности трудового процесса, травмоопасности оборудования — это обязательное требование для работодателя (<span num="66" target="_blank" lnktype="intlnk" title="" class="doc">п. 11</span> ч. 3 ст. 359 ТК).</p><p><a data-anchor="/document/16/218507/bssPhr10/"></a><a data-anchor="/document/16/218507/dfassky6gu/" data-dfa="dfassky6gu"></a>Аттестацию проходят рабочие места и профессии:</p><ul class="c-list"><li><a data-anchor="/document/16/218507/bssPhr11/"></a><a data-anchor="/document/16/218507/dfasw7ae98/" data-dfa="dfasw7ae98"></a>с неблагоприятными, вредными и (или) опасными и иными особыми условиями труда, на которых работникам установлены льготы и компенсации, предусмотренные законодательством;</li><li>на которых заняты лица с инвалидностью;</li><li>указанные в списках производств, учреждений, работ, профессий, должностей и показателей, дающих право на пенсию на льготных условиях;</li><li>с опасными производственными объектами.</li></ul><p><a data-anchor="/document/16/218507/bssPhr12/"></a><a data-anchor="/document/16/218507/dfas8sqnga/" data-dfa="dfas8sqnga"></a>Аттестация рабочих мест, которые не указаны в настоящем пункте, проводят по усмотрению руководителя предприятия.</p><p><a data-anchor="/document/16/218507/bssPhr13/"></a><a data-anchor="/document/16/218507/dfas0gezat/" data-dfa="dfas0gezat"></a>Основание – <span num="67" target="_blank" lnktype="intlnk" title="" class="doc">часть 7</span> статьи 361 ТК, <span num="82" target="_blank" lnktype="intlnk" title="" class="doc">пункт 6</span> Положения о порядке проведения аттестации рабочих мест по условиям труда и травмоопасности оборудования, утв. постановлением Кабмина от 15.09.2014 №263.</p></div><a data-anchor="/document/16/218507/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218507/bssPhr14/"></a><a data-anchor="/document/16/218507/dfasakh4we/" data-dfa="dfasakh4we"></a>Порядок проведения аттестации&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218507/bssPhr16/"></a><a data-anchor="/document/16/218507/dfas43m3uu/" data-dfa="dfas43m3uu"></a>Периодичность проведения аттестации устанавливает руководитель предприятия, но в срок не реже одного раза в 5 лет (<span num="83" target="_blank" lnktype="intlnk" title="" class="doc">п. 8</span> Положения о порядке проведения аттестации рабочих мест по условиям труда и травмоопасности оборудования, утв. постановлением Кабмина от 15.09.2014 №263).</p><p><a data-anchor="/document/16/218507/bssPhr17/"></a><a data-anchor="/document/16/218507/dfasdn7mg8/" data-dfa="dfasdn7mg8"></a>Ответственность за своевременное проведение аттестации – это обязанность руководителя предприятия.</p><p><a data-anchor="/document/16/218507/bssPhr18/"></a><a data-anchor="/document/16/218507/dfasz5kgoh/" data-dfa="dfasz5kgoh"></a>Подготовительный этап включает следующий порядок:</p><p><a data-anchor="/document/16/218507/bssPhr19/"></a><a data-anchor="/document/16/218507/dfasri5526/" data-dfa="dfasri5526"></a><strong>Шаг 1. </strong>Издайте <span num="40" target="_self" lnktype="intlnk" title="" class="doc">приказ</span> по предприятию о создании постоянно действующей аттестационной комиссии.</p><p><a data-anchor="/document/16/218507/bssPhr20/"></a><a data-anchor="/document/16/218507/dfasr6hbim/" data-dfa="dfasr6hbim"></a><strong>Шаг 2. </strong>Определите график проведения работ по аттестации.</p><p><a data-anchor="/document/16/218507/bssPhr21/"></a><a data-anchor="/document/16/218507/dfasifl1md/" data-dfa="dfasifl1md"></a><strong>Шаг 3. </strong>Утвердите Перечень рабочих мест, которые аттестуются.</p><p><a data-anchor="/document/16/218507/bssPhr22/"></a><a data-anchor="/document/16/218507/dfas0mbk4v/" data-dfa="dfas0mbk4v"></a>Специалист по охране труда предприятия подготавливает <span num="41" target="_self" lnktype="intlnk" title="" class="doc">Перечень рабочих мест</span>, которые проходят аттестацию комиссии, по форме согласно <span num="9" target="_self" lnktype="intlnk" title="" class="doc">приложению № 1</span> к Положению, утв. постановлением Кабмина&nbsp;от 15.09.2014&nbsp; №263.</p><p><a data-anchor="/document/16/218507/bssPhr25/"></a><a data-anchor="/document/16/218507/dfaszl1cnl/" data-dfa="dfaszl1cnl"></a>При составлении перечня рабочих мест отдельно выделяет аналогичные рабочие места, а также указывает факторы производственной среды и трудового процесса, травмоопасности и обеспеченности работника СИЗ, которые необходимо измерить и оценить.</p><p><a data-anchor="/document/16/218507/bssPhr26/"></a><a data-anchor="/document/16/218507/dfashm9wih/" data-dfa="dfashm9wih"></a>Аттестацию проводит работодатель совместно с аттестующей организацией, привлекаемой работодателем для выполнения работ по аттестации, на основании договора гражданско-правового характера, с учетом всех требований <span num="10" target="_self" lnktype="intlnk" title="" class="doc">Положения</span> о порядке проведения аттестации рабочих мест по условиям труда и травмоопасности оборудования, утв. постановлением Кабмина&nbsp;от 15.09.2014&nbsp; № 263.</p><p><a data-anchor="/document/16/218507/bssPhr27/"></a><a data-anchor="/document/16/218507/dfas28emiv/" data-dfa="dfas28emiv"></a>В состав аттестационной комиссии входят:</p><ul class="c-list"><li><a data-anchor="/document/16/218507/bssPhr28/"></a><a data-anchor="/document/16/218507/dfaszb00m0/" data-dfa="dfaszb00m0"></a>главный инженер;</li><li>специалист по охране труда;</li><li>представители профсоюзного комитета (или иного представительного органа работников предприятия);</li><li>представители аттестующей организации.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218507/bssPhr29/"></a><a data-anchor="/document/16/218507/dfas3k7lkg/" data-dfa="dfas3k7lkg"></a>При проведении аттестации на предприятиях, малого предпринимательства, в состав комиссии включают:</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218507/bssPhr30/"></a><a data-anchor="/document/16/218507/dfas6y915h/" data-dfa="dfas6y915h"></a>-&nbsp;руководителя, представителя аттестующей организации, а также специалиста по охране труда, если он есть на предприятии, представителей профкома предприятия&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/218507/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218507/bssPhr32/"></a><a data-anchor="/document/16/218507/dfasen1gz5/" data-dfa="dfasen1gz5"></a>Требования &nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218507/bssPhr34/"></a><a data-anchor="/document/16/218507/dfasarero6/" data-dfa="dfasarero6"></a>Аттестующая организация должна быть независимым лицом по отношению к предприятию, на рабочих местах которой она проводит аттестацию.</p><p><a data-anchor="/document/16/218507/bssPhr35/"></a><a data-anchor="/document/16/218507/dfasv6crx3/" data-dfa="dfasv6crx3"></a>Аттестующая организация должна:</p><ul class="c-list"><li><a data-anchor="/document/16/218507/bssPhr36/"></a><a data-anchor="/document/16/218507/dfase0rq5u/" data-dfa="dfase0rq5u"></a>иметь в штате не менее трех работников с квалификационным сертификатом специалиста по охране труда, которые работают только в штате аттестующей организации;</li><li>обладать справочной базой действующих нормативно-правовых актов по охране труда, справочной документацией, необходимой для проведения аттестации;</li><li>иметь в собственности на законном основании лабораторию, предназначенную для измерения факторов производственной среды и трудового процесса, с сертификатом на техническую компетентность лабораторию;</li><li>обеспечивать конфиденциальность информации, полученной при проведении аттестации;</li><li>своевременно и качественно выполнять договорные обязательства по проведению аттестации;</li><li>предоставлять достоверный отчет об аттестации.</li></ul><p><a data-anchor="/document/16/218507/bssPhr37/"></a><a data-anchor="/document/16/218507/dfas1s91po/" data-dfa="dfas1s91po"></a>Руководителем испытательной лаборатории профессиональных услуг в области охраны труда назначают работника, прошедшего учебу и получившего сертификат, подтверждающий квалификацию по охране труда. Оборудование лаборатории также проходит аккредитацию на техническое соответствие.</p></div><a data-anchor="/document/16/218507/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218507/bssPhr38/"></a><a data-anchor="/document/16/218507/dfass5rhy4/" data-dfa="dfass5rhy4"></a>Функции аттестационной комиссии</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218507/bssPhr40/"></a><a data-anchor="/document/16/218507/dfasnzg6pv/" data-dfa="dfasnzg6pv"></a>Аттестационная комиссия:</p><ul class="c-list"><li><a data-anchor="/document/16/218507/bssPhr41/"></a><a data-anchor="/document/16/218507/dfas8g4vok/" data-dfa="dfas8g4vok"></a>организует, руководство и контроль на этапах за проведением аттестации;</li><li>формирует и организует изучение нормативно-правовых и организационно-распорядительных актов, необходимых для проведения аттестации;</li><li>составляет предложения по приведению наименований должностей служащих и профессий рабочих в соответствие с наименованиями, указанными в Классификаторе;</li><li>знакомится и подписывает карты условий труда на рабочие места;</li><li>вносит предложения об изменении и/или дополнении в трудовой договор по обязательствам предприятия по обеспечению работника СИЗ, установления режима труда и отдыха, а также гарантии за работу во вредных и/или опасных условиях труда, которые установлены Законом;</li><li>по результатам аттестации разрабатывает план мероприятий по приведению условий труда в соответствие правилам и инструкциям по охране труда.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218507/bssPhr42/"></a><a data-anchor="/document/16/218507/dfasth1geu/" data-dfa="dfasth1geu"></a>Предприятие в праве привлечь для выполнения работ по аттестации&nbsp;несколько аттестующих организаций&nbsp;</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218507/bssPhr43/"></a><a data-anchor="/document/16/218507/dfas0g1hzb/" data-dfa="dfas0g1hzb"></a>Допускается создание аттестационных комиссий по структурным подразделениям предприятия&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/218507/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218507/bssPhr44/"></a><a data-anchor="/document/16/218507/dfasvlkt1h/" data-dfa="dfasvlkt1h"></a>Оценка условий труда</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218507/bssPhr46/"></a><a data-anchor="/document/16/218507/dfasusrq4i/" data-dfa="dfasusrq4i"></a>Оценка соответствия условий труда требованиям охраны труда включает в себя пять этапов.</p><p><a data-anchor="/document/16/218507/bssPhr47/"></a><a data-anchor="/document/16/218507/dfasr1ogfw/" data-dfa="dfasr1ogfw"></a><strong>Этап 1. По условиям труда </strong></p><p><a data-anchor="/document/16/218507/bssPhr48/"></a><a data-anchor="/document/16/218507/dfasgdt0qm/" data-dfa="dfasgdt0qm"></a>Оценку соответствия условий труда гигиеническим нормативам проводят инструментальным измерением уровней факторов производственной среды и трудового процесса в ходе производственных / технологических процессов.</p><p><a data-anchor="/document/16/218507/bssPhr49/"></a><a data-anchor="/document/16/218507/dfas2hdpee/" data-dfa="dfas2hdpee"></a>Оценке подлежат факторы производственной среды и трудового процесса рабочем месте, которые характерны для технологического процесса и оборудования, применяемого на рабочем месте.</p><p><a data-anchor="/document/16/218507/bssPhr50/"></a><a data-anchor="/document/16/218507/dfaswy4hhk/" data-dfa="dfaswy4hhk"></a>Результаты измерений и оценок соответствия условий труда гигиеническим нормативам вносят в строку (подкласс факторов производственной среды и трудового процесса) столбца «Класс условий труда» раздела I Карты условий труда.</p><p><a data-anchor="/document/16/218507/bssPhr51/"></a><a data-anchor="/document/16/218507/dfasnasdhr/" data-dfa="dfasnasdhr"></a>Измерения оформляют протоколом. Протоколы измерений составляют по каждому фактору производственной среды и трудового процесса. Измерения факторов производственной среды и трудового процесса – неотъемлемая часть карты условий труда, которая оценивается комиссией.</p><p><a data-anchor="/document/16/218507/bssPhr52/"></a><a data-anchor="/document/16/218507/dfas4vtwud/" data-dfa="dfas4vtwud"></a><strong>Этап 2. Травмоопасность рабочих мест</strong></p><p><a data-anchor="/document/16/218507/bssPhr53/"></a><a data-anchor="/document/16/218507/dfasfmhmf1/" data-dfa="dfasfmhmf1"></a>В объект оценки травмоопасности рабочих мест входит:</p><ul class="c-list"><li><a data-anchor="/document/16/218507/bssPhr54/"></a><a data-anchor="/document/16/218507/dfascvye95/" data-dfa="dfascvye95"></a>производственное оборудование;</li><li>приспособления и инструменты, которые используют в технологическом процессе;</li><li>соответствие подготовки работников требованиям по вопросам охраны труда.</li></ul><p><a data-anchor="/document/16/218507/bssPhr55/"></a><a data-anchor="/document/16/218507/dfasiw2pg2/" data-dfa="dfasiw2pg2"></a><strong>Этап 3. Травмоопасность производственного оборудования, инструментов и приспособлений</strong></p><p><a data-anchor="/document/16/218507/bssPhr56/"></a><a data-anchor="/document/16/218507/dfaszl4aom/" data-dfa="dfaszl4aom"></a>Оценка травмоопасности производственного оборудования включает в себя анализ технической документации с требованиями безопасности, а также внешний осмотр оборудования на соответствие требованиям безопасности, при рабочем режиме.</p><p><a data-anchor="/document/16/218507/bssPhr57/"></a><a data-anchor="/document/16/218507/dfasu3o4a6/" data-dfa="dfasu3o4a6"></a>Оценка травмоопасности инструментов и приспособлений включает в себя внешний осмотр и проверку соответствия.</p><p><a data-anchor="/document/16/218507/bssPhr58/"></a><a data-anchor="/document/16/218507/dfasouhe8g/" data-dfa="dfasouhe8g"></a>Результаты оценки травмоопасности условия труда классифицируются по классам травмоопасности:</p><ul class="c-list"><li><a data-anchor="/document/16/218507/bssPhr59/"></a><a data-anchor="/document/16/218507/dfasir78ch/" data-dfa="dfasir78ch"></a>1 класс травмоопасности — оптимальный (на рабочем месте не выявлено ни одного несоответствия требованиям норм по охране труда; не производятся работы, требующие специального обучения по охране труда, или отсутствует производственное оборудование и инструмент);</li><li>2 класс травмоопасности — допустимый (на рабочем месте не выявлено ни одного несоответствия требованиям норм по охране труда; производятся работы, связанные с ремонтом производственного оборудования, зданий и сооружений, работы повышенной опасности и другие работы, требующие специального обучения по охране труда; эксплуатируется производственное оборудование с превышенным сроком службы (выработанным ресурсом), однако, это не запрещено специальными требованиями безопасности на это оборудование; выявлены повреждения и (или) неисправности средств защиты, не снижающие их защитных функций);</li><li>3 класс травмоопасности — опасный (на рабочем месте выявлено одно и более несоответствие требованиям норм, правил и инструкций по охране труда).</li></ul><p><a data-anchor="/document/16/218507/bssPhr60/"></a><a data-anchor="/document/16/218507/dfasktpfgz/" data-dfa="dfasktpfgz"></a><strong>Этап 4. Обеспеченность работников СИЗ</strong></p><p><a data-anchor="/document/16/218507/bssPhr61/"></a><a data-anchor="/document/16/218507/dfaszny7xx/" data-dfa="dfaszny7xx"></a>Оценка обеспеченности работников СИЗ состоит из процедур:</p><ul class="c-list"><li><a data-anchor="/document/16/218507/bssPhr62/"></a><a data-anchor="/document/16/218507/dfas9syrgm/" data-dfa="dfas9syrgm"></a>сопоставления номенклатуры фактически выданных СИЗ с соответствующими типовыми нормами бесплатной выдачи работникам СИЗ;</li><li>проверки наличия сертификатов соответствия СИЗ, выданных работникам;</li><li>проверки установленного порядка обеспечения работников СИЗ;</li><li>оценки соответствия выданных СИЗ фактическому состоянию условий труда на рабочем месте.</li></ul><p><a data-anchor="/document/16/218507/bssPhr63/"></a><a data-anchor="/document/16/218507/dfassggfh7/" data-dfa="dfassggfh7"></a>При наличии одного несоответствия рабочее место признают не соответствующим требованиям обеспеченности работников СИЗ.</p><p><a data-anchor="/document/16/218507/bssPhr64/"></a><a data-anchor="/document/16/218507/dfas12lfgt/" data-dfa="dfas12lfgt"></a>Дополнительно проводят оценку эффективности выданных работникам средств индивидуальной защиты.</p><p><a data-anchor="/document/16/218507/bssPhr65/"></a><a data-anchor="/document/16/218507/dfasoowyv8/" data-dfa="dfasoowyv8"></a>Результаты обеспеченности работников СИЗ на рабочем месте вносят в соответствующий раздел Карты условий труда (раздел III), за исключением случаев, когда выдача СИЗ не предусмотрена типовыми нормами бесплатной выдачи работникам СИЗ и не требуется по фактическому состоянию условий труда.</p><p><a data-anchor="/document/16/218507/bssPhr66/"></a><a data-anchor="/document/16/218507/dfasxo7w4z/" data-dfa="dfasxo7w4z"></a><strong>Этап 5. Комплексная оценка </strong></p><p><a data-anchor="/document/16/218507/bssPhr67/"></a><a data-anchor="/document/16/218507/dfasku6ls7/" data-dfa="dfasku6ls7"></a>Это результаты оценок:</p><ul class="c-list"><li><a data-anchor="/document/16/218507/bssPhr68/"></a><a data-anchor="/document/16/218507/dfasied1he/" data-dfa="dfasied1he"></a>класса условий труда, установленного по результатам оценки соответствия условий труда гигиеническим нормативам;</li><li>класса условий труда по травмоопасности;</li><li>обеспеченности работников СИЗ.</li></ul><p><a data-anchor="/document/16/218507/bssPhr69/"></a><a data-anchor="/document/16/218507/dfaslbk4cg/" data-dfa="dfaslbk4cg"></a>Комплексную оценку состояния условий труда на рабочем месте оформляют в виде заключения аттестационной комиссии. Комплексную оценку отражают в соответствующем разделе Карты условий труда (раздел V).</p><p><a data-anchor="/document/16/218507/bssPhr70/"></a><a data-anchor="/document/16/218507/dfasums2vx/" data-dfa="dfasums2vx"></a>При соответствии условий труда на рабочем месте гигиеническим нормативам, отсутствии оценки травмоопасности рабочего места на несоответствие требованиям норм, правил и инструкций по охране труда и соответствии рабочего места требованиям обеспеченности работников СИЗ – рабочее место признают аттестованным с комплексной оценкой условий труда «соответствует требованиям норм, правил и инструкций по охране труда».</p><p><a data-anchor="/document/16/218507/bssPhr71/"></a><a data-anchor="/document/16/218507/dfas97kbcp/" data-dfa="dfas97kbcp"></a>При наличии несоответствий рабочее место признают аттестованным с комплексной оценкой условий труда «не соответствует требованиям норм, правил и инструкций по охране труда».</p><p><a data-anchor="/document/16/218507/bssPhr72/"></a><a data-anchor="/document/16/218507/dfaspv79aq/" data-dfa="dfaspv79aq"></a>По результатам аттестации аттестационная комиссия разрабатывает <span num="38" target="_self" lnktype="intlnk" title="" class="doc">План мероприятий по приведению условий труда в соответствие с требованиями норм</span>, правил и инструкций по охране труда по форме согласно <span num="27" target="_self" lnktype="intlnk" title="" class="doc">приложению № 6</span> Положения и проводит итоговое заседание аттестационной комиссии с оформлением <span num="39" target="_self" lnktype="intlnk" title="" class="doc">Протокола</span> (<span num="29" target="_self" lnktype="intlnk" title="" class="doc">приложение № 8</span> Положения).</p><p data-end="1387" data-start="1152"><a data-anchor="/document/16/218507/bssPhr73/"></a><a data-anchor="/document/16/218507/dfas8k5u0u/" data-dfa="dfas8k5u0u"></a><strong>Этап 6. Определите&nbsp;право на лечебно-профилактическое питание</strong></p><p data-end="454" data-start="278"><a data-anchor="/document/16/218507/bssPhr74/"></a><a data-anchor="/document/16/218507/dfas71qfqn/" data-dfa="dfas71qfqn"></a>По результатам оценки условий труда и аттестации рабочих мест аттестационная комиссия определяет работников, которым предоставляется лечебно-профилактическое питание (ЛПП).</p><p data-end="731" data-start="456"><a data-anchor="/document/16/218507/bssPhr77/"></a><a data-anchor="/document/16/218507/dfasfpdmtd/" data-dfa="dfasfpdmtd"></a>Перечень производств, профессий и должностей, работа в которых дает право на ЛПП, устанавливается коллективным соглашением, коллективным договором либо определяется работодателем по согласованию с представительным органом работников (<span num="84" target="_blank" lnktype="intlnk" title="" class="doc">ст. 363&nbsp;ТК</span>, <span num="85" target="_blank" lnktype="intlnk" title="" class="doc">п. 1.4</span> СанПиН РУз № 0184-05).</p><p data-end="1018" data-start="733"><a data-anchor="/document/16/218507/bssPhr78/"></a><a data-anchor="/document/16/218507/dfasuzgfos/" data-dfa="dfasuzgfos"></a>ЛПП предоставляется работникам, которые подвергаются воздействию вредных и неблагоприятных производственных факторов, выявленных по результатам оценки условий труда. Требования к назначению и выдаче ЛПП обязательны для организаций, в которых имеются такие производственные факторы.</p><p data-end="1117" data-start="1020"><a data-anchor="/document/16/218507/bssPhr79/"></a><a data-anchor="/document/16/218507/dfaspllofn/" data-dfa="dfaspllofn"></a>Основанием для назначения ЛПП являются результаты освидетельствования и оценки условий труда.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

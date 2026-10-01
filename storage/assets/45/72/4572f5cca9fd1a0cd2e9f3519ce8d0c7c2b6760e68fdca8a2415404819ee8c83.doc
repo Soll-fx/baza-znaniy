@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кто платит налог за пользование водными ресурсами</h2><div class="doc-snippet"><a data-anchor="/document/16/210659/dfasqp100h/" data-dfa="dfasqp100h"></a><a data-anchor="/document/16/210659/bssPhr2/"></a>В рекомендации в табличной форме приведен перечень плательщиков налога за пользование водными ресурсами. Также эксперты объяснили, что считать объектом обложения налогом за пользование водными ресурсами, а что нет. Найдете ответ на вопрос: в каких случаях налог за пользование водными ресурсами платят строительные организации. </div><div id="documentBody" class="content-common"><div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210659/bssPhr4/"></a><a data-anchor="/document/16/210659/dfas9siv0u/" data-dfa="dfas9siv0u"></a>Налог за пользование водными ресурсами платят следующие лица, при осуществлении ими&nbsp;водопользования или водопотребления:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width:33%"><p style="text-align:center"><a data-anchor="/document/16/210659/bssPhr5/"></a><a data-anchor="/document/16/210659/dfaszik6de/" data-dfa="dfaszik6de"></a><strong>№</strong></p></td><td class="bdTopbdBottombdRight" style="width:34%"><p style="text-align:center"><a data-anchor="/document/16/210659/bssPhr6/"></a><a data-anchor="/document/16/210659/dfasvv8zhh/" data-dfa="dfasvv8zhh"></a><strong>Налогоплательщики</strong><br><strong>налога</strong></p></td><td class="bdTopbdBottombdRight" style="width:32%"><p style="text-align:center"><a data-anchor="/document/16/210659/bssPhr7/"></a><a data-anchor="/document/16/210659/dfasavi0e0/" data-dfa="dfasavi0e0"></a><strong>Примечание</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:33%"><p><a data-anchor="/document/16/210659/bssPhr8/"></a><a data-anchor="/document/16/210659/dfas0yff9g/" data-dfa="dfas0yff9g"></a>1.</p></td><td class="bdBottombdRight" style="width:34%"><p><a data-anchor="/document/16/210659/bssPhr9/"></a><a data-anchor="/document/16/210659/dfast08r55/" data-dfa="dfast08r55"></a>Юрлица – резиденты</p></td><td class="bdBottombdRight" style="width:32%"><p><a data-anchor="/document/16/210659/bssPhr10/"></a><a data-anchor="/document/16/210659/dfasmigpxb/" data-dfa="dfasmigpxb"></a>&nbsp;</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:33%"><p><a data-anchor="/document/16/210659/bssPhr11/"></a><a data-anchor="/document/16/210659/dfas24g8kr/" data-dfa="dfas24g8kr"></a>2.</p></td><td class="bdBottombdRight" style="width:34%"><p><a data-anchor="/document/16/210659/bssPhr12/"></a><a data-anchor="/document/16/210659/dfasv4c02i/" data-dfa="dfasv4c02i"></a>Юрлица -нерезиденты, осуществляющие деятельность через постоянное учреждение</p></td><td class="bdBottombdRight" style="width:32%"><p><a data-anchor="/document/16/210659/bssPhr13/"></a><a data-anchor="/document/16/210659/dfasd1mgzp/" data-dfa="dfasd1mgzp"></a>Понятие и порядок образования постоянного учреждения регулирует <span num="23" target="_self" lnktype="intlnk" title="" class="doc">статья 36</span> НК.</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:33%"><p><a data-anchor="/document/16/210659/bssPhr14/"></a><a data-anchor="/document/16/210659/dfaskgs37q/" data-dfa="dfaskgs37q"></a>3</p></td><td class="bdBottombdRight" style="width:34%"><p><a data-anchor="/document/16/210659/bssPhr15/"></a><a data-anchor="/document/16/210659/dfasuesu70/" data-dfa="dfasuesu70"></a>Индивидуальные предприниматели, использующие воду для предпринимательской деятельности</p></td><td class="bdBottombdRight" style="width:32%"><p><a data-anchor="/document/16/210659/bssPhr16/"></a><a data-anchor="/document/16/210659/dfasufcfb2/" data-dfa="dfasufcfb2"></a>Существует перечень видов деятельности, которыми могут заниматься индивидуальные предприниматели без образования юрлица (<span num="24" target="_self" lnktype="intlnk" title="" class="doc">приложение № 1</span> к ПКМ № 6 от 07. 01. 2011).</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:33%"><p><a data-anchor="/document/16/210659/bssPhr17/"></a><a data-anchor="/document/16/210659/dfasa7iq78/" data-dfa="dfasa7iq78"></a>4.</p></td><td class="bdBottombdRight" style="width:34%"><p><a data-anchor="/document/16/210659/bssPhr18/"></a><a data-anchor="/document/16/210659/dfase1cbmu/" data-dfa="dfase1cbmu"></a>Дехканские хозяйства</p></td><td class="bdBottombdRight" style="width:32%"><p><a data-anchor="/document/16/210659/bssPhr19/"></a><a data-anchor="/document/16/210659/dfasvvrwo1/" data-dfa="dfasvvrwo1"></a>Деятельность дехканских хозяйств регулирует <span num="25" target="_self" lnktype="intlnk" title="" class="doc">Закон</span> «О дехканском хозяйстве»</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:33%"><p><a data-anchor="/document/16/210659/bssPhr20/"></a><a data-anchor="/document/16/210659/dfasb77x9i/" data-dfa="dfasb77x9i"></a>5.</p></td><td class="bdBottombdRight" style="width:34%"><p><a data-anchor="/document/16/210659/bssPhr21/"></a><a data-anchor="/document/16/210659/dfaslge5ab/" data-dfa="dfaslge5ab"></a>Некоммерческие организации, по объемам воды, используемой в предпринимательской деятельности</p></td><td class="bdBottombdRight" style="width:32%"><p><a data-anchor="/document/16/210659/bssPhr22/"></a><a data-anchor="/document/16/210659/dfas5ma3x1/" data-dfa="dfas5ma3x1"></a>&nbsp;</p><p><a data-anchor="/document/16/210659/bssPhr23/"></a><a data-anchor="/document/16/210659/dfasvpni49/" data-dfa="dfasvpni49"></a>&nbsp;</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:33%"><p><a data-anchor="/document/16/210659/bssPhr24/"></a><a data-anchor="/document/16/210659/dfaswr2zc4/" data-dfa="dfaswr2zc4"></a>6.</p></td><td class="bdBottombdRight" style="width:34%"><p><a data-anchor="/document/16/210659/bssPhr25/"></a><a data-anchor="/document/16/210659/dfasbprh5s/" data-dfa="dfasbprh5s"></a>С 1.01.2023г. – физлица, имеющие объекты недвижимого имущества нежилого назначения, предназначенные для предпринимательской деятельности и/или извлечения дохода</p></td><td class="bdBottombdRight" style="width:32%"><p><a data-anchor="/document/16/210659/bssPhr26/"></a><a data-anchor="/document/16/210659/dfas2n56vg/" data-dfa="dfas2n56vg"></a><span num="26" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 441 НК в редакции <span num="27" target="_self" lnktype="intlnk" title="" class="doc">закона</span> № ЗРУ-812 от 30.12.2022г.</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:33%"><p><a data-anchor="/document/16/210659/bssPhr27/"></a><a data-anchor="/document/16/210659/dfasrk1s4r/" data-dfa="dfasrk1s4r"></a>7.</p></td><td class="bdBottombdRight" style="width:34%"><p><a data-anchor="/document/16/210659/bssPhr28/"></a><a data-anchor="/document/16/210659/dfasxon9dh/" data-dfa="dfasxon9dh"></a>С 1.01.2023г. -физлица, имеющие земли сельскохозяйственного назначения</p></td><td class="bdBottombdRight" style="width:32%"><p><a data-anchor="/document/16/210659/bssPhr29/"></a><a data-anchor="/document/16/210659/dfaspa5phg/" data-dfa="dfaspa5phg"></a><span num="28" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 441 НК в редакции <span num="29" target="_self" lnktype="intlnk" title="" class="doc">закона</span> № ЗРУ-812 от 30.12.2022г.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210659/bssPhr30/"></a><a data-anchor="/document/16/210659/dfastvoy52/" data-dfa="dfastvoy52"></a>Перечень плательщиков налога определен в&nbsp;<span data-warm-notices="21309461" data-warm-notice-type="error" num="12" target="_self" lnktype="intlnk" title="" class="doc">статье 441 </span>НК.</p><p><a data-anchor="/document/16/210659/bssPhr31/"></a><a data-anchor="/document/16/210659/dfas9lspyq/" data-dfa="dfas9lspyq"></a>Отношения между <span num="13" target="_self" lnktype="intlnk" title="" class="doc">водопользователями</span>, <span data-warm-notices="21309462" data-warm-notice-type="error" num="14" target="_self" lnktype="intlnk" title="" class="doc">водопотребителями </span>и государственными органами в области использования вод регулирует Положение о порядке водопользования и водопотребления в Республике Узбекистан (<span data-warm-notices="21309463" data-warm-notice-type="error" num="15" target="_self" lnktype="intlnk" title="" class="doc">приложение № 1 </span>к ПКМ № 82 от 19.03.2013).</p><p><a data-anchor="/document/16/210659/bssPhr32/"></a><a data-anchor="/document/16/210659/dfaswbk18r/" data-dfa="dfaswbk18r"></a>Юрлица, поставляющие воду для водоснабжения населенных пунктов, уплачивают налог только за воду, используемую для собственных нужд (<span num="30" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 441 НК).При аренде зданий, помещений налог уплачивает сторона, заключившая договор на водопотребление (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span>, <span num="32" target="_self" lnktype="intlnk" title="" class="doc">ч. 6</span> ст. 444 НК). Это может быть как арендатор, так и арендодатель.</p><p><a data-anchor="/document/16/210659/bssPhr33/"></a><a data-anchor="/document/16/210659/dfasb011cy/" data-dfa="dfasb011cy"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>В каких случаях налог за пользование водными ресурсами платят строительные организации</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210659/bssPhr35/"></a><a data-anchor="/document/16/210659/dfasndtxzu/" data-dfa="dfasndtxzu"></a>При выполнении ремонтно-строительных и других работ на территории заказчика налог уплачивает заказчик, для которого выполняются данные работы, за объем воды, используемый в процессе выполнения этих работ.</p><p><a data-anchor="/document/16/210659/bssPhr36/"></a><a data-anchor="/document/16/210659/dfaszgak33/" data-dfa="dfaszgak33"></a>При выполнении строительных работ на новой строительной площадке налог уплачивает строительная организация за объем воды, используемый при строительстве (<span num="21" target="_self" lnktype="intlnk" title="" class="doc">ч. 8</span> ст. 444 НК).</p></div></div><p><a data-anchor="/document/16/210659/bssPhr37/"></a><a data-anchor="/document/16/210659/dfashu8szv/" data-dfa="dfashu8szv"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должна ли сдавать отчет по налогу на водные ресурсы организация, которая арендует помещение и заключила договор на поставку холодной воды с Сувсоз</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210659/bssPhr39/"></a><a data-anchor="/document/16/210659/dfasgu3iln/" data-dfa="dfasgu3iln"></a>Да, должна.&nbsp;Налогоплательщики, которые получили&nbsp;в аренду часть зданий, отдельных помещений и заключили&nbsp;договор с юридическим лицом-поставщиком&nbsp;воды, налоговую базу определяют самостоятельно (<span num="61" target="_self" lnktype="intlnk" title="" class="doc">ч. 6</span> ст. 444 НК).</p><p style="text-align:left"><a data-anchor="/document/16/210659/bssPhr40/"></a><a data-anchor="/document/16/210659/dfas355vgr/" data-dfa="dfas355vgr"></a>Таким образом, организация с даты заключения договора на поставку воды является плательщиком налога за пользование водными ресурсами. Следовательно, должна сдавать налоговую отчетность по данному налогу.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какую отчетность&#160;предприятие должно сдавать&#160;после установки&#160;счетчика воды&#160;</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210659/bssPhr42/"></a><a data-anchor="/document/16/210659/dfaswcmirn/" data-dfa="dfaswcmirn"></a>Лица, осуществляющие первичное водопользование или водопотребление на территории РУз, признаются плательщиками налога за пользование водными ресурсами (<span num="49" target="_self" lnktype="intlnk" title="" class="doc">ст. 441</span> НК).</p><p style="text-align:left"><a data-anchor="/document/16/210659/bssPhr43/"></a><a data-anchor="/document/16/210659/dfas6rqocs/" data-dfa="dfas6rqocs"></a>После установки счетчика предприятие, как первичный водопользователь, помимо платы за воду согласно прибору учета, должно платить&nbsp;налог&nbsp;за пользование водными ресурсами.</p><p style="text-align:left"><a data-anchor="/document/16/210659/bssPhr44/"></a><a data-anchor="/document/16/210659/dfasl9qyca/" data-dfa="dfasl9qyca"></a>Налог за пользование водными ресурсами оплачивают&nbsp;за использование ресурсов из поверхностных и подземных водоисточников. Плательщики, которые вносят авансовые платежи по налогу, представляют справку о сумме налога за текущий отчетный год (<span num="50" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 448 НК). Справку составляют&nbsp;исходя из объема воды, который налогоплательщик намерен использовать за календарный год, а также установленной ставки налога.</p><p style="text-align:left"><a data-anchor="/document/16/210659/bssPhr45/"></a><a data-anchor="/document/16/210659/dfasr8z1w8/" data-dfa="dfasr8z1w8"></a>Итоговый расчет происходит с учетом авансовых платежей и предоставлением Расчета по налогу за пользование водными ресурсами, который сдают&nbsp;в налоговую&nbsp;по месту использования ресурса один раз в год (<span num="51" target="_self" lnktype="intlnk" title="" class="doc">ст. 477</span> НК). Сроки предоставления отчетности указаны в <span num="52" target="_self" lnktype="intlnk" title="" class="doc">статье 447</span> НК.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должна ли организация платить налог на воду, если арендует помещение у физлица под автомойку</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210659/bssPhr47/"></a><a data-anchor="/document/16/210659/dfasrxfzxz/" data-dfa="dfasrxfzxz"></a>Если организация арендует помещение и договор с юрлицом-поставщиком воды заключен с арендодателем-физлицом, то обязательство по уплате налога возникает у арендодателя.</p><p style="text-align:left"><a data-anchor="/document/16/210659/bssPhr48/"></a><a data-anchor="/document/16/210659/dfast2ors8/" data-dfa="dfast2ors8"></a>Арендодатель уплачивает в 2024&nbsp;году налог в части объема воды, используемой для мойки автотранспортных средств, в размере 2 700 сумов за 1 куб. м.&nbsp;при использовании воды в пределах установленного лимита (<span num="39" target="_self" lnktype="intlnk" title="" class="doc">п. 5</span> ст. 445 НК). При использовании воды сверх установленных лимитов водопользования налоговые ставки в части такого превышения устанавливаются в пятикратном размере установленных налоговых ставок.</p><p style="text-align:left"><a data-anchor="/document/16/210659/bssPhr49/"></a><a data-anchor="/document/16/210659/dfas4sz0yr/" data-dfa="dfas4sz0yr"></a>Плательщиками налога за пользование водными ресурсами признаются как юрлица, так и ИП, использующие воду для предпринимательской деятельности, а также физлица, имеющие объекты недвижимого имущества нежилого назначения, предназначенные для предпринимательской деятельности или извлечения дохода (<span num="40" target="_self" lnktype="intlnk" title="" class="doc">ст. 441</span> НК).</p><p style="text-align:left"><a data-anchor="/document/16/210659/bssPhr50/"></a><a data-anchor="/document/16/210659/dfas0sdu9m/" data-dfa="dfas0sdu9m"></a>При сдаче части зданий, отдельных помещений в аренду налоговую базу определяет арендодатель, заключивший договор с юрлицом-поставщиком воды<br>(<span num="41" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span>&nbsp; ст. 444 НК).</p></div></div></div><p><a data-anchor="/document/16/210659/bssPhr51/"></a><a data-anchor="/document/16/210659/dfasg2tn1y/" data-dfa="dfasg2tn1y"></a>&nbsp;</p></div><a data-anchor="/document/16/210659/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210659/bssPhr52/"></a><a data-anchor="/document/16/210659/dfasuk0s50/" data-dfa="dfasuk0s50"></a>Объект налогообложения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p><a data-anchor="/document/16/210659/bssPhr54/"></a><a data-anchor="/document/16/210659/dfasw4babm/" data-dfa="dfasw4babm"></a><strong>№</strong></p></td><td class="bdTopbdBottombdRight" style="width:27%"><p style="text-align:center"><a data-anchor="/document/16/210659/bssPhr55/"></a><a data-anchor="/document/16/210659/dfasf81f8z/" data-dfa="dfasf81f8z"></a><strong>Объект обложения налогом за пользование водными ресурсами</strong></p></td><td class="bdTopbdBottombdRight" style="width:68%"><p style="text-align:center"><a data-anchor="/document/16/210659/bssPhr56/"></a><a data-anchor="/document/16/210659/dfas58maxk/" data-dfa="dfas58maxk"></a><strong>Примечание</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/210659/bssPhr57/"></a><a data-anchor="/document/16/210659/dfasa2vxyp/" data-dfa="dfasa2vxyp"></a>1.</p></td><td class="bdBottombdRight" style="width:27%"><p><a data-anchor="/document/16/210659/bssPhr58/"></a><a data-anchor="/document/16/210659/dfas34wuoc/" data-dfa="dfas34wuoc"></a>Водные ресурсы, используемые из поверхностных источников</p></td><td class="bdBottombdRight" style="width:68%"><p><a data-anchor="/document/16/210659/bssPhr59/"></a><a data-anchor="/document/16/210659/dfasgls8gn/" data-dfa="dfasgls8gn"></a>К поверхностным источникам водных ресурсов относятся реки, озера, водохранилища, различные виды каналов и прудов, а также другие поверхностные водоемы и водные источники вне зависимости от способов их возникновения (искусственные и естественные)</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/210659/bssPhr60/"></a><a data-anchor="/document/16/210659/dfasx7sggz/" data-dfa="dfasx7sggz"></a>2.</p></td><td class="bdBottombdRight" style="width:27%"><p><a data-anchor="/document/16/210659/bssPhr61/"></a><a data-anchor="/document/16/210659/dfasgq5l9t/" data-dfa="dfasgq5l9t"></a>Водные ресурсы, используемые из подземных источников</p></td><td class="bdBottombdRight" style="width:68%"><p><a data-anchor="/document/16/210659/bssPhr62/"></a><a data-anchor="/document/16/210659/dfas1rqmeb/" data-dfa="dfas1rqmeb"></a>К подземным источникам водных ресурсов относятся воды, находящиеся в верхней части земной коры. В зависимости от залегания, их подразделяют на почвенные, <a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B4%D0%B0" target="_self" title="">грунтовые</a>, межпластовые, <a href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%82%D0%B5%D0%B7%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D1%8B" target="_self" title="">артезианские</a> и <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B4%D0%B0" target="_self" title="">минеральные</a>. Как правило, подземные воды извлекают с помощью артезианских колодцев или скважин, вертикальной и горизонтальной дренажной сети и других сооружений.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210659/dfas9o6w9k/" data-dfa="dfas9o6w9k"></a><a data-anchor="/document/16/210659/bssPhr63/"></a>обязательство по уплате налога за пользование водными ресурсами возникает, если объект налогообложения находится на территории Республики Узбекистан</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210659/dfast0vzgg/" data-dfa="dfast0vzgg"></a></p></div><div class="incut-v4__icon"></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210659/bssPhr65/"></a><a data-anchor="/document/16/210659/dfasnbh9nb/" data-dfa="dfasnbh9nb"></a>Водные ресурсы, которые <strong>не являются объектом налогообложения </strong>определены в <span num="22" target="_self" lnktype="intlnk" title="" class="doc">части 2</span> статьи 442 НК:</p><ol class="c-list" style="counter-reset: item 0;" start="1"><li><a data-anchor="/document/16/210659/bssPhr66/"></a><a data-anchor="/document/16/210659/dfasiqlzv9/" data-dfa="dfasiqlzv9"></a>водные ресурсы, используемые некоммерческими организациями, в рамках осуществления некоммерческой деятельности. Если некоммерческая организация осуществляет предпринимательскую деятельность, то она уплачивает налог по объемам воды, используемой в предпринимательской деятельности;</li><li><a data-anchor="/document/16/210659/bssPhr67/"></a><a data-anchor="/document/16/210659/dfas7g8rq7/" data-dfa="dfas7g8rq7"></a>минеральные подземные воды, используемые учреждениями здравоохранения в лечебных целях, за исключением объема воды, использованного для реализации в торговой сети;</li><li><a data-anchor="/document/16/210659/bssPhr68/"></a><a data-anchor="/document/16/210659/dfasahwc1p/" data-dfa="dfasahwc1p"></a>подземные воды, извлеченные в целях предотвращения их вредного воздействия на окружающую среду, за исключением объема воды, использованного для производственных и технических нужд;</li><li><a data-anchor="/document/16/210659/bssPhr69/"></a><a data-anchor="/document/16/210659/dfas3qgi8c/" data-dfa="dfas3qgi8c"></a>подземные воды, извлеченные из шахтного водоотлива попутно с добычей полезных ископаемых и обратно закачиваемые в недра для поддержания пластового давления, за исключением объема воды, использованного для производственных и технических нужд;</li><li><a data-anchor="/document/16/210659/bssPhr70/"></a><a data-anchor="/document/16/210659/dfashbnzh9/" data-dfa="dfashbnzh9"></a>водные ресурсы, используемые для действия гидравлических турбин гидроэлектростанций;</li><li><a data-anchor="/document/16/210659/bssPhr71/"></a><a data-anchor="/document/16/210659/dfaszmo482/" data-dfa="dfaszmo482"></a>водные ресурсы, обратно сливаемые тепловыми электрическими станциями и тепловыми электроцентралями;</li><li><a data-anchor="/document/16/210659/bssPhr72/"></a><a data-anchor="/document/16/210659/dfas0q9uko/" data-dfa="dfas0q9uko"></a>водные ресурсы, используемые для промывки засоленных земель сельскохозяйственного назначения, в пределах объемов промывной нормы, утвержденной уполномоченным органом в области водопользования и водопотребления;</li><li><a data-anchor="/document/16/210659/bssPhr73/"></a><a data-anchor="/document/16/210659/dfasxmer79/" data-dfa="dfasxmer79"></a>водные ресурсы, используемые из коллекторно-дренажных сетей.</li></ol></div><p><a data-anchor="/document/16/210659/dfascex7km/" data-dfa="dfascex7km"></a><a data-anchor="/document/16/210659/bssPhr74/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/210659/dfasq96waa/" data-dfa="dfasq96waa"></a><a data-anchor="/document/16/210659/bssPhr75/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

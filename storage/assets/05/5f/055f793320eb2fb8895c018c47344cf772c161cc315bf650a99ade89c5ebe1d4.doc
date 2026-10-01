@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как составить и сдать расчет по налогу за пользование недрами</h2><div class="doc-snippet"><a data-anchor="/document/16/206330/dfaskvh9dh/" data-dfa="dfaskvh9dh"></a><a data-anchor="/document/16/206330/bssPhr2/"></a>Из&nbsp;рекомендации узнаете, когда сдавать расчет по&nbsp;налогу за&nbsp;пользование недрами. Эксперты на&nbsp;конкретных примерах добычи полезных ископаемых показали, как заполнить Расчет по&nbsp;налогу за&nbsp;пользование недрами, а&nbsp;также как скорректировать налоговую базу по&nbsp;налогу за&nbsp;пользование недрами при отсутствии реализации полезного ископаемого. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206330/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206330/bssPhr5/"></a><a data-anchor="/document/16/206330/dfast8ywqz/" data-dfa="dfast8ywqz"></a>Сроки сдачи расчета</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206330/bssPhr7/"></a><a data-anchor="/document/16/206330/dfasmft9sg/" data-dfa="dfasmft9sg"></a>Налоговую отчетность представляйте в&nbsp;налоговые органы по&nbsp;месту налогового учета, а&nbsp;по&nbsp;нерудным полезным ископаемым&nbsp;— по&nbsp;месту добычи в&nbsp;следующие сроки:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206330/bssPhr8/"></a><a data-anchor="/document/16/206330/dfasl02ee0/" data-dfa="dfasl02ee0"></a>юридические лица&nbsp;— нарастающим итогом ежемесячно не&nbsp;позднее 20&nbsp;числа месяца, следующего за&nbsp;отчетным периодом, а&nbsp;по&nbsp;итогам года&nbsp;— в&nbsp;срок представления годовой финансовой отчетности;</li><li style="text-align:left">физические лица&nbsp;— один раз в&nbsp;год не&nbsp;позднее 1&nbsp;февраля года, следующего за&nbsp;налоговым периодом.</li></ul><p class="rvps4" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr9/"></a><a data-anchor="/document/16/206330/dfasydcohz/" data-dfa="dfasydcohz"></a>Такие требования предусмотрены в <span num="3" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;3</span>&nbsp;статьи&nbsp;454&nbsp;НК.</p><p class="rvps4" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr10/"></a><a data-anchor="/document/16/206330/dfas7z31b4/" data-dfa="dfas7z31b4"></a>Отчетный период для:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206330/bssPhr11/"></a><a data-anchor="/document/16/206330/dfaskhil0k/" data-dfa="dfaskhil0k"></a>юридических лиц&nbsp;— месяц;</li><li style="text-align:left">физических лиц&nbsp;— календарный год.</li></ul><p class="rvps4" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr12/"></a><a data-anchor="/document/16/206330/dfashbhizz/" data-dfa="dfashbhizz"></a>Это указано в <span num="4" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;2</span>&nbsp;статьи&nbsp;453&nbsp;НК.</p><p class="rvps4" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr13/"></a><a data-anchor="/document/16/206330/dfasewvpxh/" data-dfa="dfasewvpxh"></a>Налоговым периодом является календарный год (<span num="5" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;453&nbsp;НК).</p></div><a data-anchor="/document/16/206330/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206330/bssPhr14/"></a><a data-anchor="/document/16/206330/dfas5qku24/" data-dfa="dfas5qku24"></a>Налоговая отчетность по&nbsp;налогу за&nbsp;пользование недрами</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206330/bssPhr16/"></a><a data-anchor="/document/16/206330/dfasiasmb3/" data-dfa="dfasiasmb3"></a>Форма отчетности по&nbsp;налогу за&nbsp;пользование недрами приведена в <span num="6" lnktype="intlnk" title="" class="doc">приложении №&nbsp;5</span>&nbsp;к Постановлению ГНК от&nbsp;28.01.2020 №&nbsp;2020-03 (рег.&nbsp;от&nbsp;24.02.2020 №&nbsp;3221).</p><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr17/"></a><a data-anchor="/document/16/206330/dfas54453z/" data-dfa="dfas54453z"></a>В&nbsp;состав налоговой отчетности по&nbsp;налогу за&nbsp;пользование недрами включены:</p><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr18/"></a><a data-anchor="/document/16/206330/dfassrfsga/" data-dfa="dfassrfsga"></a>Расчет;</li><li>приложение № 1 «Расчет для осуществляющих добычу черных, драгоценных, цветных и радиоактивных металлов, редких и редкоземельных элементов»;</li><li>приложение № 2 «Расчет по части, отведенной на переработку добытого природного газа, нефти и газового конденсата самостоятельно или подлежащей возврату»;</li><li>приложение № 3 «Расчет налога за пользование другими полезными ископаемыми (за исключением части, отведенной на переработку добытого природного газа, нефти и газового конденсата, а также осуществляющих добычу черных, драгоценных, цветных и радиоактивных металлов, редких и редкоземельных элементов)»;</li><li>справочник «Единицы измерения, указываемые в Расчете налога за пользование недрами».</li></ul><p><a data-anchor="/document/16/206330/bssPhr19/"></a><a data-anchor="/document/16/206330/dfas738cks/" data-dfa="dfas738cks"></a>На&nbsp;конкретных примерах добычи полезных ископаемых заполним Расчет по&nbsp;налогу за&nbsp;пользование недрами.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/206330/dfaspnyexy/" data-dfa="dfaspnyexy"></a><a data-anchor="/document/16/206330/bssPhr20/"></a>Как определить&nbsp;налоговую базу и&nbsp;заполнить&nbsp;отчетность по&nbsp;налогу за&nbsp;пользование недрами, если предприятие добывает калийную соль для собственных нужд</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206330/bssPhr21/"></a><a data-anchor="/document/16/206330/dfasit5p6x/" data-dfa="dfasit5p6x"></a>Предприятие добывает калийную соль для собственных производственных целей. Объем добытой соли за&nbsp;январь 2024 года составил 100 м<sup>3</sup>. Производственная себестоимость 1&nbsp;м<sup>3</sup>&nbsp;калийной соли — 350&nbsp;000 сумов за&nbsp;1&nbsp;м<sup>3</sup>. Рассчитаем налоговую базу, размер налога и&nbsp;составим отчетность.</p><p><a data-anchor="/document/16/206330/bssPhr22/"></a><a data-anchor="/document/16/206330/dfasdpvfgz/" data-dfa="dfasdpvfgz"></a>Предприятие использует добытое полезное ископаемое для собственных производственных нужд, поэтому налоговая база для этого полезного ископаемого определяется исходя из&nbsp;производственной себестоимости добытого, извлеченного полезного ископаемого, увеличенной на&nbsp;20&nbsp;процентов (<span num="7" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;451&nbsp;НК</span>).</p><p><a data-anchor="/document/16/206330/bssPhr23/"></a><a data-anchor="/document/16/206330/dfas9259ob/" data-dfa="dfas9259ob"></a>Налоговая база = 350 000 × 100 × 1,2 = 42&nbsp;000&nbsp;000&nbsp;сумов.</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr24/"></a><a data-anchor="/document/16/206330/dfasoh62pi/" data-dfa="dfasoh62pi"></a>Налоговая ставка за&nbsp;добычу гипса составляет 5&nbsp;процентов, но&nbsp;не&nbsp;менее 5 600 сум/м<sup>3</sup>&nbsp;(<span num="8" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;452&nbsp;НК</span>).</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr25/"></a><a data-anchor="/document/16/206330/dfaslaxd2g/" data-dfa="dfaslaxd2g"></a>Сумма налога = 42&nbsp;000&nbsp;000 × 5&nbsp;% = 2 100 000 сумов.</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr26/"></a><a data-anchor="/document/16/206330/dfasofuivu/" data-dfa="dfasofuivu"></a>Отразим начисление налога в&nbsp;отчетности.</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr27/"></a><a data-anchor="/document/16/206330/dfaspl9h3i/" data-dfa="dfaspl9h3i"></a>На <a href="https://my.soliq.uz/" title="">сайте ГНК</a> в&nbsp;разделе электронных форм по&nbsp;налогу за&nbsp;пользование недрами выберите форму 10701_27.</p><img alt="" hideborder="false" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/206330/bssPhr28/"></a><a data-anchor="/document/16/206330/dfas184xl4/" data-dfa="dfas184xl4"></a>В Расчете налога укажите вид расчета, период, а также сведения о:</p><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr29/"></a><a data-anchor="/document/16/206330/dfasf80wn3/" data-dfa="dfasf80wn3"></a>лицензии на право пользования участком недр для добычи полезных ископаемых;</li><li>лицензии на право пользования участком недр для использования техногенных минеральных образований;</li><li>договоре с ГУП «Хавфсиз дарё».</li></ul><p><a data-anchor="/document/16/206330/bssPhr30/"></a><a data-anchor="/document/16/206330/dfas85nru3/" data-dfa="dfas85nru3"></a>Заполним приложение № 3 (расчет заполняется в&nbsp;сумах, единицы измерения ко&nbsp;всем видам полезных ископаемых приведены в&nbsp;справочнике «Единицы измерения, указываемые в Расчете налога за пользование недрами»).</p><p><a data-anchor="/document/16/206330/bssPhr31/"></a><a data-anchor="/document/16/206330/dfasiuxx9w/" data-dfa="dfasiuxx9w"></a>В <strong>графе 010 </strong> выберем строку с&nbsp;необходимым видом полезного ископаемого&nbsp;— калийная соль. В&nbsp;этой строке заполняем:</p><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr32/"></a><a data-anchor="/document/16/206330/dfasg8dzym/" data-dfa="dfasg8dzym"></a><strong>по&nbsp;графе 50 </strong> объем добычи для собственных нужд&nbsp;— 100&nbsp;м<sup>3</sup>;</li></ul><img alt="" hideborder="false" class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr33/"></a><a data-anchor="/document/16/206330/dfasncovuz/" data-dfa="dfasncovuz"></a><strong>по&nbsp;графе 140 </strong> — производственная себестоимость 1&nbsp;м<sup>3</sup>&nbsp;— 350&nbsp;000&nbsp;сумов;</li></ul><img alt="" hideborder="false" class="inimg" num="3" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr34/"></a><a data-anchor="/document/16/206330/dfas9fz5o9/" data-dfa="dfas9fz5o9"></a><strong>по графе 150 </strong>автоматически рассчитается&nbsp;налоговая база&nbsp;— 42&nbsp;000&nbsp;000&nbsp;сумов;</li><li><strong>по графе&nbsp;190</strong> автоматически проставится ставка налога в процентах –&nbsp;5 процентов;</li><li><strong>по графе 200</strong> автоматически проставится фиксированная сумма налога за 1&nbsp;м<sup>3&nbsp;</sup>- 5 600 сум/м<sup>3</sup>;</li><li><strong>по графе 210</strong> рассчитается сумма&nbsp;налога для общей налоговой базы, определяемая умножением налоговой базы (гр. 150) на ставку налога (гр. 190) 2 100 000 сумов;</li><li><strong>по графе 220</strong> рассчитается сумма&nbsp;налога в расчете на единицу продукции, определяемая делением суммы налога для общей налоговой базы (гр. 210) на общий объем добытого (извлеченного) полезного ископаемого в натуральном выражении (гр. 030) –&nbsp;21 000 сумов;</li><li><strong>по графе 230</strong> автоматически рассчитается сумма&nbsp;налога, подлежащая&nbsp;уплате в бюджет –&nbsp;2 100 000 сумов. Эта же сумма отразится <strong>в&nbsp;строке 040</strong> Расчета.</li></ul><img alt="" hideborder="false" class="inimg" num="4" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/206330/dfasy11bc0/" data-dfa="dfasy11bc0"></a><a data-anchor="/document/16/206330/bssPhr35/"></a>Как определить налоговую базу и заполнить отчетность по&nbsp;налогу за&nbsp;пользование недрами, если предприятие добывает калийную соль&nbsp;для собственных нужд и&nbsp;реализует часть на&nbsp;сторону</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206330/bssPhr36/"></a><a data-anchor="/document/16/206330/dfasovzclh/" data-dfa="dfasovzclh"></a>Предприятие добывает калийную соль для собственных производственных целей, а&nbsp;также реализует часть на&nbsp;сторону. Объем добытый соли за январь 2024 года составил 100&nbsp;м<sup>3</sup>. Производственная себестоимость 1&nbsp;м<sup>3</sup>&nbsp;добытого гипса&nbsp;— 350 000 сумов за&nbsp;1&nbsp;м<sup>3</sup>. Из&nbsp;них: 10&nbsp;м<sup>3</sup>&nbsp;было реализовано по&nbsp;цене 500 000 сумов за&nbsp;1&nbsp;м<sup>3</sup>&nbsp;(без учета НДС), 20&nbsp;м<sup>3</sup>&nbsp;реализовано по&nbsp;цене 550 000 сумов за&nbsp;1&nbsp;м<sup>3</sup>&nbsp;(без учета НДС), 70&nbsp;м<sup>3</sup>&nbsp;использованы для собственных нужд.</p><p><a data-anchor="/document/16/206330/bssPhr37/"></a><a data-anchor="/document/16/206330/dfasao1pgt/" data-dfa="dfasao1pgt"></a>Рассчитаем налоговую базу, размер налога и&nbsp;составим отчетность.</p><p><a data-anchor="/document/16/206330/bssPhr38/"></a><a data-anchor="/document/16/206330/dfas4th3ht/" data-dfa="dfas4th3ht"></a>При реализации части добытого полезного ископаемого и&nbsp;использовании другой части для собственных производственных нужд, налоговая база определяется исходя из&nbsp;средневзвешенной цены реализации этого полезного ископаемого, в&nbsp;расчете на&nbsp;весь объем добычи (<span data-warm-notices="38264343" data-warm-notice-type="error" num="9" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;</span>5&nbsp;ст.&nbsp;451&nbsp;НК).</p><p><a data-anchor="/document/16/206330/bssPhr39/"></a><a data-anchor="/document/16/206330/dfas6rhqoz/" data-dfa="dfas6rhqoz"></a>Средневзвешенная цена реализации определяется путем деления объемов реализации в&nbsp;денежном выражении, за&nbsp;вычетом НДС, на&nbsp;объем реализации в&nbsp;натуральном выражении и&nbsp;составит:</p><p><a data-anchor="/document/16/206330/bssPhr40/"></a><a data-anchor="/document/16/206330/dfas7oyifa/" data-dfa="dfas7oyifa"></a>(500 000 × 10 + 550 000 × 20) ÷ 30 = (5&nbsp;000&nbsp;000 + 11 000&nbsp;000) ÷ 30 = 16 000 000 ÷ 30 = 533 333,333 сумов.</p><p><a data-anchor="/document/16/206330/bssPhr41/"></a><a data-anchor="/document/16/206330/dfasdggdgu/" data-dfa="dfasdggdgu"></a>Налоговая база = 533 333,33 × 100 = 53 333 333,3 сумов.</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr42/"></a><a data-anchor="/document/16/206330/dfasccob9g/" data-dfa="dfasccob9g"></a>Налоговая ставка за добычу гипса составляет 5 процентов, но не менее 5 600 сум/м<sup>3</sup> (<span num="24" target="_self" lnktype="intlnk" title="" class="doc">ст. 452 НК</span>).&nbsp;</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr43/"></a><a data-anchor="/document/16/206330/dfaslhm99d/" data-dfa="dfaslhm99d"></a>Сумма налога = 53 333 333,3 × 5&nbsp;% = 2 666 666,665 сумов.</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr44/"></a><a data-anchor="/document/16/206330/dfastq08r8/" data-dfa="dfastq08r8"></a>Отразим начисление налога в&nbsp;отчетности.</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr45/"></a><a data-anchor="/document/16/206330/dfasi6f5db/" data-dfa="dfasi6f5db"></a>Заполним приложение № 3 (расчет заполняется в сумах, единицы измерения ко всем видам полезных ископаемых приведены в справочнике «Единицы измерения, указываемые в Расчете налога за пользование недрами»).</p><p><a data-anchor="/document/16/206330/bssPhr46/"></a><a data-anchor="/document/16/206330/dfasurfgy2/" data-dfa="dfasurfgy2"></a>В <strong>графе 010 </strong> выберем строку с&nbsp;необходимым видом полезного ископаемого&nbsp;— калийная соль. В&nbsp;этой строке заполняем:</p><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr47/"></a><a data-anchor="/document/16/206330/dfasl7p3sw/" data-dfa="dfasl7p3sw"></a>по<strong> графе 40 </strong> объем добычи для реализации на&nbsp;сторону&nbsp;— 30&nbsp;м<sup>3</sup>;</li><li>по<strong> графе 50 </strong> объем добычи для собственных нужд&nbsp;— 70&nbsp;м<sup>3</sup>;</li><li>по <strong>графе 080</strong>&nbsp;объем продаж в натуральном выражении –&nbsp;30 м<sup>3</sup>;</li><li>по <strong>графе 090</strong>&nbsp;объем продаж в денежном выражении (за вычетом НДС и акцизного налога) –&nbsp;16 000 000 сумов;</li></ul><img alt="" hideborder="false" class="inimg" num="5" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr48/"></a><a data-anchor="/document/16/206330/dfasavs2ig/" data-dfa="dfasavs2ig"></a>по<strong> графе 140 </strong> — производственная себестоимость 1&nbsp;м<sup>3</sup>&nbsp;— 350&nbsp;000&nbsp;сумов;</li></ul><img alt="" hideborder="false" class="inimg" num="6" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr49/"></a><a data-anchor="/document/16/206330/dfas366enk/" data-dfa="dfas366enk"></a>по <strong>графе 100</strong> автоматически рассчитается&nbsp;средневзвешенная цена&nbsp;реализации, определяемая&nbsp;делением объема продаж в денежном выражении (за вычетом НДС и акцизного налога) (гр. 090) на объем продаж в натуральном выражении (гр. 080);</li><li><strong>по графе 150 </strong>автоматически рассчитается налоговая база — 53 333 333,3 сумов;</li><li><strong>по графе 190</strong> автоматически проставится ставка налога в процентах – 5 процентов;</li><li><strong>по графе 200</strong>&nbsp;проставится фиксированная сумма налога за 1 м<sup>3 </sup>- 5 600 сум/м<sup>3</sup>;</li><li><strong>по графе 210</strong> рассчитается сумма налога для общей налоговой базы, определяемая умножением налоговой базы (гр. 150) на ставку налога (гр. 190) 2 666 666,665 сумов;</li><li><strong>по графе 220</strong> рассчитается сумма налога в расчете на единицу продукции, определяемая делением суммы налога для общей налоговой базы (гр. 210) на общий объем добытого (извлеченного) полезного ископаемого в натуральном выражении (гр. 030) – 26 666,667 сумов;</li><li><strong>по графе 230</strong> автоматически рассчитается сумма налога, подлежащая уплате в бюджет – 2 666 666,665 сумов. Эта же сумма отразится <strong>в строке 040</strong> Расчета.</li></ul><img alt="" hideborder="false" class="inimg" num="7" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/206330/dfas3ns89g/" data-dfa="dfas3ns89g"></a><a data-anchor="/document/16/206330/bssPhr50/"></a>Как скорректировать налоговую базу по&nbsp;налогу за&nbsp;пользование недрами при отсутствии реализации полезного ископаемого</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206330/bssPhr51/"></a><a data-anchor="/document/16/206330/dfasi52pkg/" data-dfa="dfasi52pkg"></a>Предприятие зарегистрировалось и&nbsp;начало добывать калийную соль в&nbsp;январе. Объем добычи за&nbsp;январь составил 50&nbsp;м<sup>3</sup>. Реализации в&nbsp;январе не&nbsp;было. Производственная себестоимость 1&nbsp;м<sup>3</sup>&nbsp;калийной соли — 350&nbsp;000 сумов за&nbsp;1&nbsp;м<sup>3</sup>. В&nbsp;феврале объем добычи составил 60&nbsp;м<sup>3</sup>, реализовано 60&nbsp;м<sup>3</sup>, стоимость реализации составила 30 000&nbsp;000&nbsp;сумов, без учета НДС.</p><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr52/"></a><a data-anchor="/document/16/206330/dfasdep3tw/" data-dfa="dfasdep3tw"></a>При полном отсутствии реализации полезного ископаемого налоговая база отчетного периода определяется исходя из&nbsp;производственной себестоимости добычи, увеличенной на&nbsp;20&nbsp;процентов (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;7</span>ст.&nbsp;451&nbsp;НК). При этом налогоплательщик обязан произвести последующую корректировку суммы начисленного налога в&nbsp;том отчетном периоде, когда была реализация, исходя из&nbsp;средневзвешенной цены, сложившейся за&nbsp;отчетный период.</p><p><a data-anchor="/document/16/206330/bssPhr53/"></a><a data-anchor="/document/16/206330/dfas7sf0f4/" data-dfa="dfas7sf0f4"></a>Определим налоговую базу по&nbsp;налогу за&nbsp;январь 2024 года:</p><p><a data-anchor="/document/16/206330/bssPhr54/"></a><a data-anchor="/document/16/206330/dfascm5qmg/" data-dfa="dfascm5qmg"></a>350&nbsp;000 × 50 × 1,2 = 21&nbsp;000&nbsp;000&nbsp;сумов.</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr55/"></a><a data-anchor="/document/16/206330/dfas0qna5g/" data-dfa="dfas0qna5g"></a>Налоговая ставка за добычу гипса составляет 5 процентов, но не менее 5 600 сум/м<sup>3</sup> (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">ст. 452 НК</span>).</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr56/"></a><a data-anchor="/document/16/206330/dfas79807v/" data-dfa="dfas79807v"></a>Сумма налога = 21&nbsp;000&nbsp;000 × 5&nbsp;% = 1 050 000&nbsp;сумов.</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr57/"></a><a data-anchor="/document/16/206330/dfas6o36kr/" data-dfa="dfas6o36kr"></a>Отразим начисление налога в&nbsp;отчетности за январь.</p><p class="rvps1" style="text-align:left"><a data-anchor="/document/16/206330/bssPhr58/"></a><a data-anchor="/document/16/206330/dfastxnt88/" data-dfa="dfastxnt88"></a>Заполним приложение № 3 (расчет заполняется в сумах, единицы измерения ко всем видам полезных ископаемых приведены в справочнике «Единицы измерения, указываемые в Расчете налога за пользование недрами»).</p><p><a data-anchor="/document/16/206330/bssPhr59/"></a><a data-anchor="/document/16/206330/dfasvdd663/" data-dfa="dfasvdd663"></a>В <strong>графе 010 </strong> выберем строку с необходимым видом полезного ископаемого — калийная соль. В этой строке заполняем:</p><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr60/"></a><a data-anchor="/document/16/206330/dfass0dkzq/" data-dfa="dfass0dkzq"></a><strong>по графе 50 </strong> объем добычи для собственных нужд — 50 м<sup>3</sup>;</li></ul><img alt="" hideborder="false" class="inimg" num="8" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr61/"></a><a data-anchor="/document/16/206330/dfaseq2fl4/" data-dfa="dfaseq2fl4"></a><strong>по графе 140 </strong> — производственная себестоимость 1 м<sup>3</sup> — 350 000 сумов;</li></ul><img alt="" hideborder="false" class="inimg" num="9" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ul class="c-list"><li><a data-anchor="/document/16/206330/bssPhr62/"></a><a data-anchor="/document/16/206330/dfas2e8v1c/" data-dfa="dfas2e8v1c"></a><strong>по графе 150 </strong>автоматически рассчитается налоговая база — 21 000 000 сумов;</li><li><strong>по графе 190</strong> автоматически проставится ставка налога в процентах – 5 процентов;</li><li><strong>по графе 200</strong> автоматически проставится фиксированная сумма налога за 1 м<sup>3 </sup>- 5 600 сум/м<sup>3</sup>;</li><li><strong>по графе 210</strong> рассчитается сумма налога для общей налоговой базы, определяемая умножением налоговой базы (гр. 150) на ставку налога (гр. 190) 1 050 000 сумов;</li><li><strong>по графе 220</strong> рассчитается сумма налога в расчете на единицу продукции, определяемая делением суммы налога для общей налоговой базы (гр. 210) на общий объем добытого (извлеченного) полезного ископаемого в натуральном выражении (гр. 030) – 21 000 сумов;</li><li><a data-anchor="/document/16/206330/dfasw29rcn/" data-dfa="dfasw29rcn"></a><strong>по графе 230</strong> автоматически рассчитается сумма налога, подлежащая уплате в бюджет – 1 050 000 сумов. Эта же сумма отразится <strong>в строке 040</strong> Расчета за июль.</li></ul><img alt="" hideborder="false" class="inimg" num="10" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr63/"></a><a data-anchor="/document/16/206330/dfas4lb0nm/" data-dfa="dfas4lb0nm"></a>Стоимость реализации полезного ископаемого, добытого в&nbsp;феврале (60&nbsp;м<sup>3</sup>) составила 30 000&nbsp;000 сумов без НДС. Средневзвешенная цена реализации в&nbsp;феврале составила 500&nbsp;000 сумов (30 000&nbsp;000 сумов ÷ 60&nbsp;м<sup>3</sup>).</p><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr64/"></a><a data-anchor="/document/16/206330/dfasbg8g5h/" data-dfa="dfasbg8g5h"></a>В&nbsp;связи с&nbsp;тем, что налоговая база за&nbsp;январь была определена исходя из&nbsp;производственной себестоимости, увеличенной на&nbsp;20&nbsp;процентов, предприятие в&nbsp;феврале обязано произвести корректировку суммы начисленного налога за&nbsp;январь исходя из&nbsp;средневзвешенной цены реализации, сложившейся в&nbsp;феврале.</p><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr65/"></a><a data-anchor="/document/16/206330/dfashf68ow/" data-dfa="dfashf68ow"></a>50&nbsp;м<sup>3</sup> × 500&nbsp;000 сумов = 25&nbsp;000&nbsp;000&nbsp;сумов.</p><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr66/"></a><a data-anchor="/document/16/206330/dfaslor3s0/" data-dfa="dfaslor3s0"></a>Таким образом, налоговая база за&nbsp;январь-февраль составит:</p><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr67/"></a><a data-anchor="/document/16/206330/dfasbgu2p1/" data-dfa="dfasbgu2p1"></a>110&nbsp;м<sup>3</sup> × 500&nbsp;000 сумов = 55&nbsp;000&nbsp;000&nbsp;сумов.</p><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr68/"></a><a data-anchor="/document/16/206330/dfasnyx4b3/" data-dfa="dfasnyx4b3"></a>Так как, корректировка будет происходить по&nbsp;итогам февраля, к&nbsp;уплате в&nbsp;бюджет подлежит сумма налога, начисленная по&nbsp;итогам января и февраля, за&nbsp;вычетом уплаченной суммы налога за&nbsp;январь. При этом, сдача перерасчетов за&nbsp;январь не&nbsp;производится, так как налоговая отчетность по&nbsp;налогу представляется юридическими лицами нарастающим итогом.</p><p><a data-anchor="/document/16/206330/bssPhr69/"></a><a data-anchor="/document/16/206330/dfaswetvq8/" data-dfa="dfaswetvq8"></a>Ставка налога&nbsp;— 5&nbsp;процентов.</p><p><a data-anchor="/document/16/206330/bssPhr70/"></a><a data-anchor="/document/16/206330/dfasnd50zf/" data-dfa="dfasnd50zf"></a>Сумма налога, причитающаяся к&nbsp;уплате за&nbsp;январь-февраль, с&nbsp;учетом корректировки составит:</p><p><a data-anchor="/document/16/206330/bssPhr71/"></a><a data-anchor="/document/16/206330/dfasqbphlp/" data-dfa="dfasqbphlp"></a>55 000&nbsp;000 × 5&nbsp;% = 2 750&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/206330/bssPhr72/"></a><a data-anchor="/document/16/206330/dfasghds2h/" data-dfa="dfasghds2h"></a>Так как корректировка будет происходить по&nbsp;итогам февраля, к&nbsp;уплате в&nbsp;бюджет подлежит сумма налога, начисленная по&nbsp;итогам января и февраля, за&nbsp;вычетом уплаченной суммы за&nbsp;январь.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Подлежит ли обложению налогом за пользование недрами нереализованная часть объема&#160;добытого полезного ископаемого</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr74/"></a><a data-anchor="/document/16/206330/dfasg7ml2o/" data-dfa="dfasg7ml2o"></a>&nbsp;Да, подлежит.</p><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr75/"></a><a data-anchor="/document/16/206330/dfasqd9p0n/" data-dfa="dfasqd9p0n"></a>Объектом обложения налогом за пользование недрами, в частности, является объем добычи, извлечения&nbsp;полезного ископаемого (<span num="38" target="_self" lnktype="intlnk" title="" class="doc">ст. 450</span> НК).</p><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr76/"></a><a data-anchor="/document/16/206330/dfasfqaepg/" data-dfa="dfasfqaepg"></a>Обложению налогом подлежит общий объем добычи, извлечения&nbsp;полезного ископаемого, то есть объем реализованного и нереализованного добытого, извлеченного&nbsp;полезного ископаемого за отчетный период.</p><p style="text-align:left"><a data-anchor="/document/16/206330/bssPhr77/"></a><a data-anchor="/document/16/206330/dfasrmhw43/" data-dfa="dfasrmhw43"></a>Налоговую базу по нереализованному объему добытого, извлеченного&nbsp;полезного ископаемого определяйте&nbsp;исходя из средневзвешенной цены реализации за отчетный период.</p></div></div></div><p><a data-anchor="/document/16/206330/dfasf8sqrz/" data-dfa="dfasf8sqrz"></a><a data-anchor="/document/16/206330/bssPhr78/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

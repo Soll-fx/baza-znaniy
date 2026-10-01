@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как оплатить, сдать расчет и отразить в учете социальный налог юрлицу</h2><div class="doc-snippet"><a data-anchor="/document/16/221263/dfasts00fn/" data-dfa="dfasts00fn"></a><a data-anchor="/document/16/221263/bssPhr2/"></a>Когда возникает обязанность рассчитать социальный налог, в какие сроки сдать расчет по социальному налогу и заплатить социальный налог в бюджет, как перечислить социальный налог, узнаете из рекомендации. Эксперты рассказали какие штрафы грозят, если не перечислить налог в бюджет вовремя. А также дали проводки, которыми отразить в бухучете начисление и уплату социального налога. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/221263/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221263/bssPhr3/"></a><a data-anchor="/document/16/221263/dfas5sdv0n/" data-dfa="dfas5sdv0n"></a>Расчет налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221263/bssPhr5/"></a><a data-anchor="/document/16/221263/dfasbx38d3/" data-dfa="dfasbx38d3"></a>Обязанность рассчитать социальный налог возникает в день, когда работнику начислен доход по оплате труда. Именно в этот день бухгалтер должен рассчитать сумму налога, которую надо заплатить в бюджет.</p><p><a data-anchor="/document/16/221263/bssPhr6/"></a><a data-anchor="/document/16/221263/dfascwo12i/" data-dfa="dfascwo12i"></a>Социальный налог рассчитывайте исходя из <span num="5" lnktype="intlnk" title="" class="doc">налоговой базы и установленных ставок</span>.</p><p><a data-anchor="/document/16/221263/bssPhr7/"></a><a data-anchor="/document/16/221263/dfas15c0cu/" data-dfa="dfas15c0cu"></a>Датой, когда возникает доход, связанный с оплатой труда, считается последний день месяца, за который вы начислили доход (<span num="88" target="_blank" lnktype="intlnk" title="" class="doc">ч. 2 ст. 367 НК</span>).</p><p><a data-anchor="/document/16/221263/bssPhr8/"></a><a data-anchor="/document/16/221263/dfas3wkx06/" data-dfa="dfas3wkx06"></a>Так как объект обложения социальным налогом – расходы работодателя на оплату труда работников, то соцналог рассчитывайте в день начисления зарплаты, то есть в последний день месяца</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221263/bssPhr10/"></a><a data-anchor="/document/16/221263/dfasqr34mz/" data-dfa="dfasqr34mz"></a>Платить налог в бюджет нужно ежемесячно не позднее срока сдачи отчетности, а именно не позднее 15 числа месяца, следующего за отчетным (<span num="89" target="_blank" lnktype="intlnk" title="" class="doc">ч. 5 ст. 407 НК</span>).&nbsp;Расчет по итогам года предоставляется не позднее 15 февраля следующего года (<span num="90" target="_blank" lnktype="intlnk" title="" class="doc">ч. 4 ст. 407 НК</span>)</p><p><a data-anchor="/document/16/221263/bssPhr11/"></a><a data-anchor="/document/16/221263/dfas9hgsn9/" data-dfa="dfas9hgsn9"></a>Платежное поручение на уплату социального налога представляйте в банк одновременно с представлением отчетности по соцналогу.</p><p><a data-anchor="/document/16/221263/bssPhr12/"></a><a data-anchor="/document/16/221263/dfasaz00nu/" data-dfa="dfasaz00nu"></a><strong>Зарплата</strong>. Перечислять налог нужно до 15 числа месяца, следующего за отчетным. Например, зарплату за январь 2026&nbsp;года работодатель выплатил 6&nbsp;февраля 2026&nbsp;года. В этом случае зарплата рассчитана 31 января, социальный налог начислен – 31 января. Перечислить налог надо до 15 февраля.&nbsp;</p><p><a data-anchor="/document/16/221263/bssPhr13/"></a><a data-anchor="/document/16/221263/dfaswhx8ba/" data-dfa="dfaswhx8ba"></a><strong>Аванс. </strong>Если зарплату за месяц вы платите частями, то есть выдаете аванс, то социальный налог с аванса не рассчитывайте. Например, 14 января организация выдала сотрудникам аванс за текущий месяц, а зарплату за январь выплатила 4 февраля 2026&nbsp;года. Рассчитайте налог 31 января, перечислите его в бюджет до 15 февраля. С аванса социальный налог рассчитывать не надо.</p><p><a data-anchor="/document/16/221263/bssPhr14/"></a><a data-anchor="/document/16/221263/dfasyaaql8/" data-dfa="dfasyaaql8"></a>Социальный налог начисляйте при окончательном расчете со всей суммы заработной платы, начисленной работникам за месяц с учетом выданного аванса.</p></div><a data-anchor="/document/16/221263/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221263/bssPhr15/"></a><a data-anchor="/document/16/221263/dfasg6y505/" data-dfa="dfasg6y505"></a>Перечисление налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221263/bssPhr17/"></a><a data-anchor="/document/16/221263/dfasuozhga/" data-dfa="dfasuozhga"></a>Платежное поручение на уплату налога представляйте в банк даже при отсутствии или недостаточности денег на банковском счете.</p><p><a data-anchor="/document/16/221263/bssPhr18/"></a><a data-anchor="/document/16/221263/dfas4wkecw/" data-dfa="dfas4wkecw"></a>При недостаточности на банковском счете средств, необходимых для выплаты зарплаты и перечисления в бюджет налога, перечисляйте налог в сумме, пропорциональной остатку средств на счете.&nbsp;</p><p><a data-anchor="/document/16/221263/bssPhr19/"></a><a data-anchor="/document/16/221263/dfas9gf9hf/" data-dfa="dfas9gf9hf"></a>Организации платят социальный налог в бюджетную систему на соответствующий счет казначейства. Реквизиты для перечисления налога вы можете посмотреть в кабинете налогоплательщика.</p></div><a data-anchor="/document/16/221263/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/221263/bssPhr20/"></a><a data-anchor="/document/16/221263/dfasw6rzhe/" data-dfa="dfasw6rzhe"></a>Штраф</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221263/bssPhr22/"></a><a data-anchor="/document/16/221263/dfas8d49i0/" data-dfa="dfas8d49i0"></a>Если вы не уплатили налог или уплатили не полностью, придется заплатить штраф в размере 20 процентов от неуплаченной суммы налога (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">ст. 224 НК</span>).</p><p><a data-anchor="/document/16/221263/bssPhr23/"></a><a data-anchor="/document/16/221263/dfaso2ev5r/" data-dfa="dfaso2ev5r"></a>Если налог заплатили позже срока, установленного <span num="20" target="_self" lnktype="intlnk" title="Уплата налога производится ежемесячно не позднее сроков представления налоговой отчетности" class="doc">частью 5</span> статьи 407 НК, налоговая инспекция начислит пени за каждый календарный день просрочки, начиная со дня, следующего за установленным днем уплаты налога. Сумму пени рассчитывают в процентах от неуплаченной суммы и уплачивают помимо причитающейся к выплате суммы налога.</p><p><a data-anchor="/document/16/221263/bssPhr24/"></a><a data-anchor="/document/16/221263/dfaspb42d6/" data-dfa="dfaspb42d6"></a>Процентная ставка пени равна 1/300 действующей в это время ставки рефинансирования ЦБ (<span num="91" target="_blank" lnktype="intlnk" title="" class="doc">ч. 11&nbsp;ст. 110 НК</span>).</p><p><a data-anchor="/document/16/221263/bssPhr25/"></a><a data-anchor="/document/16/221263/dfaspte76r/" data-dfa="dfaspte76r"></a>Если такие факты инспекторы выявили в ходе проверки, организации, то ее ответственным должностным лицам грозит не только налоговая, но и административная ответственность.</p><p><a data-anchor="/document/16/221263/bssPhr26/"></a><a data-anchor="/document/16/221263/dfasdzmma3/" data-dfa="dfasdzmma3"></a>За непредставление или несвоевременное представление в банк платежного поручения на уплату налогов и других обязательных платежей предусмотрен штраф в размере 5 БРВ (<span num="92" target="_blank" lnktype="intlnk" title="" class="doc">ст. 175 КоАО</span>).</p><p><a data-anchor="/document/16/221263/bssPhr27/"></a><a data-anchor="/document/16/221263/dfassa028w/" data-dfa="dfassa028w"></a>Добросовестным налогоплательщикам, ранее своевременно платившим налоги в течение трех и более лет, и не имеющим возможности оплатить налоги из-за трудного финансового положения, может предоставляться рассрочка, отсрочка по уплате налога (<span num="93" target="_blank" lnktype="intlnk" title="" class="doc">п. 3-1 ст. 100 НК</span>, <span num="94" target="_blank" lnktype="intlnk" title="" class="doc">ч. 10 ст. 101 НК</span>). Сумма налогов, уплачиваемая в рассрочку, не должна превышать 50% от суммы уплаченных налогов за последние три года.</p><p><a data-anchor="/document/16/221263/bssPhr28/"></a><a data-anchor="/document/16/221263/dfascn42rl/" data-dfa="dfascn42rl"></a>Если уплатили излишнюю сумму социального налога, напишите об этом&nbsp;заявление в налоговую инспекцию. Ее вернут или засчитают в счет будущих платежей на основании заключения налоговой инспекции. Излишне уплаченные суммы возвращают в соответствии с <span num="109" target="_blank" lnktype="intlnk" title="" class="doc">главой 12</span> НК.</p></div><a data-anchor="/document/16/221263/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/221263/bssPhr29/"></a><a data-anchor="/document/16/221263/dfasalt8ft/" data-dfa="dfasalt8ft"></a>Сдача расчета</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221263/bssPhr31/"></a><a data-anchor="/document/16/221263/dfasw0o24q/" data-dfa="dfasw0o24q"></a><a data-anchor="/document/16/221263/dfascggqe1/" data-dfa="dfascggqe1"></a>Расчет социального налога сдавайте в налоговую инспекцию по месту учета ежемесячно не позднее 15 числа месяца, следующего за отчетным периодом. Например, расчет за январь, сдайте до 15 февраля.</p><p><a data-anchor="/document/16/221263/bssPhr32/"></a><a data-anchor="/document/16/221263/dfasktg78q/" data-dfa="dfasktg78q"></a>Расчет по итогам года предоставляется не позднее 15 февраля следующего года (<span num="96" target="_blank" lnktype="intlnk" title="" class="doc">ч. 4 ст. 407 НК</span>).&nbsp;Расчет заполняйте нарастающим итогом.</p></div><a data-anchor="/document/16/221263/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/221263/bssPhr33/"></a><a data-anchor="/document/16/221263/dfasubtc08/" data-dfa="dfasubtc08"></a>Бухучет при начислении и уплате налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221263/bssPhr36/"></a><a data-anchor="/document/16/221263/dfaseiwrt4/" data-dfa="dfaseiwrt4"></a>Учет социального налога ведите на счете <strong>6520 «Платежи в государственные целевые фонды».</strong></p><p><a data-anchor="/document/16/221263/bssPhr37/"></a><a data-anchor="/document/16/221263/dfas9yzcr1/" data-dfa="dfas9yzcr1"></a>В бухучете начисление и уплату социального налога отразите так:</p><p><a data-anchor="/document/16/221263/bssPhr38/"></a><a data-anchor="/document/16/221263/dfas1o1k1u/" data-dfa="dfas1o1k1u"></a><strong>Дебет 2010, 2310, 2510, 2610, 2710, 9400… Кредит 6520</strong><br>– начислен социальный налог с доходов в виде оплаты труда</p><p><a data-anchor="/document/16/221263/bssPhr39/"></a><a data-anchor="/document/16/221263/dfas9zzc1m/" data-dfa="dfas9zzc1m"></a><strong>Дебет 6520 Кредит 5110</strong><br>– перечислен социальный налог в бюджет.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/221263/bssPhr40/"></a><a data-anchor="/document/16/221263/dfas2e2f4k/" data-dfa="dfas2e2f4k"></a>Пример начисления и оплаты социального налога с доходов в виде оплаты труда</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221263/bssPhr41/"></a><a data-anchor="/document/16/221263/dfaset4b7p/" data-dfa="dfaset4b7p"></a>Оплата труда, начисленная сотрудникам ООО «Альфа» за январь месяц, составила:</p><ul class="c-list"><li><a data-anchor="/document/16/221263/bssPhr42/"></a><a data-anchor="/document/16/221263/dfaso9uemb/" data-dfa="dfaso9uemb"></a>производственному персоналу – 30 000 000 сумов;</li><li>АУП – 20 000 000 сумов;</li><li>отделу продаж – 15 000 000 сумов.</li></ul><p><a data-anchor="/document/16/221263/bssPhr43/"></a><a data-anchor="/document/16/221263/dfasb0bzak/" data-dfa="dfasb0bzak"></a>Начисление оплаты труда и социального налога бухгалтер ООО «Альфа» отразил в учете 31 января и сделал проводки:</p><p><a data-anchor="/document/16/221263/bssPhr44/"></a><a data-anchor="/document/16/221263/dfashogd6f/" data-dfa="dfashogd6f"></a><strong>Дебет 2010 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/221263/bssPhr45/"></a><a data-anchor="/document/16/221263/dfasm90wzs/" data-dfa="dfasm90wzs"></a>30 000 000 сумов начислена оплата труда сотрудникам производственного отдела</li></ul><p><a data-anchor="/document/16/221263/bssPhr46/"></a><a data-anchor="/document/16/221263/dfasm28to5/" data-dfa="dfasm28to5"></a><strong>Дебет 2010 Кредит 6520</strong></p><ul class="c-list"><li><a data-anchor="/document/16/221263/bssPhr47/"></a><a data-anchor="/document/16/221263/dfas04xol5/" data-dfa="dfas04xol5"></a>3 600 000 сумов начислен социальный налог с оплаты труда сотрудников производственного отдела.</li></ul><p><a data-anchor="/document/16/221263/bssPhr48/"></a><a data-anchor="/document/16/221263/dfascqpvw2/" data-dfa="dfascqpvw2"></a><strong>Дебет 9420 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/221263/bssPhr49/"></a><a data-anchor="/document/16/221263/dfashzvg16/" data-dfa="dfashzvg16"></a>20 000 000 сумов начислена оплата труда сотрудникам административного&nbsp;отдела</li></ul><p><a data-anchor="/document/16/221263/bssPhr50/"></a><a data-anchor="/document/16/221263/dfasm198oz/" data-dfa="dfasm198oz"></a><strong>Дебет 9420 Кредит 6520</strong></p><ul class="c-list"><li><a data-anchor="/document/16/221263/bssPhr51/"></a><a data-anchor="/document/16/221263/dfasvcmcv6/" data-dfa="dfasvcmcv6"></a>2 400 000 сумов начислен социальный налог с оплаты труда сотрудников АУП</li></ul><p><a data-anchor="/document/16/221263/bssPhr52/"></a><a data-anchor="/document/16/221263/dfass7wd0y/" data-dfa="dfass7wd0y"></a><strong>Дебет 9410 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/221263/bssPhr53/"></a><a data-anchor="/document/16/221263/dfas819i69/" data-dfa="dfas819i69"></a>15 000 000 сумов начислена оплата труда сотрудникам отдела продаж</li></ul><p><a data-anchor="/document/16/221263/bssPhr54/"></a><a data-anchor="/document/16/221263/dfasfb2y6p/" data-dfa="dfasfb2y6p"></a><strong>Дебет 9410 Кредит 6520</strong></p><ul class="c-list"><li><a data-anchor="/document/16/221263/bssPhr55/"></a><a data-anchor="/document/16/221263/dfasoicyyq/" data-dfa="dfasoicyyq"></a>1 800 000 сумов начислен социальный налог с оплаты труда сотрудников отдела продаж.</li></ul><p><a data-anchor="/document/16/221263/bssPhr56/"></a><a data-anchor="/document/16/221263/dfasszgk9s/" data-dfa="dfasszgk9s"></a>До 15 февраля бухгалтер оплатил в бюджет начисленный социальный налог и сделал проводки:</p><p><a data-anchor="/document/16/221263/bssPhr57/"></a><a data-anchor="/document/16/221263/dfasi9uq3s/" data-dfa="dfasi9uq3s"></a><strong>Дебет 6520 Кредит 5110</strong></p><ul class="c-list"><li><a data-anchor="/document/16/221263/bssPhr58/"></a><a data-anchor="/document/16/221263/dfascl6x6r/" data-dfa="dfascl6x6r"></a>7 800 000 сумов (3 600 000 + 2 400 000 + 1 800 000) – перечислен в бюджет социальный налог с оплаты труда сотрудников.</li></ul></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должны ли доходы, которые физлицо получило по договору ГПХ за пределами Узбекистана, облагаться социальным налогом?</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/221263/bssPhr60/"></a><a data-anchor="/document/16/221263/dfasxey8a9/" data-dfa="dfasxey8a9"></a><strong>Работодатель физлица-резидента РУз – иностранная компания. В контракте есть пункт, в котором оговорено, что ответственность за налогообложение в Узбекистане возложена на физическое лицо</strong></p><p style="text-align:left"><a data-anchor="/document/16/221263/bssPhr61/"></a><a data-anchor="/document/16/221263/dfasvmfyhe/" data-dfa="dfasvmfyhe"></a>Нет, не должны.</p><p style="text-align:left"><a data-anchor="/document/16/221263/bssPhr62/"></a><a data-anchor="/document/16/221263/dfas114exg/" data-dfa="dfas114exg"></a>Обязанность по начислению и уплате социального налога возложена на работодателя. Социальный налог уплачивают за счет средств юридического лица, а не за счет средств работника (<span num="76" target="_self" lnktype="intlnk" title="" class="doc">ст. 407 НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/221263/bssPhr63/"></a><a data-anchor="/document/16/221263/dfas7gybvi/" data-dfa="dfas7gybvi"></a>Из этого следует, что обязанность по начислению социального налога лежит на работодателе, который осуществляет выплаты на территории РУз.</p><p style="text-align:left"><a data-anchor="/document/16/221263/bssPhr64/"></a><a data-anchor="/document/16/221263/dfas58gi5y/" data-dfa="dfas58gi5y"></a>Если иностранная компания осуществляет деятельность на территории РУз через постоянные учреждения, представительства либо филиалы, то она признается плательщиком социального налога и обязанность по исчислению и уплате налога возложена на нее (<span num="77" target="_self" lnktype="intlnk" title="" class="doc">ст. 402 НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/221263/bssPhr65/"></a><a data-anchor="/document/16/221263/dfas8hadul/" data-dfa="dfas8hadul"></a>В противном случае, если иностранная компания не осуществляет деятельность на территории РУз, физическое лицо не обязано уплачивать социальный налог и оплата может происходить только на добровольной основе (<span num="78" target="_self" lnktype="intlnk" title="" class="doc">ст. 409 НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/221263/bssPhr66/"></a><a data-anchor="/document/16/221263/dfassawust/" data-dfa="dfassawust"></a>Физические лица, получающие доходы от работодателя, на которого в соответствии с законодательством не возложена обязанность по начислению и удержанию социального налога, могут уплатить его на добровольной основе, исходя из суммы доходов в виде оплаты труда, указанных в декларации о совокупном годовом доходе (<span num="97" target="_blank" lnktype="intlnk" title="" class="doc">ч. 1 ст. 409 НК</span>). Для этого нужно одновременно с представлением декларации подать заявление о добровольной уплате социального налога. Социальный налог физлица уплачивают в сроки уплаты НДФЛ, который налоговые органы исчисляет по данным декларации о совокупном годовом доходе – не позднее 1 июня года, следующего за истекшим (<span num="98" target="_blank" lnktype="intlnk" title="" class="doc">ст. 409 НК</span>, <span num="99" target="_blank" lnktype="intlnk" title="" class="doc">ч. 1 ст. 398 НК</span>).</p></div></div></div><p><a data-anchor="/document/16/221263/dfas0xigpm/" data-dfa="dfas0xigpm"></a><a data-anchor="/document/16/221263/bssPhr67/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

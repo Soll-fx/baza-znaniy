@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как платить текущие платежи по налогу на прибыль юрлиц</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203167/bssPhr1/"></a><a data-anchor="/document/16/203167/dfasmbyscn/" data-dfa="dfasmbyscn"></a>Большинство плательщиков налога на прибыль обязаны вносить текущие платежи. По сути, это предоплата, потому что текущие платежи вносят до того, как налогоплательщик определит сумму налога на прибыль и сдаст его расчет в налоговый орган.</p><a data-anchor="/document/16/203167/bssPhr2/"></a><a data-anchor="/document/16/203167/tit0/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203167/dfas75nrvl/" data-dfa="dfas75nrvl"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Три случая, когда не нужно вносить текущие платежи</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203167/dfasxtwdom/" data-dfa="dfasxtwdom"></a><a data-anchor="/document/16/203167/bssPhr11/"></a>Текущие платежи не нужно вносить в трех случаях.</p><p><a data-anchor="/document/16/203167/bssPhr12/"></a><a data-anchor="/document/16/203167/dfas95z8ff/" data-dfa="dfas95z8ff"></a><b>Первый –</b> налогооблагаемая прибыль, которую налогоплательщик планирует получить за отчетный квартал, меньше 200 МРЗП <span class="xx-small">(<span title="Налогоплательщики, у которых предполагаемая налогооблагаемая прибыль за отчетный период составляет менее двухсоткратного размера минимальной заработной платы, текущие платежи не уплачивают." num="1" lnktype="intlnk" class="doc">ч. 4</span> ст. 164 НК)</span>.</p><p><a data-anchor="/document/16/203167/bssPhr13/"></a><a data-anchor="/document/16/203167/dfas31ee86/" data-dfa="dfas31ee86"></a><b>Второй –</b> налогоплательщик перешел на уплату общеустановленных налогов и первый отчетный квартал после перехода не закончился <span class="xx-small">(<span title="Плательщики, перешедшие с уплаты единого налогового платежа на уплату общеустановленных налогов, освобождаются от уплаты текущих платежей по налогу на прибыль за первый квартал, в..." num="3" lnktype="intlnk" class="doc">ч. 3</span> ст. 354 НК)</span>.</p><p><a data-anchor="/document/16/203167/bssPhr14/"></a><a data-anchor="/document/16/203167/dfashg60uv/" data-dfa="dfashg60uv"></a><b>Третий – </b>плательщиком налога на прибыль является постоянное учреждение нерезидента <span class="xx-small">(<span title="Постоянное учреждение нерезидента Республики Узбекистан уплачивает налог на прибыль юридических лиц, а также налог с чистой прибыли один раз в год без уплаты текущих платежей, в течение..." num="5" lnktype="intlnk" class="doc">ч. 7</span> ст. 164 НК)</span>.</p><p><a data-anchor="/document/16/203167/bssPhr15/"></a><a data-anchor="/document/16/203167/dfasme2mix/" data-dfa="dfasme2mix"></a>Если эти случаи не относятся к деятельности налогоплательщика, он обязан вносить текущие платежи.</p><p></p></div><a data-anchor="/document/16/203167/bssPhr3/"></a><a data-anchor="/document/16/203167/tit1/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203167/dfas90chfp/" data-dfa="dfas90chfp"></a><a data-anchor="/document/16/203167/dfas1xq0q5/" data-dfa="dfas1xq0q5"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Расчет размера текущих платежей</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203167/dfas3w12iq/" data-dfa="dfas3w12iq"></a><a data-anchor="/document/16/203167/bssPhr19/"></a>Законодательство не содержит правила о том, как рассчитать размер текущих платежей. Налогоплательщик должен самостоятельно спрогнозировать, какую налогооблагаемую прибыль он получит за отчетный квартал, и применить к ней ставку налога.</p><p><a data-anchor="/document/16/203167/bssPhr20/"></a><a data-anchor="/document/16/203167/dfass0ga6x/" data-dfa="dfass0ga6x"></a>На практике спрогнозировать прибыль можно по ее сумме в предыдущем квартале либо за аналогичный квартал прошлого года. Для расчета суммы налога используйте формулу:</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tr align="center"><td class="bdAll"><p align="center"><a data-anchor="/document/16/203167/bssPhr21/"></a><a data-anchor="/document/16/203167/dfasyrcsy6/" data-dfa="dfasyrcsy6"></a>Сумма<br>текущего платежа</p></td><td class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203167/bssPhr22/"></a><a data-anchor="/document/16/203167/dfasthqyps/" data-dfa="dfasthqyps"></a>=</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/203167/bssPhr23/"></a><a data-anchor="/document/16/203167/dfas8nete2/" data-dfa="dfas8nete2"></a>Сумма предполагаемой<br>прибыли за квартал</p></td><td class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203167/bssPhr24/"></a><a data-anchor="/document/16/203167/dfaswgmm02/" data-dfa="dfaswgmm02"></a>×</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/203167/bssPhr25/"></a><a data-anchor="/document/16/203167/dfasgmfpn6/" data-dfa="dfasgmfpn6"></a>Ставка налога<br>на прибыль</p></td><td class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203167/bssPhr26/"></a><a data-anchor="/document/16/203167/dfasg4mh4h/" data-dfa="dfasg4mh4h"></a>÷</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/203167/bssPhr27/"></a><a data-anchor="/document/16/203167/dfasgcs360/" data-dfa="dfasgcs360"></a>3<br>(число месяцев в квартале)</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203167/bssPhr28/"></a><a data-anchor="/document/16/203167/dfas761t2f/" data-dfa="dfas761t2f"></a>если разница между квартальной суммой текущих платежей и суммой налога на прибыль, которая рассчитана уже по реальным итогам отчетного квартала, окажется более 10 процентов, налоговый орган вправе пересчитать текущие платежи по фактической сумме налога с начислением пени <span class="xx-small">(<span title="В случае занижения суммы налога на прибыль юридических лиц, исчисленной исходя из предполагаемой налогооблагаемой прибыли, по сравнению с суммой налога на прибыль юридических лиц,.." num="8" lnktype="intlnk" class="doc">ч. 5</span> ст. 164 НК)</span>. Чтобы минимизировать риски, учтите при расчете текущих платежей возможное увеличение прибыли.</p><div class="incut-v4__icon"></div></div><p></p></div><a data-anchor="/document/16/203167/bssPhr4/"></a><a data-anchor="/document/16/203167/tit2/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203167/_GoBack/"></a><a data-anchor="/document/16/203167/dfas94ygl8/" data-dfa="dfas94ygl8"></a><a data-anchor="/document/16/203167/dfas970b6z/" data-dfa="dfas970b6z"></a><h2 class="main__title-section title toc" toc-anchor="tit2">Заполнение справки о текущих платежах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203167/dfasw40kg8/" data-dfa="dfasw40kg8"></a><a data-anchor="/document/16/203167/bssPhr32/"></a>Налогоплательщик обязан сдать справку о текущих платежах по налогу на прибыль до 10-го числа первого месяца соответствующего квартала <span class="xx-small">(<span title="Для определения суммы текущих платежей по налогу на прибыль юридических лиц налогоплательщики до 10 числа первого месяца текущего отчетного периода представляют в орган государственной..." num="11" lnktype="intlnk" class="doc">ч. 2</span> ст. 164 НК)</span>. То есть справка ежеквартальная. Соответственно размер текущих платежей определяется один раз в квартал.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203167/bssPhr33/"></a><a data-anchor="/document/16/203167/dfastgifu5/" data-dfa="dfastgifu5"></a>последний день для сдачи справки о текущих платежах – не 10-е, а 9-е число. Это следует из формулировки срока «до 10-го числа», которую содержит <span title="Для определения суммы текущих платежей по налогу на прибыль юридических лиц налогоплательщики до 10 числа первого месяца текущего отчетного периода представляют в орган государственной..." num="13" lnktype="intlnk" class="doc">часть вторая</span> статьи 164 НК.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/203167/bssPhr34/"></a><a data-anchor="/document/16/203167/dfasuusgxi/" data-dfa="dfasuusgxi"></a>См. образец заполнения справки <span num="15" lnktype="intlnk" class="doc">здесь</span>.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязано ли предприятие, которое перешло с упрощенного порядка налогообложения на общеустановленный, сдавать справку о текущих платежах по налогу на прибыль за первый квартал после перехода</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203167/bssPhr41/"></a><a data-anchor="/document/16/203167/dfascvykoc/" data-dfa="dfascvykoc"></a>Да, обязано.</p><p><a data-anchor="/document/16/203167/bssPhr42/"></a><a data-anchor="/document/16/203167/dfasph1hxm/" data-dfa="dfasph1hxm"></a>Согласно <span title="Плательщики, перешедшие с уплаты единого налогового платежа на уплату общеустановленных налогов, освобождаются от уплаты текущих платежей по налогу на прибыль за первый квартал, в..." num="17" lnktype="intlnk" class="doc">части третьей</span> статьи 354 НК такие плательщики налога на прибыль освобождены от уплаты текущих платежей за первый квартал, в котором они перешли на уплату общеустановленных налогов.</p><p><a data-anchor="/document/16/203167/bssPhr43/"></a><a data-anchor="/document/16/203167/dfaswyv78y/" data-dfa="dfaswyv78y"></a>Однако согласно <span title="Для определения суммы текущих платежей по налогу на прибыль юридических лиц налогоплательщики до 10 числа первого месяца текущего отчетного периода представляют в орган государственной..." num="19" lnktype="intlnk" class="doc">части второй</span> статьи 164 НК все равно действует обязанность сдать справку для исчисления текущих платежей по налогу на прибыль юридических лиц. И хотя в примечании к форме справки прямо не указано, что при освобождении от текущих платежей она заполняется с нулевыми показателями, налоговые органы в силу <span title="Для определения суммы текущих платежей по налогу на прибыль юридических лиц налогоплательщики до 10 числа первого месяца текущего отчетного периода представляют в орган государственной..." num="21" lnktype="intlnk" class="doc">части второй</span> статьи 164 НК рекомендуют сдать документ именно в таком виде.</p></div></div><p><a data-anchor="/document/16/203167/bssPhr35/"></a><a data-anchor="/document/16/203167/dfasogs3ko/" data-dfa="dfasogs3ko"></a>Текущие платежи перечисляйте в бюджет не позднее 10-го числа каждого месяца <span class="xx-small">(<span title="Текущие платежи по налогу на прибыль юридических лиц уплачиваются не позднее 10 числа каждого месяца в размере одной третьей квартальной суммы налога на прибыль юридических лиц, исчисленной..." num="24" lnktype="intlnk" class="doc">ч. 3 </span>ст. 164 НК). </span></p><p><a data-anchor="/document/16/203167/bssPhr36/"></a><a data-anchor="/document/16/203167/dfas3swago/" data-dfa="dfas3swago"></a>Конкретные реквизиты получателей средств и платежные поручения сформируйте в персональном кабинете налогоплательщика на сайте <a class="oir" target="_blank" href="https://my.soliq.uz/main/?lang=ru">my.soliq.uz</a>.</p><p></p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

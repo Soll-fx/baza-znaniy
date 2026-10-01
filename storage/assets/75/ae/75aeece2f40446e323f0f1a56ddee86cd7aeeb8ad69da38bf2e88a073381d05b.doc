@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кого суд может признать банкротом</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206016/dfas32xqm5/" data-dfa="dfas32xqm5"></a><a data-anchor="/document/16/206016/bssPhr2/"></a>В рекомендации – ответы на вопросы: что такое банкротство, какие у него цели, кто может подать в суд заявление о признании должника банкротом и по каким признакам суд признает должника банкротом, а также какие процедуры применяют при банкротстве. Узнайте сроки ликвидационного производства, а также кто относится к отдельным категориям должников и когда применяют упрощенные процедуры банкротства. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206016/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206016/bssPhr3/"></a><a data-anchor="/document/16/206016/dfasst4i6e/" data-dfa="dfasst4i6e"></a>Понятие и цели банкротства</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206016/bssPhr5/"></a><a data-anchor="/document/16/206016/dfas3eekov/" data-dfa="dfas3eekov"></a>Любое юридическое или физическое лицо, которое в процессе предпринимательской деятельности будет не в состоянии расплатиться с имеющимися долгами либо выполнить свои обязательства по договорам, окажется в состоянии банкротства. Однако, это состояние может признать только суд. Банкротство – это признанная экономическим судом неспособность должника в полном объеме удовлетворить требования кредиторов по денежным обязательствам или исполнить обязанности по обязательным платежам (<span num="9" lnktype="intlnk" title="" class="doc">ст. 3</span> Закона о банкротстве).</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr6/"></a><a data-anchor="/document/16/206016/dfasqrom9g/" data-dfa="dfasqrom9g"></a>Цели банкротства могут быть разными в зависимости от конкретной ситуации.</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr7/"></a><a data-anchor="/document/16/206016/dfashpaq8r/" data-dfa="dfashpaq8r"></a>Основные цели банкротства:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206016/bssPhr8/"></a><a data-anchor="/document/16/206016/dfas2g84pr/" data-dfa="dfas2g84pr"></a>ликвидация неэффективных и нестабильных предприятий;</li><li style="text-align:left">защита интересов кредиторов;</li><li style="text-align:left">реабилитация обанкротившегося лица.</li></ul></div><a data-anchor="/document/16/206016/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206016/bssPhr9/"></a><a data-anchor="/document/16/206016/dfasgnwzrm/" data-dfa="dfasgnwzrm"></a>Признаки банкротства</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206016/bssPhr11/"></a><a data-anchor="/document/16/206016/dfas0cvisy/" data-dfa="dfas0cvisy"></a>Не всегда суд признает юрлицо или ИП банкротами, даже если их финансовое состояние критическое и они не способны расплатиться с долгами. Чтобы экономический суд принял решение объявить лицо банкротом, необходимо, чтобы оно обладало соответствующим признаком. В законодательстве закреплено два признака, которые содержат условия, необходимые для признания должника банкротом (<span num="10" lnktype="intlnk" title="" class="doc">ст. 4</span> Закона о банкротстве).</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr12/"></a><a data-anchor="/document/16/206016/dfasnr025d/" data-dfa="dfasnr025d"></a>Должник будет признан банкротом, если:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206016/bssPhr13/"></a><a data-anchor="/document/16/206016/dfas33oxx9/" data-dfa="dfas33oxx9"></a>не сможет удовлетворить требования кредиторов по денежным обязательствам или исполнить обязанности по обязательным платежам в течение трех месяцев, а должником – градообразующим и приравненным к нему предприятием – в течение шести месяцев со дня их наступления;</li><li style="text-align:left">требования к должнику – юрлицу в совокупности составляют не менее 300-кратного размера БРВ, должнику – градообразующему и приравненному к нему предприятию – не менее 5000-кратного размера БРВ, а должнику – ИП или физлицу, утратившему статус ИП, – не менее 20-кратного размера БРВ.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206016/dfasx5rr3e/" data-dfa="dfasx5rr3e"></a><a data-anchor="/document/16/206016/bssPhr14/"></a>Даже при наличии одного из признаков банкротства с соответствующим условием, должник может быть признан банкротом.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206016/bssPhr15/"></a><a data-anchor="/document/16/206016/dfasdkme3o/" data-dfa="dfasdkme3o"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/206016/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206016/bssPhr16/"></a><a data-anchor="/document/16/206016/dfasw82du0/" data-dfa="dfasw82du0"></a>Лица, обладающие правом обратиться в суд о признании банкротом</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206016/bssPhr18/"></a><a data-anchor="/document/16/206016/dfasqib3cc/" data-dfa="dfasqib3cc"></a>Подать в экономический суд заявление о признании должника банкротом в связи с неисполнением денежных обязательств имеют право:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206016/bssPhr19/"></a><a data-anchor="/document/16/206016/dfasskmls0/" data-dfa="dfasskmls0"></a>должник;</li><li style="text-align:left">кредитор;</li><li style="text-align:left">прокурор.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr20/"></a><a data-anchor="/document/16/206016/dfasnvlxao/" data-dfa="dfasnvlxao"></a>Кроме того, таким правом обладают органы государственной налоговой службы, а также государственный орган по делам о банкротстве и его территориальные органы – в отношении юрлиц, в УФ которых есть доля государства или имеющих задолженность перед Республикой Узбекистан по денежным обязательствам. Это определено <span num="11" lnktype="intlnk" title="" class="doc">статьей 6</span> Закона «О банкротстве».</p></div><a data-anchor="/document/16/206016/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206016/bssPhr21/"></a><a data-anchor="/document/16/206016/dfasghi8sh/" data-dfa="dfasghi8sh"></a>Процедуры банкротства</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206016/bssPhr23/"></a><a data-anchor="/document/16/206016/dfasiyiesm/" data-dfa="dfasiyiesm"></a>Процедуры зависят от вида должника: юрлицо, ИП или физлицо, утратившее статус ИП (<span num="12" lnktype="intlnk" title="" class="doc">ст. 28</span> Закона о банкротстве).</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr24/"></a><a data-anchor="/document/16/206016/dfashexm54/" data-dfa="dfashexm54"></a>К юрлицу применяют:</p><ul class="c-list"><li><a data-anchor="/document/16/206016/bssPhr25/"></a><a data-anchor="/document/16/206016/dfas9hs41p/" data-dfa="dfas9hs41p"></a>наблюдение;</li><li>судебную санацию;</li><li>внешнее управление;</li><li><a href="https://1gb.uz/#/document/16/206016/dfaswm4ar2/">ликвидационное производство</a>.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr26/"></a><a data-anchor="/document/16/206016/dfasuamc54/" data-dfa="dfasuamc54"></a>В отношении должника ИП или физлица, утратившего статус ИП, применяют процедуру ликвидационного производства.</p></div><a data-anchor="/document/16/206016/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206016/bssPhr27/"></a><a data-anchor="/document/16/206016/dfaswm4ar2/" data-dfa="dfaswm4ar2"></a>Ликвидационное производство</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206016/bssPhr29/"></a><a data-anchor="/document/16/206016/dfasggire3/" data-dfa="dfasggire3"></a>Ликвидационное производство открывается с момента принятия экономическим судом решения о признании должника банкротом. Срок ликвидационного производства не может превышать девяти месяцев (<span num="22" lnktype="intlnk" title="" class="doc">ст. 128</span> Закона о банкротстве). Но этот срок может быть продлен не более чем на три месяца, в том случае, если об этом ходатайствует лицо, участвующее в деле, либо инициирует сам экономический суд. Закон предусматривает основания для продления срока ликвидационного производства.</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr30/"></a><a data-anchor="/document/16/206016/dfas1pqgrv/" data-dfa="dfas1pqgrv"></a>Экономический суд, исходя из специфики деятельности должника – юрлица, в решении о признании должника банкротом может указать о проведении ликвидационного производства без остановки его деятельности. Для этого нужно ходатайство собрания кредиторов или соответствующих органов государственного и хозяйственного управления, органов государственной власти на местах. Приостановление или отказ от исполнения договоров должника – юрлица, заключенных до возбуждения дела о банкротстве и необходимых для осуществления деятельности, не допускается (<span num="23" lnktype="intlnk" title="" class="doc">ст. 128</span> Закона о банкротстве).</p></div><a data-anchor="/document/16/206016/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/206016/bssPhr31/"></a><a data-anchor="/document/16/206016/dfas15lfue/" data-dfa="dfas15lfue"></a>Особенности банкротства отдельных категорий должников – юридических лиц</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206016/bssPhr33/"></a><a data-anchor="/document/16/206016/dfas0zhyar/" data-dfa="dfas0zhyar"></a>Закон «О банкротстве» относит к отдельным категориям должников – юридических лиц:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206016/bssPhr34/"></a><a data-anchor="/document/16/206016/dfas3r17mu/" data-dfa="dfas3r17mu"></a>градообразующие и приравненные к ним предприятия;</li><li style="text-align:left">сельскохозяйственные предприятия;</li><li style="text-align:left">банки;</li><li style="text-align:left">профессиональных участников рынка ценных бумаг.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr35/"></a><a data-anchor="/document/16/206016/dfasqgnvqc/" data-dfa="dfasqgnvqc"></a>Когда суд рассматривает дело о банкротстве градообразующего и приравненного к нему предприятия, то в качестве лица, участвующего в деле, признают соответствующий орган государственной власти на местах или министерство, государственный комитет, ведомство, орган хозяйственного управления (<span num="24" lnktype="intlnk" title="" class="doc">ст. 156</span> Закона о банкротстве).</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr36/"></a><a data-anchor="/document/16/206016/dfas591v1f/" data-dfa="dfas591v1f"></a>Кабинет Министров определяет порядок, в соответствии с которым относить предприятия к числу градообразующих и приравненных к ним предприятий.</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr37/"></a><a data-anchor="/document/16/206016/dfasc6hkcx/" data-dfa="dfasc6hkcx"></a>При рассмотрении дела о его банкротстве сельскохозяйственного предприятия в качестве лиц, участвующих в деле, могут быть органы государственной власти на местах.</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr38/"></a><a data-anchor="/document/16/206016/dfas43yfak/" data-dfa="dfas43yfak"></a>Экономический суд рассматривает заявление о признании банка банкротом только после отзыва ЦБ лицензии на право осуществления банковских операций.</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr39/"></a><a data-anchor="/document/16/206016/dfas60hfhi/" data-dfa="dfas60hfhi"></a>При рассмотрении дела о банкротстве страховщика участвовать в деле, кроме лиц, которые предусмотрены Законом, может специально уполномоченный государственный орган в области регулирования страховой деятельности.</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr40/"></a><a data-anchor="/document/16/206016/dfasvxorgw/" data-dfa="dfasvxorgw"></a>Если суд рассматривает дело о банкротстве профессионального участника рынка ценных бумаг, то участвовать в деле может также уполномоченный государственный орган по регулированию рынка ценных бумаг.</p></div><a data-anchor="/document/16/206016/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/206016/bssPhr41/"></a><a data-anchor="/document/16/206016/dfasgwys89/" data-dfa="dfasgwys89"></a>Банкротство ИП или физического лица, утратившего статус ИП</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206016/bssPhr43/"></a><a data-anchor="/document/16/206016/dfas6wy80d/" data-dfa="dfas6wy80d"></a>Подать заявление о признании должника – ИП или физлица, утратившего статус ИП, банкротом имеют право:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206016/bssPhr44/"></a><a data-anchor="/document/16/206016/dfas3rdc3d/" data-dfa="dfas3rdc3d"></a>сам должник;</li><li style="text-align:left">кредитор;</li><li style="text-align:left">прокурор;</li><li style="text-align:left">органы государственной налоговой службы и иные уполномоченные органы.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr45/"></a><a data-anchor="/document/16/206016/dfaslg6wps/" data-dfa="dfaslg6wps"></a>Кредиторы по требованиям о возмещении вреда, причиненного жизни или здоровью, о взыскании алиментов, а также по иным требованиям личного характера не имеют права подать заявление в суд, но вправе предъявить свои требования при процедуре признания должника – ИП или физлица, утратившего статус ИП, банкротом. Требования указанных кредиторов, не заявленные ими при применении процедур банкротства, сохраняют силу после завершения процедуры.</p></div><a data-anchor="/document/16/206016/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/206016/bssPhr46/"></a><a data-anchor="/document/16/206016/dfasiyapat/" data-dfa="dfasiyapat"></a>Упрощенные процедуры банкротства</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206016/bssPhr48/"></a><a data-anchor="/document/16/206016/dfaspqo9mt/" data-dfa="dfaspqo9mt"></a>Упрощенную процедуру банкротства применяют в отношении юрлица, которое ликвидируют по причине, что в установленные законодательством сроки юрлицо не сформировало свой УФ и не осуществляло финансово-хозяйственную деятельность. При условии, что стоимость имущества недостаточна для удовлетворения требований кредиторов.</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr49/"></a><a data-anchor="/document/16/206016/dfaskwf1ov/" data-dfa="dfaskwf1ov"></a>При упрощенной процедуре, в отличие от обычной, не применяют процедуры наблюдения, судебной санации и внешнего управления.</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr50/"></a><a data-anchor="/document/16/206016/dfasci3s0l/" data-dfa="dfasci3s0l"></a>Кредиторы вправе предъявить свои требования к ликвидируемому юрлицу в месячный срок с момента публикации объявления о признании ликвидируемого юрлица банкротом.</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr51/"></a><a data-anchor="/document/16/206016/dfasrf24gw/" data-dfa="dfasrf24gw"></a>Если должник – ИП, прекративший свою деятельность, физлицо, утратившее статус ИП либо руководитель ликвидируемого юрлица отсутствуют и установить их местонахождение невозможно, то независимо от размера кредиторской задолженности, заявление о признании отсутствующего должника банкротом могут подать:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206016/bssPhr52/"></a><a data-anchor="/document/16/206016/dfas1k5uuv/" data-dfa="dfas1k5uuv"></a>кредитор;</li><li style="text-align:left">прокурор;</li><li style="text-align:left">государственный орган по делам о банкротстве;</li><li style="text-align:left">орган государственной налоговой службы или иной уполномоченный орган.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr53/"></a><a data-anchor="/document/16/206016/dfasn7os34/" data-dfa="dfasn7os34"></a>Экономический суд в двухнедельный срок со дня принятия к производству заявления о признании должника банкротом принимает решение о признании отсутствующего должника банкротом и открытии ликвидационного производства (<span num="25" lnktype="intlnk" title="" class="doc">ст. 189</span> Закона о банкротстве).</p><p style="text-align:left"><a data-anchor="/document/16/206016/bssPhr54/"></a><a data-anchor="/document/16/206016/dfassybolo/" data-dfa="dfassybolo"></a>Так же как и при упрощенной процедуре банкротства, при банкротстве отсутствующего должника процедуры наблюдения, судебной санации и внешнего управления не применяют.</p></div><p><a data-anchor="/document/16/206016/dfas3c2b6c/" data-dfa="dfas3c2b6c"></a><a data-anchor="/document/16/206016/bssPhr55/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882136" sourceId="1" fullSizeImageId="-41882135" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882136/"></p><p><a data-anchor="/document/16/206016/dfasbpnzng/" data-dfa="dfasbpnzng"></a><a data-anchor="/document/16/206016/bssPhr56/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

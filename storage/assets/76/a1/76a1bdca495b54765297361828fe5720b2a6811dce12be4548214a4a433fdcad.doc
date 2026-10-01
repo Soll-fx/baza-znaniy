@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как платить госпошлину в судах</h2><div class="doc-snippet"><a data-anchor="/document/16/205010/dfas1kkc22/" data-dfa="dfas1kkc22"></a><a data-anchor="/document/16/205010/bssPhr2/"></a>Из рекомендации узнаете, как платить госпошлину в судах, где найти расчетные счета судов, с какой даты считать БРВ при подаче судебного иска и как получить отсрочку по уплате госпошлины. Найти ставки госпошлин поможет таблица, составленная экспертами. В рекомендации – инструкция, как получить справку из органа статистики. Также приведены случаи, когда можно вернуть сумму госпошлины, а когда – нет. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/205010/bssPhr3/"></a><a data-anchor="/document/16/205010/dfasd0ue6n/" data-dfa="dfasd0ue6n"></a>Госпошлину оплачивайте до совершения действий, за которые ее платите, в безналичной форме (<a data-anchor="/document/16/205010/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/21477/dfasrya2d2/" class="link npd" target="_self" title="Государственная пошлина уплачивается до совершения юридически значимых действий, за которые она взимается..." moduleId="90" documentId="21477" anchor="dfasrya2d2">ч. 1</a> ст. 17 Закона о госпошлине). В наличной форме платят:&nbsp;</p><p><a data-anchor="/document/16/205010/bssPhr4/"></a><a data-anchor="/document/16/205010/dfas2sc20u/" data-dfa="dfas2sc20u"></a>1. руководители и учредители – за предприятие;<br>2. индивидуальные предприниматели (<a data-anchor="/document/16/205010/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/4111/dfas1y7uru/" data-warm-notices="16394417" data-warm-notice-type="error" class="link npd" title="В соответствии со статьей 327 НК плательщиками государственной пошлины являются юридические и физические лица..." moduleId="90" documentId="4111" anchor="dfas1y7uru">п. 9</a> постановления Пленума Высшего хозяйственного суда № 180 от 18.04.2008).</p><p><a data-anchor="/document/16/205010/bssPhr5/"></a><a data-anchor="/document/16/205010/dfaspt24dv/" data-dfa="dfaspt24dv"></a>Подтверждением оплаты в безналичной форме будет отметка банка об исполнении, наличной – квитанция установленной формы (<a data-anchor="/document/16/205010/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/21477/dfas3obw2q/" class="link npd" target="_self" title="Факт уплаты государственной пошлины плательщиком в безналичной форме подтверждается платежным документом..." moduleId="90" documentId="21477" anchor="dfas3obw2q">ч. 2, 3</a> ст. 17 Закона о госпошлине).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205010/dfasyx9lsg/" data-dfa="dfasyx9lsg"></a><a data-anchor="/document/16/205010/bssPhr6/"></a>Если заплатите госпошлину за другого истца или за другое лицо, то она считается не уплаченной. Исключение составляют случаи, когда руководитель или учредитель платит за свое предприятие.&nbsp;</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205010/bssPhr7/"></a><a data-anchor="/document/16/205010/dfaskr568y/" data-dfa="dfaskr568y"></a>Учтите что, исковое заявление, апелляционную или кассационную жалобу суд вернет, если вы не представите документы, подтверждающие уплату госпошлины и почтовых расходов. Также исковое заявление вернут, когда законом предусмотрена возможность отсрочки уплаты госпошлины, но отсутствует ходатайство об этом либо ходатайство отклонено (п. 9 постановления Пленума).&nbsp;</p></div><div class="incut-v4__icon"></div></div><a data-anchor="/document/16/205010/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205010/bssPhr8/"></a><a data-anchor="/document/16/205010/dfaspre92o/" data-dfa="dfaspre92o"></a>Расчетные счета судов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205010/bssPhr10/"></a><a data-anchor="/document/16/205010/dfasahtsmv/" data-dfa="dfasahtsmv"></a>Расчетные счета и другие реквизиты для оплаты госпошлины по всем категориям дел можете найти на официальном <a href="https://oliysud.uz/ru/category/podaca-obrasenij/trebovania-predavlaemye-k-forme-i-soderzaniu-dokumentov-ispolzuemyh-pri-obrasenii-sudov/rekvizity-dla-oplaty-sudebnyh-rashodov" title="">веб-сайте</a> Верховного суда.</p></div><a data-anchor="/document/16/205010/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205010/bssPhr11/"></a><a data-anchor="/document/16/205010/dfas7ss0l2/" data-dfa="dfas7ss0l2"></a>Ставки госпошлин</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205010/bssPhr13/"></a><a data-anchor="/document/16/205010/dfas5nycha/" data-dfa="dfas5nycha"></a>Ставки госпошлин определены в <span num="10" target="_self" lnktype="intlnk" title="" class="doc">приложении</span> к Закону о госпошлине.</p><p><a data-anchor="/document/16/205010/bssPhr14/"></a><a data-anchor="/document/16/205010/dfasiy0tf8/" data-dfa="dfasiy0tf8"></a>Ставки госпошлин, взыскиваемые в экономических судах:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="width:19px"><a data-anchor="/document/16/205010/bssPhr15/"></a><a data-anchor="/document/16/205010/dfasxu8vxd/" data-dfa="dfasxu8vxd"></a>&nbsp;</td><td style="text-align:center; width:315px"><p style="text-align:center"><a data-anchor="/document/16/205010/bssPhr16/"></a><a data-anchor="/document/16/205010/dfas58x4ph/" data-dfa="dfas58x4ph"></a><strong>Виды обращений</strong></p></td><td style="text-align:center"><p style="text-align:center"><a data-anchor="/document/16/205010/bssPhr17/"></a><a data-anchor="/document/16/205010/dfasvyi0qn/" data-dfa="dfasvyi0qn"></a><strong>Ставки госпошлин</strong></p></td></tr><tr><td style="width:19px"><p><a data-anchor="/document/16/205010/bssPhr18/"></a><a data-anchor="/document/16/205010/dfaseidhnc/" data-dfa="dfaseidhnc"></a><a data-anchor="/document/16/205010/p1/"></a>1.</p></td><td style="width:315px"><p><a data-anchor="/document/16/205010/bssPhr19/"></a><a data-anchor="/document/16/205010/dfas83fi49/" data-dfa="dfas83fi49"></a>Исковые заявления имущественного характера</p></td><td><p><a data-anchor="/document/16/205010/bssPhr20/"></a><a data-anchor="/document/16/205010/dfasr6zdnz/" data-dfa="dfasr6zdnz"></a>2 % от цены иска, но не менее 1 БРВ.</p><p><a data-anchor="/document/16/205010/bssPhr21/"></a><a data-anchor="/document/16/205010/dfaswgbf59/" data-dfa="dfaswgbf59"></a>Субъекты малого предпринимательства – половину от этой суммы</p></td></tr><tr><td style="width:19px"><p><a data-anchor="/document/16/205010/bssPhr22/"></a><a data-anchor="/document/16/205010/dfas37w04o/" data-dfa="dfas37w04o"></a>2.</p></td><td style="width:315px"><p><a data-anchor="/document/16/205010/bssPhr23/"></a><a data-anchor="/document/16/205010/dfasa53oo8/" data-dfa="dfasa53oo8"></a>Исковые заявления неимущественного характера</p></td><td><p><a data-anchor="/document/16/205010/bssPhr24/"></a><a data-anchor="/document/16/205010/dfaslgqg31/" data-dfa="dfaslgqg31"></a>10 БРВ</p></td></tr><tr><td style="width:19px"><p><a data-anchor="/document/16/205010/bssPhr25/"></a><a data-anchor="/document/16/205010/dfas5swsgf/" data-dfa="dfas5swsgf"></a>3.</p></td><td style="width:315px"><p><a data-anchor="/document/16/205010/bssPhr26/"></a><a data-anchor="/document/16/205010/dfasuhycln/" data-dfa="dfasuhycln"></a>Заявления о возбуждении дел о банкротстве</p></td><td><p><a data-anchor="/document/16/205010/bssPhr27/"></a><a data-anchor="/document/16/205010/dfas75wf43/" data-dfa="dfas75wf43"></a>3 БРВ</p></td></tr><tr><td style="width:19px"><p><a data-anchor="/document/16/205010/bssPhr28/"></a><a data-anchor="/document/16/205010/dfassorygg/" data-dfa="dfassorygg"></a><a data-anchor="/document/16/205010/p4/"></a>4.</p></td><td style="width:315px"><p><a data-anchor="/document/16/205010/bssPhr29/"></a><a data-anchor="/document/16/205010/dfas9gesk3/" data-dfa="dfas9gesk3"></a>Исковые заявления по спорам, возникающим при заключении, изменении или расторжении хозяйственных договоров</p></td><td><p><a data-anchor="/document/16/205010/bssPhr30/"></a><a data-anchor="/document/16/205010/dfas0nllne/" data-dfa="dfas0nllne"></a>10 БРВ</p><p><a data-anchor="/document/16/205010/bssPhr31/"></a><a data-anchor="/document/16/205010/dfaskrl4n1/" data-dfa="dfaskrl4n1"></a>Субъекты малого предпринимательства – половину от этой суммы</p></td></tr><tr><td style="width:19px"><p><a data-anchor="/document/16/205010/bssPhr32/"></a><a data-anchor="/document/16/205010/dfasmf0m3n/" data-dfa="dfasmf0m3n"></a>5.</p></td><td style="width:315px"><p><a data-anchor="/document/16/205010/bssPhr33/"></a><a data-anchor="/document/16/205010/dfasz5w45g/" data-dfa="dfasz5w45g"></a>Апелляционные, кассационные и надзорные жалобы</p></td><td><p><a data-anchor="/document/16/205010/bssPhr34/"></a><a data-anchor="/document/16/205010/dfascd1v0n/" data-dfa="dfascd1v0n"></a>50% ставки, подлежащей уплате при подаче заявлений для рассмотрения спора в суде первой инстанции, а по спорам имущественного характера – исходя из оспариваемой суммы</p></td></tr><tr><td style="width:19px"><p><a data-anchor="/document/16/205010/bssPhr35/"></a><a data-anchor="/document/16/205010/dfaso16qm6/" data-dfa="dfaso16qm6"></a><a data-anchor="/document/16/205010/p6/"></a>6.</p></td><td style="width:315px"><p><a data-anchor="/document/16/205010/bssPhr36/"></a><a data-anchor="/document/16/205010/dfas8u1rxy/" data-dfa="dfas8u1rxy"></a>Заявления о выдаче дубликатов судебных актов и копий других документов из дела, выдаваемых экономическим судом по просьбе сторон и других лиц, участвующих в деле</p></td><td><p><a data-anchor="/document/16/205010/bssPhr37/"></a><a data-anchor="/document/16/205010/dfasg0gc12/" data-dfa="dfasg0gc12"></a>2% БРВ за каждую страницу документа;</p><p><a data-anchor="/document/16/205010/bssPhr38/"></a><a data-anchor="/document/16/205010/dfasyt0vdx/" data-dfa="dfasyt0vdx"></a>Субъекты малого предпринимательства – половину от этой суммы</p></td></tr><tr><td style="width:19px"><p><a data-anchor="/document/16/205010/bssPhr39/"></a><a data-anchor="/document/16/205010/dfas37kset/" data-dfa="dfas37kset"></a>7.</p></td><td style="width:315px"><p><a data-anchor="/document/16/205010/bssPhr40/"></a><a data-anchor="/document/16/205010/dfasv1aqyh/" data-dfa="dfasv1aqyh"></a>Заявления о выдаче исполнительного листа на принудительное исполнение решений третейского суда, а также с заявлений об отмене решений третейского суда</p></td><td><p><a data-anchor="/document/16/205010/bssPhr41/"></a><a data-anchor="/document/16/205010/dfasv9deet/" data-dfa="dfasv9deet"></a>2 БРВ</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/205010/bssPhr42/"></a><a data-anchor="/document/16/205010/dfasq0g7oh/" data-dfa="dfasq0g7oh"></a>Если вы субъект малого предпринимательства, то при обращении в экономические суды в рамках вашей деятельности платите госпошлину согласно пунктам <a href="https://1gb.uz/#/document/16/205010/p1/">1</a>;<a href="https://1gb.uz/#/document/16/205010/p4/">4</a>;<a href="https://1gb.uz/#/document/16/205010/p6/">6</a> таблицы в размере 50 процентов от установленной ставки. Для этого приложите к исковому заявлению справку о принадлежности к субъектам малого бизнеса. Справку получите в органе статистики не ранее 30 дней до обращения в суд (<span num="12" lnktype="intlnk" title="При обращении в суд в рамках осуществляемой предпринимательской деятельности субъекты малого бизнеса и частного предпринимательства уплачивают государственную пошлину, указанную в..." class="doc">абз. 2 п. 26</span> постановления Пленума).</p><p><a data-anchor="/document/16/205010/bssPhr43/"></a><a data-anchor="/document/16/205010/dfasait4y0/" data-dfa="dfasait4y0"></a>Если вы воспользовались льготой и суд удовлетворил все ваши требования по иску, то ответчик оплачивает госпошлину в той же сумме, которую оплатили вы, то есть в размере 50 процентов от установленной ставки.</p><p><a data-anchor="/document/16/205010/bssPhr44/"></a><a data-anchor="/document/16/205010/dfasg778m0/" data-dfa="dfasg778m0"></a>Если суд не удовлетворил ваш иск, госпошлину дополнительно не платите (<span num="14" lnktype="intlnk" title="Если при обращении в экономический суд субъектом малого бизнеса и частного предпринимательства государственная пошлина оплачена в размере 50 процентов установленной ставки и исковые..." class="doc">абз. 3 п. 26</span> постановления Пленума).</p><p><a data-anchor="/document/16/205010/bssPhr45/"></a><a data-anchor="/document/16/205010/dfasua26sg/" data-dfa="dfasua26sg"></a>По апелляционным и кассационным жалобам по этим делам оплачивайте госпошлину в размере 50 процентов от пошлины, оплаченной либо взысканной в суд первой инстанции (<span num="16" lnktype="intlnk" title="Если при обращении в экономический суд субъекту малого бизнеса и частного предпринимательства была предоставлена отсрочка или рассрочка в уплате государственной пошлины, по результатам..." class="doc">абз. 4 п. 26</span> постановления Пленума).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205010/dfas77l9gg/" data-dfa="dfas77l9gg"></a><a data-anchor="/document/16/205010/bssPhr46/"></a>полная информация по определению субъектов малого предпринимательства доступна в статье 5 Закона «О гарантиях свободы предпринимательской деятельности».</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205010/bssPhr47/"></a><a data-anchor="/document/16/205010/dfasz1fu1i/" data-dfa="dfasz1fu1i"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/205010/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205010/bssPhr48/"></a><a data-anchor="/document/16/205010/dfasf3g86r/" data-dfa="dfasf3g86r"></a>Справка из органа статистики</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205010/bssPhr50/"></a><a data-anchor="/document/16/205010/dfasb5sx9v/" data-dfa="dfasb5sx9v"></a>Чтобы быстро получить справку из органа статистики, зайдите на сайт <a href="https://my.soliq.uz/main/" title="">my.soliq.uz</a>. В появившемся окне кликните на «Информационные услуги», как показано на рисунке ниже:</p><img alt="" hideborder="false" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/205010/bssPhr51/"></a><a data-anchor="/document/16/205010/dfasrckzs4/" data-dfa="dfasrckzs4"></a>В появившемся окне среди доступных информационных услуг нажмите на кнопку «Справка о принадлежности к субъектам малого бизнеса»:</p><img alt="" hideborder="false" class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/205010/bssPhr52/"></a><a data-anchor="/document/16/205010/dfas4m7vnv/" data-dfa="dfas4m7vnv"></a>Далее введите свой ИНН субъекта предпринимательства и введите защитный код с картинки, в поле, расположенное справа от нее. Далее нажмите на кнопку «Поиск». Для получения инструкции по пользованию этой услугой нажмите на кнопку «Инструкция». Начнется скачивание инструкции:</p><img alt="" hideborder="false" class="inimg" num="3" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/205010/bssPhr53/"></a><a data-anchor="/document/16/205010/dfast0synz/" data-dfa="dfast0synz"></a>Далее, если вы действительно являетесь субъектом малого предпринимательства, появится таблица.</p><p><a data-anchor="/document/16/205010/bssPhr54/"></a><a data-anchor="/document/16/205010/dfasubqdpw/" data-dfa="dfasubqdpw"></a>Если не являетесь субъектом малого бизнеса, то появится надпись об этом без таблицы.</p><p><a data-anchor="/document/16/205010/bssPhr55/"></a><a data-anchor="/document/16/205010/dfasi51qv0/" data-dfa="dfasi51qv0"></a>Для того чтобы сформировать справку, нажмите на кнопку «Шакллантириш».</p><img alt="" hideborder="false" class="inimg" num="4" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/205010/bssPhr56/"></a><a data-anchor="/document/16/205010/dfasqmws72/" data-dfa="dfasqmws72"></a>Далее будет сформирована справка. Все необходимые сведения будут автоматически записаны, вам не нужно заполнять поля. Чтобы распечатать справку, нажмите на кнопку «Распечатать»:</p><img alt="" hideborder="false" class="inimg" num="5" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/205010/bssPhr57/"></a><a data-anchor="/document/16/205010/dfasl0bv35/" data-dfa="dfasl0bv35"></a>В верхней части справки будет отмечена дата ее генерирования. Это нужно для того, чтобы определить ее действительность.</p></div><a data-anchor="/document/16/205010/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205010/bssPhr58/"></a><a data-anchor="/document/16/205010/dfasar6cbk/" data-dfa="dfasar6cbk"></a>Вопросы по БРВ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205010/bssPhr60/"></a><a data-anchor="/document/16/205010/dfassvr38u/" data-dfa="dfassvr38u"></a>Некоторые <span num="28" target="_self" lnktype="intlnk" title="" class="doc">cтавки госпошлин</span> привязаны к БРВ. БРВ может меняться, поэтому возникает вопрос: с какой даты считать БРВ? С даты подачи иска или на день ее уплаты, или еще на какой-нибудь другой день? Ответ зависит от категории дела:</p><ul class="c-list"><li><a data-anchor="/document/16/205010/bssPhr61/"></a><a data-anchor="/document/16/205010/dfas4i4xkl/" data-dfa="dfas4i4xkl"></a>при подаче искового заявления неимущественного характера, заявления о возбуждении дела о банкротстве, по спору, возникающему при заключении, изменении или расторжении договора, госпошлину оплачивают исходя из размера БРВ, действующей на день его подачи (<span num="30" lnktype="intlnk" title="При подаче искового заявления (заявления) неимущественного характера, заявления о возбуждении дела о банкротстве, по спору, возникающему при заключении, изменении или расторжении..." class="doc">абз. 1 п. 11 постановления</span> Пленума);</li><li>при обращении по этим же категориям дел с апелляционными или кассационными жалобами госпошлину оплачивают исходя из БРВ, действовавшей на день подачи искового заявления;</li><li>за выдачу экономическим судом дубликатов судебных актов и копий других документов из дела, госпошлину оплачивают исходя из БРВ на день ее уплаты (<span num="32" lnktype="intlnk" title="За выдачу экономическим судом дубликатов судебных актов и копий других документов из дела, государственная пошлина оплачивается исходя из минимального размера заработной платы на день ее уплаты." class="doc">абз. 3 п. 11 постановления</span> Пленума).</li></ul><p><a data-anchor="/document/16/205010/bssPhr62/"></a><a data-anchor="/document/16/205010/dfasgwfqwy/" data-dfa="dfasgwfqwy"></a>Полную информацию о БРВ и МРЗП, включая хронологию изменения с 1994 года по настоящее время, найдете на ЕПИГУ. Для этого войдите в него, используя логин и пароль либо ЭЦП, если Вы уже зарегистрированы, либо <span data-warm-notices="16394314" data-warm-notice-type="error" num="34" lnktype="intlnk" title="Как зарегистрироваться на Едином портале интерактивных государственных услуг – my.gov.uz (ЕПИГУ)" class="doc">зарегистрируйтесь</span>. После входа в Портал кликните на <a href="https://my.gov.uz/ru/mrzp/passport" title="">ссылку</a>. В нижней части окна будет представлена вся информация про БРВ в убывающем хронологическом порядке:</p><img alt="" hideborder="false" class="inimg" num="6" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/205010/bssPhr63/"></a><a data-anchor="/document/16/205010/dfasgeapvn/" data-dfa="dfasgeapvn"></a>&nbsp;</p></div><a data-anchor="/document/16/205010/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/205010/bssPhr64/"></a><a data-anchor="/document/16/205010/dfasfwhriu/" data-dfa="dfasfwhriu"></a>Отсрочка или рассрочка по уплате госпошлины</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205010/bssPhr66/"></a><a data-anchor="/document/16/205010/dfas5e6w42/" data-dfa="dfas5e6w42"></a>Чтобы получить отсрочку или рассрочку по уплате госпошлины, обратитесь в суд с ходатайством. Ходатайство можете изложить в исковом заявлении, апелляционной или кассационной жалобе либо в отдельном заявлении (<span num="38" lnktype="intlnk" title="Отсрочка или рассрочка уплаты государственной пошлины производятся по письменному ходатайству заинтересованной стороны. Ходатайство может быть изложено в исковом заявлении (заявлении),.." class="doc">абз. 1 п. 7.1</span> постановления Пленума).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205010/dfass880eg/" data-dfa="dfass880eg"></a><a data-anchor="/document/16/205010/bssPhr67/"></a>ходатайство об отсрочке или рассрочке уплаты госпошлины до обращения с исковым заявлением, апелляционной и кассационной жалобой экономический суд не принимает (абз. 2 п. 7.1 постановления Пленума).</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205010/bssPhr68/"></a><a data-anchor="/document/16/205010/dfastx7yoo/" data-dfa="dfastx7yoo"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/205010/bssPhr69/"></a><a data-anchor="/document/16/205010/dfaskl6xqo/" data-dfa="dfaskl6xqo"></a>В ходатайстве приведите основания отсрочки или рассрочки уплаты госпошлины и приложите документы, подтверждающие, что имущественное положение не позволяет вам уплатить госпошлину (<span num="42" lnktype="intlnk" title="В ходатайстве должны быть приведены основания отсрочки или рассрочки уплаты государственной пошлины с приложением документов, подтверждающих то, что имущественное положение заинтересованной..." class="doc">абз.3 п. 7.1</span> постановления Пленума).</p><p><a data-anchor="/document/16/205010/bssPhr70/"></a><a data-anchor="/document/16/205010/dfas3k7qqw/" data-dfa="dfas3k7qqw"></a>Отсрочку по уплате госпошлины могут предоставить, только если у вас не хватает денежных средств для ее уплаты (<span num="44" lnktype="intlnk" title="7.2. Ходатайство об отсрочке или рассрочке уплаты государственной пошлины может быть удовлетворено только в тех случаях, когда имеются объективные основания и представленные документы..." class="doc">п. 7.2 постановления</span> Пленума). Факт отсутствия денежных средств подтвердите справкой или иным документом. Справку получите у обслуживающего банка не ранее 3 дней до обращения в суд. После этого суд своим определением удовлетворит либо откажет в удовлетворении ходатайства (<span num="46" target="_self" lnktype="intlnk" title="Юридическим и физическим лицам, занимающимся предпринимательской деятельностью, по определению суда может быть предоставлена..." class="doc">ч. 27</span> ст. 19 Закона о госпошлине, <span num="48" lnktype="intlnk" title="7.3. Об удовлетворении ходатайства указывается в определении о принятии искового заявления (заявления), апелляционной, кассационной или надзорной жалобы, об отказе в удовлетворении..." class="doc">п. 7.3 постановления</span> Пленума).</p><p><a data-anchor="/document/16/205010/bssPhr71/"></a><a data-anchor="/document/16/205010/dfas463c3b/" data-dfa="dfas463c3b"></a>Определение суда об отказе в удовлетворении ходатайства можете обжаловать на общих основаниях без уплаты госпошлины (<span num="50" lnktype="intlnk" title="Об удовлетворении ходатайства указывается в определении о принятии искового заявления (заявления), апелляционной, кассационной или надзорной жалобы, об отказе в удовлетворении ходатайства..." class="doc">п. 7.3 постановления</span> Пленума).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205010/dfaswodhu3/" data-dfa="dfaswodhu3"></a><a data-anchor="/document/16/205010/bssPhr72/"></a>Отсрочку по уплате госпошлины с последующим ее взысканием с виновной стороны могут получить акционеры при обращении в экономический суд с иском о нарушении их прав и законных интересов по спорам, вытекающим из деятельности АО (ч. 28 ст. 19 Закона о госпошлине).&nbsp;</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205010/bssPhr73/"></a><a data-anchor="/document/16/205010/dfasl6ggf9/" data-dfa="dfasl6ggf9"></a>При этом не нужно прилагать к ходатайству документы, подтверждающие, что имущественное положение акционера не позволяет ему уплатить госпошлину в установленном порядке (п. 7.5 постановления Пленума).</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/205010/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/205010/bssPhr74/"></a><a data-anchor="/document/16/205010/dfasgglyo9/" data-dfa="dfasgglyo9"></a>Возврат госпошлины</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205010/bssPhr76/"></a><a data-anchor="/document/16/205010/dfasyir2yo/" data-dfa="dfasyir2yo"></a>Вернуть сумму госпошлины можно либо по письменному заявлению плательщика, либо на основании судебного решения.</p><p><a data-anchor="/document/16/205010/bssPhr77/"></a><a data-anchor="/document/16/205010/dfas6esen0/" data-dfa="dfas6esen0"></a>Чтобы вернуть сумму госпошлины, обратитесь в соответствующий госорган или организацию, взыскавшую госпошлину. Если руководитель госоргана или организации, взыскавшей госпошлину, подтвердит правомерность возврата, то вам возвратят соответствующие части суммы госпошлины. В свою очередь, госорган или организация в письменной форме направят в соответствующий орган ГНИ оповещение о возврате части суммы от госпошлины, подлежащей возврату, ранее зачисленной в доходы бюджета (<span num="57" target="_self" lnktype="intlnk" title="Возврат сумм государственной пошлины производится по письменному заявлению плательщика или на основании судебных..." class="doc">ч. 2, 3</span> ст. 18 Закона о госпошлине).</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205010/bssPhr79/"></a><a data-anchor="/document/16/205010/dfaskk2yit/" data-dfa="dfaskk2yit"></a>Госпошлину вернут, если:</p><p><a data-anchor="/document/16/205010/bssPhr80/"></a><a data-anchor="/document/16/205010/dfasmcf2f2/" data-dfa="dfasmcf2f2"></a><a data-anchor="/document/16/205010/dfas66v9ig/" data-dfa="dfas66v9ig"></a>1) вы внесли госпошлину в большем размере, чем требуется по законодательству (<span num="60" target="_self" lnktype="intlnk" title="внесения государственной пошлины в большем размере, чем требуется по законодательству" class="doc">п. 1</span> ст. 18 Закона о госпошлине);<br>2) суд возвратил или отказал в принятии искового заявления, жалобы (<span num="62" target="_self" lnktype="intlnk" title="возвращения или отказа в принятии судом искового заявления (заявления, жалобы), а также отказа государственных..." class="doc">п. 2</span> ст. 18 Закона о госпошлине);<br>3) суд возвратил или отказал в принятии апелляционной, кассационной и надзорной жалобы (<span num="64" target="_self" lnktype="intlnk" title="возвращения или отказа в принятии апелляционной, кассационной и надзорной жалобы" class="doc">п. 3</span> ст. 18 Закона о госпошлине);<br>4) исковое заявление или апелляционная, кассационная и надзорная жалобы, по которым оплачена госпошлина, в суд не поступила (<span num="66" target="_self" lnktype="intlnk" title="непоступления в суд искового заявления (заявления, жалобы) или апелляционной, кассационной и надзорной жалобы..." class="doc">п. 4</span> ст.18 Закона о госпошлине);<br>5) производство по делу прекращено по причине его не подведомственности суду (<span num="68" target="_self" lnktype="intlnk" title="прекращения производства по делу, если оно не подведомственно суду" class="doc">п. 5</span> ст. 18 Закона о госпошлине);<br>6) заявление оставлено без рассмотрения по причине того, что оно подано недееспособным лицом (<span num="70" target="_self" lnktype="intlnk" title="оставления заявления без рассмотрения, если оно подано недееспособным лицом" class="doc">п. 6</span> ст. 18 Закона о госпошлине);<br>7) лицо, участвовавшее в деле, скончалось и спорное правоотношение не допускает правопреемства (<span num="72" target="_self" lnktype="intlnk" title="смерти лица, участвовавшего в деле, если спорное правоотношение не допускает правопреемства" class="doc">п. 10</span> ст. 18 Закона о госпошлине);<br>8) вы не соблюдали досудебного, претензионного порядка урегулирования спора, когда это предусмотрено законом для данной категории споров или договором сторон и возможность такого урегулирования утрачена (<span num="74" target="_self" lnktype="intlnk" title="несоблюдения истцом досудебного (претензионного) порядка урегулирования спора, когда это предусмотрено законом..." class="doc">п. 11</span> ст.18 Закона о госпошлине);<br>9) юрлицо, участвующее в деле, ликвидировано (<span num="76" target="_self" lnktype="intlnk" title="если юридическое лицо, участвующее в деле, ликвидировано" class="doc">п. 13</span> ст. 18 Закона о госпошлине);<br>10) отказано в принятии заявления о вынесении судебного приказа (<span num="78" target="_self" lnktype="intlnk" title="отказа в принятии заявления о вынесении судебного приказа" class="doc">п.14</span> ст. 18 Закона о госпошлине).</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205010/bssPhr82/"></a><a data-anchor="/document/16/205010/dfasgq1hq2/" data-dfa="dfasgq1hq2"></a>Если вы уменьшите исковые требования, внесенную госпошлину не будут пересчитывать, и не вернут (<span num="81" target="_self" lnktype="intlnk" title="При уменьшении истцом исковых требований внесенная государственная пошлина не пересчитывается" class="doc">ч. 8</span>. ст. 19 Закона о госпошлине).</p><p><a data-anchor="/document/16/205010/bssPhr83/"></a><a data-anchor="/document/16/205010/dfas3zd6fy/" data-dfa="dfas3zd6fy"></a>Если вы обратились в суд с апелляционной, кассационной и надзорной жалобой, а потом отказались от своей жалобы и суд принял этот отказ, то уплаченную госпошлину не вернут, а неуплаченную взыщут (<span num="83" lnktype="intlnk" title="16. Уплаченная государственная пошлина возвращается при возвращении и отказе в принятии апелляционной, кассационной или надзорной жалобы. В случае отказа от апелляционной, кассационной..." class="doc">п. 16 постановления</span> Пленума)</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="7" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div><p><a data-anchor="/document/16/205010/dfas4mn3b4/" data-dfa="dfas4mn3b4"></a><a data-anchor="/document/16/205010/bssPhr84/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

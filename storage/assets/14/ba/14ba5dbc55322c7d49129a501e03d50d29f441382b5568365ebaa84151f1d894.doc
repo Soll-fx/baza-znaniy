@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как правильно оформить хозяйственный договор. Раздел «Порядок поставки (передачи) товара / выполнения работ / оказания услуг»</h2><div class="doc-snippet"><a data-anchor="/document/16/203236/dfaszi99gw/" data-dfa="dfaszi99gw"></a><a data-anchor="/document/16/203236/bssPhr2/"></a>Условия и требования по исполнению договоров определяются законодательно. Если их нет, то договор исполняют по обычаям <span num="73" target="_self" lnktype="intlnk" title="" class="doc">делового оборота</span>. В рекомендации читайте, как правильно <span num="74" target="_self" lnktype="intlnk" title="" class="doc">оформить</span>&nbsp;хозяйственный договор, в частности, как определить условия&nbsp;<span num="75" target="_self" lnktype="intlnk" title="" class="doc">поставки товара</span>,&nbsp;<span num="76" target="_self" lnktype="intlnk" title="" class="doc">выполнения работ</span>,&nbsp;<span num="77" target="_self" lnktype="intlnk" title="" class="doc">оказания услуг</span>, и&nbsp;<span num="78" target="_self" lnktype="intlnk" title="" class="doc">исполнения иных договоренностей</span>. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/203236/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/203236/bssPhr6/"></a><a data-anchor="/document/16/203236/dfaswwhv4f/" data-dfa="dfaswwhv4f"></a>Что включать в раздел о порядке поставки или передачи товара (выполнения работ, оказания услуг)</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203236/bssPhr8/"></a><a data-anchor="/document/16/203236/dfasg9eaxk/" data-dfa="dfasg9eaxk"></a>Условия и требования по исполнению договоров определены законодательно . Если таких условий и требований нет, договор следует исполнять в соответствии с обычаями делового оборота (<span num="1" target="_self" lnktype="intlnk" title="Статья 14. Исполнение хозяйственного договора" class="doc">ст. 14 Закона</span> от 29.08.1998 № 670-I «О договорно-правовой базе деятельности хозяйствующих субъектов»).</p><p><a data-anchor="/document/16/203236/bssPhr9/"></a><a data-anchor="/document/16/203236/dfasgobqko/" data-dfa="dfasgobqko"></a>Раздел «Порядок поставки (передачи) товара / выполнения работ / оказания услуг» (далее – порядок поставки) регулирует непосредственное исполнение стороной договора своего обязательства. Договор определяет обязанность стороны договора:</p><ul class="c-list"><li><a data-anchor="/document/16/203236/bssPhr10/"></a><a data-anchor="/document/16/203236/dfasgbtin3/" data-dfa="dfasgbtin3"></a>поставить (передать) товар;</li><li>выполнить работы;</li><li>оказать услуги.</li></ul><p><a data-anchor="/document/16/203236/bssPhr11/"></a><a data-anchor="/document/16/203236/dfasgkgepp/" data-dfa="dfasgkgepp"></a>Таким образом, порядок поставки – это детализация исполнения обязательств одной стороны, указанных в предмете договора.</p></div><a data-anchor="/document/16/203236/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/203236/bssPhr12/"></a><a data-anchor="/document/16/203236/dfas8xu9io/" data-dfa="dfas8xu9io"></a><a data-anchor="/document/16/203236/dfas5p16vv/" data-dfa="dfas5p16vv"></a>Как определить условия поставки товаров</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203236/bssPhr14/"></a><a data-anchor="/document/16/203236/dfaskz9qig/" data-dfa="dfaskz9qig"></a>При определении условий поставки следует учитывать:</p><ul class="c-list"><li><a data-anchor="/document/16/203236/bssPhr15/"></a><a data-anchor="/document/16/203236/dfasvciuy2/" data-dfa="dfasvciuy2"></a>срок поставки – дата или период времени, в течение которого следует осуществить поставку;</li><li>место поставки – конкретный адрес, куда будет осуществлена поставка;</li><li>способ (условие) поставки – каким образом будет осуществлена поставка.</li></ul></div><a data-anchor="/document/16/203236/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/203236/bssPhr27/"></a><a data-anchor="/document/16/203236/dfaslo98t3/" data-dfa="dfaslo98t3"></a><a data-anchor="/document/16/203236/dfasp9f4u7/" data-dfa="dfasp9f4u7"></a>Как определить порядок поставки товара</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203236/bssPhr29/"></a><a data-anchor="/document/16/203236/dfasi4utnm/" data-dfa="dfasi4utnm"></a>Порядок поставки определяют в договорах купли-продажи (<span num="5" lnktype="intlnk" title="Статья 386. Договор купли-продажи" class="doc">ст. 386</span> ГК), мены (<span num="7" lnktype="intlnk" title="Статья 497. Договор мены" class="doc">ст. 497</span> ГК), дарения (<span num="9" lnktype="intlnk" title="Статья 502. Договор дарения" class="doc">ст. 502</span> ГК) и ренты (<span num="11" lnktype="intlnk" title="Статья 512. Договор ренты" class="doc">ст. 512</span> ГК).</p><p><a data-anchor="/document/16/203236/bssPhr30/"></a><a data-anchor="/document/16/203236/dfas9vkkz9/" data-dfa="dfas9vkkz9"></a>Нужно определить:</p><ul class="c-list"><li><a data-anchor="/document/16/203236/bssPhr31/"></a><a data-anchor="/document/16/203236/dfasnzm69z/" data-dfa="dfasnzm69z"></a>срок передачи товара. Срок можно определить конкретной датой, например, «товар должен быть поставлен 01 апреля 2019 года», или периодом времени, например, «товар должен быть поставлен в период с 01 марта 2019 года до 01 апреля 2019 года»;</li><li>место передачи товара. Определяя место передачи товара, а именно, момент исполнения обязанности продавца передать товар (<span num="13" lnktype="intlnk" title="Статья 390. Момент исполнения обязанности продавца передать товар" class="doc">ст. 390</span> ГК), указывают условие поставки, например, «самовывоз товара со склада продавца» либо «поставка продавцом товара до пункта передачи товара».</li></ul><p><a data-anchor="/document/16/203236/bssPhr32/"></a><a data-anchor="/document/16/203236/dfasiaantr/" data-dfa="dfasiaantr"></a>При купле-продаже недвижимого имущества, продавец передает недвижимость, а покупатель принимает ее по подписываемому сторонами передаточному акту или иному документу о передаче (<span num="15" lnktype="intlnk" title="Статья 86. Классификация вещей" class="doc">ст. 86</span> ГК). Передачу производят по адресу нахождения недвижимости.</p><p><a data-anchor="/document/16/203236/bssPhr33/"></a><a data-anchor="/document/16/203236/dfasgfbnic/" data-dfa="dfasgfbnic"></a><a data-anchor="/document/16/203236/dfasl8iwfa/" data-dfa="dfasl8iwfa"></a>В договорах поставки, поставщик поставляет товар путем отгрузки или передачи товаров покупателю по договору или лицу, указанному в договоре в качестве получателя (<span num="17" lnktype="intlnk" title="Статья 441. Порядок поставки товаров" class="doc">ст. 441</span> ГК).&nbsp;</p></div><a data-anchor="/document/16/203236/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/203236/bssPhr34/"></a><a data-anchor="/document/16/203236/dfas8i4e0c/" data-dfa="dfas8i4e0c"></a><a data-anchor="/document/16/203236/dfas3hi3y9/" data-dfa="dfas3hi3y9"></a>Как определить порядок выполнения работ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203236/bssPhr36/"></a><a data-anchor="/document/16/203236/dfasy9how1/" data-dfa="dfasy9how1"></a>Укажите сроки начала и завершения выполнения работ. По согласованию с контрагентом в договоре можете предусмотреть также сроки завершения отдельных этапов работы (промежуточные сроки) (<span num="20" lnktype="intlnk" title="Статья 635. Сроки выполнения работы" class="doc">ст. 635</span> ГК).</p><p><a data-anchor="/document/16/203236/bssPhr37/"></a><a data-anchor="/document/16/203236/dfasqbplgf/" data-dfa="dfasqbplgf"></a>Помимо сроков в договоре подряда, можно предусмотреть возможность привлечения третьих лиц – субподрядчиков (<span num="22" lnktype="intlnk" title="Статья 634. Генеральный подрядчик и субподрядчик" class="doc">ст. 634</span> ГК). Договор подряда следует считать исполненным после передачи результата работ заказчику, следовательно, в договоре нужно определить также и порядок приема-передачи результата выполненных работ.</p><p><a data-anchor="/document/16/203236/bssPhr38/"></a><a data-anchor="/document/16/203236/dfasrkog7p/" data-dfa="dfasrkog7p"></a>В зависимости от вида договора подряда, в порядок выполнения работ включают нижеуказанные условия:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="text-align: center; vertical-align: top;"><p style="text-align:center"><a data-anchor="/document/16/203236/bssPhr39/"></a><a data-anchor="/document/16/203236/dfasz0vmgx/" data-dfa="dfasz0vmgx"></a><strong>Вид договора подряда</strong></p></td><td style="text-align: center; vertical-align: top;"><p style="text-align:center"><a data-anchor="/document/16/203236/bssPhr40/"></a><a data-anchor="/document/16/203236/dfasg8yzhu/" data-dfa="dfasg8yzhu"></a><strong>Порядок выполнения работ</strong></p></td></tr><tr><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr41/"></a><a data-anchor="/document/16/203236/dfasisp7by/" data-dfa="dfasisp7by"></a>Договор бытового и строительного подряда (<span num="24" lnktype="intlnk" title="Статья 656. Договор бытового подряда" class="doc">ст.ст. 656</span>, <span num="26" lnktype="intlnk" title="Статья 666. Договор строительного подряда" class="doc">666</span> ГК)</p></td><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr42/"></a><a data-anchor="/document/16/203236/dfasdpqd5v/" data-dfa="dfasdpqd5v"></a>Определяют, чей материал будет использован при производстве работ – подрядчика или заказчика. Если договорились использовать материал заказчика, то определяют количество и полную характеристику материала, который заказчик передаст подрядчику. Если выполнение работ неразрывно связано с его местом, то также определяют место выполнения работ, к примеру, ремонтные работы в помещении</p></td></tr><tr><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr43/"></a><a data-anchor="/document/16/203236/dfasq51bil/" data-dfa="dfasq51bil"></a>Договор подряда на проектные и изыскательские работы (<span num="28" lnktype="intlnk" title="Статья 686. Договор подряда на проектные и изыскательские работы" class="doc">ст. 686</span> ГК) и на научно-исследовательские работы (<span num="30" lnktype="intlnk" title="Статья 693. Договоры подряда на научно-исследовательские, опытно-конструкторские и технологические работы" class="doc">ст. 693</span> ГК)</p></td><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr44/"></a><a data-anchor="/document/16/203236/dfasiry61g/" data-dfa="dfasiry61g"></a>Согласно условиям договора результатом работ выступает продукт интеллектуальной деятельности, который передают на цифровом или бумажном носителе с информацией, которую разработал проектировщик</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><a data-anchor="/document/16/203236/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/203236/bssPhr45/"></a><a data-anchor="/document/16/203236/dfasupk93w/" data-dfa="dfasupk93w"></a><a data-anchor="/document/16/203236/dfasno9ic2/" data-dfa="dfasno9ic2"></a>Как определить порядок оказания услуг</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203236/bssPhr47/"></a><a data-anchor="/document/16/203236/dfasabzgdv/" data-dfa="dfasabzgdv"></a>Договор возмездного оказания услуг (<span num="33" lnktype="intlnk" title="Статья 703. Договор возмездного оказания услуг" class="doc">ст. 703</span> ГК) не имеет результата работ, поскольку не имеет вещественной формы. Таким образом, помимо срока оказания услуг, стороны такого договора согласовывают процесс оказания услуг в зависимости от вида услуг, например, медицинские или информационные услуги. При отсутствии в договоре иных указаний исполнитель обязан оказать предусмотренную договором услугу лично.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли заключать&#160;договор с физлицом&#160;на услуги по проведению свадебного торжества, если заказчик&#160;платит наличными и предприятие выдает чек&#160;</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203236/bssPhr49/"></a><a data-anchor="/document/16/203236/dfas5eqcc0/" data-dfa="dfas5eqcc0"></a>Да, нужно.</p><p><a data-anchor="/document/16/203236/bssPhr50/"></a><a data-anchor="/document/16/203236/dfasfg6zv4/" data-dfa="dfasfg6zv4"></a>Заключать&nbsp;договора на оказание услуг по проведению торжеств&nbsp;с физическими лицами обязательно, чтобы избежать нарушения прав потребителей – физических лиц&nbsp;(<span num="88" target="_self" lnktype="intlnk" title="" class="doc">ст. 4</span>, <span num="89" target="_self" lnktype="intlnk" title="" class="doc">6</span> Закона о защите прав потребителей). Заказчики должны быть информированы о том, что включено в оказываемую&nbsp;услугу. К каждому конкретному договору приложите спецификацию, в которой укажите&nbsp;перечень всего, что входит в оказываемую услугу: украшение зала, из чего оно будет состоять, цветы, надувные шары, музыка, наименование напитков (кола, фанта и т.д.), используемых в организации мероприятия, их количество и стоимость.</p></div></div></div><a data-anchor="/document/16/203236/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/203236/bssPhr51/"></a><a data-anchor="/document/16/203236/dfas6k3vz5/" data-dfa="dfas6k3vz5"></a><a data-anchor="/document/16/203236/dfastn4daf/" data-dfa="dfastn4daf"></a>Как определить порядок исполнения иных хозяйственных договоров</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/203236/bssPhr53/"></a><a data-anchor="/document/16/203236/dfas29m001/" data-dfa="dfas29m001"></a>Приведенные ниже договоры также отнесены к разновидностям договора оказания услуг, но, тем не менее, законодательство рассматривает их в отдельном порядке, поскольку они несут в себе сложную форму оказания услуг. Таким образом, в зависимости от вида договора, стороны могут определить отличительные условия порядка исполнения обязательств.</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="text-align: center; vertical-align: top;"><p style="text-align:center"><a data-anchor="/document/16/203236/bssPhr54/"></a><a data-anchor="/document/16/203236/dfasxb7kap/" data-dfa="dfasxb7kap"></a><strong>Вид договора оказания услуг</strong></p></td><td style="text-align: center; vertical-align: top;"><p style="text-align:center"><a data-anchor="/document/16/203236/bssPhr55/"></a><a data-anchor="/document/16/203236/dfasvh40un/" data-dfa="dfasvh40un"></a><strong>Порядок оказания услуг</strong></p></td></tr><tr><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr56/"></a><a data-anchor="/document/16/203236/dfasphend5/" data-dfa="dfasphend5"></a>Договор перевозки (<span num="36" lnktype="intlnk" title="Статья 709. Общие положения о пеpевозке" class="doc">ст. 709</span> ГК)</p></td><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr57/"></a><a data-anchor="/document/16/203236/dfasovu7oq/" data-dfa="dfasovu7oq"></a>Дополнительным условием в порядке оказания услуг в договорах перевозки будет определение вида транспорта и маршрута (пункт отправки и пункт назначения).</p><p><a data-anchor="/document/16/203236/bssPhr58/"></a><a data-anchor="/document/16/203236/dfasm63on8/" data-dfa="dfasm63on8"></a>Также вид перевозки пассажира или груза влияет на порядок оказания услуг, включая и другие существенные условия, к примеру, при перевозке груза обязательно наличие товаротранспортной накладной</p></td></tr><tr><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr59/"></a><a data-anchor="/document/16/203236/dfasobg3c5/" data-dfa="dfasobg3c5"></a>Договор транспортной экспедиции (<span num="38" lnktype="intlnk" title="Статья 726. Договор транспортной экспедиции" class="doc">ст. 726</span> ГК)</p></td><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr60/"></a><a data-anchor="/document/16/203236/dfasmg5kg4/" data-dfa="dfasmg5kg4"></a>Стороны могут предусмотреть порядок оказания услуг, согласно которому в обязанность экспедитора будет входить:</p><ul class="c-list"><li><a data-anchor="/document/16/203236/bssPhr61/"></a><a data-anchor="/document/16/203236/dfas2c4e4y/" data-dfa="dfas2c4e4y"></a>организация перевозки груза транспортом и по маршруту, избранным одной из сторон;</li><li>заключение договора перевозки груза;</li><li>обеспечение отправки и получения груза</li></ul></td></tr><tr><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr62/"></a><a data-anchor="/document/16/203236/dfasdip4wn/" data-dfa="dfasdip4wn"></a>Договор хранения (<span num="40" lnktype="intlnk" title="Статья 875. Договор хранения" class="doc">ст. 875</span> ГК)</p></td><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr63/"></a><a data-anchor="/document/16/203236/dfasr8rxpi/" data-dfa="dfasr8rxpi"></a>Помимо места и срока хранения, в зависимости от предмета хранения в порядке оказания услуг по хранению, стороны определяют условия хранения, к примеру, температуру или иные требования к складскому помещению</p></td></tr><tr><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr64/"></a><a data-anchor="/document/16/203236/dfas7huws3/" data-dfa="dfas7huws3"></a>Договор имущественного найма (<span num="42" lnktype="intlnk" title="Статья 535. Договор имущественного найма" class="doc">ст. 535</span> ГК)</p></td><td style="vertical-align: top;"><p><a data-anchor="/document/16/203236/bssPhr65/"></a><a data-anchor="/document/16/203236/dfasb2pokt/" data-dfa="dfasb2pokt"></a>В порядке оказания услуг имущественного найма стороны определяют срок пользования имуществом. К отдельным видам договоров имущественного найма и найма отдельных видов имущества (прокату, аренде транспортных средств, аренде предприятий, финансовой аренде и т.д.) могут применять дополнительные условия порядка исполнения обязательств по договору.</p><p><a data-anchor="/document/16/203236/bssPhr66/"></a><a data-anchor="/document/16/203236/dfaswa3c1h/" data-dfa="dfaswa3c1h"></a>К примеру:</p><ul class="c-list"><li><a data-anchor="/document/16/203236/bssPhr67/"></a><a data-anchor="/document/16/203236/dfaswhmbsm/" data-dfa="dfaswhmbsm"></a>по договору проката (<span num="44" lnktype="intlnk" title="Статья 558. Договор проката" class="doc">ст. 558</span> ГК): капитальный и текущий ремонт имущества, сданного в наем, обязанность наймодателя;</li><li>по договору аренды транспортных средств (<span num="46" lnktype="intlnk" title="Статья 564. Договор аренды транспортного средства" class="doc">ст. 564</span> ГК): стороны определяют обязанность по содержанию, управлению и технической эксплуатации автотранспортного средства;</li><li>по договору аренды зданий и сооружений (<span num="48" lnktype="intlnk" title="Статья 573. Договор аренды здания или сооружения" class="doc">ст. 573</span> ГК): стороны определяют обязанность по содержанию помещения (проведение капитального и текущего ремонта);</li><li>по договору аренды предприятия (<span num="50" lnktype="intlnk" title="Статья 579. Договор аренды предприятия" class="doc">ст. 579</span> ГК): арендатор предприятия обязан в течение всего срока действия договора аренды поддерживать предприятие в надлежащем техническом состоянии, включая его текущий и, в предусмотренных договором случаях, капитальный ремонт</li></ul></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

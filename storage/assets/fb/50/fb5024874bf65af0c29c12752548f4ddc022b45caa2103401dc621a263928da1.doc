@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отразить бухгалтерские оценки в финансовой отчетности по МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206751/dfasb41g5q/" data-dfa="dfasb41g5q"></a><a data-anchor="/document/16/206751/bssPhr2/"></a>Из рекомендации узнаете, в чем отличие бухгалтерских оценок от бухгалтерских ошибок, как вносить изменения в бухгалтерские расчеты и какой МСФО регулирует порядок отражения бухгалтерских оценок в финансовой отчетности по МСФО. На примерах увидите, как рассчитать изменения в бухгалтерской оценке, а также определить размер амортизации и балансовую стоимость основного средства. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206751/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206751/bssPhr3/"></a><a data-anchor="/document/16/206751/dfast13upu/" data-dfa="dfast13upu"></a>Бухгалтерские оценки</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr5/"></a><a data-anchor="/document/16/206751/dfasdbytgf/" data-dfa="dfasdbytgf"></a>Чтобы отличить изменения в бухгалтерских оценках от исправления бухгалтерских ошибок, необходимо различать эти понятия.</p><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr6/"></a><a data-anchor="/document/16/206751/dfasnie7x7/" data-dfa="dfasnie7x7"></a>Бухгалтерские ошибки – это неправильное отражение или не отражение фактов хозяйственной деятельности компании в ее бухгалтерской или финансовой отчетности.</p><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr7/"></a><a data-anchor="/document/16/206751/dfaswca5pe/" data-dfa="dfaswca5pe"></a>Бухгалтерские оценки – это приблизительные значения, которые должны быть пересмотрены по мере поступления дополнительной информации. Например, изменение прибыли или убытка, признанное в результате фактического наступления условного события.</p><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr8/"></a><a data-anchor="/document/16/206751/dfasl7hz9e/" data-dfa="dfasl7hz9e"></a>Бухгалтерские оценки используют при подготовке финансовой отчетности. К бухгалтерским оценкам относят:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206751/bssPhr9/"></a><a data-anchor="/document/16/206751/dfasybdsnl/" data-dfa="dfasybdsnl"></a>оценку плохих дебиторов;</li><li style="text-align:left">степень обесценения запасов;</li><li style="text-align:left">справедливую стоимость финансовых активов и обязательств.</li></ul></div><a data-anchor="/document/16/206751/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206751/bssPhr10/"></a><a data-anchor="/document/16/206751/dfasnm7p3z/" data-dfa="dfasnm7p3z"></a>Изменения в бухгалтерских расчетах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr12/"></a><a data-anchor="/document/16/206751/dfas68ew2o/" data-dfa="dfas68ew2o"></a>Изменения в бухгалтерские оценки вносят при появлении новой информации, накоплении опыта или последующих событий в финансово-хозяйственной деятельности компании. Происходит это ввиду того, что многие статьи финансовой отчетности компании не поддаются точному расчету, их можно только оценить исходя из сложившихся обстоятельств ведения бизнеса или ситуации на рынке. При составлении финансовой отчетности по МСФО бухгалтер должен использовать обоснованные оценки. Внесение изменений в такие оценки по мере поступления новой информации никак не подрывает достоверности составленной отчетности и не противоречит принципу надежности.</p></div><a data-anchor="/document/16/206751/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206751/bssPhr13/"></a><a data-anchor="/document/16/206751/dfasngnt2c/" data-dfa="dfasngnt2c"></a>Порядок отражения бухгалтерских оценок в финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr15/"></a><a data-anchor="/document/16/206751/dfasuhli2l/" data-dfa="dfasuhli2l"></a>Порядок отражения бухгалтерских оценок в финансовой отчетности регулирует МСФО (IAS) 8 «Учетная политика, изменения в бухгалтерских оценках и ошибки».</p><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr16/"></a><a data-anchor="/document/16/206751/dfasp53o7y/" data-dfa="dfasp53o7y"></a>МСФО (IAS) 8 предусматривает перспективный метод для отражения изменений в бухгалтерских оценках. Согласно этому методу результат изменения в бухгалтерских оценках следует включать в расчет чистой прибыли или убытка в периоде, когда произошло изменение:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206751/bssPhr17/"></a><a data-anchor="/document/16/206751/dfas8001pv/" data-dfa="dfas8001pv"></a>если оно влияет только на данный период. Например, изменение в оценке сомнительных долгов;</li><li style="text-align:left">а также в будущих периодах, если оно влияет на те и другие. Например, изменение сроков полезной службы амортизируемых активов.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr18/"></a><a data-anchor="/document/16/206751/dfasgphg9s/" data-dfa="dfasgphg9s"></a>В обоих случаях нужно признавать доход или расход в текущем периоде, а соответствующие воздействия на будущие периоды признавать в качестве дохода или расхода в будущих периодах.</p><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr19/"></a><a data-anchor="/document/16/206751/dfasgdgudi/" data-dfa="dfasgdgudi"></a>Результаты изменений в бухгалтерских оценках включают в те же классификационные статьи отчета о прибылях и убытках и прочем совокупном доходе, в которых были ранее учтены эти оценки.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/206751/bssPhr20/"></a><a data-anchor="/document/16/206751/dfasgbwocg/" data-dfa="dfasgbwocg"></a>Как рассчитать изменения в бухгалтерской оценке</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr21/"></a><a data-anchor="/document/16/206751/dfas140von/" data-dfa="dfas140von"></a>ООО «Альфа» купила оборудование для производства макарон 15.02.2013 г. за 200 млн сумов. Согласно оценке компании, срок эксплуатации данного оборудования составлял 10 лет.</p><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr22/"></a><a data-anchor="/document/16/206751/dfasnh3h1z/" data-dfa="dfasnh3h1z"></a>По прошествии 5 лет, по состоянию на 15.02.2017 г. компания оценила, что оборудование может проработать еще 10 лет в таком же режиме и еще 10 лет сможет выпускать такую же продукцию. Соответственно, наступила необходимость определить размер ежегодного износа данного оборудования по новым исходным данным.</p><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr23/"></a><a data-anchor="/document/16/206751/dfasqcglv9/" data-dfa="dfasqcglv9"></a>Такие изменения в бухгалтерской оценке затронут текущий и будущий периоды, значит:</p><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr24/"></a><a data-anchor="/document/16/206751/dfasozmz6p/" data-dfa="dfasozmz6p"></a>(100 млн сумов – 0) ÷ 10 = 10 млн сумов в год составляет ежегодный износ по новым исходным данным с учетом корректировок в бухгалтерской оценке.</p></div></div><p><a data-anchor="/document/16/206751/bssPhr25/"></a><a data-anchor="/document/16/206751/dfas3nwu5n/" data-dfa="dfas3nwu5n"></a>Если объект основных средств был поврежден и это повлияло на его стоимость, то это нельзя расценивать как изменения в бухгалтерских оценках, а следует списывать на убытки текущего периода.&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/206751/bssPhr26/"></a><a data-anchor="/document/16/206751/dfashilezw/" data-dfa="dfashilezw"></a>Как определить размер амортизации и балансовую стоимость основного средства</name></p><div class="incut-v4__content" data-incut-content=""><p class="Default" style="text-align:left"><a data-anchor="/document/16/206751/bssPhr27/"></a><a data-anchor="/document/16/206751/dfas0umekt/" data-dfa="dfas0umekt"></a>ООО «Альфа» купила 01.01.2010 г. основное средство за 32 млн сумов, которое будет амортизироваться методом уменьшаемого остатка по ставке 25 процентов. 31.12.2011 г. компания изменила схему потребления экономических выгод, получаемых от данного основного средства, и приняла решение признать остаточный срок службы этого основного средства в размере 9 лет, а метод амортизации изменила на линейный.</p><p class="Default" style="text-align:left"><a data-anchor="/document/16/206751/bssPhr28/"></a><a data-anchor="/document/16/206751/dfas1ztsop/" data-dfa="dfas1ztsop"></a>Необходимо определить размер амортизации в 2010-2012 гг. и балансовую стоимость основного средства по состоянию на 31.12.2012 г.</p><p class="Default" style="text-align:left"><a data-anchor="/document/16/206751/bssPhr29/"></a><a data-anchor="/document/16/206751/dfas0em5vb/" data-dfa="dfas0em5vb"></a>Соответственно:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 319px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr30/"></a><a data-anchor="/document/16/206751/dfasp8y1rp/" data-dfa="dfasp8y1rp"></a><strong>Наименование показателей</strong></p></td><td class="bdTopbdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr31/"></a><a data-anchor="/document/16/206751/dfasyak34v/" data-dfa="dfasyak34v"></a><strong>Расчет</strong></p></td><td class="bdTopbdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr32/"></a><a data-anchor="/document/16/206751/dfas36cf0w/" data-dfa="dfas36cf0w"></a><strong>Результат</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 319px; height: 8.9775px;"><p class="Default"><a data-anchor="/document/16/206751/bssPhr33/"></a><a data-anchor="/document/16/206751/dfasmnbgfe/" data-dfa="dfasmnbgfe"></a>Стоимость на 01.01.2010</p></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr35/"></a><a data-anchor="/document/16/206751/dfasbp4viq/" data-dfa="dfasbp4viq"></a>32 млн сумов</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 319px; height: 8.9775px;"><p class="Default"><a data-anchor="/document/16/206751/bssPhr36/"></a><a data-anchor="/document/16/206751/dfaskn8u07/" data-dfa="dfaskn8u07"></a>Амортизация за 2010 год</p></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr37/"></a><a data-anchor="/document/16/206751/dfashnmb0c/" data-dfa="dfashnmb0c"></a>32 млн сумов × 25%</p></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr38/"></a><a data-anchor="/document/16/206751/dfas74e4t7/" data-dfa="dfas74e4t7"></a>8 млн сумов</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 319px; height: 8.9775px;"><p class="Default"><a data-anchor="/document/16/206751/bssPhr39/"></a><a data-anchor="/document/16/206751/dfasbxyglf/" data-dfa="dfasbxyglf"></a>Балансовая стоимость на 31.12.2010</p></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr41/"></a><a data-anchor="/document/16/206751/dfaskondo9/" data-dfa="dfaskondo9"></a>24 млн сумов</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 319px; height: 8.9775px;"><p class="Default"><a data-anchor="/document/16/206751/bssPhr42/"></a><a data-anchor="/document/16/206751/dfasxc1ktp/" data-dfa="dfasxc1ktp"></a>Амортизация за 2011 год</p></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr43/"></a><a data-anchor="/document/16/206751/dfas21dhfx/" data-dfa="dfas21dhfx"></a>24 млн сумов × 25%</p></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr44/"></a><a data-anchor="/document/16/206751/dfas59oe7c/" data-dfa="dfas59oe7c"></a>6 млн сумов</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 319px; height: 8.9775px;"><p class="Default"><a data-anchor="/document/16/206751/bssPhr45/"></a><a data-anchor="/document/16/206751/dfas7e65xi/" data-dfa="dfas7e65xi"></a>Балансовая стоимость на 31.12.2011</p></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr47/"></a><a data-anchor="/document/16/206751/dfasrr8aws/" data-dfa="dfasrr8aws"></a>18 млн сумов</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 319px; height: 8.9775px;"><p class="Default"><a data-anchor="/document/16/206751/bssPhr48/"></a><a data-anchor="/document/16/206751/dfas65vvyu/" data-dfa="dfas65vvyu"></a>Амортизация за 2012 год</p></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr49/"></a><a data-anchor="/document/16/206751/dfasn4fd3f/" data-dfa="dfasn4fd3f"></a>18 млн сумов ÷ 9 лет</p></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr50/"></a><a data-anchor="/document/16/206751/dfasg4yp5w/" data-dfa="dfasg4yp5w"></a>2 млн сумов</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 319px; height: 8.9775px;"><p class="Default"><a data-anchor="/document/16/206751/bssPhr51/"></a><a data-anchor="/document/16/206751/dfasqggm1b/" data-dfa="dfasqggm1b"></a>Балансовая стоимость на 31.12.2012</p></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"></td><td class="bdBottombdRight" style="width: 161px; height: 8.9775px;"><p class="Default" style="text-align:center"><a data-anchor="/document/16/206751/bssPhr53/"></a><a data-anchor="/document/16/206751/dfasnarvnp/" data-dfa="dfasnarvnp"></a>16 млн сумов</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/206751/bssPhr54/"></a><a data-anchor="/document/16/206751/dfasiq5m0a/" data-dfa="dfasiq5m0a"></a>Как отразить сторнирование резерва под обесценение дебиторской задолженности</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr55/"></a><a data-anchor="/document/16/206751/dfaspetbo2/" data-dfa="dfaspetbo2"></a>ООО «Альфа» в 2010 году признала резерв под обесценение торговой дебиторской задолженности контрагента, испытывающего финансовые затруднения. В 2012 году контрагент вышел из затруднений и полностью погасил задолженность перед ООО «Альфа». Резерв под обесценение дебиторской задолженности был отражен в отчете о прибылях и убытках за 2010 год по статье «Коммерческие расходы».</p><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr56/"></a><a data-anchor="/document/16/206751/dfasg9pd4c/" data-dfa="dfasg9pd4c"></a>Сторнирование резерва необходимо провести по той же статье отчета о прибылях и убытках за 2012 год, по которой произошло начисление данного резерва в 2010 году – статья «Коммерческие расходы».</p><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr57/"></a><a data-anchor="/document/16/206751/dfasyll3lk/" data-dfa="dfasyll3lk"></a>В случае, если изменения бухгалтерских оценок имели существенный эффект, также необходимо раскрыть суммы изменений отдельно либо в самом отчет о прибылях и убытках, либо в примечаниях к финансовой отчетности.</p></div></div></div><a data-anchor="/document/16/206751/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206751/bssPhr58/"></a><a data-anchor="/document/16/206751/dfasecr5se/" data-dfa="dfasecr5se"></a>Примечания к финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206751/bssPhr60/"></a><a data-anchor="/document/16/206751/dfasgizdd5/" data-dfa="dfasgizdd5"></a>В примечаниях к финансовой отчетности компания должна отразить:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206751/bssPhr61/"></a><a data-anchor="/document/16/206751/dfasxx12no/" data-dfa="dfasxx12no"></a>характер и величину изменений в бухгалтерских оценках, оказывающих существенное воздействие в текущем периоде, или существенное воздействие которых ожидается в последующих периодах;</li><li style="text-align:left">практическую невозможность количественной оценки, если действительно невозможно оценить воздействие изменения.</li></ul></div><p><a data-anchor="/document/16/206751/dfas82ge92/" data-dfa="dfas82ge92"></a><a data-anchor="/document/16/206751/bssPhr62/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

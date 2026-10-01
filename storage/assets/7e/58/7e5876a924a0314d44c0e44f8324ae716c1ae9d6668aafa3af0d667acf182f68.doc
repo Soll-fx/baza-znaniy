@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие требования предъявляют к бухгалтерам</h2><div class="doc-snippet"><a data-anchor="/document/16/205909/dfasmo5gob/" data-dfa="dfasmo5gob"></a><a data-anchor="/document/16/205909/bssPhr2/"></a>В&nbsp;рекомендации Системы Главбух найдете ответы на&nbsp;вопросы: какие требования предъявляют к&nbsp;бухгалтерам, к&nbsp;какой категории работников относится главный бухгалтер, а&nbsp;также должен&nbsp;ли главный бухгалтер иметь высшее специальное образование. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/205909/bssPhr3/"></a><a data-anchor="/document/16/205909/dfasf5ogy7/" data-dfa="dfasf5ogy7"></a>Профессия бухгалтера&nbsp;— одна из&nbsp;востребованных в&nbsp;сфере экономики и&nbsp;финансов. В&nbsp;любой, даже самой небольшой компании, обязательно есть должность бухгалтера, так как вести бухучет и&nbsp;составлять бухгалтерскую отчетность обязаны все без исключения организации (<a data-anchor="/document/16/205909/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/90/21012/dfasrfch73/" class="link npd" title="" moduleId="90" documentId="21012" anchor="dfasrfch73">ст.&nbsp;6</a>&nbsp;Закона о&nbsp;бухучете).</p><p><a data-anchor="/document/16/205909/bssPhr6/"></a><a data-anchor="/document/16/205909/dfasri4s2f/" data-dfa="dfasri4s2f"></a>Бухгалтер в&nbsp;небольших организациях начисляет зарплату сотрудникам, исчисляет налоги, рассчитывает себестоимость продукции, услуг, ведет бухгалтерский учет финансово-хозяйственных операций предприятия, подготавливает и&nbsp;сдает налоговую и&nbsp;финансовую отчетность.</p><a data-anchor="/document/16/205909/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205909/bssPhr9/"></a><a data-anchor="/document/16/205909/dfas64hbrh/" data-dfa="dfas64hbrh"></a>Главный бухгалтер</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205909/bssPhr11/"></a><a data-anchor="/document/16/205909/dfasys286f/" data-dfa="dfasys286f"></a>Категории работников определяйте по <span data-warm-notices="6530778" data-warm-notice-type="error" num="4" lnktype="intlnk" title="" class="doc">Классификатору</span> основных должностей служащих и&nbsp;профессий рабочих (<span data-warm-notices="6530792" data-warm-notice-type="error" num="5" lnktype="intlnk" title="" class="doc">приложение</span> к&nbsp;ПКМ №&nbsp;795 от&nbsp;04.10.2017). Должность главного бухгалтера Классификатор относит к&nbsp;категории «управленческий персонал», в&nbsp;группу руководителей, независимо от&nbsp;формы собственности, организационно-правовой формы и&nbsp;вида деятельности предприятия (<span data-warm-notices="6530808" data-warm-notice-type="error" num="6" lnktype="intlnk" title="" class="doc">абз.&nbsp;2</span>&nbsp;пп. «е» п.&nbsp;5&nbsp;приложения к&nbsp;ПКМ №&nbsp;795 от&nbsp;04.10.2017).</p></div><a data-anchor="/document/16/205909/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205909/bssPhr12/"></a><a data-anchor="/document/16/205909/dfasu1wi4b/" data-dfa="dfasu1wi4b"></a>Высшее образование</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205909/bssPhr14/"></a><a data-anchor="/document/16/205909/dfasr72eet/" data-dfa="dfasr72eet"></a>Главный бухгалтер предприятий и&nbsp;организаций, в&nbsp;которых проводятся обязательные аудиторские проверки, за&nbsp;исключением банков и&nbsp;иных кредитных организаций, должен иметь высшее образование.</p><p><a data-anchor="/document/16/205909/bssPhr15/"></a><a data-anchor="/document/16/205909/dfash9mhs3/" data-dfa="dfash9mhs3"></a>Требования к&nbsp;стажу работы бухгалтера в&nbsp;таких организациях:</p><ul class="c-list"><li><a data-anchor="/document/16/205909/bssPhr16/"></a><a data-anchor="/document/16/205909/dfasf6d5gt/" data-dfa="dfasf6d5gt"></a>при наличии высшего экономического образования&nbsp;— не&nbsp;менее 3&nbsp;лет стажа работы, связанной с&nbsp;ведением бухгалтерского учета, составлением финансовой отчетности либо аудиторской деятельностью из&nbsp;последних 5&nbsp;календарных лет;</li><li>при наличии высшего неэкономического образования&nbsp;— не&nbsp;менее 7&nbsp;лет из&nbsp;последних 10&nbsp;календарных лет (<span num="8" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>&nbsp;ст.&nbsp;12&nbsp;Закона о&nbsp;бухучете).</li></ul><p><a data-anchor="/document/16/205909/bssPhr17/"></a><a data-anchor="/document/16/205909/dfaspf8ecd/" data-dfa="dfaspf8ecd"></a>В&nbsp;государственных предприятиях и&nbsp;организациях, предприятиях с&nbsp;долей государства в&nbsp;уставном капитале более 50&nbsp;процентов главный бухгалтер должен иметь высшее образование.</p><p><a data-anchor="/document/16/205909/bssPhr18/"></a><a data-anchor="/document/16/205909/dfasy0lce3/" data-dfa="dfasy0lce3"></a>Требования Классификатора обязательны к&nbsp;применению в&nbsp;государственных организациях. Для других хозяйствующих субъектов они носят рекомендательный характер. Нужно&nbsp;ли высшее образование при приеме на&nbsp;должность главного бухгалтера, решает руководитель предприятия. Исключение&nbsp;— случаи, когда законодательство устанавливает требования о&nbsp;наличии высшего специального образования и&nbsp;стажа работы, предусмотренные&nbsp;в:</p><ul class="c-list"><li><a data-anchor="/document/16/205909/bssPhr19/"></a><a data-anchor="/document/16/205909/dfasspx677/" data-dfa="dfasspx677"></a><span num="9" lnktype="intlnk" title="" class="doc">пункте&nbsp;6</span>&nbsp;приложения №&nbsp;1&nbsp;к Инструкции о&nbsp;порядке ведения бухгалтерского учета и&nbsp;организации бухгалтерской работы в&nbsp;банках Республики Узбекистан (рег. №&nbsp;1834 от&nbsp;11.07.2008);</li><li><span num="10" lnktype="intlnk" title="" class="doc">абзаце&nbsp;2</span>&nbsp;пункта&nbsp;8&nbsp;Квалификационных требований в&nbsp;отношении руководителей, главных бухгалтеров, членов правления коммерческих банков и&nbsp;их&nbsp;филиалов, руководителей исполнительных органов микрокредитных организаций и&nbsp;кредитных бюро (рег. №&nbsp;2989 от&nbsp;30.03.2018);</li><li><span num="11" target="_self" lnktype="intlnk" title="" class="doc">пункте&nbsp;7</span>&nbsp;Положения о&nbsp;квалификационных требованиях, предъявляемых к&nbsp;руководителю и&nbsp;главному бухгалтеру страховщика, страхового брокера и&nbsp;их&nbsp;обособленных подразделений от&nbsp;30.05.2013&nbsp;рег. №&nbsp;2462.</li></ul><p><a data-anchor="/document/16/205909/bssPhr20/"></a><a data-anchor="/document/16/205909/dfase9wmx3/" data-dfa="dfase9wmx3"></a>Одно из&nbsp;основных требований при приеме на&nbsp;работу главного бухгалтера&nbsp;— отсутствие непогашенной или не&nbsp;снятой судимости за&nbsp;умышленное преступление (<span num="12" lnktype="intlnk" title="" class="doc">ч.&nbsp;8</span>&nbsp;ст.&nbsp;12&nbsp;Закона о&nbsp;бухучете).</p><p><a data-anchor="/document/16/205909/bssPhr21/"></a><a data-anchor="/document/16/205909/dfass5avf6/" data-dfa="dfass5avf6"></a>На&nbsp;должность главного бухгалтера узбекистанского предприятия может быть принят гражданин любого другого государства, но&nbsp;только при наличии полученного работодателем разрешения и&nbsp;подтверждения на&nbsp;право трудовой деятельности (<span num="13" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;Положения о&nbsp;порядке привлечения и&nbsp;использования иностранной рабочей силы в&nbsp;Республике Узбекистан, приложения к&nbsp;ПКМ №&nbsp;408). Также определены категории работников, на&nbsp;которые это требование не&nbsp;распространяется (<span num="14" lnktype="intlnk" title="" class="doc">п.&nbsp;17</span>&nbsp;Положения №&nbsp;408).</p><p><a data-anchor="/document/16/205909/bssPhr22/"></a><a data-anchor="/document/16/205909/dfas16vhi4/" data-dfa="dfas16vhi4"></a>Главный бухгалтер должен знать:</p><ul class="c-list"><li><a data-anchor="/document/16/205909/bssPhr23/"></a><a data-anchor="/document/16/205909/dfasco6dd5/" data-dfa="dfasco6dd5"></a>законодательство о&nbsp;бухгалтерском учете и&nbsp;иные нормативно-правовые акты (гражданское право, финансовое, налоговое, хозяйственное законодательство и&nbsp;т.д.), методические материалы налоговых и&nbsp;финансовых органов по&nbsp;вопросам ведения бухгалтерского учета и&nbsp;составления налоговой и&nbsp;финансовой отчетности по&nbsp;деятельности предприятия;</li><li>структуру предприятия, перспективы его развития;</li><li>внутренние положения, инструкции и&nbsp;правила по&nbsp;ведению бухгалтерского учета на&nbsp;предприятии;</li><li>порядок оформления хозяйственных и&nbsp;бухгалтерских операций, организацию документооборота по&nbsp;ним;</li><li>формы финансовых расчетов и&nbsp;порядок их&nbsp;составления;</li><li>порядок ведения операций по&nbsp;приемке, оприходованию, хранению, расходованию денежных средств, товарно-материальных и&nbsp;других ценностей</li><li>порядок расчетов с&nbsp;дебиторами и&nbsp;кредиторами;</li><li>правила налогообложения юридических и&nbsp;физических лиц;</li><li>порядок списания со&nbsp;счетов бухгалтерского учета недостач, задолженностей и&nbsp;т.д.;</li><li>правила проведения инвентаризаций активов и&nbsp;обязательств предприятия;</li><li>порядок составления бухгалтерского баланса хозяйственной деятельности предприятия;</li><li>современные вычислительные программы по&nbsp;ведению учета и&nbsp;анализа производственно-хозяйственной и&nbsp;финансовой деятельности предприятия;</li><li>организацию производства, труда и&nbsp;управления;</li><li>технологические основы производства;</li><li>законодательство о&nbsp;труде и&nbsp;охране труда Республики Узбекистан;</li><li>нормы, правила и&nbsp;инструкции по&nbsp;охране труда, технике безопасности, санитарии и&nbsp;противопожарной безопасности.</li></ul><p><a data-anchor="/document/16/205909/bssPhr24/"></a><a data-anchor="/document/16/205909/dfash4mv3g/" data-dfa="dfash4mv3g"></a>В&nbsp;своей деятельности главный бухгалтер должен руководствоваться:</p><ul class="c-list"><li><a data-anchor="/document/16/205909/bssPhr25/"></a><a data-anchor="/document/16/205909/dfaslmfq7l/" data-dfa="dfaslmfq7l"></a>законодательными и&nbsp;нормативно-правовыми актами, регулирующими вопросы бухучета и&nbsp;отчетности;</li><li>методическими материалами;</li><li>уставом предприятия;</li><li>положением о&nbsp;бухгалтерии предприятия;</li><li>приказами руководителя, внутренними локальными актами предприятия.</li></ul><p><a data-anchor="/document/16/205909/bssPhr26/"></a><a data-anchor="/document/16/205909/dfasvugbmo/" data-dfa="dfasvugbmo"></a>Главный бухгалтер непосредственно подчиняется руководителю предприятия.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Необходимо&#160;ли иметь главному бухгалтеру ООО сертификат МСФО и&#160;другие сертификаты, если в&#160;ООО нет государственной доли и&#160;учредитель одно физическое лицо</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205909/bssPhr28/"></a><a data-anchor="/document/16/205909/dfasrzcr3h/" data-dfa="dfasrzcr3h"></a>Законодательство не&nbsp;требует наличия сертификата МСФО или иного сертификата у&nbsp;главного бухгалтера, работающего в&nbsp;ООО. Исключение составляю случаи, когда:</p><ul class="c-list"><li><a data-anchor="/document/16/205909/bssPhr29/"></a><a data-anchor="/document/16/205909/dfasutu4pk/" data-dfa="dfasutu4pk"></a>данный субъект предпринимательства (ООО) перешел на&nbsp;составление финотчетности по&nbsp;МСФО;</li><li>руководитель требует наличие сертификата МСФО или другого сертификата у&nbsp;главного бухгалтера.</li></ul><p><a data-anchor="/document/16/205909/bssPhr30/"></a><a data-anchor="/document/16/205909/dfasagg1fz/" data-dfa="dfasagg1fz"></a><span num="7" target="_self" lnktype="intlnk" title="" class="doc">Постановлением</span> Президента от&nbsp;24.02.2020 № ПП-4611 «О&nbsp;дополнительных мерах по&nbsp;переходу на&nbsp;международные стандарты финансовой отчетности» утверждены план и&nbsp;«Дорожная карта» поэтапного перехода на&nbsp;МСФО в&nbsp;Узбекистане. С&nbsp;1&nbsp;января 2021 года&nbsp;АО, банки, страховые организации и&nbsp;крупные налогоплательщики будут вести бухучет&nbsp;и, начиная с&nbsp;итогов 2021&nbsp;года, составлять финансовую отчетность только по&nbsp;МСФО. До&nbsp;окончания 2021 года они обязаны иметь не&nbsp;менее 3&nbsp;специалистов, успешно сдавших предмет «Финотчетность по&nbsp;МСФО» в&nbsp;рамках международной сертификации бухгалтеров, либо имеющих международный сертификат бухгалтера АССА и&nbsp;ее&nbsp;дипломы, СРА, CIPA, DipIFR.</p></div></div></div><p><a data-anchor="/document/16/205909/dfasutqv9g/" data-dfa="dfasutqv9g"></a><a data-anchor="/document/16/205909/bssPhr31/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882021" sourceId="1" fullSizeImageId="-41882020" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882021/"></p><p><a data-anchor="/document/16/205909/dfas2ny9qz/" data-dfa="dfas2ny9qz"></a><a data-anchor="/document/16/205909/bssPhr32/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

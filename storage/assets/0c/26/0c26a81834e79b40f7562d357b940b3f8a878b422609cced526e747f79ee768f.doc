@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как оформить и отразить в учете основные средства, полученные в качестве вклада в уставный капитал</h2><div class="doc-snippet"><a data-anchor="/document/16/219051/dfaslf62tu/" data-dfa="dfaslf62tu"></a><a data-anchor="/document/16/219051/bssPhr2/"></a>Из&nbsp;рекомендации узнаете, какими документами оформить и&nbsp;какими проводками отразить в&nbsp;учете получение основных средств в&nbsp;качестве вклада в&nbsp;уставный капитал. Получите ответы на&nbsp;вопросы: от&nbsp;чего зависит стоимостная оценка&nbsp;ОС и&nbsp;какие налоги платить при получении&nbsp;ОС как вклада в&nbsp;УФ. На&nbsp;примере эксперты показали, как отразить в&nbsp;бухучете и&nbsp;при налогообложении получение от&nbsp;учредителя&nbsp;ОС как вклада в&nbsp;УФ. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/219051/bssPhr4/"></a><a data-anchor="/document/16/219051/dfasmeq27f/" data-dfa="dfasmeq27f"></a>ОС, полученные в&nbsp;качестве вклада в&nbsp;уставный капитал, принимайте к&nbsp;бухучету по <span num="94" lnktype="intlnk" title="Первоачальная стоимость" class="doc">первоначальной стоимости</span>. Получение основного средства оформите первичным документом&nbsp;— актом приема-передачи, который должен содержать <span num="95" lnktype="intlnk" title="Обязательными реквизитами первичных учетных документов являются..." class="doc">обязательные реквизиты</span>. Типовой бланк акта приема-передачи для основных средств&nbsp;— <span num="96" lnktype="intlnk" title="Акт о приеме-передаче обьекта основных средств (форма ОС-1)" class="doc">форма ОС-1</span>. Проводки в&nbsp;бухучете отразите по <a href="https://1gb.uz/#/document/16/219051/dfash8vgt4/">рекомендации</a> эксперта. См. также <span num="134" target="_self" lnktype="intlnk" title="" class="doc">Как оформить и&nbsp;учесть передачу основных средств в&nbsp;качестве вклада в&nbsp;уставный капитал других предприятий</span></p><a data-anchor="/document/16/219051/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/219051/bssPhr5/"></a><a data-anchor="/document/16/219051/dfasy4mgct/" data-dfa="dfasy4mgct"></a>Первоначальная стоимость</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/219051/bssPhr7/"></a><a data-anchor="/document/16/219051/dfas70ky43/" data-dfa="dfas70ky43"></a><a data-anchor="/document/16/219051/dfasl5op14/" data-dfa="dfasl5op14"></a>Основные средства, полученные в&nbsp;качестве вклада в&nbsp;уставный капитал, принимайте к&nbsp;бухучету по <span num="1" lnktype="intlnk" title="Первоачальная стоимость" class="doc">первоначальной стоимости</span>. При формировании первоначальной стоимости учтите денежную оценку основного средства, согласованную учредителями, участниками, акционерами (п. <span num="147" target="_self" lnktype="intlnk" title="" class="doc">17</span>&nbsp;НСБУ №&nbsp;5).</p><p><a data-anchor="/document/16/219051/bssPhr8/"></a><a data-anchor="/document/16/219051/dfas32iug0/" data-dfa="dfas32iug0"></a>Стоимостная оценка основных средств, которые вносят в&nbsp;качестве вкладов в&nbsp;уставный капитал имуществом, зависит от&nbsp;организационно-правовой формы предприятия:</p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr9/"></a><a data-anchor="/document/16/219051/dfasw7s85u/" data-dfa="dfasw7s85u"></a>в&nbsp;обществе с&nbsp;ограниченной ответственностью стоимостную оценку неденежного вклада утверждают решением общего собрания участников общества при единогласном голосовании (<span num="122" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;15</span>&nbsp;Закона об&nbsp;обществах с&nbsp;ограниченной и&nbsp;дополнительной ответственностью). С&nbsp;1&nbsp;апреля 2023 года неденежные вклады в&nbsp;уставный капитал ООО стоимостью свыше 10&nbsp;000 базовых расчетных величин должны оцениваться оценочной организацией и&nbsp;не&nbsp;могут превышать оценочной стоимости (<span num="123" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;постановления Президента Республики Узбекистан от&nbsp;08.11.2022 № ПП-415);</li><li>в&nbsp;акционерном обществе, если номинальная стоимость акций и&nbsp;иных ценных бумаг общества составляет более 200-кратного размера БРВ, то&nbsp;денежную оценку основных средств должна подтвердить оценочная организация (<span num="124" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;31</span>&nbsp;Закона об&nbsp;акционерных обществах и&nbsp;защите прав акционеров).</li></ul><p><a data-anchor="/document/16/219051/bssPhr10/"></a><a data-anchor="/document/16/219051/dfas31yhgg/" data-dfa="dfas31yhgg"></a>Кроме того, в&nbsp;первоначальную стоимость основного средства включите сопутствующие расходы организации, связанные с&nbsp;получением имущества и&nbsp;доведением его до&nbsp;состояния, пригодного к&nbsp;использованию. Например, расходы на&nbsp;доставку, монтаж, услуги оценщика. Подробный перечень подобных расходов приведен в&nbsp;пункте <span num="148" target="_self" lnktype="intlnk" title="" class="doc">13</span>&nbsp;НСБУ №&nbsp;5.</p><p><a data-anchor="/document/16/219051/bssPhr11/"></a><a data-anchor="/document/16/219051/dfasvxyb45/" data-dfa="dfasvxyb45"></a><a data-anchor="/document/16/219051/dfas1d72a0/" data-dfa="dfas1d72a0"></a>В&nbsp;процессе эксплуатации основного средства его первоначальная стоимость не&nbsp;изменяется. Исключение&nbsp;— случаи достройки, дооборудования, реконструкции, модернизации, частичной ликвидации и&nbsp;переоценки основного средства. Такой порядок следует из&nbsp;пункта <span num="149" target="_self" lnktype="intlnk" title="" class="doc">24</span>&nbsp;НСБУ №&nbsp;5.</p><p><a data-anchor="/document/16/219051/bssPhr12/"></a><a data-anchor="/document/16/219051/dfasy71gqt/" data-dfa="dfasy71gqt"></a>В&nbsp;целях налогового учета первоначальная стоимость амортизируемого актива, полученного в&nbsp;качестве вклада в&nbsp;уставный фонд, определяется по&nbsp;согласованию учредителей, но&nbsp;не&nbsp;выше его рыночной стоимости, определяемой в&nbsp;соответствии со&nbsp;статьей&nbsp;299&nbsp;НК. Такой порядок следует из <span num="82" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;12</span>&nbsp;статьи&nbsp;306&nbsp;НК.</p><p><a data-anchor="/document/16/219051/bssPhr13/"></a><a data-anchor="/document/16/219051/dfast5k32e/" data-dfa="dfast5k32e"></a>Амортизируемыми активами в&nbsp;целях налогового учета признаются основные средства, учитываемые налогоплательщиком в&nbsp;качестве таковых. В&nbsp;соответствии с <span num="83" target="_self" lnktype="intlnk" title="" class="doc">частью&nbsp;1</span>&nbsp;статьи&nbsp;306&nbsp;НК.</p><p><a data-anchor="/document/16/219051/bssPhr14/"></a><a data-anchor="/document/16/219051/dfas3u6f87/" data-dfa="dfas3u6f87"></a>В&nbsp;целях налогообложения, в&nbsp;соответствии с <span num="84" target="_self" lnktype="intlnk" title="" class="doc">частью&nbsp;2</span>&nbsp;статьи&nbsp;306&nbsp;НК, основным средством признается имущество, отвечающее одновременно следующим условиям:</p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr15/"></a><a data-anchor="/document/16/219051/dfas16l41c/" data-dfa="dfas16l41c"></a>стоимостью более пятидесятикратного размера БРВ, установленной в&nbsp;Республике Узбекистан на&nbsp;дату признания в&nbsp;качестве такового за&nbsp;единицу, комплект;</li><li>находится у&nbsp;налогоплательщика на&nbsp;правах собственности, если иное не&nbsp;предусмотрено <span num="85" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;306</span>&nbsp;НК в&nbsp;редакции <span num="112" target="_self" lnktype="intlnk" title="" class="doc">Закона</span> № ЗРУ-741;</li><li>используется налогоплательщиком в&nbsp;производстве товаров, при оказании услуг или для административно-управленческих нужд в&nbsp;течение длительного времени (продолжительностью свыше двенадцати месяцев).</li></ul><p><a data-anchor="/document/16/219051/bssPhr16/"></a><a data-anchor="/document/16/219051/dfaswgpl98/" data-dfa="dfaswgpl98"></a>Для приема поступающих основных средств в&nbsp;организации можно создать комиссию, которая определяет:</p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr17/"></a><a data-anchor="/document/16/219051/dfasq4xytr/" data-dfa="dfasq4xytr"></a>соответствует&nbsp;ли основное средство техническим условиям и&nbsp;можно&nbsp;ли ввести его в&nbsp;эксплуатацию;</li><li>требуется&nbsp;ли доведение, доработка основного средства до&nbsp;состояния, пригодного к&nbsp;использованию.</li></ul><p><a data-anchor="/document/16/219051/bssPhr18/"></a><a data-anchor="/document/16/219051/dfassv2wz0/" data-dfa="dfassv2wz0"></a><a data-anchor="/document/16/219051/dfash68yi9/" data-dfa="dfash68yi9"></a><a data-anchor="/document/16/219051/dfas2fzx1v/" data-dfa="dfas2fzx1v"></a>Если в&nbsp;этом нет необходимости, то&nbsp;принимать основные средства можно силами одного ответственного сотрудника. После обследования поступившего имущества комиссия дает заключение о&nbsp;возможности его использования. Это заключение отражают в <span num="13" lnktype="intlnk" title="Акт о приеме-передаче обьекта основных средств (форма ОС-1)" class="doc">акте приема-передачи</span>.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может&nbsp;ли учредитель ООО&nbsp;внести мебель, компьютер и&nbsp;тому подобное в&nbsp;качестве вклада в&nbsp;уставный фонд</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/219051/bssPhr20/"></a><a data-anchor="/document/16/219051/dfasrfhlgg/" data-dfa="dfasrfhlgg"></a>Да, может.</p><p style="text-align:left"><a data-anchor="/document/16/219051/bssPhr21/"></a><a data-anchor="/document/16/219051/dfasfoavz4/" data-dfa="dfasfoavz4"></a>Вкладом в&nbsp;уставный фонд общества могут быть деньги, ценные бумаги, другие вещи или имущественные права либо иные отчуждаемые права, имеющие денежную оценку (<span num="68" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;15</span>&nbsp;Закона об&nbsp;ООО).</p><p style="text-align:left"><a data-anchor="/document/16/219051/bssPhr22/"></a><a data-anchor="/document/16/219051/dfasn61nih/" data-dfa="dfasn61nih"></a>Организация имеет право включить в&nbsp;состав основных средств неденежные вклады учредителей в&nbsp;уставный фонд, если материальные активы одновременно отвечают критериям, установленным учетной политикой предприятия (п. <span num="144" target="_self" lnktype="intlnk" title="" class="doc">4</span>&nbsp;НСБУ №&nbsp;5). В&nbsp;пункте <span num="145" target="_self" lnktype="intlnk" title="" class="doc">6</span>&nbsp;НСБУ №&nbsp;4&nbsp;приведен перечень материальных активов, не&nbsp;включаемых в&nbsp;состав основных средств.</p><p style="text-align:left"><a data-anchor="/document/16/219051/bssPhr23/"></a><a data-anchor="/document/16/219051/dfasgegu3s/" data-dfa="dfasgegu3s"></a>Денежную оценку неденежных вкладов в&nbsp;уставный фонд общества, вносимых участниками общества и&nbsp;принимаемыми в&nbsp;общество третьими лицами, утверждает решение общего собрания участников общества, которое принимают все участники общества единогласно.</p><p><a data-anchor="/document/16/219051/bssPhr24/"></a><a data-anchor="/document/16/219051/dfassssbt1/" data-dfa="dfassssbt1"></a>Руководитель предприятия имеет право устанавливать на&nbsp;отчетный год меньший предел стоимости предметов для их&nbsp;учета в&nbsp;составе основных средств.</p></div></div></div><a data-anchor="/document/16/219051/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/219051/bssPhr25/"></a><a data-anchor="/document/16/219051/dfasq6oub0/" data-dfa="dfasq6oub0"></a>Документальное оформление</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/219051/bssPhr27/"></a><a data-anchor="/document/16/219051/dfas7xvhu2/" data-dfa="dfas7xvhu2"></a>Получение основного средства оформите первичным документом&nbsp;— актом приема-передачи, который должен содержать <span num="16" lnktype="intlnk" title="Обязательными реквизитами первичных учетных документов являются..." class="doc">обязательные реквизиты</span>.</p><p><a data-anchor="/document/16/219051/bssPhr28/"></a><a data-anchor="/document/16/219051/dfas3s96fd/" data-dfa="dfas3s96fd"></a><a data-anchor="/document/16/219051/dfasyiazyp/" data-dfa="dfasyiazyp"></a>Законодательством не&nbsp;утверждена форма акта приема-передачи, поэтому этот документ составьте на&nbsp;основе типовых форм или&nbsp;же самостоятельно разработанных. Главное, чтобы в&nbsp;них были все необходимые реквизиты. Типовые формы не&nbsp;запрещены к&nbsp;применению. Типовой бланк акта приема-передачи для основных средств&nbsp;— <span num="18" lnktype="intlnk" title="Акт о приеме-передаче обьекта основных средств (форма ОС-1)" class="doc">форма ОС-1</span>.</p><p><a data-anchor="/document/16/219051/bssPhr29/"></a><a data-anchor="/document/16/219051/dfass5rdyu/" data-dfa="dfass5rdyu"></a><a data-anchor="/document/16/219051/dfasnmk72t/" data-dfa="dfasnmk72t"></a>Какую&nbsp;бы форму вы&nbsp;ни&nbsp;использовали&nbsp;— типовую или самостоятельно разработанную, она должна быть утверждена как приложение к&nbsp;учетной политике для целей бухучета. Акт заполните в&nbsp;момент получения основных средств.</p><p><a data-anchor="/document/16/219051/bssPhr30/"></a><a data-anchor="/document/16/219051/dfas8v1ct4/" data-dfa="dfas8v1ct4"></a>Если учредитель учитывал вносимое имущество как основное средство, акт по&nbsp;форме ОС-1 составьте так&nbsp;же, как и&nbsp;при <span num="20" lnktype="intlnk" title="Как оформить и отразить в бухучете приобретение основных средств за плату" class="doc">поступлении основных средств за&nbsp;плату</span>. При этом в&nbsp;качестве передающей стороны будет выступать учредитель, а&nbsp;в&nbsp;качестве принимающей&nbsp;— организация. <span num="22" lnktype="intlnk" title="Поставщик учитывал продаваемое имущество как товар" class="doc">Порядок заполнения акта</span> для основных средств, приобретенных за&nbsp;плату, применяйте и&nbsp;в&nbsp;том случае, когда учредитель учитывал вносимое имущество как товар.</p><p><a data-anchor="/document/16/219051/bssPhr31/"></a><a data-anchor="/document/16/219051/dfasmtl2p2/" data-dfa="dfasmtl2p2"></a>В&nbsp;любом случае в&nbsp;акте укажите:</p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr32/"></a><a data-anchor="/document/16/219051/dfasouuhy2/" data-dfa="dfasouuhy2"></a>номер и&nbsp;дату составления акта;</li><li>полное наименование основного средства согласно технической документации;</li><li>название организации-изготовителя;</li><li>место приемки основного средства;</li><li>заводской и&nbsp;присвоенный инвентарный номер основного средства;</li><li>номер амортизационной группы и&nbsp;срок полезного использования основного средства;</li><li>другие характеристики основного средства.</li></ul><p><a data-anchor="/document/16/219051/bssPhr33/"></a><a data-anchor="/document/16/219051/dfasr55p0z/" data-dfa="dfasr55p0z"></a>Кроме того, акт должен содержать заключение приемочной комиссии, например, запись «Можно эксплуатировать». Оформленный акт утверждает руководитель организации.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/219051/dfasimk4av/" data-dfa="dfasimk4av"></a><a data-anchor="/document/16/219051/bssPhr34/"></a>При передаче в&nbsp;качестве вклада в&nbsp;УФ недвижимости или автотранспорта, право собственности на&nbsp;них переходит к&nbsp;получателю только после госрегистрации сделки</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/219051/bssPhr35/"></a><a data-anchor="/document/16/219051/dfasehka33/" data-dfa="dfasehka33"></a>Расходы по&nbsp;регистрации в&nbsp;этом случае включайте в&nbsp;первоначальную стоимость объекта.</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/219051/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/219051/bssPhr36/"></a><a data-anchor="/document/16/219051/dfash8vgt4/" data-dfa="dfash8vgt4"></a>Бухучет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/219051/bssPhr38/"></a><a data-anchor="/document/16/219051/dfas6uyws7/" data-dfa="dfas6uyws7"></a>В&nbsp;бухучете затраты, связанные с&nbsp;поступлением основных средств в&nbsp;качестве вклада в&nbsp;уставный капитал, отражайте на&nbsp;счете <strong>0820 «Приобретение основных средств»</strong>. Принятие основных средств к&nbsp;учету отражайте на&nbsp;счетах группы <strong>0100 «Основные средства»</strong>:</p><p><a data-anchor="/document/16/219051/bssPhr39/"></a><a data-anchor="/document/16/219051/dfas9x7xn7/" data-dfa="dfas9x7xn7"></a><strong>Дебет 4610 Кредит 8330</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr40/"></a><a data-anchor="/document/16/219051/dfas4f29xw/" data-dfa="dfas4f29xw"></a>отражена задолженность учредителя по&nbsp;вкладу в&nbsp;уставный фонд;</li></ul><p><a data-anchor="/document/16/219051/bssPhr41/"></a><a data-anchor="/document/16/219051/dfass0kssd/" data-dfa="dfass0kssd"></a><strong>Дебет 0820 Кредит 4610</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr42/"></a><a data-anchor="/document/16/219051/dfas6hg4k3/" data-dfa="dfas6hg4k3"></a>отражена стоимость поступившего в&nbsp;качестве вклада в&nbsp;уставный капитал основного средства;</li></ul><p><a data-anchor="/document/16/219051/bssPhr43/"></a><a data-anchor="/document/16/219051/dfassscnvv/" data-dfa="dfassscnvv"></a><strong>Дебет 0820 Кредит 6990, 6710, 6500</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr44/"></a><a data-anchor="/document/16/219051/dfasoyi640/" data-dfa="dfasoyi640"></a>отражены затраты на&nbsp;доведение имущества, полученного в&nbsp;качестве вклада в&nbsp;уставный капитал, до&nbsp;пригодного к&nbsp;использованию состояния;</li></ul><p><a data-anchor="/document/16/219051/bssPhr45/"></a><a data-anchor="/document/16/219051/dfasi18axw/" data-dfa="dfasi18axw"></a><strong>Дебет 4410 Кредит 4610</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr46/"></a><a data-anchor="/document/16/219051/dfashqhv5f/" data-dfa="dfashqhv5f"></a>у&nbsp;плательщиков НДС отражен налог по&nbsp;поступившим в&nbsp;уставный фонд основным средствам;</li></ul><p><a data-anchor="/document/16/219051/bssPhr47/"></a><a data-anchor="/document/16/219051/dfasvzyh9a/" data-dfa="dfasvzyh9a"></a><strong>Дебет 6410 Кредит 4410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr48/"></a><a data-anchor="/document/16/219051/dfasfqor95/" data-dfa="dfasfqor95"></a>отражен зачет НДС, у&nbsp;плательщиков налога;</li></ul><p><a data-anchor="/document/16/219051/bssPhr49/"></a><a data-anchor="/document/16/219051/dfasknfzcy/" data-dfa="dfasknfzcy"></a><strong>Дебет 0100 Кредит 0820</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr50/"></a><a data-anchor="/document/16/219051/dfasb874ud/" data-dfa="dfasb874ud"></a>принято к&nbsp;учету и&nbsp;введено в&nbsp;эксплуатацию основное средство по&nbsp;первоначальной стоимости.</li></ul><p><a data-anchor="/document/16/219051/bssPhr51/"></a><a data-anchor="/document/16/219051/dfask8993q/" data-dfa="dfask8993q"></a><a data-anchor="/document/16/219051/dfasa8af3e/" data-dfa="dfasa8af3e"></a>Если основное средство не&nbsp;вводите в&nbsp;эксплуатацию и&nbsp;будете его использовать позже, то&nbsp;тогда такую проводку не&nbsp;делайте. Поступившие в&nbsp;качестве вклада в&nbsp;УФ объекты основных средств подлежат амортизации.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно&nbsp;ли в&nbsp;бухучете стоимость компьютера, полученного от&nbsp;учредителя в&nbsp;качестве вклада в&nbsp;УФ учитывать в&nbsp;составе ОС? Стоимость компьютера более 30 БРВ</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/219051/bssPhr53/"></a><a data-anchor="/document/16/219051/dfas5r4sxe/" data-dfa="dfas5r4sxe"></a>Да, можно.</p><p><a data-anchor="/document/16/219051/bssPhr54/"></a><a data-anchor="/document/16/219051/dfastm4lm9/" data-dfa="dfastm4lm9"></a>Если в&nbsp;учетной политике предусмотрено, что объекты стоимостью более 30-кратного размера БРВ учитываются в&nbsp;составе основных средств, то&nbsp;компьютер должен учитываться в&nbsp;составе основных средств.</p><p><a data-anchor="/document/16/219051/bssPhr55/"></a><a data-anchor="/document/16/219051/dfasos32lq/" data-dfa="dfasos32lq"></a>Руководитель организации вправе установить в учетной политике критерии для учета активов в составе основных средств, а также классификацию основных средств по группам (п. <span num="146" target="_self" lnktype="intlnk" title="" class="doc">4</span> НСБУ № 5).</p></div></div></div><a data-anchor="/document/16/219051/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/219051/bssPhr56/"></a><a data-anchor="/document/16/219051/dfasg3v8og/" data-dfa="dfasg3v8og"></a>Налогообложение</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/219051/bssPhr58/"></a><a data-anchor="/document/16/219051/dfasm094v4/" data-dfa="dfasm094v4"></a>При получении в&nbsp;качестве вклада в&nbsp;уставный фонд основных средств, объектов недвижимости, в&nbsp;том числе объектов незавершенного строительства, плательщики НДС принимают к&nbsp;зачету сумму налога единовременно в&nbsp;полном объеме (<span num="33" target="_self" lnktype="intlnk" title="В случае осуществления экспорта товаров, облагаемых по нулевой ставке через комиссионера, поверенного по договору комиссии, поручения налог принимается к зачету в доле от суммы валютной..." class="doc">ч.&nbsp;3</span>, <span num="35" target="_self" lnktype="intlnk" title="Индивидуальные предприниматели и юридические лица Республики Узбекистан, оказывающие услуги, местом реализации которых не признается территория Республики Узбекистан, имеют право..." class="doc">4</span>&nbsp;ст.&nbsp;266&nbsp;НК).</p><a data-anchor="/document/16/219051/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/219051/bssPhr59/"></a><a data-anchor="/document/16/219051/dfas3y5g5m/" data-dfa="dfas3y5g5m"></a>НДС</h3><p><a data-anchor="/document/16/219051/bssPhr60/"></a><a data-anchor="/document/16/219051/dfasq4330r/" data-dfa="dfasq4330r"></a>Зачет НДС производите только, если предприятие и&nbsp;учредитель, передающий основное средство, поставлены в&nbsp;установленном порядке на&nbsp;специальный регистрационный учет в&nbsp;налоговых органах в&nbsp;качестве плательщиков НДС и&nbsp;имеют действующее свидетельство о&nbsp;постановке на&nbsp;учет (<span num="77" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>, <span num="78" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;5</span>&nbsp;Положения «О&nbsp;порядке специального регистрационного учета плательщиков налога на&nbsp;добавленную стоимость в&nbsp;налоговых органах», утв. постановлением Кабмина от&nbsp;22.09.2021 №&nbsp;595).</p><p><a data-anchor="/document/16/219051/bssPhr61/"></a><a data-anchor="/document/16/219051/dfass150ha/" data-dfa="dfass150ha"></a>При приостановлении действия свидетельства, суммы НДС, отнесенные в&nbsp;зачет по&nbsp;фактически полученным основным средствам до&nbsp;вынесения налоговым органом решения о&nbsp;приостановлении, не&nbsp;подлежат корректировке (<span num="106" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;34</span>&nbsp;Положения №&nbsp;595).</p><p><a data-anchor="/document/16/219051/bssPhr62/"></a><a data-anchor="/document/16/219051/dfashlmxlk/" data-dfa="dfashlmxlk"></a>С&nbsp;1&nbsp;января 2023 года сумма НДС, уплаченная учредителем при взносе вклада и&nbsp;не&nbsp;принятая предприятием к&nbsp;зачету в&nbsp;связи с&nbsp;приостановлением действия свидетельства, в&nbsp;случае возобновления его действия подлежит отнесению в&nbsp;зачет (корректировке) (<span num="107" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;266-1</span>&nbsp;НК).</p><p><a data-anchor="/document/16/219051/bssPhr63/"></a><a data-anchor="/document/16/219051/dfasm31c2b/" data-dfa="dfasm31c2b"></a>НДС не&nbsp;принимайте к&nbsp;зачету при получении в&nbsp;качестве вклада в&nbsp;уставный фонд:</p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr64/"></a><a data-anchor="/document/16/219051/dfasohbvvh/" data-dfa="dfasohbvvh"></a>основных средств, объектов недвижимости, предназначенных для производства и&nbsp;реализации товаров, оказания услуг, обороты по&nbsp;реализации которых освобождены от&nbsp;НДС (<span num="39" target="_self" lnktype="intlnk" title="приобретения (ввоза) основных средств, объектов недвижимости и нематериальных активов, предназначенных для производства и (или) реализации товаров (оказания услуг), обороты по реализации..." class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;267&nbsp;НК);</li><li>легковых автомобилей, мотоциклов, вертолетов, моторных лодок, самолетов, а&nbsp;также иных видов моторных средств, если их&nbsp;приобретение не&nbsp;связано с&nbsp;осуществляемым видом деятельности (<span num="41" target="_self" lnktype="intlnk" title="легковые автомобили, мотоциклы, вертолеты, моторные лодки, самолеты, а также иные виды моторных средств и топливо для них..." class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;267&nbsp;НК)</li></ul><p><a data-anchor="/document/16/219051/bssPhr65/"></a><a data-anchor="/document/16/219051/dfasm16i4g/" data-dfa="dfasm16i4g"></a>Сумму НДС, не&nbsp;подлежащую зачету, учитывайте в&nbsp;стоимости поступивших основных средств, если иное не&nbsp;предусмотрено статьями <span num="79" target="_self" lnktype="intlnk" title="" class="doc">268</span>, <span num="80" target="_self" lnktype="intlnk" title="" class="doc">269</span>, <span num="81" target="_self" lnktype="intlnk" title="" class="doc">270</span>&nbsp;НК.</p><a data-anchor="/document/16/219051/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/219051/bssPhr66/"></a><a data-anchor="/document/16/219051/dfas4w4mk2/" data-dfa="dfas4w4mk2"></a>Налог на&nbsp;прибыль и&nbsp;налог с&nbsp;оборота</h3><p><a data-anchor="/document/16/219051/bssPhr67/"></a><a data-anchor="/document/16/219051/dfas5al6gz/" data-dfa="dfas5al6gz"></a>Не&nbsp;учитываются в&nbsp;качестве дохода налогоплательщика при расчете налога на&nbsp;прибыль и&nbsp;налога с&nbsp;оборота:</p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr68/"></a><a data-anchor="/document/16/219051/dfasqz4hea/" data-dfa="dfasqz4hea"></a>средства, полученные в&nbsp;качестве вклада в&nbsp;уставный фонд, уставный капитал;</li><li>сумма превышения цены размещения акций, долей над их&nbsp;номинальной стоимостью, первоначальным размером.</li></ul><p><a data-anchor="/document/16/219051/bssPhr69/"></a><a data-anchor="/document/16/219051/dfasq0zli5/" data-dfa="dfasq0zli5"></a>Это определено в <span num="47" target="_self" lnktype="intlnk" title="средства, полученные в виде вклада в уставный фонд (уставный капитал)..." class="doc">пунктах&nbsp;1</span>, <span num="49" target="_self" lnktype="intlnk" title="сумма превышения цены размещения акций (долей) над их номинальной стоимостью (первоначальным размером)..." class="doc">2</span>&nbsp;статьи&nbsp;304 и <span num="51" target="_self" lnktype="intlnk" title="Объектом налогообложения является совокупный доход, определяемый в соответствии с главой&nbsp;43 настоящего Кодекса, за исключением доходов, не учитываемых при налогообложении в соответствии..." class="doc">части&nbsp;1</span>&nbsp;статьи&nbsp;463&nbsp;НК.</p><a data-anchor="/document/16/219051/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/219051/bssPhr70/"></a><a data-anchor="/document/16/219051/dfas22g48r/" data-dfa="dfas22g48r"></a>Налог на&nbsp;имущество</h3><p><a data-anchor="/document/16/219051/bssPhr71/"></a><a data-anchor="/document/16/219051/dfashy0kfk/" data-dfa="dfashy0kfk"></a>Налогом на&nbsp;имущество облагается только <span num="53" lnktype="intlnk" title="" class="doc">недвижимое имущество</span> (<span num="55" target="_self" lnktype="intlnk" title="Объектом налогообложения налога на имущество юридических лиц (далее в настоящей главе – налог) является недвижимое имущество." class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;411&nbsp;НК).<span num="57" lnktype="intlnk" title="Кто платит налог с оборота" class="doc">Предприятия&nbsp;— плательщики налога с&nbsp;оборота</span> платят налог на&nbsp;имущество в&nbsp;общеустановленном порядке при наличии объектов налогообложения.</p><p><a data-anchor="/document/16/219051/bssPhr72/"></a><a data-anchor="/document/16/219051/dfasgi7l6l/" data-dfa="dfasgi7l6l"></a>Подробнее о&nbsp;том, <span num="59" target="_self" lnktype="intlnk" title="Кто платит налог на имущество юридических лиц" class="doc">кто платит налог на&nbsp;имущество юридических лиц</span> читайте в&nbsp;рекомендации от&nbsp;эксперта Системы Главбух.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/219051/dfasivxflc/" data-dfa="dfasivxflc"></a><a data-anchor="/document/16/219051/bssPhr73/"></a>Отражения в&nbsp;бухучете и&nbsp;при налогообложении основных средств, поступивших от&nbsp;учредителя в&nbsp;качестве вклада в&nbsp;уставный капитал</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/219051/bssPhr74/"></a><a data-anchor="/document/16/219051/dfaslq03gw/" data-dfa="dfaslq03gw"></a>ООО «Альфа»&nbsp;— один из&nbsp;учредителей ООО «Мастер» внесло в&nbsp;качестве вклада в&nbsp;уставный капитал станок. ООО «Альфа»&nbsp;— <span num="61" lnktype="intlnk" title="Неплательщики НДС" class="doc">неплательщик НДС</span>. На&nbsp;дату передачи стоимость станка, согласованная учредителями, составила 20&nbsp;000&nbsp;000&nbsp;сумов. В&nbsp;учетной политике ООО «Мастер» закреплено, что объекты стоимостью более 50-кратного размера БРВ учитываются в&nbsp;составе основных средств. БРВ на&nbsp;момент передачи станка составляет 412&nbsp;000&nbsp;сумов. Передаваемый станок соответствует критериям отнесения его к&nbsp;объектам основных средств 412&nbsp;000 × 50 = 20&nbsp;600&nbsp;000&nbsp;сумов. Монтаж станка произведен силами ООО «Мастер». Зарплата рабочих с&nbsp;учетом социального налога составила 3&nbsp;920&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/219051/bssPhr75/"></a><a data-anchor="/document/16/219051/dfasvbb8to/" data-dfa="dfasvbb8to"></a>В&nbsp;учете ООО «Мастер» бухгалтер сделал записи.</p><p><a data-anchor="/document/16/219051/bssPhr76/"></a><a data-anchor="/document/16/219051/dfas89pwtg/" data-dfa="dfas89pwtg"></a><strong>Дебет 4610 Кредит 8330</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr77/"></a><a data-anchor="/document/16/219051/dfaslawrl1/" data-dfa="dfaslawrl1"></a>20&nbsp;000&nbsp;000 сумов&nbsp;— отражена задолженность учредителя по&nbsp;вкладу в&nbsp;уставный капитал;</li></ul><p><a data-anchor="/document/16/219051/bssPhr78/"></a><a data-anchor="/document/16/219051/dfascpg2cf/" data-dfa="dfascpg2cf"></a><strong>Дебет 0820 Кредит 4610</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr79/"></a><a data-anchor="/document/16/219051/dfasg2cns1/" data-dfa="dfasg2cns1"></a>20&nbsp;000&nbsp;000 сумов&nbsp;— отражено поступление вклада в&nbsp;виде станка;</li></ul><p><a data-anchor="/document/16/219051/bssPhr80/"></a><a data-anchor="/document/16/219051/dfasly7f9e/" data-dfa="dfasly7f9e"></a><strong>Дебет 0820 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr81/"></a><a data-anchor="/document/16/219051/dfase35nat/" data-dfa="dfase35nat"></a>3&nbsp;500&nbsp;000 сумов&nbsp;— учтены расходы по&nbsp;монтажу станка&nbsp;— начислена заработная плата рабочих;</li></ul><p><a data-anchor="/document/16/219051/bssPhr82/"></a><a data-anchor="/document/16/219051/dfas23nzli/" data-dfa="dfas23nzli"></a><strong>Дебет 0820 Кредит 6500</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr83/"></a><a data-anchor="/document/16/219051/dfas6m61ab/" data-dfa="dfas6m61ab"></a>420&nbsp;000 сумов&nbsp;— учтены расходы по&nbsp;монтажу станка&nbsp;— исчислен социальный налог с&nbsp;заработной платы рабочих;</li></ul><p><a data-anchor="/document/16/219051/bssPhr84/"></a><a data-anchor="/document/16/219051/dfas8n127l/" data-dfa="dfas8n127l"></a><strong>Дебет 0130 Кредит 0820</strong></p><ul class="c-list"><li><a data-anchor="/document/16/219051/bssPhr85/"></a><a data-anchor="/document/16/219051/dfase4kqss/" data-dfa="dfase4kqss"></a>23&nbsp;920&nbsp;000 сумов (20&nbsp;000&nbsp;000 + 3&nbsp;500&nbsp;000 + 420&nbsp;000)&nbsp;— отражен ввод в&nbsp;эксплуатацию станка.</li></ul></div></div></div><p><a data-anchor="/document/16/219051/dfasouzlqw/" data-dfa="dfasouzlqw"></a><a data-anchor="/document/16/219051/bssPhr86/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882021" sourceId="1" fullSizeImageId="-41882020" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882021/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

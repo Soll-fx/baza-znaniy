@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как перечислить в бюджет акцизный налог при производстве подакцизных товаров</h2><div class="doc-snippet"><a data-anchor="/document/16/211826/dfaseo9qth/" data-dfa="dfaseo9qth"></a><a data-anchor="/document/16/211826/bssPhr2/"></a>Из&nbsp;рекомендации узнаете когда и&nbsp;куда предоставлять расчет акцизного налога. Когда и&nbsp;каким способом платить акцизный налог объяснили эксперты Системы Главбух. Получите пошаговую инструкцию как оплатить акцизный налог через сайт ГНК. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211826/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211826/bssPhr3/"></a><a data-anchor="/document/16/211826/dfasnlgi4v/" data-dfa="dfasnlgi4v"></a>Дата совершения налогооблагаемых операций с&nbsp;подакцизными товарами или услугами</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211826/bssPhr5/"></a><a data-anchor="/document/16/211826/dfashglmsh/" data-dfa="dfashglmsh"></a>Даты совершения операций с&nbsp;подакцизными товарами, услугами определяются в&nbsp;соответствии со <span num="24" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;242</span>&nbsp;НК (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;286&nbsp;НК).</p><p><a data-anchor="/document/16/211826/bssPhr6/"></a><a data-anchor="/document/16/211826/dfasffxrm9/" data-dfa="dfasffxrm9"></a><a data-anchor="/document/16/211826/dfaswaporo/" data-dfa="dfaswaporo"></a>То&nbsp;есть, датами совершения операций с&nbsp;производимыми подакцизными товарами, услугами являются те&nbsp;же даты, что и&nbsp;при совершении оборота по&nbsp;реализации товаров, услуг:</p><ul class="c-list"><li><a data-anchor="/document/16/211826/bssPhr7/"></a><a data-anchor="/document/16/211826/dfasces68m/" data-dfa="dfasces68m"></a>дата выставления поставщиком счета-фактуры;</li><li>дата отгрузки, передачи товаров, если указанная дата предшествует дате выставления счета-фактуры;</li><li>дата передачи права собственности на&nbsp;товар покупателю, если отгрузка, передача товара не&nbsp;осуществляется;</li><li>дата оформления, подписания счета-фактуры или иного документа, подтверждающего факт оказания услуг;</li><li>дата передачи подакцизных товаров, оказания услуг для собственных нужд на&nbsp;основании соответствующего внутреннего документа.</li></ul><p><a data-anchor="/document/16/211826/bssPhr8/"></a><a data-anchor="/document/16/211826/dfas2w5i71/" data-dfa="dfas2w5i71"></a>При передаче заложенных подакцизных товаров залогодателем датой совершения оборота по&nbsp;реализации для залогодателя является дата перехода права собственности на&nbsp;предмет залога.</p><p><a data-anchor="/document/16/211826/bssPhr9/"></a><a data-anchor="/document/16/211826/dfasa84wqu/" data-dfa="dfasa84wqu"></a>При реализации подакцизных товаров по&nbsp;договору комиссии или поручения датой реализации признается дата ее&nbsp;реализации комиссионером, поверенным конечному покупателю.</p><p><a data-anchor="/document/16/211826/bssPhr10/"></a><a data-anchor="/document/16/211826/dfas0hozu0/" data-dfa="dfas0hozu0"></a>Если дата выставления счета-фактуры не&nbsp;соответствует дате отгрузки подакцизного товара, датой совершения операций с&nbsp;подакцизными товарами признают дату передачи права собственности на&nbsp;подакцизный товар.</p><p><a data-anchor="/document/16/211826/bssPhr11/"></a><a data-anchor="/document/16/211826/dfas2ukvm5/" data-dfa="dfas2ukvm5"></a>С&nbsp;определенного рода подакцизными товарами или услугами&nbsp;— газ или услуги связи, датой совершения налогооблагаемых операций считают последний день календарного месяца, в&nbsp;котором поставлены товары или оказаны услуги.</p></div><a data-anchor="/document/16/211826/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211826/bssPhr12/"></a><a data-anchor="/document/16/211826/dfas9uzkhg/" data-dfa="dfas9uzkhg"></a>Предоставление расчета акцизного налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211826/bssPhr14/"></a><a data-anchor="/document/16/211826/dfasmgt28w/" data-dfa="dfasmgt28w"></a>Налогоплательщики обязаны предоставить налоговую отчетность по&nbsp;месту налогового учета ежемесячно не&nbsp;позднее 10&nbsp;числа месяца, следующего за&nbsp;налоговым периодом (<span num="26" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;292&nbsp;НК</span>).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211826/dfaseozmw9/" data-dfa="dfaseozmw9"></a><a data-anchor="/document/16/211826/bssPhr15/"></a>Юрлица, реализующие бензин, дизельное топливо и&nbsp;газ через автозаправочные станции, представляют налоговую отчетность по&nbsp;акцизному налогу в&nbsp;налоговые органы по&nbsp;месту нахождения автозаправочных станций</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211826/bssPhr16/"></a><a data-anchor="/document/16/211826/dfasras6rp/" data-dfa="dfasras6rp"></a>Остальные налогоплательщики представляют налоговую отчетность по&nbsp;акцизному налогу по&nbsp;месту налогового учета (<span num="27" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;292</span>&nbsp;НК).</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211826/bssPhr17/"></a><a data-anchor="/document/16/211826/dfaswlo18i/" data-dfa="dfaswlo18i"></a>Предоставляйте расчет акцизного налога через персональный кабинет на&nbsp;официальном <a href="https://soliq.uz/?lang=ru" target="_self" title="">сайте ГНК</a>.</p><p><a data-anchor="/document/16/211826/bssPhr18/"></a><a data-anchor="/document/16/211826/dfas724g52/" data-dfa="dfas724g52"></a>Для этого зайдите в&nbsp;персональный кабинет. Выберите в&nbsp;разделе «Услуги» опцию «Отправка отчетности юридических лиц»:</p><img alt="" hideborder="false" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/211826/bssPhr19/"></a><a data-anchor="/document/16/211826/dfas4gg2zm/" data-dfa="dfas4gg2zm"></a>Перейдите во&nbsp;вкладку «Электронные формы» и&nbsp;выберите код 108 «Акцизный налог»:</p><img alt="" hideborder="false" class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/211826/bssPhr20/"></a><a data-anchor="/document/16/211826/dfas9fcd0a/" data-dfa="dfas9fcd0a"></a>В&nbsp;этом разделе выберите действующую форму расчета акцизного налога исходя из&nbsp;вида ставок или объекта налогообложения.</p><img alt="" hideborder="false" class="inimg" num="3" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/211826/bssPhr21/"></a><a data-anchor="/document/16/211826/dfaswnaq7b/" data-dfa="dfaswnaq7b"></a>Например, если акцизный налог уплачивается по&nbsp;природному газу, выберите форму «Расчет акцизного налога по&nbsp;природному газу» и&nbsp;заполните электронную форму налоговой отчетности на&nbsp;основе произведенных расчетов.</p><p><a data-anchor="/document/16/211826/bssPhr22/"></a><a data-anchor="/document/16/211826/dfasmhgnsi/" data-dfa="dfasmhgnsi"></a>За&nbsp;несвоевременное представление налоговой отчетности должностное лицо налогоплательщика&nbsp;— юридического лица привлекается к&nbsp;административной ответственности (<span num="28" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;220</span>&nbsp;НК). Размер штрафа составляет 10&nbsp;БРВ (<span num="29" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;175&nbsp;КоАО).</p></div><a data-anchor="/document/16/211826/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211826/bssPhr23/"></a><a data-anchor="/document/16/211826/dfas7vtghs/" data-dfa="dfas7vtghs"></a>Срок и&nbsp;порядок уплаты акцизного налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211826/bssPhr25/"></a><a data-anchor="/document/16/211826/dfas2f7yq2/" data-dfa="dfas2f7yq2"></a>Акцизный налог уплачивайте не&nbsp;позднее срока предоставления налоговой отчетности, то&nbsp;есть не&nbsp;позднее 10&nbsp;числа месяца, следующего за&nbsp;налоговым периодом (<span num="16" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;293</span>&nbsp;НК).</p><p><a data-anchor="/document/16/211826/bssPhr26/"></a><a data-anchor="/document/16/211826/dfasgouslv/" data-dfa="dfasgouslv"></a>Предприятия, осуществляющие реализацию конечным потребителям бензина, дизельного топлива и&nbsp;газа производят уплату акцизного налога по&nbsp;месту нахождения автозаправочной станции (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;131</span>&nbsp;НК).</p><p><a data-anchor="/document/16/211826/bssPhr27/"></a><a data-anchor="/document/16/211826/dfas7pogki/" data-dfa="dfas7pogki"></a>Остальные предприятия производят уплату акцизного налога по&nbsp;месту налогового учета (<span num="32" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;293</span>&nbsp;НК).</p><p><a data-anchor="/document/16/211826/bssPhr28/"></a><a data-anchor="/document/16/211826/dfas72a6cf/" data-dfa="dfas72a6cf"></a>Платеж акцизного налога в&nbsp;бюджет можно произвести тремя способами:</p><ul class="c-list"><li><a data-anchor="/document/16/211826/bssPhr29/"></a><a data-anchor="/document/16/211826/dfask7kaul/" data-dfa="dfask7kaul"></a>через официальный <a href="https://soliq.uz/?lang=ru" target="_self" title="">сайт ГНК</a>;</li><li>с&nbsp;использованием системы «Банк-Клиент»;</li><li>передать в&nbsp;банк нарочно соответствующее платежное поручение.</li></ul><p><a data-anchor="/document/16/211826/bssPhr30/"></a><a data-anchor="/document/16/211826/dfasgwbgut/" data-dfa="dfasgwbgut"></a>Платежное поручение на&nbsp;уплату налога должно быть представлено в&nbsp;банк даже при отсутствии или недостаточности денежных средств на&nbsp;счете предприятия. При недостаточности средств на&nbsp;счете платежное поручение помещается в&nbsp;картотеку №&nbsp;2&nbsp;и&nbsp;оплачивается по&nbsp;мере поступления денежных средств.</p><p><a data-anchor="/document/16/211826/bssPhr31/"></a><a data-anchor="/document/16/211826/dfaso0qvge/" data-dfa="dfaso0qvge"></a>За&nbsp;непредставление или несвоевременное представление в&nbsp;банк платежного поручения на&nbsp;уплату налогов и&nbsp;сборов на&nbsp;должностных лиц предприятия налагается штраф в&nbsp;размере 5&nbsp;БРВ (<span num="33" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>&nbsp;ст.&nbsp;175&nbsp;КоАО). При взыскании задолженности по&nbsp;налогу налоговый орган выставляет инкассовое поручение в&nbsp;обслуживающий банк должника (<span num="34" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;65</span>&nbsp;Положения, рег.&nbsp;от&nbsp;13.04.2020 №&nbsp;3229).</p><p><a data-anchor="/document/16/211826/bssPhr32/"></a><a data-anchor="/document/16/211826/dfaslpbf1f/" data-dfa="dfaslpbf1f"></a>С&nbsp;1&nbsp;января 2022&nbsp;года, в&nbsp;случае неуплаты задолженности по&nbsp;налогу, налоговые органы направляют в&nbsp;банк распоряжение о&nbsp;замораживании денежных средств на&nbsp;счетах плательщика в&nbsp;размере, равном сумме задолженности. В&nbsp;последующем производится их&nbsp;взыскание по&nbsp;истечении 30&nbsp;календарных дней с&nbsp;уведомлением об&nbsp;этом плательщика. При обжаловании плательщиком данного распоряжения в&nbsp;суд в&nbsp;течение 30&nbsp;календарных дней с&nbsp;момента получения уведомления списание либо не&nbsp;списание денежных средств со&nbsp;счетов клиента осуществляется в&nbsp;соответствии с&nbsp;решением суда (<span num="35" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3&nbsp;г)</span> Указа Президента Республики Узбекистан от&nbsp;14.09.2021 № УП-6313).</p><p><a data-anchor="/document/16/211826/bssPhr33/"></a><a data-anchor="/document/16/211826/dfasfmh2nh/" data-dfa="dfasfmh2nh"></a>Плательщикам акцизного налога может быть предоставлена отсрочка или рассрочка по&nbsp;уплате налога, в&nbsp;соответствии с&nbsp;порядком, предусмотренным в <span num="44" target="_self" lnktype="intlnk" title="" class="doc">главе&nbsp;11</span>&nbsp;НК.</p></div><a data-anchor="/document/16/211826/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211826/bssPhr34/"></a><a data-anchor="/document/16/211826/dfasgh5tqm/" data-dfa="dfasgh5tqm"></a>Оплата акцизного налога через сайт ГНК</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211826/bssPhr36/"></a><a data-anchor="/document/16/211826/dfashtnuhr/" data-dfa="dfashtnuhr"></a>Зайдите в&nbsp;персональный кабинет налогоплательщика. В&nbsp;разделе «Услуги» выберите опцию «Оплата налогов юридических лиц».</p><img alt="" hideborder="false" class="inimg" num="4" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/211826/bssPhr37/"></a><a data-anchor="/document/16/211826/dfasfnboln/" data-dfa="dfasfnboln"></a>Затем в&nbsp;разделе «Оплата налогов юридических лиц» выберите опцию «Формирование платежного поручения».</p><img alt="" hideborder="false" class="inimg" num="5" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/211826/bssPhr38/"></a><a data-anchor="/document/16/211826/dfaswzg05n/" data-dfa="dfaswzg05n"></a>После того как вы&nbsp;выбрали вид налога, сайт автоматически выдает полные реквизиты для проведения налоговых платежей. Проведение платежа через сайт минимизирует риск механической ошибки.</p></div><p><a data-anchor="/document/16/211826/dfasudbp5g/" data-dfa="dfasudbp5g"></a><a data-anchor="/document/16/211826/bssPhr39/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/211826/dfas80o51s/" data-dfa="dfas80o51s"></a><a data-anchor="/document/16/211826/bssPhr40/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

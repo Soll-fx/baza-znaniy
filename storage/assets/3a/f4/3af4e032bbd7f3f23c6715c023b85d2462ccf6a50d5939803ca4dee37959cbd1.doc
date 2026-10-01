@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как разработать и заключить коллективное соглашение </h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулчехра&nbsp;Юсупханова,&nbsp;Главный редактор Системы Кадры, юрист</p></td></tr></table><div class="doc-snippet"><p><a data-anchor="/document/16/211069/dfas0f3gwb/" data-dfa="dfas0f3gwb"></a><a data-anchor="/document/16/211069/bssPhr4/"></a>Коллективное соглашение урегулирует трудовые споры. Чтобы заключить коллективное соглашение, его нужно сначала разработать и согласовать с ответственными лицами, а затем утвердить и ознакомить с ним работников.</p></div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211069/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211069/bssPhr5/"></a><a data-anchor="/document/16/211069/dfastmee3y/" data-dfa="dfastmee3y"></a>Коллективное соглашение</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211069/bssPhr7/"></a><a data-anchor="/document/16/211069/dfasw0hgfu/" data-dfa="dfasw0hgfu"></a><span num="33" target="_self" lnktype="intlnk" title="" class="doc">Коллективное соглашение</span> – это нормативно-правовой акт, регулирующий трудовые и связанные с ними отношения по установлению условий труда, занятости и социальных гарантий для работников на территориальном, отраслевом и республиканском уровнях (<span num="59" target="_self" lnktype="intlnk" title="" class="doc">ст. 42 ТК</span>).</p><p><a data-anchor="/document/16/211069/bssPhr8/"></a><a data-anchor="/document/16/211069/dfas0wfaq4/" data-dfa="dfas0wfaq4"></a>Содержание коллективных соглашений определяется сторонами между полномочными представителями работников, работодателей и, в некоторых случаях, органами исполнительной власти (<span num="60" target="_self" lnktype="intlnk" title="" class="doc">ст. 85 ТК</span>).</p><p><a data-anchor="/document/16/211069/bssPhr9/"></a><a data-anchor="/document/16/211069/dfasoa35mc/" data-dfa="dfasoa35mc"></a>Действие <span num="34" target="_self" lnktype="intlnk" title="" class="doc">коллективного соглашения</span> распространяется на работников и работодателей, представительные органы которых заключили это соглашение. При заключении трехстороннего соглашения его действие распространяется также на соответствующий орган исполнительной власти.</p><p><a data-anchor="/document/16/211069/bssPhr10/"></a><a data-anchor="/document/16/211069/dfasu98qwa/" data-dfa="dfasu98qwa"></a><span num="35" target="_self" lnktype="intlnk" title="" class="doc">Генеральное соглашение</span> распространяется на всех работников и работодателей на территории Республики Узбекистан, вне зависимости от их принадлежности к каким-либо представительным органам, а также на все органы исполнительной власти и устанавливает общие принципы согласованного проведения социально-экономической политики (<span num="61" target="_self" lnktype="intlnk" title="" class="doc">ст. 84 ТК</span>).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="12" target="_self" lnktype="intlnk" title="" class="doc">Какие локальные акты должны быть в организации и как их разработать</span></li><li class="incut-v4-more-about__item"><span num="13" target="_self" lnktype="intlnk" title="" class="doc">Какие индивидуальные акты принимают коллегиально</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211069/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211069/bssPhr12/"></a><a data-anchor="/document/16/211069/dfasdy7w1p/" data-dfa="dfasdy7w1p"></a>Виды соглашений</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211069/bssPhr14/"></a><a data-anchor="/document/16/211069/dfasy3mlud/" data-dfa="dfasy3mlud"></a>Коллективные соглашения подразделяют на:</p><ul class="c-list"><li><a data-anchor="/document/16/211069/bssPhr15/"></a><a data-anchor="/document/16/211069/dfasfz98rx/" data-dfa="dfasfz98rx"></a><span num="29" target="_self" lnktype="intlnk" title="" class="doc">территориальное</span>;</li><li><span num="30" target="_self" lnktype="intlnk" title="" class="doc">отраслевое</span>;</li><li><span num="31" target="_self" lnktype="intlnk" title="" class="doc">генеральное</span>.</li></ul><p><a data-anchor="/document/16/211069/bssPhr16/"></a><a data-anchor="/document/16/211069/dfas8ykb4d/" data-dfa="dfas8ykb4d"></a>Территориальные коллективные соглашения заключаются между соответствующими представительными органами работников и работодателей, а по предложению сторон<br>с органами исполнительной власти на местах.</p><p><a data-anchor="/document/16/211069/bssPhr17/"></a><a data-anchor="/document/16/211069/dfasq1s2zr/" data-dfa="dfasq1s2zr"></a>Территориальные коллективные соглашения определяют общие для соответствующей территории условия труда, гарантии и льготы для работников (<span num="53" target="_self" lnktype="intlnk" title="" class="doc">ст. 82 ТК</span>).</p><p><a data-anchor="/document/16/211069/bssPhr20/"></a><a data-anchor="/document/16/211069/dfasgcfsdm/" data-dfa="dfasgcfsdm"></a>Отраслевые соглашения заключают — отраслевые объединения профсоюзов и отраслевые объединения работодателей. По предложению сторон, участником соглашения вправе выступить орган государственного управления соответствующей отраслью. Если орган управления отраслью — это работодатель, то соглашение подписывает Минтруд.</p><p><a data-anchor="/document/16/211069/bssPhr21/"></a><a data-anchor="/document/16/211069/dfasfll0xh/" data-dfa="dfasfll0xh"></a>Отраслевое коллективное соглашение определяет основные направления социально-экономического развития отрасли, условия труда и его оплату, социальные гарантии для работников отрасли или профессиональных групп (<span num="54" target="_self" lnktype="intlnk" title="" class="doc">ст. 83 ТК</span>).</p><p><a data-anchor="/document/16/211069/bssPhr22/"></a><a data-anchor="/document/16/211069/dfas2cqtut/" data-dfa="dfas2cqtut"></a>Генеральное соглашение заключают — республиканское объединение профсоюзов, имеющее наибольшее количество членов, республиканское объединение работодателей и Кабмин.</p><p><a data-anchor="/document/16/211069/bssPhr23/"></a><a data-anchor="/document/16/211069/dfas94hhy7/" data-dfa="dfas94hhy7"></a>Генеральное соглашение устанавливает основные направления согласованного проведения социально-экономической политики в Республике Узбекистан (<span num="55" target="_self" lnktype="intlnk" title="" class="doc">ст. 84 ТК</span>).</p></div><a data-anchor="/document/16/211069/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211069/bssPhr24/"></a><a data-anchor="/document/16/211069/dfas5sk6ao/" data-dfa="dfas5sk6ao"></a>Коллективные переговоры</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211069/bssPhr26/"></a><a data-anchor="/document/16/211069/dfastan61f/" data-dfa="dfastan61f"></a>Для проведения коллективных переговоров по подготовке, заключению или изменению <span num="36" target="_self" lnktype="intlnk" title="" class="doc">коллективного соглашения</span> в порядке образуют территориальные, отраслевые и республиканская комиссии по социально-трудовым вопросам (<span num="62" target="_self" lnktype="intlnk" title="" class="doc">ст. 48 ТК</span>).</p><p><a data-anchor="/document/16/211069/bssPhr27/"></a><a data-anchor="/document/16/211069/dfasw7la9q/" data-dfa="dfasw7la9q"></a>Порядок, срок разработки проектов и заключение <span num="37" target="_self" lnktype="intlnk" title="" class="doc">коллективных соглашений</span> определяет комиссия по социально-трудовым вопросам. Комиссия обязана распространить информацию о начале коллективных переговоров по заключению соглашения через средства массовой информации (<span num="63" target="_self" lnktype="intlnk" title="" class="doc">ст. 59 ТК</span>).</p><p><a data-anchor="/document/16/211069/bssPhr28/"></a><a data-anchor="/document/16/211069/dfasdwafvw/" data-dfa="dfasdwafvw"></a>Комиссия вправе уведомлять работодателей, не членов объединения работодателей, о ведении коллективных переговоров по разработке проекта соглашения, о начале коллективных переговоров.</p><p><a data-anchor="/document/16/211069/bssPhr29/"></a><a data-anchor="/document/16/211069/dfassru590/" data-dfa="dfassru590"></a>Если такое уведомление поступило, проинформируйте профсоюз своего предприятия. Однако, чтобы участвовать в переговорах по заключению коллективного соглашения, надо вступить в члены соответствующего объединения работодателей.</p><p><a data-anchor="/document/16/211069/bssPhr30/"></a><a data-anchor="/document/16/211069/dfaskt1lei/" data-dfa="dfaskt1lei"></a>Если стороны не достигают согласия по отдельным условиям коллективного соглашения, то они все равно обязаны подписать коллективное соглашение по согласованным условиям и составить протокол разногласий. Срок подписания коллективного соглашения — три месяца, а генерального соглашения – шесть месяцев со дня начала коллективных переговоров.</p><p><a data-anchor="/document/16/211069/bssPhr31/"></a><a data-anchor="/document/16/211069/dfas8ktslv/" data-dfa="dfas8ktslv"></a>Изменения и дополнения коллективного соглашения производят по взаимному согласию сторон в порядке, установленном для его заключения.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="14" target="_self" lnktype="intlnk" title="" class="doc">Коллективное соглашение</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="43040681" data-warm-notice-type="error" num="15" target="_self" lnktype="intlnk" title="" class="doc">Кого включить в состав комиссии по проведению служебного расследования</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211069/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211069/bssPhr33/"></a><a data-anchor="/document/16/211069/dfas7yo14z/" data-dfa="dfas7yo14z"></a>Содержание вопросов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211069/bssPhr35/"></a><a data-anchor="/document/16/211069/dfasdv0mom/" data-dfa="dfasdv0mom"></a>Содержание и структура <span num="38" target="_self" lnktype="intlnk" title="" class="doc">коллективных соглашений</span> определяется сторонами.</p><p><a data-anchor="/document/16/211069/bssPhr36/"></a><a data-anchor="/document/16/211069/dfasmdcs5v/" data-dfa="dfasmdcs5v"></a>В <span num="39" target="_self" lnktype="intlnk" title="" class="doc">коллективное соглашение</span> рекомендуем включить вопросы:</p><ul class="c-list"><li><a data-anchor="/document/16/211069/bssPhr37/"></a><a data-anchor="/document/16/211069/dfas0hk9dz/" data-dfa="dfas0hk9dz"></a>об оплате, условиях и охране труда, режиме труда и отдыха;</li><li>о механизме регулирования оплаты труда исходя из изменений цен, уровня инфляции, выполнения показателей, определенных соглашениями;</li><li>о доплатах компенсационного характера, минимальный размер которых предусмотрен законодательством;</li><li>о содействии занятости, переобучению, повышению квалификации работников;</li><li>об обеспечении экологической безопасности и охране здоровья работников на производстве;</li><li>о специальных мероприятиях по социальной защите работников их семьи;</li><li>о соблюдении интересов работников при приватизации государственных организаций;</li><li>о льготах работодателям, создающим дополнительные рабочие места для лиц, нуждающихся в повышенной социальной защите (беременные женщины, лица с инвалидностью, лица, не достигших восемнадцати лет и др.);</li><li>о развитии социального партнерства и трехстороннего сотрудничества, содействии заключению коллективных договоров, предотвращении трудовых конфликтов, об укреплении трудовой дисциплины;</li><li>иные трудовые и социально-экономические вопросы.</li></ul><p><a data-anchor="/document/16/211069/bssPhr38/"></a><a data-anchor="/document/16/211069/dfaszelc49/" data-dfa="dfaszelc49"></a>Это установлено <span num="64" target="_self" lnktype="intlnk" title="" class="doc">статьей 85</span> ТК.</p><p><a data-anchor="/document/16/211069/bssPhr39/"></a><a data-anchor="/document/16/211069/dfasrgdcl3/" data-dfa="dfasrgdcl3"></a>Как правило, каждый отдельный вопрос в коллективном соглашении оформляют отдельным <span num="40" target="_self" lnktype="intlnk" title="" class="doc">разделом</span>.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="16" target="_self" lnktype="intlnk" title="" class="doc">Обязана ли организация заключать коллективный договор</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="43040680" data-warm-notice-type="error" num="17" target="_self" lnktype="intlnk" title="" class="doc">Как ознакомить работника с кадровыми документами без риска трудовых споров</span></li></ul></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211069/bssPhr41/"></a><a data-anchor="/document/16/211069/dfasa3g8x6/" data-dfa="dfasa3g8x6"></a>Коллективное соглашение не должно содержать условия:</p><div class="incut-v4__content" data-incut-content=""><ul class="c-list"><li><a data-anchor="/document/16/211069/bssPhr42/"></a><a data-anchor="/document/16/211069/dfasdgxu7x/" data-dfa="dfasdgxu7x"></a>&nbsp;ухудшающие положение работников по сравнению с законодательством, а также коллективными соглашениями более высокого уровня, действие которых распространяется на данных работников;</li><li>нарушающие требования о дискриминации в сфере труда и занятий;</li><li>нарушающие требования о запрещении принудительного труда;</li><li>выходящие за пределы тех вопросов, которые могут решаться на соответствующем уровне социального партнерства.</li></ul><p><a data-anchor="/document/16/211069/bssPhr43/"></a><a data-anchor="/document/16/211069/dfaszgeqdd/" data-dfa="dfaszgeqdd"></a>Если коллективное соглашение содержит такие условия, то они — недействительны.</p><p><a data-anchor="/document/16/211069/bssPhr44/"></a><a data-anchor="/document/16/211069/dfasmgxgw3/" data-dfa="dfasmgxgw3"></a>Это следует из <span num="65" target="_self" lnktype="intlnk" title="" class="doc">статьи 86</span> ТК.</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211069/bssPhr45/"></a><a data-anchor="/document/16/211069/dfasuog94n/" data-dfa="dfasuog94n"></a>Воспользуйтесь подборкой готовых локальных актов организации. Все документы составлены экспертами Системы с учетом последних изменений в сфере трудового законодательства.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211069/bssPhr46/"></a><a data-anchor="/document/16/211069/dfas3gcmrk/" data-dfa="dfas3gcmrk"></a><span data-warm-notices="43040682" data-warm-notice-type="error" num="41" target="_self" lnktype="intlnk" title="" class="doc">Перейти в Справочник &gt;&gt;&gt;</span></p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211069/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211069/bssPhr47/"></a><a data-anchor="/document/16/211069/dfasdicv7q/" data-dfa="dfasdicv7q"></a>Регистрация&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211069/bssPhr49/"></a><a data-anchor="/document/16/211069/dfasoavtg1/" data-dfa="dfasoavtg1"></a>Подписанное коллективное соглашение регистрируют в органах Минтруда. При этом, регистрацию проводят в уведомительном порядке. Вне зависимости от регистрации, коллективное соглашение вступает в силу либо с момента его подписания, либо с даты, установленной самим соглашением.</p><p><a data-anchor="/document/16/211069/bssPhr50/"></a><a data-anchor="/document/16/211069/dfas7zuwz9/" data-dfa="dfas7zuwz9"></a>Для регистрации коллективного соглашения отправьте его копию в соответствующие органы по труду, сопроводив <span data-warm-notices="43040683" data-warm-notice-type="error" num="32" target="_self" lnktype="intlnk" title="" class="doc">заявлением</span> о регистрации в свободной форме. Однако учитывайте, если органы Минтруда выявят, что какие-то условия коллективного соглашения ухудшают положение работников, они сообщат вам об этом и могут направить трудовую инспекцию с соответствующей проверкой.</p><p><a data-anchor="/document/16/211069/bssPhr51/"></a><a data-anchor="/document/16/211069/dfasf1b7xu/" data-dfa="dfasf1b7xu"></a><a data-anchor="/document/16/211069/dfass8k3yv/" data-dfa="dfass8k3yv"></a>Порядок регистрации в уведомительном порядке коллективных соглашений, изменений и дополнений к ним определяется Кабмином (<span num="56" target="_self" lnktype="intlnk" title="" class="doc">ст. 88 ТК</span>).</p></div><a data-anchor="/document/16/211069/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/211069/bssPhr52/"></a><a data-anchor="/document/16/211069/dfase66hm8/" data-dfa="dfase66hm8"></a>Срок действия&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211069/bssPhr54/"></a><a data-anchor="/document/16/211069/dfascaryp2/" data-dfa="dfascaryp2"></a>&nbsp;Коллективное соглашение вступает в силу со дня его подписания, если иной день не установлен самим соглашением. Срок действия коллективного соглашения — не более 3 лет. Затем, его надо перезаключать (<span num="57" target="_self" lnktype="intlnk" title="" class="doc">ст. 91 ТК</span>).</p></div><a data-anchor="/document/16/211069/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/211069/bssPhr55/"></a><a data-anchor="/document/16/211069/dfast9h5cu/" data-dfa="dfast9h5cu"></a>Контроль исполнения&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211069/bssPhr59/"></a><a data-anchor="/document/16/211069/dfas0k0mbh/" data-dfa="dfas0k0mbh"></a>Действие коллективного соглашения распространяется на работников и работодателей, представительные органы которых заключили это соглашение.</p><p><a data-anchor="/document/16/211069/bssPhr60/"></a><a data-anchor="/document/16/211069/dfas35203r/" data-dfa="dfas35203r"></a>Контроль за выполнение коллективного соглашения осуществляют:</p><ul class="c-list"><li><a data-anchor="/document/16/211069/bssPhr61/"></a><a data-anchor="/document/16/211069/dfasc1aio7/" data-dfa="dfasc1aio7"></a>стороны;</li><li>органы Минтруда;</li><li>иные уполномоченные органы.</li></ul><p><a data-anchor="/document/16/211069/bssPhr62/"></a><a data-anchor="/document/16/211069/dfassrktes/" data-dfa="dfassrktes"></a>Это следует из <span num="58" target="_self" lnktype="intlnk" title="" class="doc">статьи 93</span> ТК.</p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

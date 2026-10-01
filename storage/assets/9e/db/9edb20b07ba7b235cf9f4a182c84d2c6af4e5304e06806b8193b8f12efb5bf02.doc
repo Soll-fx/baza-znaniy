@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассматривают дела о налоговых правонарушениях</h2><div class="doc-snippet"><a data-anchor="/document/16/209770/dfas7tsa1z/" data-dfa="dfas7tsa1z"></a><a data-anchor="/document/16/209770/bssPhr2/"></a>В рекомендации – порядок рассмотрения дел о налоговых правонарушениях, а также обеспечительные меры, которые могут быть приняты налоговым органом. Узнайте, что содержит дополнение к акту налогового аудита или выездной налоговой проверки и решение по результатам налоговой проверки, а также кто и на каких основаниях может отменить это решение. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/209770/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/209770/bssPhr3/"></a><a data-anchor="/document/16/209770/dfastenu3f/" data-dfa="dfastenu3f"></a>Порядок рассмотрения дел о налоговых правонарушениях</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209770/bssPhr5/"></a><a data-anchor="/document/16/209770/dfas91wkby/" data-dfa="dfas91wkby"></a>Дела о налоговых правонарушениях, которые выявили при <span num="22" target="_self" lnktype="intlnk" title="" class="doc">выездных налоговых проверках</span> или <span num="23" target="_self" lnktype="intlnk" title="" class="doc">налоговом аудите</span> рассматривают в порядке, предусмотренном статьями <span data-warm-notices="7989651" data-warm-notice-type="error" num="24" target="_self" lnktype="intlnk" title="" class="doc">158 </span>и <span data-warm-notices="7989652" data-warm-notice-type="error" num="25" target="_self" lnktype="intlnk" title="" class="doc">159 </span>НК. Меры применяют в отношении налоговых правонарушений, предусмотренных статьями <span data-warm-notices="7989653" data-warm-notice-type="error" num="26" target="_self" lnktype="intlnk" title="" class="doc">223 </span>или <span data-warm-notices="7989654" data-warm-notice-type="error" num="27" target="_self" lnktype="intlnk" title="" class="doc">224 </span>НК.</p><p><a data-anchor="/document/16/209770/bssPhr6/"></a><a data-anchor="/document/16/209770/dfasatmsfh/" data-dfa="dfasatmsfh"></a>Акт налогового аудита или материалы выездной налоговой проверки, в ходе которых выявлены нарушения налогового законодательства, должен рассмотреть руководитель или заместитель руководителя налогового органа, проводившего проверку. Срок – через 10 дней, но не позднее 15 дней со дня составления акта. Решение по ним должно быть принято не позднее пяти дней после рассмотрения материалов налоговой проверки.</p><p><a data-anchor="/document/16/209770/bssPhr7/"></a><a data-anchor="/document/16/209770/dfas58g2t1/" data-dfa="dfas58g2t1"></a>Если проверяемое лицо или его представитель в сроки, предусмотренные <span num="28" target="_self" lnktype="intlnk" title="" class="doc">ч. 12</span>, ст. 156 НК РУз, представило письменные возражения по акту налогового аудита и (или) выездной налоговой проверки, эти возражения также подлежат рассмотрению.</p><p><a data-anchor="/document/16/209770/bssPhr8/"></a><a data-anchor="/document/16/209770/dfasm4acks/" data-dfa="dfasm4acks"></a>Налоговый орган должен известить налогоплательщика о дате, времени и месте рассмотрения материалов проверки не менее чем за два рабочих дня до этой даты (<span num="29" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 158 НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/209770/bssPhr9/"></a><a data-anchor="/document/16/209770/dfas3wgvk0/" data-dfa="dfas3wgvk0"></a>Налогоплательщик вправе известить налоговый орган о том, что по уважительным причинам не может присутствовать на рассмотрении материалов налоговой проверки.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/209770/bssPhr10/"></a><a data-anchor="/document/16/209770/dfasmnm6yz/" data-dfa="dfasmnm6yz"></a>Руководитель налогового органа либо его заместитель принимает решение отложить рассмотрение материалов на срок не более пяти рабочих дней. Об этом налогоплательщика также должны известить (<span data-warm-notices="7989655" data-warm-notice-type="error" num="30" target="_self" lnktype="intlnk" title="" class="doc">ч. 4 </span>ст. 158 НК).&nbsp;</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/209770/bssPhr11/"></a><a data-anchor="/document/16/209770/dfassiwnay/" data-dfa="dfassiwnay"></a>Перед рассмотрением материалов налоговой проверки руководитель налогового органа либо его заместитель должен:</p><ol class="c-list"><li><a data-anchor="/document/16/209770/bssPhr12/"></a><a data-anchor="/document/16/209770/dfasfhw9kg/" data-dfa="dfasfhw9kg"></a>объявить, кто рассматривает дело и материалы какой налоговой проверки подлежат рассмотрению;</li><li><a data-anchor="/document/16/209770/bssPhr13/"></a><a data-anchor="/document/16/209770/dfaslar7iq/" data-dfa="dfaslar7iq"></a>установить факт явки лиц, приглашенных для участия в рассмотрении. В случае неявки этих лиц руководитель налогового органа либо его заместитель выясняет, извещены ли участники производства по делу в установленном порядке, и решает рассматривать материалы налоговой проверки в отсутствие указанных лиц либо отложить рассмотрение;</li><li><a data-anchor="/document/16/209770/bssPhr14/"></a><a data-anchor="/document/16/209770/dfasrctnet/" data-dfa="dfasrctnet"></a>проверить полномочия представителя лица, в отношении которого проводилась налоговая проверка, в случае его участия;</li><li><a data-anchor="/document/16/209770/bssPhr15/"></a><a data-anchor="/document/16/209770/dfasw3mu1x/" data-dfa="dfasw3mu1x"></a>разъяснить лицам, участвующим в процедуре рассмотрения, их права и обязанности;</li><li><a data-anchor="/document/16/209770/bssPhr16/"></a><a data-anchor="/document/16/209770/dfasnxuixm/" data-dfa="dfasnxuixm"></a>вынести решение отложить рассмотрение материалов налоговой проверки в случае неявки лица, участие которого необходимо для рассмотрения.</li></ol><p><a data-anchor="/document/16/209770/bssPhr17/"></a><a data-anchor="/document/16/209770/dfaszbn2xw/" data-dfa="dfaszbn2xw"></a>При рассмотрении материалов налогового аудита или выездной налоговой проверки может быть оглашен акт проверки, а если нужно и иные материалы, а также письменные возражения проверяемого лица. Отсутствие письменных возражений не лишает это лицо или его представителя права давать свои объяснения на стадии рассмотрения материалов проверки.</p><p><a data-anchor="/document/16/209770/bssPhr18/"></a><a data-anchor="/document/16/209770/dfasmkccvy/" data-dfa="dfasmkccvy"></a>В ходе рассмотрения материалов налоговые органы исследуют представленные доказательства, в том числе документы:</p><ul class="c-list"><li><a data-anchor="/document/16/209770/bssPhr19/"></a><a data-anchor="/document/16/209770/dfas07lbcw/" data-dfa="dfas07lbcw"></a>ранее истребованные у проверяемого лица;</li><li>представленные в налоговые органы при проведении этих налоговых проверок;</li><li>иные документы.</li></ul><p><a data-anchor="/document/16/209770/bssPhr20/"></a><a data-anchor="/document/16/209770/dfasr24pcg/" data-dfa="dfasr24pcg"></a>Дополнительные документы о деятельности налогоплательщика могут быть рассмотрены, даже если они представлены в налоговый орган с нарушением сроков, установленных НК. В случае необходимости можно привлечь к участию в этом рассмотрении свидетеля, эксперта, специалиста.</p><p><a data-anchor="/document/16/209770/bssPhr21/"></a><a data-anchor="/document/16/209770/dfas416tnc/" data-dfa="dfas416tnc"></a>При рассмотрении материалов налоговой проверки должны вести протокол (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">ч. 14</span> ст. 158 НК).</p><p><a data-anchor="/document/16/209770/bssPhr22/"></a><a data-anchor="/document/16/209770/dfasfud455/" data-dfa="dfasfud455"></a>В ходе рассмотрения материалов налогового аудита и выездной проверки руководитель налогового органа или его заместитель устанавливает:</p><ul class="c-list"><li><a data-anchor="/document/16/209770/bssPhr23/"></a><a data-anchor="/document/16/209770/dfas0bdc95/" data-dfa="dfas0bdc95"></a>нарушало ли налоговое законодательство лицо, в отношении которого был составлен акт проверки;</li><li>образуют ли выявленные нарушения состав налогового правонарушения;</li><li>есть ли основания для привлечения лица к ответственности за совершение налогового правонарушения;</li><li>обоснованность возражений налогоплательщика.</li></ul><p><a data-anchor="/document/16/209770/bssPhr24/"></a><a data-anchor="/document/16/209770/dfastgc0s8/" data-dfa="dfastgc0s8"></a>При наличии состава налогового правонарушения руководитель налогового органа или его заместитель выявляет обстоятельства, исключающие вину лица в совершении правонарушения, либо смягчающие или отягчающие обстоятельства.</p><p><a data-anchor="/document/16/209770/bssPhr25/"></a><a data-anchor="/document/16/209770/dfasezygug/" data-dfa="dfasezygug"></a>Если нужны дополнительные доказательства нарушений налогового законодательства или отсутствия таковых, руководитель налогового органа или его заместитель вправе вынести решение о проведении дополнительных мероприятий налогового контроля, в срок, не превышающий один месяц.</p><p><a data-anchor="/document/16/209770/bssPhr26/"></a><a data-anchor="/document/16/209770/dfas3q7xuc/" data-dfa="dfas3q7xuc"></a>Решение о назначении дополнительных мероприятий должно содержать:</p><ul class="c-list"><li><a data-anchor="/document/16/209770/bssPhr27/"></a><a data-anchor="/document/16/209770/dfasy7t8n8/" data-dfa="dfasy7t8n8"></a>обстоятельства, вызвавшие необходимость их проведения;</li><li>срок и конкретную форму их проведения.</li></ul><p><a data-anchor="/document/16/209770/bssPhr28/"></a><a data-anchor="/document/16/209770/dfaskyrkbw/" data-dfa="dfaskyrkbw"></a>В качестве дополнительных мероприятий налогового контроля в соответствии со статьями <span data-warm-notices="7989656" data-warm-notice-type="error" num="32" target="_self" lnktype="intlnk" title="" class="doc">146 </span>и <span data-warm-notices="7989657" data-warm-notice-type="error" num="33" target="_self" lnktype="intlnk" title="" class="doc">147 </span>НК могут проводить истребование документов, допрос свидетеля, проведение экспертизы.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>С какой периодичностью могут проводиться выездные налоговые проверки юридического лица &#8211; участника свободной экономической зоны, которое имеет льготы по налогам и статус экспортера?</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/209770/bssPhr30/"></a><a data-anchor="/document/16/209770/dfasg9lmah/" data-dfa="dfasg9lmah"></a>Проведение выездных налоговых проверок не зависит от того, организация – участник СЭЗ или экспортер.</p><p><a data-anchor="/document/16/209770/bssPhr31/"></a><a data-anchor="/document/16/209770/dfasg38wpq/" data-dfa="dfasg38wpq"></a>Периодичность проведения выездных налоговых проверок в нормативно-правовых актах не определена.</p><p><a data-anchor="/document/16/209770/bssPhr32/"></a><a data-anchor="/document/16/209770/dfasvded6g/" data-dfa="dfasvded6g"></a>Порядок проведения выездных налоговых проверок определен статьей 139 НК, <span data-warm-notices="7989661" data-warm-notice-type="error" num="8" target="_self" lnktype="intlnk" title="" class="doc">Положением </span>о порядке организации и проведения налоговых проверок (утв. ПКМ № 1 от 07.01.2021).</p><p><a data-anchor="/document/16/209770/bssPhr33/"></a><a data-anchor="/document/16/209770/dfas9ddf6h/" data-dfa="dfas9ddf6h"></a>Выездные налоговые проверки проводят в случаях:</p><ul class="c-list"><li><a data-anchor="/document/16/209770/bssPhr34/"></a><a data-anchor="/document/16/209770/dfaszkpgg0/" data-dfa="dfaszkpgg0"></a>наличия риска совершения нарушения налогового законодательства, установленного системой управления налоговыми рисками в соответствии с Положением «О порядке управления налоговыми рисками, выявления налогоплательщиков (налоговых агентов), имеющих налоговые риски, и их сегментации по уровням налогового риска» (<span num="9" target="_self" lnktype="intlnk" title="" class="doc">приложение №1</span> к ПКМ № 1 от 07.01.2021г.);</li><li><a data-anchor="/document/16/209770/dfas8b0aek/" data-dfa="dfas8b0aek"></a>обращений физических и юридических лиц, а также судебных и правоохранительных органов о нарушениях налогового законодательства в деятельности налогоплательщиков, за исключением анонимных обращений;</li><li>публикации в средствах массовой информации сведений о налоговых правонарушениях;</li><li>возникновения необходимости изучения выявленных в ходе камеральной налоговой проверки расхождений и ошибок за пределами места нахождения налогового органа.</li></ul><p><a data-anchor="/document/16/209770/bssPhr35/"></a><a data-anchor="/document/16/209770/dfascmghca/" data-dfa="dfascmghca"></a>Такие условия содержит <span num="10" target="_self" lnktype="intlnk" title="" class="doc">пункт 57</span> приложения №2 к ПКМ № 1 от 07.01.2021г. .</p><p><a data-anchor="/document/16/209770/bssPhr36/"></a><a data-anchor="/document/16/209770/dfas8v5it2/" data-dfa="dfas8v5it2"></a>Выездные налоговые проверки проводят в срок не более десяти дней (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 139 НК и <span num="12" target="_self" lnktype="intlnk" title="" class="doc">п.58</span> приложения №2 к ПКМ №1 от 07.01.2021г.).</p></div></div></div><a data-anchor="/document/16/209770/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/209770/bssPhr37/"></a><a data-anchor="/document/16/209770/dfas9u32yr/" data-dfa="dfas9u32yr"></a>Дополнение к акту налогового аудита или выездной налоговой проверки</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209770/bssPhr39/"></a><a data-anchor="/document/16/209770/dfaso6hh6o/" data-dfa="dfaso6hh6o"></a>Должностные лица налогового органа, проводившие дополнительные мероприятия, в течение 10 дней со дня окончания таких мероприятий составляют и подписывают дополнение к акту налогового аудита или выездной налоговой проверки. В дополнении отражают сведения:</p><ul class="c-list"><li><a data-anchor="/document/16/209770/bssPhr40/"></a><a data-anchor="/document/16/209770/dfas9ss0h6/" data-dfa="dfas9ss0h6"></a>начало и окончание мероприятий;</li><li>полученные дополнительные доказательства для подтверждения факта совершения нарушений налогового законодательства или отсутствия таковых;</li><li>выводы и предложения проверяющих по устранению выявленных нарушений;</li><li>ссылки на статьи НК, если в нем предусмотрена ответственность за эти нарушения.</li></ul><p><a data-anchor="/document/16/209770/bssPhr41/"></a><a data-anchor="/document/16/209770/dfasragin5/" data-dfa="dfasragin5"></a>Дополнение к акту с приложением материалов, полученных в результате дополнительных мероприятий налогового контроля, в течение трех дней с даты составления этого дополнения должны вручить проверяемому лицу или его представителю под расписку или передать другим способом, свидетельствующим о дате его получения.</p><p><a data-anchor="/document/16/209770/bssPhr42/"></a><a data-anchor="/document/16/209770/dfas4aqmc3/" data-dfa="dfas4aqmc3"></a>Если проверяемое лицо уклонилось от получения дополнения к акту, этот факт отражают в дополнении к акту проверки. В этом случае дополнение направляют по почте заказным письмом по месту нахождения организации, обособленного подразделения или месту жительства физлица. Документ считают полученным на пятый день с даты отправки заказного письма.</p><p><a data-anchor="/document/16/209770/bssPhr43/"></a><a data-anchor="/document/16/209770/dfasbv4076/" data-dfa="dfasbv4076"></a>Проверяемое лицо в течение 10 дней со дня получения дополнения к акту проверки вправе представить в налоговый орган письменные возражения по такому дополнению в целом или по его отдельным положениям.</p><p><a data-anchor="/document/16/209770/bssPhr44/"></a><a data-anchor="/document/16/209770/dfas5rfu3l/" data-dfa="dfas5rfu3l"></a>Это предусмотрено частями <span data-warm-notices="7989658" data-warm-notice-type="error" num="13" target="_self" lnktype="intlnk" title="" class="doc">21 </span>– <span data-warm-notices="7989659" data-warm-notice-type="error" num="14" target="_self" lnktype="intlnk" title="" class="doc">24 </span>статьи 158 НК.</p></div><a data-anchor="/document/16/209770/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/209770/bssPhr45/"></a><a data-anchor="/document/16/209770/dfas0cq8ya/" data-dfa="dfas0cq8ya"></a>Отмена решения налогового органа вышестоящим налоговым органом или судом</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209770/bssPhr47/"></a><a data-anchor="/document/16/209770/dfaskivgf9/" data-dfa="dfaskivgf9"></a>Несоблюдение должностными лицами налоговых органов установленных требований, может стать основанием для отмены решения налогового органа вышестоящим налоговым органом или судом.</p><p><a data-anchor="/document/16/209770/bssPhr48/"></a><a data-anchor="/document/16/209770/dfasav7y6g/" data-dfa="dfasav7y6g"></a>Если были нарушены существенные условия процедуры рассмотрения материалов налоговой проверки, то вышестоящий налоговый орган или суд может отменить решение налогового органа о привлечении к ответственности за совершение налогового правонарушения или доначислении сумм налогов. Существенными условиями считают обеспечение возможности лица, в отношении которого проводилась проверка:</p><ul class="c-list"><li><a data-anchor="/document/16/209770/bssPhr49/"></a><a data-anchor="/document/16/209770/dfasxz6r1b/" data-dfa="dfasxz6r1b"></a>участвовать в процессе рассмотрения материалов налоговой проверки лично или через своего представителя;</li><li>представить объяснения.</li></ul><p><a data-anchor="/document/16/209770/bssPhr50/"></a><a data-anchor="/document/16/209770/dfasaq1sr0/" data-dfa="dfasaq1sr0"></a>Основаниями для отмены указанного решения налогового органа вышестоящим налоговым органом или судом также могут служить иные нарушения процедуры рассмотрения материалов налоговой проверки, если только такие нарушения привели или могли привести к тому, что руководитель налогового органа принял неправомерное решение.</p></div><a data-anchor="/document/16/209770/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/209770/bssPhr51/"></a><a data-anchor="/document/16/209770/dfasm41zkz/" data-dfa="dfasm41zkz"></a>Решение по результатам проверки</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209770/bssPhr53/"></a><a data-anchor="/document/16/209770/dfas00i2nb/" data-dfa="dfas00i2nb"></a>По результатам рассмотрения материалов налоговой проверки руководитель налогового органа или его заместитель принимает решение:</p><ul class="c-list"><li><a data-anchor="/document/16/209770/bssPhr54/"></a><a data-anchor="/document/16/209770/dfasty7tgx/" data-dfa="dfasty7tgx"></a>о доначислении налогов и пени или отказе в этом;</li><li>привлечении налогоплательщика к ответственности за совершение налогового правонарушения или отказе в этом.</li><li>решение о привлечении лица к ответственности за совершение налогового правонарушения содержит:</li><li>обстоятельства правонарушения так, как они установлены проверкой, со ссылкой на документы и иные сведения, подтверждающие указанные обстоятельства;</li><li>доводы, приводимые в свою защиту лицом, в отношении которого проводилась проверка;</li><li>результаты проверки этих доводов;</li><li>статьи НК, предусматривающие эти правонарушения;</li><li>применяемые меры ответственности.</li></ul><p><a data-anchor="/document/16/209770/bssPhr55/"></a><a data-anchor="/document/16/209770/dfas5kngy9/" data-dfa="dfas5kngy9"></a>В решении, предусматривающем доначисление налогов, указывают размер выявленной в ходе проверки задолженности по налогам, и сумму соответствующих пеней.</p><p><a data-anchor="/document/16/209770/bssPhr56/"></a><a data-anchor="/document/16/209770/dfas0cq1qe/" data-dfa="dfas0cq1qe"></a>В решении, предусматривающем отказ в привлечении к ответственности за совершение налогового правонарушения, излагают обстоятельства, послужившие основанием для такого отказа.</p><p><a data-anchor="/document/16/209770/bssPhr57/"></a><a data-anchor="/document/16/209770/dfasug3dpo/" data-dfa="dfasug3dpo"></a>Решение по результатам налоговой проверки содержит срок, в течение которого проверяемое лицо вправе его обжаловать и порядок обжалования решения в вышестоящий налоговый орган.</p><p><a data-anchor="/document/16/209770/bssPhr58/"></a><a data-anchor="/document/16/209770/dfaszm37lq/" data-dfa="dfaszm37lq"></a>Если в ходе налогового аудита обнаружена сумма налога, излишне возвращенная на основании решения налогового органа, в решении о доначислении сумм налогов указанную сумму признают налоговой задолженностью по данному налогу. В случае возврата этой суммы налога налогоплательщику ее признают налоговой задолженностью со дня фактического получения им средств, а в случае принятия к зачету суммы налога – со дня принятия к зачету этой суммы налога.</p><p><a data-anchor="/document/16/209770/bssPhr59/"></a><a data-anchor="/document/16/209770/dfasd51vq3/" data-dfa="dfasd51vq3"></a>Решение по результатам <span num="15" target="_self" lnktype="intlnk" title="" class="doc">налогового аудита</span> или <span num="16" target="_self" lnktype="intlnk" title="" class="doc">выездной налоговой проверки</span> в течение двух дней со дня его принятия должны вручить лицу, в отношении которого оно было принято, под расписку или передано иным способом, свидетельствующим о дате получения.</p><p><a data-anchor="/document/16/209770/bssPhr60/"></a><a data-anchor="/document/16/209770/dfasuns116/" data-dfa="dfasuns116"></a>Если решение невозможно вручить или передать иным способом, свидетельствующим о дате его получения, то его направляют по почте заказным письмом по месту нахождения организации, обособленного подразделения или месту жительства физлица и считают полученным на пятый день с даты отправки заказного письма.</p><p><a data-anchor="/document/16/209770/bssPhr61/"></a><a data-anchor="/document/16/209770/dfascq9cgs/" data-dfa="dfascq9cgs"></a>Решение по результатам налогового аудита или выездной налоговой проверки вступает в силу по истечении одного месяца со дня его вручения налогоплательщику ( <span num="17" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 160 НК).</p><p><a data-anchor="/document/16/209770/bssPhr62/"></a><a data-anchor="/document/16/209770/dfas639a72/" data-dfa="dfas639a72"></a>Лицо, в отношении которого вынесено соответствующее решение, вправе исполнить его полностью или частично до вступления его в силу. При этом подача жалобы не лишает лицо права исполнить не вступившее в силу решение полностью или частично.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/209770/bssPhr63/"></a><a data-anchor="/document/16/209770/dfast99k8w/" data-dfa="dfast99k8w"></a>После принятия решения по результатам налогового аудита или выездной налоговой проверки налоговый орган может принять решение о применении обеспечительных мер.</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/209770/bssPhr64/"></a><a data-anchor="/document/16/209770/dfas9f85i3/" data-dfa="dfas9f85i3"></a>&nbsp;<span num="18" target="_self" lnktype="intlnk" title="" class="doc">ч.8</span> ст. 159 НК</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/209770/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/209770/bssPhr65/"></a><a data-anchor="/document/16/209770/dfasav72t7/" data-dfa="dfasav72t7"></a>Обеспечительные меры</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209770/bssPhr67/"></a><a data-anchor="/document/16/209770/dfasb4wwvg/" data-dfa="dfasb4wwvg"></a>Если проверяющие выявили достаточные основания того, что взыскание налоговой задолженности, указанной в решении о привлечении к ответственности за совершение налогового правонарушения, может быть затруднено, то принимают обеспечительные меры.</p><p><a data-anchor="/document/16/209770/bssPhr68/"></a><a data-anchor="/document/16/209770/dfasl93izg/" data-dfa="dfasl93izg"></a>Для принятия обеспечительных мер руководитель налогового органа или его заместитель принимает соответствующее решение. Указанное решение вступает в силу со дня его принятия и действует до дня исполнения решения о привлечении к ответственности за совершение налогового правонарушения или доначисления налогов либо до дня отмены принятого решения вышестоящим налоговым органом или судом.</p><p><a data-anchor="/document/16/209770/bssPhr69/"></a><a data-anchor="/document/16/209770/dfasmlo7nz/" data-dfa="dfasmlo7nz"></a>Руководитель либо заместитель руководителя налогового органа вправе отменить обеспечительные меры или заменить их в случаях, предусмотренных <span num="19" target="_self" lnktype="intlnk" title="" class="doc">частью 11</span> статьи 161 НК.</p><p><a data-anchor="/document/16/209770/bssPhr70/"></a><a data-anchor="/document/16/209770/dfasa4p3q6/" data-dfa="dfasa4p3q6"></a>Решение об отмене либо замене обеспечительных мер вступает в силу со дня его вынесения.</p><p><a data-anchor="/document/16/209770/bssPhr71/"></a><a data-anchor="/document/16/209770/dfas9xtffq/" data-dfa="dfas9xtffq"></a>По выявленным нарушениям, за которые физлица или должностные лица юрлиц подлежат привлечению к административной ответственности, проверяющий составляет протокол об административном правонарушении в пределах своей компетенции.</p><p><a data-anchor="/document/16/209770/bssPhr72/"></a><a data-anchor="/document/16/209770/dfaski7i9q/" data-dfa="dfaski7i9q"></a>Рассмотрение дел об этих правонарушениях и применение административных наказаний в отношении физлиц и должностных лиц юрлиц, виновных в их совершении, производят в соответствии с законодательством об административной ответственности.</p><p><a data-anchor="/document/16/209770/bssPhr73/"></a><a data-anchor="/document/16/209770/dfas66t1pr/" data-dfa="dfas66t1pr"></a>Если после принятия решения о привлечении физлица к ответственности за налоговое правонарушение налоговики направили материалы в органы прокуратуры, то налоговики обязаны приостановить исполнение этого решения, а также решения о взыскании с этого физлица налоговой задолженности. Приостанавливает исполнение руководитель или заместитель руководителя налогового органа своим решением не позднее дня, следующего за днем, когда материалы направили в прокуратуру. При этом течение сроков взыскания налоговой задолженности, предусмотренных НК, приостанавливают на период приостановления исполнения решения о взыскании этой налоговой задолженности.</p><p><a data-anchor="/document/16/209770/bssPhr74/"></a><a data-anchor="/document/16/209770/dfasgs44hs/" data-dfa="dfasgs44hs"></a>Если по направленным в прокуратуру материалам будет вынесено постановление об отказе в возбуждении уголовного дела или постановление о прекращении уголовного дела, действие приостановленных решений налогового органа возобновляется. Возобновляет действия руководитель или заместитель руководителя налогового органа своим решением не позднее дня, следующего за днем получения уведомления об этих фактах от органов прокуратуры. Аналогичное правило применяют, если по соответствующему уголовному делу будет вынесен оправдательный приговор.</p><p><a data-anchor="/document/16/209770/bssPhr75/"></a><a data-anchor="/document/16/209770/dfaskup9tx/" data-dfa="dfaskup9tx"></a>Если в результате действия либо бездействия физлица, его привлекли к ответственности и вынесли обвинительный приговор, налоговый орган отменяет принятое решение в части привлечения этого физлица к ответственности за совершение налогового правонарушения.</p><p><a data-anchor="/document/16/209770/bssPhr76/"></a><a data-anchor="/document/16/209770/dfasm2sdai/" data-dfa="dfasm2sdai"></a>Органы прокуратуры, получившие от налоговых органов материалы, обязаны направлять в налоговые органы уведомления о результатах их рассмотрения не позднее дня, следующего за днем принятия соответствующего решения.</p><p><a data-anchor="/document/16/209770/bssPhr77/"></a><a data-anchor="/document/16/209770/dfas7gxgm6/" data-dfa="dfas7gxgm6"></a>Копии решений налогового органа в течение пяти дней со дня вынесения соответствующего решения передают лицу, в отношении которого вынесено соответствующее решение.</p><p><a data-anchor="/document/16/209770/bssPhr78/"></a><a data-anchor="/document/16/209770/dfaskffv1h/" data-dfa="dfaskffv1h"></a>Решение по результатам налоговой проверки подлежит исполнению со дня его вступления в силу. Обращение решения к исполнению возложено на налоговый орган, принявший это решение.</p><p><a data-anchor="/document/16/209770/bssPhr79/"></a><a data-anchor="/document/16/209770/dfasga2vg1/" data-dfa="dfasga2vg1"></a>В случае рассмотрения жалобы вышестоящим налоговым органом вступившее в силу его решение направляют в налоговый орган, принявший первоначальное решение, в течение трех дней со дня вступления в силу решения вышестоящего органа.</p><p><a data-anchor="/document/16/209770/bssPhr80/"></a><a data-anchor="/document/16/209770/dfas91vhzk/" data-dfa="dfas91vhzk"></a>После вынесения решения о привлечении к ответственности за совершение налогового правонарушения физлица, не являющегося индивидуальным предпринимателем, налоговый орган обращается с заявлением в суд о применении к указанному лицу финансовой санкции. Такой же порядок применения финансовой санкции используется в случаях, когда внесудебный порядок взыскания финансовых санкций не допускается.</p><p><a data-anchor="/document/16/209770/bssPhr81/"></a><a data-anchor="/document/16/209770/dfas90qhlg/" data-dfa="dfas90qhlg"></a>До обращения в суд налоговый орган обязан в письменной форме предложить лицу, привлекаемому к ответственности за совершение налогового правонарушения, добровольно уплатить соответствующую сумму финансовой санкции.</p><p><a data-anchor="/document/16/209770/bssPhr82/"></a><a data-anchor="/document/16/209770/dfasd9id88/" data-dfa="dfasd9id88"></a>Если необходимо, одновременно с подачей заявления о взыскании финансовой санкции с лица, привлекаемого к ответственности за совершение налогового правонарушения, налоговый орган может направить в суд ходатайство об обеспечении требования в порядке, предусмотренном законодательством.</p><p><a data-anchor="/document/16/209770/bssPhr83/"></a><a data-anchor="/document/16/209770/dfasxy6fzw/" data-dfa="dfasxy6fzw"></a>Суммы финансовых санкций по решениям налоговых органов, взыскивают налоговики самостоятельно в порядке, предусмотренном статьями <span num="20" target="_self" lnktype="intlnk" title="" class="doc">120</span>-<span data-warm-notices="7989660" data-warm-notice-type="error" num="21" target="_self" lnktype="intlnk" title="" class="doc">124 </span>НК.</p><p><a data-anchor="/document/16/209770/bssPhr84/"></a><a data-anchor="/document/16/209770/dfasnwil5i/" data-dfa="dfasnwil5i"></a>Дела о взыскании финансовых санкций по заявлению налоговых органов к физлицам - не индивидуальным предпринимателям рассматривают суды.</p><p><a data-anchor="/document/16/209770/bssPhr85/"></a><a data-anchor="/document/16/209770/dfas7i7b68/" data-dfa="dfas7i7b68"></a>Вступившие в законную силу решения судов о взыскании финансовых санкций исполняют в порядке, установленном законодательством об исполнительном производстве.</p></div><p><a data-anchor="/document/16/209770/dfasoftby5/" data-dfa="dfasoftby5"></a><a data-anchor="/document/16/209770/bssPhr86/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

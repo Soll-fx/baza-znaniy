@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Обзорная таблица предполагаемых изменений трудового  законодательства</h2><div class="doc-snippet"><a data-anchor="/document/16/219109/dfasyez9i6/" data-dfa="dfasyez9i6"></a><a data-anchor="/document/16/219109/bssPhr2/"></a>08&nbsp;августа принят&nbsp;Указ Президента&nbsp;№ <span num="2" target="_self" lnktype="intlnk" title="" class="doc">УП-126</span> о развитии&nbsp;трудовых отношений, обновлении&nbsp;системы профессиональной подготовки и создании&nbsp;стимулов для работодателей. Изменения&nbsp;существенно&nbsp;повлияют на работодателей и работников. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/219109/bssPhr3/"></a><a data-anchor="/document/16/219109/dfas8c5agg/" data-dfa="dfas8c5agg"></a><strong>В&nbsp;Системе можно найти больше:</strong></p><p><a data-anchor="/document/16/219109/dfaspvoctw/" data-dfa="dfaspvoctw"></a><a data-anchor="/document/16/219109/bssPhr4/"></a><a href="/#/recommendations/found/isUseHints=false&amp;phrase=%D0%BA%D0%BA%D0%B8%D0%B5%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%B8%20%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D0%B5&amp;sort=Relevance&amp;status=actual/" data-warm-notices="" data-warm-notice-type="" target="_blank" class="insite" title=""><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41887782" sourceId="1" width="610" height="40.945205479452056" src="https://1gb.uz/system/content/image/297/1/-41887782/"></a></p><p><a data-anchor="/document/16/219109/dfasgm1gk7/" data-dfa="dfasgm1gk7"></a><a data-anchor="/document/16/219109/bssPhr5/"></a><a href="/#/recommendations/found/isUseHints=false&amp;phrase=%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA&amp;sort=Relevance&amp;status=actual/" data-warm-notices="" data-warm-notice-type="" target="_blank" class="insite" title=""><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41887783" sourceId="1" width="610" height="40.945205479452056" src="https://1gb.uz/system/content/image/297/1/-41887783/"></a></p><p><a data-anchor="/document/16/219109/dfasbbrxn9/" data-dfa="dfasbbrxn9"></a><a data-anchor="/document/16/219109/bssPhr6/"></a><a href="/#/recommendations/found/isUseHints=false&amp;phrase=%D0%B3%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D0%B8%D0%B8%20%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D0%B8%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC&amp;sort=Relevance&amp;status=actual/" data-warm-notices="" data-warm-notice-type="" target="_blank" class="insite" title=""><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41887784" sourceId="1" width="610" height="40.945205479452056" src="https://1gb.uz/system/content/image/297/1/-41887784/"></a></p><p><a data-anchor="/document/16/219109/bssPhr7/"></a><a data-anchor="/document/16/219109/dfas2exo3g/" data-dfa="dfas2exo3g"></a>Сводная таблица подготовлена на основании Плана мер, утвержденного Указом Президента от 04.08.2025 № УП-126, с отсылкой преимущественно к положениям <a data-anchor="/document/16/219109/backlinkanchor6/" type="backlink-anchor"></a><a href="#/document/90/16455/dfasopi37y/" class="link npd" target="_self" title="" moduleId="90" documentId="16455" anchor="dfasopi37y">приложения № 1</a>.</p><p><a data-anchor="/document/16/219109/bssPhr8/"></a><a data-anchor="/document/16/219109/dfasgfqnzn/" data-dfa="dfasgfqnzn"></a><strong>Таблица.</strong>&nbsp;Предполагаемые&nbsp;изменения&nbsp;трудового законодательства</p><div align="left"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="99%" class="bdAll"><tbody><tr><th style="text-align: center; vertical-align: top; width: 19.01%;"><p><a data-anchor="/document/16/219109/bssPhr9/"></a><a data-anchor="/document/16/219109/dfas6c7efm/" data-dfa="dfas6c7efm"></a>Изменение/<br>нововведение</p></th><td style="vertical-align: top; width: 48.92%; text-align: center;"><p><a data-anchor="/document/16/219109/bssPhr10/"></a><a data-anchor="/document/16/219109/dfaswwub10/" data-dfa="dfaswwub10"></a><strong>Суть изменения</strong></p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p><a data-anchor="/document/16/219109/bssPhr11/"></a><a data-anchor="/document/16/219109/dfas66gnak/" data-dfa="dfas66gnak"></a><strong>Цель изменения</strong></p></td></tr><tr><td colspan="3" style="vertical-align: top; width: 18.87%; text-align: center;"><p><a data-anchor="/document/16/219109/bssPhr12/"></a><a data-anchor="/document/16/219109/dfashwo801/" data-dfa="dfashwo801"></a><strong>1. Улучшение трудовых отношений</strong></p></td></tr><tr><td style="vertical-align: top; width: 19.01%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr13/"></a><a data-anchor="/document/16/219109/dfas0sr2da/" data-dfa="dfas0sr2da"></a>Кадровая поддержка</p></td><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr14/"></a><a data-anchor="/document/16/219109/dfashnttys/" data-dfa="dfashnttys"></a>Создание&nbsp;проектной&nbsp;группы&nbsp;при Минзанятости, которая через специальную платформу будет собирать вакансии, данные соискателей и помогать работодателям находить специалистов с нужными навыками.&nbsp;</p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr15/"></a><a data-anchor="/document/16/219109/dfasd5n8tv/" data-dfa="dfasd5n8tv"></a>Упростить подбор кадров</p></td></tr><tr><td rowspan="3" style="vertical-align: top; width: 19.01%;"><a data-anchor="/document/16/219109/bssPhr16/"></a><a data-anchor="/document/16/219109/dfasi33yuo/" data-dfa="dfasi33yuo"></a>Улучшение резервирования</td><td style="vertical-align: top; width: 48.92%;"><a data-anchor="/document/16/219109/bssPhr17/"></a><a data-anchor="/document/16/219109/dfasi282y8/" data-dfa="dfasi282y8"></a>С 2026 года введение обязательного резервирования рабочих мест для коммерческих организаций с численностью свыше 100 работников – не более 3% штата.</td><td style="vertical-align: top; width: 31.88%;"><a data-anchor="/document/16/219109/bssPhr18/"></a><a data-anchor="/document/16/219109/dfastz4gvf/" data-dfa="dfastz4gvf"></a>Расширить систему резервирования рабочих мест на крупные предприятия</td></tr><tr><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr19/"></a><a data-anchor="/document/16/219109/dfasm3wv88/" data-dfa="dfasm3wv88"></a>Для бюджетных организаций и предприятий с долей государства более 50% сохранение&nbsp; действующей&nbsp; системы&nbsp;резервирования рабочих мест, которая применяется только к социально уязвимым группам: людям с инвалидностью, пострадавшим от насилия, членам малообеспеченных семей, воспитанникам интернатов, сиротам, лицам, освобождённым из мест лишения свободы, и жертвам торговли людьми. При численности работников более 20 обязательный резерв не более 7% штата.</p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr20/"></a><a data-anchor="/document/16/219109/dfaso8bpop/" data-dfa="dfaso8bpop"></a>Сосредоточить поддержку на социально уязвимых категориях граждан</p></td></tr><tr><td style="vertical-align: top; width: 48.92%;"><a data-anchor="/document/16/219109/bssPhr21/"></a><a data-anchor="/document/16/219109/dfasfm0l3t/" data-dfa="dfasfm0l3t"></a>Определение минимальное количество рабочих мест решением местных Кенгашей народных депутатов</td><td style="vertical-align: top; width: 31.88%;"><a data-anchor="/document/16/219109/bssPhr22/"></a><a data-anchor="/document/16/219109/dfaswrufvk/" data-dfa="dfaswrufvk"></a>Закрепить роль местных органов власти в определении резервных мест</td></tr><tr><td style="vertical-align: top; width: 19.01%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr23/"></a><a data-anchor="/document/16/219109/dfaszzhxza/" data-dfa="dfaszzhxza"></a>Реформа и развитие деятельностей&nbsp;Минзанятости и&nbsp;работодателей</p></td><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr24/"></a><a data-anchor="/document/16/219109/dfassmud8k/" data-dfa="dfassmud8k"></a>До конца 2025 года для прогнозирования рынка труда и развития занятости&nbsp; привлечение&nbsp;одного&nbsp;из компаний «большой четверки».</p><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr25/"></a><a data-anchor="/document/16/219109/dfasaeoai6/" data-dfa="dfasaeoai6"></a>В 2025–2027 годах создание&nbsp;проектной&nbsp;группы&nbsp;для координации работы международных и национальных экспертов по реформированию Министерства и поддержке работодателей.</p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr26/"></a><a data-anchor="/document/16/219109/dfas0sryaf/" data-dfa="dfas0sryaf"></a>Повысить эффективность управления рынком труда</p></td></tr><tr><td colspan="3" style="vertical-align: top; width: 18.87%; text-align: center;"><p><a data-anchor="/document/16/219109/bssPhr27/"></a><a data-anchor="/document/16/219109/dfasnynkb6/" data-dfa="dfasnynkb6"></a><strong>2. Обновление системы профобучения</strong></p></td></tr><tr><td style="vertical-align: top; width: 19.01%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr28/"></a><a data-anchor="/document/16/219109/dfas63ig1w/" data-dfa="dfas63ig1w"></a>Переход на трехэтапную систему обучения</p></td><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr29/"></a><a data-anchor="/document/16/219109/dfashtri4d/" data-dfa="dfashtri4d"></a>Трехэтапная система профессионального обучения: новый формат подготовки кадров, включающий видеолекции, практическое обучение и повышение квалификации. Она предусматривает создание проектных групп, разработку бесплатных видеоматериалов, внедрение современных систем экзаменов и предоставление слушателям права выбора учебного заведения через ваучеры.</p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr30/"></a><a data-anchor="/document/16/219109/dfas3b6rut/" data-dfa="dfas3b6rut"></a>Сделать обучение профессии доступным и современным</p></td></tr><tr><td colspan="3" style="vertical-align: top; width: 18.87%; text-align: center;"><p><a data-anchor="/document/16/219109/bssPhr31/"></a><a data-anchor="/document/16/219109/dfas2xb9nn/" data-dfa="dfas2xb9nn"></a><strong>3. Эффективная защита трудовых прав</strong></p></td></tr><tr><td style="vertical-align: top; width: 19.01%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr32/"></a><a data-anchor="/document/16/219109/dfaserz5g9/" data-dfa="dfaserz5g9"></a>Упрощение оформления трудовых отношений</p></td><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr33/"></a><a data-anchor="/document/16/219109/dfasvw60zo/" data-dfa="dfasvw60zo"></a>Внесение&nbsp;в Трудовой кодекс проект закона с изменениями предусматривающими:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/219109/bssPhr34/"></a><a data-anchor="/document/16/219109/dfas31t8vr/" data-dfa="dfas31t8vr"></a>признание равнозначности электронной подписи или Face-ID бумажной подписи;</li><li style="text-align:left">оформление приема и перевода только через трудовой договор, без приказа;</li><li style="text-align:left">распространение особенностей регулирования труда микрофирм на компании до 50 работников;</li><li style="text-align:left">отмена бумажной трудовой книжки при наличии электронной;</li><li style="text-align:left">возможность фиксировать грубые нарушения обязанностей в трудовом договоре;</li><li style="text-align:left">отказ от требования ждать месяц после согласия профсоюза на прекращение ТД.</li></ul></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr35/"></a><a data-anchor="/document/16/219109/dfasacvg33/" data-dfa="dfasacvg33"></a>Отказ от лишней бюрократии</p></td></tr><tr><td style="vertical-align: top; width: 19.01%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr36/"></a><a data-anchor="/document/16/219109/dfaskfqef0/" data-dfa="dfaskfqef0"></a>Наладить сотрудничество с работодателями</p></td><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr37/"></a><a data-anchor="/document/16/219109/dfaszf5mpw/" data-dfa="dfaszf5mpw"></a>Законопроект:&nbsp;отмена обязанности работодателей сдавать отчеты о вакансиях и ответственности за отказ принять кандидатов, направленных органами занятости.</p><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr38/"></a><a data-anchor="/document/16/219109/dfase01myg/" data-dfa="dfase01myg"></a>Новый порядок:&nbsp;автоматическое формирование данных о вакансиях через интеграцию программ бюджетных организаций.</p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr39/"></a><a data-anchor="/document/16/219109/dfask43xt9/" data-dfa="dfask43xt9"></a>Автоматизировать учет вакансий</p></td></tr><tr><td style="vertical-align: top; width: 19.01%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr40/"></a><a data-anchor="/document/16/219109/dfas9odk02/" data-dfa="dfas9odk02"></a>Упрощение&nbsp;рассмотрения&nbsp;административных правонарушений</p></td><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr41/"></a><a data-anchor="/document/16/219109/dfas3qumzy/" data-dfa="dfas3qumzy"></a>Внедрение&nbsp;системы&nbsp;упрощенного рассмотрения нарушений&nbsp;через ЕНСТ без участия работодателя, с отправкой решений и уведомлений в его личный кабинет.&nbsp;</p><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr42/"></a><a data-anchor="/document/16/219109/dfasi4hahp/" data-dfa="dfasi4hahp"></a>Возможность фиксирования&nbsp;трудовых договоров&nbsp;без административного наказания.</p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr43/"></a><a data-anchor="/document/16/219109/dfasmdmkqh/" data-dfa="dfasmdmkqh"></a>Упростить процедуру оформления трудовых договоров</p></td></tr><tr><td style="vertical-align: top; width: 19.01%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr44/"></a><a data-anchor="/document/16/219109/dfas3uqnwr/" data-dfa="dfas3uqnwr"></a>Введение четких правил проведения проверок трудовой инспекцией</p></td><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr45/"></a><a data-anchor="/document/16/219109/dfaskv24ru/" data-dfa="dfaskv24ru"></a>Установление&nbsp;четкого&nbsp;порядка проверок трудовыми инспекторами, включая уведомление работодателя через личный кабинет и проведение повторных проверок при невыплате зарплаты&nbsp; работникам.</p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr46/"></a><a data-anchor="/document/16/219109/dfasu935vg/" data-dfa="dfasu935vg"></a>Повысить прозрачность и эффективность проверок трудовой инспекции</p></td></tr><tr><td style="vertical-align: top; width: 19.01%; text-align: center;"><p data-end="76" data-is-last-node="" data-is-only-node="" data-start="0" style="text-align:left"><a data-anchor="/document/16/219109/bssPhr47/"></a><a data-anchor="/document/16/219109/dfasdy3msh/" data-dfa="dfasdy3msh"></a>Повысить ответственность работодателей за незаконное трудоустройство</p></td><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr48/"></a><a data-anchor="/document/16/219109/dfasd3hmqd/" data-dfa="dfasd3hmqd"></a>Ввести жесткую административную ответственность работодателей за нелегальную занятость – штраф до 30 БРВ при первом нарушении и до 100-кратного при повторном.</p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr49/"></a><a data-anchor="/document/16/219109/dfas7vwmck/" data-dfa="dfas7vwmck"></a>Сократить нелегальную занятость через усиление ответственности работодателей</p></td></tr><tr><td style="vertical-align: top; width: 19.01%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr50/"></a><a data-anchor="/document/16/219109/dfaskm9pup/" data-dfa="dfaskm9pup"></a>Цифровой учет вакансий и поддержка занятости</p></td><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr51/"></a><a data-anchor="/document/16/219109/dfasf05776/" data-dfa="dfasf05776"></a>С 2026 года – внедрение цифрового мониторинга сокращаемых рабочих мест и автоматическое предложение вакансий уволенным работникам через систему ЕНСТ.</p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr52/"></a><a data-anchor="/document/16/219109/dfasam0c8t/" data-dfa="dfasam0c8t"></a>Цифровое трудоустройство</p></td></tr><tr><td colspan="3" style="vertical-align: top; width: 19.01%; text-align: center;"><p><a data-anchor="/document/16/219109/bssPhr53/"></a><a data-anchor="/document/16/219109/dfasitquh5/" data-dfa="dfasitquh5"></a><strong>4. Улучшение и цифровизация деятельности министерства</strong></p></td></tr><tr><td style="vertical-align: top; width: 19.01%;"><a data-anchor="/document/16/219109/bssPhr54/"></a><a data-anchor="/document/16/219109/dfasiuhyoy/" data-dfa="dfasiuhyoy"></a>Улучшение&nbsp; деятельности министерства</td><td style="vertical-align: top; width: 48.92%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr55/"></a><a data-anchor="/document/16/219109/dfas1x4sbx/" data-dfa="dfas1x4sbx"></a>Поднятие уровня&nbsp;Института исследований бедности и рынка труда, внедрение&nbsp;цифровых инструментов&nbsp;для упрощения взаимодействия работодателей и работников, а также создать систему информирования о преимуществах официальной занятости. Это включает создание платформы «Мое&nbsp;дело», модернизацию ЕНСТ и запуск новых проектов для повышения эффективности работы Минзанятости.</p></td><td style="vertical-align: top; width: 31.88%; text-align: center;"><p style="text-align:left"><a data-anchor="/document/16/219109/bssPhr56/"></a><a data-anchor="/document/16/219109/dfasrnrqwx/" data-dfa="dfasrnrqwx"></a>Обеспечить прозрачность взаимодействия работодателей и работников</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

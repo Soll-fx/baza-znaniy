@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Скачайте книгу «Excel для бухгалтера: готовые таблицы для решения задач»</h2><div class="doc-snippet"><a data-anchor="/document/16/218747/dfasamthdt/" data-dfa="dfasamthdt"></a><a data-anchor="/document/16/218747/bssPhr3/"></a>Читайте, как быстро сортировать и сравнивать показатели из нескольких таблиц, находить ошибки в заполненных данных, подводить итоги. Внутри мы разобрали шесть задач из жизни бухгалтера. Вы можете скачать таблицы с готовыми формулами и отработать решение для каждой ситуации. Также смотрите наш мастер-класс по книге, в котором примеры разобраны на бухгалтерских задачах. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/218747/dfasmhz1qs/" data-dfa="dfasmhz1qs"></a><a data-anchor="/document/16/218747/bssPhr4/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41887900" sourceId="1" width="454" height="514" src="https://1gb.uz/system/content/image/297/1/-41887900/"></p><p><a data-anchor="/document/16/218747/bssPhr5/"></a><a data-anchor="/document/16/218747/dfaslca57q/" data-dfa="dfaslca57q"></a>&nbsp;Оглавление:</p><ul class="c-list"><li><a data-anchor="/document/16/218747/bssPhr6/"></a><a data-anchor="/document/16/218747/dfas2tx03h/" data-dfa="dfas2tx03h"></a><a data-anchor="/document/16/218747/backlinkanchor2/" type="backlink-anchor"></a><a href="#/document/16/218752/dfascac30e/" target="_self" title="" moduleId="16" documentId="218752" anchor="dfascac30e" class="link ">Введение</a></li><li><a data-anchor="/document/16/218747/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/16/218752/dfasf1ahou/" target="_self" title="" moduleId="16" documentId="218752" anchor="dfasf1ahou" class="link ">Задача 1</a>. Найти различия в показателях и сравнить данные за разные периоды</li><li><a data-anchor="/document/16/218747/backlinkanchor4/" type="backlink-anchor"></a><a href="#/document/16/218752/dfas3ctvll/" target="_self" title="" moduleId="16" documentId="218752" anchor="dfas3ctvll" class="link ">Задача 2</a>. Отобрать данные из таблицы по условиям</li><li><a data-anchor="/document/16/218747/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/16/218752/dfasdmi0ty/" target="_self" title="" moduleId="16" documentId="218752" anchor="dfasdmi0ty" class="link ">Задача 3</a>. Найти ошибки в заполнении</li><li><a data-anchor="/document/16/218747/backlinkanchor6/" type="backlink-anchor"></a><a href="#/document/16/218752/dfasomomlo/" target="_self" title="" moduleId="16" documentId="218752" anchor="dfasomomlo" class="link ">Задача 4</a>. Сгруппировать данные в сводную таблицу</li><li><a data-anchor="/document/16/218747/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/16/218752/dfas3qzwgy/" target="_self" title="" moduleId="16" documentId="218752" anchor="dfas3qzwgy" class="link ">Задача 5</a>. Отобрать показатели в пределах нужного лимита</li><li><a data-anchor="/document/16/218747/backlinkanchor8/" type="backlink-anchor"></a><a href="#/document/16/218752/dfaskl4tli/" target="_self" title="" moduleId="16" documentId="218752" anchor="dfaskl4tli" class="link ">Задача 6</a>. Проверить, как показатель повлияет на итоговый расчет</li></ul></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

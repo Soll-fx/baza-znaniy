@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">В каких случаях отпуск можно заменить денежной компенсацией</h2><div class="doc-snippet"><a data-anchor="/document/16/218758/dfasu6ql0a/" data-dfa="dfasu6ql0a"></a><a data-anchor="/document/16/218758/bssPhr2/"></a>У работника есть право на ежегодный трудовой отпуск, работодатель обязан его предоставлять согласно законодательству. Непредоставление трудовых отпусков, даже с согласия или по просьбе работника, запрещено Трудовым Кодексом. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218758/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218758/bssPhr3/"></a><a data-anchor="/document/16/218758/dfaslwc3rz/" data-dfa="dfaslwc3rz"></a>Компенсация за неиспользованные дни отпуска</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218758/bssPhr8/"></a><a data-anchor="/document/16/218758/dfasg2rvql/" data-dfa="dfasg2rvql"></a>По общему правилу компенсация за неиспользованные дни отпуска, то есть денежная выплата вместо отдыха, положена сотруднику только при увольнении (<span num="62" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 234 ТК). Лишь в некоторых случаях можно компенсировать отпуск деньгами тому, кто продолжает работать. Причем не полностью, а частично. В период работы по желанию работника ему можно выплатить денежную компенсацию за ежегодный отпуск сверх минимальной его продолжительности — 21 календарный день (<span num="63" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 234 ТК).</p><p><a data-anchor="/document/16/218758/bssPhr9/"></a><a data-anchor="/document/16/218758/dfasawwdan/" data-dfa="dfasawwdan"></a>Работающий сотрудник может получить денежную компенсацию взамен ежегодного отпуска, только когда у него есть право на дополнительный или удлиненный отпуск. При этом компенсировать деньгами можно лишь часть времени отдыха, которая превышает 21 календарный день (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">ст. 217 ТК</span>). В пределах минимальной продолжительности отпуска — 21 календарный день — компенсация не положена. Также есть ограничения на определенные виды дополнительных и удлиненных отпусков, которые можно компенсировать деньгами.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218758/bssPhr10/"></a><a data-anchor="/document/16/218758/dfaswwcwu8/" data-dfa="dfaswwcwu8"></a>Замены компенсацией отпуска, превышающего 21 календарный день в текущем году</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218758/bssPhr11/"></a><a data-anchor="/document/16/218758/dfasni9eiw/" data-dfa="dfasni9eiw"></a>В 2025 году бухгалтер организации А.С. Глебова в соответствии с трудовым договором имеет право:</p><ul class="c-list"><li><a data-anchor="/document/16/218758/bssPhr12/"></a><a data-anchor="/document/16/218758/dfasxme7fb/" data-dfa="dfasxme7fb"></a>на основной отпуск продолжительностью 21 календарный день;</li><li>на дополнительный отпуск продолжительностью 3 календарных дня.</li></ul><p><a data-anchor="/document/16/218758/bssPhr13/"></a><a data-anchor="/document/16/218758/dfasra8tit/" data-dfa="dfasra8tit"></a>Общая продолжительность ежегодного оплачиваемого отпуска Глебовой в 2025 году составила 24 календарных дня (21 дн. + 3 дн.). С согласия администрации она вправе заменить 3 календарных дня отпуска денежной компенсацией.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли выплатить сотруднику компенсацию за неиспользованные дополнительные дни отпуска</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/218758/bssPhr15/"></a><a data-anchor="/document/16/218758/dfasdbtsdl/" data-dfa="dfasdbtsdl"></a>Да, можно, но только по письменному заявлению сотрудника.</p><p><a data-anchor="/document/16/218758/bssPhr16/"></a><a data-anchor="/document/16/218758/dfas4byzlt/" data-dfa="dfas4byzlt"></a>Законодательством это не запрещено. Право на дополнительные дни отдыха возникает у сотрудника одновременно с возможностью получить основной оплачиваемый отпуск. Однако оно не зависит от того, отгулял сотрудник основной ежегодный оплачиваемый отпуск или нет. То же относится и к замене дополнительного отпуска компенсацией.</p><p><a data-anchor="/document/16/218758/bssPhr17/"></a><a data-anchor="/document/16/218758/dfaslf2gbo/" data-dfa="dfaslf2gbo"></a>Заменить дни дополнительного отпуска компенсацией можно с момента, когда у сотрудника возникло право на них. Платить компенсацию вместо отпуска по своему желанию работодатель не вправе. Поэтому нужно, чтобы сотрудник заявил о том, что хочет этого. Это следует из <span num="54" target="_self" lnktype="intlnk" title="" class="doc">части 2</span> статьи 234 ТК.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли выплатить сотруднику-совместителю компенсацию за неиспользованные дополнительные дни отпуска</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218758/bssPhr19/"></a><a data-anchor="/document/16/218758/dfasxz4o1n/" data-dfa="dfasxz4o1n"></a>Да, можно, но только по письменному заявлению сотрудника.</p><p><a data-anchor="/document/16/218758/bssPhr20/"></a><a data-anchor="/document/16/218758/dfasf3ysas/" data-dfa="dfasf3ysas"></a>Совместителям, в том числе внутренним, положен ежегодный основной и дополнительный отпуск, если он предусмотрен локальными актами предприятия или нормами законодательства. Ежегодные основные, а также дополнительные отпуска предоставляют совместителям одновременно с ежегодным трудовым отпуском по основной работе (<span num="104" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 439 ТК). Если работник-совместитель подал работодателю заявление о замене дней дополнительного отпуска на денежную компенсацию, то работодатель может удовлетворить просьбу работника.</p></div></div></div><a data-anchor="/document/16/218758/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218758/bssPhr21/"></a><a data-anchor="/document/16/218758/dfastlgthu/" data-dfa="dfastlgthu"></a>Основание для замены отпуска компенсацией</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218758/bssPhr23/"></a><a data-anchor="/document/16/218758/dfasxlau8q/" data-dfa="dfasxlau8q"></a>Платить компенсацию вместо отпуска по своему желанию работодатель не вправе. Сделать это он может только после того, как получит заявление от сотрудника. Выплачивать или нет компенсацию за неиспользованный отпуск сверх минимальной его продолжительности, если сотрудник не увольняется, решает руководство организации.</p><p><a data-anchor="/document/16/218758/bssPhr24/"></a><a data-anchor="/document/16/218758/dfasd05p8a/" data-dfa="dfasd05p8a"></a>Соглашение работника с работодателем о замене части отпуска, превышающую 21 календарный день, денежной компенсацией возможно только по просьбе работника. Законодательство допускает возможность замены части отпуска, превышающую 21 календарный день, денежной компенсацией, но не обязывает работодателя в обязательном порядке удовлетворить просьбу работника.</p></div><a data-anchor="/document/16/218758/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218758/bssPhr25/"></a><a data-anchor="/document/16/218758/dfasph8lo7/" data-dfa="dfasph8lo7"></a>Виды отпусков, которые нельзя заменить компенсацией</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218758/bssPhr27/"></a><a data-anchor="/document/16/218758/dfas0k28qr/" data-dfa="dfas0k28qr"></a><a data-anchor="/document/16/218758/dfasmlcgg2/" data-dfa="dfasmlcgg2"></a>Платить компенсацию вместо основного отпуска до увольнения запрещено (<span num="65" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 234 ТК). Нельзя в период работы заменить дни дополнительного или основного удлиненного отпуска компенсацией работникам:</p><ul class="c-list"><li><a data-anchor="/document/16/218758/bssPhr28/"></a><a data-anchor="/document/16/218758/dfastzicz5/" data-dfa="dfastzicz5"></a>занятым на работах в неблагоприятных условиях труда (<span num="66" target="_self" lnktype="intlnk" title="" class="doc">ст. 481 ТК</span>);</li><li>выполняющим работу в тяжелых и неблагоприятных природно-климатических условиях (<span num="67" target="_self" lnktype="intlnk" title="" class="doc">ст. 483 ТК</span>)</li><li>в возрасте до 18 лет (<span num="68" target="_self" lnktype="intlnk" title="" class="doc">ст. 218 ТК</span>);</li><li>с инвалидностью I и II групп (<span num="69" target="_self" lnktype="intlnk" title="" class="doc">ст. 218 ТК</span>).</li></ul><p><a data-anchor="/document/16/218758/bssPhr29/"></a><a data-anchor="/document/16/218758/dfasvzipb7/" data-dfa="dfasvzipb7"></a><a data-anchor="/document/16/218758/dfas5g88e1/" data-dfa="dfas5g88e1"></a>Также, в период работы все виды социальных отпусков работники должны использовать в натуре и замена их денежной компенсацией не допустима (<span num="70" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 234 ТК). Виды социальных отпусков определены в <span num="71" target="_self" lnktype="intlnk" title="" class="doc">статье 237</span> ТК:</p><ul class="c-list"><li><a data-anchor="/document/16/218758/bssPhr30/"></a><a data-anchor="/document/16/218758/dfasglbo7c/" data-dfa="dfasglbo7c"></a>по беременности и родам;</li><li>по уходу за детьми;</li><li>в связи с обучением;</li><li><a data-anchor="/document/16/218758/dfasvykuh7/" data-dfa="dfasvykuh7"></a>творческие отпуска.</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли заменить дополнительный отпуск за работу в неблагоприятных условиях труда денежной компенсацией</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218758/bssPhr32/"></a><a data-anchor="/document/16/218758/dfasuq9eu2/" data-dfa="dfasuq9eu2"></a>Нет, нельзя.</p><p><a data-anchor="/document/16/218758/bssPhr33/"></a><a data-anchor="/document/16/218758/dfasz2739t/" data-dfa="dfasz2739t"></a>Этот вид ежегодного дополнительного отпуска, предусмотренный <span num="56" target="_self" lnktype="intlnk" title="" class="doc">статьей 481</span> ТК, должен быть использован в натуральном виде и замена его денежной компенсацией не допустима.</p></div></div></div><a data-anchor="/document/16/218758/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218758/bssPhr34/"></a><a data-anchor="/document/16/218758/dfaspgpg6f/" data-dfa="dfaspgpg6f"></a>Ответственность работодателя за замену компенсацией всего отпуска сотрудника</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218758/bssPhr36/"></a><a data-anchor="/document/16/218758/dfasq09nd4/" data-dfa="dfasq09nd4"></a><a data-anchor="/document/16/218758/dfas9dexn8/" data-dfa="dfas9dexn8"></a><a data-anchor="/document/16/218758/dfasfhiwzh/" data-dfa="dfasfhiwzh"></a>Если работодатель заменит компенсацией весь отпуск, а не часть, превышающую 21 календарный день, то этим он нарушит трудовое законодательство. За нарушение трудового законодательства установлены штрафы в размере от 5 до 10 размеров базовой расчетной величины (БРВ). Это предусмотрено <span num="33" target="_self" lnktype="intlnk" title="" class="doc">частью 1</span> статьи 49 КоАО.</p></div><a data-anchor="/document/16/218758/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218758/bssPhr37/"></a><a data-anchor="/document/16/218758/dfasxyy25c/" data-dfa="dfasxyy25c"></a>Сроки выплаты компенсации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218758/bssPhr39/"></a><a data-anchor="/document/16/218758/dfasq81xzk/" data-dfa="dfasq81xzk"></a><a data-anchor="/document/16/218758/dfas7osfxv/" data-dfa="dfas7osfxv"></a>Законодательство не установило четких сроков для выплаты компенсации за неиспользованный отпуск, не связанной с увольнением. Это объясняется тем, что замена отпуска денежной компенсацией не обязательна для организации. Это право, а не обязанность, поэтому сроки выплаты определяют по договоренности между сотрудником и администрацией организации.</p><p><a data-anchor="/document/16/218758/bssPhr40/"></a><a data-anchor="/document/16/218758/dfasgz17n7/" data-dfa="dfasgz17n7"></a>Если же трудовой договор с работником прекращается, то денежную компенсацию за все дни неиспользованных работником основных и дополнительных отпусков необходимо выплатить в день увольнения (<span num="57" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 172 ТК).</p></div><a data-anchor="/document/16/218758/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/218758/bssPhr41/"></a><a data-anchor="/document/16/218758/dfaspb3x16/" data-dfa="dfaspb3x16"></a>Документальное оформление</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218758/bssPhr43/"></a><a data-anchor="/document/16/218758/dfas4s16te/" data-dfa="dfas4s16te"></a>Если сотрудник в период работы решил заменить дни дополнительного отпуска денежной компенсацией и ограничения по такой замене отсутствуют, то он должен написать соответствующее заявление в произвольной форме. Решение о выплате компенсации за неиспользованный отпуск, не связанной с увольнением, принимает администрация организации и оформляет приказом. Согласиться на выплату компенсации работодатель вправе, но не обязан, то есть он может и отказать (<span num="58" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 234 ТК). На основании этих документов бухгалтер рассчитывает компенсацию за неиспользованный отпуск.</p><p><a data-anchor="/document/16/218758/bssPhr44/"></a><a data-anchor="/document/16/218758/dfas0bd32l/" data-dfa="dfas0bd32l"></a><a data-anchor="/document/16/218758/dfashw9z6g/" data-dfa="dfashw9z6g"></a>Выплату компенсации зафиксируйте <span num="16" lnktype="intlnk" title="" class="doc">расходным кассовым ордером</span>. Если компенсация была начислена одновременно с зарплатой за текущий месяц, то ее можно выплатить по ведомостям <span num="17" lnktype="intlnk" title="" class="doc">формы № Т-51</span> или <span num="18" lnktype="intlnk" title="" class="doc">формы № Т-49</span> вместе с зарплатой. Компенсацию также можно перечислить на пластиковую карточку сотрудника.</p></div><a data-anchor="/document/16/218758/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/218758/bssPhr45/"></a><a data-anchor="/document/16/218758/dfaseh4rdn/" data-dfa="dfaseh4rdn"></a>Приказ о замене части ежегодного оплачиваемого отпуска денежной компенсацией</h2><p><a data-anchor="/document/16/218758/dfaspl76gg/" data-dfa="dfaspl76gg"></a><a data-anchor="/document/16/218758/bssPhr46/"></a><a data-anchor="/document/16/218758/backlinkanchor235/" type="backlink-anchor"></a><a href="#/document/118/205886" data-warm-notices="" data-warm-notice-type="" target="_self" title="" moduleId="118" documentId="205886" class="link "><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41892822" sourceId="1" width="610" height="653.3817126269956" src="https://1gb.uz/system/content/image/297/1/-41892822/"></a></p><a data-anchor="/document/16/218758/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/218758/bssPhr47/"></a><a data-anchor="/document/16/218758/dfasndczrv/" data-dfa="dfasndczrv"></a>Расчет денежной компенсации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218758/bssPhr49/"></a><a data-anchor="/document/16/218758/dfasksxywg/" data-dfa="dfasksxywg"></a>Среднедневной заработок для расчета денежной компенсации за неиспользованный отпуск определяйте исходя из среднемесячной заработной платы и среднемесячного числа рабочих дней.</p><p style="text-align:start"><a data-anchor="/document/16/218758/bssPhr50/"></a><a data-anchor="/document/16/218758/dfaspih8x3/" data-dfa="dfaspih8x3"></a><strong>Среднемесячное число рабочих дней = 25,3.</strong></p><p style="text-align:start"><a data-anchor="/document/16/218758/bssPhr51/"></a><a data-anchor="/document/16/218758/dfasn5u62s/" data-dfa="dfasn5u62s"></a>Среднедневной заработок определяйте по формуле:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td><p style="text-align:center"><a data-anchor="/document/16/218758/bssPhr52/"></a><a data-anchor="/document/16/218758/dfasf9laid/" data-dfa="dfasf9laid"></a>Среднедневной заработок</p></td><td><p style="text-align:center"><a data-anchor="/document/16/218758/bssPhr53/"></a><a data-anchor="/document/16/218758/dfasds2rcc/" data-dfa="dfasds2rcc"></a>=</p></td><td><p style="text-align:center"><a data-anchor="/document/16/218758/bssPhr54/"></a><a data-anchor="/document/16/218758/dfasx01gn8/" data-dfa="dfasx01gn8"></a>Среднемесячная зарплата</p></td><td><p style="text-align:center"><a data-anchor="/document/16/218758/bssPhr55/"></a><a data-anchor="/document/16/218758/dfasam8fwe/" data-dfa="dfasam8fwe"></a>÷</p></td><td><p style="text-align:center"><a data-anchor="/document/16/218758/bssPhr56/"></a><a data-anchor="/document/16/218758/dfastqaqzk/" data-dfa="dfastqaqzk"></a>25,3</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p style="text-align:start"><a data-anchor="/document/16/218758/bssPhr57/"></a><a data-anchor="/document/16/218758/dfasm83ay4/" data-dfa="dfasm83ay4"></a>Если один или несколько месяцев расчетного периода отработаны не полностью либо из расчетного периода исключается время, указанное в <span num="219" target="_self" lnktype="intlnk" title="" class="doc">части 7</span> статьи 257 ТК, то среднедневную зарплату рассчитывайте по формуле:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr58/"></a><a data-anchor="/document/16/218758/dfasdoo74l/" data-dfa="dfasdoo74l"></a><nobr>Среднедневная</nobr> зарплата</td><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr59/"></a><a data-anchor="/document/16/218758/dfasn0bo7c/" data-dfa="dfasn0bo7c"></a>=</td><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr60/"></a><a data-anchor="/document/16/218758/dfasxt3fwe/" data-dfa="dfasxt3fwe"></a>Фактически <nobr>начисленная</nobr> зарплата за расчетный период</td><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr61/"></a><a data-anchor="/document/16/218758/dfaslkca2c/" data-dfa="dfaslkca2c"></a>÷</td><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr62/"></a><a data-anchor="/document/16/218758/dfas6ykteo/" data-dfa="dfas6ykteo"></a><nobr>25,3</nobr></td><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr63/"></a><a data-anchor="/document/16/218758/dfasprgps2/" data-dfa="dfasprgps2"></a>х</td><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr64/"></a><a data-anchor="/document/16/218758/dfasg34xq4/" data-dfa="dfasg34xq4"></a>(</td><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr65/"></a><a data-anchor="/document/16/218758/dfaskfueoq/" data-dfa="dfaskfueoq"></a>количество полных <nobr>календарных</nobr> месяцев</td><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr66/"></a><a data-anchor="/document/16/218758/dfashzy3th/" data-dfa="dfashzy3th"></a>+</td><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr67/"></a><a data-anchor="/document/16/218758/dfasfoxsod/" data-dfa="dfasfoxsod"></a>количество <nobr>календарных</nobr> дней в неполных календарных месяцах</td><td style="vertical-align: middle;"><a data-anchor="/document/16/218758/bssPhr68/"></a><a data-anchor="/document/16/218758/dfasbkcdvw/" data-dfa="dfasbkcdvw"></a>)</td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p style="text-align:start"><a data-anchor="/document/16/218758/bssPhr69/"></a><a data-anchor="/document/16/218758/dfaszl3yfb/" data-dfa="dfaszl3yfb"></a>Порядок расчета среднемесячной и среднедневной зарплаты в рекомендациях «Как рассчитать отпускные», <span data-warm-notices="41367955" data-warm-notice-type="error" num="185" target="_self" lnktype="intlnk" title="" class="doc">«Как рассчитать среднюю заработную плату»</span>.</p><p style="text-align:start"><a data-anchor="/document/16/218758/bssPhr70/"></a><a data-anchor="/document/16/218758/dfas0nw789/" data-dfa="dfas0nw789"></a>Средний заработок для выплаты денежной компенсации за неиспользованный отпуск работнику (в том числе при суммированном учете рабочего времени) определяется путем умножения среднедневной заработной платы, исчисленной в соответствии с частью 8 статьи <span num="201" target="_self" lnktype="intlnk" title="" class="doc">257</span> Трудового кодекса, на количество неиспользованных дней отпуска, (кроме воскресных и праздничных дней) (ст. <span num="202" target="_self" lnktype="intlnk" title="" class="doc">234</span> ТК, п. 8 Положения, приложения № <span num="203" target="_self" lnktype="intlnk" title="" class="doc">5</span> к постановлению Кабмина от 14.11.2024 ПКМ № 758).</p><p style="text-align:start"><a data-anchor="/document/16/218758/bssPhr71/"></a><a data-anchor="/document/16/218758/dfaswd9t1m/" data-dfa="dfaswd9t1m"></a>При этом средняя зарплата определяется в размере <strong>1/12 суммы от всех доходов в виде оплаты труда, начисленных работнику за 12 календарных месяцев, предшествующих месяцу выхода в отпуск либо выплаты денежной компенсации за неиспользованный отпуск</strong>.</p></div><a data-anchor="/document/16/218758/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/218758/bssPhr72/"></a><a data-anchor="/document/16/218758/dfas9dnw15/" data-dfa="dfas9dnw15"></a>Бухучет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218758/bssPhr74/"></a><a data-anchor="/document/16/218758/dfasu7zb96/" data-dfa="dfasu7zb96"></a>Начисление и выплату компенсации за неиспользованный отпуск, не связанной с увольнением, отразите проводками:</p><p><a data-anchor="/document/16/218758/bssPhr75/"></a><a data-anchor="/document/16/218758/dfasse8m4s/" data-dfa="dfasse8m4s"></a><strong>Дебет 2010, 2310, 2510, 2710 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218758/bssPhr76/"></a><a data-anchor="/document/16/218758/dfashodgwy/" data-dfa="dfashodgwy"></a>начислена компенсация за неиспользованный отпуск, не связанная с увольнением;</li></ul><p><a data-anchor="/document/16/218758/bssPhr77/"></a><a data-anchor="/document/16/218758/dfaszygeed/" data-dfa="dfaszygeed"></a><strong>Дебет 6710 Кредит 5010, 5530</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218758/bssPhr78/"></a><a data-anchor="/document/16/218758/dfastp9xs5/" data-dfa="dfastp9xs5"></a>выдана, перечислена на пластиковую карту сотрудника компенсация за неиспользованный отпуск, не связанная с увольнением.</li></ul></div><a data-anchor="/document/16/218758/tit10/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit10"><a data-anchor="/document/16/218758/bssPhr79/"></a><a data-anchor="/document/16/218758/dfas2bt595/" data-dfa="dfas2bt595"></a>Налогообложение компенсации за неиспользованный отпуск</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218758/bssPhr81/"></a><a data-anchor="/document/16/218758/dfass0rxmy/" data-dfa="dfass0rxmy"></a><strong>НДФЛ и социальный налог</strong></p><p><a data-anchor="/document/16/218758/bssPhr82/"></a><a data-anchor="/document/16/218758/dfaspxhqqn/" data-dfa="dfaspxhqqn"></a><a data-anchor="/document/16/218758/dfas25qidd/" data-dfa="dfas25qidd"></a>Компенсация за неиспользованный отпуск относится к выплатам за неотработанное время и включается в состав доходов в виде оплаты труда работника. Компенсация за неиспользованный отпуск облагается:</p><ul class="c-list"><li><a data-anchor="/document/16/218758/bssPhr83/"></a><a data-anchor="/document/16/218758/dfaslzwili/" data-dfa="dfaslzwili"></a>НДФЛ (<span num="35" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 371, <span num="36" target="_self" lnktype="intlnk" title="" class="doc">п. 1 а</span> ст. 374 НК);</li><li>Социальным налогом (<span num="37" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 404 НК).</li></ul><p level="2" style="text-align:left"><a data-anchor="/document/16/218758/bssPhr84/"></a><a data-anchor="/document/16/218758/dfasl6m72b/" data-dfa="dfasl6m72b"></a><strong>Налог на прибыль</strong></p><p><a data-anchor="/document/16/218758/bssPhr85/"></a><a data-anchor="/document/16/218758/dfasmuqta6/" data-dfa="dfasmuqta6"></a>При расчете налога на прибыль компенсация за неиспользованный отпуск, относится к вычитаемым расходам (<span num="38" target="_self" lnktype="intlnk" title="" class="doc">ст. 305 НК</span>).</p><p level="2" style="text-align:left"><a data-anchor="/document/16/218758/bssPhr86/"></a><a data-anchor="/document/16/218758/dfasrnwuaq/" data-dfa="dfasrnwuaq"></a><strong>Налог с оборота</strong></p><p><a data-anchor="/document/16/218758/bssPhr87/"></a><a data-anchor="/document/16/218758/dfasexdexy/" data-dfa="dfasexdexy"></a>Сумма начисленной компенсации никак не повлияет на расчет налога с оборота, так как налог считают исходя из совокупного дохода без учета расходов (<span num="39" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 463, <span num="40" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 464 НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли применять льготу по НДФЛ на компенсацию при расторжении трудового договора с врачом-иностранцем</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/218758/bssPhr89/"></a><a data-anchor="/document/16/218758/dfask24wny/" data-dfa="dfask24wny"></a>Нет, нельзя. Доходы физического лица в виде оплаты труда приведены в <span num="167" target="_self" lnktype="intlnk" title="" class="doc">статье 371</span> НК. Выходное пособие и другие выплаты, производимые в соответствии с законодательством о труде при прекращении трудового договора с работником, являются прочими доходами (<span num="168" target="_self" lnktype="intlnk" title="" class="doc">п. 9</span> ст. 377 НК). Следовательно, к данным выплатам не применима льгота, предоставленная <span num="169" target="_self" lnktype="intlnk" title="" class="doc">пунктом 10</span> ПП-2863 от 01.04.2017.</p></div></div></div><p><a data-anchor="/document/16/218758/dfassgl1un/" data-dfa="dfassgl1un"></a><a data-anchor="/document/16/218758/bssPhr90/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882114" sourceId="1" fullSizeImageId="-41882113" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882114/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

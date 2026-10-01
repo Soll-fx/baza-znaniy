@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как установить режим рабочего времени </h2><div class="doc-snippet"><a data-anchor="/document/16/211426/dfasgtho2n/" data-dfa="dfasgtho2n"></a><a data-anchor="/document/16/211426/bssPhr2/"></a>Рабочее время&nbsp;— время, в&nbsp;течение которого работник в&nbsp;соответствии с&nbsp;распорядком, графиком работы либо условиями трудового договора должен выполнять свои трудовые обязанности. В&nbsp;рекомендации узнаете, как установить режим рабочего времени в&nbsp;организации. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211426/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211426/bssPhr3/"></a><a data-anchor="/document/16/211426/dfaskzf441/" data-dfa="dfaskzf441"></a>Виды рабочего времени</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211426/bssPhr5/"></a><a data-anchor="/document/16/211426/dfasisoymx/" data-dfa="dfasisoymx"></a>Трудовой кодекс предусматривает следующие виды рабочего времени:</p><ul class="c-list"><li><a data-anchor="/document/16/211426/bssPhr6/"></a><a data-anchor="/document/16/211426/dfas6agz8k/" data-dfa="dfas6agz8k"></a>нормальная продолжительность рабочего времени;</li><li><span data-warm-notices="41690533" data-warm-notice-type="error" num="45" target="_self" lnktype="intlnk" title="" class="doc">сокращенная продолжительность рабочего времени</span>;</li><li><span num="46" target="_self" lnktype="intlnk" title="" class="doc">неполное рабочее время</span>.</li></ul><p><a data-anchor="/document/16/211426/bssPhr7/"></a><a data-anchor="/document/16/211426/dfas6o1cg7/" data-dfa="dfas6o1cg7"></a>Соблюдать нормы рабочего времени, установленные законодательством, обязаны все организации независимо от&nbsp;формы собственности.</p><p><a data-anchor="/document/16/211426/bssPhr8/"></a><a data-anchor="/document/16/211426/dfasv7l0dm/" data-dfa="dfasv7l0dm"></a>Виды рабочего времени отличаются друг от&nbsp;друга по&nbsp;их&nbsp;продолжительности и&nbsp;порядку установления. Так, нормальная продолжительность рабочего времени установлена в <a href="https://1kadry.uz/#/document/90/9765/tit2184/" target="_self" title="">статье&nbsp;182&nbsp;ТК</a> и&nbsp;его применяют во&nbsp;всех случаях, когда не&nbsp;установлено сокращенное или неполное рабочее время.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Сколько времени длится производственная гимнастика</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/211426/bssPhr10/"></a><a data-anchor="/document/16/211426/dfas6m2nn9/" data-dfa="dfas6m2nn9"></a>Время продолжительности производственной гимнастики составляет, как правило, пять минут.</p><p style="text-align:left"><a data-anchor="/document/16/211426/bssPhr11/"></a><a data-anchor="/document/16/211426/dfaseci8fw/" data-dfa="dfaseci8fw"></a>Установление работодателями в течение рабочего дня специальных перерывов для выполнения работниками комплексов производственной гимнастики можете установить в локальном акте предприятия, например, ПВТР или в коллективном договоре.</p><p style="text-align:left"><a data-anchor="/document/16/211426/bssPhr12/"></a><a data-anchor="/document/16/211426/dfasuyzu1m/" data-dfa="dfasuyzu1m"></a>Согласно Постановлению Президента от 18.12.2018 года № ПП-<span num="123" target="_self" lnktype="intlnk" title="" class="doc">4063</span> для профилактики неинфекционных заболеваний, поддержке здорового образа жизни и повышению уровня физической активности для работников организаций создаются условия пятиминутных производственных гимнастик. Так, как по данным Всемирной организации здравоохранения, за последние несколько десятилетий проблема избыточной массы тела и ожирения растет во всем мире.</p></div></div></div><a data-anchor="/document/16/211426/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211426/bssPhr13/"></a><a data-anchor="/document/16/211426/dfas6xzxud/" data-dfa="dfas6xzxud"></a>Нормальная продолжительность рабочего времени</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211426/bssPhr19/"></a><a data-anchor="/document/16/211426/dfasr25ka1/" data-dfa="dfasr25ka1"></a>Нормальная продолжительность рабочей недели не&nbsp;должна превышать 40&nbsp;часов (<a href="https://1kadry.uz/#/document/90/9765/tit2184/" target="_self" title="">ст.&nbsp;182&nbsp;ТК</a>). В&nbsp;течение недели рабочее время нужно распределять так, чтобы его общая продолжительность не&nbsp;была больше 40&nbsp;часов.</p><p><a data-anchor="/document/16/211426/bssPhr20/"></a><a data-anchor="/document/16/211426/dfasixt16s/" data-dfa="dfasixt16s"></a>Трудовой кодекс предусматривает два вида рабочей недели:</p><ul class="c-list"><li><a data-anchor="/document/16/211426/bssPhr21/"></a><a data-anchor="/document/16/211426/dfas3ccqwg/" data-dfa="dfas3ccqwg"></a>пятидневную с&nbsp;двумя выходными днями:</li><li>шестидневную с&nbsp;одним выходным днем.</li></ul><p><a data-anchor="/document/16/211426/bssPhr22/"></a><a data-anchor="/document/16/211426/dfas7fpye3/" data-dfa="dfas7fpye3"></a>Наиболее распространенный вариант&nbsp;— восьмичасовой рабочий день при пятидневной рабочей неделе с&nbsp;выходными субботой, воскресеньем.</p><p><a data-anchor="/document/16/211426/bssPhr23/"></a><a data-anchor="/document/16/211426/dfaspq8s1q/" data-dfa="dfaspq8s1q"></a>При шестидневной рабочей неделе предусмотрено шесть рабочих и&nbsp;один выходной день, при этом продолжительность ежедневной работы не&nbsp;может превышать семи часов.</p><p><a data-anchor="/document/16/211426/bssPhr24/"></a><a data-anchor="/document/16/211426/dfasswvaph/" data-dfa="dfasswvaph"></a>Действующий Трудовой кодекс не&nbsp;определяет, какой вид рабочей недели является основным. Поэтому предприятие вправе своим локальным актом установить свой режим рабочей недели.</p><p><a data-anchor="/document/16/211426/bssPhr25/"></a><a data-anchor="/document/16/211426/dfaswflk0u/" data-dfa="dfaswflk0u"></a>При расчете нормальной продолжительности времени учитывайте и&nbsp;другие требования законодательства, например, продолжительность ежедневной работы накануне праздничных дней и&nbsp;в&nbsp;ночное время уменьшается на&nbsp;один час (<span num="70" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;187</span>, <span num="71" target="_self" lnktype="intlnk" title="" class="doc">188</span>&nbsp;ТК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="41690524" data-warm-notice-type="error" num="48" target="_self" lnktype="intlnk" title="" class="doc">Как привлечь работника к&nbsp;работе в&nbsp;ночное время</span></li><li class="incut-v4-more-about__item"><span num="49" target="_self" lnktype="intlnk" title="" class="doc">Как привлечь к&nbsp;работе в&nbsp;выходные и&nbsp;праздники</span></li><li class="incut-v4-more-about__item"><span num="50" target="_self" lnktype="intlnk" title="" class="doc">Какие локальные акты должны быть в&nbsp;организации и&nbsp;как их&nbsp;разработать</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211426/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211426/bssPhr27/"></a><a data-anchor="/document/16/211426/dfasytpqde/" data-dfa="dfasytpqde"></a>Режим неполного рабочего времени</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211426/bssPhr29/"></a><a data-anchor="/document/16/211426/dfasoxyodb/" data-dfa="dfasoxyodb"></a>Помимо нормальной продолжительности рабочего времени закон предусматривает режим <span num="51" target="_self" lnktype="intlnk" title="" class="doc">неполного рабочего времени</span>.</p><p><a data-anchor="/document/16/211426/bssPhr30/"></a><a data-anchor="/document/16/211426/dfasouz8m0/" data-dfa="dfasouz8m0"></a>Неполное рабочее время устанавливают по&nbsp;соглашению между работником и&nbsp;работодателем.</p><p><a data-anchor="/document/16/211426/bssPhr31/"></a><a data-anchor="/document/16/211426/dfasp1lhdr/" data-dfa="dfasp1lhdr"></a>Неполное рабочее время означает, что работник работает неполную рабочую неделю, смену или рабочий день. Например, не&nbsp;пять рабочих дней, а&nbsp;четыре или не&nbsp;восемь часов в&nbsp;смену, а&nbsp;шесть. И&nbsp;оплата труда производится пропорционально отработанному времени, а&nbsp;при сдельной системе оплаты труда&nbsp;— за&nbsp;фактически выполненную работу.</p><p><a data-anchor="/document/16/211426/bssPhr32/"></a><a data-anchor="/document/16/211426/dfasg295hc/" data-dfa="dfasg295hc"></a>Режим неполного рабочего времени, в&nbsp;отличии от <span data-warm-notices="41690541" data-warm-notice-type="error" num="52" target="_self" lnktype="intlnk" title="" class="doc">режима сокращенного рабочего времени</span>, имеет свои особенности. Так, при неполной рабочей неделе все нерабочие дни отражают как выходные дни (<span num="53" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;186&nbsp;ТК</span>).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211426/bssPhr33/"></a><a data-anchor="/document/16/211426/dfaslmbh8n/" data-dfa="dfaslmbh8n"></a>Как установить работнику неполное рабочее время, читайте в</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/211426/bssPhr34/"></a><a data-anchor="/document/16/211426/dfaslzo082/" data-dfa="dfaslzo082"></a><span num="54" target="_self" lnktype="intlnk" title="" class="doc"><strong>рекомендации⇒</strong></span></p><div class="doc-columns doc-columns_type_forms"><table class="" style="width:92%"><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr></table></div></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211426/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211426/bssPhr35/"></a><a data-anchor="/document/16/211426/dfasfagzyb/" data-dfa="dfasfagzyb"></a>Сокращенное рабочее время</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/211426/bssPhr37/"></a><a data-anchor="/document/16/211426/dfas1gvhea/" data-dfa="dfas1gvhea"></a>Максимальная предельная продолжительность сокращенного рабочего времени устанавливается законодательством, колсоглашениями, колдоговорами, а&nbsp;также трудовым договором с&nbsp;работником. Сокращенный режим рабочего времени устанавливают для отдельных категорий работников и&nbsp;засчитывают как полную норму труда (<a href="https://1kadry.uz/#/document/90/9765/tit2185/" target="_self" title="">ст.&nbsp;183&nbsp;ТК</a>).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211426/bssPhr38/"></a><a data-anchor="/document/16/211426/dfask0bn47/" data-dfa="dfask0bn47"></a>При необходимости работнику с&nbsp;сокращенным рабочим временем дополнительно можно установить и&nbsp;неполное рабочее время.</p><div class="incut-v4__content" data-incut-content=""><div class="doc-columns doc-columns_type_forms"><table class="" style="width:92%"><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr></table></div></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Каким работникам работодатель обязан установить сокращенный режим рабочего времени</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211426/bssPhr40/"></a><a data-anchor="/document/16/211426/dfasoqshf9/" data-dfa="dfasoqshf9"></a>В&nbsp;отличие от <span num="60" target="_self" lnktype="intlnk" title="" class="doc">неполного рабочего времени</span> режим сокращенной продолжительности рабочего времени нельзя устанавливать ни&nbsp;по&nbsp;соглашению сторон, ни&nbsp;по&nbsp;инициативе работодателя. Категории персонала, на&nbsp;которые этот режим распространяется в&nbsp;обязательном порядке, перечислены в <span num="61" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;183</span>&nbsp;ТК. Трудового кодекса.</p><p><a data-anchor="/document/16/211426/bssPhr41/"></a><a data-anchor="/document/16/211426/dfashnzs4s/" data-dfa="dfashnzs4s"></a>40-часовую рабочую неделю сокращают работникам:</p><ul class="c-list"><li><a data-anchor="/document/16/211426/bssPhr42/"></a><a data-anchor="/document/16/211426/dfasd8ygen/" data-dfa="dfasd8ygen"></a>в&nbsp;возрасте от&nbsp;16&nbsp;до&nbsp;18&nbsp;лет&nbsp;— не&nbsp;более 36&nbsp;ч в&nbsp;неделю, а&nbsp;в&nbsp;возрасте от&nbsp;15&nbsp;до&nbsp;16&nbsp;лет&nbsp;— не&nbsp;более 24&nbsp;ч в&nbsp;неделю (<span num="62" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;415&nbsp;ТК</span>);</li><li>с&nbsp;инвалидностью&nbsp;I и&nbsp;II групп&nbsp;— не&nbsp;более 36&nbsp;ч в&nbsp;неделю (<span num="63" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;427&nbsp;ТК</span>);</li><li>занятым на&nbsp;работах с&nbsp;неблагоприятными условиями труда (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;477&nbsp;ТК</span>)&nbsp;— не&nbsp;более 36&nbsp;ч в&nbsp;неделю;</li><li>отдельных категорий (медикам, педагогам и&nbsp;другим), работа которых связана с&nbsp;повышенным эмоциональным, умственным, нервным напряжением (<span num="65" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;184&nbsp;ТК</span>)&nbsp;— не&nbsp;более 36&nbsp;ч в&nbsp;неделю;</li><li>одному из&nbsp;родителей, опекуну ребенка в&nbsp;возрасте до&nbsp;трех лет, работающим в&nbsp;учреждениях, финансируемых из&nbsp;бюджета&nbsp;— не&nbsp;более 35&nbsp;ч в&nbsp;неделю (<span num="66" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;397&nbsp;ТК</span>).</li></ul><p><a data-anchor="/document/16/211426/bssPhr43/"></a><a data-anchor="/document/16/211426/dfashqfdks/" data-dfa="dfashqfdks"></a>Если сокращенное рабочее время не&nbsp;будет установлено в&nbsp;соответствии с&nbsp;Законом, то&nbsp;выполняемую работу сверх установленной продолжительности рабочего времени нужно оплатить как сверхурочную.</p><p><a data-anchor="/document/16/211426/bssPhr44/"></a><a data-anchor="/document/16/211426/dfas7t4wbf/" data-dfa="dfas7t4wbf"></a>Для несовершеннолетних работников, помимо сокращенной рабочей недели, Закон предусматривает и&nbsp;сокращенную продолжительность ежедневной работы (<span num="67" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;415&nbsp;ТК</span>).</p><p><a data-anchor="/document/16/211426/bssPhr45/"></a><a data-anchor="/document/16/211426/dfas6tgfw8/" data-dfa="dfas6tgfw8"></a>Сокращенная продолжительность рабочего времени должна быть указана в&nbsp;трудовом договоре.</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211426/bssPhr46/"></a><a data-anchor="/document/16/211426/dfasrvrtew/" data-dfa="dfasrvrtew"></a>В&nbsp;предпраздничный день работа сотрудников с&nbsp;сокращенным режимом рабочего времени должна быть сокращена еще на&nbsp;один час на&nbsp;общих основаниях</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/211426/bssPhr47/"></a><a data-anchor="/document/16/211426/dfas25mcxk/" data-dfa="dfas25mcxk"></a>(<span num="102" target="_self" lnktype="intlnk" title="" class="doc">ч&nbsp;1</span>&nbsp;ст.&nbsp;187&nbsp;ТК)</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="58" target="_self" lnktype="intlnk" title="" class="doc">Коллективное соглашение</span></li><li class="incut-v4-more-about__item"><span num="59" target="_self" lnktype="intlnk" title="" class="doc">Как разработать и заключить коллективный договор</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211426/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211426/bssPhr49/"></a><a data-anchor="/document/16/211426/dfas99ka1t/" data-dfa="dfas99ka1t"></a>Установление режима рабочего времени</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211426/bssPhr51/"></a><a data-anchor="/document/16/211426/dfas63ag7t/" data-dfa="dfas63ag7t"></a>Режим рабочего времени в&nbsp;организации закрепляют в <span num="78" target="_self" lnktype="intlnk" title="" class="doc">Правилах трудового распорядка</span> и <span num="79" target="_self" lnktype="intlnk" title="" class="doc">коллективных договорах</span>. В&nbsp;тоже время на&nbsp;малых предприятиях и&nbsp;в&nbsp;микрофирмах вид рабочей недели можно установить и&nbsp;в&nbsp;трудовых договорах с&nbsp;работниками.</p><p><a data-anchor="/document/16/211426/bssPhr52/"></a><a data-anchor="/document/16/211426/dfashy0ozx/" data-dfa="dfashy0ozx"></a>Порядок установления режима рабочего времени зависит от&nbsp;установленного на&nbsp;предприятии вида учета рабочего времени:</p><ul class="c-list"><li><a data-anchor="/document/16/211426/bssPhr53/"></a><a data-anchor="/document/16/211426/dfasf0idr0/" data-dfa="dfasf0idr0"></a>поденный или недельный учет;</li><li>суммированный учет.</li></ul><p><a data-anchor="/document/16/211426/bssPhr54/"></a><a data-anchor="/document/16/211426/dfas8zqra4/" data-dfa="dfas8zqra4"></a>На&nbsp;предприятиях, работающих в&nbsp;одну смену, устанавливают единый для всех режим рабочего времени. Время начала и&nbsp;окончания ежедневной работы, обеденного перерыва устанавливают <span num="80" target="_self" lnktype="intlnk" title="" class="doc">ПВТР</span>.</p><p><a data-anchor="/document/16/211426/bssPhr55/"></a><a data-anchor="/document/16/211426/dfasv2qy0e/" data-dfa="dfasv2qy0e"></a>В&nbsp;большинстве организаций пятидневная рабочая неделя с&nbsp;двумя выходными днями является основным видом рабочей недели. Однако, организации вправе, учитывая характер производства и&nbsp;условии работы, установить шестидневную рабочую неделю с&nbsp;одним выходным днем. При этом необходимо согласовать с&nbsp;профсоюзным комитетом и&nbsp;учесть мнение трудового коллектива.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211426/bssPhr56/"></a><a data-anchor="/document/16/211426/dfasb4tbka/" data-dfa="dfasb4tbka"></a>Исходя из&nbsp;своих финансовых возможностей, работодатель вправе установить колсоглашениями либо колдоговорами меньшую продолжительность рабочего времени.</p><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="41690526" data-warm-notice-type="error" num="17" target="_self" lnktype="intlnk" title="" class="doc">Как разделить рабочий день работника на части</span></li><li class="incut-v4-more-about__item"><span num="18" target="_self" lnktype="intlnk" title="" class="doc">Как вести табель учета рабочего времени</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="41690527" data-warm-notice-type="error" num="19" target="_self" lnktype="intlnk" title="" class="doc">Какой режим рабочего времени установить для работника</span></li></ul></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли установить сотруднику иной режим, например, принять на пятидневку при шестидневной неделе в организации?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211426/bssPhr61/"></a><a data-anchor="/document/16/211426/dfas76olol/" data-dfa="dfas76olol"></a>Да, вы&nbsp;вправе установить сотруднику иной режим рабочего времени.</p><p><a data-anchor="/document/16/211426/bssPhr62/"></a><a data-anchor="/document/16/211426/dfas94zx8g/" data-dfa="dfas94zx8g"></a>Если график работы сотрудника или режим его рабочего времени отличается от&nbsp;общих правил, которые установлены в&nbsp;организации, то&nbsp;такой индивидуальный режим работы прописывают в&nbsp;трудовом договоре с&nbsp;сотрудником. Поскольку в&nbsp;этом случае он&nbsp;является обязательным условием договора. В&nbsp;остальном прием на&nbsp;работу осуществляйте в&nbsp;общем порядке.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>В&#160;каких случаях можно привлекать работника к&#160;работе 24&#160;часа подряд</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211426/bssPhr64/"></a><a data-anchor="/document/16/211426/dfasa6vyu1/" data-dfa="dfasa6vyu1"></a>Привлекать работников к&nbsp;работе 24&nbsp;часа подряд нельзя.</p><p><a data-anchor="/document/16/211426/bssPhr65/"></a><a data-anchor="/document/16/211426/dfasx7brgg/" data-dfa="dfasx7brgg"></a>Продолжительность ежедневной работы не&nbsp;должна превышать 12&nbsp;часов. При этом продолжительность рабочего времени не&nbsp;может превышать 40&nbsp;часов в&nbsp;неделю, либо норму за&nbsp;учетный период (<span num="103" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;182</span>, <span num="104" target="_self" lnktype="intlnk" title="" class="doc">199</span>&nbsp;ТК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="20" target="_self" lnktype="intlnk" title="" class="doc">Приказ об&nbsp;изменении графика работы</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="41690529" data-warm-notice-type="error" num="21" target="_self" lnktype="intlnk" title="" class="doc">Дополнительное соглашение к&nbsp;трудовому договору об&nbsp;установлении сменного режима работы</span></li><li class="incut-v4-more-about__item"><span num="22" target="_self" lnktype="intlnk" title="" class="doc">Как установить режим рабочего времени при сменной работе</span></li></ul></div><div class="incut-v4__icon"></div></div></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно&#160;ли установить разные графики работы сотрудникам</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211426/bssPhr68/"></a><a data-anchor="/document/16/211426/dfasgqk7up/" data-dfa="dfasgqk7up"></a>Да, можно.</p><p><a data-anchor="/document/16/211426/bssPhr69/"></a><a data-anchor="/document/16/211426/dfas9w5thw/" data-dfa="dfas9w5thw"></a>Режим рабочего времени&nbsp;— обязательное условие в <span num="68" target="_self" lnktype="intlnk" title="" class="doc">Правилах внутреннего трудового распорядка</span>. И&nbsp;прописывают его в&nbsp;ПВТР, если он&nbsp;является общим для всех сотрудников.</p><p><a data-anchor="/document/16/211426/bssPhr70/"></a><a data-anchor="/document/16/211426/dfas0mzhd1/" data-dfa="dfas0mzhd1"></a>При этом в&nbsp;организации можно установить несколько режимов работы. И&nbsp;если режим рабочего времени для кого-то отличается от&nbsp;общих правил, то&nbsp;его прописывают в&nbsp;трудовом договоре с&nbsp;конкретным сотрудником. Однако, если группы сотрудников с&nbsp;разными режимами рабочего времени примерно одинаковые, то&nbsp;все режимы можно указать и&nbsp;в&nbsp;ПВТР.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211426/bssPhr71/"></a><a data-anchor="/document/16/211426/dfash253vk/" data-dfa="dfash253vk"></a>Нельзя составлять график работы так, чтобы смена длилась 24&nbsp;часа и&nbsp;работник трудился две смены подряд, а&nbsp;потом двое суток отдыхал.</p><div class="incut-v4__icon"></div></div></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно&#160;ли менять режим работы в&#160;ПВТР при переводе работников на&#160;неполный режим работы</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211426/bssPhr74/"></a><a data-anchor="/document/16/211426/dfasez9eg0/" data-dfa="dfasez9eg0"></a>Да, нужно, если режим неполного рабочего времени будет действовать постоянно для конкретных должностей.</p><p><a data-anchor="/document/16/211426/bssPhr75/"></a><a data-anchor="/document/16/211426/dfasebll1g/" data-dfa="dfasebll1g"></a>Режим неполного рабочего времени можно предусмотреть в&nbsp;трудовом договоре либо установить приказом руководителя. В&nbsp;последнем случае, если для работника этот режим отличается от&nbsp;общего по&nbsp;организации, этот факт отразите в&nbsp;трудовом договоре (<span num="75" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;104&nbsp;ТК</span>). Для этого заключите с&nbsp;сотрудником дополнительное соглашение к&nbsp;трудовому договору об&nbsp;изменении режима рабочего времени (<span num="76" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;133&nbsp;ТК</span>).</p><p><a data-anchor="/document/16/211426/bssPhr76/"></a><a data-anchor="/document/16/211426/dfasqi3qix/" data-dfa="dfasqi3qix"></a>Если есть список работников, для которых действует режим неполного рабочего времени, внесите изменения во&nbsp;внутренние документы организации, например, в&nbsp;приложение к&nbsp;коллективному договору или Правила внутреннего трудового распорядка.</p><p><a data-anchor="/document/16/211426/bssPhr77/"></a><a data-anchor="/document/16/211426/dfastub81p/" data-dfa="dfastub81p"></a>Подробнее о&nbsp;том, какие обязательные локальные акты должны быть на&nbsp;предприятии, читайте в <span num="77" target="_self" lnktype="intlnk" title="" class="doc">ответе</span>.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="23" target="_self" lnktype="intlnk" title="" class="doc">Приказ об&nbsp;изменении графика работы</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="41690532" data-warm-notice-type="error" num="24" target="_self" lnktype="intlnk" title="" class="doc">График сменности</span></li><li class="incut-v4-more-about__item"><span num="25" target="_self" lnktype="intlnk" title="" class="doc">Приказ о&nbsp;введении новых условий труда&nbsp;— сменного режима работы</span></li></ul></div><div class="incut-v4__icon"></div></div></div></div><p><a data-anchor="/document/16/211426/bssPhr79/"></a><a data-anchor="/document/16/211426/dfash9spww/" data-dfa="dfash9spww"></a><strong>Читайте также:</strong></p><p><a data-anchor="/document/16/211426/bssPhr80/"></a><a data-anchor="/document/16/211426/dfasc5ve95/" data-dfa="dfasc5ve95"></a><span num="26" target="_self" lnktype="intlnk" title="" class="doc">Как установить режим рабочего времени при сменной работе</span></p><p><a data-anchor="/document/16/211426/bssPhr81/"></a><a data-anchor="/document/16/211426/dfaszwdhg3/" data-dfa="dfaszwdhg3"></a><span data-warm-notices="41690538" data-warm-notice-type="error" num="27" target="_self" lnktype="intlnk" title="" class="doc">Как установить режим труда и&nbsp;отдыха водителей</span></p><p><a data-anchor="/document/16/211426/bssPhr82/"></a><a data-anchor="/document/16/211426/dfas2r64gn/" data-dfa="dfas2r64gn"></a><a data-anchor="/document/16/211426/dfasgystgh/" data-dfa="dfasgystgh"></a><span num="28" target="_self" lnktype="intlnk" title="" class="doc">Как установить неполное рабочее время</span></p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Гороскоп для бухгалтера на 2026 год</h2><div class="doc-snippet"><a data-anchor="/document/16/218527/dfasdq9r5u/" data-dfa="dfasdq9r5u"></a><a data-anchor="/document/16/218527/bssPhr2/"></a>2026&nbsp;год уже на пороге – с новыми задачами, возможностями и важными решениями. Он обещает быть динамичным, насыщенным и по-настоящему значимым для вашей профессии. С первых дней января вы почувствуете: успех рядом, а уверенность в цифрах и знаниях снова станет вашим главным преимуществом. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/218527/bssPhr3/"></a><a data-anchor="/document/16/218527/dfasvgoh72/" data-dfa="dfasvgoh72"></a>Узнайте, что готовит будущий год вам и вашей команде. Наш бухгалтерский гороскоп подскажет, какие способности станут вашими главными козырями, а над какими стоит поработать, чтобы уверенно расти в профессии.</p><a data-anchor="/document/16/218527/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218527/bssPhr4/"></a><a data-anchor="/document/16/218527/dfas1627cm/" data-dfa="dfas1627cm"></a>Овен (21&nbsp;марта&nbsp;— 19&nbsp;апреля)</h3><div align="left"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: top; width: 50%;"><a data-anchor="/document/16/218527/bssPhr6/"></a><a data-anchor="/document/16/218527/dfasvllwbr/" data-dfa="dfasvllwbr"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882913" sourceId="1" width="205" height="203" src="https://1gb.uz/system/content/image/297/1/-41882913/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr7/"></a><a data-anchor="/document/16/218527/dfasdxrvtk/" data-dfa="dfasdxrvtk"></a>Ваша энергия в 2026 году будет как несостыковка в балансе – пройти мимо невозможно. Смело беритесь за сложные проекты, но проверяйте документы дважды: даже самая умная программа иногда ставит галочку «по-своему». Главное – не тянуть все на себе, а распределять задачи честно.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218527/bssPhr8/"></a><a data-anchor="/document/16/218527/dfasa80bn4/" data-dfa="dfasa80bn4"></a>Телец (20&nbsp;апреля&nbsp;— 20&nbsp;мая)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: top;"><a data-anchor="/document/16/218527/bssPhr10/"></a><a data-anchor="/document/16/218527/dfascytg30/" data-dfa="dfascytg30"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882917" sourceId="1" width="204" height="203" src="https://1gb.uz/system/content/image/297/1/-41882917/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr11/"></a><a data-anchor="/document/16/218527/dfashg9i8d/" data-dfa="dfashg9i8d"></a>Стабильность – ваше кредо. В этом году она проявится даже в мелких деталях, вроде расстановки канцелярских принадлежностей на столе. Настойчивость поможет довести до конца и годовую отчетность и соблюсти все дедлайны. Главное – не застрять в цифрах, чтобы трудолюбие не превратилось в выгорание.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218527/bssPhr12/"></a><a data-anchor="/document/16/218527/dfasewwu93/" data-dfa="dfasewwu93"></a>Близнецы (21&nbsp;мая&nbsp;— 20&nbsp;июня)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: top;"><a data-anchor="/document/16/218527/bssPhr14/"></a><a data-anchor="/document/16/218527/dfasbyusns/" data-dfa="dfasbyusns"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882909" sourceId="1" width="204" height="203" src="https://1gb.uz/system/content/image/297/1/-41882909/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr15/"></a><a data-anchor="/document/16/218527/dfasg5y5cw/" data-dfa="dfasg5y5cw"></a>Будет много параллельных задач и переключений, но это – ваш профиль. Природная гибкость поможет находить решения, когда бухгалтерская программа внезапно решит жить своей жизнью. Помните ваш девиз: «Даже если Excel упал, я еще стою».</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218527/bssPhr16/"></a><a data-anchor="/document/16/218527/dfaszubpcs/" data-dfa="dfaszubpcs"></a>Рак (21&nbsp;июня&nbsp;— 22&nbsp;июля)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: top;"><a data-anchor="/document/16/218527/bssPhr18/"></a><a data-anchor="/document/16/218527/dfaskrmkps/" data-dfa="dfaskrmkps"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882916" sourceId="1" width="204" height="204" src="https://1gb.uz/system/content/image/297/1/-41882916/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr19/"></a><a data-anchor="/document/16/218527/dfasvghd4t/" data-dfa="dfasvghd4t"></a>Интуиция Рака в 2026 году будет на вес золота – особенно при выборе между «оптимистичной» и «реальной» цифрой. Вам придется больше взаимодействовать с коллегами и налоговиками больше, чем хотелось бы, но для вас это обернется с неожиданной (и приятной) стороны. Доверяйте внутреннему голосу: иногда он подсказывает быстрее, чем калькулятор.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218527/bssPhr20/"></a><a data-anchor="/document/16/218527/dfasamxg1g/" data-dfa="dfasamxg1g"></a>Лев (23&nbsp;июля&nbsp;— 22&nbsp;августа)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: middle;"><a data-anchor="/document/16/218527/bssPhr22/"></a><a data-anchor="/document/16/218527/dfask6lm5i/" data-dfa="dfask6lm5i"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882908" sourceId="1" width="218" height="218" src="https://1gb.uz/system/content/image/297/1/-41882908/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr23/"></a><a data-anchor="/document/16/218527/dfas5gssvw/" data-dfa="dfas5gssvw"></a>Лев – прирожденный руководитель и звезда отчетных презентаций. В этом году ваша харизма вдохновит коллег, а чувство собственного достоинства поможет не проспать дедлайн. Главное – не увлекаться: даже король бухгалтерии иногда должен проверять калькуляцию дважды.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/218527/bssPhr24/"></a><a data-anchor="/document/16/218527/dfasll25om/" data-dfa="dfasll25om"></a>Дева (23&nbsp;августа&nbsp;— 22&nbsp;сентября)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: middle;"><a data-anchor="/document/16/218527/bssPhr26/"></a><a data-anchor="/document/16/218527/dfas9d1siv/" data-dfa="dfas9d1siv"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882918" sourceId="1" width="205" height="205" src="https://1gb.uz/system/content/image/297/1/-41882918/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr27/"></a><a data-anchor="/document/16/218527/dfaseyokd1/" data-dfa="dfaseyokd1"></a>Аналитический ум Девы будет востребован как никогда. В 2026 году ваши глаза на цифры смогут найти скрытые ошибки там, где даже 1С уже махнул рукой. Организованность поможет не потеряться среди бесконечных документов. Совет: не забывайте делегировать хотя бы часть задач.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/218527/bssPhr28/"></a><a data-anchor="/document/16/218527/dfas4etkui/" data-dfa="dfas4etkui"></a>Весы (23&nbsp;сентября&nbsp;— 22&nbsp;октября)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: middle;"><a data-anchor="/document/16/218527/bssPhr30/"></a><a data-anchor="/document/16/218527/dfas16p2bk/" data-dfa="dfas16p2bk"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882907" sourceId="1" width="218" height="217" src="https://1gb.uz/system/content/image/297/1/-41882907/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr31/"></a><a data-anchor="/document/16/218527/dfasigsti0/" data-dfa="dfasigsti0"></a>Гармония и присущее вам чувство справедливости помогут найти баланс между «отчет сдан» и «еще одна чашечка кофе». Дипломатия пригодится при обсуждениях с руководством, а умение видеть ситуацию со всех сторон убережет от конфликтов с коллегами. В этом году ваша цель – уравновесить не только цифры, но и настроение офиса.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/218527/bssPhr32/"></a><a data-anchor="/document/16/218527/dfasggwo1g/" data-dfa="dfasggwo1g"></a>Скорпион (23&nbsp;октября&nbsp;— 21&nbsp;ноября)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: middle;"><a data-anchor="/document/16/218527/bssPhr34/"></a><a data-anchor="/document/16/218527/dfasd64fv4/" data-dfa="dfasd64fv4"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882915" sourceId="1" width="205" height="199" src="https://1gb.uz/system/content/image/297/1/-41882915/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr35/"></a><a data-anchor="/document/16/218527/dfas9b6a1v/" data-dfa="dfas9b6a1v"></a>Скорпион будет проницателен как никогда: ваши стратегические решения в бухгалтерии сравнимы с мастерским ходом в шахматах. Решительность поможет справиться даже с самыми запутанными отчетами. Но будьте осторожны: иногда лучше дважды переспросить, чем один раз перепроверять с коллегой.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/218527/bssPhr36/"></a><a data-anchor="/document/16/218527/dfas04w6q5/" data-dfa="dfas04w6q5"></a>Стрелец (22&nbsp;ноября&nbsp;— 21&nbsp;декабря)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: middle;"><a data-anchor="/document/16/218527/bssPhr38/"></a><a data-anchor="/document/16/218527/dfasga8fg4/" data-dfa="dfasga8fg4"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882914" sourceId="1" width="207" height="205" src="https://1gb.uz/system/content/image/297/1/-41882914/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr39/"></a><a data-anchor="/document/16/218527/dfasoheam6/" data-dfa="dfasoheam6"></a>Любознательность Стрельца приведет к новым финансовым открытиям. В 2026 году вы сможете найти оптимальные пути даже в самых сложных проблемах. Любовь к новым знаниям и путешествиям проявится в виде освоения новых бухгалтерских подходов.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit10/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit10"><a data-anchor="/document/16/218527/bssPhr40/"></a><a data-anchor="/document/16/218527/dfasx00ix2/" data-dfa="dfasx00ix2"></a>Козерог (22&nbsp;декабря&nbsp;— 19&nbsp;января)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: middle;"><a data-anchor="/document/16/218527/bssPhr42/"></a><a data-anchor="/document/16/218527/dfas943tzy/" data-dfa="dfas943tzy"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882912" sourceId="1" width="204" height="208" src="https://1gb.uz/system/content/image/297/1/-41882912/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr43/"></a><a data-anchor="/document/16/218527/dfasmy4uc6/" data-dfa="dfasmy4uc6"></a>Дисциплина Козерога поможет выдержать любой отчетный шторм. В 2026 году упорство принесет стабильность, а внимательность к деталям – уважение коллег. Совет: иногда стоит улыбнуться, даже если баланс не сходится – это магия, которую не объяснит ни один регламент.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit11/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit11"><a data-anchor="/document/16/218527/bssPhr44/"></a><a data-anchor="/document/16/218527/dfasrthe3w/" data-dfa="dfasrthe3w"></a>Водолей (20&nbsp;января&nbsp;— 18&nbsp;февраля)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: middle;"><a data-anchor="/document/16/218527/bssPhr46/"></a><a data-anchor="/document/16/218527/dfas2zh93m/" data-dfa="dfas2zh93m"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882911" sourceId="1" width="205" height="206" src="https://1gb.uz/system/content/image/297/1/-41882911/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr47/"></a><a data-anchor="/document/16/218527/dfasomliw4/" data-dfa="dfasomliw4"></a>Креативность Водолея поможет находить нестандартные решения там, где коллеги видят только «невозможное». В этом году ваши идеи могут перевернуть привычный порядок работы, но главное – убедитесь, что отчет все еще сходится. Но старайтесь не брать на себя слишком много – руководству и так все видно.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218527/tit12/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit12"><a data-anchor="/document/16/218527/bssPhr48/"></a><a data-anchor="/document/16/218527/dfasgk6ekg/" data-dfa="dfasgk6ekg"></a>Рыбы (19&nbsp;февраля&nbsp;— 20&nbsp;марта)</h3><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: left; vertical-align: middle;"><a data-anchor="/document/16/218527/bssPhr50/"></a><a data-anchor="/document/16/218527/dfasv4499z/" data-dfa="dfasv4499z"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882910" sourceId="1" width="207" height="207" src="https://1gb.uz/system/content/image/297/1/-41882910/"></td><td style="text-align: left; vertical-align: middle; width: 50%;"><p><a data-anchor="/document/16/218527/bssPhr51/"></a><a data-anchor="/document/16/218527/dfasu5mf53/" data-dfa="dfasu5mf53"></a>Эмпатия и интуиция Рыб помогут понять, где коллегам нужна помощь, а где – кофе и терпение. В 2026 году ваша способность чувствовать скрытые проблемы в цифрах превратится в настоящую суперспособность. Только не забывайте и о себе. Иногда лучший способ сохранить баланс в работе – сделать паузу и глубоко вдохнуть.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

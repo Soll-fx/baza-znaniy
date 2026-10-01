@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как заполнить отчетность по налогу за пользование недрами</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203051/bssPhr1/"></a><a data-anchor="/document/16/203051/dfas5dzx6b/" data-dfa="dfas5dzx6b"></a>Форма налоговой отчетности по налогу за пользование недрами – в приложении № 5 постановлению ГНК рег. МЮ № 3126 от 21.01.2019 г. В этом же документе вы найдете единицы измерения, которые используются в расчете налога за пользование недрами в зависимости от продукта.</p><p><a data-anchor="/document/16/203051/bssPhr2/"></a><a data-anchor="/document/16/203051/dfas7w5b81/" data-dfa="dfas7w5b81"></a>Юрлица сдают отчетность по налогу за пользование недрами каждые три месяца, а физлица – каждый год. Налоговым периодом<i> </i>считается календарный год (<a data-anchor="/document/16/203051/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas4zgwn7/" class="link npd" moduleId="90" documentId="20918" anchor="dfas4zgwn7">ч 1 ст. 246 НК</a>)<i>.</i></p><a data-anchor="/document/16/203051/bssPhr3/"></a><a data-anchor="/document/16/203051/tit0/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203051/dfasqwwv6r/" data-dfa="dfasqwwv6r"></a><a data-anchor="/document/16/203051/thrt2350/"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Когда сдавать расчеты по налогу за пользование недрами</h2><p></p><p><a data-anchor="/document/16/203051/bssPhr4/"></a><a data-anchor="/document/16/203051/dfas8ma2yz/" data-dfa="dfas8ma2yz"></a>Если вы юридическое лицо, сдавайте расчет ежеквартально до 25 числа месяца, следующего за отчетным периодом, по итогам года – в срок предоставления годовой финансовой отчетности (<a data-anchor="/document/16/203051/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasoxd5yw/" class="link npd" title="юридическими лицами — нарастающим итогом ежеквартально не позднее 25 числа месяца, следующего за отчетным периодом, а по итогам года — в срок представления годовой финансовой отчетности..." moduleId="90" documentId="20918" anchor="dfasoxd5yw">абз. 2 ч 3 ст. 247 НК</a>). Eсли вы физическое лицо, сдавайте расчет только один раз в год, но не позднее 1 февраля года, следующего за налоговым периодом (<a data-anchor="/document/16/203051/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas84ezt3/" class="link npd" title="физическими лицами — один раз в год не позднее 1 февраля года, следующего за налоговым периодом..." moduleId="90" documentId="20918" anchor="dfas84ezt3">абз. 3 ч 3 ст. 247 НК</a>). </p><a data-anchor="/document/16/203051/bssPhr5/"></a><a data-anchor="/document/16/203051/tit1/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203051/dfasty3ub4/" data-dfa="dfasty3ub4"></a><a data-anchor="/document/16/203051/thrt2351/"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Куда сдавать расчеты по налогу за пользование недрами</h2><p><a data-anchor="/document/16/203051/bssPhr6/"></a><a data-anchor="/document/16/203051/dfass8rbt3/" data-dfa="dfass8rbt3"></a>Расчеты сдавайте в налоговую службу по месту налогового учета (<a data-anchor="/document/16/203051/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasfseach/" class="link npd" title="Расчет налога за пользование недрами представляется в органы государственной налоговой службы по месту налогового учета в следующие сроки..." moduleId="90" documentId="20918" anchor="dfasfseach">абз. 1 ч 3 ст. 247 НК</a>).</p><a data-anchor="/document/16/203051/bssPhr7/"></a><a data-anchor="/document/16/203051/tit2/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203051/dfasx9u1it/" data-dfa="dfasx9u1it"></a><a data-anchor="/document/16/203051/thrt2352/"></a><h2 class="main__title-section title toc" toc-anchor="tit2">Как и куда представить налоговую отчетность за обособленное подразделение юрлица</h2><p><a data-anchor="/document/16/203051/bssPhr8/"></a><a data-anchor="/document/16/203051/dfastyell1/" data-dfa="dfastyell1"></a>Обязательство по уплате налогов за свое обособленное подразделение (<a data-anchor="/document/16/203051/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/8969/dfasqccw7l/" class="link npd" title="Под обособленным подразделением юридического лица в целях применения настоящего Положения признается территориально обособленное подразделение, по месту нахождения которого оборудованы..." moduleId="90" documentId="8969" anchor="dfasqccw7l">абз. 2 пункта 2 Положения № 105 </a>) возлагается на головной офис, т.е. само юрлицо (<a data-anchor="/document/16/203051/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/8969/dfaslmntux/" class="link npd" title="Налоговые обязательства юридического лица по его обособленному подразделению, исполняются самим юридическим лицом, с перечислением приходящейся на данное обособленное подразделение..." moduleId="90" documentId="8969" anchor="dfaslmntux">пункт 3 Положения, № 105 </a>). </p><p><a data-anchor="/document/16/203051/bssPhr9/"></a><a data-anchor="/document/16/203051/dfas25g17y/" data-dfa="dfas25g17y"></a>Головной офис несет ответственность за правильность и своевременность исчисления и уплаты налогов по своим обособленным подразделениям (<a data-anchor="/document/16/203051/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/8969/dfaswygiz7/" class="link npd" title="Юридические лица в соответствии с законодательством несут ответственность за правильность исчисления и уплаты налогов по своим обособленным подразделениям. За непредставление или..." moduleId="90" documentId="8969" anchor="dfaswygiz7">пункт 16 Положения № 105 </a>). Юрлицо самостоятельно перечисляет долю налога по обособленному подразделению. Эти правила не действуют, если обособленное подразделение является самостоятельным налогоплательщикоми (<a data-anchor="/document/16/203051/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/90/8969/dfas1fez97/" class="link npd" title="Настоящее Положение в соответствии с Налоговым кодексом Республики Узбекистан и постановлением Президента Республики Узбекистан от 27 декабря 2016 года № ПП-2699 «О прогнозе..." moduleId="90" documentId="8969" anchor="dfas1fez97">пункт 1 Положения № 105 </a>). </p><p><a data-anchor="/document/16/203051/bssPhr10/"></a><a data-anchor="/document/16/203051/dfaswfz7cw/" data-dfa="dfaswfz7cw"></a>Сумма налога уплачивается, а налоговая отчетность обособленного подразделения представляется по месту нахождения этого подразделения. При этом по месту налогового учета головного юрлица представляются копии данных расчетов (<a data-anchor="/document/16/203051/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/8969/dfasdpwtxo/" class="link npd" title="расчеты по установленной форме налоговой отчетности – по акцизному налогу и налогу за пользование недрами. При этом по месту налогового учета юридического лица представляются..." moduleId="90" documentId="8969" anchor="dfasdpwtxo">подпункт «в» пункта 13 Положения № 105 </a>).</p><p><a data-anchor="/document/16/203051/bssPhr11/"></a><a data-anchor="/document/16/203051/dfasrgnq9h/" data-dfa="dfasrgnq9h"></a>Если же обособленное подразделение и головный офис находятся в одном районе, то по обособленным подразделениям составляется сводная налоговая отчетность (<a data-anchor="/document/16/203051/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/90/8969/dfas8gupc5/" class="link npd" title="В случаях нахождения обособленных подразделений юридического лица в одном районе, то по этим обособленным подразделениям составляется сводная соответствующая налоговая отчетность..." moduleId="90" documentId="8969" anchor="dfas8gupc5">пункт 14 Положения № 105 </a>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203051/dfasmgacse/" data-dfa="dfasmgacse"></a><a data-anchor="/document/16/203051/bssPhr12/"></a>Головное юрлицо зарегистрировано в Кашкадарье, а обособленное подразделение – в Бухаре.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203051/bssPhr13/"></a><a data-anchor="/document/16/203051/dfasoo1mun/" data-dfa="dfasoo1mun"></a>В этом случае налоговую отчетность за долю налогов обособленного подразделения юрлицо должно представить в налоговую инспекцию Бухары. Копию расчетов – в налоговую инспекцию по месту своего учета, т.е. в Кашкадарье.</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203051/bssPhr14/"></a><a data-anchor="/document/16/203051/dfasn4xmcf/" data-dfa="dfasn4xmcf"></a>ГНК и Минфин ежегодно за месяц до начала нового налогового периода утверждают перечень юрлиц с обособленными подразделениями, у которых возникают налоговые обязательства по подразделениям (<a data-anchor="/document/16/203051/backlinkanchor21/" type="backlink-anchor"></a><a href="#/document/90/8969/dfas36ubak/" class="link npd" title="Перечень юридических лиц, имеющих обособленные подразделения, на которые распространяется настоящее Положение, ежегодно утверждается Государственным налоговым комитетом и Министерством..." moduleId="90" documentId="8969" anchor="dfas36ubak">абз 3 пункта 2 Положения № 105</a> ). Юрлица получают об этом уведомления от налоговой службы в 5-дневный срок. Затем не позднее 10 дней юрлицо наряду с постановкой на учет по месту налогового учета обязано встать на учет в качестве налогоплательщика по месту нахождения обособленных подразделений (<a data-anchor="/document/16/203051/backlinkanchor23/" type="backlink-anchor"></a><a href="#/document/90/8969/dfas6888hs/" class="link npd" title="Юридическое лицо, на которое распространяется действие настоящего Положения, наряду с постановкой на учет в органах государственной налоговой службы по месту налогового учета, также..." moduleId="90" documentId="8969" anchor="dfas6888hs">пункт 12 Положения № 105 </a>). </p><div class="incut-v4__icon"></div></div><a data-anchor="/document/16/203051/bssPhr15/"></a><a data-anchor="/document/16/203051/tit3/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203051/dfasgeoi8d/" data-dfa="dfasgeoi8d"></a><a data-anchor="/document/16/203051/thrt2353/"></a><h2 class="main__title-section title toc" toc-anchor="tit3">Когда платить налог за пользование недрами</h2><p><a data-anchor="/document/16/203051/bssPhr16/"></a><a data-anchor="/document/16/203051/dfasgh7b0w/" data-dfa="dfasgh7b0w"></a>Юридические и физические лица уплачивают налог за пользование недрами ежемесячно, не позднее 25 числа следующего месяца, а по итогам года – не позднее срока представления годовой финансовой отчетности (<a data-anchor="/document/16/203051/backlinkanchor25/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas1mi80u/" class="link npd" title="Налог за пользование недрами исчисляется исходя из налогооблагаемой базы и установленной..." moduleId="90" documentId="20918" anchor="dfas1mi80u">ч 4 ст 247 НК</a>). </p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

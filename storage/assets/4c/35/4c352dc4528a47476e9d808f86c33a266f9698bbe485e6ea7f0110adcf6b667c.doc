@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассчитать акцизный налог при импорте подакцизных товаров</h2><div class="doc-snippet"><a data-anchor="/document/16/210516/dfasdsn513/" data-dfa="dfasdsn513"></a><a data-anchor="/document/16/210516/bssPhr2/"></a>В&nbsp;рекомендации найдете формулы расчета акцизного налога при импорте товара по&nbsp;специфической и&nbsp;адвалорной ставкам. Узнаете, как рассчитать акцизный налог при импорте товара по&nbsp;комбинированной ставке и&nbsp;какими проводками отразить в&nbsp;бухучете расчеты по&nbsp;акцизному налогу и&nbsp;акцизным маркам. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210516/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210516/bssPhr10/"></a><a data-anchor="/document/16/210516/dfasvbxnn0/" data-dfa="dfasvbxnn0"></a><a data-anchor="/document/16/210516/dfasy2ns8v/" data-dfa="dfasy2ns8v"></a>Плательщики и&nbsp;объект налогообложения акцизным налогом по&nbsp;импортируемым товарам</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210516/bssPhr12/"></a><a data-anchor="/document/16/210516/dfastbc5l7/" data-dfa="dfastbc5l7"></a>Плательщики и&nbsp;объект обложения акцизным налогом при импорте товаров определены в <span num="89" target="_self" lnktype="intlnk" title="" class="doc">статьях&nbsp;283</span> и <span num="90" target="_self" lnktype="intlnk" title="" class="doc">284</span>&nbsp;НК. Плательщиками акцизного налога являются:</p><ul class="c-list"><li><a data-anchor="/document/16/210516/bssPhr13/"></a><a data-anchor="/document/16/210516/dfasqfe2zs/" data-dfa="dfasqfe2zs"></a>юридические лица, перемещающие подакцизные товары через таможенную границу Республики Узбекистан;</li><li>иностранные юридические лица, осуществляющие деятельность в&nbsp;Узбекистане через постоянное учреждение, ввозящие подакцизные товары.</li></ul></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210516/bssPhr15/"></a><a data-anchor="/document/16/210516/dfasgmpa9y/" data-dfa="dfasgmpa9y"></a>Объект обложения акцизным налогом&nbsp;— импортируемые на&nbsp;таможенную территорию Республики Узбекистан подакцизные товары. Импорт (выпуск для свободного обращения) предусматривает, что товары, ввезенные на&nbsp;таможенную территорию, остаются на&nbsp;ней постоянно без обязательства их&nbsp;вывоза с&nbsp;этой территории (<span num="91" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;55</span>&nbsp;Таможенного кодекса).</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210516/bssPhr17/"></a><a data-anchor="/document/16/210516/dfas6mkzil/" data-dfa="dfas6mkzil"></a>Акцизным налогом не&nbsp;облагаются следующие операции:</p><ul class="c-list"><li><a data-anchor="/document/16/210516/bssPhr18/"></a><a data-anchor="/document/16/210516/dfask22syk/" data-dfa="dfask22syk"></a>импорт подакцизных товаров на&nbsp;таможенную территорию Узбекистана физическими лицами в&nbsp;пределах норм беспошлинного ввоза товаров;</li><li>импорт технических средств системы оперативно-розыскных мероприятий, приобретаемых операторами телекоммуникаций и&nbsp;специальным органом по&nbsp;сертификации технических средств систем оперативно-розыскных мероприятий, при наличии письменного подтверждения уполномоченного государственного органа;</li><li>импорт на&nbsp;таможенную территорию Узбекистана подакцизных товаров, ввозимых:</li><li>в&nbsp;качестве гуманитарной помощи в&nbsp;порядке, определяемом Кабинетом министров;</li><li>в&nbsp;целях благотворительной помощи, включая оказание технического содействия по&nbsp;линии государств, правительства, международных организаций;</li><li>за&nbsp;счет займов международных финансовых институтов и&nbsp;международных займов правительственных организаций, если законом предусмотрено их&nbsp;освобождение при ввозе;</li><li>импорт товаров стоимостью 100&nbsp;долл. США в&nbsp;эквиваленте, поступающих в&nbsp;адрес юрлиц в&nbsp;международных почтовых и&nbsp;курьерских отправлениях (<span num="92" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;6</span>&nbsp;постановления Президента Республики Узбекистан от&nbsp;19.07.2018 № ПП-3873).</li></ul><p><a data-anchor="/document/16/210516/bssPhr19/"></a><a data-anchor="/document/16/210516/dfas4dq4oe/" data-dfa="dfas4dq4oe"></a>От&nbsp;уплаты акцизного налога также могут быть освобождены определенные виды товаров и/или хозяйствующие субъекты, для которых льготы установлены нормативно&nbsp;— правовыми документами.</p></div><a data-anchor="/document/16/210516/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210516/bssPhr20/"></a><a data-anchor="/document/16/210516/dfasvbfl1x/" data-dfa="dfasvbfl1x"></a>Виды ставок</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210516/bssPhr22/"></a><a data-anchor="/document/16/210516/dfasu4c3e2/" data-dfa="dfasu4c3e2"></a>С&nbsp;2021 года производимые и&nbsp;импортируемые товары облагаемые акцизом и&nbsp;ставки акцизного налога установлены в&nbsp;Налоговом кодексе, в&nbsp;статьях <span num="27" target="_self" lnktype="intlnk" title="" class="doc">289-1</span>, <span num="28" target="_self" lnktype="intlnk" title="" class="doc">289-2</span> и <span num="29" target="_self" lnktype="intlnk" title="" class="doc">289-3</span>&nbsp;НК.&nbsp;</p><p><a data-anchor="/document/16/210516/bssPhr23/"></a><a data-anchor="/document/16/210516/dfasbwf8qm/" data-dfa="dfasbwf8qm"></a>При импорте подакцизных товаров, акцизный налог включен в&nbsp;состав таможенных платежей и&nbsp;его контроль осуществляют таможенные органы (<span num="45" target="_self" lnktype="intlnk" title="" class="doc">глава&nbsp;42</span>&nbsp;Таможенного кодекса).</p><p><a data-anchor="/document/16/210516/bssPhr24/"></a><a data-anchor="/document/16/210516/dfasvqvm8c/" data-dfa="dfasvqvm8c"></a>Акцизным налогом при импорте облагаются:</p><ul class="c-list"><li><a data-anchor="/document/16/210516/bssPhr25/"></a><a data-anchor="/document/16/210516/dfaspccdrk/" data-dfa="dfaspccdrk"></a>табачная продукция;</li><li>алкогольная продукция;</li><li>нефтепродукты (по&nbsp;перечню);</li><li>реализуемые конечному потребителю бензин, дизельное топливо, сжиженный и&nbsp;сжатый газ. При использовании этих товаров для собственных нужд плательщиками налога являются лица, ввозившие их&nbsp;для собственных нужд;</li><li>полиэтиленовые гранулы с&nbsp;1&nbsp;января 2022&nbsp;года;</li><li>сахар белый без вкусо-ароматических или красящих добавок. При этом, ввоз сахара-сырца акцизным налогом не&nbsp;облагается;</li><li>напитки газированные, содержащие сахар или другие подслащивающие или вкусоароматические вещества и упакованные в потребительскую упаковку (за исключением энергетических и тонизирующих напитков), энергетические и тонизирующие напитки –&nbsp;с 1 апреля 2024 года.</li></ul></div><a data-anchor="/document/16/210516/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210516/bssPhr26/"></a><a data-anchor="/document/16/210516/p1/"></a><a data-anchor="/document/16/210516/dfasl57y0a/" data-dfa="dfasl57y0a"></a>Расчет акцизного налога при импорте товара по&nbsp;специфической ставке</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210516/bssPhr28/"></a><a data-anchor="/document/16/210516/dfasqwbso5/" data-dfa="dfasqwbso5"></a>Налоговой базой по&nbsp;товарам, в&nbsp;отношении которых установлены ставки акцизного налога в&nbsp;фиксированной сумме является объем подакцизных товаров в&nbsp;натуральном выражении. Специфическая ставка акцизного налога начисляется в&nbsp;установленном размере за&nbsp;единицу товара. Сумму налога по&nbsp;специфической ставке рассчитайте по&nbsp;формуле:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="24.06%"><tbody><tr><td class="bdAll" style="vertical-align:middle; width:19.98%; text-align:center"><a data-anchor="/document/16/210516/bssPhr29/"></a><a data-anchor="/document/16/210516/dfas40l0e1/" data-dfa="dfas40l0e1"></a>А</td><td class="bdRightbdLeft" style="vertical-align:middle; width:13.4%; text-align:center"><a data-anchor="/document/16/210516/bssPhr30/"></a><a data-anchor="/document/16/210516/dfaste69lh/" data-dfa="dfaste69lh"></a>=</td><td class="bdAll" style="vertical-align:middle; width:26.49%; text-align:center"><a data-anchor="/document/16/210516/bssPhr31/"></a><a data-anchor="/document/16/210516/dfascggrg6/" data-dfa="dfascggrg6"></a>Нб</td><td class="bdRightbdLeft" style="vertical-align:middle; width:12.45%; text-align:center"><a data-anchor="/document/16/210516/bssPhr32/"></a><a data-anchor="/document/16/210516/dfasbt1bll/" data-dfa="dfasbt1bll"></a>*</td><td class="bdAll" style="vertical-align:middle; width:22.17%; text-align:center"><a data-anchor="/document/16/210516/bssPhr33/"></a><a data-anchor="/document/16/210516/dfasb3yllx/" data-dfa="dfasb3yllx"></a>С</td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><div><a data-anchor="/document/16/210516/bssPhr34/"></a><a data-anchor="/document/16/210516/dfas4tgipv/" data-dfa="dfas4tgipv"></a><a data-anchor="/document/16/210516/dfasa29n02/" data-dfa="dfasa29n02"></a>где:</div><p><a data-anchor="/document/16/210516/bssPhr35/"></a><a data-anchor="/document/16/210516/dfasf0hf5i/" data-dfa="dfasf0hf5i"></a>А&nbsp;— сумма акцизного налога;<br>Нб&nbsp;— налогооблагаемая база (количество импортированных товаров);<br>С —специфическая (фиксированная) ставка.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210516/dfaswp35tm/" data-dfa="dfaswp35tm"></a><a data-anchor="/document/16/210516/bssPhr36/"></a>Расчета акцизного налога по&nbsp;специфической (фиксированной) ставке</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210516/bssPhr37/"></a><a data-anchor="/document/16/210516/dfasfdbyp8/" data-dfa="dfasfdbyp8"></a>Ставка акцизного налога для ввозимого натурального вина естественного брожения установлена в&nbsp;размере 28 500 сум за&nbsp;один литр (<span num="22" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ст.&nbsp;289-2&nbsp;НК). В&nbsp;Узбекистан ввозят натуральное вино естественного брожения объемом 100&nbsp;литров. Акцизный налог при этом составит:</p><p><a data-anchor="/document/16/210516/bssPhr38/"></a><a data-anchor="/document/16/210516/dfasz7lae8/" data-dfa="dfasz7lae8"></a>2 850 000 сум = 100&nbsp;л × 28 500.</p></div></div></div><a data-anchor="/document/16/210516/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/210516/bssPhr39/"></a><a data-anchor="/document/16/210516/p2/"></a><a data-anchor="/document/16/210516/dfaspzns8g/" data-dfa="dfaspzns8g"></a>Расчет акцизного налога при импорте товара по&nbsp;адвалорной ставке</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210516/bssPhr41/"></a><a data-anchor="/document/16/210516/dfaswoqg71/" data-dfa="dfaswoqg71"></a>Адвалорные ставки акцизного налога&nbsp;— ставки, которые устанавливают в&nbsp;процентах к&nbsp;таможенной стоимости подакцизного товара. Налоговая база по&nbsp;таким товарам определяется на&nbsp;основании таможенной стоимости в&nbsp;соответствии с&nbsp;таможенным законодательством (<span num="13" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;7</span>&nbsp;ст.&nbsp;285&nbsp;НК). Таможенную стоимость товара определяют методами, указанными в <span num="96" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;302</span> Таможенного кодекса.</p><p><a data-anchor="/document/16/210516/bssPhr42/"></a><a data-anchor="/document/16/210516/dfashahdvn/" data-dfa="dfashahdvn"></a>Рассчитать акцизный налог при адвалорной ставке можно по&nbsp;формуле:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="24.06%"><tbody><tr><td class="bdAll" style="vertical-align:middle; width:19.98%; text-align:center"><a data-anchor="/document/16/210516/bssPhr43/"></a><a data-anchor="/document/16/210516/dfas5cym8z/" data-dfa="dfas5cym8z"></a>А</td><td class="bdRightbdLeft" style="vertical-align:middle; width:13.4%; text-align:center"><a data-anchor="/document/16/210516/bssPhr44/"></a><a data-anchor="/document/16/210516/dfasowbkgb/" data-dfa="dfasowbkgb"></a>=</td><td class="bdAll" style="vertical-align:middle; width:26.49%; text-align:center"><a data-anchor="/document/16/210516/bssPhr45/"></a><a data-anchor="/document/16/210516/dfashvltka/" data-dfa="dfashvltka"></a>Нб</td><td class="bdRightbdLeft" style="vertical-align:middle; width:12.45%; text-align:center"><a data-anchor="/document/16/210516/bssPhr46/"></a><a data-anchor="/document/16/210516/dfaslugcg6/" data-dfa="dfaslugcg6"></a>*</td><td class="bdAll" style="vertical-align:middle; width:22.17%; text-align:center"><a data-anchor="/document/16/210516/bssPhr47/"></a><a data-anchor="/document/16/210516/dfas1umisf/" data-dfa="dfas1umisf"></a>С</td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210516/bssPhr48/"></a><a data-anchor="/document/16/210516/dfas4t5xti/" data-dfa="dfas4t5xti"></a><a data-anchor="/document/16/210516/dfasic2d70/" data-dfa="dfasic2d70"></a>где:</p><p><a data-anchor="/document/16/210516/bssPhr49/"></a><a data-anchor="/document/16/210516/dfast4727n/" data-dfa="dfast4727n"></a>А&nbsp;— сумма акцизного налога;<br>НБ&nbsp;— налоговая база (таможенная стоимость подакцизных товаров);<br>С&nbsp;— ставка акцизного налога (в&nbsp;процентах).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210516/dfasc9wh7v/" data-dfa="dfasc9wh7v"></a><a data-anchor="/document/16/210516/bssPhr50/"></a>Расчета акцизного налога по&nbsp;адвалорной ставке</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210516/bssPhr51/"></a><a data-anchor="/document/16/210516/dfasqps2xq/" data-dfa="dfasqps2xq"></a>Ставка акцизного налога для ввозимого спирта этилового ректификованного из&nbsp;пищевого сырья установлена в&nbsp;размере 70&nbsp;процентов от&nbsp;таможенной стоимости (<span num="23" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ст.&nbsp;289-2&nbsp;НК). Если импортер ввозит спирт этиловый на&nbsp;сумму 10&nbsp;000&nbsp;000&nbsp;сумов, акцизный налог составит:</p><p><a data-anchor="/document/16/210516/bssPhr52/"></a><a data-anchor="/document/16/210516/dfasig3e26/" data-dfa="dfasig3e26"></a>7&nbsp;000&nbsp;000 сумов = 10&nbsp;000&nbsp;000 × 70%.</p></div></div></div><a data-anchor="/document/16/210516/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/210516/bssPhr53/"></a><a data-anchor="/document/16/210516/p3/"></a><a data-anchor="/document/16/210516/dfascgbr1q/" data-dfa="dfascgbr1q"></a>Расчет акцизного налога при импорте товара по&nbsp;комбинированной ставке</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210516/bssPhr55/"></a><a data-anchor="/document/16/210516/dfasddvsrc/" data-dfa="dfasddvsrc"></a>Для исчисления акцизного налога по&nbsp;комбинированной ставке одновременно используются адвалорные и&nbsp;специфические (фиксированные) ставки.</p><p><a data-anchor="/document/16/210516/bssPhr56/"></a><a data-anchor="/document/16/210516/dfasvzfnro/" data-dfa="dfasvzfnro"></a>При этом налоговая база по&nbsp;акцизному налогу может определяться:</p><ol class="c-list" style="counter-reset: item 0;" start="1"><li><a data-anchor="/document/16/210516/bssPhr57/"></a><a data-anchor="/document/16/210516/dfaseghuwg/" data-dfa="dfaseghuwg"></a>с&nbsp;применением комбинированной ставки в&nbsp;процентах от&nbsp;таможенной стоимости, но&nbsp;не&nbsp;менее ставки установленного размера за&nbsp;единицу облагаемого товара. В&nbsp;этом случае сумма акцизного налога равна <strong>наибольшей из&nbsp;сумм</strong>, исчисленных по&nbsp;адвалорной и&nbsp;специфической ставкам;</li><li><a data-anchor="/document/16/210516/bssPhr58/"></a><a data-anchor="/document/16/210516/dfast2gzvv/" data-dfa="dfast2gzvv"></a>с&nbsp;применением комбинированной ставки в&nbsp;процентах от&nbsp;таможенной стоимости плюс ставка установленного размера за&nbsp;единицу облагаемого товара. В&nbsp;этом случае сумма акцизного налога равна <strong>сумме</strong>, исчисленной по&nbsp;адвалорной и&nbsp;специфической ставкам таможенных платежей.</li></ol><p><a data-anchor="/document/16/210516/bssPhr59/"></a><a data-anchor="/document/16/210516/dfasu7sq1q/" data-dfa="dfasu7sq1q"></a>В&nbsp;первом случае сумма налога рассчитывается в&nbsp;следующем порядке:</p><ol class="c-list" style="counter-reset: item 0;" start="1"><li><a data-anchor="/document/16/210516/bssPhr60/"></a><a data-anchor="/document/16/210516/dfasbwo0cx/" data-dfa="dfasbwo0cx"></a>определяется сумма налога по&nbsp;адвалорной ставке;</li><li><a data-anchor="/document/16/210516/bssPhr61/"></a><a data-anchor="/document/16/210516/dfas84gfom/" data-dfa="dfas84gfom"></a>определяется сумма налога по&nbsp;специфической (фиксированной) ставке;</li><li><a data-anchor="/document/16/210516/bssPhr62/"></a><a data-anchor="/document/16/210516/dfasswvern/" data-dfa="dfasswvern"></a>налог уплачивается по&nbsp;набольшей из&nbsp;сумм.</li></ol><p><a data-anchor="/document/16/210516/bssPhr63/"></a><a data-anchor="/document/16/210516/dfastqycii/" data-dfa="dfastqycii"></a>Во&nbsp;втором случае сумма налога рассчитывается в&nbsp;следующем порядке:</p><ol class="c-list" style="counter-reset: item 0;" start="1"><li><a data-anchor="/document/16/210516/bssPhr64/"></a><a data-anchor="/document/16/210516/dfaszrcs6v/" data-dfa="dfaszrcs6v"></a>определяется сумма налога по&nbsp;адвалорной ставке;</li><li><a data-anchor="/document/16/210516/bssPhr65/"></a><a data-anchor="/document/16/210516/dfas0kaqsb/" data-dfa="dfas0kaqsb"></a>определяется сумма налога по&nbsp;специфической (фиксированной) ставке;</li><li><a data-anchor="/document/16/210516/bssPhr66/"></a><a data-anchor="/document/16/210516/dfasom8q4h/" data-dfa="dfasom8q4h"></a>сумма налога по&nbsp;адвалорной ставке <strong>прибавляется </strong>к&nbsp;сумме налога по&nbsp;специфической (фиксированной) ставке. Это и&nbsp;будет сумма налога подлежащая к&nbsp;уплате.</li></ol></div><a data-anchor="/document/16/210516/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/210516/bssPhr67/"></a><a data-anchor="/document/16/210516/dfas8ctfps/" data-dfa="dfas8ctfps"></a>Расчет акцизного налога на&nbsp;импорт товара при комбинированной ставке, уплачиваемого по&nbsp;наибольшей сумме</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210516/dfas9hi2iz/" data-dfa="dfas9hi2iz"></a><a data-anchor="/document/16/210516/bssPhr69/"></a>Расчета акцизного налога на&nbsp;импорт товара при комбинированной ставке, уплачиваемого по&nbsp;наибольшей сумме</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210516/bssPhr70/"></a><a data-anchor="/document/16/210516/dfaskig2xk/" data-dfa="dfaskig2xk"></a>Импортер ввозит 100 литров пива на&nbsp;сумму 10&nbsp;000&nbsp;000&nbsp;сум.</p><p><a data-anchor="/document/16/210516/bssPhr71/"></a><a data-anchor="/document/16/210516/dfasto9i2m/" data-dfa="dfasto9i2m"></a>Ставка акцизного налога при импорте пива составляет 50&nbsp;процентов, но&nbsp;не&nbsp;меньше 12 200 сум за&nbsp;один литр пива (п. 4 ст.&nbsp;289-2&nbsp;НК).</p><p><a data-anchor="/document/16/210516/bssPhr72/"></a><a data-anchor="/document/16/210516/dfasprmkyn/" data-dfa="dfasprmkyn"></a>Акцизный налог составит:</p><p><a data-anchor="/document/16/210516/bssPhr73/"></a><a data-anchor="/document/16/210516/dfasdttug4/" data-dfa="dfasdttug4"></a>по&nbsp;адвалорной ставке: 5&nbsp;000&nbsp;000 сум = 10&nbsp;000&nbsp;000 × 50%;</p><p><a data-anchor="/document/16/210516/bssPhr74/"></a><a data-anchor="/document/16/210516/dfasd463ne/" data-dfa="dfasd463ne"></a>по&nbsp;специфической (фиксированной) ставке: 1&nbsp;220&nbsp;000 сум = 100 × 12 200.</p><p><a data-anchor="/document/16/210516/bssPhr75/"></a><a data-anchor="/document/16/210516/dfas5ua6ik/" data-dfa="dfas5ua6ik"></a>Уплате в&nbsp;бюджет подлежит наибольшая сумма акцизного налога, т.е.&nbsp;5&nbsp;000&nbsp;000&nbsp;сум, исчисленная по&nbsp;адвалорной ставке. В&nbsp;случае, если сумма акцизного налога, исчисленного по&nbsp;специфической (фиксированной) ставке, будет больше, чем по&nbsp;адвалорной ставке, то&nbsp;уплачивается акцизный налог, исчисленный исходя из&nbsp;фиксированной ставки.</p></div></div></div><a data-anchor="/document/16/210516/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/210516/bssPhr76/"></a><a data-anchor="/document/16/210516/dfasd98wfq/" data-dfa="dfasd98wfq"></a>Расчет акцизного налога при импорте товара по&nbsp;комбинированной ставке, уплачиваемого по&nbsp;сумме адвалорной и&nbsp;специфической ставок</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210516/dfasmmmntg/" data-dfa="dfasmmmntg"></a><a data-anchor="/document/16/210516/bssPhr78/"></a>Расчета акцизного налога при импорте товара по&nbsp;комбинированной ставке, уплачиваемого по&nbsp;сумме адвалорной и&nbsp;специфической ставок</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210516/bssPhr79/"></a><a data-anchor="/document/16/210516/dfasiwpcpd/" data-dfa="dfasiwpcpd"></a>Импортер ввозит 10&nbsp;000 штук сигарет (500&nbsp;пачек) на&nbsp;сумму 5&nbsp;000&nbsp;000 сум</p><p><a data-anchor="/document/16/210516/bssPhr80/"></a><a data-anchor="/document/16/210516/dfasx4guk2/" data-dfa="dfasx4guk2"></a>Ставка акцизного налога для ввозимых сигарет с&nbsp;фильтром установлена в&nbsp;размере 325 000 сум за&nbsp;1&nbsp;000 штук + 10&nbsp;процентов от&nbsp;таможенной стоимости (<span num="37" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ст.&nbsp;289-1&nbsp;НК).</p><p><a data-anchor="/document/16/210516/bssPhr81/"></a><a data-anchor="/document/16/210516/dfasgxz6ar/" data-dfa="dfasgxz6ar"></a>Акцизный налог рассчитанный по&nbsp;специфической (фиксированной) ставке составит:</p><p><a data-anchor="/document/16/210516/bssPhr82/"></a><a data-anchor="/document/16/210516/dfasu2n4ul/" data-dfa="dfasu2n4ul"></a>3&nbsp;250 000 сум = (325 000 ÷ 1&nbsp;000) х&nbsp;10&nbsp;000</p><p><a data-anchor="/document/16/210516/bssPhr83/"></a><a data-anchor="/document/16/210516/dfashb9egw/" data-dfa="dfashb9egw"></a>Акцизный налог рассчитанный по&nbsp;адвалорной ставке составит:</p><p><a data-anchor="/document/16/210516/bssPhr84/"></a><a data-anchor="/document/16/210516/dfas283ust/" data-dfa="dfas283ust"></a>500&nbsp;000 сум = 5&nbsp;000 000×10%</p><p><a data-anchor="/document/16/210516/bssPhr85/"></a><a data-anchor="/document/16/210516/dfas32onzo/" data-dfa="dfas32onzo"></a>Сумма налога, подлежащая к&nbsp;уплате, составит:</p><p><a data-anchor="/document/16/210516/bssPhr86/"></a><a data-anchor="/document/16/210516/dfasl18gnx/" data-dfa="dfasl18gnx"></a>3&nbsp;750 000 сум = 3&nbsp;250 000 + 500&nbsp;000.</p></div></div></div><a data-anchor="/document/16/210516/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/210516/bssPhr87/"></a><a data-anchor="/document/16/210516/dfastqg64g/" data-dfa="dfastqg64g"></a>Бухгалтерский учет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210516/bssPhr89/"></a><a data-anchor="/document/16/210516/dfaspnghho/" data-dfa="dfaspnghho"></a>Сумма акцизного налога, уплаченного при импорте, включается в&nbsp;покупную стоимость приобретенных товаров, в&nbsp;том числе используемых в&nbsp;качестве сырья для производства подакцизных товаров.</p><p><a data-anchor="/document/16/210516/bssPhr90/"></a><a data-anchor="/document/16/210516/dfaswm8z0t/" data-dfa="dfaswm8z0t"></a>Импортируемые табачные изделия и&nbsp;алкогольные напитки подлежат обязательной маркировке акцизными марками (Положение, <span num="76" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;1</span>&nbsp;к постановлению Кабмина от&nbsp;14.08.1996 №&nbsp;285). Предприятия, импортирующие табачные изделия и&nbsp;алкогольные напитки, приобретают акцизные марки после уплаты акцизного налога в&nbsp;полном размере.</p><p><a data-anchor="/document/16/210516/bssPhr91/"></a><a data-anchor="/document/16/210516/dfass0fw3c/" data-dfa="dfass0fw3c"></a>Расходы по&nbsp;приобретению акцизных марок, включая их&nbsp;номинальную стоимость, по&nbsp;товарам, подлежащим обязательной маркировке, а&nbsp;также расходы по&nbsp;маркировке акцизными марками относятся на&nbsp;издержки предприятия. Бухгалтерский учет расчетов по&nbsp;акцизному налогу и&nbsp;акцизным маркам отражается проводками:</p><p><a data-anchor="/document/16/210516/bssPhr92/"></a><a data-anchor="/document/16/210516/dfaskcg5c4/" data-dfa="dfaskcg5c4"></a><strong>Дебет 4411 «Акцизный налог по&nbsp;импорту» Кредит 5110</strong><br>—&nbsp;отражена уплата акцизного налога</p><p><a data-anchor="/document/16/210516/bssPhr93/"></a><a data-anchor="/document/16/210516/dfash2sn76/" data-dfa="dfash2sn76"></a><strong>Дебет 1000,2900 Кредит 4411</strong><br>—&nbsp;включен в&nbsp;стоимость товаров, материалов уплаченный акцизный налог</p><p><a data-anchor="/document/16/210516/bssPhr94/"></a><a data-anchor="/document/16/210516/dfash69lwn/" data-dfa="dfash69lwn"></a><strong>Дебет 5920 Кредит 5110</strong><br>—&nbsp;отражена оплата за&nbsp;акцизные марки</p><p><a data-anchor="/document/16/210516/bssPhr95/"></a><a data-anchor="/document/16/210516/dfaspitcwd/" data-dfa="dfaspitcwd"></a><strong>Дебет 006</strong><br>—&nbsp;отражен приход акцизных марок</p><p><a data-anchor="/document/16/210516/bssPhr96/"></a><a data-anchor="/document/16/210516/dfas3nv3wz/" data-dfa="dfas3nv3wz"></a><strong>Кредит 006</strong><br>—&nbsp;отражена передача акцизных марок на&nbsp;маркировку</p><p><a data-anchor="/document/16/210516/bssPhr97/"></a><a data-anchor="/document/16/210516/dfasgsn3ar/" data-dfa="dfasgsn3ar"></a><strong>Дебет 9410 Кредит 5920</strong><br>—&nbsp;отражено списание на&nbsp;расходы по&nbsp;реализации стоимости акцизных марок по&nbsp;мере их&nbsp;использования.</p></div><p><a data-anchor="/document/16/210516/dfashvtpio/" data-dfa="dfashvtpio"></a><a data-anchor="/document/16/210516/bssPhr98/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/210516/dfasy2xibk/" data-dfa="dfasy2xibk"></a><a data-anchor="/document/16/210516/bssPhr99/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

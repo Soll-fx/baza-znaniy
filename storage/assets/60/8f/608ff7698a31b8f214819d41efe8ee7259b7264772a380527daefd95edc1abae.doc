@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Приказ Минэкономики, Минфина РУз от 06.12.2024 № 3587</div><h2 class="auth__title">Об утверждении Национального стандарта бухгалтерского учета Республики Узбекистан (НСБУ № 22) «Учет активов и обязательств, выраженных в иностранной валюте»</h2><div id="documentBody" class="content-common"><p style="text-align:right"><a data-anchor="/document/90/15120/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/15120/dfaso6xcoz/"></a>Документ утвержден на государственном языке.<br>Авторский перевод выполнен Актион-МЦФЭР</p><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/15120/dfasw4wwdg/"></a>ПРИКАЗ</p><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/15120/dfasxt4l2c/"></a>МИНИСТРА ЭКОНОМИКИ И ФИНАНСОВ РЕСПУБЛИКИ УЗБЕКИСТАН</p><div class="doc__untyped doc-start" data-type="untyped" data-level="2"><a data-role="toc" data-anchor="/document/90/15120/tit1/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/15120/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/15120/dfas9gqq8b/"></a>Об утверждении Национального стандарта бухгалтерского учета Республики Узбекистан (НСБУ № 22) &#171;Учет активов и обязательств, выраженных в иностранной валюте&#187;</span></div><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/15120/dfasaoipvk/"></a><strong>[Зарегистрирован Министерством юстиции Республики Узбекистан от 19 декабря 2024 г. Регистрационный № 3587]</strong></p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/15120/dfaskwhtk9/"></a>В соответствии с Законом Республики Узбекистан &#171;О бухгалтерском учете&#187; приказываю:</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/15120/dfasv80ipf/"></a>1. Утвердить Национальный стандарт бухгалтерского учета Республики Узбекистан (НСБУ № 22) &#171;Учет активов и обязательств, выраженных в иностранной валюте&#187; согласно приложению № 1.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/15120/dfas0ydoa4/"></a>2. Признать утратившими силу некоторые ведомственные нормативно-правовые акты согласно приложению № 2.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/15120/dfasggretc/"></a>3. Настоящий приказ вступает в силу с 1 января 2025 года.</p><p style="text-align:right"><a data-anchor="/document/90/15120/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/15120/dfash16pze/"></a><strong>Министр Д. КУЧКАРОВ</strong></p><div align="left"><div class="table-wide"><div><div><table width="50%"><tbody><tr><td style="text-align:center; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/15120/dfas9hrcbv/"></a>г. Ташкент,</p><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/15120/dfasnqxb3h/"></a>6 декабря 2024 г.,</p><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/15120/dfasrmnoug/"></a>№ 201</p></td></tr></tbody></table></div></div></div></div><div align="right"><div class="table-wide"><div><div><table width="50%"><tbody><tr><td style="text-align:center; vertical-align:middle"><div class="doc__untyped" data-type="untyped" data-level="6"><a data-role="toc" data-anchor="/document/90/15120/tit3/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/15120/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/15120/dfastwct1i/"></a>ПРИЛОЖЕНИЕ № 1<br>к приказу министра экономики и финансов Республики Узбекистан от 6 декабря 2024 года № 201</span></div></td></tr></tbody></table></div></div></div></div><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/15120/dfasnmxtat/"></a><strong>Национальный стандарт бухгалтерского учета Республики Узбекистан (НСБУ № 22) &#171;Учет активов и обязательств, выраженных в иностранной валюте&#187;</strong></p><div class="doc__untyped" data-type="untyped" data-level="6"><a data-role="toc" data-anchor="/document/90/15120/tit4/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/15120/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/15120/dfasl60gck/"></a>Глава 1. Общие положения</span></div><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/15120/dfasmoodc0/"></a>1. Настоящий национальный стандарт бухгалтерского учета (далее -НСБУ) разработан на основе Закона Республики Узбекистан &#171;О бухгалтерском учете&#187; и является элементом нормативного регулирования бухгалтерского учета в Республике Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/15120/dfas9lcmam/"></a>2. Настоящий НСБУ устанавливает порядок отражения в бухгалтерском учете и раскрытия в финансовой отчетности операций в иностранной валюте и данных подразделений за рубежом юридических лиц, осуществляющих деятельность на территории Республики Узбекистан, независимо от формы собственности (далее - организации), за исключением бюджетных организаций, банков и небанковских кредитных организаций.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/15120/dfasn2gsut/"></a>3. В настоящем НСБУ применяются следующие основные понятия:</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/15120/dfasuc150a/"></a><strong>подразделение за рубежом </strong> &#8212; дочерние и зависимые хозяйственные общества, осуществляющие свою деятельность за пределами Республики Узбекистан и ведущие финансово-хозяйственную деятельность в валюте, отличной от сума;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/15120/dfas42k3q7/"></a><strong>дата совершения операции в иностранной валюте &#8212; </strong>дата принятия организацией результата операции в иностранной валюте к бухгалтерскому учету в соответствии с законодательными актами или договором;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/15120/dfasu6baw5/"></a><strong>иностранная валюта</strong> &#8212; денежные знаки, находящиеся в обращении и являющиеся законным средством наличных платежей на территории иностранного государства (группы иностранных государств), а также денежные знаки, выводимые из обращения или выведенные из обращения, но подлежащие обмену, средства, находящиеся на банковских счетах и депозитах в денежных единицах иностранных государств (групп иностранных государств), международных денежных единицах или расчетных единицах;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/15120/dfaseotd1k/"></a><strong>монетар</strong><strong>ные статьи</strong> &#8212; активы и обязательства к получению или выплате, выраженные фиксированным или определяемым количеством;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/15120/dfason7v3o/"></a><strong>немонетарные статьи</strong> &#8212; иные статьи финансового отчета, не являющиеся монетарными;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/15120/dfas2n2aq8/"></a><strong>курсовая разница &#8212; </strong>разница в сумах, возникающая в результате изменения валютного курса при переводе единиц иностранной валюты в сумы.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/15120/dfasnhs0ni/"></a>4. Настоящий НСБУ не применяется при пересчете показателей финансовой отчетности, составленной в валюте Республики Узбекистан (далее &#8211; сум), в иностранную валюту.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/15120/dfasnc3uvl/"></a>5. Если иное не предусмотрено законодательством, все организации в Республике Узбекистан обязаны вести бухгалтерский учет и представлять финансовую отчетность в сумах.</p><div class="doc__untyped" data-type="untyped" data-level="6"><a data-role="toc" data-anchor="/document/90/15120/tit5/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/15120/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/15120/dfas31ta46/"></a>Глава 2. Отражение в бухгалтерской отчетности операций в иностранной валюте</span></div><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/15120/dfasy7ro1e/"></a>6. Операциями в иностранной валюте считаются:</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/15120/dfasqtuh1n/"></a>покупка или реализация товаров, работ и услуг в иностранной валюте;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/15120/dfastpcu2e/"></a>займы или кредиты денежных средств, подлежащих выплате или получению, в иностранной валюте;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/15120/dfas9qa25g/"></a>покупка или реализация активов в иностранной валюте либо принятие или погашение обязательств в иностранной валюте.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/15120/dfas2hk4wt/"></a>7. При признании операции в иностранной валюте она признается по курсу Центрального банка Республики Узбекистан на дату совершения операции (далее &#8211; по курсу Центрального банка).</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/15120/dfasw1u4yv/"></a>Для целей бухгалтерского учета пересчет отдельных операций в иностранной валюте в сумы осуществляется в соответствии с датами, указанными в приложении к настоящему НСБУ.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/15120/dfas3uuni6/"></a>8. Организации в бухгалтерском учете каждый месяц переоценивают монетарные статьи в иностранной валюте по курсу Центрального банка на последнюю дату отчетного месяца и на дату осуществления операции.</p><p><a data-anchor="/document/90/15120/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/15120/dfas0ub0k0/"></a>9. Монетарные статьи предполагают право на получение (или обязательство передачи) денежных средств в иностранной валюте в фиксированной или определяемой сумме.</p><p><a data-anchor="/document/90/15120/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/15120/dfasb6buek/"></a>К монетарным статьям относятся:</p><p><a data-anchor="/document/90/15120/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/15120/dfasvh6fgs/"></a>денежные средства в иностранной валюте в кассе и на банковских счетах;</p><p><a data-anchor="/document/90/15120/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/15120/dfas29d2rg/"></a>дебиторская и кредиторская задолженность, получаемая или оплачиваемая в иностранной валюте (за исключением авансов, полученных без обязательства возврата и выданных без права на возврат);</p><p><a data-anchor="/document/90/15120/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/15120/dfasa3csd6/"></a>кредиты и займы в иностранной валюте;</p><p><a data-anchor="/document/90/15120/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/15120/dfasw8ktbo/"></a>расчеты с сотрудниками в иностранной валюте;</p><p><a data-anchor="/document/90/15120/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/15120/dfastq52eq/"></a>денежные эквиваленты в иностранной валюте;</p><p><a data-anchor="/document/90/15120/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/15120/dfasd4xa6b/"></a>дивиденды, подлежащие выплате в иностранной валюте и другие.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/15120/dfasxrc21a/"></a>10. Немонетарные статьи не предполагают права на получение (или обязательства передачи) денежных средств в иностранной валюте в фиксированной или определяемой сумме.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/15120/dfas192p2z/"></a>Немонетарные статьи после принятия к бухгалтерскому учету по курсу Центрального банка на дату осуществления операции в иностранной валюте не пересчитываются при изменении курса Центрального банка.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/15120/dfasdf5e5w/"></a>К немонетарным статьям относятся:</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/15120/dfaszssfgg/"></a>основные средства, нематериальные активы, гудвил, оборудование, подлежащее установке, капитальные вложения, товарно-материальные запасы, приобретенные в иностранной валюте;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/15120/dfasqss0ec/"></a>доли собственников и учредителей (участников) в уставном капитале организаций с иностранными инвестициями, выраженные в иностранной валюте;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/15120/dfasbw1zb6/"></a>инвестиции в уставный капитал и акции, выраженные в иностранной валюте;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/15120/dfastmc5y9/"></a>авансы, полученные без обязательства возврата и выданные без права на возврат за товары, работы и услуги в иностранной валюте и другие.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/15120/dfasiez0h4/"></a>11. Курсовая разница, возникающая при пересчете стоимости операций в иностранной валюте в сумах, учитывается в составе доходов (расходов) от финансовой деятельности непосредственно в финансовых результатах организации.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/15120/dfasv1vyz3/"></a>12. В случаях, когда активы, работы и услуги полностью или частично приобретаются за счет аванса, уплаченного в иностранной валюте, сумма их стоимости, равная сумме этого аванса, признается по курсу Центрального банка на дату уплаты аванса.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/15120/dfaseveliw/"></a>В случаях, когда активы, работы и услуги полностью или частично реализуются за счет аванса, полученного в иностранной валюте, сумма дохода, равная сумме этого аванса, признается по курсу Центрального банка на дату получения аванса.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/15120/dfas49vgy5/"></a>13. В бухгалтерском учете кредиторская задолженность перед комитентом в иностранной валюте возникает по курсу Центрального банка на дату продажи товаров, полученных на основании посреднического договора. Дальнейший учет задолженности осуществляется в соответствии с настоящим НСБУ.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/15120/dfas7nfbfc/"></a>14. Не допускается отражение курсовых разниц в бухгалтерском учете путем накопления.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/15120/dfasrgomk9/"></a>Ранее накопленные курсовые разницы могут быть учтены в финансовых результатах непосредственно или следующим образом:</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/15120/dfaso8su6s/"></a>по дебиторской и кредиторской задолженности в иностранной валюте &#8212; по мере их погашения (или списания);</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/15120/dfas72n4za/"></a>в других случаях &#8212; в соответствии с проведением хозяйственных операций с соответствующими валютными статьями баланса.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/15120/dfasrg0g21/"></a>Ранее накопленные курсовые разницы могут быть учтены в финансовых результатах на основе среднего значения курсовых разниц, приходящихся на одну единицу иностранной валюты.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/15120/dfasf4zg0h/"></a>15. При ведении учета операций в иностранной валюте при переклассификации статей финансовой отчетности из монетарных в немонетарные или из немонетарных в монетарные, расчет курсовых разниц производится на перспективной основе &#8212; для текущих и будущих периодов. .</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/15120/dfasye9nml/"></a>16. В бухгалтерском учете вклад учредителей в уставный капитал в иностранной валюте учитывается по курсу Центрального банка на дату внесения вклада.</p><div class="doc__untyped" data-type="untyped" data-level="6"><a data-role="toc" data-anchor="/document/90/15120/tit6/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/15120/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/15120/dfassm7olw/"></a>Глава 3. Учет активов и обязательств, используемых для деятельности за рубежом</span></div><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/15120/dfas1mizsr/"></a>17. При составлении финансовой отчетности стоимость активов и обязательств в иностранной валюте, используемых организацией для деятельности за рубежом, должна быть пересчитана в сумы в финансовой отчетности этой организации.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/15120/dfasar9iyn/"></a>18. Пересчет в сумы монетарных статей, используемых для деятельности за рубежом, осуществляется по курсу Центрального банка на последнюю дату отчетного месяца и на дату совершения операции в иностранной валюте.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/15120/dfasrxgs5o/"></a>19. Перевод в сумы стоимости основных средств, нематериальных активов, оборудования, подлежащего установке, капитальных вложений и товарно-материальных запасов, используемых организацией для деятельности за рубежом, осуществляется по курсу Центрального банка на дату принятия этих активов к бухгалтерскому учету.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/15120/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/15120/dfas3o7mk8/"></a>20. Ташкилотнинг асосий воситалари, номоддий активлари, ўрнатиладиган асбоб-ускуналари, капитал қўйилмалари ва товар-моддий захираларининг чет эл қонунчилик ҳужжатларига мувофиқ қайта баҳоланган қийматини қайта ҳисоблаш ушбу қайта баҳолаш ўтказилган санадаги Марказий банк курси бўйича амалга оширилади.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/15120/dfasuxq9k2/"></a>21. Пересчет переоцененной стоимости основных средств, нематериальных активов, оборудования, подлежащего установке, капитальных вложений и товарно-материальных запасов организации, произведенной в соответствии с законодательными актами иностранного государства, осуществляется по курсу Центрального банка на дату проведения этой переоценки.</p><div class="doc__untyped" data-type="untyped" data-level="6"><a data-role="toc" data-anchor="/document/90/15120/tit7/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/15120/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/15120/dfashp69pz/"></a>Глава 4. Включение подразделения зарубежом в консолидированную финансовую отчетность</span></div><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/15120/dfaszbsftm/"></a>22. Для пересчета финансовой отчетности зарубежного подразделения организации для включения в консолидированную финансовую отчетность, составляемую организацией, необходимо выполнить следующие действия:</p><p><a data-anchor="/document/90/15120/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/15120/dfasx1v3z2/"></a>пересчитать активы и обязательства зарубежного подразделения по курсу Центрального банка на последнюю дату отчетного периода.</p><p><a data-anchor="/document/90/15120/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/15120/dfaskazz79/"></a>пересчитать статьи собственного капитала зарубежного подразделения по курсу Центрального банка на последнюю дату отчетного периода, за исключением нераспределенной прибыли (непокрытого убытка) текущего года.</p><p><a data-anchor="/document/90/15120/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/15120/dfas1gs72h/"></a>пересчитать статьи доходов и расходов, а также нераспределенную прибыль (непокрытый убыток) зарубежного подразделения с использованием среднего курса, рассчитанного путем деления суммы курсов Центрального банка за отчетный период и соответствующих дней их действия на количество дней отчетного периода.</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/15120/dfasgm8tsc/"></a>23. В случаях изменения классификации деятельности за пределами Республики Узбекистан, порядок пересчета, применяемый к измененной классификации, должен использоваться, начиная с даты этого изменения.</p><div class="doc__untyped" data-type="untyped" data-level="6"><a data-role="toc" data-anchor="/document/90/15120/tit8/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/15120/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/15120/dfasm9garx/"></a>Глава 5. Раскрытие информации</span></div><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/15120/dfas8dqmzw/"></a>24. В пояснениях к финансовой отчетности необходимо раскрыть следующее:</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/15120/dfaskmpamr/"></a>сумма курсовых разниц, отводимых на финансовые результаты организации;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/15120/dfasqco9z3/"></a>сумма курсовых разниц, классифицированных как добавленный капитал;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/15120/dfasr6ql9g/"></a>сумма курсовых разниц, отраженных на других бухгалтерских счетах;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr79/" data-role="phrase-anchor" data-phrase-id="79" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr79"></a><a data-anchor="/document/90/15120/dfasxnegbz/"></a>последствия изменений валютных курсов, произошедших после отчетной даты, если они имеют существенное значение и их нераскрытие может негативно повлиять на правильную оценку и принятие решений пользователями финансовой отчетности;</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr80/" data-role="phrase-anchor" data-phrase-id="80" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr80"></a><a data-anchor="/document/90/15120/dfasyi75ul/"></a>курс Центрального банка на отчетную дату.</p><div align="right"><div class="table-wide"><div><div><table width="50%"><tbody><tr><td style="text-align:center; vertical-align:middle"><div class="doc__untyped" data-type="untyped" data-level="6"><a data-role="toc" data-anchor="/document/90/15120/tit9/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/15120/bssPhr81/" data-role="phrase-anchor" data-phrase-id="81" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr81"></a><a data-anchor="/document/90/15120/dfasxy9uhc/"></a>ПРИЛОЖЕНИЕ К Национальному стандарту бухгалтерского учета Республики Узбекистан (НСБУ №22) &#171;Учет активов и обязательств, выраженных в иностранной валюте&#187;</span></div></td></tr></tbody></table></div></div></div></div><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr82/" data-role="phrase-anchor" data-phrase-id="82" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr82"></a><a data-anchor="/document/90/15120/dfas7tk4qg/"></a><strong>Перечень </strong></p><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr83/" data-role="phrase-anchor" data-phrase-id="83" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr83"></a><a data-anchor="/document/90/15120/dfas2f2k2a/"></a><strong>дат пересчета отдельных операций в иностранной валюте в сумы</strong></p><div><div class="table-wide"><div><div><table width="100%"><tbody><tr><td class="bdAll" style="width:50.6%"><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr84/" data-role="phrase-anchor" data-phrase-id="84" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr84"></a><a data-anchor="/document/90/15120/dfasevptcf/"></a><strong>Операции в иностранной валюте</strong></p></td><td class="bdTop bdBottom bdRight" style="width:50.6%"><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr85/" data-role="phrase-anchor" data-phrase-id="85" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr85"></a><a data-anchor="/document/90/15120/dfashp5qtt/"></a><strong>Дата операций в иностранной валюте</strong></p></td></tr><tr><td class="bdBottom bdRight bdLeft" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr86/" data-role="phrase-anchor" data-phrase-id="86" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr86"></a><a data-anchor="/document/90/15120/dfas8xq5cl/"></a>Операции по банковским счетам в иностранной валюте</p></td><td class="bdBottom bdRight" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr87/" data-role="phrase-anchor" data-phrase-id="87" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr87"></a><a data-anchor="/document/90/15120/dfas555qxu/"></a>Дата поступления денежных средств в иностранной валюте на банковские счета или их списания с банковских счетов</p></td></tr><tr><td class="bdBottom bdRight bdLeft" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr88/" data-role="phrase-anchor" data-phrase-id="88" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr88"></a><a data-anchor="/document/90/15120/dfas8hyx8x/"></a>Кассовые операции в иностранной валюте</p></td><td class="bdBottom bdRight" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr89/" data-role="phrase-anchor" data-phrase-id="89" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr89"></a><a data-anchor="/document/90/15120/dfasynp3tt/"></a>Дата оприходования иностранной валюты в кассу или ее выдачи из кассы</p></td></tr><tr><td class="bdBottom bdRight bdLeft" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr90/" data-role="phrase-anchor" data-phrase-id="90" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr90"></a><a data-anchor="/document/90/15120/dfasmlgb86/"></a>Доходы в иностранной валюте</p></td><td class="bdBottom bdRight" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr91/" data-role="phrase-anchor" data-phrase-id="91" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr91"></a><a data-anchor="/document/90/15120/dfasmwsfoh/"></a>Дата признания доходов в иностранной валюте</p></td></tr><tr><td class="bdBottom bdRight bdLeft" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr92/" data-role="phrase-anchor" data-phrase-id="92" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr92"></a><a data-anchor="/document/90/15120/dfasddyzog/"></a>Расходы в иностранной валюте</p></td><td class="bdBottom bdRight" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr93/" data-role="phrase-anchor" data-phrase-id="93" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr93"></a><a data-anchor="/document/90/15120/dfase8f9q0/"></a>Дата признания расходов в иностранной валюте</p></td></tr><tr><td class="bdBottom bdRight bdLeft" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr94/" data-role="phrase-anchor" data-phrase-id="94" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr94"></a><a data-anchor="/document/90/15120/dfasxfov1b/"></a>Оценка товарно-материальных запасов и других активов (за исключением авансов, полученных без обязательства возврата и выданных без права на возврат)</p></td><td class="bdBottom bdRight" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr95/" data-role="phrase-anchor" data-phrase-id="95" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr95"></a><a data-anchor="/document/90/15120/dfaslyde1u/"></a>Дата принятия на бухгалтерский учет товарно-материальных запасов и других активов при наличии первичных учетных документов, подтверждающих их приобретение (сопроводительные документы на товар или таможенная грузовая декларация)</p></td></tr><tr><td class="bdBottom bdRight bdLeft" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr96/" data-role="phrase-anchor" data-phrase-id="96" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr96"></a><a data-anchor="/document/90/15120/dfasdwne01/"></a>Отражение задолженности в иностранной валюте по подотчетным суммам сотрудников</p></td><td class="bdBottom bdRight" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr97/" data-role="phrase-anchor" data-phrase-id="97" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr97"></a><a data-anchor="/document/90/15120/dfas2dxdw8/"></a>Дата подтверждения авансового отчета</p></td></tr><tr><td class="bdBottom bdRight bdLeft" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr98/" data-role="phrase-anchor" data-phrase-id="98" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr98"></a><a data-anchor="/document/90/15120/dfasdny1hy/"></a>Погашение задолженностей в иностранной валюте</p></td><td class="bdBottom bdRight" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr99/" data-role="phrase-anchor" data-phrase-id="99" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr99"></a><a data-anchor="/document/90/15120/dfasf45g6v/"></a>Дата погашения задолженностей в иностранной валюте</p></td></tr><tr><td class="bdBottom bdRight bdLeft" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr100/" data-role="phrase-anchor" data-phrase-id="100" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr100"></a><a data-anchor="/document/90/15120/dfas7u5cs1/"></a>Возникновение задолженности учредителей по долям в уставном капитале</p></td><td class="bdBottom bdRight" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr101/" data-role="phrase-anchor" data-phrase-id="101" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr101"></a><a data-anchor="/document/90/15120/dfassrofu4/"></a>Дата получения статуса юридического лица</p></td></tr><tr><td class="bdBottom bdRight bdLeft" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr102/" data-role="phrase-anchor" data-phrase-id="102" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr102"></a><a data-anchor="/document/90/15120/dfassdwf0q/"></a>Формирование (увеличение) уставного капитала</p></td><td class="bdBottom bdRight" style="width:50.6%"><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr103/" data-role="phrase-anchor" data-phrase-id="103" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr103"></a><a data-anchor="/document/90/15120/dfas0qavvz/"></a>Дата внесения долей учредителями в уставный капитал</p></td></tr></tbody></table></div></div></div></div><div align="right"><div class="table-wide"><div><div><table width="50%"><tbody><tr><td style="text-align:center; vertical-align:middle"><div class="doc__untyped" data-type="untyped" data-level="6"><a data-role="toc" data-anchor="/document/90/15120/tit2/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/15120/bssPhr104/" data-role="phrase-anchor" data-phrase-id="104" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr104"></a><a data-anchor="/document/90/15120/dfas2olvri/"></a>ПРИЛОЖЕНИЕ № 2<br>к приказу министра экономики и финансов Республики Узбекистан от 6 декабря 2024 года № 201</span></div></td></tr></tbody></table></div></div></div></div><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr105/" data-role="phrase-anchor" data-phrase-id="105" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr105"></a><a data-anchor="/document/90/15120/dfasqgsa1d/"></a>ПЕРЕЧЕНЬ</p><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr106/" data-role="phrase-anchor" data-phrase-id="106" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr106"></a><a data-anchor="/document/90/15120/dfas52v8io/"></a><strong>ведомственных нормативно-правовых актов, признаваемых утратившими силу</strong></p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr107/" data-role="phrase-anchor" data-phrase-id="107" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr107"></a><a data-anchor="/document/90/15120/dfasd8d13i/"></a>1. Приказ Министра финансов Республики Узбекистан от 23 марта 2004 года № 51 &#171;Об утверждении Национального стандарта бухгалтерского учета Республики Узбекистан (НСБУ № 22) &#171;Учет активов и обязательств, выраженных в иностранной валюте&#187; (рег. № 1364 от 21 мая 2004 года) (Собрание законодательства Республики Узбекистан, 2004 г., № 20, ст. 246).</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr108/" data-role="phrase-anchor" data-phrase-id="108" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr108"></a><a data-anchor="/document/90/15120/dfasl8rf7d/"></a>2. Приказ Министра финансов Республики Узбекистан от 11 апреля 2013 года № 37 &#171;О внесении изменений и дополнения в Национальный стандарт бухгалтерского учета Республики Узбекистан (НСБУ № 22) &#171;Учет активов и обязательств, выраженных в иностранной валюте&#187; (рег. № 1364-1 от 3 мая 2013 года) (Собрание законодательства Республики Узбекистан, 2013 г., № 18, ст. 239).</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr109/" data-role="phrase-anchor" data-phrase-id="109" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr109"></a><a data-anchor="/document/90/15120/dfasplcdcx/"></a>3. Приказ Министра финансов Республики Узбекистан от 13 июня 2017 года № 77 &#171;О внесении изменений в приказ &#171;Об утверждении Национального стандарта бухгалтерского учета Республики Узбекистан (НСБУ № 22) &#171;Учет активов и обязательств, выраженных в иностранной валюте&#187; (рег. № 1364-2 от 16 июня 2017 года) (Собрание законодательства Республики Узбекистан, 2017 г., № 24, ст. 518).</p><p style="text-align:left"><a data-anchor="/document/90/15120/bssPhr110/" data-role="phrase-anchor" data-phrase-id="110" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr110"></a><a data-anchor="/document/90/15120/dfasqgpope/"></a>4. Приказ Министра финансов Республики Узбекистан от 12 июля 2018 года № 107 &#171;О внесении изменений и дополнений в Национальный стандарт бухгалтерского учета Республики Узбекистан (НСБУ № 22) &#171;Учет активов и обязательств, выраженных в иностранной валюте&#187; (рег. № 1364-3 от 20 августа 2018 года) (Национальная база данных законодательства, 20.08.2018 г., № 10/18/1364-3/1785).</p><p style="text-align:center"><a data-anchor="/document/90/15120/bssPhr111/" data-role="phrase-anchor" data-phrase-id="111" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr111"></a><a data-anchor="/document/90/15120/dfasg2w9sw/"></a>(Национальная база данных законодательства, 20.12.2024 г., № 10/24/3587/1040)</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

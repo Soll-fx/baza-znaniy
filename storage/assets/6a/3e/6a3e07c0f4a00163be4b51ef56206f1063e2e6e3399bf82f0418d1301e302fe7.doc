@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как получить лицензию на риэлторскую деятельность и какие налоги платят риэлторские организации</h2><div class="doc-snippet"><a data-anchor="/document/16/208515/dfas7qcnqs/" data-dfa="dfas7qcnqs"></a><a data-anchor="/document/16/208515/bssPhr2/"></a>В рекомендации найдете перечень документов, необходимых для получения лицензии на риэлторскую деятельность. Эксперты пояснили, что указать в заявлении о выдаче лицензии и какой сбор платить за рассмотрение этого заявления. Рекомендации узнаете, в какие сроки рассматривают заявления о выдаче лицензий и какие налоги платят риэлторские организации при общеустановленном и упрощенном налоговом режиме. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/208515/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/208515/bssPhr3/"></a><a data-anchor="/document/16/208515/dfas6owg08/" data-dfa="dfas6owg08"></a>Оформление лицензии на риэлторскую деятельность</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/208515/bssPhr5/"></a><a data-anchor="/document/16/208515/dfas7es6vz/" data-dfa="dfas7es6vz"></a>Деятельность риэлторских организаций регламентирована <span num="6" target="_self" lnktype="intlnk" title="" class="doc">Законом</span> «О риэлторской деятельности». Это лицензируемый вид деятельности.</p><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr6/"></a><a data-anchor="/document/16/208515/dfascykrl6/" data-dfa="dfascykrl6"></a>Для получения лицензии в Госкомконкуренции представьте:</p><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr7/"></a><a data-anchor="/document/16/208515/dfaseu9834/" data-dfa="dfaseu9834"></a>а) заявление о выдаче лицензии;</p><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr8/"></a><a data-anchor="/document/16/208515/dfas1bxiqo/" data-dfa="dfas1bxiqo"></a>б) копию платежного документа, который подтверждает, что соискатель лицензии внес сбор за рассмотрение лицензирующим органом его заявления;</p><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr9/"></a><a data-anchor="/document/16/208515/dfas0plci6/" data-dfa="dfas0plci6"></a>в) копии трудовых книжек и приказов о приеме на работу штатных риэлторов по основному месту работы;</p><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr10/"></a><a data-anchor="/document/16/208515/dfasmdxuve/" data-dfa="dfasmdxuve"></a>г) копии квалификационных сертификатов риэлторов работников, состоящих в штате соискателя лицензии, копию квалификационного сертификата риэлтора – для физического лица;</p><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr11/"></a><a data-anchor="/document/16/208515/dfase74ilb/" data-dfa="dfase74ilb"></a>д) копию документа, который свидетельствует о полностью сформированном уставном капитале в размере, предусмотренном <span num="27" target="_self" lnktype="intlnk" title="" class="doc">Положением</span> о лицензировании риэлторской деятельности для занятия соответствующим видом риэлторской деятельности. При этом допустимо формирование частично или полностью уставного капитала в неденежной форме за счет внесения имущества, используемого при оказании риэлторских услуг;</p><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr12/"></a><a data-anchor="/document/16/208515/dfas86a7m9/" data-dfa="dfas86a7m9"></a>е) копию утвержденных внутренних правил контроля качества предоставляемых услуг.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr14/"></a><a data-anchor="/document/16/208515/dfas2lq5ua/" data-dfa="dfas2lq5ua"></a>В заявлении для юридического лица укажите:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/208515/bssPhr15/"></a><a data-anchor="/document/16/208515/dfasbe9dt9/" data-dfa="dfasbe9dt9"></a>наименование организации;</li><li style="text-align:left">организационно-правовую форму организации;</li><li style="text-align:left">место нахождения, почтовый адрес организации;</li><li style="text-align:left">наименование обслуживающего банка;</li><li style="text-align:left">номер депозитного счета до востребования в банке;</li><li style="text-align:left">перечень учредителей, участников, их адреса;</li><li style="text-align:left">виды деятельности.</li></ul><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr16/"></a><a data-anchor="/document/16/208515/dfasywpiqn/" data-dfa="dfasywpiqn"></a>В заявлении для физического лица укажите:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/208515/bssPhr17/"></a><a data-anchor="/document/16/208515/dfasgfmedd/" data-dfa="dfasgfmedd"></a>фамилию, имя, отчество;</li><li style="text-align:left">паспортные данные;</li><li style="text-align:left">виды риэлторских услуг, которые соискатель лицензии намерен оказывать.</li></ul><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr18/"></a><a data-anchor="/document/16/208515/dfasze59ef/" data-dfa="dfasze59ef"></a>Такие требования содержит <span num="28" target="_self" lnktype="intlnk" title="" class="doc">пункт 9</span> Положения о лицензировании риэлторской деятельности.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr20/"></a><a data-anchor="/document/16/208515/dfas2wgfyy/" data-dfa="dfas2wgfyy"></a>За рассмотрение заявления о выдаче лицензии соискатель лицензии уплачивает сбор в размере 2 БРВ.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/208515/bssPhr22/"></a><a data-anchor="/document/16/208515/dfasvk4pey/" data-dfa="dfasvk4pey"></a>Срок принятия решения о выдаче или об отказе в выдаче лицензии не превышает 30 дней со дня получения заявления соискателя лицензии со всеми необходимыми документами.</p></div><a data-anchor="/document/16/208515/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/208515/bssPhr23/"></a><a data-anchor="/document/16/208515/dfasg7g4sv/" data-dfa="dfasg7g4sv"></a>Налогообложение риэлторских организаций</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/208515/bssPhr25/"></a><a data-anchor="/document/16/208515/dfasmbldrg/" data-dfa="dfasmbldrg"></a>Организации, занятые риэлторской деятельностью, не имеют специальных льгот и оплачивают налоги в соответствии с НК. При этом, организация может быть <span num="12" target="_self" lnktype="intlnk" title="" class="doc">плательщиком НДС</span> и <span num="13" target="_self" lnktype="intlnk" title="" class="doc">налога на прибыль</span> или <span num="14" target="_self" lnktype="intlnk" title="" class="doc">платить налог с оборота</span>.</p><p><a data-anchor="/document/16/208515/bssPhr26/"></a><a data-anchor="/document/16/208515/dfas3suf27/" data-dfa="dfas3suf27"></a>Ставка налога с оборота для риэлторских организаций составляет 13 процентов (<span num="15" target="_self" lnktype="intlnk" title="" class="doc">ст. 467</span> НК).</p><p><a data-anchor="/document/16/208515/bssPhr27/"></a><a data-anchor="/document/16/208515/dfasp3fvzx/" data-dfa="dfasp3fvzx"></a>На основании <span num="16" target="_self" lnktype="intlnk" title="" class="doc">статьи 461</span> НК налог с оборота вправе уплачивать только:</p><ol class="c-list"><li><a data-anchor="/document/16/208515/bssPhr28/"></a><a data-anchor="/document/16/208515/dfasymli0b/" data-dfa="dfasymli0b"></a>юрлица, совокупный доход которых за налоговый период не превышает один млрд сумов;</li><li><a data-anchor="/document/16/208515/bssPhr29/"></a><a data-anchor="/document/16/208515/dfasx2ytx5/" data-dfa="dfasx2ytx5"></a>индивидуальные предприниматели, доход которых от реализации товаров, услуг за налоговый период превышает сто млн сумов, но не более одного млрд сумов.</li></ol><p><a data-anchor="/document/16/208515/bssPhr30/"></a><a data-anchor="/document/16/208515/dfasgdwqol/" data-dfa="dfasgdwqol"></a>Плательщики налога обязаны выполнять роль налогового агента по НДС и налогу на прибыль, возложенные на него в соответствии со статьями <span num="17" target="_self" lnktype="intlnk" title="" class="doc">255</span>, <span num="18" target="_self" lnktype="intlnk" title="" class="doc">345</span>, <span num="19" target="_self" lnktype="intlnk" title="" class="doc">351</span> НК. Риэлторские организации обязаны платить и другие налоги, в соответствии с НК, если у них есть налоговая база. Например, <span num="20" target="_self" lnktype="intlnk" title="" class="doc">налог на имущество</span>, <span num="21" target="_self" lnktype="intlnk" title="" class="doc">земельный налог</span> и т.д.</p></div><p><a data-anchor="/document/16/208515/dfasv6bqg4/" data-dfa="dfasv6bqg4"></a><a data-anchor="/document/16/208515/bssPhr31/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p><p><a data-anchor="/document/16/208515/dfasocy6a4/" data-dfa="dfasocy6a4"></a><a data-anchor="/document/16/208515/bssPhr32/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

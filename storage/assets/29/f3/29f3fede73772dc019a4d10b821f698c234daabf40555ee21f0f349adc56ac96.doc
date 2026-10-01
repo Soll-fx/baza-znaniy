@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Правила экспертной поддержки</h2><div class="doc-snippet"><a data-anchor="/document/16/205804/bssPhr1/"></a><a data-anchor="/document/16/205804/dfasi87lus/" data-dfa="dfasi87lus"></a>Активируйте бесплатный пробный доступ к Системе, чтобы задать свой вопрос эксперту и получить подробный ответ на него </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/205804/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205804/bssPhr2/"></a><a data-anchor="/document/16/205804/dfas7w3usw/" data-dfa="dfas7w3usw"></a>Общие правила</h2><p><a data-anchor="/document/16/205804/bssPhr3/"></a><a data-anchor="/document/16/205804/dfaslv7rl1/" data-dfa="dfaslv7rl1"></a>Сервис «Экспертная поддержка» доступен всем клиентам, имеющим оплаченный или демо-доступ к электронной системе «Главбух».</p><p><a data-anchor="/document/16/205804/bssPhr4/"></a><a data-anchor="/document/16/205804/dfasvzim7t/" data-dfa="dfasvzim7t"></a>Письменные ответы экспертов предоставляются в течение 3 рабочих дней.</p><p><a data-anchor="/document/16/205804/bssPhr5/"></a><a data-anchor="/document/16/205804/dfasngs6n4/" data-dfa="dfasngs6n4"></a>Вопросы для экспертов принимаются круглосуточно через специальную форму на сайте электронной системы «Главбух». Количество вопросов неограниченно.</p><p><a data-anchor="/document/16/205804/dfasefmoi6/" data-dfa="dfasefmoi6"></a><a data-anchor="/document/16/205804/bssPhr6/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-16367642" sourceId="1" width="610" height="314.30176565008026" src="https://1gb.uz/system/content/image/297/1/-16367642/"></p><a data-anchor="/document/16/205804/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205804/bssPhr7/"></a><a data-anchor="/document/16/205804/dfas67ommx/" data-dfa="dfas67ommx"></a>Какие материалы будут в письменном ответе эксперта</h2><p><a data-anchor="/document/16/205804/bssPhr8/"></a><a data-anchor="/document/16/205804/dfasgp71nz/" data-dfa="dfasgp71nz"></a>Эксперт по вашему вопросу:</p><p><a data-anchor="/document/16/205804/bssPhr9/"></a><a data-anchor="/document/16/205804/dfasrtddcd/" data-dfa="dfasrtddcd"></a>– подготавливает краткий ответ;<br>  – подбирает экспертные материалы, содержащиеся в Системе Главбух (рекомендации, ситуации, шаблоны, примеры);<br>  – предоставляет ссылки на нормативно-правовые документы, которые регулируют возникшую проблему.</p><p><a data-anchor="/document/16/205804/bssPhr10/"></a><a data-anchor="/document/16/205804/dfaspuxi1i/" data-dfa="dfaspuxi1i"></a>Предоставляются только те материалы, которые актуальны на интересующую вас дату.</p><p><a data-anchor="/document/16/205804/bssPhr11/"></a><a data-anchor="/document/16/205804/dfas7cgggv/" data-dfa="dfas7cgggv"></a>Наши эксперты подготовят ответы на вопросы по применению узбекского законодательства, относящегося к сфере деятельности бухгалтеров, специалистов по налоговым, кадровым вопросам.</p><p><a data-anchor="/document/16/205804/bssPhr12/"></a><a data-anchor="/document/16/205804/dfase3g0eb/" data-dfa="dfase3g0eb"></a>При этом обращаем Ваше внимание, что не предусмотрены ответы на вопросы, которые подразумевают:<br>  – анализ и разработку положений внутренней документации (договоров, отчетности, локальных нормативных актов, распорядительных актов и т. п.);<br>  – оценку правомерности действий органов государственной власти, в том числе при проведении проверок и контроле.</p><a data-anchor="/document/16/205804/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205804/bssPhr13/"></a><a data-anchor="/document/16/205804/dfaskh4w6b/" data-dfa="dfaskh4w6b"></a>Каков формат письменного ответа экспертов</h2><p><a data-anchor="/document/16/205804/bssPhr14/"></a><a data-anchor="/document/16/205804/dfasky5035/" data-dfa="dfasky5035"></a>Ответ состоит из:</p><p><a data-anchor="/document/16/205804/bssPhr15/"></a><a data-anchor="/document/16/205804/dfashrgk9z/" data-dfa="dfashrgk9z"></a>– короткого ответа. Он виден сразу под вопросом и содержит краткую выдержку с конкретным выводом – что делать в вашей ситуации;<br>  – полного ответа с обоснованием. В файле, прикрепленном под коротким ответом, содержатся все подтверждающие материалы и ссылки на законодательство.</p><p><a data-anchor="/document/16/205804/bssPhr16/"></a><a data-anchor="/document/16/205804/dfas2rxspu/" data-dfa="dfas2rxspu"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-docx" href="https://1gb.uz/system/content/attachment/1/16/-87088/">Пример ответа эксперта</a></p><a data-anchor="/document/16/205804/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205804/bssPhr17/"></a><a data-anchor="/document/16/205804/dfas5zubgk/" data-dfa="dfas5zubgk"></a>Сроки подготовки письменного ответа от эксперта</h2><p><a data-anchor="/document/16/205804/bssPhr18/"></a><a data-anchor="/document/16/205804/dfasx8gcov/" data-dfa="dfasx8gcov"></a>Эксперт подготовит письменный ответ в течение 3 рабочих дней с того момента, как вопрос поступил на сервер «Экспертная поддержка».</p><p><a data-anchor="/document/16/205804/bssPhr19/"></a><a data-anchor="/document/16/205804/dfascgm23o/" data-dfa="dfascgm23o"></a>Если вопрос поступил в выходной или праздничный день, а также в нерабочее время (с 9 до 18 по времени г. Ташкента), отсчет начинается с начала ближайшего рабочего дня.</p><p><a data-anchor="/document/16/205804/bssPhr20/"></a><a data-anchor="/document/16/205804/dfascv9d2d/" data-dfa="dfascv9d2d"></a>Если для подготовки качественного ответа требуются уточнения или дополнения, экспертная поддержка свяжется с вами. В этом случае подготовка ответа отсчитывается с того момента, когда получены уточнения.</p><p><a data-anchor="/document/16/205804/bssPhr21/"></a><a data-anchor="/document/16/205804/dfas4uxtsa/" data-dfa="dfas4uxtsa"></a>Чтобы обратить к экспертам, нажмите на кнопку «Написать эксперту» в правом нижнем углу экрана:</p><p><a data-anchor="/document/16/205804/dfasc3awyo/" data-dfa="dfasc3awyo"></a><a data-anchor="/document/16/205804/bssPhr22/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-16367643" sourceId="1" width="610" height="323.1139646869984" src="https://1gb.uz/system/content/image/297/1/-16367643/"></p><p><a data-anchor="/document/16/205804/bssPhr23/"></a><a data-anchor="/document/16/205804/dfas8gdf0v/" data-dfa="dfas8gdf0v"></a>После этого нажмите на кнопку «Задать вопрос», опишите проблему или ситуацию. Вопрос должен содержать полную информацию для получения точного ответа.</p><p><a data-anchor="/document/16/205804/dfasz4e626/" data-dfa="dfasz4e626"></a><a data-anchor="/document/16/205804/bssPhr24/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-16367644" sourceId="1" width="610" height="322.13483146067415" src="https://1gb.uz/system/content/image/297/1/-16367644/"></p><p><a data-anchor="/document/16/205804/bssPhr25/"></a><a data-anchor="/document/16/205804/dfasrlda73/" data-dfa="dfasrlda73"></a>Затем нажмите на кнопку «Отправить». Ответ поступит в течение 3 рабочих дней.</p><p><a data-anchor="/document/16/205804/dfaspwtudl/" data-dfa="dfaspwtudl"></a><a data-anchor="/document/16/205804/bssPhr26/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-16367645" sourceId="1" width="610" height="321.6185897435897" src="https://1gb.uz/system/content/image/297/1/-16367645/"></p><p><a data-anchor="/document/16/205804/bssPhr27/"></a><a data-anchor="/document/16/205804/dfasgfl0wi/" data-dfa="dfasgfl0wi"></a>Если ответ эксперта поступил, на кнопке «Написать эксперту» появится цифра. Цифра означает количество поступивших непрочитанных сообщений.</p><p><a data-anchor="/document/16/205804/dfaszcx2ul/" data-dfa="dfaszcx2ul"></a><a data-anchor="/document/16/205804/bssPhr28/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-16367646" sourceId="1" width="610" height="321.6185897435897" src="https://1gb.uz/system/content/image/297/1/-16367646/"></p><p><a data-anchor="/document/16/205804/bssPhr29/"></a><a data-anchor="/document/16/205804/dfasz8ta52/" data-dfa="dfasz8ta52"></a>Ознакомьтесь с ответом и оцените его по 5-балльной шкале.</p><p><a data-anchor="/document/16/205804/dfasgcycc2/" data-dfa="dfasgcycc2"></a><a data-anchor="/document/16/205804/bssPhr30/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-16367647" sourceId="1" width="610" height="320.1765650080257" src="https://1gb.uz/system/content/image/297/1/-16367647/"></p><p><a data-anchor="/document/16/205804/bssPhr31/"></a><a data-anchor="/document/16/205804/dfas23ywod/" data-dfa="dfas23ywod"></a>Эксперты имеют право отказать в рассмотрении вопросов:</p><p><a data-anchor="/document/16/205804/bssPhr32/"></a><a data-anchor="/document/16/205804/dfas4icud7/" data-dfa="dfas4icud7"></a>– до окончания текущего доступа – если будет выявлен факт обращения с целью консультирования третьих лиц;<br>  – в отношении отдельных вопросов – если эти вопросы не относятся к сфере деятельности бухгалтеров, специалистов по налоговым, кадровым вопросам и касаются других сфер деятельности, в частности юридических, экономических и иных аспектов и т. п.</p><p><a data-anchor="/document/16/205804/bssPhr33/"></a><a data-anchor="/document/16/205804/dfas4mf3vb/" data-dfa="dfas4mf3vb"></a>В рамках сервиса «Экспертная поддержка» также мы отказываем пользователям в просьбах:</p><p><a data-anchor="/document/16/205804/bssPhr34/"></a><a data-anchor="/document/16/205804/dfas5almmg/" data-dfa="dfas5almmg"></a>– оценить всесторонне хозяйственную деятельность;<br>  – составить пояснительные записки, образцы документов или отчеты за пользователей;<br>  – составить возражения по актам проверок или решениям судов;<br>  – сформулировать условия договоров или локальных документов;<br>  – провести аудит документов;<br>  – прокомментировать статьи сторонних авторов из журналов;<br>  – рассмотреть ситуации, требующие для ответа детального изучения внутренних документов компании (договоров, отчетности, приказов, других локальных нормативных актов и т. п.);<br>  – провести расчет на основе данных пользователя или проверить такие расчеты;<br>  – оценить правомерность действий органов государственной власти;<br>  – рассмотреть вопросы по эксплуатации программных продуктов от сторонних разработчиков.</p><a data-anchor="/document/16/205804/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/205804/bssPhr35/"></a><a data-anchor="/document/16/205804/dfaspf1ta6/" data-dfa="dfaspf1ta6"></a>Порядок рассмотрения претензий</h2><p><a data-anchor="/document/16/205804/bssPhr36/"></a><a data-anchor="/document/16/205804/dfaslxufla/" data-dfa="dfaslxufla"></a>Если вы поставили письменному ответу эксперта низкую оценку, мы обязательно разберемся и приложим все усилия, чтобы исправить положение. Вы получите новый ответ в течение рабочего дня с момента получения претензии или плохой оценки.</p><p><a data-anchor="/document/16/205804/bssPhr37/"></a><a data-anchor="/document/16/205804/dfas2sahvt/" data-dfa="dfas2sahvt"></a>&nbsp;</p><p><a data-anchor="/document/16/205804/bssPhr38/"></a><a data-anchor="/document/16/205804/dfassg0eed/" data-dfa="dfassg0eed"></a>Читайте также:<br><a data-anchor="/document/16/205804/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/16/211964" title="" data-warm-notices="39605639,39616286,39626966,39636423,39645821,39655250,39664705,39674313,39683723,39693102,39702442,39712124,39721527,39731033,39740455,39749925,39759324,39768776,39778209,39787653,39797079,39806605,39816003,39825429,39834851,39844291,39853712,39863123,39872506,39882102,39891731,39901291,39910912,39920644,39930138,39939732,39949598,39959278,39968781,39978249,39987918,39997450,40006955,40016432,40025929,40035397,40044836,40054330,40064352,40073883,40083348,40092901,40102339,40112015,40121684,40131425,40141009,40150529,40160019,40169358,40179091,40188589,40198119,40207586,40217055,40226551,40236481,40246129,40255784,40265340,40275035,40284617,40294136,40303688,40313254,40322736,40332264,40341822,40351554,40361289,40370991,40380876,40390987,40402806,40413057,40423625,40434305,40445402,40458131,40468302,40478644,40488879,40499110,40509254,40519726,40530113,40540375,40550587,40560814,40570944,40581198,40591367,40601552,40611776,40621929,40632060,40642212,40652315,40662490,40672715,40682802,40692778,40702904,40713000,40722965,40732948,40742958,40752991,40763175,40773361,40783538,40793658,40803682,40813528" data-warm-notice-type="error" moduleId="16" documentId="211964" class="link ">Знакомство с системой Главбух</a><br><a data-anchor="/document/16/205804/backlinkanchor4/" type="backlink-anchor"></a><a href="#/document/184/204666" title="" data-warm-notices="17735057,17802029,17868902,17936008,18003204,18070493,18137760,18204849,18272224,18339494,18406658,18473838,18541012,18608143,18675165,18742422,18809643,18876966,18944311,19011668,19078796,19145824,19213295,19280572,19347998,19415235,19482546,19549621,19616704,19684043,19751382,19819033,19886189,19953488,20020532,20087675,20154899,20222115,20289466,20356677,20424191,20491316,20558450,20625893,20693209,20760549,20827815,20895461,20962574,21029627,21097015,21164266,21231642,21299150,21366428,21433538,21500651,21567977,21635547,21702758,21770170,21837501,21904627,21971684,22039046,22106236,22173314,22240653,22307965,22375213,22442331,22509563,22576921,22644330,22711691,22779034,22846197,22913362,22980530,23047692,23114855,23182339,23249748,23317064,23384231,23451551,23518988,23586354,23653825,23721435,23788684,23855870,23923266,23990776,24058240,24125703,24193458,24260702,24327901,24395391,24462918,24530400,24598052,24665526,24732742,24799949,24867360,24934777,25002198,25069527,25136703,25203831,25270993,25338229,25405517,25472695,25540012,25607518,25674735,25741935,25810542,25878044,25945554,26013116,26080538,26147745,26214897,26282540,26349774,26417201,26484720,26552406,26619615,26686864,26754341,26821809,26889225,26956776,27024354,27091577,27158791,27226310,27293689,27361090,27428461,27495947,27563162,27630376,27697911,27765459,27833200,27900575,27967853,28035036,28102228,28169741,28237168,28304471,28371589,28438854,28505958,28573094,28640595,28707906,28775397,28842611,28909756,28976849,29043950,29111238,29178474,29245669,29313063,29380250,29447311,29514381,29581621,29649250,29716303,29783359,29850411,29917451,29984528,30051659,30118892,30186048,30253247,30320381,30387458,30454521,30521692,30588883,30656066,30723244,30790426,30857495,30924563,30991807,31059015,31126253,31193701,31261148,31328242,31395329,31462974,31530289,31597505,31664777,31732039,31799151,31866259,31931159,31994649,32057984,32121380,32185118,32248314,32311501,32374753,32438316,32501657,32564966,32628286,32691468,32754637,32817932,32881254,32944529,33007875,33071115,33134209,33197294,33260481,33323702,33387290,33450714,33516638,33583926,33651213,33718636,33785952,33853414,33920652,33987840,34054999,34122194,34189572,34256800,34324069,34391308,34458553,34525645,34592885,34660297,34727550,34794750,34862019,34929139,34996391,35063619,35130869,35198200,35265513,35332577,35399654,35466945,35534209,35601405,35668609,35735861,35802949,35870102,35937306,36004488,36071844,36139091,36206194,36273295,36340599,36407841,36474985,36542185,36609423,36676519,36743624,36810795,36877937,36945110,36964433,36975918,36987280,36998641,37010103,37021522,37032904,37044341,37055683,37067001,37078309,37089705,37101173,37112837,37124484,37136051,37147558,37159075,37170647,37182232,37193726,37205203,37217479,37228877,37240277,37251808,37263235,37274630,37286015,37297380,37308693,37319990,37331290,37342835,37354165,37365504,37376775,37387944,37399112,37410358,37421572,37432813,37444140,37455379,37466504,37477593,37488845,37499972,37511110,37522237,37533289,37544329,37555341,37566422,37577475,37588576,37599787,37610936,37621892,37632800,37643880,37654895,37665905,37676986,37687957,37698867,37709749,37720678,37731625,37742586,37753610,37764562,37775472,37786323,37797211,37808083,37819031,37829986,37840984,37851911,37862763,37873681,37884634,37895573,37906543,37917513,37928353,37939189,37950142,37961162,37972233,37983231,37994184,38005086,38016012,38027040,38038092,38049110,38060331,38071423,38082437,38093461,38105076,38116319,38127451,38138577,38150301,38161347,38172439,38183661,38194880,38206437,38217890,38228983,38240023,38251129,38262296,38273459,38284574,38295717,38307013,38318076,38329131,38340351,38351539,38362715,38374005,38385259,38396349,38407414,38418644,38429803,38440987,38452345,38463557,38474627,38485683,38497211,38508429,38519697,38528218,38539256,38550323,38561373,38572530,38583708,38594831,38605967,38617089,38628144,38639218,38650445,38661542,38672643,38683729,38694793,38705859,38716937,38728270,38739473,38750639,38761780,38773076,38784167,38795229,38806548,38817830,38829003,38840232,38851339,38862429,38873509,38884713,38896066,38907163,38918309,38929393,38940519,38951624,38962773,38973936,38985186,38996367,39007450,39018536,39029820,39041063,39052214,39063949,39075187,39086316,39098343,39109724,39121034,39132374,39143693,39154990,39166230,39177625,39188849,39200878,39212989,39224991,39237100,39249271,39261417,39273430,39285408,39297431,39310838,39323628,39335793,39347836,39359911,39372002,39384142,39396364,39408643,39420746,39433052,39445226,39457338,39469447,39481545,39493587,39505703,39517693,39527845,39537717,39547560,39557433,39567256,39577044,39587063,39605640,39616287,39626967,39636425,39645822,39655251,39664706,39674314,39683724,39693105,39702444,39712125,39721528,39731034,39740456,39749926,39759325,39768777,39778210,39787654,39797081,39806606,39816004,39825430,39834852,39844292,39853713,39863124,39872508,39882103,39891732,39901292,39910913,39920645,39930139,39939733,39949599,39959279,39968782,39978251,39987921,39997451,40006956,40016433,40025930,40035398,40044837,40054331,40064353,40073884,40083350,40092902,40102340,40112016,40121686,40131426,40141010,40150533,40160022,40169359,40179092,40188590,40198120,40207587,40217056,40226552,40236482,40246130,40255785,40265341,40275036,40284618,40294137,40303689,40313255,40322737,40332265,40341823,40351555,40361291,40370993,40380877,40390988,40402807,40413058,40423626,40434306,40445403,40458132,40468303,40478645,40488881,40499111,40509255,40519728,40530115,40540376,40550588,40560815,40570945,40581200,40591368,40601553,40611777,40621930,40632061,40642213,40652316,40662491,40672716,40682803,40692781,40702905,40713001,40722966,40732949,40742959,40752992,40763177,40773363,40783539,40793659,40803684,40813529" data-warm-notice-type="error" moduleId="184" documentId="204666" class="link ">Знакомство с Поиском</a></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

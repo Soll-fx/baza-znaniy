@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Когда можно прекратить трудовой договор с беременной и женщиной с детьми в возрасте до трех лет </h2><div class="doc-snippet"><p><a data-anchor="/document/16/211036/dfas75vtyr/" data-dfa="dfas75vtyr"></a><a data-anchor="/document/16/211036/bssPhr3/"></a>Прекратить трудовой договор с беременную сотрудницу можно по собственному желанию, по соглашению сторон, а также при ликвидации организации.</p></div><div id="documentBody" class="content-common"><div align="null"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 5.1%;"><p style="text-align:center"><a data-anchor="/document/16/211036/bssPhr4/"></a><a data-anchor="/document/16/211036/dfasxf7dta/" data-dfa="dfasxf7dta"></a><strong>№</strong></p></td><td class="bdTopbdBottombdRight" style="width: 35.4%;"><p style="text-align:center"><a data-anchor="/document/16/211036/bssPhr5/"></a><a data-anchor="/document/16/211036/dfas7kcksg/" data-dfa="dfas7kcksg"></a><strong>Основание для прекращения трувого договора</strong></p></td><td class="bdTopbdBottombdRight" style="width: 45.8%;"><p style="text-align:center"><a data-anchor="/document/16/211036/bssPhr6/"></a><a data-anchor="/document/16/211036/dfasysrg6f/" data-dfa="dfasysrg6f"></a><strong>Примечание</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 5.1%;"><p><a data-anchor="/document/16/211036/bssPhr7/"></a><a data-anchor="/document/16/211036/dfas6ekkxs/" data-dfa="dfas6ekkxs"></a>1</p></td><td class="bdBottombdRight" style="width: 35.4%;"><p><a data-anchor="/document/16/211036/bssPhr8/"></a><a data-anchor="/document/16/211036/dfasvku2mu/" data-dfa="dfasvku2mu"></a>По соглашению сторон, <a data-anchor="/document/16/211036/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasvovw44/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasvovw44">пункт 1</a> части 2&nbsp;статьи 155&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 45.8%;"><p><a data-anchor="/document/16/211036/bssPhr9/"></a><a data-anchor="/document/16/211036/dfasrpa8e6/" data-dfa="dfasrpa8e6"></a>По данному основанию можно прекратить все виды трудового договора в любое время с любым работником, в том числе и с беременной женщиной, и женщиной, имеющей детей в возрасте до трех лет. Главное – это обоюдное желание обеих сторон трудового договора</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 5.1%;"><p><a data-anchor="/document/16/211036/bssPhr10/"></a><a data-anchor="/document/16/211036/dfas940gek/" data-dfa="dfas940gek"></a>2</p></td><td class="bdBottombdRight" style="width: 35.4%;"><p><a data-anchor="/document/16/211036/bssPhr11/"></a><a data-anchor="/document/16/211036/dfas9h6mgy/" data-dfa="dfas9h6mgy"></a>По собственной инициативе работницы, <a data-anchor="/document/16/211036/backlinkanchor2/" type="backlink-anchor"></a><a href="#/document/90/9765/dfas59tyle/" class="link npd" target="_self" title="" moduleId="90" documentId="9765" anchor="dfas59tyle">статья 160</a> ТК</p></td><td class="bdBottombdRight" style="width: 45.8%;"><p><a data-anchor="/document/16/211036/bssPhr12/"></a><a data-anchor="/document/16/211036/dfashz2cq1/" data-dfa="dfashz2cq1"></a>Работница в любое время, даже в период отпуска или в период временной нетрудоспособности, вправе прекратить трудовой договор, заключенный на неопределенный срок, а также срочный трудовой договор до истечения его срока, письменно предупредив об этом работодателя за две недели.</p><p><a data-anchor="/document/16/211036/bssPhr13/"></a><a data-anchor="/document/16/211036/dfass4m1bk/" data-dfa="dfass4m1bk"></a>Если работница по своей инициативе досрочно прекращает срочный трудовой договор по собственной инициативе, можно установить выплату работницей неустойки в порядке, предусмотренном в <a data-anchor="/document/16/211036/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasz2a22d/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasz2a22d">статье 159</a> ТК.</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 5.1%;"><p><a data-anchor="/document/16/211036/bssPhr14/"></a><a data-anchor="/document/16/211036/dfasegg0xx/" data-dfa="dfasegg0xx"></a>3</p></td><td class="bdBottombdRight" style="width: 35.4%;"><p><a data-anchor="/document/16/211036/bssPhr15/"></a><a data-anchor="/document/16/211036/dfas46xpb3/" data-dfa="dfas46xpb3"></a>Отказ от продолжения работы в связи с изменением условий трудового договора, <a data-anchor="/document/16/211036/backlinkanchor4/" type="backlink-anchor"></a><a href="#/document/90/21678/dfas2dyem1/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfas2dyem1">статья 137</a> ТК</p></td><td class="bdBottombdRight" style="width: 45.8%;"><p><a data-anchor="/document/16/211036/bssPhr16/"></a><a data-anchor="/document/16/211036/dfasr8zmbm/" data-dfa="dfasr8zmbm"></a>Отказ работницы продолжить работу в новых условиях труда служит основанием, чтобы прекратить с ней трудовой договор.</p><p><a data-anchor="/document/16/211036/bssPhr17/"></a><a data-anchor="/document/16/211036/dfas5e7pdo/" data-dfa="dfas5e7pdo"></a>Если работница согласится продолжать работу в новых условиях труда, то работодатель не сможет прекратить с ней трудовой договор по своей инициативе</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 5.1%;"><p><a data-anchor="/document/16/211036/bssPhr18/"></a><a data-anchor="/document/16/211036/dfasmyq2bw/" data-dfa="dfasmyq2bw"></a>4</p></td><td class="bdBottombdRight" style="width: 35.4%;"><p><a data-anchor="/document/16/211036/bssPhr19/"></a><a data-anchor="/document/16/211036/dfasrcyho8/" data-dfa="dfasrcyho8"></a>Истечение срока трудового договора, <a data-anchor="/document/16/211036/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasy8eewf/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasy8eewf">статья 158</a> ТК</p></td><td class="bdBottombdRight" style="width: 45.8%;"><p><a data-anchor="/document/16/211036/bssPhr20/"></a><a data-anchor="/document/16/211036/dfasmio6az/" data-dfa="dfasmio6az"></a>В данном случае работодатель обязан по&nbsp;письменному заявлению работницы и при предоставлении медсправки, подтверждающей состояние беременности, продлить срок действия трудового договора до окончания беременности, а при предоставлении ей отпуска по беременности и родам — до окончания такого отпуска. (<a data-anchor="/document/16/211036/backlinkanchor6/" type="backlink-anchor"></a><a href="#/document/90/9765/dfas5fntwd/" class="link npd" target="_self" title="" moduleId="90" documentId="9765" anchor="dfas5fntwd">ч. 2</a> ст. 408&nbsp;ТК)</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 5.1%;"><p><a data-anchor="/document/16/211036/bssPhr21/"></a><a data-anchor="/document/16/211036/dfas7lx235/" data-dfa="dfas7lx235"></a>5</p></td><td class="bdBottombdRight" style="width: 35.4%;"><p><a data-anchor="/document/16/211036/bssPhr22/"></a><a data-anchor="/document/16/211036/dfas2kakkc/" data-dfa="dfas2kakkc"></a>По обстоятельствам, не зависящим от воли сторон, <a data-anchor="/document/16/211036/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasnudutr/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasnudutr">статья 168</a> ТК</p></td><td class="bdBottombdRight" style="width: 45.8%;"><p><a data-anchor="/document/16/211036/bssPhr23/"></a><a data-anchor="/document/16/211036/dfaszfq582/" data-dfa="dfaszfq582"></a>Перечень обстоятельств, не зависящих от воли сторон, установлен в <a data-anchor="/document/16/211036/backlinkanchor14/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasnudutr/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasnudutr">статья 168</a>&nbsp;ТК.</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 5.1%;"><p><a data-anchor="/document/16/211036/bssPhr24/"></a><a data-anchor="/document/16/211036/dfasr3oia2/" data-dfa="dfasr3oia2"></a>6</p></td><td class="bdBottombdRight" style="width: 35.4%;"><p><a data-anchor="/document/16/211036/bssPhr25/"></a><a data-anchor="/document/16/211036/dfasala7i9/" data-dfa="dfasala7i9"></a>В связи с ликвидацией предприятия, <a data-anchor="/document/16/211036/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/9765/dfas2q7hpz/" class="link npd" target="_self" title="" moduleId="90" documentId="9765" anchor="dfas2q7hpz">пункт 1</a> части 2 статьи 161&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 45.8%;"><p><a data-anchor="/document/16/211036/bssPhr26/"></a><a data-anchor="/document/16/211036/dfas9yf2x3/" data-dfa="dfas9yf2x3"></a>По данному основанию прекратить трудовой договор с беременными женщинами и женщинами, имеющими детей в возрасте до трех лет, можно только с обязательным их трудоустройством. Трудоустройство указанной категории женщин в данном случае осуществляет местный орган по труду с обеспечением в период трудоустройства соответствующих социальных выплат, установленных в законодательстве</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 5.1%;"><p><a data-anchor="/document/16/211036/bssPhr27/"></a><a data-anchor="/document/16/211036/dfasth9x8t/" data-dfa="dfasth9x8t"></a>7</p></td><td class="bdBottombdRight" style="width: 35.4%;"><p><a data-anchor="/document/16/211036/bssPhr28/"></a><a data-anchor="/document/16/211036/dfasyffhrx/" data-dfa="dfasyffhrx"></a>В связи с неизбранием / непрохождением по конкурсу на новый срок, либо отказ от участия в избрании / конкурсе, <a data-anchor="/document/16/211036/backlinkanchor10/" type="backlink-anchor"></a><a href="#/document/90/21678/dfas6mvma3/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfas6mvma3">пункт 10</a>&nbsp;части 2 статьи 155&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 45.8%;"><p><a data-anchor="/document/16/211036/bssPhr29/"></a><a data-anchor="/document/16/211036/dfas682sgm/" data-dfa="dfas682sgm"></a>Каких-либо ограничений в отношении прекращения трудового договора с беременными женщинами или другими категориями работников по данному основанию ТК не предусматривает. А это означает, что это возможно, если иное, на что важно обратить внимание, не предусмотрено в самом Положении, определяющем порядок проведения данного избрания или конкурса</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 5.1%;"><p><a data-anchor="/document/16/211036/bssPhr30/"></a><a data-anchor="/document/16/211036/dfasvhc5zu/" data-dfa="dfasvhc5zu"></a>8</p></td><td class="bdBottombdRight" style="width: 35.4%;"><p><a data-anchor="/document/16/211036/bssPhr31/"></a><a data-anchor="/document/16/211036/dfas4zfied/" data-dfa="dfas4zfied"></a>По основаниям, предусмотренным в трудовом договоре, <a data-anchor="/document/16/211036/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/9765/dfasm8e10n/" class="link npd" target="_self" title="" moduleId="90" documentId="9765" anchor="dfasm8e10n">пункт 11</a>&nbsp;части 2 статьи 155&nbsp;ТК</p></td><td class="bdBottombdRight" style="width: 45.8%;"><p><a data-anchor="/document/16/211036/bssPhr32/"></a><a data-anchor="/document/16/211036/dfasa9nddm/" data-dfa="dfasa9nddm"></a>Условие о прекращении трудовых отношений может быть предусмотрено в трудовом договоре, заключенном работодателем с руководителем предприятия, его заместителями, главным бухгалтером, а при отсутствии на предприятии должности главного бухгалтера – с работником, осуществляющим функции главного бухгалтера, и в иных случаях, когда это допускается законом</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

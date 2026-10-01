@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как зарегистрироваться на Едином портале интерактивных государственных услуг &#8211; my.gov.uz (ЕПИГУ)</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/202725/bssPhr1/"></a><a data-anchor="/document/16/202725/dfasn05mwc/" data-dfa="dfasn05mwc"></a>Чтобы зарегистрироваться на <a href="https://my.gov.uz/" title="">ЕПИГУ</a>, перейдите на сайт Портала госуслуг и нажмите на кнопку «Регистрация».</p><p><a data-anchor="/document/16/202725/dfas9snwh0/" data-dfa="dfas9snwh0"></a><a data-anchor="/document/16/202725/bssPhr2/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469173" sourceId="1" width="610" height="310.3852327447833" src="https://1gb.uz/system/content/image/297/1/-469173/"></p><p><a data-anchor="/document/16/202725/bssPhr3/"></a><a data-anchor="/document/16/202725/dfas3ycr3s/" data-dfa="dfas3ycr3s"></a>Система сразу предложит установить модуль E-IMZO для работы с электронными цифровыми подписями. Поскольку ЭЦП для регистрации на портале необязательна, на данном этапе откажитесь от установки модуля:</p><p><a data-anchor="/document/16/202725/dfask8dpfk/" data-dfa="dfask8dpfk"></a><a data-anchor="/document/16/202725/bssPhr4/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469174" sourceId="1" width="610" height="342.1474358974359" src="https://1gb.uz/system/content/image/297/1/-469174/"></p><p><a data-anchor="/document/16/202725/bssPhr5/"></a><a data-anchor="/document/16/202725/dfaspgqgo9/" data-dfa="dfaspgqgo9"></a>Далее поставьте отметку об ознакомлении с Положением о единой информационной системе идентификации пользователей системы «Электронное правительство»:</p><p><a data-anchor="/document/16/202725/dfasci6gq7/" data-dfa="dfasci6gq7"></a><a data-anchor="/document/16/202725/bssPhr6/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469175" sourceId="1" width="610" height="308.4269662921348" src="https://1gb.uz/system/content/image/297/1/-469175/"></p><p><a data-anchor="/document/16/202725/bssPhr7/"></a><a data-anchor="/document/16/202725/dfas50y7l3/" data-dfa="dfas50y7l3"></a>Теперь поставьте отметку о регистрации без ЭЦП, введите из паспорта персональный идентификационный номер физического лица (состоит из 14 цифр, указан на 2-й странице паспорта), а также серию и номер паспорта и нажмите кнопку «Далее»:</p><p><a data-anchor="/document/16/202725/dfas03lo19/" data-dfa="dfas03lo19"></a><a data-anchor="/document/16/202725/bssPhr8/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469176" sourceId="1" width="610" height="308.4269662921348" src="https://1gb.uz/system/content/image/297/1/-469176/"></p><p><a data-anchor="/document/16/202725/bssPhr9/"></a><a data-anchor="/document/16/202725/dfasgmebyz/" data-dfa="dfasgmebyz"></a>На следующей странице ничего вводить не надо. Нажмите кнопку «Далее»:</p><p><a data-anchor="/document/16/202725/dfasr18ogc/" data-dfa="dfasr18ogc"></a><a data-anchor="/document/16/202725/bssPhr10/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469177" sourceId="1" width="598" height="311" src="https://1gb.uz/system/content/image/297/1/-469177/"></p><p><a data-anchor="/document/16/202725/bssPhr11/"></a><a data-anchor="/document/16/202725/dfasul3e4b/" data-dfa="dfasul3e4b"></a>На завершающем этапе регистрации в системе One-ID придумайте логин (имя, которое присваивается учетной записи гражданина) и пароль, укажите адрес электронной почты, номер телефона. На мобильный телефон придет SMS с кодом подтверждения, который нужно ввести в поле регистрации. Завершите регистрацию, нажав кнопку «Далее»:</p><p><a data-anchor="/document/16/202725/dfas828mtg/" data-dfa="dfas828mtg"></a><a data-anchor="/document/16/202725/bssPhr12/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469178" sourceId="1" width="610" height="310.3852327447833" src="https://1gb.uz/system/content/image/297/1/-469178/"></p><p><a data-anchor="/document/16/202725/bssPhr13/"></a><a data-anchor="/document/16/202725/dfas3ll48i/" data-dfa="dfas3ll48i"></a>На этом регистрация завершена. Чтобы войти в портал, откройте его <a href="https://my.gov.uz/ru" title="">главную страницу</a> и нажмите кнопку «Войти». В открывшемся окне введите логин и пароль, которые вы создали при регистрации в системе One-ID:</p><p><a data-anchor="/document/16/202725/dfask8yuhv/" data-dfa="dfask8yuhv"></a><a data-anchor="/document/16/202725/bssPhr14/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469179" sourceId="1" width="610" height="227.08722741433021" src="https://1gb.uz/system/content/image/297/1/-469179/"></p><p><a data-anchor="/document/16/202725/bssPhr15/"></a><a data-anchor="/document/16/202725/dfask0w289/" data-dfa="dfask0w289"></a>При входе в портал «Госуслуги» будет всплывать уведомление о том, что ваша персональная информация не подтверждена:</p><p><a data-anchor="/document/16/202725/dfasiwcp9n/" data-dfa="dfasiwcp9n"></a><a data-anchor="/document/16/202725/bssPhr16/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469180" sourceId="1" width="504" height="164" src="https://1gb.uz/system/content/image/297/1/-469180/"></p><p><a data-anchor="/document/16/202725/bssPhr17/"></a><a data-anchor="/document/16/202725/dfasmgg7x0/" data-dfa="dfasmgg7x0"></a>Поэтому для полноценного пользования порталом «Госуслуги» необходимо подтвердить персональную информацию своей ЭЦП. Чтобы узнать, как получить ЭЦП, <a data-anchor="/document/16/202725/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/16/205195" title="Получить ЭЦП можно 2-мя способами..." moduleId="16" documentId="205195" class="link ">читайте рекомендацию</a>.</p><p><a data-anchor="/document/16/202725/bssPhr18/"></a><a data-anchor="/document/16/202725/dfasm95itg/" data-dfa="dfasm95itg"></a>После получения ЭЦП подтвердите персональную информацию на портале «Госуслуги». Для этого войдите в <a href="https://id.gov.uz/" title="">Единую систему идентификации</a>, нажав на кнопку «Вход»:</p><p><a data-anchor="/document/16/202725/dfaslilwpr/" data-dfa="dfaslilwpr"></a><a data-anchor="/document/16/202725/bssPhr19/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469181" sourceId="1" width="610" height="322.13483146067415" src="https://1gb.uz/system/content/image/297/1/-469181/"></p><p><a data-anchor="/document/16/202725/bssPhr20/"></a><a data-anchor="/document/16/202725/dfas5n1d65/" data-dfa="dfas5n1d65"></a>В появившемся окне введите логин и пароль, которые были указаны при регистрации на ЕПИГУ, и нажмите кнопку «Вход»:</p><p><a data-anchor="/document/16/202725/dfas68491a/" data-dfa="dfas68491a"></a><a data-anchor="/document/16/202725/bssPhr21/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469182" sourceId="1" width="610" height="320.1765650080257" src="https://1gb.uz/system/content/image/297/1/-469182/"></p><p><a data-anchor="/document/16/202725/bssPhr22/"></a><a data-anchor="/document/16/202725/dfastav1i6/" data-dfa="dfastav1i6"></a>На экране опять всплывет уведомление о том, что персональная информация не подтверждена. В этом уведомлении нажмите на слово «предъявить»:</p><p><a data-anchor="/document/16/202725/dfas98ublg/" data-dfa="dfas98ublg"></a><a data-anchor="/document/16/202725/bssPhr23/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469183" sourceId="1" width="501" height="186" src="https://1gb.uz/system/content/image/297/1/-469183/"></p><p><a data-anchor="/document/16/202725/bssPhr24/"></a><a data-anchor="/document/16/202725/dfas5s1won/" data-dfa="dfas5s1won"></a>Если уведомление не появилось или вы его закрыли, то для подтверждения персональной информации можно перейти на главную страницу, <a href="https://id.gov.uz/" title="">Единой системы идентификации</a>, и нажать на кнопку «Подтвердить аккаунт с помощью ЭЦП»:</p><p><a data-anchor="/document/16/202725/dfasgv51lv/" data-dfa="dfasgv51lv"></a><a data-anchor="/document/16/202725/bssPhr25/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469184" sourceId="1" width="610" height="326.0513643659711" src="https://1gb.uz/system/content/image/297/1/-469184/"></p><p><a data-anchor="/document/16/202725/bssPhr26/"></a><a data-anchor="/document/16/202725/dfas3hocbb/" data-dfa="dfas3hocbb"></a>В появившемся окне нажмите на стрелку вниз, из выпадающего списка выберите свою ЭЦП и нажмите на кнопку «Сохранить»:&nbsp; &nbsp; &nbsp;&nbsp;</p><p><a data-anchor="/document/16/202725/dfas8vedeb/" data-dfa="dfas8vedeb"></a><a data-anchor="/document/16/202725/bssPhr27/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-469185" sourceId="1" width="610" height="325.0722311396469" src="https://1gb.uz/system/content/image/297/1/-469185/"></p><p><a data-anchor="/document/16/202725/bssPhr28/"></a><a data-anchor="/document/16/202725/dfasciil02/" data-dfa="dfasciil02"></a>После подтверждения персональной информации услуги портала «Госуслуги» будут доступны.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

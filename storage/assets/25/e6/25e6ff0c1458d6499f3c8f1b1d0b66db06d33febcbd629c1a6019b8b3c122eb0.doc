@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как изменить условия трудового договора</h2><div class="doc-snippet"><a data-anchor="/document/16/211034/dfasmieatg/" data-dfa="dfasmieatg"></a><a data-anchor="/document/16/211034/bssPhr2/"></a>В общем случае изменения в трудовой договор вносят только при по соглашению между работодателем и работником. При этом инициатором изменений может быть как работник, так и работодатель. </div><div id="documentBody" class="content-common"><list><item><a anchor="dfaswfuyvq" icon="useful" itemid="_yp0yzj0ih" label="Полезно" text="Как внести изменения в трудовой договор">Как внести изменения в трудовой договор</a></item><item><a anchor="dfasnvl2sf" icon="useful" itemid="_sl1yyhkbe" label="Полезно" text="Когда небходимо вносить изменения в трудовой договор">Когда небходимо вносить изменения в трудовой договор</a></item><item><a anchor="dfasbdgalb" icon="useful" itemid="_gfsoh83zj" label="Полезно" text="Когда работник вправе требовать изменить условия труда">Когда работник вправе требовать изменить условия труда</a></item></list><a data-anchor="/document/16/211034/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211034/bssPhr3/"></a><a data-anchor="/document/16/211034/dfastqit9k/" data-dfa="dfastqit9k"></a>Изменение&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211034/bssPhr5/"></a><a data-anchor="/document/16/211034/dfasdgyevp/" data-dfa="dfasdgyevp"></a>Изменение трудового договора – это корректировка каких-либо его существенных или технических условий.</p><p><a data-anchor="/document/16/211034/bssPhr6/"></a><a data-anchor="/document/16/211034/dfas48g4fs/" data-dfa="dfas48g4fs"></a>К существенным условиям относят, например, график работы, а к техническим – дополнение данных работника или организации-работодателя.</p><p><a data-anchor="/document/16/211034/bssPhr7/"></a><a data-anchor="/document/16/211034/dfaslsbc2s/" data-dfa="dfaslsbc2s"></a>Под изменением трудового договора понимают:</p><ul class="c-list"><li><a data-anchor="/document/16/211034/bssPhr8/"></a><a data-anchor="/document/16/211034/dfasv60wc3/" data-dfa="dfasv60wc3"></a>изменения условий труда;</li><li>перевод работника на другую работу;</li><li>изменение местности из-за переезда работодателя;</li><li>прикомандирование работника к другому работодателю;</li><li>изменение рабочего места работника.</li></ul><p><a data-anchor="/document/16/211034/bssPhr9/"></a><a data-anchor="/document/16/211034/dfasst593r/" data-dfa="dfasst593r"></a>Это следует из <span num="18" target="_self" lnktype="intlnk" title="" class="doc">статьи 133</span> ТК.</p><p><a data-anchor="/document/16/211034/bssPhr10/"></a><a data-anchor="/document/16/211034/dfasr939ym/" data-dfa="dfasr939ym"></a>В свою очередь, условия труда – социальные и производственные факторы, в которых работает работник на основании трудового договора.</p><p><a data-anchor="/document/16/211034/bssPhr11/"></a><a data-anchor="/document/16/211034/dfaso73d77/" data-dfa="dfaso73d77"></a>Социальными факторами считают размер оплаты труда, продолжительность рабочего времени, отпуска и другие условия.</p><p><a data-anchor="/document/16/211034/bssPhr12/"></a><a data-anchor="/document/16/211034/dfasb8mnzd/" data-dfa="dfasb8mnzd"></a>Производственные факторы – технические, санитарные, гигиенические, производственно-бытовые и другие условия</p></div><a data-anchor="/document/16/211034/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211034/bssPhr13/"></a><a data-anchor="/document/16/211034/dfaswfuyvq/" data-dfa="dfaswfuyvq"></a>Внесение изменений&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211034/bssPhr15/"></a><a data-anchor="/document/16/211034/dfas150d3f/" data-dfa="dfas150d3f"></a>По общему правилу изменения в трудовой договор оформляйте <span num="62" target="_self" lnktype="intlnk" title="" class="doc">приказом</span> работодателя на основании допсоглашения. Приказ об изменении условий труда объявите работнику под роспись. Например, ознакомьте с приказом об установлении доплаты за вредные условия труда.</p><p><a data-anchor="/document/16/211034/bssPhr16/"></a><a data-anchor="/document/16/211034/dfasp1g76p/" data-dfa="dfasp1g76p"></a>До заключения соглашения работник и работодатель обговаривают условия.</p><p><a data-anchor="/document/16/211034/bssPhr17/"></a><a data-anchor="/document/16/211034/dfasektgne/" data-dfa="dfasektgne"></a>Достигнутые договоренности подтверждают подписями на тексте (ст. <span num="32" target="_self" lnktype="intlnk" title="" class="doc">104</span>, <span num="33" target="_self" lnktype="intlnk" title="" class="doc">135</span>, <span num="34" target="_self" lnktype="intlnk" title="" class="doc">149</span> ТК). При этом инициатором изменений может быть как работник, так и работодатель. Исключения из этого правила – случаи, когда работник или работодатель вправе изменить условия труда самостоятельно, без согласия второй стороны (ст. <span num="35" target="_self" lnktype="intlnk" title="" class="doc">136</span>, <span num="36" target="_self" lnktype="intlnk" title="" class="doc">137</span> ТК).</p><p><a data-anchor="/document/16/211034/bssPhr18/"></a><a data-anchor="/document/16/211034/dfasksm7t9/" data-dfa="dfasksm7t9"></a>Например, несовершеннолетние работники могут потребовать установить им сокращенное рабочее время (<span num="37" target="_self" lnktype="intlnk" title="" class="doc">ст. 415 ТК</span>), а работодатель – установить новое, технологичное оборудование и повысить норму выработки (<span num="38" target="_self" lnktype="intlnk" title="" class="doc">ст. 137 ТК</span>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли издавать приказ в связи со сменой адреса жительства работника</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211034/bssPhr20/"></a><a data-anchor="/document/16/211034/dfasuwub7f/" data-dfa="dfasuwub7f"></a>Да, нужно.</p><p><a data-anchor="/document/16/211034/bssPhr21/"></a><a data-anchor="/document/16/211034/dfasq3ybl7/" data-dfa="dfasq3ybl7"></a>Чтобы внести изменения в кадровые документы, работник должен написать заявление в произвольной форме. К такому заявлению он прикладывает документ, который подтверждает изменения. Например, копию страницы паспорта с новой регистрацией по местожительству. Затем издайте приказ о внесении изменений в кадровые документы (<span num="19" target="_self" lnktype="intlnk" title="" class="doc">ст. 107 ТК</span>). Унифицированной формы такого приказа Закон не устанавливает, поэтому составьте его в произвольной форме. На основании приказа внесите изменения в трудовой договор, личную карточку и другие кадровые документы, в которых есть адрес работника.</p><p><a data-anchor="/document/16/211034/bssPhr22/"></a><a data-anchor="/document/16/211034/dfaswal00s/" data-dfa="dfaswal00s"></a>В трудовом договоре указывают сведения о паспорте работника: его серию, номер, место и дату выдачи, а также адрес регистрации. Фактический адрес работника также можете указать в трудовом договоре, однако Кодекс этого не требует.</p><p><a data-anchor="/document/16/211034/bssPhr23/"></a><a data-anchor="/document/16/211034/dfasc2bh9r/" data-dfa="dfasc2bh9r"></a>Заключать допсоглашение к трудовому договору в данном случае не нужно.</p></div></div></div><a data-anchor="/document/16/211034/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211034/bssPhr24/"></a><a data-anchor="/document/16/211034/dfasduv3nv/" data-dfa="dfasduv3nv"></a>Оформление допсоглашения&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211034/bssPhr26/"></a><a data-anchor="/document/16/211034/dfaswqlwu9/" data-dfa="dfaswqlwu9"></a>Типовой формы допсоглашения к трудовому договору нет. Текст зависит от каждого конкретного случая.</p><p><a data-anchor="/document/16/211034/bssPhr27/"></a><a data-anchor="/document/16/211034/dfashg543s/" data-dfa="dfashg543s"></a>Допсоглашение – неотъемлемая часть трудового договора. Поэтому составьте его в двух экземплярах – по одному для каждой из сторон. Факт того, что работник получил экземпляр допсоглашения, подтвердит подпись на экземпляре работодателя. При наличии у работодателя печати подпись, в экземплярах допсоглашения, заверяйте печатью. Один экземпляр допсоглашения передайте работнику, другой храните у работодателя вместе с трудовым договором (<span num="39" target="_self" lnktype="intlnk" title="" class="doc">ст. 149 ТК</span>).</p><p><a data-anchor="/document/16/211034/bssPhr28/"></a><a data-anchor="/document/16/211034/dfasrekz6v/" data-dfa="dfasrekz6v"></a>Если организация ведет журнал учета трудовых договоров, зафиксируйте в нем выдачу работнику экземпляра допсоглашения.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211034/bssPhr29/"></a><a data-anchor="/document/16/211034/dfasr1xv2m/" data-dfa="dfasr1xv2m"></a>Оформление изменения обязательных условий трудового договора</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211034/bssPhr30/"></a><a data-anchor="/document/16/211034/dfasn3ip3h/" data-dfa="dfasn3ip3h"></a>Кассира А.В. Тухтамышеву переводят на должность бухгалтера.</p><p><a data-anchor="/document/16/211034/bssPhr31/"></a><a data-anchor="/document/16/211034/dfasvacq4w/" data-dfa="dfasvacq4w"></a>Для внесения изменений в трудовой договор с Тухтамышевой оформили допсоглашение. На основании соглашения издали приказ и объявили работнице под роспись. Запись о переводе на другую должность внесли в трудовую книжку и в <span num="63" target="_self" lnktype="intlnk" title="" class="doc">личную карточку</span> по <span num="64" target="_self" lnktype="intlnk" title="" class="doc">форме № Т-2</span>.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязательно ли нумеровать допсоглашения к трудовому договору и в каком порядке</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211034/bssPhr33/"></a><a data-anchor="/document/16/211034/dfas4qhe7o/" data-dfa="dfas4qhe7o"></a>Нет, не обязательно.</p><p><a data-anchor="/document/16/211034/bssPhr34/"></a><a data-anchor="/document/16/211034/dfasz1ibo4/" data-dfa="dfasz1ibo4"></a>Закон не устанавливает обязанность нумеровать допсоглашения к трудовым договорам. При этом документы в кадровой службе нумеруют с целью их систематизации и учета. Кроме того, возможна ситуация, когда в один день с работником заключат сразу несколько допсоглашений, которые меняют одни и те же условия трудового договора. В этом случае одной только даты соглашения будет недостаточно. Поэтому рекомендуем присваивать номера допсоглашениям.</p><p><a data-anchor="/document/16/211034/bssPhr35/"></a><a data-anchor="/document/16/211034/dfasmh9gg0/" data-dfa="dfasmh9gg0"></a>Порядок нумерации допсоглашений к трудовым договорам Закон не устанавливает –работодатель вправе разработать его самостоятельно. На практике к допсоглашениям применяют сквозную нумерацию. То есть у каждого работника будут соглашения к их трудовым договорам под № 1, 2, 3 и т. д.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли расторгнуть допсоглашение к трудовому договору</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211034/bssPhr37/"></a><a data-anchor="/document/16/211034/dfasmld5tv/" data-dfa="dfasmld5tv"></a>Да, можно.</p><p><a data-anchor="/document/16/211034/bssPhr38/"></a><a data-anchor="/document/16/211034/dfasgavkfh/" data-dfa="dfasgavkfh"></a>Чтобы расторгнуть допсоглашение к трудовому договору, нужно составить новое допсоглашение, где будет отражено, что предыдущее допсоглашение утрачивает силу. Типовой формы Закон не устанавливает, поэтому организация может составить его в произвольной форме (<span num="20" target="_self" lnktype="intlnk" title="" class="doc">ст. 135 ТК</span>).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>В какой срок оформить допсоглашение к трудовому договору</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211034/bssPhr40/"></a><a data-anchor="/document/16/211034/dfasishm8e/" data-dfa="dfasishm8e"></a>Ответ зависит от того, какие изменения закрепляет допсоглашение.</p><p><a data-anchor="/document/16/211034/bssPhr41/"></a><a data-anchor="/document/16/211034/dfas8i9g7m/" data-dfa="dfas8i9g7m"></a>Изменения условий трудового договора прописывают в допсоглашении (<span num="21" target="_self" lnktype="intlnk" title="" class="doc">ст. 149 ТК</span>). В общем случае изменения вносят только по соглашению сторон, которое подтверждают подписью в соглашении. Поэтому допсоглашение заключают перед тем, как применять новые условия трудового договора.</p><p><a data-anchor="/document/16/211034/bssPhr42/"></a><a data-anchor="/document/16/211034/dfasc9ypgu/" data-dfa="dfasc9ypgu"></a>Возможна ситуация, когда стороны фактически применяют новые условия, а допсоглашение не заключили. Это не по правилам, если обнаружили такую ситуацию у вас в организации, оформите допсоглашение текущим числом в двух экземплярах, подпишите у директора или лица с доверенностью, а также у работника.</p><p><a data-anchor="/document/16/211034/bssPhr43/"></a><a data-anchor="/document/16/211034/dfasewt1wo/" data-dfa="dfasewt1wo"></a>При этом бывают ситуации, когда допсоглашение можно заключить после изменений. Например, в том случае, когда срочный трудовой договор не был расторгнут после окончания его срока и стал бессрочным (<span num="22" target="_self" lnktype="intlnk" title="" class="doc">ст. 111 ТК</span>). В этой ситуации нужно оформить допсоглашение после того, как вступят в силу изменения. Срок законодательство не устанавливает.<br>&nbsp;</p></div></div></div><a data-anchor="/document/16/211034/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211034/bssPhr44/"></a><a data-anchor="/document/16/211034/dfasnvl2sf/" data-dfa="dfasnvl2sf"></a>Необходимость изменения&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211034/bssPhr46/"></a><a data-anchor="/document/16/211034/dfas7f7gv0/" data-dfa="dfas7f7gv0"></a><a data-anchor="/document/16/211034/dfaswhop5l/" data-dfa="dfaswhop5l"></a>Необходимость внести изменения в трудовой договор возникает, когда стороны меняют содержание сведений или условий. При этом неважно, какие условия договора нужно изменить: обязательные или дополнительные (ст. <span num="40" target="_self" lnktype="intlnk" title="" class="doc">104</span>, <span num="41" target="_self" lnktype="intlnk" title="" class="doc">135</span> ТК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Вносить ли изменения в трудовые договоры, если меняют Положение о премировании и порядок выплаты премий</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211034/bssPhr48/"></a><a data-anchor="/document/16/211034/dfassygryy/" data-dfa="dfassygryy"></a>Да, вносить.</p><p><a data-anchor="/document/16/211034/bssPhr49/"></a><a data-anchor="/document/16/211034/dfaszk3g0p/" data-dfa="dfaszk3g0p"></a>Изменение порядка оплаты труда влечет изменение обязательных условий трудового договора (<span num="23" target="_self" lnktype="intlnk" title="" class="doc">ст. 104 ТК</span>).</p><p><a data-anchor="/document/16/211034/bssPhr50/"></a><a data-anchor="/document/16/211034/dfas22iucg/" data-dfa="dfas22iucg"></a>Поскольку условия оплаты труда меняют, необходимо составить допсоглашение (<span num="24" target="_self" lnktype="intlnk" title="" class="doc">ст. 135 ТК</span>). И это не зависит от того, стоит в трудовом договоре ссылка на Положение о премировании или в нем сразу установили условия премирования. Если в договоре сделали ссылку на Положение о премировании, то в соглашении можно прописать, что пункт, который регулирует выплату премий, стороны договорились изложить в новой редакции, например: «Работодатель устанавливает стимулирующие и компенсационные выплаты, надбавки, премии и т. п. Размеры и условия таких выплат определены в Положении о премировании работников, утвержденным приказом № ___ от «____» ________ _____ г.». При этом нужно указать реквизиты новой редакции Положения о премировании.</p><p><a data-anchor="/document/16/211034/bssPhr51/"></a><a data-anchor="/document/16/211034/dfasl3i6io/" data-dfa="dfasl3i6io"></a>Кроме того, с новой редакцией документа нужно будет ознакомить работников под подпись (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">ст. 135 ТК</span>). Например, одновременно с уведомлением работника об изменении, которое определено сторонами условий трудового договора или в самом уведомлении написать суть изменений, а с локальным актом ознакомить уже в течение срока предупреждения.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли заключать допсоглашения с работниками, если сменился руководитель предприятия</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211034/bssPhr53/"></a><a data-anchor="/document/16/211034/dfaskt0fvw/" data-dfa="dfaskt0fvw"></a>Нет, не нужно.</p><p><a data-anchor="/document/16/211034/bssPhr54/"></a><a data-anchor="/document/16/211034/dfas5fc3gv/" data-dfa="dfas5fc3gv"></a>В трудовом договоре указывают наименование предприятия, а также сведения о его представителе и основания, по которым он имеет право подписать трудовой договор (<span num="26" target="_self" lnktype="intlnk" title="" class="doc">ст. 104 ТК</span>).</p><p><a data-anchor="/document/16/211034/bssPhr55/"></a><a data-anchor="/document/16/211034/dfas9uxrmv/" data-dfa="dfas9uxrmv"></a>Смена руководителя не приводит к смене работодателя, а также к изменению условий трудового договора. Данные представителя в трудовом договоре должны быть актуальными на момент заключения договора. Поэтому при смене руководителя заключать допсоглашения к трудовым договорам не нужно.</p></div></div></div><a data-anchor="/document/16/211034/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211034/bssPhr56/"></a><a data-anchor="/document/16/211034/dfasbdgalb/" data-dfa="dfasbdgalb"></a>Право работника&nbsp;&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211034/bssPhr58/"></a><a data-anchor="/document/16/211034/dfasgydxun/" data-dfa="dfasgydxun"></a><span num="92" target="_self" lnktype="intlnk" title="" class="doc">Статья 136 ТК</span> определяет, если работник требует изменений условий труда, он пишет заявление, а работодатель принимает решение в течение 3 дней. Срок исчисляйте со следующего дня после подачи заявления (<span num="27" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 9 ТК).</p><p><a data-anchor="/document/16/211034/bssPhr59/"></a><a data-anchor="/document/16/211034/dfas7dnhsg/" data-dfa="dfas7dnhsg"></a>Если удовлетворяете требования работника, то вынесите приказ или распоряжение. Отказываете – предоставьте письменное уведомление под подпись работнику. В уведомлении укажите причины отказа, например, что требования незаконны или невозможны по причинам технологического характера.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211034/bssPhr60/"></a><a data-anchor="/document/16/211034/dfas05lx63/" data-dfa="dfas05lx63"></a>Если вы не ответите на его заявление, вне зависимости от причин отказа, то работник вправе обжаловать отказ в изменении условий труда</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/211034/bssPhr61/"></a><a data-anchor="/document/16/211034/dfasowyf24/" data-dfa="dfasowyf24"></a>(<span num="110" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 136 ТК).</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211034/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/211034/bssPhr62/"></a><a data-anchor="/document/16/211034/dfasn9kgiw/" data-dfa="dfasn9kgiw"></a>Право работодателя&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211034/bssPhr64/"></a><a data-anchor="/document/16/211034/dfasgamh8w/" data-dfa="dfasgamh8w"></a>Изменить условия труда работодатель вправе, если:</p><ul class="c-list"><li><a data-anchor="/document/16/211034/bssPhr65/"></a><a data-anchor="/document/16/211034/dfas1ab3mq/" data-dfa="dfas1ab3mq"></a>не изменяет трудовую функцию работника;</li><li>прежние условия труда сохранить невозможно.</li></ul><p><a data-anchor="/document/16/211034/bssPhr66/"></a><a data-anchor="/document/16/211034/dfaslf8g3g/" data-dfa="dfaslf8g3g"></a>Невозможность сохранить прежние условия труда требует подтверждения следующими обстоятельствами:</p><ul class="c-list"><li><a data-anchor="/document/16/211034/bssPhr67/"></a><a data-anchor="/document/16/211034/dfas1bt7sq/" data-dfa="dfas1bt7sq"></a>в организации меняют технологию;</li><li>корректируют организацию производства и труда;</li><li>у работодателя снижение объема работ.</li></ul><p><a data-anchor="/document/16/211034/bssPhr68/"></a><a data-anchor="/document/16/211034/dfasomegqy/" data-dfa="dfasomegqy"></a>Если такие обстоятельства присутствуют и из-за них действительно невозможно сохранить условия труда, предупредите работников за 2 месяца о возможных изменениях (<span num="28" target="_self" lnktype="intlnk" title="" class="doc">ст. 137 ТК</span>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Имеет ли право работодатель понизить оклад сотруднику в связи с неэффективностью его работы</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211034/bssPhr72/"></a><a data-anchor="/document/16/211034/dfasyreayg/" data-dfa="dfasyreayg"></a>Снижение зарплаты — это изменение условий труда работника.&nbsp;Условие об оплате труда — обязательное условие трудового договора (<span num="129" target="_self" lnktype="intlnk" title="" class="doc">ст. 104</span> ТК). Изменить размер зарплаты, в том числе размер составляющих ее частей, например, увеличить оклад и уменьшить надбавку или наоборот, можно только с согласия работника, даже если общая сумма зарплаты не меняется (<span num="130" target="_self" lnktype="intlnk" title="" class="doc">ст. 135</span> ТК).</p><p style="text-align:left"><a data-anchor="/document/16/211034/bssPhr73/"></a><a data-anchor="/document/16/211034/dfas05ofg0/" data-dfa="dfas05ofg0"></a>Таким образом, изменить размер составляющих частей зарплаты можно только внесением изменений в трудовой договор. Кроме этого, нужно внести изменения и в штатное расписание. Уменьшение оклада сотрудника&nbsp;должно быть обосновано&nbsp;реальными основаниями для ее снижения, когда в результате технологических или организационных изменений нагрузка на работника снижается и труд работника становится менее ценным (<span num="131" target="_self" lnktype="intlnk" title="" class="doc">ст. 133</span>, <span num="132" target="_self" lnktype="intlnk" title="" class="doc">137</span> ТК).</p><p style="text-align:left"><a data-anchor="/document/16/211034/bssPhr74/"></a><a data-anchor="/document/16/211034/dfas0rtw2k/" data-dfa="dfas0rtw2k"></a>Уменьшение зарплаты допускают, когда прежние условия труда невозможно сохранить по причине:</p><ul class="c-list"><li><a data-anchor="/document/16/211034/bssPhr75/"></a><a data-anchor="/document/16/211034/dfasgi5fp5/" data-dfa="dfasgi5fp5"></a>изменения в технике и технологии производства, например, внедрения нового оборудования, которое привело к уменьшению нагрузки на сотрудника;</li><li>структурной реорганизации производства, например, исключения какой-либо стадии производственного процесса, что также привело к снижению нагрузки;</li><li>иного изменения организационных или технологических условий труда, которое снизило интенсивность или сложность труда работника.</li></ul></div></div></div><a data-anchor="/document/16/211034/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/211034/bssPhr76/"></a><a data-anchor="/document/16/211034/dfasp0p66i/" data-dfa="dfasp0p66i"></a>Последствия незаконного изменения&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211034/bssPhr78/"></a><a data-anchor="/document/16/211034/dfas5p3hcq/" data-dfa="dfas5p3hcq"></a>Если работник докажет, что условия труда можно было сохранить и затребует восстановить их через суд, то работодатель будет обязан исполнить это решение.</p><p><a data-anchor="/document/16/211034/bssPhr79/"></a><a data-anchor="/document/16/211034/dfas4zfbd2/" data-dfa="dfas4zfbd2"></a>Например, если изменения снизили размер оплаты труда работника, то работодатель возмещает весь материальный ущерб. Если работник докажет, что вследствие изменений условий труда были причинен нравственные или физические страдания, то работодатель будет возмещать и моральный вред.</p><p><a data-anchor="/document/16/211034/bssPhr80/"></a><a data-anchor="/document/16/211034/dfasidi763/" data-dfa="dfasidi763"></a>Вместе с тем, ТК допускает привлекать должностных лиц, которые виновны в незаконном изменении трудового договора к дисциплинарной, административной и материальной ответственности (<span num="29" target="_self" lnktype="intlnk" title="" class="doc">ст. 150 ТК</span>, <span num="30" target="_self" lnktype="intlnk" title="" class="doc">ст. 49</span> КоАО).</p></div><a data-anchor="/document/16/211034/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/211034/bssPhr81/"></a><a data-anchor="/document/16/211034/dfasemomg8/" data-dfa="dfasemomg8"></a>Оформление новой редакции</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211034/bssPhr83/"></a><a data-anchor="/document/16/211034/dfas7yraka/" data-dfa="dfas7yraka"></a>Оформление договора в новой редакции – это частный случай изменения трудового договора, когда меняют весь текст документа, поскольку изменение условий трудового договора может затрагивать все его содержание. Например, смена трудовой функции работника может повлечь изменение его прав и обязанностей, условий оплаты труда и других положений трудового договора. Если в трудовой договор вносите много изменений, то его понимание станет затруднительным.</p><p><a data-anchor="/document/16/211034/bssPhr84/"></a><a data-anchor="/document/16/211034/dfasauuhcq/" data-dfa="dfasauuhcq"></a>ТК не регламентирует напрямую данный случай, но к нему применимы правила заключения допсоглашения к трудовому договору (ст. <span num="42" target="_self" lnktype="intlnk" title="" class="doc">104</span>, <span num="43" target="_self" lnktype="intlnk" title="" class="doc">135</span>, <span num="44" target="_self" lnktype="intlnk" title="" class="doc">149</span> ТК). Так, если такая необходимость назрела, рекомендуем составить допсоглашение к трудовому договору и в тексте соглашения изложить договор в новой редакции. В трудовом договоре продублируйте те положения, которые продолжают действовать, и изложите новые условия. При этом в преамбуле допсоглашения сделайте отметку: «стороны изложили трудовой договор в новой редакции».</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как в кадровых документах ставить ссылку на трудовой договор, если его изложили в новой редакции.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211034/bssPhr86/"></a><a data-anchor="/document/16/211034/dfasnwct4i/" data-dfa="dfasnwct4i"></a><a data-anchor="/document/16/211034/dfasqch113/" data-dfa="dfasqch113"></a>Укажите реквизиты договора, который оформляли при приеме на работу. По желанию дополните их информацией о дате актуальной редакции. Так как у работника как был один договор, так и будет. Договор не заменят другим, а изменят лишь его содержание.</p><p><a data-anchor="/document/16/211034/bssPhr87/"></a><a data-anchor="/document/16/211034/dfasqs3tfi/" data-dfa="dfasqs3tfi"></a>Поэтому, если в кадровых документах нужно сделать отсылку на трудовой договор работника, укажите реквизиты договора, который оформляли при приеме на работу. По желанию внесите запись о дате новой редакции.</p><p><a data-anchor="/document/16/211034/bssPhr88/"></a><a data-anchor="/document/16/211034/dfasttiltb/" data-dfa="dfasttiltb"></a>Пример формулировки: «трудовой договор № 234 от 1 апреля 2020 г. (в ред. от 23 августа 2021 г.)», где:</p><ul class="c-list"><li><a data-anchor="/document/16/211034/bssPhr89/"></a><a data-anchor="/document/16/211034/dfas04t3ts/" data-dfa="dfas04t3ts"></a>1 апреля 2020 года – дата приема на работу и заключения трудового договора;</li><li>23 августа 2021 года – дата заключения допсоглашения к трудовому договору об изменении условий и оформлении договора в новой редакции.</li></ul><p><a data-anchor="/document/16/211034/bssPhr90/"></a><a data-anchor="/document/16/211034/dfasowxe8k/" data-dfa="dfasowxe8k"></a>Приписка о новой редакции необязательна. И без нее договор применяют с учетом всех изменений, которые в него внесли, в том числе оформленных как новая редакция документа.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли оформлять новые трудовые договоры с работниками, если поменяли директора организации</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211034/bssPhr92/"></a><a data-anchor="/document/16/211034/dfasxb6k0h/" data-dfa="dfasxb6k0h"></a>Нет, переоформлять договора не нужно.</p><p><a data-anchor="/document/16/211034/bssPhr93/"></a><a data-anchor="/document/16/211034/dfas7nz0n6/" data-dfa="dfas7nz0n6"></a>Трудовой договор – это соглашение между работником и работодателем (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">ст. 103 ТК</span>). От имени работодателя выступает директор предприятия. Он подписывает трудовой договор не от своего имени, а от имени работодателя. Поэтому при смене директора, договора будут действительными, сохраняют юридическую силу и переоформлять их не нужно.</p></div></div></div><p><a data-anchor="/document/16/211034/dfastmso0q/" data-dfa="dfastmso0q"></a><a data-anchor="/document/16/211034/bssPhr94/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882144" sourceId="1" fullSizeImageId="-41882143" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882144/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Когда и как платить НДФЛ в бюджет по налоговой декларации</h2><div class="doc-snippet"><a data-anchor="/document/16/221239/dfas9ts7ig/" data-dfa="dfas9ts7ig"></a><a data-anchor="/document/16/221239/bssPhr2/"></a>Из&nbsp;рекомендации узнаете, когда и&nbsp;как платить НДФЛ в&nbsp;бюджет по&nbsp;налоговой декларации. Таблица поможет проверить какие налогоплательщики в&nbsp;какие сроки уплачивают НДФЛ по&nbsp;декларации. Эксперты рассказали, какая ответственность предусмотрена за&nbsp;неуплату налога и&nbsp;в&nbsp;каком порядке уплачивать НДФЛ с&nbsp;доходов, полученных резидентом РУз из&nbsp;источников за&nbsp;пределами РУз. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/221239/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221239/bssPhr3/"></a><a data-anchor="/document/16/221239/dfascvogdt/" data-dfa="dfascvogdt"></a>Сроки уплаты НДФЛ по&nbsp;налоговой декларации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221239/bssPhr5/"></a><a data-anchor="/document/16/221239/dfasllld95/" data-dfa="dfasllld95"></a>Физлица&nbsp;— налоговые резиденты, получающие доходы, по&nbsp;которым необходимо подать декларацию до&nbsp;1&nbsp;апреля следующего года, должны заплатить с&nbsp;них налог. Срок уплаты&nbsp;— не&nbsp;позднее 1&nbsp;июня года, который следует за&nbsp;годом, когда эти доходы получены (<span num="43" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;1&nbsp;ст.&nbsp;398&nbsp;НК</span>). Например, по&nbsp;доходам 2025&nbsp;года НДФЛ нужно будет перечислить не&nbsp;позднее 1&nbsp;июня 2026&nbsp;года.</p><p><a data-anchor="/document/16/221239/bssPhr6/"></a><a data-anchor="/document/16/221239/dfaspfme9k/" data-dfa="dfaspfme9k"></a>Если последний день, в&nbsp;который можно заплатить налог,&nbsp;— выходной, то&nbsp;есть суббота, воскресенье или нерабочий праздничный день, срок уплаты НДФЛ переносится на&nbsp;следующий рабочий день (<span num="44" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;8&nbsp;ст.&nbsp;5&nbsp;НК</span>).</p><p><a data-anchor="/document/16/221239/bssPhr7/"></a><a data-anchor="/document/16/221239/dfaslhhoal/" data-dfa="dfaslhhoal"></a>Для некоторых налогоплательщиков предусмотрены иные сроки уплаты НДФЛ:</p><p><a data-anchor="/document/16/221239/bssPhr8/"></a><a data-anchor="/document/16/221239/dfassc7hre/" data-dfa="dfassc7hre"></a>1. Иностранные физлица&nbsp;— резиденты РУз уплачивают налог:</p><ul class="c-list"><li><a data-anchor="/document/16/221239/bssPhr9/"></a><a data-anchor="/document/16/221239/dfash6gd02/" data-dfa="dfash6gd02"></a>по&nbsp;декларации о&nbsp;совокупном годовом доходе&nbsp;— не&nbsp;позднее 1&nbsp;июня года, следующего за&nbsp;истекшим годом;</li><li><a data-anchor="/document/16/221239/dfasqirdko/" data-dfa="dfasqirdko"></a>при прекращении деятельности и&nbsp;выезде за&nbsp;пределы Узбекистана&nbsp;— по&nbsp;декларации о&nbsp;доходах за&nbsp;текущий год в&nbsp;течение 15&nbsp;дней с&nbsp;момента подачи декларации. В&nbsp;этом случае декларацию сдают досрочно (ч. <span num="7" target="_self" lnktype="intlnk" title="" class="doc">9</span>, <span num="8" target="_self" lnktype="intlnk" title="" class="doc">10</span>&nbsp;ст.&nbsp;397&nbsp;НК).</li></ul><p><a data-anchor="/document/16/221239/bssPhr10/"></a><a data-anchor="/document/16/221239/dfasxta46m/" data-dfa="dfasxta46m"></a>2. Физлица, которые получают доходы от&nbsp;сдачи имущества в&nbsp;аренду, платят налог с&nbsp;этих доходов ежемесячно до&nbsp;15-го числа месяца, следующего за&nbsp;месяцем получения дохода. В&nbsp;этом случае:</p><ul class="c-list"><li><a data-anchor="/document/16/221239/bssPhr11/"></a><a data-anchor="/document/16/221239/dfasybdgwz/" data-dfa="dfasybdgwz"></a>если договор аренды поставлен на&nbsp;учет в&nbsp;налоговой инспекции, то&nbsp;налог платят на&nbsp;основании извещения налоговой инспекции и&nbsp;предварительная декларация не&nbsp;представляется (<span num="45" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;6&nbsp;ст.&nbsp;397&nbsp;НК</span>);</li><li>если договор аренды не&nbsp;поставлен на&nbsp;учет&nbsp;— налог платят на&nbsp;основании предварительной декларации.</li></ul><p><a data-anchor="/document/16/221239/bssPhr12/"></a><a data-anchor="/document/16/221239/dfasc6kvna/" data-dfa="dfasc6kvna"></a>В&nbsp;конце года исчисляют фактически полученный доход и&nbsp;сумму налога к&nbsp;уплате. Разницу между суммой годового НДФЛ и&nbsp;НДФЛ, уплаченного в&nbsp;течение года, взыскивают с&nbsp;налогоплательщика, либо возвращают ему в&nbsp;срок до&nbsp;1&nbsp;июня следующего года (<span num="46" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;3&nbsp;ст.&nbsp;398&nbsp;НК</span>).</p><p><a data-anchor="/document/16/221239/bssPhr13/"></a><a data-anchor="/document/16/221239/dfaszvtqhh/" data-dfa="dfaszvtqhh"></a>3. Налогоплательщики, выбравшие порядок уплаты НДФЛ по&nbsp;декларации, такие как:</p><ul class="c-list"><li><a data-anchor="/document/16/221239/bssPhr14/"></a><a data-anchor="/document/16/221239/dfasanehg8/" data-dfa="dfasanehg8"></a>члены семьи, осуществляющей деятельность в&nbsp;форме семейного предпринимательства без образования юрлица;</li><li>субъекты ремесленнической деятельности&nbsp;— члены ассоциации «Хунарманд»</li></ul><p><a data-anchor="/document/16/221239/bssPhr15/"></a><a data-anchor="/document/16/221239/dfas14lkba/" data-dfa="dfas14lkba"></a>Уплачивают налог ежемесячно до&nbsp;15-го числа месяца, следующего за&nbsp;месяцем получения дохода, на&nbsp;основании предварительной декларации. В&nbsp;этом случае в&nbsp;конце года исчисляют фактически полученный доход и&nbsp;сумму налога к&nbsp;уплате. Разницу между суммой годового НДФЛ и&nbsp;налога, уплаченного в&nbsp;течение года, взыскивают с&nbsp;налогоплательщика, либо возвращают ему в&nbsp;срок до&nbsp;1&nbsp;июня следующего года (<span num="47" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;3&nbsp;ст.&nbsp;398&nbsp;НК</span>).</p><p><a data-anchor="/document/16/221239/bssPhr16/"></a><a data-anchor="/document/16/221239/dfasv43iat/" data-dfa="dfasv43iat"></a>Таблица поможет проверить какие налогоплательщики в&nbsp;какие сроки уплачивают НДФЛ по&nbsp;декларации.</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td class="bdAll" style="width: 49%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr18/"></a><a data-anchor="/document/16/221239/dfasyga36n/" data-dfa="dfasyga36n"></a>Физические лица</p></td><td class="bdTopbdBottombdRight" style="width: 29%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr19/"></a><a data-anchor="/document/16/221239/dfasdnx5a7/" data-dfa="dfasdnx5a7"></a>Сроки уплаты налога</p></td><td class="bdTopbdBottombdRight" style="width: 20%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr20/"></a><a data-anchor="/document/16/221239/dfas6oahvw/" data-dfa="dfas6oahvw"></a>Основание</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/221239/bssPhr21/"></a><a data-anchor="/document/16/221239/dfas1ncwy4/" data-dfa="dfas1ncwy4"></a>Налоговые резиденты Узбекистана</p></td><td class="bdBottombdRight" style="width: 29%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr22/"></a><a data-anchor="/document/16/221239/dfas4uf3um/" data-dfa="dfas4uf3um"></a>не&nbsp;позднее 1&nbsp;июня года, следующего за&nbsp;истекшим годом</p></td><td class="bdBottombdRight" style="width: 20%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr23/"></a><a data-anchor="/document/16/221239/dfashgcztc/" data-dfa="dfashgcztc"></a><span num="30" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;398&nbsp;НК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/221239/bssPhr24/"></a><a data-anchor="/document/16/221239/dfasi1p9q9/" data-dfa="dfasi1p9q9"></a>Получающие доход от&nbsp;аренды имущества (ежемесячные платежи)</p></td><td class="bdBottombdRight" style="width: 29%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr25/"></a><a data-anchor="/document/16/221239/dfasvfdkuo/" data-dfa="dfasvfdkuo"></a>до&nbsp;15&nbsp;числа месяца, следующего за&nbsp;месяцем получения дохода</p></td><td class="bdBottombdRight" style="width: 20%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr26/"></a><a data-anchor="/document/16/221239/dfas5b8fzz/" data-dfa="dfas5b8fzz"></a><span num="31" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;398&nbsp;НК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/221239/bssPhr27/"></a><a data-anchor="/document/16/221239/dfasyv6blv/" data-dfa="dfasyv6blv"></a>Иностранные физические лица&nbsp;— налоговые резиденты:</p></td><td class="bdTopbdBottombdLeft" style="width: 29%;"><a data-anchor="/document/16/221239/dfaszcsafz/" data-dfa="dfaszcsafz"></a></td><td class="bdTopbdBottom" style="width: 20%;"><a data-anchor="/document/16/221239/dfasakb6xg/" data-dfa="dfasakb6xg"></a></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/221239/bssPhr28/"></a><a data-anchor="/document/16/221239/dfasvgdwr5/" data-dfa="dfasvgdwr5"></a>по&nbsp;декларации о&nbsp;совокупном годовом доходе</p></td><td class="bdTopbdBottombdRight" style="width: 29%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr29/"></a><a data-anchor="/document/16/221239/dfasnaagyn/" data-dfa="dfasnaagyn"></a>не&nbsp;позднее 1&nbsp;июня года, следующего за&nbsp;истекшим годом</p></td><td class="bdTopbdBottombdRight" style="width: 20%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr30/"></a><a data-anchor="/document/16/221239/dfas8g3grw/" data-dfa="dfas8g3grw"></a><span num="32" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;398&nbsp;НК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/221239/bssPhr31/"></a><a data-anchor="/document/16/221239/dfasgwdgf1/" data-dfa="dfasgwdgf1"></a>по&nbsp;декларации о&nbsp;доходах за&nbsp;текущий год (при прекращении деятельности и&nbsp;выезде за&nbsp;пределы РУз)</p></td><td class="bdBottombdRight" style="width: 29%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr32/"></a><a data-anchor="/document/16/221239/dfase228d4/" data-dfa="dfase228d4"></a>в&nbsp;течение 15&nbsp;дней с&nbsp;момента подачи декларации</p></td><td class="bdBottombdRight" style="width: 20%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr33/"></a><a data-anchor="/document/16/221239/dfasrhm55c/" data-dfa="dfasrhm55c"></a><span num="33" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;10</span>&nbsp;ст.&nbsp;397&nbsp;НК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/221239/bssPhr34/"></a><a data-anchor="/document/16/221239/dfasaqc73f/" data-dfa="dfasaqc73f"></a>Отдельные категории физлиц, указанные в <span num="34" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;3</span>&nbsp;статьи&nbsp;385&nbsp;НК, по&nbsp;предварительной декларации (ежемесячные платежи):</p></td><td class="bdTopbdBottombdLeft" style="width: 29%;"><a data-anchor="/document/16/221239/dfasqusg2i/" data-dfa="dfasqusg2i"></a></td><td class="bdTopbdBottom" style="width: 20%;"><a data-anchor="/document/16/221239/dfasitib60/" data-dfa="dfasitib60"></a></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/221239/bssPhr35/"></a><a data-anchor="/document/16/221239/dfasd0v2hi/" data-dfa="dfasd0v2hi"></a>члены семьи, осуществляющей деятельность в&nbsp;форме семейного предпринимательства без образования юрлица</p></td><td class="bdTopbdBottombdRight" style="width: 29%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr36/"></a><a data-anchor="/document/16/221239/dfasgqtl8g/" data-dfa="dfasgqtl8g"></a>до&nbsp;15&nbsp;числа месяца, следующего за&nbsp;месяцем получения дохода</p></td><td class="bdTopbdBottombdRight" style="width: 20%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr37/"></a><a data-anchor="/document/16/221239/dfasrvk3ae/" data-dfa="dfasrvk3ae"></a><span num="36" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;398&nbsp;НК</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 49%;"><p><a data-anchor="/document/16/221239/bssPhr38/"></a><a data-anchor="/document/16/221239/dfase48une/" data-dfa="dfase48une"></a>субъекты ремесленнической деятельности&nbsp;— члены ассоциации «Хунарманд»</p></td><td class="bdBottombdRight" style="width: 29%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr39/"></a><a data-anchor="/document/16/221239/dfascdwy0n/" data-dfa="dfascdwy0n"></a>до&nbsp;15&nbsp;числа месяца, следующего за&nbsp;месяцем получения дохода</p></td><td class="bdBottombdRight" style="width: 20%;"><p style="text-align:center"><a data-anchor="/document/16/221239/bssPhr40/"></a><a data-anchor="/document/16/221239/dfaserabt2/" data-dfa="dfaserabt2"></a><span num="37" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;398&nbsp;НК</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221239/bssPhr41/"></a><a data-anchor="/document/16/221239/dfasqqy7p7/" data-dfa="dfasqqy7p7"></a>Налог с&nbsp;физических лиц, состоящих в&nbsp;трудовых отношениях с&nbsp;ИП, исчисляет и&nbsp;удерживает налоговый агент-источник выплаты дохода</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221239/bssPhr42/"></a><a data-anchor="/document/16/221239/dfas8ycwat/" data-dfa="dfas8ycwat"></a>Такое требование установлены в <span num="18" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;8</span>&nbsp;статьи&nbsp;385&nbsp;НК.</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/221239/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221239/bssPhr43/"></a><a data-anchor="/document/16/221239/dfasquv7ei/" data-dfa="dfasquv7ei"></a>Дата уплаты НДФЛ по&nbsp;декларации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221239/bssPhr45/"></a><a data-anchor="/document/16/221239/dfasr315k5/" data-dfa="dfasr315k5"></a><span num="19" target="_self" lnktype="intlnk" title="" class="doc">Часть 4</span>&nbsp;статьи&nbsp;398&nbsp;НК определяет дату уплаты НДФЛ по&nbsp;декларации:</p><ul class="c-list"><li><a data-anchor="/document/16/221239/bssPhr46/"></a><a data-anchor="/document/16/221239/dfasz71x1v/" data-dfa="dfasz71x1v"></a>день списания средств со&nbsp;счетов в&nbsp;банке юрлица или физлица, если они платят со&nbsp;счета в&nbsp;банке;</li><li>дата внесения денег в&nbsp;кассу банка, если физлица платят наличными деньгами.</li></ul><p><a data-anchor="/document/16/221239/bssPhr47/"></a><a data-anchor="/document/16/221239/dfasf7hgqm/" data-dfa="dfasf7hgqm"></a>Физлица-резиденты Узбекистана могут уплачивать НДФЛ в&nbsp;иностранной валюте с&nbsp;банковского счета, находящегося в&nbsp;иностранном государстве. При этом НДФЛ в&nbsp;сумах пересчитывают в&nbsp;иностранную валюту по&nbsp;курсу&nbsp;ЦБ на&nbsp;дату уплаты (<span num="48" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;2&nbsp;ст.&nbsp;398&nbsp;НК</span>).</p></div><a data-anchor="/document/16/221239/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/221239/bssPhr48/"></a><a data-anchor="/document/16/221239/dfasxc1h06/" data-dfa="dfasxc1h06"></a>Ответственность за&nbsp;неуплату НДФЛ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221239/bssPhr50/"></a><a data-anchor="/document/16/221239/dfasxgbnia/" data-dfa="dfasxgbnia"></a>Если не&nbsp;заплатили налог вовремя, то&nbsp;должны заплатить:</p><ul class="c-list"><li><a data-anchor="/document/16/221239/bssPhr51/"></a><a data-anchor="/document/16/221239/dfasag7tu1/" data-dfa="dfasag7tu1"></a>всю сумму недоимки по&nbsp;налогу;</li><li>пеню за&nbsp;каждый день просрочки, начиная со&nbsp;следующего дня после установленного срока уплаты по&nbsp;день уплаты включительно. Пени насчитывают в&nbsp;процентах от&nbsp;неуплаченной суммы налога. Процентная ставка пени равна 1/300 действующей в&nbsp;это время ставки рефинансирования&nbsp;ЦБ (<span num="21" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;110&nbsp;НК</span>);</li><li>штраф в&nbsp;размере 20&nbsp;процентов от&nbsp;неуплаченной суммы налога (<span num="22" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;224&nbsp;НК).</li></ul><p><a data-anchor="/document/16/221239/bssPhr52/"></a><a data-anchor="/document/16/221239/dfasysmnb9/" data-dfa="dfasysmnb9"></a>Такое требование установлено в <span num="23" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;3</span>&nbsp;статьи&nbsp;55&nbsp;НК.</p></div><a data-anchor="/document/16/221239/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/221239/bssPhr53/"></a><a data-anchor="/document/16/221239/dfaswvi4xy/" data-dfa="dfaswvi4xy"></a>Порядок уплаты НДФЛ с&nbsp;доходов, полученных резидентом Узбекистана из&nbsp;источников за&nbsp;пределами страны</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221239/bssPhr55/"></a><a data-anchor="/document/16/221239/dfas85yoxe/" data-dfa="dfas85yoxe"></a>Доходы, полученные резидентом Узбекистана из&nbsp;источников за&nbsp;пределами страны, включаются в&nbsp;совокупный доход.</p><p><a data-anchor="/document/16/221239/bssPhr56/"></a><a data-anchor="/document/16/221239/dfasi146r0/" data-dfa="dfasi146r0"></a>Если источник выплаты за&nbsp;пределами Узбекистана, руководствуясь международным Соглашением об&nbsp;избежании двойного налогообложения, удержал с&nbsp;этих доходов НДФЛ, то&nbsp;уплаченная сумма налога подлежит зачету при расчете налога в&nbsp;республике Узбекистан. Вычет производится при представлении физлица декларации о&nbsp;совокупном годовом доходе в&nbsp;пределах суммы налога, рассчитанного в&nbsp;Узбекистане в&nbsp;соответствии с&nbsp;Налоговым кодексом. Подтвердить уплату налога за&nbsp;пределами республики Узбекистан нужно представив вместе с&nbsp;декларацией документ, заверенный уполномоченным органом, определяемым международным Соглашением (ст. <span num="49" target="_blank" lnktype="intlnk" title="" class="doc">399</span>, <span num="50" target="_blank" lnktype="intlnk" title="" class="doc">342</span> НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221239/bssPhr57/"></a><a data-anchor="/document/16/221239/dfasa2a9kt/" data-dfa="dfasa2a9kt"></a>Сумма уплаченного за&nbsp;пределами Узбекистана НДФЛ подлежит зачету только по&nbsp;доходам, полученным из&nbsp;источников в&nbsp;государствах,</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221239/bssPhr58/"></a><a data-anchor="/document/16/221239/dfasg6w9q1/" data-dfa="dfasg6w9q1"></a>с которыми у республики Узбекистан подписаны международные договора об&nbsp;избежании двойного налогообложения и&nbsp;предотвращении уклонения от&nbsp;уплаты налогов (<span num="51" target="_blank" lnktype="intlnk" title="" class="doc">ч. 2 ст. 342 НК</span>)</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/221239/bssPhr59/"></a><a data-anchor="/document/16/221239/dfasqr1r5g/" data-dfa="dfasqr1r5g"></a>Если договором об&nbsp;избежании двойного налогообложения установлено, что доходы подлежат налогообложению только в&nbsp;республике Узбекистан, то&nbsp;сумма уплаченного за&nbsp;пределами Узбекистана налога не&nbsp;подлежит зачету.</p><p><a data-anchor="/document/16/221239/bssPhr60/"></a><a data-anchor="/document/16/221239/dfast7uvgb/" data-dfa="dfast7uvgb"></a>Если с&nbsp;государством, в&nbsp;котором резидент Узбекистана получил доходы и&nbsp;уплатил с&nbsp;них налог, но республика Узбекистан&nbsp;не&nbsp;заключила договор об&nbsp;избежании двойного налогообложения, то&nbsp;сумма уплаченного за&nbsp;пределами страны налога не&nbsp;подлежит зачету.</p></div><p><a data-anchor="/document/16/221239/dfas3v7tgv/" data-dfa="dfas3v7tgv"></a><a data-anchor="/document/16/221239/bssPhr61/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

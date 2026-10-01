@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Обеспечение исполнения договорных обязательств (ОИДО)</h2><div class="doc-snippet"><a data-anchor="/document/16/208700/dfas9y9o59/" data-dfa="dfas9y9o59"></a><a data-anchor="/document/16/208700/bssPhr2/"></a>. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/208700/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/208700/bssPhr3/"></a><a data-anchor="/document/16/208700/dfashppbg6/" data-dfa="dfashppbg6"></a>Для чего применять обеспечение исполнения договорных обязательств</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/208700/bssPhr5/"></a><a data-anchor="/document/16/208700/dfaslmazyo/" data-dfa="dfaslmazyo"></a>Требование по обязательному применению обеспечения исполнения договорных обязательств (далее – ОИДО) в <span num="1" target="_self" lnktype="intlnk" title="" class="doc">Законе</span> о госзакупках отсутствует. Однако по своему усмотрению вы можете устанавливать размер, порядок внесения и возврата денежной гарантии (в виде залога) по надлежащему исполнению договора.</p><p><a data-anchor="/document/16/208700/bssPhr6/"></a><a data-anchor="/document/16/208700/dfas8m8w5v/" data-dfa="dfas8m8w5v"></a>ОИДО позволит:</p><ul class="c-list"><li><a data-anchor="/document/16/208700/bssPhr7/"></a><a data-anchor="/document/16/208700/dfasegcmb4/" data-dfa="dfasegcmb4"></a>повысить ответственность сторон за выполнение договорных обязательств;</li><li>компенсировать финансовые потери при неисполнении договора.</li></ul><p><a data-anchor="/document/16/208700/bssPhr8/"></a><a data-anchor="/document/16/208700/dfas4f76hq/" data-dfa="dfas4f76hq"></a>ОИДО победителя тендера или конкурса (исполнителя) можете в качестве гарантии держать у себя до окончания надлежащего выполнения условий договора.</p><p><a data-anchor="/document/16/208700/bssPhr9/"></a><a data-anchor="/document/16/208700/dfasrot6n0/" data-dfa="dfasrot6n0"></a>Все условия зачисления и возврата обеспечения пропишите в закупочных документах и договоре.</p><p><a data-anchor="/document/16/208700/bssPhr10/"></a><a data-anchor="/document/16/208700/dfasf148q2/" data-dfa="dfasf148q2"></a>К закупочным документам относятся: тендерная документация и документация по отбору наилучших предложений, объявления / уведомления, протоколы заседаний закупочной комиссии.</p></div><a data-anchor="/document/16/208700/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/208700/bssPhr11/"></a><a data-anchor="/document/16/208700/dfaspzth1g/" data-dfa="dfaspzth1g"></a><a data-anchor="/document/16/208700/dfasbi03n0/" data-dfa="dfasbi03n0"></a><a data-anchor="/document/16/208700/dfas8khhcs/" data-dfa="dfas8khhcs"></a><a data-anchor="/document/16/208700/dfasyzuzhg/" data-dfa="dfasyzuzhg"></a><a data-anchor="/document/16/208700/dfasy0d6de/" data-dfa="dfasy0d6de"></a>Какие существуют виды ОИДО, когда и как их применять</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/208700/bssPhr13/"></a><a data-anchor="/document/16/208700/dfas1zb4d4/" data-dfa="dfas1zb4d4"></a>ОИДО может быть в виде:</p><ul class="c-list"><li><a data-anchor="/document/16/208700/bssPhr14/"></a><a data-anchor="/document/16/208700/dfases6z1d/" data-dfa="dfases6z1d"></a>неустойки;</li><li>залога;</li><li>удержания имущества;</li><li>поручительства;</li><li>гарантии;</li></ul><p><a data-anchor="/document/16/208700/bssPhr15/"></a><a data-anchor="/document/16/208700/dfase901ma/" data-dfa="dfase901ma"></a>– задатка и других видов, которые предусмотрены в законодательстве или договоре (<span num="4" target="_self" lnktype="intlnk" title="Общие положения" class="doc">ст. 259</span> ГК).</p><p><a data-anchor="/document/16/208700/bssPhr16/"></a><a data-anchor="/document/16/208700/dfas25gy69/" data-dfa="dfas25gy69"></a><a data-anchor="/document/16/208700/dfasfzb1cq/" data-dfa="dfasfzb1cq"></a><span num="6" lnktype="intlnk" title="Неустойка" class="doc">Неустойку</span> устанавливайте в процентном отношении к сумме обязательств и в твердой сумме. Пеню начисляйте по дням или неделям, например, 1 % просроченного платежа за каждый день просрочки поставки (платежа).</p><p><a data-anchor="/document/16/208700/bssPhr17/"></a><a data-anchor="/document/16/208700/dfasm6434m/" data-dfa="dfasm6434m"></a><a data-anchor="/document/16/208700/dfas3p0qhd/" data-dfa="dfas3p0qhd"></a>В договоре <span num="8" lnktype="intlnk" title="Залог" class="doc">залога</span> пропишите (<span num="10" target="_self" lnktype="intlnk" title="Договор о залоге, его форма и регистрация" class="doc">ст. 271</span> ГК):</p><ul class="c-list"><li><a data-anchor="/document/16/208700/bssPhr18/"></a><a data-anchor="/document/16/208700/dfas66pt9x/" data-dfa="dfas66pt9x"></a>что закладывать в залог и у кого залог находится;</li><li>оценку закладываемого имущества;</li><li>суть обеспечиваемого залогом обязательства, его размер и срок исполнения.</li></ul><p><a data-anchor="/document/16/208700/bssPhr19/"></a><a data-anchor="/document/16/208700/dfasgwgd8w/" data-dfa="dfasgwgd8w"></a>Договор залога&nbsp;в установленных законом случаях удостоверяйте нотариально (<span num="12" target="_self" lnktype="intlnk" title="Договор о залоге, его форма и регистрация" class="doc">ст. 271</span> ГК).</p><p><a data-anchor="/document/16/208700/bssPhr20/"></a><a data-anchor="/document/16/208700/dfas5g2g6g/" data-dfa="dfas5g2g6g"></a>В качестве предмета залога можете принимать любое имущество, в том числе и имущественные права, за исключением:</p><ul class="c-list"><li><a data-anchor="/document/16/208700/bssPhr21/"></a><a data-anchor="/document/16/208700/dfasgzzr1g/" data-dfa="dfasgzzr1g"></a>имущества, изъятого из оборота;</li><li><a data-anchor="/document/16/208700/dfasyazfqu/" data-dfa="dfasyazfqu"></a>требований, неразрывно связанных с личностью кредитора;</li><li><a data-anchor="/document/16/208700/dfas4yedgy/" data-dfa="dfas4yedgy"></a>прав, уступка которых запрещена законом (<span num="14" target="_self" lnktype="intlnk" title="Статья 5. Предмет залога" class="doc">ст. 5</span> Закона о залоге).</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/208700/bssPhr22/"></a><a data-anchor="/document/16/208700/dfasffhxcn/" data-dfa="dfasffhxcn"></a>не принимайте в качестве предмета залога: объекты исторической, научной, художественной или культурной ценности (перечень устанавливает правительство), требования о возмещении вреда, причиненного жизни или здоровью и др.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/208700/bssPhr24/"></a><a data-anchor="/document/16/208700/dfasggk872/" data-dfa="dfasggk872"></a>Залог бывает в виде заклада – залог с передачей заложенного имущества в ведение залогодержателя, ипотеки – залог недвижимого имущества, а также залога прав.</p><p><a data-anchor="/document/16/208700/bssPhr25/"></a><a data-anchor="/document/16/208700/dfashpp59c/" data-dfa="dfashpp59c"></a><a data-anchor="/document/16/208700/dfas9ggehw/" data-dfa="dfas9ggehw"></a><a data-anchor="/document/16/208700/dfasbwus9n/" data-dfa="dfasbwus9n"></a>Залог движимого имущества бывает с передачей в ведение залогодержателя и с оставлением в ведении залогодателя и передачей кредитору документа о переуступке права на заложенную вещь.</p><p><a data-anchor="/document/16/208700/bssPhr26/"></a><a data-anchor="/document/16/208700/dfas8tmplw/" data-dfa="dfas8tmplw"></a>При ипотеке имущество в ведение кредитора не передается, и собственник вправе пользоваться им. Ипотечный залог неделим, закладная оформляется на всю заложенную недвижимость, даже если должник освобожден от уплаты части долга.</p><p><a data-anchor="/document/16/208700/bssPhr27/"></a><a data-anchor="/document/16/208700/dfas9li813/" data-dfa="dfas9li813"></a>Договор об ипотеке удостоверяйте нотариально и проведите госрегистрацию (<span num="16" target="_self" lnktype="intlnk" title="Статья 12. Нотариальное удостоверение и государственная регистрация договора об ипотеке" class="doc">ст. 12</span> Закона об ипотеке) путем внесения записи в государственный реестр залога зданий (сооружений) (<span num="18" target="_self" lnktype="intlnk" title="Статья 13. Государственная регистрация ипотеки" class="doc">ст. 13</span> Закона об ипотеке).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/208700/bssPhr28/"></a><a data-anchor="/document/16/208700/dfascaha1k/" data-dfa="dfascaha1k"></a>при залоге товара в обороте, включая сырье, полуфабрикаты, комплектующие изделия и готовую продукцию, залогодатель вправе заменить предмет залога, но общая стоимость товаров не должна быть меньше, чем определена в договоре о залоге.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208700/bssPhr29/"></a><a data-anchor="/document/16/208700/dfas4z9p6a/" data-dfa="dfas4z9p6a"></a>При залоге товаров залогодатель может передать вам только товаросопроводительные документы.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/208700/bssPhr30/"></a><a data-anchor="/document/16/208700/dfasz0xpto/" data-dfa="dfasz0xpto"></a><a data-anchor="/document/16/208700/dfas9mtri7/" data-dfa="dfas9mtri7"></a>При залоге имущественных прав и ценных бумаг по соглашению с залогодателем определяйте их стоимость, если иное не предусмотрено законодательством. Заложенные ценные бумаги могут быть переданы вам, либо в депозит нотариуса.</p><p><a data-anchor="/document/16/208700/bssPhr31/"></a><a data-anchor="/document/16/208700/dfasnqz3fe/" data-dfa="dfasnqz3fe"></a><a data-anchor="/document/16/208700/dfasv4b8tg/" data-dfa="dfasv4b8tg"></a>Удержание – это способ обеспечения исполнения обязательств, по которому кредитор вправе удерживать вещь должника до исполнения им обязательства (<span num="20" target="_self" lnktype="intlnk" title="Основания удержания" class="doc">ст. 290</span> ГК).</p><p><a data-anchor="/document/16/208700/bssPhr32/"></a><a data-anchor="/document/16/208700/dfascgoh9n/" data-dfa="dfascgoh9n"></a><a data-anchor="/document/16/208700/dfas5s59gd/" data-dfa="dfas5s59gd"></a>Поручительство – это способ обеспечения обязательств по договору в письменном виде. Несоблюдение письменной формы влечет недействительность договора поручительства.</p><p><a data-anchor="/document/16/208700/bssPhr33/"></a><a data-anchor="/document/16/208700/dfasin26v7/" data-dfa="dfasin26v7"></a>Поручитель отвечает перед кредитором за <span data-warm-notices="11681530" data-warm-notice-type="error" num="22" lnktype="intlnk" title="Как оспаривать неисполнение государственным заказчиком договорных обязательств" class="doc">неисполненные обязательства</span> должника полностью или частично (<span num="24" target="_self" lnktype="intlnk" title="Договор поручительства" class="doc">ст. 292</span> ГК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/208700/bssPhr34/"></a><a data-anchor="/document/16/208700/dfasd7pmcw/" data-dfa="dfasd7pmcw"></a>различают субсидиарное и солидарное поручительство. При субсидиарном поручительстве кредитор первоначально обращается за взысканием долга к должнику, и лишь при невозможности такого взыскания, – к поручителю.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208700/bssPhr35/"></a><a data-anchor="/document/16/208700/dfashge3so/" data-dfa="dfashge3so"></a>При солидарном поручительстве кредитор вправе требовать исполнения обязательства непосредственно у поручителя или у поручителя и должника одновременно. Если в договоре вид поручительства не указан, то применяют солидарную ответственность (<span num="49" target="_self" lnktype="intlnk" title="" class="doc">ст. 293</span> ГК).</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/208700/bssPhr36/"></a><a data-anchor="/document/16/208700/dfasrtrqvn/" data-dfa="dfasrtrqvn"></a>Поручитель, исполнивший обязательство, получает все права кредитора. Поручитель имеет право <span num="28" lnktype="intlnk" title="Регрессное требование" class="doc">регрессного требования</span> к должнику в размере уплаченной суммы и вознаграждения за поручительство, если иное не предусмотрено в договоре поручительства (<span num="30" target="_self" lnktype="intlnk" title="Оплата услуг поручителя" class="doc">ст.297</span> ГК).</p><p><a data-anchor="/document/16/208700/bssPhr37/"></a><a data-anchor="/document/16/208700/dfasms1m03/" data-dfa="dfasms1m03"></a><a data-anchor="/document/16/208700/dfascorp8q/" data-dfa="dfascorp8q"></a><a data-anchor="/document/16/208700/dfasdums4v/" data-dfa="dfasdums4v"></a>При оформлении гарантии как вида ОИДО участвуют 3 стороны:</p><ul class="c-list"><li><a data-anchor="/document/16/208700/bssPhr38/"></a><a data-anchor="/document/16/208700/dfastvenod/" data-dfa="dfastvenod"></a><span num="32" lnktype="intlnk" title="Гарант" class="doc">гарант</span>;</li><li><span num="34" lnktype="intlnk" title="Принципал" class="doc">принципал</span>;</li><li><span num="36" lnktype="intlnk" title="Бенефициар" class="doc">бенефициар</span>.</li></ul><p><a data-anchor="/document/16/208700/bssPhr39/"></a><a data-anchor="/document/16/208700/dfasonupsa/" data-dfa="dfasonupsa"></a><a data-anchor="/document/16/208700/dfass02bkz/" data-dfa="dfass02bkz"></a><a data-anchor="/document/16/208700/dfasigz7ck/" data-dfa="dfasigz7ck"></a><a data-anchor="/document/16/208700/dfasg1u4wl/" data-dfa="dfasg1u4wl"></a><a data-anchor="/document/16/208700/dfaso7bs2u/" data-dfa="dfaso7bs2u"></a>Гарант не может отозвать гарантию, а право требования по ней бенефициар не может передать другому лицу, если в гарантии не предусмотрено иное.</p><p><a data-anchor="/document/16/208700/bssPhr40/"></a><a data-anchor="/document/16/208700/dfas1i3lkg/" data-dfa="dfas1i3lkg"></a>Гарантию выдают на определенный срок и она вступает в силу со дня выдачи, если в гарантии не предусмотрено иное.</p><p><a data-anchor="/document/16/208700/bssPhr41/"></a><a data-anchor="/document/16/208700/dfas3bx5gp/" data-dfa="dfas3bx5gp"></a>Требование об уплате денежной суммы по гарантии бенефициар предъявляет в письменной форме с приложением перечисленных в гарантии документов и указанием, в чем состоит нарушение основного обязательства.</p><p><a data-anchor="/document/16/208700/bssPhr42/"></a><a data-anchor="/document/16/208700/dfasof677t/" data-dfa="dfasof677t"></a>О требованиях бенефициара гарант немедленно сообщает принципалу и передает ему копии требования со всеми относящимися к нему документами (<span num="38" target="_self" lnktype="intlnk" title="Обязанности гаранта при рассмотрении требования бенефициара" class="doc">ст. 306</span> ГК).</p><p><a data-anchor="/document/16/208700/bssPhr43/"></a><a data-anchor="/document/16/208700/dfasld6l96/" data-dfa="dfasld6l96"></a>Гарант вправе отказать в удовлетворении требований по гарантии, если они:</p><ul class="c-list"><li><a data-anchor="/document/16/208700/bssPhr44/"></a><a data-anchor="/document/16/208700/dfas81g5go/" data-dfa="dfas81g5go"></a>не соответствуют условиям гарантии;</li><li>предъявлены по окончании срока гарантии (<span num="40" target="_self" lnktype="intlnk" title="Отказ гаранта удовлетворить требование бенефициара" class="doc">ст. 307</span> ГК).</li></ul><p><a data-anchor="/document/16/208700/bssPhr45/"></a><a data-anchor="/document/16/208700/dfasts1749/" data-dfa="dfasts1749"></a>Гарантия прекращается в связи:</p><ul class="c-list"><li><a data-anchor="/document/16/208700/bssPhr46/"></a><a data-anchor="/document/16/208700/dfasoywnf4/" data-dfa="dfasoywnf4"></a>с уплатой бенефициару суммы гарантии;</li><li>с окончанием срока гарантии;</li><li>вследствие отказа бенефициара от гарантии и возвращения ее гаранту;</li><li>по письменному заявлению бенефициара об освобождении гаранта от обязательств по гарантии.</li></ul><p><a data-anchor="/document/16/208700/bssPhr47/"></a><a data-anchor="/document/16/208700/dfasmsfscu/" data-dfa="dfasmsfscu"></a>В соглашении по гарантии оговаривают право гаранта в регрессном порядке требовать от принципала возврата потраченных денежных средств, кроме выплаченных из-за ненадлежащего выполнения гарантийных обязательств (<span num="42" target="_self" lnktype="intlnk" title="Регрессные требования гаранта к принципалу" class="doc">ст. 310</span> ГК).</p><p><a data-anchor="/document/16/208700/bssPhr48/"></a><a data-anchor="/document/16/208700/dfasy9w8gx/" data-dfa="dfasy9w8gx"></a><a data-anchor="/document/16/208700/dfasg9dbox/" data-dfa="dfasg9dbox"></a>Соглашение о <span num="44" lnktype="intlnk" title="Задаток" class="doc">задатке</span>, независимо от суммы заключают в письменной форме. Если обязательство прекращено до начала его исполнения по соглашению сторон либо вследствие невозможности исполнения, задаток будет возвращен.</p><p><a data-anchor="/document/16/208700/bssPhr49/"></a><a data-anchor="/document/16/208700/dfasfnnsgb/" data-dfa="dfasfnnsgb"></a>Если за неисполнение договора ответственна сторона, давшая задаток, то задаток остается у другой стороны. Если за неисполнение договора ответственна сторона, получившая задаток, она обязана уплатить другой стороне двойную сумму задатка.</p><p><a data-anchor="/document/16/208700/bssPhr50/"></a><a data-anchor="/document/16/208700/dfaswetne0/" data-dfa="dfaswetne0"></a>Сверх того, сторона, ответственная за неисполнение договора, обязана возместить другой стороне убытки с зачетом суммы задатка, если в договоре не предусмотрено иное (<span num="46" target="_self" lnktype="intlnk" title="Последствия прекращения и неисполнения обязательства, обеспеченного задатком" class="doc">ст. 312</span> ГК).</p><p><a data-anchor="/document/16/208700/bssPhr51/"></a><a data-anchor="/document/16/208700/dfas624trv/" data-dfa="dfas624trv"></a>Не путайте задаток и аванс. Главное отличие – аванс не гарантирует исполнение обязательств и может быть возвращен в любое время.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какие налоговые последствия возникают у поручителя при оплате долга перед банком за кредитора</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/208700/bssPhr53/"></a><a data-anchor="/document/16/208700/dfase8uqo6/" data-dfa="dfase8uqo6"></a>По договору поручительства поручитель обязывается перед кредитором другого лица отвечать за исполнение последним его обязательства полностью или частично (<span num="55" target="_blank" lnktype="intlnk" title="" class="doc">ст. 292</span> ГК).</p><p style="text-align:left"><a data-anchor="/document/16/208700/dfasg7crs4/" data-dfa="dfasg7crs4"></a><a data-anchor="/document/16/208700/bssPhr54/"></a>Когда поручитель&nbsp;исполнит обязательства, к нему переходят права, принадлежащие кредитору как залогодержателю, в том объеме, в котором поручитель удовлетворил требование кредитора. После того, как поручитель исполнил обязательства, кредитор обязан вручить ему документы, удостоверяющие требование к должнику, и передать права, обеспечивающие это требование (<span num="56" target="_blank" lnktype="intlnk" title="" class="doc">ст. 295</span> ГК). Поручитель предъявляет требование к должнику возместить уплаченную сумму по договору поручительства, в том объеме, в котором было снято с расчетного счета поручителя.</p><p style="text-align:left"><a data-anchor="/document/16/208700/bssPhr55/"></a><a data-anchor="/document/16/208700/dfasixuouv/" data-dfa="dfasixuouv"></a>Если компания – поручитель&nbsp;погасила задолженность должника банку по кредиту и начисленным процентам, то права кредитора – банка&nbsp;на основании закона перешли к поручителю&nbsp;в соответствии с <span num="57" target="_blank" lnktype="intlnk" title="" class="doc">пунктом 3</span> статьи 318 ГК.</p><p style="text-align:left"><a data-anchor="/document/16/208700/bssPhr56/"></a><a data-anchor="/document/16/208700/dfasd81a5v/" data-dfa="dfasd81a5v"></a>При получении поручителем&nbsp;вознаграждения за услуги (<span num="58" target="_blank" lnktype="intlnk" title="" class="doc">п. 1</span> ч. 3 ст. 297 НК)&nbsp; или процентов по сумме долга у него возникает облагаемый доход от реализации услуг или доход в виде процентов (<span num="59" target="_blank" lnktype="intlnk" title="" class="doc">п. 1</span> или <span num="60" target="_blank" lnktype="intlnk" title="" class="doc">п. 19</span> ч. 3 ст. 297 НК).</p><p style="text-align:left"><a data-anchor="/document/16/208700/bssPhr57/"></a><a data-anchor="/document/16/208700/dfasogxt0f/" data-dfa="dfasogxt0f"></a>Если же поручитель не получает вознаграждение за услуги или проценты по сумме долга, то есть оказывает&nbsp;безвозмездную услугу, то такая услуга должна быть признана доходом должника (<span num="61" target="_blank" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 299 НК), размер которой&nbsp;определяют, руководствуясь <span num="62" target="_blank" lnktype="intlnk" title="" class="doc">частями 3</span> и <span num="63" target="_blank" lnktype="intlnk" title="" class="doc">4</span> статьи 299 НК.</p><p style="text-align:left"><a data-anchor="/document/16/208700/dfas1ty46g/" data-dfa="dfas1ty46g"></a><a data-anchor="/document/16/208700/bssPhr58/"></a>Налоговых последствий по налогу на прибыль у&nbsp;поручителя не возникает,&nbsp;в этом случае&nbsp;возникает оборот по оказанию безвозмездных услуг, облагаемых НДС по ставке 12 процентов. Налоговую базу по НДС определяют&nbsp;согласно <span num="64" target="_blank" lnktype="intlnk" title="" class="doc">части 3</span> статьи 248 НК. При этом должник выставляет&nbsp;двухсторонний ЭСФ типа «без оплаты», сумму НДС по которой уплачивает&nbsp;поручитель, но должник не может принять к зачету НДС по этому&nbsp;ЭСФ.</p></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

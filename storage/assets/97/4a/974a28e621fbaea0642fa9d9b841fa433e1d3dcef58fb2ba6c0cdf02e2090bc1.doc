@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как ввести коллективную (бригадную) ответственность</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулчехра&nbsp;Юсупханова,&nbsp;Главный редактор Системы Кадры, юрист</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/210601/dfas1uxefo/" data-dfa="dfas1uxefo"></a><a data-anchor="/document/16/210601/bssPhr2/"></a>Ввести коллективную (бригадную) материальную ответственность можно, если какую-либо работу работники выполняют совместно либо&nbsp;трудно разграничить ответственность каждого из них за сохранность имущества. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210601/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210601/bssPhr3/"></a><a data-anchor="/document/16/210601/dfasiiy9z3/" data-dfa="dfasiiy9z3"></a>Коллективная (бригадная) ответственность</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210601/bssPhr5/"></a><a data-anchor="/document/16/210601/dfasga4zhk/" data-dfa="dfasga4zhk"></a>Ввести коллективную (бригадную) материальную ответственность можно в следующих случаях, если:</p><ul class="c-list"><li><a data-anchor="/document/16/210601/bssPhr6/"></a><a data-anchor="/document/16/210601/dfas2x174i/" data-dfa="dfas2x174i"></a>какую-либо работу работники выполняют совместно;</li><li>трудно разграничить ответственность каждого из них за сохранность имущества (например, за хранение или перевозку товаров отвечают несколько работников (охранников, водителей));</li><li>соответствующие работы входят в перечень работ, в отношении которых можно ввести коллективную ответственность. Перечень устанавливают в колдоговоре;</li><li>работники достигли возраста 18 лет.</li></ul><p><a data-anchor="/document/16/210601/bssPhr7/"></a><a data-anchor="/document/16/210601/dfasn5v3h4/" data-dfa="dfasn5v3h4"></a>Такой порядок указан в <span num="42" target="_self" lnktype="intlnk" title="" class="doc">статье 343</span> Трудового кодекса.</p><p><a data-anchor="/document/16/210601/bssPhr8/"></a><a data-anchor="/document/16/210601/dfaszhumt1/" data-dfa="dfaszhumt1"></a><a data-anchor="/document/16/210601/dfaszc43da/" data-dfa="dfaszc43da"></a>Бригадную ответственность можно ввести, например, для работников, которые занимаются доставкой (курьерские службы), для продавцов, грузчиков, кладовщиков и др. Нередко ее вводят организации, которые занимаются ремонтом бытовой техники, оказывают услуги прачечных, химчисток, осуществляют перевозку и доставку грузов.</p><p><a data-anchor="/document/16/210601/bssPhr9/"></a><a data-anchor="/document/16/210601/dfasiota8c/" data-dfa="dfasiota8c"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>В каком порядке и размере взыскать сумму ущерба с каждого работника. В организации установлена коллективная материальная ответственность</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210601/bssPhr11/"></a><a data-anchor="/document/16/210601/dfasrppw4q/" data-dfa="dfasrppw4q"></a>Ответ на этот вопрос зависит от того, каким способом будет возмещен ущерб: добровольно или в судебном порядке.</p><p><a data-anchor="/document/16/210601/bssPhr12/"></a><a data-anchor="/document/16/210601/dfas6xyyt2/" data-dfa="dfas6xyyt2"></a>Размер взыскиваемой с работника суммы напрямую зависит от степени его вины. При добровольном возмещении ущерба степень вины каждого члена коллектива определяется по соглашению между всеми членами коллектива и работодателем. Если такое соглашение не будет достигнуто, то ущерб подлежит взысканию в судебном порядке. При этом степень вины каждого члена коллектива в таком случае определяется судом. Указанный порядок установлен в <span num="57" target="_self" lnktype="intlnk" title="" class="doc">части 11</span>&nbsp;статьи 343 Трудового кодекса.</p><p><a data-anchor="/document/16/210601/bssPhr13/"></a><a data-anchor="/document/16/210601/dfas3lgxg0/" data-dfa="dfas3lgxg0"></a>Следует отметить, что работник может и вовсе избежать материальной ответственности, если докажет отсутствие своей вины. В результате, если все невиновные члены коллектива докажут отсутствие своей вины и будет установлен конкретный виновник ущерба, то вся сумма ущерба будет взыскана только с этого виновника. Такие выводы позволяют сделать положения <span num="58" target="_self" lnktype="intlnk" title="" class="doc">части 7</span> статьи 343 Трудового кодекса.</p></div></div></div><a data-anchor="/document/16/210601/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210601/bssPhr14/"></a><a data-anchor="/document/16/210601/dfas0dx9or/" data-dfa="dfas0dx9or"></a>Оформление</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210601/bssPhr16/"></a><a data-anchor="/document/16/210601/dfashayyvm/" data-dfa="dfashayyvm"></a>Чтобы ввести бригадную ответственность, нужно:</p><ul class="c-list"><li><a data-anchor="/document/16/210601/bssPhr17/"></a><a data-anchor="/document/16/210601/dfasdw2w5n/" data-dfa="dfasdw2w5n"></a>издать <span data-warm-notices="20636360,34267217" data-warm-notice-type="error" num="43" target="_self" lnktype="intlnk" title="" class="doc">приказ </span>об установлении бригадной ответственности;</li><li>заключить с соответствующей группой работников <span data-warm-notices="20636361" data-warm-notice-type="error" num="44" target="_self" lnktype="intlnk" title="" class="doc">договор </span>о коллективной материальной ответственности.</li></ul><p><a data-anchor="/document/16/210601/bssPhr18/"></a><a data-anchor="/document/16/210601/dfasenv52n/" data-dfa="dfasenv52n"></a>Утвержденной формы приказа нет, поэтому приказ составьте в произвольной форме и ознакомьте с ним работников под роспись. Пусть каждый работник напишет на приказе «С приказом ознакомлен» и поставит подпись. В приказе руководство коллективом (бригадой) возложите на руководителя коллектива (бригады). При этом руководителем не обязательно должен быть начальник подразделения. При назначении руководителя следует учесть мнение всех работников коллектива. Следует отметить, что руководитель коллектива (бригады) только руководит коллективом, а ответственность за ущерб, причиненный работодателю, возлагается на каждого участника коллектива.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210601/dfas0v077i/" data-dfa="dfas0v077i"></a><a data-anchor="/document/16/210601/bssPhr19/"></a>Пример заключения договора о полной коллективной (бригадной) материальной ответственности</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210601/bssPhr20/"></a><a data-anchor="/document/16/210601/dfasnpr131/" data-dfa="dfasnpr131"></a>Организация «Барака Савдо» имеет в своей структуре магазин «Детская одежда». Руководитель организации Г. Г. Ибрагимов решил установить для продавцов магазина коллективную ответственность за недостачи. Он составил <span data-warm-notices="34267218" data-warm-notice-type="error" num="9" target="_self" lnktype="intlnk" title="" class="doc">приказ</span> об установлении коллективной (бригадной) ответственности, а также <span num="10" target="_self" lnktype="intlnk" title="" class="doc">договор</span> о полной коллективной (бригадной) ответственности.</p></div></div><div class="doc-columns doc-columns_type_forms"><table class="" style="width:92%"><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr></table></div><p><a data-anchor="/document/16/210601/bssPhr21/"></a><a data-anchor="/document/16/210601/dfasophnny/" data-dfa="dfasophnny"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязан ли работодатель выдавать экземпляр договора о полной коллективной материальной ответственности каждому сотруднику коллектива (бригады)</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210601/bssPhr23/"></a><a data-anchor="/document/16/210601/dfasdram30/" data-dfa="dfasdram30"></a>Нет, не обязан.</p><p><a data-anchor="/document/16/210601/bssPhr24/"></a><a data-anchor="/document/16/210601/dfask35auv/" data-dfa="dfask35auv"></a><span data-warm-notices="20636365" data-warm-notice-type="error" num="59" target="_self" lnktype="intlnk" title="" class="doc">Договор </span>о коллективной ответственности составляют в двух экземплярах, которые имеют одинаковую юридическую силу. Один из них находится у работодателя, а второй – у руководителя коллектива (бригады). Однако при необходимости, по запросу работника, работодатель может предоставить копию.</p></div></div></div><a data-anchor="/document/16/210601/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210601/bssPhr25/"></a><a data-anchor="/document/16/210601/dfasm496y9/" data-dfa="dfasm496y9"></a>Положение о материально ответственных лицах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210601/bssPhr27/"></a><a data-anchor="/document/16/210601/dfas0dcgia/" data-dfa="dfas0dcgia"></a>С целью координации действий работодателя в отношении материально ответственных лиц, а также регулирования порядка определения размера ущерба и его возмещения в организации может быть оформлен локальный документ, например Положение о материально ответственных лицах.</p><p><a data-anchor="/document/16/210601/bssPhr28/"></a><a data-anchor="/document/16/210601/dfasuggvyh/" data-dfa="dfasuggvyh"></a>Типовой формы документа законодательство не предусматривает, поэтому <span num="11" target="_self" lnktype="intlnk" title="" class="doc">Положение о материально ответственных лицах</span> можно составить в произвольной форме.</p><p><a data-anchor="/document/16/210601/bssPhr29/"></a><a data-anchor="/document/16/210601/dfasl90mkp/" data-dfa="dfasl90mkp"></a>В частности, Положение может содержать следующую информацию:</p><ul class="c-list"><li><a data-anchor="/document/16/210601/bssPhr30/"></a><a data-anchor="/document/16/210601/dfas3ngu4i/" data-dfa="dfas3ngu4i"></a>общие положения (назначение документа, в отношении кого применяется);</li><li>понятие и виды материальной ответственности, существующие в организации;</li><li>условия наступления материальной ответственности;</li><li>порядок определения размера ущерба и его возмещения.</li></ul><p><a data-anchor="/document/16/210601/bssPhr31/"></a><a data-anchor="/document/16/210601/dfasork6ib/" data-dfa="dfasork6ib"></a>В качестве приложений к Положению о материально ответственных лицах могут быть указаны типовые формы договоров о материальной ответственности (индивидуальной, бригадной), применяемые в организации.</p><p><a data-anchor="/document/16/210601/bssPhr32/"></a><a data-anchor="/document/16/210601/dfasw8faww/" data-dfa="dfasw8faww"></a>Положение о материально ответственных лицах вводится в действие приказом руководителя организации. Все материально ответственные работники организации должны быть ознакомлены с Положением под подпись, в том числе новые работники в момент приема на работу.</p><p><a data-anchor="/document/16/210601/bssPhr33/"></a><a data-anchor="/document/16/210601/dfasmp5ogs/" data-dfa="dfasmp5ogs"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как заключить договор о полной коллективной материальной ответственности с уже работающими сотрудниками. В их трудовых договорах отсутствует условие о полной материальной ответственности</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210601/bssPhr35/"></a><a data-anchor="/document/16/210601/dfasxo1p0h/" data-dfa="dfasxo1p0h"></a>Если работники уже работают, а в их трудовых договорах отсутствует условие о полной материальной ответственности, организации нужно предупредить их об изменении существенных условий трудовых договоров. При этом изменить существенные условия трудовых договоров можно только в том случае, если в организации изменились организационные или технологические условия труда. Предупредить об этом работников нужно в письменной форме за два месяца (ч. <span num="60" target="_self" lnktype="intlnk" title="" class="doc">1</span> и <span num="61" target="_self" lnktype="intlnk" title="" class="doc">2</span> ст. 137 ТК)</p><p><a data-anchor="/document/16/210601/bssPhr36/"></a><a data-anchor="/document/16/210601/dfas8nphgo/" data-dfa="dfas8nphgo"></a>При отказе работника продолжить работу в изменившихся условиях ему нужно в письменной форме предложить другую имеющуюся работу. А если вакансий нет или работник отвергнет все предложения, оформите прекращение по <span data-warm-notices="20636364" data-warm-notice-type="error" num="62" target="_self" lnktype="intlnk" title="" class="doc">части 4&nbsp;</span>статьи 137 Трудового кодекса.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="73" target="_self" lnktype="intlnk" title="" class="doc">Когда можно возложить полную материальную ответственность</span></li><li class="incut-v4-more-about__item"><span data-warm-notices="34267216" data-warm-notice-type="error" num="74" target="_self" lnktype="intlnk" title="" class="doc">Как изменить условия труда по инициативе работодателя</span></li></ul></div><div class="incut-v4__icon"></div></div></div></div><p><a data-anchor="/document/16/210601/bssPhr38/"></a><a data-anchor="/document/16/210601/dfassobkrx/" data-dfa="dfassobkrx"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли перезаключать договор о полной коллективной материальной ответственности при увольнении или приеме новых сотрудников</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210601/bssPhr40/"></a><a data-anchor="/document/16/210601/dfas5ddbwz/" data-dfa="dfas5ddbwz"></a>По общему правилу перезаключать договор не требуется.</p><p><a data-anchor="/document/16/210601/bssPhr41/"></a><a data-anchor="/document/16/210601/dfas12yd6h/" data-dfa="dfas12yd6h"></a>Письменный договор о коллективной (бригадной) материальной ответственности заключается между работодателем и всеми членами коллектива (бригады) (<span num="86" target="_self" lnktype="intlnk" title="" class="doc">ч. 6</span> ст. 343 ТК).</p><p><a data-anchor="/document/16/210601/bssPhr42/"></a><a data-anchor="/document/16/210601/dfaskx66z3/" data-dfa="dfaskx66z3"></a>При выбытии из состава коллектива отдельных работников, а также при приеме новых перезаключать договор не обязательно. В этих случаях напротив подписи уволившегося работника достаточно указать дату прекращения трудового договора, а вновь принятого работника ознакомить с содержанием <span data-warm-notices="20636362" data-warm-notice-type="error" num="87" target="_self" lnktype="intlnk" title="" class="doc">договора </span>под подпись и напротив подписи отметить дату вступления в коллектив.</p><p><a data-anchor="/document/16/210601/bssPhr43/"></a><a data-anchor="/document/16/210601/dfasuc5nrm/" data-dfa="dfasuc5nrm"></a>Вместе с тем, необходимость перезаключить договор о коллективной материальной ответственности возникает:</p><ul class="c-list"><li><a data-anchor="/document/16/210601/bssPhr44/"></a><a data-anchor="/document/16/210601/dfassn317g/" data-dfa="dfassn317g"></a>при смене руководителя коллектива (бригадира);</li><li>при выбытии из коллектива (бригады) более 50 процентов участников ее первоначального состава.</li></ul></div></div><p><a data-anchor="/document/16/210601/bssPhr45/"></a><a data-anchor="/document/16/210601/dfasq2xtpg/" data-dfa="dfasq2xtpg"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Где хранить договор о полной индивидуальной материальной ответственности</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210601/bssPhr47/"></a><a data-anchor="/document/16/210601/dfaslu5wge/" data-dfa="dfaslu5wge"></a>Работодатель самостоятельно определяет, где хранить договоры материальной ответственности.</p><p><a data-anchor="/document/16/210601/bssPhr48/"></a><a data-anchor="/document/16/210601/dfasbrwl0g/" data-dfa="dfasbrwl0g"></a>По общему правилу, действующему в трудовом законодательстве, за причиненный организации ущерб работник несет ограниченную материальную ответственность – только в пределах его среднего месячного заработка (<span num="99" target="_self" lnktype="intlnk" title="" class="doc">ст. 340</span> ТК). При полной материальной ответственности работник возмещает организации всю сумму ущерба (ст. <span num="100" target="_self" lnktype="intlnk" title="" class="doc">341</span> и <span num="101" target="_self" lnktype="intlnk" title="" class="doc">342</span> ТК).</p><p><a data-anchor="/document/16/210601/bssPhr49/"></a><a data-anchor="/document/16/210601/dfas2vkptb/" data-dfa="dfas2vkptb"></a>Закон не регулирует, где работодатель должен хранить договоры полной материальной ответственности. Руководитель вправе самостоятельно определить, какое структурное подразделение будет хранить договоры, и закрепить порядок хранения в локальном нормативном акте.</p></div></div><p><a data-anchor="/document/16/210601/bssPhr50/"></a><a data-anchor="/document/16/210601/dfas2gnp43/" data-dfa="dfas2gnp43"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Несут ли материальную ответственность работники офиса</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210601/bssPhr52/"></a><a data-anchor="/document/16/210601/dfaspp2lp8/" data-dfa="dfaspp2lp8"></a>Да, несут.</p><p><a data-anchor="/document/16/210601/bssPhr53/"></a><a data-anchor="/document/16/210601/dfaspnalim/" data-dfa="dfaspnalim"></a>По общему правилу за ущерб организации, который причинил работник, он несет ограниченную материальную ответственность. То есть отвечает только в пределах среднего месячного заработка (<span num="102" target="_self" lnktype="intlnk" title="" class="doc">ст. 340</span> ТК). В этом случае ущерб с работника взыскивают на основании распоряжения работодателя.</p><p><a data-anchor="/document/16/210601/bssPhr54/"></a><a data-anchor="/document/16/210601/dfasdsq93u/" data-dfa="dfasdsq93u"></a>Распоряжение о взыскании необходимо оформить не позднее одного месяца со дня, когда работодатель установил окончательный размер ущерба. Если пропустить этот срок, взыскать ущерб можно будет только через суд. Такой порядок предусматривает <span data-warm-notices="20636363" data-warm-notice-type="error" num="103" target="_self" lnktype="intlnk" title="" class="doc">статья 347&nbsp;</span>Трудового кодекса. Это правило действует и для офисных работников.</p><p><a data-anchor="/document/16/210601/bssPhr55/"></a><a data-anchor="/document/16/210601/dfas68eoz9/" data-dfa="dfas68eoz9"></a>При этом существует также полная материальная ответственность, при которой работник должен полностью возместить организации всю сумму ущерба (ст. <span num="104" target="_self" lnktype="intlnk" title="" class="doc">341</span> и <span num="105" target="_self" lnktype="intlnk" title="" class="doc">342</span> ТК). Чтобы работник мог нести полную материальную ответственность, с ним нужно заключить <span num="106" target="_self" lnktype="intlnk" title="" class="doc">договор</span>.</p><p><a data-anchor="/document/16/210601/bssPhr56/"></a><a data-anchor="/document/16/210601/dfas1tslh2/" data-dfa="dfas1tslh2"></a>Договоры о полной материальной ответственности можно заключить не со всеми работниками, а только с теми:</p><ul class="c-list"><li><a data-anchor="/document/16/210601/bssPhr57/"></a><a data-anchor="/document/16/210601/dfas1ldk6a/" data-dfa="dfas1ldk6a"></a>кто непосредственно обслуживает или использует деньги, товар или иное имущество, которые принадлежат организации;</li><li>кто достиг 18-летнего возраста;</li><li>чья должность или работа входит в специальный перечень тех, с кем закон разрешает заключать такой договор.</li></ul><p><a data-anchor="/document/16/210601/bssPhr58/"></a><a data-anchor="/document/16/210601/dfasgmw2wa/" data-dfa="dfasgmw2wa"></a>Перечень должностей и работ, с которыми можно заключить письменные договоры о полной материальной ответственности, устанавливаются в коллективном договоре, а если он не заключен — определяются работодателем по согласованию с профсоюзным комитетом (<span num="107" target="_self" lnktype="intlnk" title="" class="doc">ст. 343</span> ТК).</p><p><a data-anchor="/document/16/210601/bssPhr59/"></a><a data-anchor="/document/16/210601/dfasc3an0i/" data-dfa="dfasc3an0i"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="34267215" data-warm-notice-type="error" num="120" target="_self" lnktype="intlnk" title="" class="doc">Как заключить договор о полной материальной ответственности</span></li><li class="incut-v4-more-about__item"><span num="121" target="_self" lnktype="intlnk" title="" class="doc">Когда можно возложить полную материальную ответственность</span></li></ul></div><div class="incut-v4__icon"></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div><p><a data-anchor="/document/16/210601/bssPhr61/"></a><a data-anchor="/document/16/210601/dfas5otu54/" data-dfa="dfas5otu54"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

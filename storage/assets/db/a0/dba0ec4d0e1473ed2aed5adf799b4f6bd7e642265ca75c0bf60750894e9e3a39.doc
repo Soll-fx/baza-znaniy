@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие права и льготы имеют малые предприятия</h2><div class="doc-snippet"><a data-anchor="/document/16/205886/dfas4uw7w9/" data-dfa="dfas4uw7w9"></a><a data-anchor="/document/16/205886/bssPhr2/"></a>В рекомендации –&nbsp;какие права имеют малые предприятия и какие льготы им положены.&nbsp; </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/205886/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205886/bssPhr3/"></a><a data-anchor="/document/16/205886/dfaswhgtw8/" data-dfa="dfaswhgtw8"></a>Права малых предприятий</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205886/bssPhr5/"></a><a data-anchor="/document/16/205886/dfaso3cp9a/" data-dfa="dfaso3cp9a"></a><span num="11" lnktype="intlnk" title="" class="doc">Малые предприятия</span> вправе:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/205886/bssPhr6/"></a><a data-anchor="/document/16/205886/dfasumui6e/" data-dfa="dfasumui6e"></a>владеть, пользоваться и распоряжаться своим имуществом;</li><li style="text-align:left">самостоятельно формировать производственную программу, выбирать поставщиков и потребителей своей продукции, работ, услуг;</li><li style="text-align:left">получать доход, прибыль от предпринимательства в неограниченном размере и распоряжаться им по своему усмотрению. Исключение субъекты, занимающих доминирующее положение на рынке товаров, работ, услуг;</li><li style="text-align:left">реализовывать свою продукцию, работы, услуги, отходы производства по ценам и тарифам, установленным самостоятельно исходя из конъюнктуры рынка или на договорной основе, за исключением случаев, предусмотренных законодательством;</li><li style="text-align:left">приобретать или получать в аренду здания, сооружения, оборудование и иное имущество, в том числе путем лизинга;</li><li style="text-align:left">вести внешнеэкономическую деятельность.</li></ul><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr7/"></a><a data-anchor="/document/16/205886/dfas71btka/" data-dfa="dfas71btka"></a>Субъекты предпринимательской деятельности могут иметь и иные права в соответствии с законодательством.</p><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr8/"></a><a data-anchor="/document/16/205886/dfasedbmtq/" data-dfa="dfasedbmtq"></a>Такие правила установлены в <span num="3" target="_self" lnktype="intlnk" title="" class="doc">статье 8</span> Закона «О гарантиях свободы предпринимательской деятельности»</p><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr9/"></a><a data-anchor="/document/16/205886/dfaswfyhdt/" data-dfa="dfaswfyhdt"></a>Например, малые предприятия вправе применять ускоренную амортизацию основных фондов и относить затраты на издержки производства в размере не более, чем в два раза превышающем нормы для соответствующих основных фондов.</p><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr10/"></a><a data-anchor="/document/16/205886/dfasru5ax5/" data-dfa="dfasru5ax5"></a>Субъекты малого предпринимательства имеют право списывать до 50 процентов первоначальной стоимости основных фондов со сроком службы более трех лет, на которые произведены амортизационные отчисления.</p><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr11/"></a><a data-anchor="/document/16/205886/dfas5owl7c/" data-dfa="dfas5owl7c"></a>Если малое или частное предприятие будет ликвидировано до истечения двух лет с момента ввода его в действие, то суммы дополнительно начисленной, ускоренной амортизации подлежат восстановлению за счет увеличения балансовой прибыли малого или частного предприятия.</p></div><a data-anchor="/document/16/205886/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205886/bssPhr12/"></a><a data-anchor="/document/16/205886/dfas64odhw/" data-dfa="dfas64odhw"></a>Льготы малых предприятий</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205886/bssPhr14/"></a><a data-anchor="/document/16/205886/dfas6qanva/" data-dfa="dfas6qanva"></a>Во время пандемии Президент подписал указы, которые определяют льготы для малых предприятий:</p><ol class="c-list"><li><a data-anchor="/document/16/205886/bssPhr15/"></a><a data-anchor="/document/16/205886/dfassac9b9/" data-dfa="dfassac9b9"></a>С 1 апреля по 31 декабря текущего года от налога на имущества и земельного налога освобождены малые предприятия, которые заняты в сфере гостиничного бизнеса и туризма, а прочие малые предприятия освобождены от уплаты данных налогов на период с 1 июня по 1 сентября 2020 года.</li></ol><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr16/"></a><a data-anchor="/document/16/205886/dfas59uwqy/" data-dfa="dfas59uwqy"></a>Кроме этого, в период с 1 апреля по 31 декабря 2020 приостановлено начисление повышенных ставок земельного налога и налога на имущество малых предприятий, определенных статьями <span num="4" lnktype="intlnk" title="" class="doc">415</span> и <span num="5" lnktype="intlnk" title="" class="doc">429</span> НК. Суммы пени и штрафов за просрочку платежей по налогу на имущество, начисленных с 1 января этого года, будут списаны по состоянию на 15 мая.</p><ol class="c-list" style="counter-reset: item 1;" start="2"><li><a data-anchor="/document/16/205886/bssPhr17/"></a><a data-anchor="/document/16/205886/dfashg1g6l/" data-dfa="dfashg1g6l"></a>Налоги за пользование водными ресурсами, направленными на оросительные работы сельского хозяйства снижены на 50 процентов.</li><li><a data-anchor="/document/16/205886/bssPhr18/"></a><a data-anchor="/document/16/205886/dfasowixes/" data-dfa="dfasowixes"></a>Малые предприятия оплачивают социальный налог по пониженной ставке в размере 1%. Оплатить по пониженной ставке могут негосударственные малые предприятия, не занимающиеся производством подакцизного товара, в период с 1 мая по 31 декабря&nbsp;2020 года, а малые предприятия в сфере гостиничного бизнеса и туризма с 1 апреля по 31 декабря 2020 года.</li><li><a data-anchor="/document/16/205886/bssPhr19/"></a><a data-anchor="/document/16/205886/dfasv8c7w7/" data-dfa="dfasv8c7w7"></a>Приостановлено начисление туристического, гостиничного сбора в период с 1 апреля по 1 июля 2020 года.</li><li><a data-anchor="/document/16/205886/bssPhr20/"></a><a data-anchor="/document/16/205886/dfaskkabx0/" data-dfa="dfaskkabx0"></a>Малые предприятия – плательщики налога с оборота, освобождены от уплаты этого налога с 1 апреля по 31 декабря 2020 года в части безвозмездной передачи товаров или услуг физлицам, включенным в перечень лиц, нуждающихся в социальной поддержке, а также благотворительным фондам, таким как «Махалля», «Доброта и поддержка», «Узбекистон мехр-шавкат ва саломатлик» и их отделениям.</li></ol><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr21/"></a><a data-anchor="/document/16/205886/dfasws9ray/" data-dfa="dfasws9ray"></a>Если малые предприятия – плательщики НДС, то в части безвозмездной передачи товаров для освобождения уплаты НДС и налога на прибыль для них установлены аналогичные условия. Кроме этого, с 1 апреля 2020 года льготы по НДС, предусмотренные решениями Президента и Кабинета Министров, можно применять без условия направления высвобождаемых от налогообложения средств на определенные цели.</p><ol class="c-list" style="counter-reset: item 5;" start="6"><li><a data-anchor="/document/16/205886/bssPhr22/"></a><a data-anchor="/document/16/205886/dfasbioaeo/" data-dfa="dfasbioaeo"></a>Малые предприятия – плательщики налога на прибыль вправе представлять справку о сумме авансовых платежей по налогу, начиная со II квартала 2020 года, исходя из ожидаемого объема. Требование его исчисления по результатам предыдущего квартала отменено. Сумма начисленных и отсроченных коммерческими банками процентов по кредитам не включается в состав совокупного дохода при исчислении налога в период предоставленной отсрочки. Сумма начисленного и отсроченного лизинговыми предприятиями процентного дохода по лизингу не включается в состав совокупного дохода на период предоставленной отсрочки.</li></ol><ol class="c-list" style="counter-reset: item 6;" start="7"><li><a data-anchor="/document/16/205886/bssPhr23/"></a><a data-anchor="/document/16/205886/dfas0ghi3i/" data-dfa="dfas0ghi3i"></a>Сбор за право розничной торговли алкоголем для общепита снижается на 25 процентов.</li><li><a data-anchor="/document/16/205886/bssPhr24/"></a><a data-anchor="/document/16/205886/dfasueehxk/" data-dfa="dfasueehxk"></a>Перечень товаров, в отношении которых установлены нулевые ставки акцизного налога, таможенной пошлины до 31 декабря 2020 года при ввозе в страну, определен <span num="6" target="_self" lnktype="intlnk" title="" class="doc">Указом</span> Президента от 03.04.2020 № УП-5978 «О дополнительных мерах поддержки населения, отраслей экономики и субъектов предпринимательства в период коронавирусной пандемии».</li></ol><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr25/"></a><a data-anchor="/document/16/205886/dfas5445da/" data-dfa="dfas5445da"></a>Строительные материалы, необходимые для строительства учреждений по борьбе с коронавирусной инфекцией, а также товары, необходимые для их функционирования, освобождаются от таможенной пошлины, акциза и НДС.</p><ol class="c-list" style="counter-reset: item 8;" start="9"><li><a data-anchor="/document/16/205886/bssPhr26/"></a><a data-anchor="/document/16/205886/dfasetigzc/" data-dfa="dfasetigzc"></a>До 1 октября 2020 года к малым предприятиям, просрочившем дебиторскую задолженность по внешнеторговым операциям, не будут применять штрафные санкции.&nbsp;До 31 декабря 2020 года приостановлено взыскание имеющейся у малых предприятий по состоянию на 15 мая 2020 года задолженности по налогам, пеням и начисленным штрафам за нарушение налогового законодательства (<span num="19" lnktype="intlnk" title="" class="doc">УП-6029</span>).</li></ol><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr27/"></a><a data-anchor="/document/16/205886/dfasacbs8a/" data-dfa="dfasacbs8a"></a>До 1 января 2021 года приостановлено проведение аудита, за исключением случаев ликвидации или расследования уголовных дел.</p><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr28/"></a><a data-anchor="/document/16/205886/dfasisynku/" data-dfa="dfasisynku"></a>Если по итогам 2019 года предприятию был присвоен статус малого, то предприятие может применить эти льготы.</p><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr29/"></a><a data-anchor="/document/16/205886/dfasofmbmp/" data-dfa="dfasofmbmp"></a>Малым предприятиям также предоставлены отсрочки по уплате налогов, например, НДС при импорте товаров. Но <span num="7" lnktype="intlnk" title="" class="doc">статья 75</span> НК не признает налоговыми льготами предоставление налогоплательщику отсрочки, рассрочки по уплате налогов.</p><p style="text-align:left"><a data-anchor="/document/16/205886/bssPhr30/"></a><a data-anchor="/document/16/205886/dfase0mccq/" data-dfa="dfase0mccq"></a>Также малые предприятия имеют льготы по уплате госпошлины при обращении в суды, в размере 50 процентов от установленного размера (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">приложение</span> к Закону о государственной пошлине).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205886/dfas6cmof0/" data-dfa="dfas6cmof0"></a><a data-anchor="/document/16/205886/bssPhr31/"></a>Среднегодовая численность работников для отнесения к субъектам малого бизнеса увеличивается с 25 до 50 человек (УП-6029). Это позволит применять льготы и преференции, установленные для малого бизнеса</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205886/bssPhr32/"></a><a data-anchor="/document/16/205886/dfas44amuq/" data-dfa="dfas44amuq"></a>Чтобы получить право на применение льгот, предоставьте в налоговые органы документ, подтверждающий статус малого предприятия.</p></div><div class="incut-v4__icon"></div></div></div><p><a data-anchor="/document/16/205886/dfaspck0ma/" data-dfa="dfaspck0ma"></a><a data-anchor="/document/16/205886/bssPhr38/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/205886/dfas86902q/" data-dfa="dfas86902q"></a><a data-anchor="/document/16/205886/bssPhr39/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

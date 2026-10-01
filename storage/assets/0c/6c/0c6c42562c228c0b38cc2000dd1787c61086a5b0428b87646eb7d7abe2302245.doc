@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как организовать обучение по охране труда работников</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Карина&nbsp;Шадиева,&nbsp;Начальник отдела охраны труда АО "Uzbekistan airways"</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/209039/dfas8wdn97/" data-dfa="dfas8wdn97"></a><a data-anchor="/document/16/209039/bssPhr2/"></a>Обучать работников по охране труда нужно, чтобы снизить производственный травматизм и профессиональные заболевания. Это требование регламентировано в Законе от 22.09. 2016 ЗРУ-410 «<span num="64" target="_self" lnktype="intlnk" title="" class="doc">Об охране труда</span>». </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/209039/bssPhr4/"></a><a data-anchor="/document/16/209039/dfasrcfu39/" data-dfa="dfasrcfu39"></a>Обучать работников по охране труда нужно, чтобы снизить производственный травматизм и профессиональные заболевания. Это требование регламентировано в Законе от 22.09. 2016 ЗРУ-410 «<span num="44" target="_self" lnktype="intlnk" title="" class="doc">Об охране труда</span>».</p><a data-anchor="/document/16/209039/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/209039/bssPhr5/"></a><a data-anchor="/document/16/209039/dfasr6cy9c/" data-dfa="dfasr6cy9c"></a>Для чего нужно обучать по охране труда</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr7/"></a><a data-anchor="/document/16/209039/dfasuooxxq/" data-dfa="dfasuooxxq"></a>Обучать работников по охране труда нужно, чтобы снизить производственный травматизм и профессиональные заболевания. Это требование регламентировано в Законе от 22.09. 2016 ЗРУ-410 «<span num="16" target="_self" lnktype="intlnk" title="" class="doc">Об охране труда</span>», а именно:</p><ul class="c-list"><li><a data-anchor="/document/16/209039/bssPhr8/"></a><a data-anchor="/document/16/209039/dfasa3rcm5/" data-dfa="dfasa3rcm5"></a>работники организации, включая руководителей, обязаны проходить обучение по охране труда и проверку знаний требований ОТ – <span num="17" target="_self" lnktype="intlnk" title="" class="doc">ст. 25</span> ЗРУ-410;</li><li>работодатель обязан обеспечить прохождение работниками обучения по вопросам охраны труда – <span num="18" target="_self" lnktype="intlnk" title="" class="doc">ст. 23</span> ЗРУ-410;</li><li>работник обязан проходить обучение и проверку знаний по ОТ– <span num="19" target="_self" lnktype="intlnk" title="" class="doc">ст. 22</span> ЗРУ -410.</li></ul><p><a data-anchor="/document/16/209039/bssPhr9/"></a><a data-anchor="/document/16/209039/dfasbrrfwr/" data-dfa="dfasbrrfwr"></a>Общий порядок обучения по охране труда для работников пропишите в нормативном документе организации с использованием <span num="85" target="_blank" lnktype="intlnk" title="" class="doc">Положения</span>&nbsp;о проведении инструктажа, обучении и проверке знаний, повышении квалификации и переподготовке по охране труда (приложение&nbsp;№&nbsp;2 к постановлению Кабмина&nbsp;от 24.12.2025 <span num="86" target="_blank" lnktype="intlnk" title="" class="doc">№ 819</span>).</p></div><a data-anchor="/document/16/209039/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/209039/bssPhr10/"></a><a data-anchor="/document/16/209039/dfasywmsh3/" data-dfa="dfasywmsh3"></a>В какие сроки проводить обучение</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr12/"></a><a data-anchor="/document/16/209039/dfasc3dbsk/" data-dfa="dfasc3dbsk"></a>Обучение работника по охране труда и проверку знаний требований охраны труда проводите в течение первого месяца после приема на работу.</p><p><a data-anchor="/document/16/209039/bssPhr13/"></a><a data-anchor="/document/16/209039/dfas87lrnx/" data-dfa="dfas87lrnx"></a>Дальнейшая периодичность зависит от категории работника:</p><ul class="c-list"><li><a data-anchor="/document/16/209039/bssPhr14/"></a><a data-anchor="/document/16/209039/dfasm21lnh/" data-dfa="dfasm21lnh"></a>руководители;</li><li>специалисты;</li><li>рабочие.</li></ul><p><a data-anchor="/document/16/209039/bssPhr15/"></a><a data-anchor="/document/16/209039/dfas7pwlfc/" data-dfa="dfas7pwlfc"></a>Руководителя предприятия, ответственных за охрану труда, а также состав внутренней комиссии обучают в специальном учебном центре.</p><p><a data-anchor="/document/16/209039/bssPhr16/"></a><a data-anchor="/document/16/209039/dfasx626z6/" data-dfa="dfasx626z6"></a>Специалистов и рабочий персонал, который не отвечает за обеспечение охраны труда, обучают и на предприятии, однако, по усмотрению руководителя, их могут направить на обучение и в образовательную организацию.</p><p><a data-anchor="/document/16/209039/bssPhr17/"></a><a data-anchor="/document/16/209039/dfasabsed6/" data-dfa="dfasabsed6"></a>Обучение охране труда работников рабочих профессий проводят не только при приеме на работу, но и при переводе, переподготовке и обучении другим профессиям.</p></div><a data-anchor="/document/16/209039/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/209039/bssPhr18/"></a><a data-anchor="/document/16/209039/dfas6barh6/" data-dfa="dfas6barh6"></a>Как начать обучение</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr20/"></a><a data-anchor="/document/16/209039/dfas1n3zch/" data-dfa="dfas1n3zch"></a>Обучение по охране труда состоит из трех блоков:</p><ol class="c-list"><li><a data-anchor="/document/16/209039/bssPhr21/"></a><a data-anchor="/document/16/209039/dfasxet615/" data-dfa="dfasxet615"></a>Инструктаж по охране труда;</li><li><a data-anchor="/document/16/209039/bssPhr22/"></a><a data-anchor="/document/16/209039/dfastcwnun/" data-dfa="dfastcwnun"></a>Обучение по охране труда и технике безопасности;</li><li><a data-anchor="/document/16/209039/bssPhr23/"></a><a data-anchor="/document/16/209039/dfasgdusv2/" data-dfa="dfasgdusv2"></a>Повышение квалификации по охране труда.</li></ol><p><a data-anchor="/document/16/209039/bssPhr24/"></a><a data-anchor="/document/16/209039/dfasb9071q/" data-dfa="dfasb9071q"></a>Обучение и проверку знаний проводите вне зависимости от того, действуют ли на работника вредные и/или опасные факторы или нет. Таким образом, если на рабочем месте работника определены допустимые условия труда, то все равно работник проходит обучение по охране труда, с проверкой полученных знаний.</p></div><a data-anchor="/document/16/209039/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/209039/bssPhr25/"></a><a data-anchor="/document/16/209039/dfasz87psi/" data-dfa="dfasz87psi"></a>Какие виды инструктажей по охране труда</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr33/"></a><a data-anchor="/document/16/209039/dfash2re2x/" data-dfa="dfash2re2x"></a>По характеру и времени проведения инструктажи подразделяют на:</p><ol class="c-list"><li><a data-anchor="/document/16/209039/bssPhr34/"></a><a data-anchor="/document/16/209039/dfasys8e0p/" data-dfa="dfasys8e0p"></a>Вводный;</li><li><a data-anchor="/document/16/209039/bssPhr35/"></a><a data-anchor="/document/16/209039/dfasgnnt4m/" data-dfa="dfasgnnt4m"></a>Рабочем месте, который в свою очередь делится на:</li></ol><ul class="c-list"><li><a data-anchor="/document/16/209039/bssPhr36/"></a><a data-anchor="/document/16/209039/dfas0o4py7/" data-dfa="dfas0o4py7"></a>первичный;</li><li>повторный (периодический);</li><li>внеплановый (внеочередной);</li><li>целевой.</li></ul><p><a data-anchor="/document/16/209039/bssPhr37/"></a><a data-anchor="/document/16/209039/dfas18pih9/" data-dfa="dfas18pih9"></a>Регламент установлен ГОСТ 12.0.004-90 «Организация обучения безопасности труда».</p></div><a data-anchor="/document/16/209039/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/209039/bssPhr38/"></a><a data-anchor="/document/16/209039/dfasp9cuow/" data-dfa="dfasp9cuow"></a>Как проводить вводный инструктаж</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr40/"></a><a data-anchor="/document/16/209039/dfascrf2wz/" data-dfa="dfascrf2wz"></a><strong>Вводный инструктаж</strong> по охране труда проводят с вновь принимаемыми на работу (независимо от их образования, стажа работы по данной профессии или должности), с временными работниками, командированными, учащимися и студентами, прибывшими на производственное обучение или практику.</p><p><a data-anchor="/document/16/209039/bssPhr41/"></a><a data-anchor="/document/16/209039/dfasfdml0z/" data-dfa="dfasfdml0z"></a><span num="21" target="_self" lnktype="intlnk" title="" class="doc">Вводный инструктаж</span> проводит инженер по охране труда или лицо, на которое приказом по предприятию возложены эти обязанности. Должен проводиться в специально оборудованном помещении с использованием современных технических средств обучения и наглядных пособий, может проводиться как с группой рабочих, так и с отдельными рабочими. Численный состав группы, как правило, не должен превышать 10 человек.</p><p><a data-anchor="/document/16/209039/bssPhr42/"></a><a data-anchor="/document/16/209039/dfasgxnlog/" data-dfa="dfasgxnlog"></a>Проводят вводный инструктаж по программе, на основании которой может быть разработан конспект или инструкция.</p><p><a data-anchor="/document/16/209039/bssPhr43/"></a><a data-anchor="/document/16/209039/dfas3wfy5g/" data-dfa="dfas3wfy5g"></a>О проведении вводного инструктажа должна быть сделана запись в<span data-warm-notices="9355337,41487814" data-warm-notice-type="error" num="22" target="_self" lnktype="intlnk" title="" class="doc"> Журнале регистрации вводного инструктажа</span> с обязательной подписью инструктируемого и инструктирующего.</p></div><a data-anchor="/document/16/209039/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/209039/bssPhr44/"></a><a data-anchor="/document/16/209039/dfasb8ot8e/" data-dfa="dfasb8ot8e"></a>Что включить в инструктаж на рабочем месте</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr47/"></a><a data-anchor="/document/16/209039/dfasufuxqa/" data-dfa="dfasufuxqa"></a>Инструктаж по охране труда – это обучение каждого работника правильным и безопасным приемам и методам работы,&nbsp;проводит инженер по охране труда или лицо, которое назначено приказом и на него&nbsp;возложены эти обязанности.</p><p><a data-anchor="/document/16/209039/bssPhr48/"></a><a data-anchor="/document/16/209039/dfas5nupep/" data-dfa="dfas5nupep"></a>В процессе инструктажа ознакомьте работника с:</p><ul class="c-list"><li><a data-anchor="/document/16/209039/bssPhr49/"></a><a data-anchor="/document/16/209039/dfasmd44io/" data-dfa="dfasmd44io"></a>технологическим процессом и оборудованием;</li><li>их характеристикой и конструктивными особенностями;</li><li>возможными опасными частями или зонами;</li><li>средствами защиты от них;</li><li>порядком подготовки рабочего места;</li><li>безопасными методами и приемами работы.</li></ul></div><a data-anchor="/document/16/209039/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/209039/bssPhr50/"></a><a data-anchor="/document/16/209039/dfas5vo3ty/" data-dfa="dfas5vo3ty"></a>Как проводить первичный инструктаж на рабочем месте</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr52/"></a><a data-anchor="/document/16/209039/dfasscypu9/" data-dfa="dfasscypu9"></a><strong>Первичный инструктаж</strong> на рабочем месте до начала производственной деятельности проводят со всеми вновь принятыми на предприятие, переводимыми из одного подразделения в другое, с работниками, выполняющими новую для них работу, командированными, временными работниками, со студентами и учащимися, прибывшими на производственное обучение или практику.</p><p><a data-anchor="/document/16/209039/bssPhr53/"></a><a data-anchor="/document/16/209039/dfas0gqt5d/" data-dfa="dfas0gqt5d"></a>Работники, которые не связаны с обслуживанием, испытанием, наладкой и ремонтом оборудования, использованием инструмента, хранением и применением сырья и материалов, первичный инструктаж на рабочем месте не проходят.</p><p><a data-anchor="/document/16/209039/bssPhr54/"></a><a data-anchor="/document/16/209039/dfasggw0r7/" data-dfa="dfasggw0r7"></a>На предприятии может быть Перечень профессий и должностей работников, освобожденных от первичного инструктажа на рабочем месте.</p></div><a data-anchor="/document/16/209039/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/209039/bssPhr55/"></a><a data-anchor="/document/16/209039/dfas7b5mz7/" data-dfa="dfas7b5mz7"></a>Как проводить периодический инструктаж</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr57/"></a><a data-anchor="/document/16/209039/dfaswxrxka/" data-dfa="dfaswxrxka"></a><strong>Периодический инструктаж</strong> проводят не реже чем через каждые шесть месяцев для обновления и дополнения знаний по безопасному выполнению основных и других наиболее часто выполняемых работ. Для рабочих профессий, с повышенной опасностью, срок периодичности сокращают и до одного месяца.</p><p><a data-anchor="/document/16/209039/bssPhr58/"></a><a data-anchor="/document/16/209039/dfas0qxv41/" data-dfa="dfas0qxv41"></a>Работники, которые по каким-либо причинам (отпуск, болезнь, командировка и т.д.) не были проинструктированы в установленное время, должны быть проинструктированы в день выхода на работу.</p><p><a data-anchor="/document/16/209039/bssPhr59/"></a><a data-anchor="/document/16/209039/dfasit60y8/" data-dfa="dfasit60y8"></a>Первичный и повторный инструктажи проводят по программам, с учетом требований соответствующих правил, норм и инструкций по охраны труда, производственных инструкций и другой технической документации.</p></div><a data-anchor="/document/16/209039/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/209039/bssPhr60/"></a><a data-anchor="/document/16/209039/dfasun2oc9/" data-dfa="dfasun2oc9"></a>Как проводить внеочередной инструктаж</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/209039/bssPhr62/"></a><a data-anchor="/document/16/209039/dfassie7mf/" data-dfa="dfassie7mf"></a><strong>Внеочередной инструктаж</strong> проводят:</p><ul class="c-list"><li><a data-anchor="/document/16/209039/bssPhr63/"></a><a data-anchor="/document/16/209039/dfasakkofp/" data-dfa="dfasakkofp"></a>при изменении производственного процесса, замене одного вида оборудования на другой и т.п., в результате которых изменяют условия труда;</li><li>при нарушении работником и учащимися требований безопасности труда, которые могут привести или привели к травме, аварии, взрыву или пожару, отравлению;</li><li>при необходимости доведения до работников дополнительных требований, при введении новых правил и инструкций по безопасному ведению работ;</li><li>по требованию органов Государственного надзора;</li><li>при выявлении нарушения правил и инструкций, производственной дисциплины независимо от принятых мер воздействия;</li><li>при перерывах в работе – для работ, к которым предъявляют дополнительные (повышенные) требования безопасности труда, более чем на 30 календарных дней, а для остальных работ – 60 дней.</li></ul></div><a data-anchor="/document/16/209039/tit10/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit10"><a data-anchor="/document/16/209039/bssPhr64/"></a><a data-anchor="/document/16/209039/dfasx20wf2/" data-dfa="dfasx20wf2"></a>Как проводить целевой инструктаж</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr66/"></a><a data-anchor="/document/16/209039/dfaswk3nuc/" data-dfa="dfaswk3nuc"></a><strong>Целевой инструктаж</strong> проводят перед выполнением разовых работ, не связанных с прямыми обязанностями по специальности (погрузка, выгрузка, уборка территории, разовые работы вне предприятия, цеха и т.п.), ликвидации последствий аварий, стихийных бедствий и катастроф, при производстве работ, на которые оформляется наряд-допуск, разрешение и другие документы; проведении экскурсий на предприятии, массовых мероприятий с учащимися (экскурсии, походы, спортивные соревнования и др.).</p><p><a data-anchor="/document/16/209039/bssPhr67/"></a><a data-anchor="/document/16/209039/dfasxho15g/" data-dfa="dfasxho15g"></a>Объем и содержание внепланового и целевого инструктажа определяют в каждом конкретном случае в зависимости от причин и обстоятельств проведения.</p><p><a data-anchor="/document/16/209039/bssPhr68/"></a><a data-anchor="/document/16/209039/dfasrzamea/" data-dfa="dfasrzamea"></a>Производить инструктаж по охране труда – это обязанность руководителя работ (начальник смены, мастерами и др.) с оформлением в Журнале регистрации инструктажей, но для внепланового инструктажа с указанием причины.</p><p><a data-anchor="/document/16/209039/bssPhr69/"></a><a data-anchor="/document/16/209039/dfas65ps7a/" data-dfa="dfas65ps7a"></a>При необходимости инструктаж проводят с участием специалистов (механиков, энергетиков, технологов и т.д.).</p><p><a data-anchor="/document/16/209039/bssPhr70/"></a><a data-anchor="/document/16/209039/dfas0petrs/" data-dfa="dfas0petrs"></a>Инструктаж на рабочем месте завершают проверкой знаний устным опросом или с помощью технических средств обучения, а также проверкой приобретенных навыков безопасных способов работы. Знания проверяет работник, проводивший инструктаж.</p><p><a data-anchor="/document/16/209039/bssPhr71/"></a><a data-anchor="/document/16/209039/dfaslcxz7t/" data-dfa="dfaslcxz7t"></a>Работника, показавшего неудовлетворительные знания, к самостоятельной работе допускать нельзя. и обязаны вновь пройти инструктаж.</p></div><a data-anchor="/document/16/209039/tit11/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit11"><a data-anchor="/document/16/209039/bssPhr72/"></a><a data-anchor="/document/16/209039/dfas6x6ga4/" data-dfa="dfas6x6ga4"></a>Как проводить обучение по охране труда по рабочим профессиям</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr74/"></a><a data-anchor="/document/16/209039/dfasd3gsqw/" data-dfa="dfasd3gsqw"></a>Обучение по охране труда рабочих проводят непосредственно на рабочем месте силами работодателя. При необходимости привлекают квалифицированных специалистов или обучающие организации со стороны. Обучение состоит из инструктажа и стажировки.</p><p><a data-anchor="/document/16/209039/bssPhr75/"></a><a data-anchor="/document/16/209039/dfas6qgz07/" data-dfa="dfas6qgz07"></a><span data-warm-notices="41487815" data-warm-notice-type="error" num="23" target="_self" lnktype="intlnk" title="" class="doc">Стажировку</span> (практическое обучение) проводят перед допуском рабочего к самостоятельной работе (при переводе на другую работу) на участках с повышенной опасностью или на работу, где требуется профессиональный отбор.</p><p><a data-anchor="/document/16/209039/bssPhr76/"></a><a data-anchor="/document/16/209039/dfashzpaxr/" data-dfa="dfashzpaxr"></a>Практическое обучение (стажировку) поступающий на предприятие должен проходить у опытного квалифицированного работника. Закрепление работника для стажировки оформляют письменным <span data-warm-notices="41487816" data-warm-notice-type="error" num="24" target="_self" lnktype="intlnk" title="" class="doc">распоряжением руководителя</span> подразделения с указанием продолжительности обучения и ответственного лица (мастера), обязанного вести постоянный контроль за обучением.</p><p><a data-anchor="/document/16/209039/bssPhr77/"></a><a data-anchor="/document/16/209039/dfasy2ia12/" data-dfa="dfasy2ia12"></a>Стажировку проводят в течение первого месяца по профессии со сдачей экзаменов и последующей периодической аттестацией по вопросам охраны труда.</p><p style="text-align:left"><a data-anchor="/document/16/209039/bssPhr78/"></a><a data-anchor="/document/16/209039/dfas3gxi4z/" data-dfa="dfas3gxi4z"></a>Руководитель подразделения предприятия по согласованию с инженером ОТ и профсоюзным комитетом может освобождать от стажировки работника, имеющего стаж работы по специальности не менее 3 лет, либо переходящего из одного подразделения в другое, если характер его работы и тип оборудования, на котором он работал ранее, не меняется.</p></div><a data-anchor="/document/16/209039/tit12/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit12"><a data-anchor="/document/16/209039/bssPhr79/"></a><a data-anchor="/document/16/209039/dfas8cdve1/" data-dfa="dfas8cdve1"></a>Как проводить обучение руководителей и специалистов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr81/"></a><a data-anchor="/document/16/209039/dfasnq02g6/" data-dfa="dfasnq02g6"></a>Для повышения уровня знаний по охране труда руководителей и специалистов в органах управления и на предприятиях организуют курсы, семинары, лекции, консультации, с привлечением специалистов органов государственного надзора:</p><ul class="c-list"><li><a data-anchor="/document/16/209039/bssPhr82/"></a><a data-anchor="/document/16/209039/dfas59ik81/" data-dfa="dfas59ik81"></a>Государственная трудовая инспекция г. Ташкента/областей;</li><li>Службы санитарно-эпидемиологического благополучия и общественного здоровья РУз;</li><li>Республиканского совета профессиональных союзов отрасли/ профсоюзного комитета предприятия;</li><li>Государственного комитета по промышленной безопасности РУз.</li><li>Государственной службы пожарной безопасности</li><li>Инспекции по контролю в электроэнергетике (Узэнергоинспекция).</li></ul><p><a data-anchor="/document/16/209039/bssPhr83/"></a><a data-anchor="/document/16/209039/dfaskbzbtr/" data-dfa="dfaskbzbtr"></a>Для обучения специалистов, которые не связаны с обслуживанием, испытанием, наладкой и ремонтом оборудования, использованием инструмента, хранением и применением сырья нужно разработать программу и конспект (разъяснительный материал). Для обучения можно использовать IT обучающие программы или платформы самого предприятия, а проверку знаний осуществлять в виде тестов, но с последующим оформлением протоколов проверки знаний по охране труда.</p></div><a data-anchor="/document/16/209039/tit13/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit13"><a data-anchor="/document/16/209039/bssPhr84/"></a><a data-anchor="/document/16/209039/dfasxqhuaz/" data-dfa="dfasxqhuaz"></a>С какой периодичность проводить проверку знаний по охране труда</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr86/"></a><a data-anchor="/document/16/209039/dfast6cshr/" data-dfa="dfast6cshr"></a>Установлены следующие виды проверки знаний по охране труда: первичная, периодическая, внеочередная.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/209039/bssPhr87/"></a><a data-anchor="/document/16/209039/dfasm3ywym/" data-dfa="dfasm3ywym"></a>Как провести проверку знаний предприятие определяет самостоятельно: устная форма, тестирование или любой другой удобный способ</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/209039/bssPhr91/"></a><a data-anchor="/document/16/209039/dfasxz55tm/" data-dfa="dfasxz55tm"></a>Не позднее одного месяца со дня вступления в должность или принятия на работу, работник обязан пройти первичную проверку знаний по охране труда в соответствующей экзаменационной комиссии.</p><p><a data-anchor="/document/16/209039/bssPhr92/"></a><a data-anchor="/document/16/209039/dfasp5mbyu/" data-dfa="dfasp5mbyu"></a>Периодические проверки знаний проводят:</p><ul class="c-list"><li><a data-anchor="/document/16/209039/bssPhr93/"></a><a data-anchor="/document/16/209039/dfasa8g43f/" data-dfa="dfasa8g43f"></a>не реже одного раза в три года у руководителей и специалистов;</li><li>не реже одного раза в год у специалистов, выполняющих работы на объектах повышенной опасности (сосуды под давлением, лифты, электроустановки и др.);</li><li>не реже одного раза в год у рабочих.</li></ul><p><a data-anchor="/document/16/209039/bssPhr94/"></a><a data-anchor="/document/16/209039/dfastptrsa/" data-dfa="dfastptrsa"></a><strong>Внеочередная проверка знаний проводится </strong></p><p><a data-anchor="/document/16/209039/bssPhr95/"></a><a data-anchor="/document/16/209039/dfas4vkfmx/" data-dfa="dfas4vkfmx"></a>У рабочих:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/209039/bssPhr96/"></a><a data-anchor="/document/16/209039/dfas30a1k2/" data-dfa="dfas30a1k2"></a>при изменении производственного процесса;</li><li style="text-align:left">внедрении новых видов оборудования и механизмов;</li><li style="text-align:left">введении в действие новых правил и инструкций;</li><li style="text-align:left">в случае нарушения правил и инструкций;</li><li style="text-align:left">по требованию или распоряжению руководителей предприятия, органов государственного надзора в случае обнаружения недостаточных знаний правил и инструкций.</li></ul><p><a data-anchor="/document/16/209039/bssPhr97/"></a><a data-anchor="/document/16/209039/dfasuib5gu/" data-dfa="dfasuib5gu"></a>У руководителей и специалистов:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/209039/bssPhr98/"></a><a data-anchor="/document/16/209039/dfasf3b7uk/" data-dfa="dfasf3b7uk"></a>при вводе в действие новых или переработанных нормативных документов по охране труда;</li><li style="text-align:left">при вводе в эксплуатацию нового оборудования или внедрении новых технологических процессов;</li><li style="text-align:left">при переводе работника на другое место работы или назначении его на другую должность, требующую дополнительных знаний по охране труда;</li><li style="text-align:left">при допущении несчастных случаев — групповых, со смертельным или инвалидным исходом, а также при возникновении аварии, взрыва, пожара или отравления;</li><li style="text-align:left">по требованию органов государственного надзора и контроля;</li><li style="text-align:left">при перерыве в работе более одного года.</li></ul><p style="text-align:left"><a data-anchor="/document/16/209039/bssPhr99/"></a><a data-anchor="/document/16/209039/dfasw4wyir/" data-dfa="dfasw4wyir"></a>Объем и порядок процедуры внеочередной проверки знаний по охране труда определяется стороной, инициирующей ее проведение.</p></div><a data-anchor="/document/16/209039/tit14/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit14"><a data-anchor="/document/16/209039/bssPhr100/"></a><a data-anchor="/document/16/209039/dfassdtn6o/" data-dfa="dfassdtn6o"></a>Как организовать проверку знаний по охране труда</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr102/"></a><a data-anchor="/document/16/209039/dfask252cp/" data-dfa="dfask252cp"></a>Организация проверки знаний состоит из следующих этапов:</p><p><a data-anchor="/document/16/209039/bssPhr103/"></a><a data-anchor="/document/16/209039/dfasdqtlma/" data-dfa="dfasdqtlma"></a>Шаг 1. Создайте постоянно действующую экзаменационную комиссию и утвердить ее состав приказом руководителя.</p><p><a data-anchor="/document/16/209039/bssPhr104/"></a><a data-anchor="/document/16/209039/dfas9re7go/" data-dfa="dfas9re7go"></a>Комиссия должна состоять минимум из трех человек. Рекомендуем на случай отсутствия одного из членов комиссии создать комиссию из не менее пяти человек: это позволит создать бесперебойную работу комиссий.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/209039/bssPhr105/"></a><a data-anchor="/document/16/209039/dfasuc4x4z/" data-dfa="dfasuc4x4z"></a>Важно: Руководители и специалисты предприятия, включенные в состав экзаменационных комиссий, могут принимать участие в их работе только после сдачи экзаменов в комиссиях органов государственного надзора.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/209039/bssPhr107/"></a><a data-anchor="/document/16/209039/dfas4sgoq8/" data-dfa="dfas4sgoq8"></a>Шаг 2. Разработайте График прохождения заседаний комиссии.</p><p><a data-anchor="/document/16/209039/bssPhr108/"></a><a data-anchor="/document/16/209039/dfaswnxqlo/" data-dfa="dfaswnxqlo"></a>Шаг 3. Утвердите Перечень вопросов и <span data-warm-notices="41487817" data-warm-notice-type="error" num="25" target="_self" lnktype="intlnk" title="" class="doc">экзаменационные билеты</span> по охране труда.</p></div><a data-anchor="/document/16/209039/tit15/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit15"><a data-anchor="/document/16/209039/bssPhr109/"></a><a data-anchor="/document/16/209039/dfaswngbpr/" data-dfa="dfaswngbpr"></a>Как оформить итоги проверки знаний по охране труда</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209039/bssPhr111/"></a><a data-anchor="/document/16/209039/dfas0mpmcq/" data-dfa="dfas0mpmcq"></a>Результаты проверки знаний оформляйте протоколом, который подписывают председатель и члены экзаменационной комиссии.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/209039/bssPhr112/"></a><a data-anchor="/document/16/209039/dfasqfd99k/" data-dfa="dfasqfd99k"></a>Важно: Помимо оценки знаний проверяемого (хорошо, удовлетворительно, неудовлетворительно) комиссия дает заключение о допуске рабочего к самостоятельной работе.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/209039/bssPhr114/"></a><a data-anchor="/document/16/209039/dfas1nua0a/" data-dfa="dfas1nua0a"></a>Протоколы проверки знаний хранят, не менее 6 лет в службе охраны труда или в отделе кадров.</p><p><a data-anchor="/document/16/209039/bssPhr115/"></a><a data-anchor="/document/16/209039/dfaskrg4p1/" data-dfa="dfaskrg4p1"></a>В удостоверениях делают необходимые отметки, которые подписывают председатель комиссии и члены экзаменационной комиссии - инспектор Государственного органа надзора и контроля</p><p><a data-anchor="/document/16/209039/bssPhr116/"></a><a data-anchor="/document/16/209039/dfasg7bw5c/" data-dfa="dfasg7bw5c"></a>Наличие удостоверения о сдаче экзаменов по охране труда не освобождает руководителя и специалиста от выборочной проверки его знаний по вопросам.</p><p><a data-anchor="/document/16/209039/bssPhr117/"></a><a data-anchor="/document/16/209039/dfasggxr2d/" data-dfa="dfasggxr2d"></a>Если работник при проверке показал неудовлетворительные знания, то он к самостоятельной работе не допускается и не позднее двухнедельного срока проходит повторную проверку.</p><p><a data-anchor="/document/16/209039/bssPhr118/"></a><a data-anchor="/document/16/209039/dfashhp53x/" data-dfa="dfashhp53x"></a>Лицо, показавшее неудовлетворительные знания на экзамене по охране труда может быть оставлено в занимаемой должности руководителя и специалиста предприятия при условии сдачи экзаменов повторно в срок не позднее одного месяца.</p><p><a data-anchor="/document/16/209039/bssPhr119/"></a><a data-anchor="/document/16/209039/dfasm3c4e0/" data-dfa="dfasm3c4e0"></a>В отношении лиц, не сдавших повторно экзамен по охране труда, материалы передаются в аттестационную комиссию предприятия для решения вопросов о соответствии их занимаемой должности.</p><p><a data-anchor="/document/16/209039/bssPhr120/"></a><a data-anchor="/document/16/209039/dfase6m2a2/" data-dfa="dfase6m2a2"></a>Споры, связанные с решением экзаменационных комиссий, рассматриваются Государственной трудовой, в судах.</p><p><a data-anchor="/document/16/209039/bssPhr121/"></a><a data-anchor="/document/16/209039/dfas1wt21k/" data-dfa="dfas1wt21k"></a>Работники предприятия, уклоняющиеся от проверок знаний по охране труда, отстраняются от работы, и к ним применяют меры дисциплинарного взыскания.</p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

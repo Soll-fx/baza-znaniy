@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отражать объекты сельского хозяйства в финансовой отчетности по МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206465/dfasnoek6h/" data-dfa="dfasnoek6h"></a><a data-anchor="/document/16/206465/bssPhr2/"></a>В рекомендации найдете ответы на вопросы: какой МСФО регламентирует порядок отражения объектов сельского хозяйства и что включать в активы, принадлежащие сельскохозяйственным организациям. Эксперты пояснили, как отражать биологические активы в финансовой отчетности по МСФО. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206465/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206465/bssPhr3/"></a><a data-anchor="/document/16/206465/dfasn2gxzu/" data-dfa="dfasn2gxzu"></a>Порядок отражения объектов сельского хозяйства</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206465/bssPhr5/"></a><a data-anchor="/document/16/206465/dfasi89kgu/" data-dfa="dfasi89kgu"></a>Порядок отражения объектов сельского хозяйства в финансовой отчетности регламентирует МСФО (IAS) 41 «Сельское хозяйство».</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr6/"></a><a data-anchor="/document/16/206465/dfasdgq2y8/" data-dfa="dfasdgq2y8"></a>Данный стандарт применяют для учета следующих объектов, если они связаны с сельскохозяйственной деятельностью:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206465/bssPhr7/"></a><a data-anchor="/document/16/206465/dfasf4zm1f/" data-dfa="dfasf4zm1f"></a>биологических активов;</li><li style="text-align:left">сельскохозяйственной продукции в момент ее сбора;</li><li style="text-align:left">государственных субсидий.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr8/"></a><a data-anchor="/document/16/206465/dfaswnzuye/" data-dfa="dfaswnzuye"></a>Государственные субсидии не должны быть обременены никакими условиями, относящимися к биологическому активу, оцениваемому по справедливой стоимости за вычетом расходов на продажу. Такая государственная субсидия подлежит признанию в качестве дохода только когда она уже получена компанией.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr9/"></a><a data-anchor="/document/16/206465/dfasuw4l2i/" data-dfa="dfasuw4l2i"></a>Государственная субсидия, которая относится к биологическому активу, оцениваемому по справедливой стоимости за вычетом расходов на продажу, должна быть предоставлена на определенных условиях. В том числе, когда по условиям субсидии компании нельзя заниматься тем или иным видом сельскохозяйственной деятельности. Компания должна признавать эту государственную субсидию в составе прибыли или убытка только когда будут выполнены все условия по такой субсидии.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206465/bssPhr10/"></a><a data-anchor="/document/16/206465/dfasmfeg44/" data-dfa="dfasmfeg44"></a>Если государственная субсидия относится к биологическому активу, оцениваемому по фактической стоимости за вычетом накопленной амортизации и накопленных убытков от обесценения.&nbsp;</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206465/bssPhr11/"></a><a data-anchor="/document/16/206465/dfas5gq11h/" data-dfa="dfas5gq11h"></a>Применяется МСФО (IAS) 20 «Учет государственных субсидий и раскрытие информации о государственной помощи».</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/206465/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206465/bssPhr12/"></a><a data-anchor="/document/16/206465/dfasvr039x/" data-dfa="dfasvr039x"></a><a data-anchor="/document/16/206465/dfasd49t9i/" data-dfa="dfasd49t9i"></a>Активы, принадлежащие сельскохозяйственным организациям&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206465/bssPhr14/"></a><a data-anchor="/document/16/206465/dfas7c0oh7/" data-dfa="dfas7c0oh7"></a>Сельское хозяйство включает разнообразные виды деятельности. Например, животноводство, лесоводство, выращивание однолетних или многолетних сельскохозяйственных культур, разведение садов и плантаций, цветоводство и аквакультуру, включая рыбоводство.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr15/"></a><a data-anchor="/document/16/206465/dfasgl3ym7/" data-dfa="dfasgl3ym7"></a>При этом есть ряд общих характеристик сельскохозяйственной деятельности:</p><p><a data-anchor="/document/16/206465/bssPhr16/"></a><a data-anchor="/document/16/206465/dfasle5c3i/" data-dfa="dfasle5c3i"></a><strong>1. Способность к изменению</strong></p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr17/"></a><a data-anchor="/document/16/206465/dfase5sc9r/" data-dfa="dfase5sc9r"></a>Подразумевает, что живущие животные и растения поддаются биотрансформации.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr18/"></a><a data-anchor="/document/16/206465/dfas5z8xzk/" data-dfa="dfas5z8xzk"></a><strong>2. </strong><strong>Управление изменениями</strong></p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr19/"></a><a data-anchor="/document/16/206465/dfaslgbhn4/" data-dfa="dfaslgbhn4"></a>Управление способствует биотрансформации путем создания благоприятных или, по крайней мере, стабильных условий, необходимых для данного процесса. Например, обеспечение соотношения питательных веществ на определенном уровне, поддержание влажности, температуры, продуктивности и света. Такое управление отличает сельскохозяйственную деятельность от других видов деятельности. Например, пользование продукцией, получаемой из неуправляемых источников. Рыбный промысел в океане и вырубка лесов не являются сельскохозяйственной деятельностью.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr20/"></a><a data-anchor="/document/16/206465/dfasgtte6p/" data-dfa="dfasgtte6p"></a><strong>3. </strong><strong>Оценка изменений</strong></p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr21/"></a><a data-anchor="/document/16/206465/dfasvq8758/" data-dfa="dfasvq8758"></a>Одной из функций управления является оценка и контроль качественных изменений. Например, генетических характеристик, плотности, зрелости, жирового слоя, содержания белка, прочности волокна или количественных изменений, происходящих в результате биотрансформации или сбора. Например, потомства, веса, кубических метров, длины или диаметра волокна, числа бутонов.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr22/"></a><a data-anchor="/document/16/206465/dfas3budbn/" data-dfa="dfas3budbn"></a>Биотрансформация приводит:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206465/bssPhr23/"></a><a data-anchor="/document/16/206465/dfas7oivkk/" data-dfa="dfas7oivkk"></a>к изменениям активов, вызванным ростом (увеличение количества животных или растений либо улучшение их качественных характеристик), вырождением (уменьшение количества животных или растений либо ухудшением их качественных характеристик), или размножением (образование дополнительных животных или растений);</li><li style="text-align:left">производству сельскохозяйственной продукции: латекс, чайный лист, шерсть, молоко.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr24/"></a><a data-anchor="/document/16/206465/dfasay7gzf/" data-dfa="dfasay7gzf"></a>МСФО определяет, что активы, принадлежащие сельскохозяйственным организациям, включают животных и растения, которые по истечении производственного цикла трансформируются в сельскохозяйственную продукцию. Молодняк животных, еще не достигший продуктивного возраста, например, молочного скота, а также многолетние насаждения в стадии закладки и выращивания учитываются соответственно, как запасы и основные средства. Затраты на возделывание растительных культур, отличных от многолетних насаждений, например, подсолнечника, отражаются в финансовой отчетности как незавершенное производство, а после сбора готовой продукции относятся на ее себестоимость.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr25/"></a><a data-anchor="/document/16/206465/dfasw6ykat/" data-dfa="dfasw6ykat"></a>После того как молодняк крупных животных достигнет эксплуатационного возраста, его учитывают и признают в финансовой отчетности как объект основных средств. Мелких животных, например, кроликов, норок, лис продолжают учитывать в составе запасов. По истечении производственного цикла сельскохозяйственная продукция относится к готовой продукции и учитывается в обычном порядке.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr26/"></a><a data-anchor="/document/16/206465/dfaswbh72d/" data-dfa="dfaswbh72d"></a>Некоторые растения, например, чайные кусты, виноградная лоза, масличные пальмы и каучуковые деревья, обычно удовлетворяют определению плодовых культур и относятся к сфере применения МСФО (IAS) 16 «Основные средства». Однако продукция плодовых культур, например, чайные листья, виноград, плоды масличной пальмы и латекс, относится к сфере применения МСФО (IAS) 41 «Сельское хозяйство».</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr27/"></a><a data-anchor="/document/16/206465/dfasrakkyw/" data-dfa="dfasrakkyw"></a>В таблице представлены примеры биологических активов сельскохозяйственной продукции и конечных результатов ее переработки:</p><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/206465/bssPhr28/"></a><a data-anchor="/document/16/206465/dfasweh1qv/" data-dfa="dfasweh1qv"></a><strong>Биологические активы</strong></p></td><td class="bdTopbdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/206465/bssPhr29/"></a><a data-anchor="/document/16/206465/dfas2frd1t/" data-dfa="dfas2frd1t"></a><strong>Сельскохозяйственная продукция</strong></p></td><td class="bdTopbdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/206465/bssPhr30/"></a><a data-anchor="/document/16/206465/dfasbhfsnh/" data-dfa="dfasbhfsnh"></a><strong>Конечные результаты переработки полученной, собранной продукции</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="height: 16.226px;"><p><a data-anchor="/document/16/206465/bssPhr31/"></a><a data-anchor="/document/16/206465/dfasnhfmce/" data-dfa="dfasnhfmce"></a>Овцы</p></td><td class="bdBottombdRight" style="height: 16.226px;"><p><a data-anchor="/document/16/206465/bssPhr32/"></a><a data-anchor="/document/16/206465/dfas3ozmhh/" data-dfa="dfas3ozmhh"></a>Шерсть</p></td><td class="bdBottombdRight" style="height: 16.226px;"><p><a data-anchor="/document/16/206465/bssPhr33/"></a><a data-anchor="/document/16/206465/dfasobqr8c/" data-dfa="dfasobqr8c"></a>Пряжа, ковры</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr34/"></a><a data-anchor="/document/16/206465/dfasx8z3cu/" data-dfa="dfasx8z3cu"></a>Деревья в лесопосадке</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr35/"></a><a data-anchor="/document/16/206465/dfasnm3gmz/" data-dfa="dfasnm3gmz"></a>Вырубленные деревья</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr36/"></a><a data-anchor="/document/16/206465/dfas2frcbg/" data-dfa="dfas2frcbg"></a>Бревна, пиломатериалы</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr37/"></a><a data-anchor="/document/16/206465/dfasiln0ax/" data-dfa="dfasiln0ax"></a>Молочный скот</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr38/"></a><a data-anchor="/document/16/206465/dfasaxsqzi/" data-dfa="dfasaxsqzi"></a>Молоко</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr39/"></a><a data-anchor="/document/16/206465/dfasp3a9kz/" data-dfa="dfasp3a9kz"></a>Сыр</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr40/"></a><a data-anchor="/document/16/206465/dfasllpie3/" data-dfa="dfasllpie3"></a>Свиньи</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr41/"></a><a data-anchor="/document/16/206465/dfasgas8n6/" data-dfa="dfasgas8n6"></a>Туши</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr42/"></a><a data-anchor="/document/16/206465/dfasr85u9f/" data-dfa="dfasr85u9f"></a>Колбасные изделия, консервированная ветчина</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr43/"></a><a data-anchor="/document/16/206465/dfaslvshcg/" data-dfa="dfaslvshcg"></a>Хлопчатник</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr44/"></a><a data-anchor="/document/16/206465/dfas3k2oew/" data-dfa="dfas3k2oew"></a>Собранный хлопок</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr45/"></a><a data-anchor="/document/16/206465/dfaspmigst/" data-dfa="dfaspmigst"></a>Нить, одежда</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr46/"></a><a data-anchor="/document/16/206465/dfasybxwr2/" data-dfa="dfasybxwr2"></a>Сахарный тростник</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr47/"></a><a data-anchor="/document/16/206465/dfas49fmi9/" data-dfa="dfas49fmi9"></a>Собранный тростник</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr48/"></a><a data-anchor="/document/16/206465/dfaspzq712/" data-dfa="dfaspzq712"></a>Сахар</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr49/"></a><a data-anchor="/document/16/206465/dfaswwiftq/" data-dfa="dfaswwiftq"></a>Табак</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr50/"></a><a data-anchor="/document/16/206465/dfasz8fyhw/" data-dfa="dfasz8fyhw"></a>Собранные листья</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr51/"></a><a data-anchor="/document/16/206465/dfasbfza8b/" data-dfa="dfasbfza8b"></a>Высушенный табак</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr52/"></a><a data-anchor="/document/16/206465/dfasz2tc2f/" data-dfa="dfasz2tc2f"></a>Чайные кусты</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr53/"></a><a data-anchor="/document/16/206465/dfastx8wt2/" data-dfa="dfastx8wt2"></a>Собранные листья</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr54/"></a><a data-anchor="/document/16/206465/dfasyhrnci/" data-dfa="dfasyhrnci"></a>Чай</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr55/"></a><a data-anchor="/document/16/206465/dfasv6zhur/" data-dfa="dfasv6zhur"></a>Виноградная лоза</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr56/"></a><a data-anchor="/document/16/206465/dfas2z30p5/" data-dfa="dfas2z30p5"></a>Собранный виноград</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr57/"></a><a data-anchor="/document/16/206465/dfasqnbcpk/" data-dfa="dfasqnbcpk"></a>Вино</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr58/"></a><a data-anchor="/document/16/206465/dfasriywug/" data-dfa="dfasriywug"></a>Плодово-ягодные деревья</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr59/"></a><a data-anchor="/document/16/206465/dfaswblagb/" data-dfa="dfaswblagb"></a>Собранные фрукты</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr60/"></a><a data-anchor="/document/16/206465/dfasqhg554/" data-dfa="dfasqhg554"></a>Фрукты, прошедшие переработку</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr61/"></a><a data-anchor="/document/16/206465/dfasx3pcdt/" data-dfa="dfasx3pcdt"></a>Масличные пальмы</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr62/"></a><a data-anchor="/document/16/206465/dfas9is3ht/" data-dfa="dfas9is3ht"></a>Собранные плоды</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr63/"></a><a data-anchor="/document/16/206465/dfas1qnibz/" data-dfa="dfas1qnibz"></a>Пальмовое масло</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/206465/bssPhr64/"></a><a data-anchor="/document/16/206465/dfas8ue4ul/" data-dfa="dfas8ue4ul"></a>Каучуковые деревья</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr65/"></a><a data-anchor="/document/16/206465/dfasgw0one/" data-dfa="dfasgw0one"></a>Собранный латекс</p></td><td class="bdBottombdRight"><p><a data-anchor="/document/16/206465/bssPhr66/"></a><a data-anchor="/document/16/206465/dfas2cbr2q/" data-dfa="dfas2cbr2q"></a>Резиновые изделия</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><a data-anchor="/document/16/206465/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206465/bssPhr67/"></a><a data-anchor="/document/16/206465/dfasz2tcbg/" data-dfa="dfasz2tcbg"></a>Биологические активы</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206465/bssPhr69/"></a><a data-anchor="/document/16/206465/dfast06e5h/" data-dfa="dfast06e5h"></a>МСФО рекомендует отражать биологические активы в финансовой отчетности по справедливой стоимости за вычетом предполагаемых затрат на их продажу.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206465/bssPhr70/"></a><a data-anchor="/document/16/206465/dfas2xprv6/" data-dfa="dfas2xprv6"></a>При учете затрат на продажу не включают транспортные и другие предпродажные затраты.</p><div class="incut-v4__icon"></div></div><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr72/"></a><a data-anchor="/document/16/206465/dfasd3rm2v/" data-dfa="dfasd3rm2v"></a>Если не можете достоверно определить справедливую стоимость биологического актива в момент первоначального признания, то оценивайте биологический актив по себестоимости, уменьшенной на сумму накопленной амортизации и убытков от обесценения.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr73/"></a><a data-anchor="/document/16/206465/dfasdiawgg/" data-dfa="dfasdiawgg"></a>Если впоследствии достоверная оценка биологического актива становится возможной, то актив оценивайте по справедливой стоимости за вычетом предполагаемых расчетных затрат, связанных с продажей.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr74/"></a><a data-anchor="/document/16/206465/dfasp67yov/" data-dfa="dfasp67yov"></a>Изменения в справедливой стоимости отражайте в отчете о прибылях и убытках. МСФО не содержит рекомендаций, по какой именно статье следует отражать подобные изменения.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr75/"></a><a data-anchor="/document/16/206465/dfas97v8ib/" data-dfa="dfas97v8ib"></a>Согласно МСФО запасами признается лишь сельскохозяйственная продукция.</p><p style="text-align:left"><a data-anchor="/document/16/206465/bssPhr76/"></a><a data-anchor="/document/16/206465/dfas9sbgst/" data-dfa="dfas9sbgst"></a>К плодовым культурам не относятся:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206465/bssPhr77/"></a><a data-anchor="/document/16/206465/dfasdscn62/" data-dfa="dfasdscn62"></a>растения, выращиваемые в качестве сельскохозяйственной продукции. Например, деревья, выращиваемые с целью заготовки древесины;</li><li style="text-align:left">растения, выращиваемые для получения сельскохозяйственной продукции, если не является отдаленной вероятность того, что предприятие также будет собирать и продавать растения в качестве сельскохозяйственной продукции, за исключением побочных продаж в качестве отходов. Например, деревья, выращиваемые как для сбора плодов, так и для заготовки древесины;</li><li style="text-align:left">однолетние культуры. Например, кукуруза и пшеница.</li></ul></div><p><a data-anchor="/document/16/206465/dfasv51f1y/" data-dfa="dfasv51f1y"></a><a data-anchor="/document/16/206465/bssPhr78/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

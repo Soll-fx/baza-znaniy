@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">НСБУ Минфина РУз от 19.10.1998 №№ 52, НСБУ № 10</div><h2 class="auth__title">Национальный стандарт бухгалтерского учета Республики Узбекистан (НСБУ № 10) Учет государственных субсидий и раскрытие государственной помощи</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/90/3994/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/3994/dfas94tzsw/"></a><a data-anchor="/document/90/3994/tita5xsn/"></a>Зарегистрирован<br>Министерством юстиции Республики Узбекистан<br>от 3 декабря 1998 года<br>Регистрационный № 562</p><p style="text-align:right"><a data-anchor="/document/90/3994/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/3994/dfaseg920x/"></a>&#171;УТВЕРЖДЕН&#187;<br>Министерство финансов<br>Республики Узбекистан<br>Заместитель министра<br>Э.Ф. ГАДОЕВ<br>19 октября 1998 года № 52</p><div class="doc__untyped doc-start" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit12/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/3994/dfasc078wr/"></a>НАЦИОНАЛЬНЫЙ СТАНДАРТ<br>бухгалтерского учета Республики Узбекистан (НСБУ № 10) Учет государственных субсидий и раскрытие государственной помощи</span></div><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit13/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/3994/dfas2aeexv/"></a><a data-anchor="/document/90/3994/tpos1/"></a><a data-anchor="/document/90/3994/tit1/"></a>ОБЩИЕ ПОЛОЖЕНИЯ</span></div><p><a data-anchor="/document/90/3994/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/3994/dfasxnbs16/"></a>1. Настоящий Национальный стандарт бухгалтерского учета (НСБУ) разработан на основе&#160;Закона&#160;Республики Узбекистан &#171;О бухгалтерском учете&#187; и является элементом системы нормативного регулирования бухгалтерского учета в Республике Узбекистан.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit14/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/3994/dfasuludw4/"></a><a data-anchor="/document/90/3994/tpos2/"></a><a data-anchor="/document/90/3994/tit2/"></a>ЦЕЛЬ</span></div><p><a data-anchor="/document/90/3994/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/3994/dfasglz69c/"></a>2. Целью настоящего стандарта является определение принципов бухгалтерского учета и отражения в финансовой отчетности полученных хозяйствующим субъектом государственных субсидий либо других видов государственной помощи.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit15/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/3994/dfasymtnxg/"></a><a data-anchor="/document/90/3994/tpos3/"></a><a data-anchor="/document/90/3994/tit3/"></a>СФЕРА ДЕЙСТВИЯ</span></div><p><a data-anchor="/document/90/3994/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/3994/dfasf8f5cu/"></a>3. Настоящий стандарт применяется хозяйствующими субъектами для учета государственных субсидий и раскрытия других видов государственной помощи.</p><p><a data-anchor="/document/90/3994/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/3994/dfaseenn2v/"></a>4. Этот стандарт не применяется:</p><p><a data-anchor="/document/90/3994/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/3994/dfasxsm1x6/"></a>4.1. К специфичным проблемам, возникающим при учете государственных субсидий в финансовых отчетах, отражающих влияние меняющихся цен или в дополнительной информации аналогичного характера.</p><p><a data-anchor="/document/90/3994/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/3994/dfasu6s8rg/"></a>4.2. К государственной помощи, которая предоставляется предприятию в виде выгод и льгот при определении налогооблагаемой прибыли, или которые определены или ограничены на основе обязательства по налогу на доход (такие, как временное освобождение от налога, налоговый кредит и уменьшенные ставки налога на доход (прибыль).</p><p><a data-anchor="/document/90/3994/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/3994/dfassdt4fs/"></a>4.3. К государственному участию в собственности хозяйствующего субъекта.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit16/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/3994/dfas1q7fkm/"></a><a data-anchor="/document/90/3994/tpos4/"></a><a data-anchor="/document/90/3994/tit4/"></a>ОПРЕДЕЛЕНИЯ</span></div><p><a data-anchor="/document/90/3994/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/3994/dfas6qngdf/"></a>5.Термины, используемые в этом Стандарте:</p><p><a data-anchor="/document/90/3994/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/3994/dfas9gyeq9/"></a>Государственные субсидии &#8212; это помощь со стороны правительства в виде передачи ресурсов хозяйствующему субъекту на определенных условиях, относящихся к операционной деятельности хозяйствующего субъекта.</p><p><a data-anchor="/document/90/3994/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/3994/dfas3xgpz7/"></a>Государственная помощь &#8212; это акция, предпринятая государством для предоставления экономических льгот одному или ряду хозяйствующих субъектов, удовлетворяющих определенным критериям. Для целей данного стандарта государственная помощь не включает льготы, предоставляемые только косвенно, посредством действий, влияющих на общие торговые условия, такие, как создание инфраструктуры в развивающихся секторах или наложение торговых ограничений на конкурентов.</p><p><a data-anchor="/document/90/3994/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/3994/dfastwg0b2/"></a>Субсидии, относимые к активам &#8212; это государственные субсидии, выделяемые хозяйствующим субъектам для приобретения или строительства долгосрочных активов под определенные проекты строительства, сроки ввода или сроки приобретения, определенные месторасположения этих активов.</p><p><a data-anchor="/document/90/3994/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/3994/dfas9k1p5m/"></a>Субсидии, относимые на доход &#8212; это любые другие государственные субсидии, за исключением тех, которые относятся к активам.</p><p><a data-anchor="/document/90/3994/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/3994/dfas3iuza8/"></a>Ссуды на безвозвратной основе &#8212; это ссуды, которые кредитор предоставляет, не требуя их возмещения, при соблюдении определенных условий.</p><p><a data-anchor="/document/90/3994/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/3994/dfasii579o/"></a>6. Получение государственной помощи хозяйствующим субъектом является существенным фактом при подготовке финансовых отчетов по двум причинам:</p><p><a data-anchor="/document/90/3994/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/3994/dfasyywypc/"></a>6.1. Если ресурсы уже переведены, необходимо их правильно отразить в бухгалтерском учете.</p><p><a data-anchor="/document/90/3994/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/3994/dfas4ale97/"></a>6.2. Желательно указать значимость для хозяйствующего субъекта получения такой помощи в течение отчетного периода.</p><p><a data-anchor="/document/90/3994/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/3994/dfasxxegf0/"></a>Это способствует сравнению финансовых отчетов хозяйствующих субъектов с отчетами предыдущих периодов и с отчетами других субъектов.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit17/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/3994/dfasa6edgg/"></a><a data-anchor="/document/90/3994/tpos5/"></a><a data-anchor="/document/90/3994/tit5/"></a>МЕТОДИКА БУХГАЛТЕРСКОГО УЧЕТА ГОСУДАРСТВЕННЫХ СУБСИДИЙ</span></div><p><a data-anchor="/document/90/3994/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/3994/dfasy3tvad/"></a>7. Государственная субсидия не признается, пока нет достаточной уверенности, что предприятие будет соответствовать установленным требованиям и что субсидия будет получена. Получение субсидии само по себе еще не означает, что связанные с предоставлением субсидии условия уже выполнены или будут выполнены.</p><p><a data-anchor="/document/90/3994/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/3994/dfasxe2uve/"></a>8. Форма получения субсидии не влияет на метод ее отражения в отчетности. Так, субсидия учитывается независимо от того, получена ли она в форме наличности или в форме уменьшения обязательств по отношению к государству.</p><p><a data-anchor="/document/90/3994/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/3994/dfasnk2yv5/"></a>9. Государственная ссуда, выдаваемая под определенные условия на безвозвратной основе, рассматривается в качестве государственной субсидии в случае существования достаточной гарантии того, что хозяйствующий субъект выполнит эти условия.</p><p><a data-anchor="/document/90/3994/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/3994/dfas1lo2uw/"></a>10. Государственные субсидии должны признаваться в качестве дохода на систематической основе в течение периодов, необходимых для соотнесения их со связанными с ними издержками, по текущим операциям, которые будут ими компенсированы.</p><p><a data-anchor="/document/90/3994/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/3994/dfasr9rzfq/"></a>11. Учитывая, что налог на доход (прибыль) и прочие другие налоги исчисляются из прибыли, необходимо рассматривать государственные субсидии, являющиеся продолжением финансово-бюджетной политики, в отчете о финансовых результатах (см.&#160;Национальный стандарт&#160;бухгалтерского учета &#171;Отчет о финансовых результатах&#187;).</p><p><a data-anchor="/document/90/3994/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/3994/dfasl86epu/"></a>12. Признание государственных субсидий в качестве целевых средств осуществляется по методу начисления.</p><p><a data-anchor="/document/90/3994/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/3994/dfashdp130/"></a>Государственные субсидии в Отчете о финансовых результатах признаются доходом в течение отчетных периодов, необходимых для соотнесения их со связанными с ними издержками (расходами).</p><p><a data-anchor="/document/90/3994/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/3994/dfas398g4e/"></a>13. Субсидии, связанные с амортизируемыми активами, обычно признаются в качестве дохода в течение тех отчетных периодов и в тех пропорциях, в каких начисляется амортизация по этим активам.</p><p><a data-anchor="/document/90/3994/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/3994/dfas1kg5z2/"></a>Субсидии, связанные с неамортизируемыми активами, выданные на определенных условиях и обязательствах, признаются в качестве дохода в течение тех периодов, в которых будут производиться расходы, связанные с выполнением данных обязательств.</p><p><a data-anchor="/document/90/3994/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/3994/dfaslq1tbg/"></a>14. Государственная субсидия, подлежащая получению в качестве компенсации за понесенные расходы или убытки или выделяемая в целях оказания незамедлительной финансовой помощи хозяйствующему субъекту, без связанных с ним в будущем издержек, должна признаваться в качестве дохода того периода, в котором она подлежит получению, также и в качестве чрезвычайной статьи (см.&#160;Национальный стандарт&#160;бухгалтерского учета &#171;Отчет о финансовых результатах&#187;).</p><p><a data-anchor="/document/90/3994/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/3994/dfasgtq9re/"></a>15. Государственная субсидия может быть получена хозяйствующим субъектом в качестве компенсации за расходы и убытки, понесенные в предыдущем периоде. Такая субсидия признается в качестве дохода в том периоде, в котором она подлежит получению, в качестве чрезвычайной статьи, с последующим раскрытием для определения ее влияния.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit18/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/3994/dfaswegoko/"></a><a data-anchor="/document/90/3994/tpos6/"></a><a data-anchor="/document/90/3994/tit6/"></a>НЕЛИКВИДНЫЕ ГОСУДАРСТВЕННЫЕ СУБСИДИИ</span></div><p><a data-anchor="/document/90/3994/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/3994/dfas59rp5a/"></a>16. Государственная субсидия может принимать форму неликвидного актива, которая будет использована хозяйствующим субъектом. При данных обстоятельствах обычно определяют фактическую стоимость неликвидного актива, и как актив, так и субсидия учитываются по этой фактической стоимости.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit19/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/3994/dfasoqpqud/"></a><a data-anchor="/document/90/3994/tpos7/"></a><a data-anchor="/document/90/3994/tit7/"></a>УЧЕТ СУБСИДИЙ, ОТНОСИМЫХ К АКТИВАМ</span></div><p><a data-anchor="/document/90/3994/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/3994/dfasnr9kim/"></a>17. Государственные субсидии, относимые к активам, в том числе неликвидные субсидии, отражаются как целевые поступления, которые признаются на систематической основе в качестве дохода в течение срока полезной службы актива.</p><p><a data-anchor="/document/90/3994/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/3994/dfaslwl9e8/"></a>В соответствии с другим методом государственная субсидия уменьшает балансовую стоимость поступившего актива и отражается в отчете о финансовых результатах в течение срока полезного функционирования амортизируемого актива путем сокращения начисляемого износа.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit20/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/3994/dfas82rym7/"></a><a data-anchor="/document/90/3994/tpos8/"></a><a data-anchor="/document/90/3994/tit8/"></a>УЧЕТ СУБСИДИЙ, ОТНОСИМЫХ НА ДОХОДЫ</span></div><p><a data-anchor="/document/90/3994/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/3994/dfaslp188i/"></a>18. Субсидии, относимые на доходы в отчете о финансовых результатах, отражаются следующим образом:</p><p><a data-anchor="/document/90/3994/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/3994/dfasfxms3g/"></a>18.1. По статье &#171;Прочие доходы&#187;.</p><p><a data-anchor="/document/90/3994/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/3994/dfasaqkguz/"></a>18.2. Они вычитаются при отражении связанных с ними расходов.</p><p><a data-anchor="/document/90/3994/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/3994/dfassl0yns/"></a>19. Для учета субсидий, относимых на доход, оба метода считаются приемлемыми. Раскрытие субсидии является необходимым для правильного понимания финансовых отчетов. Раскрытие влияния субсидий на любую статью доходов или расходов, которое необходимо раскрыть отдельно, является уместным.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit21/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/3994/dfasbqdgdl/"></a><a data-anchor="/document/90/3994/tpos9/"></a><a data-anchor="/document/90/3994/tit9/"></a>ВОЗВРАТ ГОСУДАРСТВЕННЫХ СУБСИДИЙ</span></div><p><a data-anchor="/document/90/3994/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/3994/dfass3n1ib/"></a>20. Государственные субсидии должны быть возвращены хозяйствующим субъектом вследствие невыполнения определенных условий. В этом случае возврат субсидии вызывает пересмотр расчетных данных бухгалтерских смет, а не поправку к предыдущему отчетному периоду. Возврат субсидий, относимых к доходу, производится следующим образом:</p><p><a data-anchor="/document/90/3994/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/3994/dfasgugtwp/"></a>20.1. За счет остатка субсидий, отраженного в пассиве баланса.</p><p><a data-anchor="/document/90/3994/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/3994/dfas28nh0m/"></a>20.2. Если возвращаемая субсидия превышает остаток, то сумма превышения признается в качестве расхода.</p><p><a data-anchor="/document/90/3994/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/3994/dfasfwttwx/"></a>20.3. Субсидии, относимые к активам, отражаются путем уменьшения остатка на счете целевых поступлений на размер возвращаемой суммы или увеличение балансовой стоимости актива, путем отнесения на счет &#171;Прибыли и убытки&#187; амортизации, которая начислялась бы на размер возвращаемой суммы.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit22/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/3994/dfas80436i/"></a><a data-anchor="/document/90/3994/tpos10/"></a><a data-anchor="/document/90/3994/tit10/"></a>РАСКРЫТИЕ</span></div><p><a data-anchor="/document/90/3994/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/3994/dfasxa2csg/"></a>21. Следующие вопросы должны быть раскрыты:</p><p><a data-anchor="/document/90/3994/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/3994/dfasyyaxev/"></a>21.1. Учетная политика, применяемая к государственным субсидиям, в том числе методы представления информации, принятые в финансовых отчетах.</p><p><a data-anchor="/document/90/3994/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/3994/dfaskimcs0/"></a>21.2. Сущность и размер государственных субсидий, признанных в финансовых отчетах, и указание других форм государственной помощи, в результате которых хозяйствующий субъект получил прямую выгоду.</p><p><a data-anchor="/document/90/3994/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/3994/dfaslg7adu/"></a>21.3. Невыполнение условий и прочие непредвиденные обязательства, сопутствующие государственной помощи, которая была признана.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3994/tit23/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3994/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/3994/dfaskiyy1z/"></a><a data-anchor="/document/90/3994/tpos11/"></a><a data-anchor="/document/90/3994/tit11/"></a>ПЕРЕХОДНЫЕ ПОЛОЖЕНИЯ</span></div><p><a data-anchor="/document/90/3994/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/3994/dfasghgnq0/"></a>22. Хозяйствующий субъект должен:</p><p><a data-anchor="/document/90/3994/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/3994/dfas1e9arm/"></a>22.1. Следовать требованиям раскрытия.</p><p><a data-anchor="/document/90/3994/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/3994/dfas8tr603/"></a>22.2. Скорректировать свои финансовые отчеты с учетом изменений в учетной политике в соответствии с НСБУ&#160;&#171;Отчет о финансовых результатах&#187;.</p><p><a data-anchor="/document/90/3994/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/3994/dfas7g2sa0/"></a>22.3. Применять методику бухгалтерского учета этого стандарта только по отношению к тем субсидиям или частям субсидий, подлежащих получению или возврату после даты вступления в силу данного стандарта.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как бесплатно проверить контрагента: ключевые источники</h2><div class="doc-snippet"><a data-anchor="/document/16/203091/dfasxtrrl5/" data-dfa="dfasxtrrl5"></a><a data-anchor="/document/16/203091/bssPhr2/"></a>В рекомендации – список бесплатных сервисов для проверки контрагента. Узнайте, как проверить существует ли компания и достоверны ли сведения в ЕГРПО, нет ли долгов перед налоговой и обременений по имуществу. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203091/bssPhr3/"></a><a data-anchor="/document/16/203091/dfasifnf0h/" data-dfa="dfasifnf0h"></a>Чтобы проверить контрагента, изучите информацию о нем в открытых источниках. После этого запросите документы у контрагента и проверьте, ведет ли он фактическую деятельность. Эти проверки покажут, какие риски возникнут, если заключить договор с новым контрагентом.</p><p><a data-anchor="/document/16/203091/bssPhr4/"></a><a data-anchor="/document/16/203091/dfas1e9lrv/" data-dfa="dfas1e9lrv"></a>Результат проверки согласуйте с директором или коммерческой службой. Если они решат заключить договор с контрагентом, который вызывает сомнения, задача юриста&nbsp;– предложить меры, которые уменьшат риск.</p><a data-anchor="/document/16/203091/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/203091/bssPhr5/"></a><a data-anchor="/document/16/203091/fhd4355418/"></a><a data-anchor="/document/16/203091/dfascxxkz8/" data-dfa="dfascxxkz8"></a>Источники, по которым нужно проверить контрагента</h2><p><a data-anchor="/document/16/203091/bssPhr6/"></a><a data-anchor="/document/16/203091/dfas97f1n4/" data-dfa="dfas97f1n4"></a>Чтобы узнать все риски, которые могут возникнуть из-за нового контрагента, проверьте информацию по нескольким направлениям.</p><p><a data-anchor="/document/16/203091/bssPhr7/"></a><a data-anchor="/document/16/203091/dfasnxbatm/" data-dfa="dfasnxbatm"></a><strong>Общая информация о контрагенте и о предмете сделки:</strong></p><ul class="c-list"><li><a data-anchor="/document/16/203091/bssPhr8/"></a><a data-anchor="/document/16/203091/dfasykkcu3/" data-dfa="dfasykkcu3"></a><a href="https://registr.stat.uz/ru/" target="_blank" title="">информацию в ЕГРПО</a>;</li><li><a href="https://my.gov.uz/ru/service/506" target="_blank" title="">сведения о недвижимом имуществе, которое выступает предметом сделки</a>;</li><li><a href="https://my.gov.uz/ru/service/654" target="_blank" title="">сведения об автомобиле, который выступает предметом сделки</a>.</li></ul><p><a data-anchor="/document/16/203091/bssPhr9/"></a><a data-anchor="/document/16/203091/dfasic9yct/" data-dfa="dfasic9yct"></a><strong>Взаимодействие контрагента с регистраторами:</strong></p><ul class="c-list"><li><a data-anchor="/document/16/203091/bssPhr10/"></a><a data-anchor="/document/16/203091/dfasbzm7o0/" data-dfa="dfasbzm7o0"></a><a href="https://fo.birdarcha.uz/reorganization/notification/list" target="_blank" title="">заявления о реорганизации</a>.</li></ul><p><a data-anchor="/document/16/203091/bssPhr11/"></a><a data-anchor="/document/16/203091/dfasv7ztcl/" data-dfa="dfasv7ztcl"></a><strong>Финансовое состояние контрагента:</strong></p><ul class="c-list"><li><a data-anchor="/document/16/203091/bssPhr12/"></a><a data-anchor="/document/16/203091/dfas2qadxc/" data-dfa="dfas2qadxc"></a><a href="https://my3.soliq.uz/" target="_self" title="">долги по налогам</a>;</li><li><a href="https://xarid.uzex.uz/info/unfair-executor" target="_blank" title="">реестр недобросовестных поставщиков</a>;</li><li><a href="https://fo.birdarcha.uz/pub/search" target="_blank" title="">статус предприятия (действующее, недействующее)</a>.</li></ul><p><a data-anchor="/document/16/203091/bssPhr13/"></a><a data-anchor="/document/16/203091/dfasfg2o5b/" data-dfa="dfasfg2o5b"></a><strong>Руководители и участники:</strong></p><ul class="c-list"><li><a data-anchor="/document/16/203091/bssPhr14/"></a><a data-anchor="/document/16/203091/dfas6yl1cf/" data-dfa="dfas6yl1cf"></a><a href="https://my.gov.uz/ru/info-by-tin" target="_blank" title="">сведения о руководителе и участниках</a>.</li></ul><p><a data-anchor="/document/16/203091/bssPhr15/"></a><a data-anchor="/document/16/203091/dfasqyqprl/" data-dfa="dfasqyqprl"></a>Узнать информацию из этих источников можно бесплатно. Cведения о каждом контрагенте придется собирать из разных источников, так как нет единого бесплатного сервиса, где размещена вся необходимую информацию.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203091/dfasprgn7n/" data-dfa="dfasprgn7n"></a><a data-anchor="/document/16/203091/bssPhr16/"></a>Информация из открытых источников не исключает все юридические риски.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/203091/bssPhr18/"></a><a data-anchor="/document/16/203091/dfasg99mr3/" data-dfa="dfasg99mr3"></a>Проверьте не только информацию из реестров, но и фактическую деятельность контрагента. Например, посетите его офис, осмотрите производственные мощности, встретьтесь с директором и главным бухгалтером. Это поможет снизить риск заключения договора с компанией, которая существует только на бумаге и не собирается исполнять обязательства.</p><a data-anchor="/document/16/203091/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/203091/bssPhr19/"></a><a data-anchor="/document/16/203091/fhd4355419/"></a><a data-anchor="/document/16/203091/dfasfbmlxk/" data-dfa="dfasfbmlxk"></a>Сведения из ЕГРПО</h2><p><a data-anchor="/document/16/203091/bssPhr20/"></a><a data-anchor="/document/16/203091/dfasdpt1p6/" data-dfa="dfasdpt1p6"></a>Чтобы узнать информацию о компании или индивидуальном предпринимателе, которая есть в ЕГРПО, воспользуйтесь сервисом «<a href="https://registr.stat.uz/ru/" target="_blank" title="">Сведения из ЕГРПО</a>».</p><p><a data-anchor="/document/16/203091/bssPhr21/"></a><a data-anchor="/document/16/203091/dfaseldab0/" data-dfa="dfaseldab0"></a><strong>В чем польза</strong></p><p><a data-anchor="/document/16/203091/bssPhr22/"></a><a data-anchor="/document/16/203091/dfaszv9dah/" data-dfa="dfaszv9dah"></a>Сервис позволяет узнать адрес, сведения о директоре и участниках, уставном фонде общества, адрес общества, соотношение долей участников, состояние активности.</p><p><a data-anchor="/document/16/203091/bssPhr23/"></a><a data-anchor="/document/16/203091/dfasq2wx66/" data-dfa="dfasq2wx66"></a><strong>Как воспользоваться</strong></p><p><a data-anchor="/document/16/203091/bssPhr24/"></a><a data-anchor="/document/16/203091/dfasmkct68/" data-dfa="dfasmkct68"></a><strong>Шаг 1.</strong> С помощью сведений из ЕГРПО получите информацию о директоре и об участниках.</p><p><a data-anchor="/document/16/203091/bssPhr25/"></a><a data-anchor="/document/16/203091/dfasatxgrq/" data-dfa="dfasatxgrq"></a><strong>Шаг 2.</strong> Сверьте ее с информацией, которую представил контрагент.</p><p><a data-anchor="/document/16/203091/bssPhr26/"></a><a data-anchor="/document/16/203091/dfascvqxes/" data-dfa="dfascvqxes"></a><strong>Шаг 3. </strong>Убедитесь, что организация не реорганизуется и не ликвидируется в графе «Состояние активности».</p><a data-anchor="/document/16/203091/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/203091/bssPhr27/"></a><a data-anchor="/document/16/203091/fhd4355420/"></a><a data-anchor="/document/16/203091/dfasghkhnd/" data-dfa="dfasghkhnd"></a>Долги по налогам</h2><p><a data-anchor="/document/16/203091/bssPhr28/"></a><a data-anchor="/document/16/203091/dfaspks3ht/" data-dfa="dfaspks3ht"></a>Если у потенциального контрагента долги по налогам, то возможны 2 варианта:</p><ol class="c-list"><li><a data-anchor="/document/16/203091/bssPhr29/"></a><a data-anchor="/document/16/203091/dfasgo10qs/" data-dfa="dfasgo10qs"></a>у него нет денег, чтобы погасить долги;</li><li><a data-anchor="/document/16/203091/bssPhr30/"></a><a data-anchor="/document/16/203091/dfas2cs40a/" data-dfa="dfas2cs40a"></a>он намеренно не исполняет обязательства, и есть риск, что счета заблокируют и деятельность приостановится.</li></ol><p><a data-anchor="/document/16/203091/bssPhr31/"></a><a data-anchor="/document/16/203091/dfasduqvw2/" data-dfa="dfasduqvw2"></a>Чтобы проверить, нет ли у потенциального контрагента долгов по налогам, запросите у контрагента справку об отсутствии налоговой задолженности. Затем проверьте ее на <a href="https://my3.soliq.uz/" target="_blank" title="">сайте</a>&nbsp;с помощью сервиса «Справка об отсутствии или наличии налоговой задолженности юридических лиц».</p><p><a data-anchor="/document/16/203091/bssPhr32/"></a><a data-anchor="/document/16/203091/dfasy0mp19/" data-dfa="dfasy0mp19"></a><strong>В чем польза</strong></p><p><a data-anchor="/document/16/203091/bssPhr33/"></a><a data-anchor="/document/16/203091/dfascyrnx6/" data-dfa="dfascyrnx6"></a>Можно узнать наличие либо отсутствие у контрагента задолженности по налогам.</p><p><a data-anchor="/document/16/203091/bssPhr34/"></a><a data-anchor="/document/16/203091/dfas7uz4k2/" data-dfa="dfas7uz4k2"></a><strong>Как воспользоваться</strong></p><p><a data-anchor="/document/16/203091/bssPhr35/"></a><a data-anchor="/document/16/203091/dfasv42tks/" data-dfa="dfasv42tks"></a>Запросите у контрагента справку с уникальным номером, затем проверьте справку на <a href="https://my3.soliq.uz/" target="_blank" title="">сайте</a> с помощью сервиса «Справка об отсутствии или наличии налоговой задолженности юридических лиц».</p><p><a data-anchor="/document/16/203091/bssPhr36/"></a><a data-anchor="/document/16/203091/dfastatbl9/" data-dfa="dfastatbl9"></a>Если у контрагента есть долги по налогам, то стоит запросить у него обеспечение исполнения договора.</p><a data-anchor="/document/16/203091/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/203091/bssPhr37/"></a><a data-anchor="/document/16/203091/fhd4355421/"></a><a data-anchor="/document/16/203091/dfashcas1m/" data-dfa="dfashcas1m"></a>Реестр недобросовестных поставщиков</h2><p><a data-anchor="/document/16/203091/bssPhr39/"></a><a data-anchor="/document/16/203091/dfas7fbcui/" data-dfa="dfas7fbcui"></a>Узнать, включен ли контрагент в реестр недобросовестных поставщиков, можно с помощью <a href="https://xarid.uzex.uz/info/unfair-executor" target="_blank" title="">сервиса</a>, который ведет Узбекская республиканская товарно-сырьевая биржа.</p><p><a data-anchor="/document/16/203091/bssPhr40/"></a><a data-anchor="/document/16/203091/dfassa34au/" data-dfa="dfassa34au"></a><strong>В чем польза</strong></p><p><a data-anchor="/document/16/203091/bssPhr41/"></a><a data-anchor="/document/16/203091/dfas8zv3om/" data-dfa="dfas8zv3om"></a>Если потенциальный контрагент значится в реестре, то есть риск, что он не исполнит обязательства. В таком случае либо запросите обеспечение исполнения договора, либо не заключайте договор.</p><p><a data-anchor="/document/16/203091/bssPhr42/"></a><a data-anchor="/document/16/203091/dfasvgo0u4/" data-dfa="dfasvgo0u4"></a><strong>Как воспользоваться</strong></p><p><a data-anchor="/document/16/203091/bssPhr43/"></a><a data-anchor="/document/16/203091/dfas7bcstk/" data-dfa="dfas7bcstk"></a>На сайте опубликован список юрлиц, включенных в <a href="https://xarid.uzex.uz/info/unfair-executor" target="_blank" title="">реестр недобросовестных поставщиков</a>.</p><a data-anchor="/document/16/203091/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/203091/bssPhr44/"></a><a data-anchor="/document/16/203091/fhd4355422/"></a><a data-anchor="/document/16/203091/dfask0hlx1/" data-dfa="dfask0hlx1"></a>Реорганизация</h2><p><a data-anchor="/document/16/203091/bssPhr45/"></a><a data-anchor="/document/16/203091/dfashgpo4i/" data-dfa="dfashgpo4i"></a>Чтобы не заключить договор с компанией, которая находится в процессе реорганизации, проверьте сообщения о реорганизации размещенных <a href="https://fo.birdarcha.uz/reorganization/notification/list" target="_blank" title="">здесь</a>.</p><p><a data-anchor="/document/16/203091/bssPhr46/"></a><a data-anchor="/document/16/203091/dfasw1ln3i/" data-dfa="dfasw1ln3i"></a><strong>В чем польза</strong></p><p><a data-anchor="/document/16/203091/bssPhr47/"></a><a data-anchor="/document/16/203091/dfasoaq97c/" data-dfa="dfasoaq97c"></a>Можно узнать, что организация приняла решение о реорганизации. В этих случаях заключать договор с компанией не стоит.</p><p><a data-anchor="/document/16/203091/bssPhr48/"></a><a data-anchor="/document/16/203091/dfasenbocn/" data-dfa="dfasenbocn"></a><strong>Как воспользоваться</strong></p><p><a data-anchor="/document/16/203091/bssPhr49/"></a><a data-anchor="/document/16/203091/dfas5og0ge/" data-dfa="dfas5og0ge"></a>Нужно <a href="https://fo.birdarcha.uz/reorganization/notification/list" target="_blank" title="">ввести</a> наименование, ИНН компании.</p><p><a data-anchor="/document/16/203091/bssPhr50/"></a><a data-anchor="/document/16/203091/dfas00cdg1/" data-dfa="dfas00cdg1"></a><strong>Недостатки</strong></p><p><a data-anchor="/document/16/203091/bssPhr51/"></a><a data-anchor="/document/16/203091/dfass5qrnc/" data-dfa="dfass5qrnc"></a>Компания может вовремя не подать актуальные сведения.</p><a data-anchor="/document/16/203091/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/203091/bssPhr52/"></a><a data-anchor="/document/16/203091/fhd4355423/"></a><a data-anchor="/document/16/203091/dfasapeku7/" data-dfa="dfasapeku7"></a>Имущество&nbsp;– предмет сделки</h2><p><a data-anchor="/document/16/203091/bssPhr53/"></a><a data-anchor="/document/16/203091/dfasqip8p8/" data-dfa="dfasqip8p8"></a>Если собираетесь приобрести недвижимость или транспортное средство, проверьте не наложили ли суды, правоохранительные органы, Бюро принудительного исполнения арест или запрет на имущество. Если приобрести арестованное имущество, то лицо, в пользу которого наложили арест, может обратить взыскание на это имущество.</p><p><a data-anchor="/document/16/203091/bssPhr54/"></a><a data-anchor="/document/16/203091/dfasru7vb5/" data-dfa="dfasru7vb5"></a>Чтобы не приобрести арестованное недвижимое имущество, воспользуйтесь сервисом «<a href="https://my.gov.uz/ru/service/506" target="_blank" title="">Проверка выписки объекта недвижимости с государственного реестра кадастра</a>».</p><p><a data-anchor="/document/16/203091/bssPhr55/"></a><a data-anchor="/document/16/203091/dfasrezdcm/" data-dfa="dfasrezdcm"></a><strong>В чем польза</strong></p><p><a data-anchor="/document/16/203091/bssPhr56/"></a><a data-anchor="/document/16/203091/dfasiralyv/" data-dfa="dfasiralyv"></a>Можно узнать об обременениях в отношении недвижимости: арест, запрет. Но лучше этим не ограничиваться и лично осмотреть объект недвижимости, поскольку в сервисе содержатся сведения не обо всех обременениях.</p><p><a data-anchor="/document/16/203091/bssPhr57/"></a><a data-anchor="/document/16/203091/dfasqv73np/" data-dfa="dfasqv73np"></a><strong>Как воспользоваться</strong></p><p><a data-anchor="/document/16/203091/bssPhr58/"></a><a data-anchor="/document/16/203091/dfas2m0r3k/" data-dfa="dfas2m0r3k"></a><strong>Недвижимое имущество.</strong> Чтобы <a href="https://my.gov.uz/ru/service/506" target="_blank" title="">получить информацию об объекте недвижимости</a>, укажите ИНН (ПИНФЛ)&nbsp;и кадастровый номер.</p><p><a data-anchor="/document/16/203091/bssPhr59/"></a><a data-anchor="/document/16/203091/dfaso462uw/" data-dfa="dfaso462uw"></a><strong>Автотранспортное средство.</strong> Узнать, есть ли запрет или ограничение на транспортное средство, можно онлайн с услугой <a href="https://my.gov.uz/ru/service/654" data-warm-notices="40802883" data-warm-notice-type="error" target="_self" title="">«Проверка запрета автомобиля»</a>.</p><p><a data-anchor="/document/16/203091/bssPhr60/"></a><a data-anchor="/document/16/203091/dfaseq12fg/" data-dfa="dfaseq12fg"></a><strong>Недостатки</strong></p><p><a data-anchor="/document/16/203091/bssPhr61/"></a><a data-anchor="/document/16/203091/dfasgy1d72/" data-dfa="dfasgy1d72"></a>Сервисы «<a href="https://my.gov.uz/ru/service/506" target="_blank" title="">Проверка выписки объекта недвижимости с государственного реестра кадастра</a>»&nbsp;и «<a href="https://my.gov.uz/ru/service/654" target="_self" title="">Проверка запрета автомобиля</a>»&nbsp;могут содержать неактуальную информацию об имуществе. Например, что объект находится в аресте по уже прекращенному уголовному/гражданскому делу. Это связано с задержкой в предоставлении документов о снятии запрета либо ареста в органы кадастра. В этом случае попросите контрагента предоставить документ, удостоверяющий снятие запрета или ареста.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

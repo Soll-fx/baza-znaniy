@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как перечислить в бюджет акцизный налог при импорте подакцизных товаров</h2><div class="doc-snippet"><a data-anchor="/document/16/210540/dfasn7vzi7/" data-dfa="dfasn7vzi7"></a><a data-anchor="/document/16/210540/bssPhr2/"></a>После <span num="1" lnktype="intlnk" title="" class="doc">расчета</span> акцизного налога на импортируемый подакцизный товар, уплатите налог в бюджет. <a data-anchor="/document/16/210540/dfas1p0ykq/" data-dfa="dfas1p0ykq"></a><a data-anchor="/document/16/210540/bssPhr3/"></a>При импорте подакцизных товаров, акцизный налог включен в состав таможенных платежей и его контроль осуществляют таможенные органы (<span num="40" target="_self" lnktype="intlnk" title="" class="doc">глава 42</span> Таможенного кодекса). </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210540/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210540/bssPhr4/"></a><a data-anchor="/document/16/210540/dfasmo4gw7/" data-dfa="dfasmo4gw7"></a>Дата совершения налогооблагаемых операций с импортируемыми подакцизными товарами</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210540/bssPhr6/"></a><a data-anchor="/document/16/210540/dfas7rh6co/" data-dfa="dfas7rh6co"></a>Дата совершения операций по импортируемым подакцизным товарам – дата их выпуска в соответствии с таможенной процедурой импорта&nbsp;(<span num="3" target="_self" lnktype="intlnk" title="Датой совершения налогооблагаемых операций по ввозимым подакцизным товарам является дата их выпуска в соответствии с таможенной процедурой импорта." class="doc">ч. 2</span> ст. 286 НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210540/dfasgsugs3/" data-dfa="dfasgsugs3"></a><a data-anchor="/document/16/210540/bssPhr7/"></a>импортер, который ввозит подакцизные товары, должен использовать ставки акцизного налога на дату принятия таможенной декларации. Исключение – товары, которые перемещают через таможенную границу трубопроводным транспортом.</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/210540/bssPhr8/"></a><a data-anchor="/document/16/210540/dfas76ayz6/" data-dfa="dfas76ayz6"></a>(<span num="39" target="_self" lnktype="intlnk" title="" class="doc">ст. 324</span> Таможенного кодекса)</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/210540/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210540/bssPhr9/"></a><a data-anchor="/document/16/210540/dfashxm2u7/" data-dfa="dfashxm2u7"></a>Порядок исчисления акцизного налога при импорте подакцизных товаров</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210540/bssPhr11/"></a><a data-anchor="/document/16/210540/dfasqdaose/" data-dfa="dfasqdaose"></a>Как и все таможенные платежи, акцизный налог уплачивают в национальной валюте Республики Узбекистан (<span num="6" target="_self" lnktype="intlnk" title="Порядок исчисления таможенных платежей" class="doc">ст. 323</span> Таможенного кодекса).</p><p><a data-anchor="/document/16/210540/bssPhr12/"></a><a data-anchor="/document/16/210540/dfasumpi2h/" data-dfa="dfasumpi2h"></a>Товар импортируют за иностранную валюту. Чтобы уплатить акцизный налог, пересчитайте иностранную валюту на национальную валюту по официальному курсу, установленному ЦБ на дату принятия таможенной декларации (<span num="8" target="_self" lnktype="intlnk" title="Пересчет иностранной валюты для исчисления таможенных платежей" class="doc">ст. 326</span> Таможенного кодекса).</p></div><a data-anchor="/document/16/210540/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210540/bssPhr13/"></a><a data-anchor="/document/16/210540/dfas93hkz5/" data-dfa="dfas93hkz5"></a>Сроки и порядок уплаты акцизного налога при импорте подакцизных товаров</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210540/bssPhr15/"></a><a data-anchor="/document/16/210540/dfasto2mdl/" data-dfa="dfasto2mdl"></a>Акцизный налог по импортируемым подакцизным товарам уплачивается в сроки, установленные таможенным законодательством (<span num="33" target="_self" lnktype="intlnk" title="" class="doc">ст. 297</span> Таможенного кодекса, <span num="46" target="_self" lnktype="intlnk" title="" class="doc">ст. 293</span> НК).</p><p><a data-anchor="/document/16/210540/bssPhr16/"></a><a data-anchor="/document/16/210540/dfas6ggsrk/" data-dfa="dfas6ggsrk"></a>Акцизный налог на импортируемые подакцизные товары уплачивайте до момента или одновременно с принятием таможенный декларации (<span num="13" target="_self" lnktype="intlnk" title="Сроки уплаты таможенных платежей" class="doc">ст. 327</span> Таможенного кодекса).</p><p><a data-anchor="/document/16/210540/bssPhr17/"></a><a data-anchor="/document/16/210540/dfasi71nny/" data-dfa="dfasi71nny"></a>Исключение:</p><ul class="c-list"><li><a data-anchor="/document/16/210540/bssPhr18/"></a><a data-anchor="/document/16/210540/dfas8lhpah/" data-dfa="dfas8lhpah"></a>для условно выпущенных товаров при их использовании в иных целях, чем те, в связи с которыми были предоставлены таможенные льготы по оплате акцизного налога, – первый день несоблюдения ограничений по пользованию и распоряжению товарами;</li><li>для незаконно перемещаемых через таможенную границу подакцизных товаров – день пересечения таможенной границы. Если такой день установить невозможно, сроком уплаты акцизного налога считайте день, когда таможенные органы установили факт незаконного перемещения товаров через таможенную границу.</li></ul><p><a data-anchor="/document/16/210540/bssPhr19/"></a><a data-anchor="/document/16/210540/dfasyoq1vd/" data-dfa="dfasyoq1vd"></a>Импортируемые подакцизные товары, подлежащие обязательной маркировке уплачивают в полном размере до приобретения акцизных марок. Обязательной маркировке подлежат табачные изделия и алкогольные напитки (Положение, <span num="47" target="_self" lnktype="intlnk" title="" class="doc">приложение № 1</span> к ПКМ № 285 от 14.08.1996г., <span num="48" target="_self" lnktype="intlnk" title="" class="doc">ПКМ №49</span> от 20.02.2009г., <span num="49" target="_self" lnktype="intlnk" title="" class="doc">ПКМ № 63</span> от 11.03.2009г.)</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210540/dfasdfigy4/" data-dfa="dfasdfigy4"></a><a data-anchor="/document/16/210540/bssPhr20/"></a>Сумму акцизного налога уплачивают на казначейские лицевые счета таможенных органов.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210540/dfasw5fmht/" data-dfa="dfasw5fmht"></a></p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/210540/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/210540/bssPhr21/"></a><a data-anchor="/document/16/210540/dfasnr284k/" data-dfa="dfasnr284k"></a>Отсрочка или рассрочка уплаты акцизного налога при импорте подакцизных товаров</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210540/bssPhr23/"></a><a data-anchor="/document/16/210540/dfashawz0i/" data-dfa="dfashawz0i"></a>Плательщик акцизного налога – импортер вправе обратиться в таможенные органы с просьбой об отсрочке или рассрочке уплаты. Для этого он подает заявление, содержащее письменное обязательство по уплате сумм таможенных платежей, акцизного налога. Также требуется документ, подтверждающий обеспечение уплаты таможенных платежей, акцизного налога – внесением денежных средств на казначейский лицевой счет таможенного органа, залогом товаров, представлением гарантии банка, страхованием обязательства по уплате таможенных платежей, акцизного налога или поручительством (<span num="16" target="_self" lnktype="intlnk" title="Условия предоставления отсрочки или рассрочки уплаты таможенных платежей" class="doc">ст. 329</span> Таможенного кодекса).</p><p><a data-anchor="/document/16/210540/bssPhr24/"></a><a data-anchor="/document/16/210540/dfaskd210o/" data-dfa="dfaskd210o"></a>Срок отсрочки или рассрочки уплаты акцизного налога не может превышать 60 календарных дней и быть менее 14 календарных дней со дня принятия таможенной декларации.</p><p><a data-anchor="/document/16/210540/bssPhr25/"></a><a data-anchor="/document/16/210540/dfasdq9o7m/" data-dfa="dfasdq9o7m"></a>За исключением предприятий - производителей в отношении ввозимых на таможенную территорию товаров, используемых для производства продукции. Данным предприятиям отсрочки или рассрочка по уплате акцизного налога предоставляется на 120 календарных дней со дня принятия таможенной декларации.</p><p><a data-anchor="/document/16/210540/bssPhr26/"></a><a data-anchor="/document/16/210540/dfasn3bkqe/" data-dfa="dfasn3bkqe"></a>В течение пяти рабочих дней с момента обращения плательщика, таможенные органы принимают решение:</p><ul class="c-list"><li><a data-anchor="/document/16/210540/bssPhr27/"></a><a data-anchor="/document/16/210540/dfasmtkgmr/" data-dfa="dfasmtkgmr"></a>либо предоставляют отсрочку или рассрочку уплаты акцизного налога с указанием срока;</li><li>либо отказывают в предоставлении отсрочки или рассрочки с указанием причин отказа.</li></ul><p><a data-anchor="/document/16/210540/bssPhr28/"></a><a data-anchor="/document/16/210540/dfasgggcc4/" data-dfa="dfasgggcc4"></a>Основанием для отказа может послужить отсутствие каких-либо документов из необходимого перечня либо наличие задолженности по уплате таможенных платежей на момент подачи заявления в таможенные органы.</p><p><a data-anchor="/document/16/210540/bssPhr29/"></a><a data-anchor="/document/16/210540/dfasmkgcgh/" data-dfa="dfasmkgcgh"></a>За каждый день предоставленной отсрочки или рассрочки взимаются проценты, исчисляемые от суммы таможенных платежей, в размере 50 процентов от ставки рефинансирования, установленной ЦБ, с пересчетом на один день.</p><p><a data-anchor="/document/16/210540/bssPhr30/"></a><a data-anchor="/document/16/210540/dfasxylygm/" data-dfa="dfasxylygm"></a>Проценты уплачивайте до уплаты или одновременно с уплатой таможенных платежей, на которые предоставлялась отсрочка или рассрочка, но не позднее дня, следующего за днем истечения срока предоставленной отсрочки или рассрочки.</p><p><a data-anchor="/document/16/210540/bssPhr31/"></a><a data-anchor="/document/16/210540/dfasouafw7/" data-dfa="dfasouafw7"></a>До 1 февраля 2022 года проценты не начислялись и не уплачивались при предоставлении отсрочки или рассрочки уплаты таможенных платежей в случаях, предусмотренных в частях <span num="23" target="_self" lnktype="intlnk" title="" class="doc">5</span> и <span num="24" target="_self" lnktype="intlnk" title="" class="doc">10</span> статьи 329 Таможенного Кодекса (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 332 Таможенного кодекса в предыдущей редакции).</p><p><a data-anchor="/document/16/210540/bssPhr32/"></a><a data-anchor="/document/16/210540/dfasksffsa/" data-dfa="dfasksffsa"></a>Проценты не начисляются и не уплачиваются при предоставлении отсрочки или рассрочки уплаты таможенных платежей:</p><ul class="c-list"><li><a data-anchor="/document/16/210540/bssPhr33/"></a><a data-anchor="/document/16/210540/dfasfhod5p/" data-dfa="dfasfhod5p"></a>уполномоченным экономическим операторам;</li><li><a data-anchor="/document/16/210540/dfas1dbbzu/" data-dfa="dfas1dbbzu"></a>в случаях, предусмотренных в частях <span num="26" target="_self" lnktype="intlnk" title="" class="doc">5</span> и <span num="27" target="_self" lnktype="intlnk" title="" class="doc">11</span> статьи 329 Таможенного кодекса;</li><li><a data-anchor="/document/16/210540/dfasfgdtnl/" data-dfa="dfasfgdtnl"></a>при оплате полной суммы таможенных платежей в первые 14 календарных дней со дня предоставленной отсрочки или рассрочки (<span num="28" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 332 Таможенного кодекса в редакции Закона № ЗРУ-748 от 01.02.2022 г.).</li></ul><p><a data-anchor="/document/16/210540/bssPhr34/"></a><a data-anchor="/document/16/210540/dfashcphxv/" data-dfa="dfashcphxv"></a>Президент или Кабинет Министров могут предоставлять отсрочку или рассрочку на более длительные сроки, без обеспечения уплаты таможенных платежей.</p><p><a data-anchor="/document/16/210540/bssPhr35/"></a><a data-anchor="/document/16/210540/dfasr4566l/" data-dfa="dfasr4566l"></a>О том, кто освобожден от уплаты акцизного налога читайте в рекомендации «<span num="18" target="_self" lnktype="intlnk" title="Какие льготы действуют по акцизному налогу" class="doc">Какие льготы действуют по акцизному налогу</span>».</p></div><p><a data-anchor="/document/16/210540/dfas9g7vsu/" data-dfa="dfas9g7vsu"></a><a data-anchor="/document/16/210540/bssPhr36/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/210540/dfasdsnauv/" data-dfa="dfasdsnauv"></a><a data-anchor="/document/16/210540/bssPhr37/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

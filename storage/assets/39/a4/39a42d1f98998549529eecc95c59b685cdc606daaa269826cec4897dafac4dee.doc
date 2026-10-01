@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">НСБУ Минфина РУз от 02.11.1998 №№ 58, НСБУ № 17</div><h2 class="auth__title">Национальный стандарт бухгалтерского учета Республики Узбекистан (НСБУ № 17) Договоры подряда на капитальное строительство</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/90/4000/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/4000/dfasi3t0ef/"></a><a data-anchor="/document/90/4000/titr7xsn/"></a>Зарегистрирован<br>Министерством юстиции Республики Узбекистан<br>от 23 декабря 1998 г.<br>Регистрационный № 579</p><p style="text-align:right"><a data-anchor="/document/90/4000/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/4000/dfasa1cg7h/"></a>&#171;УТВЕРЖДЕН&#187;<br>Министерство финансов<br>Республики Узбекистан<br>Заместитель министра<br>Э.Ф. ГАДОЕВ<br>2 ноября 1998 года № 58</p><div class="doc__untyped doc-start" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit12/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/4000/dfasxfgfd0/"></a>НАЦИОНАЛЬНЫЙ СТАНДАРТ<br>бухгалтерского учета Республики Узбекистан (НСБУ № 17) Договоры подряда на капитальное строительство</span></div><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit13/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/4000/dfas3b183h/"></a><a data-anchor="/document/90/4000/tpos1/"></a><a data-anchor="/document/90/4000/tit1/"></a>ОБЩИЕ ПОЛОЖЕНИЯ</span></div><p><a data-anchor="/document/90/4000/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/4000/dfaswvdtc1/"></a>1. Настоящий Национальный стандарт бухгалтерского учета (НСБУ) разработан на основе&#160;Закона&#160;Республики Узбекистан &#171;О бухгалтерском учете&#187; и является элементом системы нормативного регулирования бухгалтерского учета в Республике Узбекистан.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit14/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/4000/dfast99mkr/"></a><a data-anchor="/document/90/4000/tpos2/"></a><a data-anchor="/document/90/4000/tit2/"></a>ЦЕЛЬ СТАНДАРТА</span></div><p><a data-anchor="/document/90/4000/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/4000/dfasq2v0cq/"></a>2. Целью данного стандарта является определение методики бухгалтерского учета доходов и расходов, связанных с договорами строительных подрядов. Основным вопросом в учете договоров подряда является распределение доходов и затрат по договору подряда, так как даты вступления в силу подряда и его завершения обычно приходятся на разные отчетные периоды. Для определения момента, когда доходы и расходы по договору подряда должны отражаться в отчете о финансовых результатах в качестве доходов и расходов, настоящий стандарт использует критерии признания, установленные в принципах подготовки и представления финансовой отчетности (<a data-anchor="/document/90/4000/backlinkanchor1/" data-role="backlink-anchor"></a><a class="npd" title="" href="https://1gb.uz/#/document/90/3992/">НСБУ &#171;Концептуальная основа для подготовки и представления финансовой отчетности&#187;</a>).</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit15/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/4000/dfas5on7si/"></a><a data-anchor="/document/90/4000/tpos3/"></a><a data-anchor="/document/90/4000/tit3/"></a>СФЕРА ДЕЙСТВИЯ</span></div><p><a data-anchor="/document/90/4000/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/4000/dfast60si0/"></a>3. Настоящий стандарт применяется подрядчиками для подготовки и включения в финансовую отчетность результатов по договорам подряда на капитальное строительство.</p><p><a data-anchor="/document/90/4000/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/4000/dfasc5hmet/"></a>Данный стандарт не распространяется на застройщиков &#8211; субъектов, производящих капитальное строительство для собственных нужд (хозспособ), т. к. они не получают доходов от этой деятельности, а все понесенные ими затраты капитализируются.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit16/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/4000/dfas1fiuok/"></a><a data-anchor="/document/90/4000/tpos4/"></a><a data-anchor="/document/90/4000/tit4/"></a>ОПРЕДЕЛЕНИЯ</span></div><p><a data-anchor="/document/90/4000/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/4000/dfasybst7h/"></a>4. Термины, используемые в этом стандарте:</p><p><a data-anchor="/document/90/4000/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/4000/dfas6f6gdb/"></a>Договор подряда на капитальное строительство (в дальнейшем &#8211; договор строительного подряда) &#8211; это договор, согласно которому подрядчик обязуется на свой риск выполнить строительные работы по заданию заказчика, а заказчик соглашается принять и оплатить выполненные работы. Договор строительного подряда может заключаться на строительство одного объекта или группы объектов, тесно взаимосвязанных или взаимозависимых по условиям их проектирования и использования. Кроме того, договоры строительного подряда могут включать работы по оказанию услуг, напрямую связанных со строительством объектов (то есть услуги дирекции строящихся объектов и архитекторов и т. п.).</p><p><a data-anchor="/document/90/4000/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/4000/dfasgm5gdz/"></a>Договор строительного подряда с фиксированной ценой &#8211; это договор, по которому стороны соглашаются на фиксированную цену (стоимость) строительных работ или на фиксированную ставку единицы выполненных работ с оговоркой о скользящей цене.</p><p><a data-anchor="/document/90/4000/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/4000/dfasslrg5r/"></a>Договор строительного подряда по договорной цене &#8211; это договор строительного подряда, по которому подрядчику возмещаются фактические затраты, непосредственно связанные с выполнением строительных работ, в суммах, допускаемых заказчиком, включая оговоренное в договоре вознаграждение.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit17/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/4000/dfas7f93ll/"></a><a data-anchor="/document/90/4000/tpos5/"></a><a data-anchor="/document/90/4000/tit5/"></a>ПООБЪЕКТНЫЕ ДОГОВОРЫ И ГРУППЫ ДОГОВОРОВ СТРОИТЕЛЬНОГО ПОДРЯДА</span></div><p><a data-anchor="/document/90/4000/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/4000/dfas6r3de7/"></a>5. Требования данного стандарта применяются отдельно к каждому договору строительного подряда. В определенных обстоятельствах стандарт необходимо применять к отдельным компонентам одного договора подряда или к целой группе договоров подряда для того, чтобы отразить сущность договора подряда или группы договоров.</p><p><a data-anchor="/document/90/4000/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/4000/dfasgfwusg/"></a>6. Если составляется один договор подряда сразу на несколько объектов, то строительство каждого объекта следует рассматривать сразу как отдельный договор строительного подряда, если выполняются следующие условия:</p><p><a data-anchor="/document/90/4000/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/4000/dfasobm8xz/"></a>по каждому объекту имеется отдельное предложение по договорной стоимости строительных работ;</p><p><a data-anchor="/document/90/4000/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/4000/dfasdpvcet/"></a>по каждому объекту было достигнуто соглашение и у подрядчика и заказчика имеется возможность принятия или отказа от отдельных объектов;</p><p><a data-anchor="/document/90/4000/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/4000/dfas1wsxai/"></a>доходы и расходы могут быть определены по каждому объекту.</p><p><a data-anchor="/document/90/4000/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/4000/dfas0ssg2u/"></a>7. Договор строительного подряда может предусматривать строительство дополнительного объекта по выбору заказчика или может быть дополнен строительством дополнительного объекта. Строительство дополнительного объекта следует рассматривать как отдельный договор в том случае, если:</p><p><a data-anchor="/document/90/4000/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/4000/dfaslciygb/"></a>объект существенно отличается по проектированию, технологии или функциям от того или тех объектов, которые были включены в первоначальный договор;</p><p><a data-anchor="/document/90/4000/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/4000/dfas5804la/"></a>договорная стоимость на дополнительный объект согласуется без учета договорной стоимости по первоначальному договору.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit18/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/4000/dfas4czm27/"></a><a data-anchor="/document/90/4000/tpos6/"></a><a data-anchor="/document/90/4000/tit6/"></a>ДОХОДЫ ПО ДОГОВОРАМ СТРОИТЕЛЬНОГО ПОДРЯДА</span></div><p><a data-anchor="/document/90/4000/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/4000/dfas0gnwf3/"></a>8. Доход от подряда включает в себя:</p><p><a data-anchor="/document/90/4000/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/4000/dfasd8cvpi/"></a>первоначальную договорную стоимость строительных работ;</p><p><a data-anchor="/document/90/4000/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/4000/dfas0s9d2a/"></a>доходы от изменения договора, доходы по претензиям и поощрительные выплаты.</p><p><a data-anchor="/document/90/4000/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/4000/dfasnnzd4d/"></a>9. Доход от договора строительного подряда определяется по текущей стоимости на момент начисления. На измерение дохода от договора подряда влияют различные непредвиденные работы, которые зависят от результатов будущих операций.</p><p><a data-anchor="/document/90/4000/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/4000/dfasct0huo/"></a>10. Изменение договора строительного подряда &#8211; это изменение в соответствии с действующим законодательством.</p><p><a data-anchor="/document/90/4000/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/4000/dfaso68rme/"></a>11. Доходы по взаимным претензиям &#8211; это сумма, которую подрядчик намерен получить от заказчика, нарушившего договоры подряда.</p><p><a data-anchor="/document/90/4000/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/4000/dfasilk0c3/"></a>12. Поощрительные платежи &#8211; это дополнительные суммы, выплаченные подрядчику при выполнении или перевыполнении определенных в договоре подряда работ. Поощрительные выплаты включаются в доход методом начисления.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit19/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/4000/dfase8avyg/"></a><a data-anchor="/document/90/4000/tpos7/"></a><a data-anchor="/document/90/4000/tit7/"></a>ЗАТРАТЫ ПО ДОГОВОРАМ СТРОИТЕЛЬНОГО ПОДРЯДА</span></div><p><a data-anchor="/document/90/4000/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/4000/dfascrazgh/"></a>13. К затратам по договору подряда относятся:</p><p><a data-anchor="/document/90/4000/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/4000/dfasflg9ux/"></a>прямые затраты согласно Положению о составе затрат, которые связаны с данным договором подряда;</p><p><a data-anchor="/document/90/4000/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/4000/dfaswa14zg/"></a>косвенные затраты (накладные расходы) согласно Положению о составе затрат, которые относятся к общей строительной деятельности по договору подряда и могут быть распределены по договорам подряда и включаться в стоимость договора;</p><p><a data-anchor="/document/90/4000/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/4000/dfasqcbo2s/"></a>прочие затраты, возмещаемые заказчиком по условиям договора строительного подряда, такие как затраты на опытно-конструкторские работы, возмещение расходов, по которым оговорено в условиях договора.</p><p><a data-anchor="/document/90/4000/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/4000/dfas2fva0p/"></a>14. Затраты, которые не могут быть отнесены к деятельности по договору подряда или не могут быть распределены, исключаются из затрат по договору строительного подряда (например, административные расходы, затраты на опытно-конструкторские работы, расходы на реализацию, возмещение которых не определено в условиях договора подряда, и т. д.).</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit20/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/4000/dfaslub2p6/"></a><a data-anchor="/document/90/4000/tpos8/"></a><a data-anchor="/document/90/4000/tit8/"></a>ПРИЗНАНИЕ ДОХОДОВ И РАСХОДОВ ПО ДОГОВОРУ СТРОИТЕЛЬНОГО ПОДРЯДА</span></div><p><a data-anchor="/document/90/4000/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/4000/dfasvi0hud/"></a>15. Доходы и расходы следует признавать в качестве доходов и расходов с учетом степени завершения строительства по подряду на дату составления бухгалтерского баланса (т. е. со ссылкой на процент завершения работ по подряду). Доходы и расходы должны учитываться в тех отчетных периодах, в которых они возникли.</p><p><a data-anchor="/document/90/4000/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/4000/dfas66iats/"></a>16. Результат договора строительного подряда с фиксированной ценой оценивается при соблюдении всех следующих условий, если:</p><p><a data-anchor="/document/90/4000/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/4000/dfas229wc9/"></a>общий доход по договору подряда может быть измерен;</p><p><a data-anchor="/document/90/4000/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/4000/dfas60ikhr/"></a>подрядчик получает экономическую выгоду;</p><p><a data-anchor="/document/90/4000/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/4000/dfas701wn1/"></a>затраты и процент выполнения строительных работ возможно определить и включить в бухгалтерский баланс;</p><p><a data-anchor="/document/90/4000/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/4000/dfasspr0s8/"></a>фактически понесенные затраты по договору подряда могут быть сопоставлены со сметными нормами.</p><p><a data-anchor="/document/90/4000/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/4000/dfasab45xn/"></a>17. Результат договора строительного подряда &#171;по договорной цене&#187; может оцениваться при соблюдении всех нижеследующих условий, если:</p><p><a data-anchor="/document/90/4000/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/4000/dfas1ey23c/"></a>подрядчик получает экономическую выгоду;</p><p><a data-anchor="/document/90/4000/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/4000/dfas12dlt5/"></a>затраты и процент выполнения строительных работ возможно определить и включить в бухгалтерский баланс.</p><p><a data-anchor="/document/90/4000/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/4000/dfasyu7vhc/"></a>18. Если, когда в отношении получения суммы, уже включенной в доход по договору строительного подряда и уже отраженной в отчете о финансовых результатах, возникает неопределенность, тогда недополученная сумма или сумма, вероятность которой утрачена, учитывается как расход, а не как корректировка суммы дохода по договору строительного подряда.</p><p><a data-anchor="/document/90/4000/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/4000/dfasviycwb/"></a>19. Процент выполненных работ по договору строительного подряда измеряется в зависимости от вида договора следующими методами:</p><p><a data-anchor="/document/90/4000/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/4000/dfasorirfr/"></a>пропорцию затрат, понесенных по выполненным строительным работам на определенную дату, к общим сметным затратам по договору;</p><p><a data-anchor="/document/90/4000/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/4000/dfas1ggdt8/"></a>проведение контрольного обмера;</p><p><a data-anchor="/document/90/4000/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/4000/dfasgpigxn/"></a>завершение физической части работ по договору строительного подряда.</p><p><a data-anchor="/document/90/4000/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/4000/dfash6dohg/"></a>Промежуточные выплаты и авансовые платежи, полученные от заказчиков, не отражают уровень выполненных работ.</p><p><a data-anchor="/document/90/4000/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/4000/dfasi5taod/"></a>20. В тех случаях, когда результат по договору строительного подряда не может быть определен достоверно:</p><p><a data-anchor="/document/90/4000/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/4000/dfasrkbumu/"></a>доход должен признаваться только в той степени, в какой понесенные по договору подряда затраты, вероятно, будут возмещены;</p><p><a data-anchor="/document/90/4000/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/4000/dfasyy4u0g/"></a>затраты по строительству должны признаваться в качестве расходов по данным первичного учета в период, в течение которого они были фактически понесены.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit21/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/4000/dfasxq8xul/"></a><a data-anchor="/document/90/4000/tpos9/"></a><a data-anchor="/document/90/4000/tit9/"></a>ПРИЗНАНИЕ ПРЕДПОЛАГАЕМЫХ УБЫТКОВ</span></div><p><a data-anchor="/document/90/4000/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/4000/dfas98bwbk/"></a>21. В тех случаях, когда общие затраты превышают над доходами по договору строительного подряда, предполагаемые убытки должны признаваться как расходы настоящего отчетного периода.</p><p><a data-anchor="/document/90/4000/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/4000/dfas5l0667/"></a>Сумма таких убытков определяется независимо:</p><p><a data-anchor="/document/90/4000/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/4000/dfaspb714i/"></a>от факта начала работы по договору подряда;</p><p><a data-anchor="/document/90/4000/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/4000/dfas0gwwkp/"></a>от процента выполнения работ по договору подряда;</p><p><a data-anchor="/document/90/4000/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/4000/dfasrby3ye/"></a>от суммы валового дохода, ожидаемого по другим договорам подряда, которые рассматриваются как единый доход строительного подряда.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit22/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/4000/dfasqnalyl/"></a><a data-anchor="/document/90/4000/tpos10/"></a><a data-anchor="/document/90/4000/tit10/"></a>РАСКРЫТИЕ</span></div><p><a data-anchor="/document/90/4000/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/4000/dfasy8i41o/"></a>22. Подрядчик должен раскрывать:</p><p><a data-anchor="/document/90/4000/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/4000/dfass473lr/"></a>сумму дохода по каждому договору строительного подряда за отчетный период;</p><p><a data-anchor="/document/90/4000/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/4000/dfastdr8i8/"></a>методы, используемые для определения дохода по договору подряда, признаваемого за отчетный период;</p><p><a data-anchor="/document/90/4000/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/4000/dfas3y5u63/"></a>методы, используемые для определения стадии процента выполнения работ по незавершенным договорам строительного подряда.</p><p><a data-anchor="/document/90/4000/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/4000/dfasabwhsb/"></a>Изменения в методах оценки доходов и затрат по договорам строительного подряда также должны раскрываться как изменения в учетных оценках, признаваемых вОтчете о финансовых результатах&#160;(<a data-anchor="/document/90/4000/backlinkanchor2/" data-role="backlink-anchor"></a><a class="npd" title="" href="https://1gb.uz/#/document/90/4005/">НСБУ № 3</a>) за отчетный и последующие периоды.</p><p><a data-anchor="/document/90/4000/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/4000/dfas6k0ofi/"></a>23. По незавершенным на отчетную дату договорам строительного подряда подрядчик должен раскрывать следующую информацию:</p><p><a data-anchor="/document/90/4000/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/4000/dfasrd8pt2/"></a>совокупную сумму фактически понесенных затрат и признанного дохода (за вычетом признанных убытков);</p><p><a data-anchor="/document/90/4000/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/4000/dfasdmidor/"></a>полученную сумму предоплаты;</p><p><a data-anchor="/document/90/4000/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/4000/dfas4uu2cn/"></a>сумму удержаний.</p><p><a data-anchor="/document/90/4000/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/4000/dfas22v0dw/"></a>24. Подрядчик должен отражать в финансовых отчетах:</p><p><a data-anchor="/document/90/4000/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/4000/dfashsmcva/"></a>дебиторскую задолженность заказчиков по строительным работам;</p><p><a data-anchor="/document/90/4000/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/4000/dfas83sa8i/"></a>кредиторскую задолженность заказчикам по строительным работам.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/4000/tit23/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/4000/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/4000/dfas41g6ud/"></a><a data-anchor="/document/90/4000/tpos11/"></a><a data-anchor="/document/90/4000/tit11/"></a>ДАТА ВСТУПЛЕНИЯ В СИЛУ</span></div><p><a data-anchor="/document/90/4000/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/4000/dfasolqb3g/"></a>25. Настоящий Национальный стандарт бухгалтерского учета вступает в силу с момента регистрации в Министерстве юстиции Республики Узбекистан.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

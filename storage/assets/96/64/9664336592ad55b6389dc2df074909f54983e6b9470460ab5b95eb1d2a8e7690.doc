@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассчитать акцизный налог при производстве подакцизных товаров</h2><div class="doc-snippet"><a data-anchor="/document/16/221323/dfass13vzy/" data-dfa="dfass13vzy"></a><a data-anchor="/document/16/221323/bssPhr2/"></a>Какие бывают ставки акцизного налога, как определить дату совершения операций с&nbsp;подакцизными товарами, услугами узнаете из&nbsp;рекомендации. В&nbsp;материале найдете формулы расчета акцизного налога при производстве подакцизного товара по&nbsp;фиксированной, адвалорной и&nbsp;комбинированной ставкам. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/221323/bssPhr5/"></a><a data-anchor="/document/16/221323/dfaspx0zfg/" data-dfa="dfaspx0zfg"></a>Перечень подакцизных товаров и&nbsp;ставки акцизного налога установлены <a data-anchor="/document/16/221323/backlinkanchor28/" type="backlink-anchor"></a><a href="#/document/90/20918" class="link npd" target="_self" title="" moduleId="90" documentId="20918">Налоговым кодексом</a>.</p><a data-anchor="/document/16/221323/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221323/bssPhr6/"></a><a data-anchor="/document/16/221323/dfaso1y5sv/" data-dfa="dfaso1y5sv"></a>Виды ставок акцизного налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221323/bssPhr11/"></a><a data-anchor="/document/16/221323/dfashzv0e9/" data-dfa="dfashzv0e9"></a>Налоговый кодекс выделяет три вида ставок акцизного налога:</p><ul class="c-list"><li><a data-anchor="/document/16/221323/bssPhr12/"></a><a data-anchor="/document/16/221323/dfasgvkoq1/" data-dfa="dfasgvkoq1"></a>фиксированные&nbsp;— устанавливаются в&nbsp;абсолютной сумме на&nbsp;единицу измерения в&nbsp;натуральном выражении;</li><li>адвалорные&nbsp;— устанавливаются в&nbsp;процентах к&nbsp;стоимости товара или услуги;</li><li>комбинированные&nbsp;— состоят из&nbsp;адвалорной и&nbsp;фиксированной ставок.</li></ul><p><a data-anchor="/document/16/221323/bssPhr13/"></a><a data-anchor="/document/16/221323/dfasih31cn/" data-dfa="dfasih31cn"></a>Ставки на&nbsp;акцизные товары и&nbsp;услуги приведены в&nbsp;статьях <span num="5" target="_self" lnktype="intlnk" title="" class="doc">289</span>, <span num="6" target="_self" lnktype="intlnk" title="" class="doc">289-1</span>, <span num="7" target="_self" lnktype="intlnk" title="" class="doc">289-2</span>, <span num="8" target="_self" lnktype="intlnk" title="" class="doc">289-3</span>&nbsp;НК.</p><p><a data-anchor="/document/16/221323/bssPhr14/"></a><a data-anchor="/document/16/221323/dfasdib1g6/" data-dfa="dfasdib1g6"></a>Чтобы определить применимую ставку на&nbsp;подакцизные товары, учитывайте даты совершения операций с&nbsp;подакцизными товарами.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221323/bssPhr15/"></a><a data-anchor="/document/16/221323/dfasnbglwz/" data-dfa="dfasnbglwz"></a>Перечень производимых подакцизных товаров определен в статьях 289-1, 289-2, 289-3 НК</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221323/bssPhr16/"></a><a data-anchor="/document/16/221323/dfasy6qnas/" data-dfa="dfasy6qnas"></a>С <strong>1 января 2026 года</strong> статьи <span num="56" target="_self" lnktype="intlnk" title="" class="doc">289-1</span>, <span num="57" target="_self" lnktype="intlnk" title="" class="doc">289-2</span>, <span num="58" target="_self" lnktype="intlnk" title="" class="doc">289-3</span> НК действуют в редакции Закона от 24.12.2025 № ЗРУ-1108.</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/221323/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221323/bssPhr17/"></a><a data-anchor="/document/16/221323/dfas2gw21g/" data-dfa="dfas2gw21g"></a>Даты совершения операций с&nbsp;производимыми подакцизными товарами, услугами</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221323/bssPhr19/"></a><a data-anchor="/document/16/221323/dfas43d8qa/" data-dfa="dfas43d8qa"></a>Даты совершения операций с&nbsp;подакцизными товарами, услугами определяются в&nbsp;соответствии со <span num="18" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;242</span>&nbsp;НК (<span num="19" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;286&nbsp;НК).</p><p><a data-anchor="/document/16/221323/bssPhr20/"></a><a data-anchor="/document/16/221323/dfasnxtcg8/" data-dfa="dfasnxtcg8"></a>То&nbsp;есть, датами совершения операций с&nbsp;производимыми подакцизными товарами, услугами являются те&nbsp;же даты, что и&nbsp;при совершении оборота по&nbsp;реализации товаров, услуг:</p><ul class="c-list"><li><a data-anchor="/document/16/221323/bssPhr21/"></a><a data-anchor="/document/16/221323/dfasqahna1/" data-dfa="dfasqahna1"></a>дата выставления поставщиком счета-фактуры;</li><li>дата отгрузки, передачи товаров, если указанная дата предшествует дате выставления счета-фактуры;</li><li>дата передачи права собственности на&nbsp;товар покупателю, если отгрузка, передача товара не&nbsp;осуществляется;</li><li>дата оформления, подписания счета-фактуры или иного документа, подтверждающего факт оказания услуг;</li><li>дата передачи подакцизных товаров, оказания услуг для собственных нужд на&nbsp;основании соответствующего внутреннего документа.</li></ul><p><a data-anchor="/document/16/221323/bssPhr22/"></a><a data-anchor="/document/16/221323/dfashb5c84/" data-dfa="dfashb5c84"></a>При передаче заложенных подакцизных товаров залогодателем датой совершения оборота по&nbsp;реализации для залогодателя является дата перехода права собственности на&nbsp;предмет залога.</p><p><a data-anchor="/document/16/221323/bssPhr23/"></a><a data-anchor="/document/16/221323/dfas2s4n9z/" data-dfa="dfas2s4n9z"></a>При реализации подакцизных товаров по&nbsp;договору комиссии или поручения датой реализации признается дата ее&nbsp;реализации комиссионером, поверенным конечному покупателю.</p></div><a data-anchor="/document/16/221323/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/221323/bssPhr24/"></a><a data-anchor="/document/16/221323/dfastd4rbg/" data-dfa="dfastd4rbg"></a>Налоговая база</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221323/bssPhr27/"></a><a data-anchor="/document/16/221323/dfas3pw5eg/" data-dfa="dfas3pw5eg"></a>Определение налоговой базы по&nbsp;акцизному налогу зависит от&nbsp;того, какой вид ставки установлен в&nbsp;отношении каждого вида подакцизного товара (<span num="20" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;285&nbsp;НК).</p><p><a data-anchor="/document/16/221323/bssPhr28/"></a><a data-anchor="/document/16/221323/dfasw7376c/" data-dfa="dfasw7376c"></a>Корректировка налоговой базы производится в&nbsp;случаях и&nbsp;в&nbsp;порядке, предусмотренных для НДС в&nbsp;соответствии со <span num="21" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;257</span>&nbsp;НК (<span num="22" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;287&nbsp;НК</span>). Подробнее в данной&nbsp;рекомендации.</p></div><a data-anchor="/document/16/221323/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/221323/bssPhr29/"></a><a data-anchor="/document/16/221323/dfasspo981/" data-dfa="dfasspo981"></a>Расчет акцизного налога по&nbsp;фиксированной ставке</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221323/bssPhr31/"></a><a data-anchor="/document/16/221323/dfas2eonq3/" data-dfa="dfas2eonq3"></a>Фиксированные ставки акцизного налога&nbsp;— ставки, выраженные в&nbsp;абсолютной сумме на&nbsp;единицу измерения в&nbsp;натуральном выражении.</p><p><a data-anchor="/document/16/221323/bssPhr32/"></a><a data-anchor="/document/16/221323/dfas2y6lr3/" data-dfa="dfas2y6lr3"></a>По&nbsp;подакцизным товарам, услугам, в&nbsp;отношении которых установлены фиксированные ставки налоговой базой является объем подакцизных товаров, услуг в&nbsp;натуральном выражении (<span num="23" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;285&nbsp;НК).</p><p><a data-anchor="/document/16/221323/bssPhr33/"></a><a data-anchor="/document/16/221323/dfast3vt0t/" data-dfa="dfast3vt0t"></a>Фиксированная ставка акцизного налога не&nbsp;зависит от&nbsp;цены реализации подакцизных товаров или услуг. Рассчитывайте акцизный налог по&nbsp;формуле:</p><p style="text-align:center"><a data-anchor="/document/16/221323/bssPhr34/"></a><a data-anchor="/document/16/221323/dfas935oyl/" data-dfa="dfas935oyl"></a>А = Кт × Сф,</p><p><a data-anchor="/document/16/221323/bssPhr35/"></a><a data-anchor="/document/16/221323/dfasgrt9nr/" data-dfa="dfasgrt9nr"></a>где:<br>А&nbsp;— сумма акцизного налога;<br>Кт&nbsp;— количество реализуемого, переданного подакцизного товара;<br>Сф&nbsp;— фиксированная ставка акцизного налога в&nbsp;сумах.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/221323/bssPhr36/"></a><a data-anchor="/document/16/221323/dfas8klzgf/" data-dfa="dfas8klzgf"></a>Как рассчитать акцизный налог при фиксированной ставке</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221323/bssPhr37/"></a><a data-anchor="/document/16/221323/dfasmx47rk/" data-dfa="dfasmx47rk"></a>На&nbsp;бензин АИ-80&nbsp;с апреля&nbsp;2026 года установлена ставка акцизного налога в&nbsp;размере 402 000 сумов за&nbsp;одну тонну (<span num="9" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;статьи&nbsp;289-3&nbsp;НК). Производитель продал в&nbsp;мае 10&nbsp;тонн бензина. Акцизный налог составил:<br>4 020 000 сумов = 10&nbsp;т × 402 000 сумов.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/221323/bssPhr38/"></a><a data-anchor="/document/16/221323/dfaskptznl/" data-dfa="dfaskptznl"></a>Как рассчитать акцизный налог по напиткам, содержащим сахар,&nbsp;в 2026 году</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/221323/bssPhr39/"></a><a data-anchor="/document/16/221323/dfas0q25g5/" data-dfa="dfas0q25g5"></a>С 1 апреля 2026 года ставки на напитки дифференцированы. Напитки, упакованные в потребительскую упаковку (за исключением напитков, изготовленных предприятиями общественного питания и индивидуальными предпринимателями и реализованных потребителям) имеют следующие ставки акцизного налога в зависимости от вида и содержания сахара в 100 мл напитка (ст. 289-3 НК):</p><p><a data-anchor="/document/16/221323/bssPhr40/"></a><a data-anchor="/document/16/221323/dfasflefpw/" data-dfa="dfasflefpw"></a><strong>напитки, содержащие сахар:</strong></p><ul class="c-list"><li><a data-anchor="/document/16/221323/bssPhr41/"></a><a data-anchor="/document/16/221323/dfaswfkmni/" data-dfa="dfaswfkmni"></a>до 5 граммов: 500 сумов за 1 литр;</li><li>от 5 до 10 граммов: 515 сумов за 1 литр;</li><li>10 граммов и выше: 535 сумов за 1 литр.</li></ul><p><a data-anchor="/document/16/221323/bssPhr42/"></a><a data-anchor="/document/16/221323/dfastv9owe/" data-dfa="dfastv9owe"></a><strong>напитки, содержащие другие подслащивающие или вкусоароматические вещества</strong> – 500 сумов за 1 литр. Эта ставка установлена с 1 января 2026 года и не меняется;</p><p><a data-anchor="/document/16/221323/bssPhr43/"></a><a data-anchor="/document/16/221323/dfasx9pn2k/" data-dfa="dfasx9pn2k"></a><strong>энергетические и тонизирующие напитки</strong> – 2 150 сумов за 1 литр.</p><p><a data-anchor="/document/16/221323/bssPhr44/"></a><a data-anchor="/document/16/221323/dfase467ac/" data-dfa="dfase467ac"></a>Производитель в апреле 2026 года реализовал&nbsp;50 000 литров напитков, содержащих сахар до 5 граммов в 100 мл продукта и упакованных в потребительскую упаковку.<br>При ставке акцизного налога&nbsp;500 сумов&nbsp;за 1 литр акцизный налог составил::<br>50 000 х 500 = 25 000 000 сумов.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Включать ли сумму акцизного налога в выручку от реализации либо учитывать&#160;отдельно</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221323/bssPhr46/"></a><a data-anchor="/document/16/221323/dfasgzk181/" data-dfa="dfasgzk181"></a>Нет, не включать.</p><p><a data-anchor="/document/16/221323/bssPhr47/"></a><a data-anchor="/document/16/221323/dfaswvslf2/" data-dfa="dfaswvslf2"></a>Акцизный налог включают&nbsp;в цену реализуемой продукции и учитывают&nbsp;при формировании налоговой базы по НДС (<span num="72" target="_blank" lnktype="intlnk" title="" class="doc">Глава 40</span> НК). При этом сумму акциза не признают&nbsp;доходом предприятия, так как она подлежит перечислению в бюджет.</p><p><a data-anchor="/document/16/221323/bssPhr48/"></a><a data-anchor="/document/16/221323/dfasbzqzov/" data-dfa="dfasbzqzov"></a>В бухгалтерском учете при реализации продукции выручку отражайте&nbsp;по договорной стоимости, а сумму акцизного налога и НДС выделяйте&nbsp;отдельно как обязательства перед бюджетом. Выручку отражайте&nbsp;без учета налогов, а акциз и НДС начисляйте&nbsp;отдельно в корреспонденции со счетом обязательств по налогам.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Подлежит ли корректировке&#160;сумма ранее начисленного акцизного налога при возврате товара</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221323/bssPhr50/"></a><a data-anchor="/document/16/221323/dfasalll1z/" data-dfa="dfasalll1z"></a>Да, подлежит.</p><p><a data-anchor="/document/16/221323/bssPhr51/"></a><a data-anchor="/document/16/221323/dfasnhwzpg/" data-dfa="dfasnhwzpg"></a>При возврате продукции от покупателя корректируют ранее отраженные показатели. Соответственно, уменьшается выручка, а также подлежат корректировке суммы начисленного НДС и акцизного налога. Основанием для&nbsp;корректировки служит корректировочный счет-фактура.</p><p><a data-anchor="/document/16/221323/bssPhr52/"></a><a data-anchor="/document/16/221323/dfassslnuh/" data-dfa="dfassslnuh"></a>Уменьшение суммы акцизного налога при возврате возможно при наличии документального подтверждения возврата продукции и корректного отражения операции в учете, поскольку налоговую базу по акцизу определяют&nbsp;исходя из фактической реализации подакцизной продукции. Корректировочный счет-фактуру при возврате оформляют&nbsp;с отражением всех показателей, включая стоимость реализации, сумму акциза и сумму НДС. При этом база по НДС уменьшается с учетом уменьшения акциза, так как акциз включается в состав налоговой базы по НДС.</p></div></div></div><a data-anchor="/document/16/221323/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/221323/bssPhr53/"></a><a data-anchor="/document/16/221323/dfascxdrlz/" data-dfa="dfascxdrlz"></a>Расчет акцизного налога по&nbsp;адвалорной ставке</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221323/bssPhr55/"></a><a data-anchor="/document/16/221323/dfas06svzg/" data-dfa="dfas06svzg"></a>Адвалорные ставки акцизного налога&nbsp;— ставки, устанавливаемые в&nbsp;процентах к&nbsp;стоимости подакцизного товара или услуги.</p><p><a data-anchor="/document/16/221323/bssPhr56/"></a><a data-anchor="/document/16/221323/dfas9luyce/" data-dfa="dfas9luyce"></a>Адвалорная ставка акцизного налога зависит от&nbsp;цены реализации подакцизных товаров или услуг.</p><p><a data-anchor="/document/16/221323/bssPhr57/"></a><a data-anchor="/document/16/221323/dfas2iwwi4/" data-dfa="dfas2iwwi4"></a>По&nbsp;подакцизным товарам, услугам, в&nbsp;отношении которых установлены адвалорные ставки налоговой базой является стоимость реализованных подакцизных товаров, услуг, но&nbsp;не&nbsp;ниже их&nbsp;фактической себестоимости (<span num="24" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;285&nbsp;НК).</p><p><a data-anchor="/document/16/221323/bssPhr58/"></a><a data-anchor="/document/16/221323/dfasrsfg7r/" data-dfa="dfasrsfg7r"></a>Рассчитывайте акцизный налог при адвалорной ставке по&nbsp;формуле:</p><p style="text-align:center"><a data-anchor="/document/16/221323/bssPhr59/"></a><a data-anchor="/document/16/221323/dfas4s63is/" data-dfa="dfas4s63is"></a>А = Ст × Са,</p><p><a data-anchor="/document/16/221323/bssPhr60/"></a><a data-anchor="/document/16/221323/dfasya9l3y/" data-dfa="dfasya9l3y"></a>где:</p><p><a data-anchor="/document/16/221323/bssPhr61/"></a><a data-anchor="/document/16/221323/dfaslkpe43/" data-dfa="dfaslkpe43"></a>А&nbsp;— сумма акцизного налога;<br>Ст&nbsp;— стоимость реализуемого подакцизного товара или услуги без учета акцизного налога и&nbsp;НДС;<br>Са&nbsp;— адвалорная ставка акцизного налога в&nbsp;процентах.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/221323/bssPhr62/"></a><a data-anchor="/document/16/221323/dfasmy7clc/" data-dfa="dfasmy7clc"></a>Как рассчитать акцизный налог по&nbsp;адвалорной ставке</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221323/bssPhr63/"></a><a data-anchor="/document/16/221323/dfas8yqgvs/" data-dfa="dfas8yqgvs"></a>В&nbsp;2026&nbsp;году ставка акцизного налога на&nbsp;полиэтиленовые гранулы установлена в&nbsp;размере 10&nbsp;процентов от&nbsp;стоимости реализуемого подакцизного товара без учета акцизного налога и&nbsp;НДС (ч. 3 ст. 285&nbsp;НК). При продаже производителем товара на 10 тонн стоимостью 10&nbsp;000&nbsp;000&nbsp;сумов за тонну, акцизный налог составит:<br>10 000&nbsp;000 сумов = 10&nbsp;000&nbsp;000 × 10 × 12%.</p><p><a data-anchor="/document/16/221323/bssPhr64/"></a><a data-anchor="/document/16/221323/dfasi43vvr/" data-dfa="dfasi43vvr"></a><strong>Случай&nbsp;1. </strong>Если производитель продал акцизный товар ниже себестоимости или безвозмездно передал его, адвалорную ставку рассчитывают от&nbsp;фактической себестоимости подакцизного товара.</p><p><a data-anchor="/document/16/221323/bssPhr65/"></a><a data-anchor="/document/16/221323/dfasdtkgz3/" data-dfa="dfasdtkgz3"></a><strong>Случай&nbsp;2. </strong> Если подакцизный товар произведен из&nbsp;давальческого материала или сырья заказчика, акцизный налог с&nbsp;использованием адвалорной ставки рассчитывайте по&nbsp;формуле:<br>А = (Ср + Сд) × Са,<br>где:<br>А&nbsp;— сумма акцизного налога;<br>Ср —стоимость работ без учета акцизного налога и&nbsp;НДС;<br>Сд&nbsp;— стоимость давальческого материала;<br>Са&nbsp;— адвалорная ставка акцизного налога в&nbsp;процентах.</p><p><a data-anchor="/document/16/221323/bssPhr66/"></a><a data-anchor="/document/16/221323/dfaselgbk5/" data-dfa="dfaselgbk5"></a>По&nbsp;подакцизным товарам из&nbsp;давальческого сырья и&nbsp;материалов, налоговая база включает стоимость работ по&nbsp;производству подакцизных товаров и&nbsp;стоимость давальческого сырья и&nbsp;материалов.</p></div></div></div><a data-anchor="/document/16/221323/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/221323/bssPhr67/"></a><a data-anchor="/document/16/221323/dfaszo84vm/" data-dfa="dfaszo84vm"></a>Расчет акцизного налога по&nbsp;комбинированной ставке</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221323/bssPhr69/"></a><a data-anchor="/document/16/221323/dfas6ophwg/" data-dfa="dfas6ophwg"></a>Для расчета акцизного налога по&nbsp;комбинированной ставке одновременно используют адвалорные и&nbsp;фиксированные ставки.</p><p><a data-anchor="/document/16/221323/bssPhr70/"></a><a data-anchor="/document/16/221323/dfasa9xf4p/" data-dfa="dfasa9xf4p"></a>По&nbsp;подакцизным товарам, услугам, в&nbsp;отношении которых установлены комбинированные ставки, налоговой базой является объем подакцизных товаров в&nbsp;натуральном выражении и&nbsp;стоимость реализованных подакцизных товаров, не&nbsp;включающая акцизный налог и&nbsp;НДС (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;6</span>&nbsp;ст.&nbsp;285&nbsp;НК).</p><p><a data-anchor="/document/16/221323/bssPhr71/"></a><a data-anchor="/document/16/221323/dfasleszgw/" data-dfa="dfasleszgw"></a>Комбинированную ставку акцизного налога рассчитайте по&nbsp;формуле:</p><p style="text-align:center"><a data-anchor="/document/16/221323/bssPhr72/"></a><a data-anchor="/document/16/221323/dfasgwaksg/" data-dfa="dfasgwaksg"></a>A = (Kt × Cf) + (Ct × Ca),</p><p><a data-anchor="/document/16/221323/bssPhr73/"></a><a data-anchor="/document/16/221323/dfastiztr7/" data-dfa="dfastiztr7"></a>где:<br>А&nbsp;— сумма акцизного налога;<br>Кт&nbsp;— количество реализуемого подакцизного товара или услуги;<br>Сф&nbsp;— фиксированная ставка акцизного налога;<br>Ст&nbsp;— сумма реализуемого подакцизного товара или услуги без учета акцизного налога и&nbsp;НДС;<br>Са&nbsp;— адвалорная ставка акцизного налога в&nbsp;процентах.</p><p><a data-anchor="/document/16/221323/bssPhr74/"></a><a data-anchor="/document/16/221323/dfasi7g5as/" data-dfa="dfasi7g5as"></a>При этом с 1 января 2026 года по подакцизным товарам применяются либо фиксированные либо адвалорные ставки акцизного налога.</p></div><a data-anchor="/document/16/221323/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/221323/bssPhr75/"></a><a data-anchor="/document/16/221323/dfasx08o65/" data-dfa="dfasx08o65"></a>Налоговая база при передаче подакцизных товаров в&nbsp;счет оплаты труда физлиц, начисленных дивидендов, безвозмездно или в&nbsp;обмен на&nbsp;другие товары.</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221323/bssPhr77/"></a><a data-anchor="/document/16/221323/dfas9fiqzl/" data-dfa="dfas9fiqzl"></a>Если ставка акцизного налога установлена в&nbsp;виде фиксированной суммы на&nbsp;единицу подакцизного товара, то&nbsp;налоговой базой является физический объем подакцизных товаров в&nbsp;натуральном выражении.</p><p><a data-anchor="/document/16/221323/bssPhr78/"></a><a data-anchor="/document/16/221323/dfas3420l1/" data-dfa="dfas3420l1"></a>Если ставка акцизного налога установлена в&nbsp;процентах к&nbsp;стоимости подакцизного товара, то&nbsp;налоговой базой является стоимость реализованных или переданных подакцизных товаров без включения НДС и&nbsp;акциза, но&nbsp;не&nbsp;ниже их&nbsp;фактической себестоимости.</p><p><a data-anchor="/document/16/221323/bssPhr79/"></a><a data-anchor="/document/16/221323/dfascwn6w8/" data-dfa="dfascwn6w8"></a>Это определено <span num="27" target="_self" lnktype="intlnk" title="" class="doc">частью&nbsp;4</span>&nbsp;статьи&nbsp;285&nbsp;НК.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/221323/bssPhr80/"></a><a data-anchor="/document/16/221323/dfas9b5bky/" data-dfa="dfas9b5bky"></a>Как рассчитать акцизный налог при передаче подакцизных товаров в счет выплаты дивидендов&nbsp;</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221323/bssPhr81/"></a><a data-anchor="/document/16/221323/dfaslnlv25/" data-dfa="dfaslnlv25"></a>Предприятие передало в счет выплаты дивидендов полиэтиленовые гранулы&nbsp;по по согласованной цене в размере 10 000 000 сумов.&nbsp;Себестоимость полиэтиленовых гранул составила 12&nbsp;000 000 сумов.</p><p><a data-anchor="/document/16/221323/bssPhr82/"></a><a data-anchor="/document/16/221323/dfasli4bzm/" data-dfa="dfasli4bzm"></a>По полиэтиленовым гранулам ставка акциза установлена в процентах к их стоимости.&nbsp;Так как товары переданы по цене ниже себестоимости, налог рассчитывайте исходя из себестоимости –&nbsp;12 000 000 сумов.</p><p><a data-anchor="/document/16/221323/bssPhr83/"></a><a data-anchor="/document/16/221323/dfaskga2zt/" data-dfa="dfaskga2zt"></a>Акцизный налог составит:</p><p><a data-anchor="/document/16/221323/bssPhr84/"></a><a data-anchor="/document/16/221323/dfasdev6yv/" data-dfa="dfasdev6yv"></a>1 200 000 сумов = 12 000 000 х 10%.</p></div></div></div><a data-anchor="/document/16/221323/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/221323/bssPhr85/"></a><a data-anchor="/document/16/221323/dfasigkxu1/" data-dfa="dfasigkxu1"></a>Расчет акцизного налога при реализации конечным потребителям бензина, дизельного топлива и&nbsp;сжиженного газа</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221323/bssPhr87/"></a><a data-anchor="/document/16/221323/dfasfnrx87/" data-dfa="dfasfnrx87"></a>При реализации бензина, дизельного топлива и&nbsp;сжиженного газа конечным потребителям, налоговой базой является объем реализованного и&nbsp;использованного для собственных нужд бензина, дизельного топлива и&nbsp;газа в&nbsp;натуральном выражении (<span num="41" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;10</span>&nbsp;ст.&nbsp;285&nbsp;НК).</p><p><a data-anchor="/document/16/221323/bssPhr88/"></a><a data-anchor="/document/16/221323/dfasa2yscu/" data-dfa="dfasa2yscu"></a>При этом ставка акцизного налога определяется:</p><ul class="c-list"><li><a data-anchor="/document/16/221323/bssPhr89/"></a><a data-anchor="/document/16/221323/dfas70f4np/" data-dfa="dfas70f4np"></a>из&nbsp;расчета за&nbsp;1&nbsp;литр&nbsp;— при реализации бензина, дизельного топлива <strong>через автозаправочные станции </strong> и&nbsp;газа <strong>через газонаполнительные станции и&nbsp;газонаполнительные пункты;</strong></li><li>из&nbsp;расчета за&nbsp;1&nbsp;тонну&nbsp;— в&nbsp;остальных случаях.</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/221323/bssPhr90/"></a><a data-anchor="/document/16/221323/dfassqp92y/" data-dfa="dfassqp92y"></a>Как рассчитать акцизный налог при реализации бензина конечному потребителю</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221323/bssPhr91/"></a><a data-anchor="/document/16/221323/dfas6m4i4c/" data-dfa="dfas6m4i4c"></a>Ставка акцизного налога на&nbsp;реализуемый конечному потребителю бензин АИ-80&nbsp;с апреля 2026&nbsp;года установлена в&nbsp;размере 750 000 сум за&nbsp;1&nbsp;тонну (<span num="42" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;ст.&nbsp;289-3&nbsp;НК). При продаже в&nbsp;мае конечному потребителю 40&nbsp;тонн бензина сумма акцизного налога составит:</p><p><a data-anchor="/document/16/221323/bssPhr92/"></a><a data-anchor="/document/16/221323/dfas0z9cqx/" data-dfa="dfas0z9cqx"></a>30 000 000 сумов = 40 т. × 750 000 сумов.</p></div></div></div><p><a data-anchor="/document/16/221323/dfasks8bdc/" data-dfa="dfasks8bdc"></a><a data-anchor="/document/16/221323/bssPhr93/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

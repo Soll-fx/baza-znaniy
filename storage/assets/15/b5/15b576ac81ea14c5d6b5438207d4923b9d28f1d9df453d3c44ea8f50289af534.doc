@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отражать затраты по заимствованиям в финансовой отчетности по МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206631/dfassvissq/" data-dfa="dfassvissq"></a><a data-anchor="/document/16/206631/bssPhr2/"></a>Из рекомендации узнаете, что такое затраты по заимствованиям, какие варианты учета затрат по заимствованиям допускают МСФО и что относится к квалифицируемым активам. Эксперты дали формулу, по которой рассчитывать затраты по заимствованиям и пояснили, как происходит капитализация затрат по заимствованиям, а также что необходимо раскрыть в примечаниях к финансовой отчетности. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206631/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206631/bssPhr3/"></a><a data-anchor="/document/16/206631/dfasi89egy/" data-dfa="dfasi89egy"></a>Затраты по заимствованиям</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr5/"></a><a data-anchor="/document/16/206631/dfaspls9nt/" data-dfa="dfaspls9nt"></a>Затраты по заимствованиям – это расходы компании на проценты и другие платежи, которые компания совершает при получении заемных средств. В затраты на заимствования входят:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206631/bssPhr6/"></a><a data-anchor="/document/16/206631/dfase2k6r3/" data-dfa="dfase2k6r3"></a>проценты по банковским овердрафтам;</li><li style="text-align:left">проценты по банковским краткосрочным и долгосрочным ссудам и кредитам;</li><li style="text-align:left">амортизация скидок или премий;</li><li style="text-align:left">амортизация дополнительных затрат, которые понесла компания при получении ссуды или кредита;</li><li style="text-align:left">платежи по финансовому лизингу;</li><li style="text-align:left">курсовые разницы, которые возникают по займам и кредитам в иностранной валюте, в части корректировки затрат на выплату процентов по займам и кредитам.</li></ul></div><a data-anchor="/document/16/206631/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206631/bssPhr7/"></a><a data-anchor="/document/16/206631/dfas12vvwu/" data-dfa="dfas12vvwu"></a>Варианты учета затрат по заимствованиям</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr9/"></a><a data-anchor="/document/16/206631/dfasmgk6wp/" data-dfa="dfasmgk6wp"></a>Порядок отражения в финансовой отчетности затрат по заимствованиям регламентирует МСФО (IAS) 23 «Затраты по заимствованиям».</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr10/"></a><a data-anchor="/document/16/206631/dfas21c9k1/" data-dfa="dfas21c9k1"></a>Согласно требованиям МСФО, компания должна закрепить в учетной политике один из вариантов учета затрат по заимствованиям:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206631/bssPhr11/"></a><a data-anchor="/document/16/206631/dfash92mz0/" data-dfa="dfash92mz0"></a>основной;</li><li style="text-align:left">допустимый альтернативный.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr12/"></a><a data-anchor="/document/16/206631/dfas59g1sg/" data-dfa="dfas59g1sg"></a>Основной вариант подразумевает признание затрат по заимствованиям в качестве расходов отчетного периода их возникновения. Не важно, были ли эти затраты оплачены или нет – важен факт, что компания их признает в качестве своих обязательств по займам.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr13/"></a><a data-anchor="/document/16/206631/dfasge4pre/" data-dfa="dfasge4pre"></a>При допустимом альтернативном подходе затраты по заимствованиям:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206631/bssPhr14/"></a><a data-anchor="/document/16/206631/dfash08vox/" data-dfa="dfash08vox"></a>признаются в качестве расходов периода, в котором они произведены, за исключением части таких расходов, которая подлежит капитализации;</li><li style="text-align:left">всегда подлежат капитализации в стоимости <span num="7" lnktype="intlnk" title="" class="doc">квалифицируемого актива</span>, если они возникли непосредственно при приобретении, строительстве или производстве этого актива.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr15/"></a><a data-anchor="/document/16/206631/dfasccrmps/" data-dfa="dfasccrmps"></a>Размер затрат по заимствованиям, которые можно капитализировать, следует определять согласно МСФО (IAS) 23 «Затраты по заимствованиям».</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr16/"></a><a data-anchor="/document/16/206631/dfasfir4c9/" data-dfa="dfasfir4c9"></a>В случае применения дополнительного альтернативного подхода, компания уменьшает расходы и увеличивает прибыль в своей отчетности, а расходы по процентам капитализирует в себестоимости своей продукции. Такие расходы в дальнейшем компания будет возмещать в виде выручки от продажи этой продукции и отражать в отчетности как отложенные расходы.</p></div><a data-anchor="/document/16/206631/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206631/bssPhr17/"></a><a data-anchor="/document/16/206631/dfasgf09v2/" data-dfa="dfasgf09v2"></a>Квалифицируемые активы</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr19/"></a><a data-anchor="/document/16/206631/dfas8wvkge/" data-dfa="dfas8wvkge"></a>Квалифицируемые активы – это активы, которые требуют значительного времени для того, чтобы довести их до состояния, пригодного для дальнейшего использования по назначению или дальнейшей продажи.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr20/"></a><a data-anchor="/document/16/206631/dfascurasc/" data-dfa="dfascurasc"></a>К квалифицируемым активам относятся:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206631/bssPhr21/"></a><a data-anchor="/document/16/206631/dfasvdw6sg/" data-dfa="dfasvdw6sg"></a>запасы, которые требуют значительного времени для приведения их в готовое для продажи состояния;</li><li style="text-align:left">незавершенное производство;</li><li style="text-align:left">основные средства, которые требуют времени для приведения их в готовое состояние для использования или продажи;</li><li style="text-align:left">производственные компании;</li><li style="text-align:left">электроэнергетические мощности;</li><li style="text-align:left">инвестиционная собственность.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr22/"></a><a data-anchor="/document/16/206631/dfasa00i20/" data-dfa="dfasa00i20"></a>В качестве квалифицируемых активов не признают:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206631/bssPhr23/"></a><a data-anchor="/document/16/206631/dfasicxo3i/" data-dfa="dfasicxo3i"></a>запасы, производимые в больших количествах на постоянно повторяющейся основе и на протяжении короткого периода времени;</li><li style="text-align:left">активы, которые в момент их покупки уже готовы к дальнейшему использованию или перепродажи.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr24/"></a><a data-anchor="/document/16/206631/dfase1igzv/" data-dfa="dfase1igzv"></a>Если компания выбрала допустимый альтернативный подход, то его необходимо применять последовательно ко всем затратам, которые относятся к приобретению, строительству или производству всех квалифицируемых активов этой компании.</p></div><a data-anchor="/document/16/206631/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206631/bssPhr25/"></a><a data-anchor="/document/16/206631/dfasinxm8a/" data-dfa="dfasinxm8a"></a>Расчет затрат по заимствованиям</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr27/"></a><a data-anchor="/document/16/206631/dfasl5x3gn/" data-dfa="dfasl5x3gn"></a>Компания должна признавать проценты по займам, ссудам и кредитам в отчетном периоде, в котором они возникли, независимо от того, в каком периоде они будут выплачены. Для того, чтобы рассчитать размер таких процентов, используйте формулу:</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr28/"></a><a data-anchor="/document/16/206631/dfas04xbhu/" data-dfa="dfas04xbhu"></a>СП = Н × Д × СЗ ÷ ПП × 100,</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr29/"></a><a data-anchor="/document/16/206631/dfas4prnx5/" data-dfa="dfas4prnx5"></a>где:</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr30/"></a><a data-anchor="/document/16/206631/dfasry9qqw/" data-dfa="dfasry9qqw"></a>СП – сумма процентов, начисленная в отчетном периоде;</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr31/"></a><a data-anchor="/document/16/206631/dfasdtygck/" data-dfa="dfasdtygck"></a>Н – норма процента по займу;</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr32/"></a><a data-anchor="/document/16/206631/dfas5igguu/" data-dfa="dfas5igguu"></a>Д – число дней использования заемных средств в данном отчетном периоде;</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr33/"></a><a data-anchor="/document/16/206631/dfasqxllxi/" data-dfa="dfasqxllxi"></a>СЗ – сумма займа;</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr34/"></a><a data-anchor="/document/16/206631/dfasvpiycl/" data-dfa="dfasvpiycl"></a>ПП – количество дней, на которое рассчитана установленная норма процента.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr35/"></a><a data-anchor="/document/16/206631/dfasn9y6y5/" data-dfa="dfasn9y6y5"></a>Когда компания берет валютный кредит или заем, могут возникнуть курсовые разницы от переоценки. Такие курсовые разницы по основному долгу необходимо признавать в виде прибыли или убытка от курсовой переоценки. Курсовые прибыли или убытки по начисленным, но не оплаченным процентам необходимо признавать в качестве расходов или доходов по обслуживанию долга.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr36/"></a><a data-anchor="/document/16/206631/dfas3lizeg/" data-dfa="dfas3lizeg"></a>Если компания выбирает дополнительный альтернативный метод, то она должна капитализировать эти расходы полностью или только часть этих расходов в себестоимости того актива, на приобретение или возведение которого брала кредит.</p></div><a data-anchor="/document/16/206631/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206631/bssPhr37/"></a><a data-anchor="/document/16/206631/dfas6lgpev/" data-dfa="dfas6lgpev"></a>Капитализация затрат по заимствованиям</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr39/"></a><a data-anchor="/document/16/206631/dfasa9090o/" data-dfa="dfasa9090o"></a>Существуют затраты по заимствованиям, которые согласно МСФО разрешено капитализировать. Если заемные средства были взяты только для приобретения конкретного квалифицируемого актива, то такие затраты могут быть надежно оценены и отнесены к конкретному активу.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr40/"></a><a data-anchor="/document/16/206631/dfasz6c7am/" data-dfa="dfasz6c7am"></a>Соответственно, капитализировать разрешено только фактические затраты по займам без учета какого-либо дохода, полученного от временного инвестирования таких заемных денежных средств.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr41/"></a><a data-anchor="/document/16/206631/dfaslmym9f/" data-dfa="dfaslmym9f"></a>Капитализация затрат по заимствованиям возможна, если:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206631/bssPhr42/"></a><a data-anchor="/document/16/206631/dfaslux8na/" data-dfa="dfaslux8na"></a>координация финансовой деятельности компании происходит централизованно;</li><li style="text-align:left">группа компаний использует большой набор долговых инструментов с разными процентными ставками для того, чтобы финансировать другие компании внутри группы;</li><li style="text-align:left">кредиты или займы были взяты в иностранной валюте, а валютные курсы сильно колеблются в условиях высокой инфляции.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr43/"></a><a data-anchor="/document/16/206631/dfasqo2dfh/" data-dfa="dfasqo2dfh"></a>Если кредиты или займы были получены на общие цели, то сумму затрат по займам, которые подлежат дальнейшей капитализации, следует рассчитывать путем применения ставки капитализации к затратам на соответствующий актив. Эта сумма не должна превышать сумму затрат по заимствованиям, которые были понесены в течение всего этого периода.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr44/"></a><a data-anchor="/document/16/206631/dfasqsamwo/" data-dfa="dfasqsamwo"></a>При расчете средневзвешенного значения затрат по заимствованиям необходимо учесть все займы и кредиты материнской компании и ее дочерних обществ. Для каждого дочернего общества материнской компании можно рассчитать средневзвешенное значение затрат по заимствованиям применительно только к ее собственным кредитам и займам.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr45/"></a><a data-anchor="/document/16/206631/dfas2e22gd/" data-dfa="dfas2e22gd"></a>Капитализация затрат по заимствованиям начинается, если по данному активу возникают расходы по займам или началась работа по подготовке актива к использованию по его назначению или для дальнейшей продажи.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr46/"></a><a data-anchor="/document/16/206631/dfasgshctw/" data-dfa="dfasgshctw"></a>В затраты на квалифицируемый актив входят:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206631/bssPhr47/"></a><a data-anchor="/document/16/206631/dfas2gqfy0/" data-dfa="dfas2gqfy0"></a>оплата денежными средствами;</li><li style="text-align:left">перевод других активов;</li><li style="text-align:left">принятие компанией обязательств по уплате процентов.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr48/"></a><a data-anchor="/document/16/206631/dfas3vgld8/" data-dfa="dfas3vgld8"></a>Затраты на квалифицируемый актив уменьшают на сумму любых промежуточных выплат, полученных в связи с данным активом.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr49/"></a><a data-anchor="/document/16/206631/dfaswrr6vu/" data-dfa="dfaswrr6vu"></a>Капитализация затрат приостанавливается, если на продолжительный срок прерывали работу по доведению квалифицируемого актива до состояния, пригодного к использованию или продаже.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr50/"></a><a data-anchor="/document/16/206631/dfas559rwc/" data-dfa="dfas559rwc"></a>На время значительной технической, административной работы или задержки, которая вызвана работой по доведению актива до пригодного к использованию или продаже состояния, капитализация затрат не приостанавливается.</p><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr51/"></a><a data-anchor="/document/16/206631/dfasdp5dek/" data-dfa="dfasdp5dek"></a>При завершении всех работ по доведению квалифицируемого актива до готового состояния, завершается капитализация затрат по заимствованиям.</p></div><a data-anchor="/document/16/206631/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/206631/bssPhr52/"></a><a data-anchor="/document/16/206631/dfasvpbvb3/" data-dfa="dfasvpbvb3"></a>Примечания к финансовой отчетности</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206631/bssPhr54/"></a><a data-anchor="/document/16/206631/dfas3eh8xy/" data-dfa="dfas3eh8xy"></a>В примечаниях к финансовой отчетности необходимо раскрыть:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206631/bssPhr55/"></a><a data-anchor="/document/16/206631/dfasogl1or/" data-dfa="dfasogl1or"></a>подход к отражению затрат по заимствованиям, закрепленный в учетной политике;</li><li style="text-align:left">размер затрат по заимствованиям, которые капитализируются в отчетном периоде;</li><li style="text-align:left">ставку капитализации, используемую для расчета затрат по заимствованиям, которые возможно капитализировать.</li></ul></div><p><a data-anchor="/document/16/206631/dfassd3glt/" data-dfa="dfassd3glt"></a><a data-anchor="/document/16/206631/bssPhr56/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

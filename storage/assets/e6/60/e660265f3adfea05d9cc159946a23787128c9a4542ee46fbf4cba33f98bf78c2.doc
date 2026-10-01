@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Налоги-2019</h2><div class="doc-snippet"><a data-anchor="/document/16/205127/dfase0ihzv/" data-dfa="dfase0ihzv"></a><a data-anchor="/document/16/205127/bssPhr2/"></a>. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/205127/bssPhr4/"></a><a data-anchor="/document/16/205127/dfaslitl8d/" data-dfa="dfaslitl8d"></a>Читайте наши рекомендации по налогам и сборам, действовавшим до 1 января 2020 года по <span num="129" target="_self" lnktype="intlnk" title="" class="doc">Налоговому кодексу 2007&nbsp;года</span>.</p><a data-anchor="/document/16/205127/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205127/bssPhr5/"></a><a data-anchor="/document/16/205127/dfasnxu00r/" data-dfa="dfasnxu00r"></a>Налоговый Кодекс</h2><p><a data-anchor="/document/16/205127/bssPhr6/"></a><a data-anchor="/document/16/205127/dfasy097fq/" data-dfa="dfasy097fq"></a><a data-anchor="/document/16/205127/backlinkanchor130/" type="backlink-anchor"></a><a href="#/document/90/3864" class="link npd" target="_self" title="" moduleId="90" documentId="3864">Налоговый Кодекс от 25.12.2007 года</a> действовал до 08.01.2020 г.</p><a data-anchor="/document/16/205127/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205127/bssPhr7/"></a><a data-anchor="/document/16/205127/dfasyigt1w/" data-dfa="dfasyigt1w"></a>Единый налоговый платеж</h2><p><a data-anchor="/document/16/205127/bssPhr8/"></a><a data-anchor="/document/16/205127/dfaskmulpw/" data-dfa="dfaskmulpw"></a><a data-anchor="/document/16/205127/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/16/203173" title="" moduleId="16" documentId="203173" class="link ">Кто может платить единый налоговый платеж</a></p><p><a data-anchor="/document/16/205127/bssPhr9/"></a><a data-anchor="/document/16/205127/dfas3i6zud/" data-dfa="dfas3i6zud"></a><a data-anchor="/document/16/205127/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/16/220912" title="" moduleId="16" documentId="220912" class="link ">Как рассчитать сумму ЕНП</a></p><p><a data-anchor="/document/16/205127/bssPhr10/"></a><a data-anchor="/document/16/205127/dfasgdeu0z/" data-dfa="dfasgdeu0z"></a><a data-anchor="/document/16/205127/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/16/203174" title="" moduleId="16" documentId="203174" class="link ">Как перейти с ЕНП на общеустановленные налоги</a></p><a data-anchor="/document/16/205127/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205127/bssPhr11/"></a><a data-anchor="/document/16/205127/dfashwmef6/" data-dfa="dfashwmef6"></a>Налог на имущество юрлиц</h2><p><a data-anchor="/document/16/205127/bssPhr12/"></a><a data-anchor="/document/16/205127/dfas5r16ts/" data-dfa="dfas5r16ts"></a><a data-anchor="/document/16/205127/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/16/210478" title="" moduleId="16" documentId="210478" class="link ">Кто платит налог на имущество юридических лиц</a></p><p><a data-anchor="/document/16/205127/bssPhr13/"></a><a data-anchor="/document/16/205127/dfas5bqlwv/" data-dfa="dfas5bqlwv"></a><a data-anchor="/document/16/205127/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/16/221235" title="" moduleId="16" documentId="221235" class="link ">Как рассчитать налог на имущество юридических лиц</a></p><p><a data-anchor="/document/16/205127/bssPhr14/"></a><a data-anchor="/document/16/205127/dfascgcoq4/" data-dfa="dfascgcoq4"></a><a data-anchor="/document/16/205127/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/16/210490" title="" moduleId="16" documentId="210490" class="link ">В каком порядке и сроки платить налог на имущество юридических лиц</a></p><p><a data-anchor="/document/16/205127/bssPhr15/"></a><a data-anchor="/document/16/205127/dfas4h6ou1/" data-dfa="dfas4h6ou1"></a><a data-anchor="/document/16/205127/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/16/203562" title="" moduleId="16" documentId="203562" class="link ">Как заполнить отчетность по налогу на имущество юрлиц</a></p><a data-anchor="/document/16/205127/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205127/bssPhr16/"></a><a data-anchor="/document/16/205127/dfasfbgg5z/" data-dfa="dfasfbgg5z"></a>Земельный налог с юрлиц</h2><p><a data-anchor="/document/16/205127/bssPhr17/"></a><a data-anchor="/document/16/205127/dfasccn1lx/" data-dfa="dfasccn1lx"></a><a data-anchor="/document/16/205127/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/16/221167" title="" moduleId="16" documentId="221167" class="link ">Кто платит земельный налог</a></p><p><a data-anchor="/document/16/205127/bssPhr18/"></a><a data-anchor="/document/16/205127/dfas5l625c/" data-dfa="dfas5l625c"></a><a data-anchor="/document/16/205127/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/16/221164" title="" moduleId="16" documentId="221164" class="link ">Как рассчитать земельный налог с юридических лиц</a></p><p><a data-anchor="/document/16/205127/bssPhr19/"></a><a data-anchor="/document/16/205127/dfas6umy5y/" data-dfa="dfas6umy5y"></a><a data-anchor="/document/16/205127/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/16/202684" title="" moduleId="16" documentId="202684" class="link ">В какие сроки и в каком порядке платить земельный налог с юрлиц</a></p><a data-anchor="/document/16/205127/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/205127/bssPhr20/"></a><a data-anchor="/document/16/205127/dfasx8v5iq/" data-dfa="dfasx8v5iq"></a>Налог за пользование водными ресурсами</h2><p><a data-anchor="/document/16/205127/bssPhr21/"></a><a data-anchor="/document/16/205127/dfasu4h1gc/" data-dfa="dfasu4h1gc"></a><a data-anchor="/document/16/205127/backlinkanchor21/" type="backlink-anchor"></a><a href="#/document/16/210659" title="" moduleId="16" documentId="210659" class="link ">Кто платит налог за пользование водными ресурсами</a></p><p><a data-anchor="/document/16/205127/bssPhr22/"></a><a data-anchor="/document/16/205127/dfasfgo2dd/" data-dfa="dfasfgo2dd"></a><a data-anchor="/document/16/205127/backlinkanchor23/" type="backlink-anchor"></a><a href="#/document/16/203559" title="" moduleId="16" documentId="203559" class="link ">Как использовать водные ресурсы</a></p><p><a data-anchor="/document/16/205127/bssPhr23/"></a><a data-anchor="/document/16/205127/dfasvlolv2/" data-dfa="dfasvlolv2"></a><a data-anchor="/document/16/205127/backlinkanchor25/" type="backlink-anchor"></a><a href="#/document/16/219133" title="" moduleId="16" documentId="219133" class="link ">Как рассчитать налог за пользование водными ресурсами</a></p><p><a data-anchor="/document/16/205127/bssPhr24/"></a><a data-anchor="/document/16/205127/dfassce3gs/" data-dfa="dfassce3gs"></a><a data-anchor="/document/16/205127/backlinkanchor27/" type="backlink-anchor"></a><a href="#/document/16/221472" title="" moduleId="16" documentId="221472" class="link ">Кому предоставлены льготы по уплате налога за пользование водными ресурсами</a></p><p><a data-anchor="/document/16/205127/bssPhr25/"></a><a data-anchor="/document/16/205127/dfasiszbhw/" data-dfa="dfasiszbhw"></a>&nbsp;</p><a data-anchor="/document/16/205127/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/205127/bssPhr26/"></a><a data-anchor="/document/16/205127/dfasgzrlmr/" data-dfa="dfasgzrlmr"></a>Налог на прибыль юрлиц</h2><p><a data-anchor="/document/16/205127/bssPhr27/"></a><a data-anchor="/document/16/205127/dfasmcfirt/" data-dfa="dfasmcfirt"></a><a data-anchor="/document/16/205127/backlinkanchor31/" type="backlink-anchor"></a><a href="#/document/16/202987" title="" moduleId="16" documentId="202987" class="link ">Кто платит налог на прибыль юридических лиц</a></p><p><a data-anchor="/document/16/205127/bssPhr28/"></a><a data-anchor="/document/16/205127/dfasllf1au/" data-dfa="dfasllf1au"></a><a data-anchor="/document/16/205127/backlinkanchor33/" type="backlink-anchor"></a><a href="#/document/16/221144" title="" moduleId="16" documentId="221144" class="link ">Как рассчитать налог на прибыль юридических лиц</a></p><p><a data-anchor="/document/16/205127/bssPhr29/"></a><a data-anchor="/document/16/205127/dfasv738ny/" data-dfa="dfasv738ny"></a><a data-anchor="/document/16/205127/backlinkanchor35/" type="backlink-anchor"></a><a href="#/document/16/203012" title="" moduleId="16" documentId="203012" class="link ">Как вычесть убытки прошлых периодов (перенос убытков) при расчете налога на прибыль</a></p><p><a data-anchor="/document/16/205127/bssPhr30/"></a><a data-anchor="/document/16/205127/dfas7k0ukh/" data-dfa="dfas7k0ukh"></a><a data-anchor="/document/16/205127/backlinkanchor37/" type="backlink-anchor"></a><a href="#/document/16/203029" title="" moduleId="16" documentId="203029" class="link ">Какие расходы можно вычесть из налогооблагаемой базы при расчете налога на прибыль</a></p><p><a data-anchor="/document/16/205127/bssPhr31/"></a><a data-anchor="/document/16/205127/dfas2794vu/" data-dfa="dfas2794vu"></a><a data-anchor="/document/16/205127/backlinkanchor39/" type="backlink-anchor"></a><a href="#/document/16/203167" title="" moduleId="16" documentId="203167" class="link ">Как платить текущие платежи по налогу на прибыль юрлиц</a></p><p><a data-anchor="/document/16/205127/bssPhr32/"></a><a data-anchor="/document/16/205127/dfas0kqilu/" data-dfa="dfas0kqilu"></a><a data-anchor="/document/16/205127/backlinkanchor41/" type="backlink-anchor"></a><a href="#/document/16/203112" title="" moduleId="16" documentId="203112" class="link ">По каким ставкам платить налог на прибыль юридических лиц</a></p><p><a data-anchor="/document/16/205127/bssPhr33/"></a><a data-anchor="/document/16/205127/dfasp73wyx/" data-dfa="dfasp73wyx"></a><a data-anchor="/document/16/205127/backlinkanchor43/" type="backlink-anchor"></a><a href="#/document/16/203020" title="" moduleId="16" documentId="203020" class="link ">Как определить совокупный доход налогоплательщика</a></p><p><a data-anchor="/document/16/205127/bssPhr34/"></a><a data-anchor="/document/16/205127/dfas4g0iv1/" data-dfa="dfas4g0iv1"></a><a data-anchor="/document/16/205127/backlinkanchor45/" type="backlink-anchor"></a><a href="#/document/16/203022" title="" moduleId="16" documentId="203022" class="link ">Как применить льготу по налогу на прибыль, когда предприятие развивает производство</a></p><p><a data-anchor="/document/16/205127/bssPhr35/"></a><a data-anchor="/document/16/205127/dfas10w38y/" data-dfa="dfas10w38y"></a><a data-anchor="/document/16/205127/backlinkanchor47/" type="backlink-anchor"></a><a href="#/document/16/203040" title="" moduleId="16" documentId="203040" class="link ">Как применить льготу по налогу на прибыль, когда предприятие использует труд лиц с инвалидностью</a></p><p><a data-anchor="/document/16/205127/bssPhr36/"></a><a data-anchor="/document/16/205127/dfaskf9ag3/" data-dfa="dfaskf9ag3"></a><a data-anchor="/document/16/205127/backlinkanchor49/" type="backlink-anchor"></a><a href="#/document/16/203019" title="" moduleId="16" documentId="203019" class="link ">Как определить размер прочих доходов при расчете налога на прибыль</a></p><p><a data-anchor="/document/16/205127/bssPhr37/"></a><a data-anchor="/document/16/205127/dfass9eq07/" data-dfa="dfass9eq07"></a><a data-anchor="/document/16/205127/backlinkanchor51/" type="backlink-anchor"></a><a href="#/document/16/203017" title="" moduleId="16" documentId="203017" class="link ">Как определить размер доходов от реализации товаров (работ, услуг) при расчете налога на прибыль</a></p><a data-anchor="/document/16/205127/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/205127/bssPhr38/"></a><a data-anchor="/document/16/205127/dfasyk66v6/" data-dfa="dfasyk66v6"></a>Налог на добавленную стоимость</h2><p><a data-anchor="/document/16/205127/bssPhr39/"></a><a data-anchor="/document/16/205127/dfasm6p71l/" data-dfa="dfasm6p71l"></a><a data-anchor="/document/16/205127/backlinkanchor53/" type="backlink-anchor"></a><a href="#/document/16/221449" title="" moduleId="16" documentId="221449" class="link ">Кто платит НДС</a></p><p><a data-anchor="/document/16/205127/bssPhr40/"></a><a data-anchor="/document/16/205127/dfasl0rg82/" data-dfa="dfasl0rg82"></a><a data-anchor="/document/16/205127/backlinkanchor59/" type="backlink-anchor"></a><a href="#/document/16/203676" title="" moduleId="16" documentId="203676" class="link ">Как применять льготы и нулевую ставку по НДС</a></p><p><a data-anchor="/document/16/205127/bssPhr41/"></a><a data-anchor="/document/16/205127/dfasg0yfyg/" data-dfa="dfasg0yfyg"></a><a data-anchor="/document/16/205127/backlinkanchor61/" type="backlink-anchor"></a><a href="#/document/16/203166" title="" moduleId="16" documentId="203166" class="link ">Как рассчитать НДС в строительстве</a></p><p><a data-anchor="/document/16/205127/bssPhr42/"></a><a data-anchor="/document/16/205127/dfasdgninx/" data-dfa="dfasdgninx"></a><a data-anchor="/document/16/205127/backlinkanchor63/" type="backlink-anchor"></a><a href="#/document/16/202915" title="" moduleId="16" documentId="202915" class="link ">Как платить НДС по договору простого товарищества</a></p><p><a data-anchor="/document/16/205127/bssPhr43/"></a><a data-anchor="/document/16/205127/dfasvvpg60/" data-dfa="dfasvvpg60"></a><a data-anchor="/document/16/205127/backlinkanchor65/" type="backlink-anchor"></a><a href="#/document/16/218963" title="" moduleId="16" documentId="218963" class="link ">Как зачесть и рассчитать НДС по основным средствам, нематериальным активам и «незавершенке»</a></p><p><a data-anchor="/document/16/205127/bssPhr44/"></a><a data-anchor="/document/16/205127/dfasd12o8i/" data-dfa="dfasd12o8i"></a><a data-anchor="/document/16/205127/backlinkanchor67/" type="backlink-anchor"></a><a href="#/document/16/218963" title="" moduleId="16" documentId="218963" class="link ">Как рассчитать НДС, уплачиваемый при ввозе товаров</a></p><p><a data-anchor="/document/16/205127/bssPhr45/"></a><a data-anchor="/document/16/205127/dfasnwznmf/" data-dfa="dfasnwznmf"></a><a data-anchor="/document/16/205127/backlinkanchor69/" type="backlink-anchor"></a><a href="#/document/16/203680" title="" moduleId="16" documentId="203680" class="link ">Как платят НДС плательщики единого налогового платежа</a></p><p><a data-anchor="/document/16/205127/bssPhr46/"></a><a data-anchor="/document/16/205127/dfasxglmuw/" data-dfa="dfasxglmuw"></a><a data-anchor="/document/16/205127/backlinkanchor71/" type="backlink-anchor"></a><a href="#/document/16/211806" title="" moduleId="16" documentId="211806" class="link ">Когда и как корректировать налогооблагаемую базу по НДС</a></p><a data-anchor="/document/16/205127/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/205127/bssPhr47/"></a><a data-anchor="/document/16/205127/dfasz9tf0a/" data-dfa="dfasz9tf0a"></a>Фиксированный налог</h2><p><a data-anchor="/document/16/205127/bssPhr48/"></a><a data-anchor="/document/16/205127/dfasxehs6e/" data-dfa="dfasxehs6e"></a><a data-anchor="/document/16/205127/backlinkanchor73/" type="backlink-anchor"></a><a href="#/document/16/203625" title="" moduleId="16" documentId="203625" class="link ">Кто платит фиксированный налог</a></p><p><a data-anchor="/document/16/205127/bssPhr49/"></a><a data-anchor="/document/16/205127/dfas4cmwco/" data-dfa="dfas4cmwco"></a><a data-anchor="/document/16/205127/backlinkanchor75/" type="backlink-anchor"></a><a href="#/document/16/203618" title="" moduleId="16" documentId="203618" class="link ">Как рассчитать сумму фиксированного налога</a></p><p><a data-anchor="/document/16/205127/bssPhr50/"></a><a data-anchor="/document/16/205127/dfasqha7nu/" data-dfa="dfasqha7nu"></a><a data-anchor="/document/16/205127/backlinkanchor77/" type="backlink-anchor"></a><a href="#/document/16/203613" title="" moduleId="16" documentId="203613" class="link ">Как платят фиксированный налог отдельные категории предпринимателей</a></p><p><a data-anchor="/document/16/205127/bssPhr51/"></a><a data-anchor="/document/16/205127/dfasnugglq/" data-dfa="dfasnugglq"></a><a data-anchor="/document/16/205127/backlinkanchor79/" type="backlink-anchor"></a><a href="#/document/16/203251" title="" moduleId="16" documentId="203251" class="link ">В каком порядке и в какие сроки платить фиксированный налог</a></p><p><a data-anchor="/document/16/205127/bssPhr52/"></a><a data-anchor="/document/16/205127/dfassqyrpz/" data-dfa="dfassqyrpz"></a><a data-anchor="/document/16/205127/backlinkanchor81/" type="backlink-anchor"></a><a href="#/document/16/203612" title="" moduleId="16" documentId="203612" class="link ">Как заполнить отчетность по фиксированному налогу</a></p><a data-anchor="/document/16/205127/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/205127/bssPhr53/"></a><a data-anchor="/document/16/205127/dfas3wkgg1/" data-dfa="dfas3wkgg1"></a>Единый земельный налог</h2><p><a data-anchor="/document/16/205127/bssPhr54/"></a><a data-anchor="/document/16/205127/dfasr85bb4/" data-dfa="dfasr85bb4"></a><a data-anchor="/document/16/205127/backlinkanchor83/" type="backlink-anchor"></a><a href="#/document/16/202685" title="" moduleId="16" documentId="202685" class="link ">Кто платит, как рассчитать и уплатить единый земельный налог</a></p><a data-anchor="/document/16/205127/tit10/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit10"><a data-anchor="/document/16/205127/bssPhr55/"></a><a data-anchor="/document/16/205127/dfasy7r8c0/" data-dfa="dfasy7r8c0"></a>Единый социальный платеж</h2><p><a data-anchor="/document/16/205127/bssPhr56/"></a><a data-anchor="/document/16/205127/dfasoia5hk/" data-dfa="dfasoia5hk"></a><a data-anchor="/document/16/205127/backlinkanchor85/" type="backlink-anchor"></a><a href="#/document/16/210559" title="" moduleId="16" documentId="210559" class="link ">Кто платит единый социальный платеж</a></p><p><a data-anchor="/document/16/205127/bssPhr57/"></a><a data-anchor="/document/16/205127/dfaslgqkge/" data-dfa="dfaslgqkge"></a><a data-anchor="/document/16/205127/backlinkanchor87/" type="backlink-anchor"></a><a href="#/document/16/210562" title="" moduleId="16" documentId="210562" class="link ">Как рассчитать единый социальный налог юридическому лицу</a></p><p><a data-anchor="/document/16/205127/bssPhr58/"></a><a data-anchor="/document/16/205127/dfasraxpdz/" data-dfa="dfasraxpdz"></a><a data-anchor="/document/16/205127/backlinkanchor89/" type="backlink-anchor"></a><a href="#/document/16/210560" title="" moduleId="16" documentId="210560" class="link ">Как платят ЕСП отдельные категории физлиц</a></p><a data-anchor="/document/16/205127/tit11/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit11"><a data-anchor="/document/16/205127/bssPhr59/"></a><a data-anchor="/document/16/205127/dfas8fodru/" data-dfa="dfas8fodru"></a>Налог на доходы физических лиц</h2><p><a data-anchor="/document/16/205127/bssPhr60/"></a><a data-anchor="/document/16/205127/dfascmp9z7/" data-dfa="dfascmp9z7"></a><a data-anchor="/document/16/205127/backlinkanchor91/" type="backlink-anchor"></a><a href="#/document/16/221216" title="" moduleId="16" documentId="221216" class="link ">Кто платит налог на доходы физических лиц</a></p><p><a data-anchor="/document/16/205127/bssPhr61/"></a><a data-anchor="/document/16/205127/dfasyo0mb8/" data-dfa="dfasyo0mb8"></a><a data-anchor="/document/16/205127/backlinkanchor93/" type="backlink-anchor"></a><a href="#/document/16/221251" title="" moduleId="16" documentId="221251" class="link ">Что такое налогообложение у источника выплаты</a></p><p><a data-anchor="/document/16/205127/bssPhr62/"></a><a data-anchor="/document/16/205127/dfas57ffk6/" data-dfa="dfas57ffk6"></a><a data-anchor="/document/16/205127/backlinkanchor95/" type="backlink-anchor"></a><a href="#/document/16/203266" title="" moduleId="16" documentId="203266" class="link ">Как сдать декларацию о доходах физических лиц</a></p><a data-anchor="/document/16/205127/tit12/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit12"><a data-anchor="/document/16/205127/bssPhr63/"></a><a data-anchor="/document/16/205127/dfasrfezef/" data-dfa="dfasrfezef"></a>Акцизный налог</h2><p><a data-anchor="/document/16/205127/bssPhr64/"></a><a data-anchor="/document/16/205127/dfasql653l/" data-dfa="dfasql653l"></a><a data-anchor="/document/16/205127/backlinkanchor97/" type="backlink-anchor"></a><a href="#/document/16/221318" title="" moduleId="16" documentId="221318" class="link ">Кто платит акцизный налог</a></p><p><a data-anchor="/document/16/205127/bssPhr65/"></a><a data-anchor="/document/16/205127/dfasb5zcb4/" data-dfa="dfasb5zcb4"></a><a data-anchor="/document/16/205127/backlinkanchor101/" type="backlink-anchor"></a><a href="#/document/16/203527" title="" moduleId="16" documentId="203527" class="link ">Как рассчитать акцизный налог, уплачиваемый при ввозе подакцизных товаров</a></p><p><a data-anchor="/document/16/205127/bssPhr66/"></a><a data-anchor="/document/16/205127/dfaskspurf/" data-dfa="dfaskspurf"></a><a data-anchor="/document/16/205127/backlinkanchor103/" type="backlink-anchor"></a><a href="#/document/16/210516" title="" moduleId="16" documentId="210516" class="link ">Как рассчитать сумму акцизного налога</a></p><p><a data-anchor="/document/16/205127/bssPhr67/"></a><a data-anchor="/document/16/205127/dfastc7no8/" data-dfa="dfastc7no8"></a><a data-anchor="/document/16/205127/backlinkanchor105/" type="backlink-anchor"></a><a href="#/document/16/202683" title="" moduleId="16" documentId="202683" class="link ">Как сдать расчет и заплатить акцизный налог</a></p><a data-anchor="/document/16/205127/tit13/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit13"><a data-anchor="/document/16/205127/bssPhr68/"></a><a data-anchor="/document/16/205127/dfaswbb0e2/" data-dfa="dfaswbb0e2"></a>Подписной бонус</h2><p><a data-anchor="/document/16/205127/bssPhr69/"></a><a data-anchor="/document/16/205127/dfasn1q4z0/" data-dfa="dfasn1q4z0"></a><a data-anchor="/document/16/205127/backlinkanchor107/" type="backlink-anchor"></a><a href="#/document/16/203126" title="" moduleId="16" documentId="203126" class="link ">Кто платит подписной бонус</a></p><p><a data-anchor="/document/16/205127/bssPhr70/"></a><a data-anchor="/document/16/205127/dfasspq5d1/" data-dfa="dfasspq5d1"></a><a data-anchor="/document/16/205127/backlinkanchor109/" type="backlink-anchor"></a><a href="#/document/16/203130" title="" moduleId="16" documentId="203130" class="link ">Как рассчитать и заплатить подписной бонус</a></p><a data-anchor="/document/16/205127/tit14/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit14"><a data-anchor="/document/16/205127/bssPhr71/"></a><a data-anchor="/document/16/205127/dfas7p4eos/" data-dfa="dfas7p4eos"></a>Бонус коммерческого обнаружения</h2><p><a data-anchor="/document/16/205127/bssPhr72/"></a><a data-anchor="/document/16/205127/dfaslxxwem/" data-dfa="dfaslxxwem"></a><a data-anchor="/document/16/205127/backlinkanchor111/" type="backlink-anchor"></a><a href="#/document/16/203134" title="" moduleId="16" documentId="203134" class="link ">Кто платит бонус коммерческого обнаружения</a></p><p><a data-anchor="/document/16/205127/bssPhr73/"></a><a data-anchor="/document/16/205127/dfasie0rlg/" data-dfa="dfasie0rlg"></a><a data-anchor="/document/16/205127/backlinkanchor113/" type="backlink-anchor"></a><a href="#/document/16/203131" title="" moduleId="16" documentId="203131" class="link ">Как рассчитать и заплатить бонус коммерческого обнаружения</a></p><p><a data-anchor="/document/16/205127/bssPhr74/"></a><a data-anchor="/document/16/205127/dfas6pzwp6/" data-dfa="dfas6pzwp6"></a><a data-anchor="/document/16/205127/backlinkanchor115/" type="backlink-anchor"></a><a href="#/document/16/203177" title="" moduleId="16" documentId="203177" class="link ">Как сдать отчетность по бонусу коммерческого обнаружения</a></p><a data-anchor="/document/16/205127/tit15/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit15"><a data-anchor="/document/16/205127/bssPhr75/"></a><a data-anchor="/document/16/205127/dfasrcbdif/" data-dfa="dfasrcbdif"></a>Налог за пользование недрами</h2><p><a data-anchor="/document/16/205127/bssPhr76/"></a><a data-anchor="/document/16/205127/dfas7qytn1/" data-dfa="dfas7qytn1"></a><a data-anchor="/document/16/205127/backlinkanchor117/" type="backlink-anchor"></a><a href="#/document/16/210730" title="" moduleId="16" documentId="210730" class="link ">Кто и за что платит налог за пользование недрами</a></p><p><a data-anchor="/document/16/205127/bssPhr77/"></a><a data-anchor="/document/16/205127/dfas599etp/" data-dfa="dfas599etp"></a><a data-anchor="/document/16/205127/backlinkanchor119/" type="backlink-anchor"></a><a href="#/document/16/210735" title="" moduleId="16" documentId="210735" class="link ">Как рассчитать сумму налога за пользование недрами</a></p><p><a data-anchor="/document/16/205127/bssPhr78/"></a><a data-anchor="/document/16/205127/dfas6c279l/" data-dfa="dfas6c279l"></a><a data-anchor="/document/16/205127/backlinkanchor121/" type="backlink-anchor"></a><a href="#/document/16/203051" title="" moduleId="16" documentId="203051" class="link ">Как заполнить отчетность по налогу за пользование недрами</a></p><a data-anchor="/document/16/205127/tit16/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit16"><a data-anchor="/document/16/205127/bssPhr79/"></a><a data-anchor="/document/16/205127/dfasy23566/" data-dfa="dfasy23566"></a>Налог на сверхприбыль</h2><p><a data-anchor="/document/16/205127/bssPhr80/"></a><a data-anchor="/document/16/205127/dfasvlvvkt/" data-dfa="dfasvlvvkt"></a><a data-anchor="/document/16/205127/backlinkanchor123/" type="backlink-anchor"></a><a href="#/document/16/203286" title="" moduleId="16" documentId="203286" class="link ">Кто платит налог на сверхприбыль</a></p><p><a data-anchor="/document/16/205127/bssPhr81/"></a><a data-anchor="/document/16/205127/dfas82wqrt/" data-dfa="dfas82wqrt"></a><a data-anchor="/document/16/205127/backlinkanchor125/" type="backlink-anchor"></a><a href="#/document/16/202732" title="" moduleId="16" documentId="202732" class="link ">Как рассчитывать сумму налога на сверхприбыль</a></p><p><a data-anchor="/document/16/205127/bssPhr82/"></a><a data-anchor="/document/16/205127/dfascio8h3/" data-dfa="dfascio8h3"></a><a data-anchor="/document/16/205127/backlinkanchor127/" type="backlink-anchor"></a><a href="#/document/16/203285" title="" moduleId="16" documentId="203285" class="link ">Когда и кому сдавать отчетность по налогу на сверхприбыль</a></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

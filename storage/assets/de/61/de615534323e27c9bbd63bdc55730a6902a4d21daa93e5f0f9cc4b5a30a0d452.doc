@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как получить подтверждение для найма иностранцев</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулчехра&nbsp;Юсупханова,&nbsp;Главный редактор Системы Кадры, юрист</p></td></tr></table><div class="doc-snippet"><p><span class="doc-lead__icon"></span><a data-anchor="/document/16/221658/bssPhr2/"></a><a data-anchor="/document/16/221658/dfasy0nkq1/" data-dfa="dfasy0nkq1"></a>► <a data-anchor="/document/16/221658/dfas2eg2ig/" data-dfa="dfas2eg2ig"></a><a data-anchor="/document/16/221658/bssPhr3/"></a>В&nbsp;рекомендации пошаговая инструкция как подать заявление на&nbsp;получение подтверждения, какие требования и&nbsp;условия необходимо соблюдать, а&nbsp;также в&nbsp;каких случаях подтверждение могут аннулировать либо приостановить. </p></div><div id="documentBody" class="content-common"><list><item><a anchor="dfas1kugfz" icon="useful" itemid="_m54vl3uy6" label="Полезно" text="Узнайте как подать заявление">Узнайте как подать заявление</a></item></list><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""></div><a data-anchor="/document/16/221658/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221658/bssPhr6/"></a><a data-anchor="/document/16/221658/dfasf83gnd/" data-dfa="dfasf83gnd"></a>Получение подтверждения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221658/bssPhr10/"></a><a data-anchor="/document/16/221658/dfas6uzk0z/" data-dfa="dfas6uzk0z"></a>Подтверждение&nbsp;— это документ, дающий право иностранному гражданину работать на&nbsp;территории Республики Узбекистан. Чтобы получить подтверждение зарегистрируйтесь на&nbsp;ЕПИГУ либо в&nbsp;Информационной системе «Лицензия» и&nbsp;откройте свой личный кабинет. Это может сделать как работодатель&nbsp;— юридическое лицо, так и&nbsp;иностранный гражданин как физическое лицо. При этом, заявление необходимо заверить электронной цифровой подписью (п. <span num="157" target="_blank" lnktype="intlnk" title="" class="doc">6</span> и <span num="158" target="_blank" lnktype="intlnk" title="" class="doc">10</span> Единого положения, приложение 1 к постановлению Кабмина от 22.02.2022 № 86).</p><p><a data-anchor="/document/16/221658/bssPhr11/"></a><a data-anchor="/document/16/221658/dfasamg6di/" data-dfa="dfasamg6di"></a>Через личный кабинет оформите заявление. Подтверждение о&nbsp;регистрации заявления направляют в&nbsp;личный кабинет заявителя (<span num="12" target="_blank" lnktype="intlnk" title="" class="doc">п.&nbsp;5</span>&nbsp;Единого положения, приложение 1&nbsp;к постановлению Кабмина от 22.02.2022 № 86).</p><p><a data-anchor="/document/16/221658/bssPhr12/"></a><a data-anchor="/document/16/221658/dfasis5g8z/" data-dfa="dfasis5g8z"></a>Далее заявление направляют в&nbsp;Агентство по&nbsp;внешней трудовой миграции при Министерстве занятости и&nbsp;трудовых отношений.</p><p><a data-anchor="/document/16/221658/bssPhr13/"></a><a data-anchor="/document/16/221658/dfas3peqgw/" data-dfa="dfas3peqgw"></a>Агентство изучает соответствие количества и&nbsp;специальностей, запрашиваемых работодателем иностранных граждан его фактической потребности в&nbsp;рабочей силе.</p><p><a data-anchor="/document/16/221658/bssPhr14/"></a><a data-anchor="/document/16/221658/dfas6b1o6g/" data-dfa="dfas6b1o6g"></a>В&nbsp;течение 15&nbsp;рабочих дней в&nbsp;личный кабинет заявителя направляют уведомление о&nbsp;принятом решении. Если принято положительное решение, заявителю выставляют счет на&nbsp;оплату и&nbsp;указывают размер сбора за&nbsp;выдачу подтверждения.</p><p><a data-anchor="/document/16/221658/bssPhr15/"></a><a data-anchor="/document/16/221658/dfasbfntwl/" data-dfa="dfasbfntwl"></a>После поступления суммы сбора подтверждение с&nbsp;QR-кодом высылают в&nbsp;электронном виде в&nbsp;личный кабинет заявителя.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221658/bssPhr16/"></a><a data-anchor="/document/16/221658/dfasbb2lzk/" data-dfa="dfasbb2lzk"></a>Нарушение порядка привлечения и&nbsp;использования иностранной рабочей силы в&nbsp;Республике Узбекистан влечет наложение штрафа:</p><div class="incut-v4__content" data-incut-content=""><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 45%;"><p style="text-align:center"><a data-anchor="/document/16/221658/bssPhr17/"></a><a data-anchor="/document/16/221658/dfaset5vix/" data-dfa="dfaset5vix"></a><strong>на&nbsp;граждан</strong></p></td><td class="bdTopbdBottombdRight" style="width: 54%;"><p style="text-align:center"><a data-anchor="/document/16/221658/bssPhr18/"></a><a data-anchor="/document/16/221658/dfasiodpvg/" data-dfa="dfasiodpvg"></a><strong>на&nbsp;должностных лиц</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 45%;"><p style="text-align:center"><a data-anchor="/document/16/221658/bssPhr19/"></a><a data-anchor="/document/16/221658/dfas36i6no/" data-dfa="dfas36i6no"></a>от&nbsp;5&nbsp;до&nbsp;10&nbsp;БРВ</p></td><td class="bdBottombdRight" style="width: 54%;"><p style="text-align:center"><a data-anchor="/document/16/221658/bssPhr20/"></a><a data-anchor="/document/16/221658/dfasllc4eg/" data-dfa="dfasllc4eg"></a>от&nbsp;10&nbsp;до&nbsp;25&nbsp;БРВ</p></td></tr><tr><td class="bdAll" style="width: 45%;"><p style="text-align:center"><a data-anchor="/document/16/221658/bssPhr21/"></a><a data-anchor="/document/16/221658/dfas0qyv3t/" data-dfa="dfas0qyv3t"></a><strong>повторно в&nbsp;течение года</strong></p></td><td class="bdAll" style="width: 54%;"><p style="text-align:center"><a data-anchor="/document/16/221658/bssPhr22/"></a><a data-anchor="/document/16/221658/dfasbyfrdo/" data-dfa="dfasbyfrdo"></a><strong>после применения взыскания</strong></p></td></tr><tr><td class="bdAll" style="width: 45%;"><p style="text-align:center"><a data-anchor="/document/16/221658/bssPhr23/"></a><a data-anchor="/document/16/221658/dfase4bpmr/" data-dfa="dfase4bpmr"></a>от&nbsp;10&nbsp;до&nbsp;15&nbsp;БРВ</p></td><td class="bdTopbdBottombdRight" style="width: 54%;"><p style="text-align:center"><a data-anchor="/document/16/221658/bssPhr24/"></a><a data-anchor="/document/16/221658/dfass62vdy/" data-dfa="dfass62vdy"></a>от&nbsp;25&nbsp;до&nbsp;50&nbsp;БРВ</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/221658/bssPhr25/"></a><a data-anchor="/document/16/221658/dfasx91bsv/" data-dfa="dfasx91bsv"></a>Статья <span num="13" target="_self" lnktype="intlnk" title="" class="doc">49-4</span>&nbsp;КоАО.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/221658/bssPhr26/"></a><a data-anchor="/document/16/221658/dfasrlzh3b/" data-dfa="dfasrlzh3b"></a>Подтверждение для осуществления трудовой деятельности не&nbsp;оформляйте:</p><ul class="c-list"><li><a data-anchor="/document/16/221658/bssPhr27/"></a><a data-anchor="/document/16/221658/dfasepyl1s/" data-dfa="dfasepyl1s"></a>иностранным гражданам, инвестировавшим в&nbsp;Республику Узбекистан в&nbsp;размере не&nbsp;менее 8&nbsp;500&nbsp;БРВ (<span num="14" target="_self" lnktype="intlnk" title="" class="doc">пп. «а»</span> п.&nbsp;5 постановления Президента от&nbsp;07.11.2018 № ПП-4008);</li><li>сотрудникам постоянных представительств иностранных государств, международных межправительственных организаций и&nbsp;представительств государственных организаций, аккредитованных в&nbsp;МИД;</li><li>лицам, имеющим дипломатический статус;</li><li>специалистам, привлекаемым к&nbsp;работе в&nbsp;сфере туризма на&nbsp;срок до&nbsp;трех месяцев по&nbsp;запросу Министерства туризма и&nbsp;культурного наследия;</li><li>учредителям&nbsp;ИП и&nbsp;СП, действующих или создаваемых на&nbsp;территории республики;</li><li>первым руководителям создаваемых либо действующих&nbsp;ИП и&nbsp;СП в&nbsp;Узбекистане;</li><li>ученым и&nbsp;деятелям культуры, работающим в&nbsp;организациях, созданных на&nbsp;территории республики в&nbsp;соответствии с&nbsp;межгосударственными договорами;</li><li>студентам, проходящим практику в&nbsp;период каникул по&nbsp;программам ВУЗов Узбекистана;</li><li>представителям прессы, аккредитованным в&nbsp;МИД;</li><li>сотрудникам представительств и&nbsp;филиалов ННО, аккредитованных в&nbsp;МЮ, а&nbsp;также международных и&nbsp;иностранных ННО;</li><li>учителям и&nbsp;специалистам, задействованным в&nbsp;работе Президентских школ областей и&nbsp;города Ташкента, а&nbsp;также ВУЗах;</li><li>лицам, имеющим вид на&nbsp;жительство;</li><li>лицам, для которых международными договорами установлен иной порядок приема на&nbsp;работу.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221658/bssPhr28/"></a><a data-anchor="/document/16/221658/dfas61sg3k/" data-dfa="dfas61sg3k"></a>При выдаче подтверждения не&nbsp;требуется согласование ни&nbsp;с&nbsp;одним другим органом, кроме Агентства.</p><div class="incut-v4__icon"></div></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязательно ли получать подтверждение для нерезидента, который живет в Узбекистане более трех лет, но не имеет вида на жительство</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/221658/bssPhr31/"></a><a data-anchor="/document/16/221658/dfasod4qk9/" data-dfa="dfasod4qk9"></a>Да, обязательно.</p><p style="text-align:left"><a data-anchor="/document/16/221658/bssPhr32/"></a><a data-anchor="/document/16/221658/dfaslg1zhz/" data-dfa="dfaslg1zhz"></a>Принимайте иностранного гражданина на работу только при наличии подтверждения на право трудовой деятельности, которые выдает Агентство по внешней трудовой миграции через ЕПИГУ либо ИС «Лицензия».</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли получать подтверждение, если иностранец оформлен дистанционно за рубежом</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221658/bssPhr36/"></a><a data-anchor="/document/16/221658/dfas6s0dta/" data-dfa="dfas6s0dta"></a>Нет, не нужно</p><p><a data-anchor="/document/16/221658/bssPhr37/"></a><a data-anchor="/document/16/221658/dfaskwvtzu/" data-dfa="dfaskwvtzu"></a>Получать подтверждение на право осуществления трудовой деятельности на территории Республики Узбекистан не нужно, если иностранного работника приняли с условием, что он выполняет свои рабочие функции в дистанционной (онлайн) форме, находясь за рубежом. Такие правила установлены <span num="155" target="_blank" lnktype="intlnk" title="" class="doc">п. 5</span> Перечня (Приложение № 3 к Указу Президента от 20.04.2022 <span num="156" target="_blank" lnktype="intlnk" title="" class="doc">№УП-113</span>).</p></div></div><a data-anchor="/document/16/221658/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221658/bssPhr38/"></a><a data-anchor="/document/16/221658/dfas1kugfz/" data-dfa="dfas1kugfz"></a>Подача заявления</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221658/bssPhr40/"></a><a data-anchor="/document/16/221658/dfas7x54o4/" data-dfa="dfas7x54o4"></a>Чтобы принять на работу иностранного гражданина, которому требуется подтверждение, работодатель подает заявление через Единый портал интерактивных государственных услуг.</p><p><a data-anchor="/document/16/221658/bssPhr41/"></a><a data-anchor="/document/16/221658/dfasf96z79/" data-dfa="dfasf96z79"></a><strong>Шаг 1. Авторизуйтесь на ЕПИГУ</strong></p><p><a data-anchor="/document/16/221658/bssPhr42/"></a><a data-anchor="/document/16/221658/dfast6ikic/" data-dfa="dfast6ikic"></a>Войдите в личный кабинет на <strong>my.gov.uz</strong> и выберите услугу «Получение подтверждения на право трудовой деятельности на территории Республики Узбекистан».</p><p><a data-anchor="/document/16/221658/bssPhr43/"></a><a data-anchor="/document/16/221658/dfast2wo1i/" data-dfa="dfast2wo1i"></a><strong>Шаг 2. Заполните заявление</strong></p><p><a data-anchor="/document/16/221658/bssPhr44/"></a><a data-anchor="/document/16/221658/dfas3yn3cd/" data-dfa="dfas3yn3cd"></a>В заявлении укажите сведения об иностранном гражданине, работодателе и планируемой работе.</p><p><a data-anchor="/document/16/221658/bssPhr45/"></a><a data-anchor="/document/16/221658/dfas5871w4/" data-dfa="dfas5871w4"></a>Укажите ФИО иностранного гражданина, номер телефона, адрес электронной почты и адрес проживания в Узбекистане. Внесите сведения об образовании и специальности.</p><p><a data-anchor="/document/16/221658/bssPhr46/"></a><a data-anchor="/document/16/221658/dfas6zlqak/" data-dfa="dfas6zlqak"></a>Укажите сведения о работодателе – его наименование и вид деятельности. Также укажите предполагаемую должность, размер и регулярность выплаты заработной платы.</p><p><a data-anchor="/document/16/221658/bssPhr47/"></a><a data-anchor="/document/16/221658/dfasprwyca/" data-dfa="dfasprwyca"></a>При наличии укажите сведения о предыдущем пребывании иностранного гражданина в Узбекистане, номер и тип визы, а также сроки прохождения регистрации в органах миграции и оформления гражданства.</p><p><a data-anchor="/document/16/221658/bssPhr48/"></a><a data-anchor="/document/16/221658/dfas6ke52s/" data-dfa="dfas6ke52s"></a><strong>Шаг 3. Приложите документы</strong></p><p><a data-anchor="/document/16/221658/bssPhr49/"></a><a data-anchor="/document/16/221658/dfasaz4swa/" data-dfa="dfasaz4swa"></a><a data-anchor="/document/16/221658/dfastqm3cg/" data-dfa="dfastqm3cg"></a>К заявлению приложите электронную копию паспорта иностранного гражданина, фотографию размером 3 × 4 см, документы о квалификации и проект трудового договора с указанием размера заработной платы и премии.&nbsp;Для граждан стран с визовым режимом приложите также копию соответствующей въездной визы.</p><p><a data-anchor="/document/16/221658/bssPhr50/"></a><a data-anchor="/document/16/221658/dfas1zm0lb/" data-dfa="dfas1zm0lb"></a><strong>Шаг 4. Оплатите сбор</strong></p><p><a data-anchor="/document/16/221658/bssPhr51/"></a><a data-anchor="/document/16/221658/dfasogbwup/" data-dfa="dfasogbwup"></a>После заполнения заявления оплатите установленный сбор. При подаче через ЕПИГУ размер сбора составляет 0,9 БРВ.</p><p><a data-anchor="/document/16/221658/bssPhr52/"></a><a data-anchor="/document/16/221658/dfas0qhpao/" data-dfa="dfas0qhpao"></a><strong>Шаг 5. Отправьте заявление</strong></p><p><a data-anchor="/document/16/221658/bssPhr53/"></a><a data-anchor="/document/16/221658/dfasufbdp8/" data-dfa="dfasufbdp8"></a>Проверьте сведения и отправьте заявление через ЕПИГУ.</p><p><a data-anchor="/document/16/221658/bssPhr54/"></a><a data-anchor="/document/16/221658/dfasapb9u1/" data-dfa="dfasapb9u1"></a><strong>Шаг 6. Получите подтверждение</strong></p><p><a data-anchor="/document/16/221658/bssPhr55/"></a><a data-anchor="/document/16/221658/dfas7e2uzv/" data-dfa="dfas7e2uzv"></a>Заявление рассматривают в течение 15 рабочих дней. Результат предоставляют через ЕПИГУ.</p></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли получать подтверждение на конкретную должность при приеме на работу иностранного гражданина или лица без гражданства</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221658/bssPhr62/"></a><a data-anchor="/document/16/221658/dfasa9z6x3/" data-dfa="dfasa9z6x3"></a>Отдельное подтверждение на конкретную должность получать не нужно. Работодатель оформляет подтверждение на право трудовой деятельности на территории Узбекистана.</p><p><a data-anchor="/document/16/221658/bssPhr63/"></a><a data-anchor="/document/16/221658/dfasc1zgbq/" data-dfa="dfasc1zgbq"></a>В подтверждении указывают:</p><ul class="c-list"><li><a data-anchor="/document/16/221658/bssPhr64/"></a><a data-anchor="/document/16/221658/dfasrbcc51/" data-dfa="dfasrbcc51"></a>гражданство и ФИО иностранного гражданина;</li><li>серию и номер паспорта;</li><li>наименование и адрес работодателя;</li><li>срок действия подтверждения;</li><li>статус иностранного гражданина;</li><li>профессию или должность, по которой он вправе работать у указанного работодателя.</li></ul><p><a data-anchor="/document/16/221658/bssPhr65/"></a><a data-anchor="/document/16/221658/dfas0d1td4/" data-dfa="dfas0d1td4"></a>Таким образом, должность иностранного работника указывают непосредственно в подтверждении. Отдельный документ только на должность не оформляют.&nbsp;</p><p><a data-anchor="/document/16/221658/bssPhr66/"></a><a data-anchor="/document/16/221658/dfasyias4a/" data-dfa="dfasyias4a"></a>Подтверждение требуется не для всех иностранцев. Например, оно не нужно лицам, имеющим вид на жительство в Узбекистане, и другим категориям, указанным в <span num="184" target="_blank" lnktype="intlnk" title="" class="doc">статье 110</span> Закона от 20.10.2020 № ЗРУ-642 «О занятости населения». Перед приемом проверьте, требуется ли конкретному иностранному гражданину подтверждение на право трудовой деятельности.</p></div></div><a data-anchor="/document/16/221658/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/221658/bssPhr67/"></a><a data-anchor="/document/16/221658/dfasad7e9q/" data-dfa="dfasad7e9q"></a>Требования и&nbsp;условия при получении подтверждения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221658/bssPhr69/"></a><a data-anchor="/document/16/221658/dfas1druyg/" data-dfa="dfas1druyg"></a>Для того, чтобы получить подтверждение права на&nbsp;трудовую деятельность стороны должны соблюдать:</p><ul class="c-list"><li><a data-anchor="/document/16/221658/bssPhr70/"></a><a data-anchor="/document/16/221658/dfasylwk6d/" data-dfa="dfasylwk6d"></a>законодательство о&nbsp;труде, охране труда, занятости, обязательном страховании гражданской ответственности работодателя;</li><li>количество, специализацию и&nbsp;обеспеченность запрашиваемых иностранных граждан, которые соответствуют фактической потребности в&nbsp;рабочей силе;</li><li>не&nbsp;совершать действий, противоречащих законодательству, в&nbsp;том числе влекущих за&nbsp;собой уголовную ответственность;</li><li>уведомлять Агентство об&nbsp;изменении сведений об&nbsp;организации, паспортных данных и&nbsp;т.п.;</li><li>не&nbsp;представлять документы иностранных граждан, у&nbsp;которых истек срок действия визы или которые не&nbsp;состоят на&nbsp;учете в&nbsp;органах по&nbsp;миграции и&nbsp;гражданству более 3&nbsp;дней.</li></ul><p><a data-anchor="/document/16/221658/bssPhr71/"></a><a data-anchor="/document/16/221658/dfasm6g27g/" data-dfa="dfasm6g27g"></a>При этом работодатели в&nbsp;недельный срок уведомляют Агентство в&nbsp;случае:</p><ul class="c-list"><li><a data-anchor="/document/16/221658/bssPhr72/"></a><a data-anchor="/document/16/221658/dfas6x6y3a/" data-dfa="dfas6x6y3a"></a>увольнения иностранного гражданина, в&nbsp;том числе по&nbsp;истечении срока действия подтверждения;</li><li>ликвидации организации.</li></ul></div><a data-anchor="/document/16/221658/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/221658/bssPhr73/"></a><a data-anchor="/document/16/221658/dfasgbaft6/" data-dfa="dfasgbaft6"></a>Сбор за&nbsp;подтверждение</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221658/bssPhr75/"></a><a data-anchor="/document/16/221658/dfaslr9abn/" data-dfa="dfaslr9abn"></a>В&nbsp;случае принятия решения о&nbsp;выдаче разрешения в&nbsp;личный кабинет заявителя в&nbsp;ЭС&nbsp;«Лицензия» либо ЕПИГУ высылают счет на&nbsp;оплату сбора:</p><ul class="c-list"><li><a data-anchor="/document/16/221658/bssPhr76/"></a><a data-anchor="/document/16/221658/dfas1374u1/" data-dfa="dfas1374u1"></a>1&nbsp;БРВ для <span num="15" target="_self" lnktype="intlnk" title="" class="doc">высококвалифицированных специалистов</span>, а&nbsp;также преподавателей и&nbsp;специалистов, привлекаемых для работы в&nbsp;Президентские школы и ВУЗы;</li><li>2&nbsp;БРВ для <span num="16" target="_self" lnktype="intlnk" title="" class="doc">квалифицированных специалистов</span>;</li><li>2&nbsp;БРВ для <span num="17" target="_self" lnktype="intlnk" title="" class="doc">соотечественников</span>;</li><li>30&nbsp;БРВ для иных иностранных граждан.</li></ul><p><a data-anchor="/document/16/221658/bssPhr77/"></a><a data-anchor="/document/16/221658/dfas2zgx03/" data-dfa="dfas2zgx03"></a>Оплата сбора подтверждается через информационно-коммуникационные системы (<span num="18" target="_blank" lnktype="intlnk" title="" class="doc">п.&nbsp;14</span>&nbsp;Единого положения, приложение 1&nbsp;к постановлению Кабмина&nbsp;от&nbsp;22.02.2022 № 86).</p></div><a data-anchor="/document/16/221658/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/221658/bssPhr78/"></a><a data-anchor="/document/16/221658/dfas05pgx9/" data-dfa="dfas05pgx9"></a>Отказ в&nbsp;выдаче подтверждения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221658/bssPhr80/"></a><a data-anchor="/document/16/221658/dfas8vav34/" data-dfa="dfas8vav34"></a>Отказать в&nbsp;выдаче подтверждения вправе только по&nbsp;следующим основаниям:</p><ul class="c-list"><li><a data-anchor="/document/16/221658/bssPhr81/"></a><a data-anchor="/document/16/221658/dfasvx5woo/" data-dfa="dfasvx5woo"></a>заявитель представил&nbsp;документы, необходимые для выдачи разрешения не в полном объеме;</li><li>заявитель не&nbsp;соблюдает требования и&nbsp;условия получения подтверждения;</li><li>присутствуют неверные или искаженные сведения в&nbsp;представленных документах;</li><li>есть мотивированное отрицательное заключение по&nbsp;результатам исследований, проверок или иных научно-технических оценок.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221658/bssPhr82/"></a><a data-anchor="/document/16/221658/dfasges44x/" data-dfa="dfasges44x"></a>Отказ в&nbsp;выдаче документа разрешительного характера по&nbsp;иным основаниям, в&nbsp;том числе по&nbsp;мотивам нецелесообразности, не&nbsp;допускается (п.&nbsp;21&nbsp;Единого положения, приложение 1&nbsp;к постановлению Кабмина от 22.02.2022 № 86).</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/221658/bssPhr84/"></a><a data-anchor="/document/16/221658/dfas8krd3b/" data-dfa="dfas8krd3b"></a>Заявителю будет дано время на&nbsp;устранение если:</p><ul class="c-list"><li><a data-anchor="/document/16/221658/bssPhr85/"></a><a data-anchor="/document/16/221658/dfas73f2ca/" data-dfa="dfas73f2ca"></a>заявитель представил неполное количество документов для выдачи разрешения;</li><li>профессиональная квалификация работников не&nbsp;соответствует установленным законодательством требованиям;</li><li>представленные документы и&nbsp;программы не&nbsp;соответствуют требованиям.</li></ul><p><a data-anchor="/document/16/221658/bssPhr86/"></a><a data-anchor="/document/16/221658/dfask5evsq/" data-dfa="dfask5evsq"></a>После устранения недостатков, уполномоченный орган рассмотрит заявление в&nbsp;течение 5&nbsp;рабочих дней.</p><p><a data-anchor="/document/16/221658/bssPhr87/"></a><a data-anchor="/document/16/221658/dfasu5ha76/" data-dfa="dfasu5ha76"></a>И&nbsp;только, если невозможно устранить эти замечания, в&nbsp;выдаче подтверждения откажут (<span num="19" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;22</span>&nbsp;Единого положения, приложение 1&nbsp;к постановлению Кабмина от 22.02.2022 № 86).</p></div><a data-anchor="/document/16/221658/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/221658/bssPhr88/"></a><a data-anchor="/document/16/221658/dfask43dtv/" data-dfa="dfask43dtv"></a>Срок действия подтверждения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221658/bssPhr90/"></a><a data-anchor="/document/16/221658/dfasp5001l/" data-dfa="dfasp5001l"></a>Для <span num="20" target="_self" lnktype="intlnk" title="" class="doc">высококвалифицированных</span> и <span num="21" target="_self" lnktype="intlnk" title="" class="doc">квалифицированных специалистов</span>, преподавателей и&nbsp;специалистов, привлекаемых для работы в&nbsp;Президентских школах и&nbsp;высших учебных заведениях, срок подтверждения равен сроку действия трудовых договоров, но&nbsp;не&nbsp;более трех лет. При этом высококвалифицированные и&nbsp;квалифицированные специалисты имеют право работать по&nbsp;совместительству на&nbsp;территории республики без получения подтверждения для работы по&nbsp;совместительству.</p><p><a data-anchor="/document/16/221658/bssPhr91/"></a><a data-anchor="/document/16/221658/dfasbpa5oa/" data-dfa="dfasbpa5oa"></a>Подтверждение для иных иностранных граждан выдаются на&nbsp;срок действия трудового договора, но&nbsp;не&nbsp;более чем на&nbsp;один год. Договор разрешено продлевать неограниченное количество раз, но&nbsp;не&nbsp;более чем на&nbsp;один год в&nbsp;каждом случае.</p><p><a data-anchor="/document/16/221658/bssPhr92/"></a><a data-anchor="/document/16/221658/dfas356blc/" data-dfa="dfas356blc"></a>В&nbsp;случае досрочного прекращения трудового договора высококвалифицированные и&nbsp;квалифицированные специалисты имеют право найти нового работодателя в&nbsp;течение 30&nbsp;рабочих дней. В&nbsp;этот период будет сохраняться действие ранее выданных им&nbsp;подтверждений, виз и&nbsp;видов на&nbsp;жительство.</p><p><a data-anchor="/document/16/221658/bssPhr93/"></a><a data-anchor="/document/16/221658/dfassnqxlh/" data-dfa="dfassnqxlh"></a>Такие правила установлена <span num="22" target="_self" lnktype="intlnk" title="" class="doc">приложением 20</span>&nbsp;Единого положения (приложение 1&nbsp;к постановлению Кабмина от 22.02.2022 № 86).</p></div><a data-anchor="/document/16/221658/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/221658/bssPhr94/"></a><a data-anchor="/document/16/221658/dfas5cfvl4/" data-dfa="dfas5cfvl4"></a>Приостановление</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221658/bssPhr96/"></a><a data-anchor="/document/16/221658/dfashw2h0u/" data-dfa="dfashw2h0u"></a>Действие подтверждения может быть приостановлено по&nbsp;инициативе Агентства в&nbsp;следующих случаях:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/221658/bssPhr97/"></a><a data-anchor="/document/16/221658/dfasdkeswo/" data-dfa="dfasdkeswo"></a>при установлении заявителем нарушения требований и&nbsp;условий разрешения;</li><li style="text-align:left">в&nbsp;случае несоблюдения заявителем обязанности по&nbsp;устранению нарушений, выявленных Агентством.</li></ul><p><a data-anchor="/document/16/221658/bssPhr98/"></a><a data-anchor="/document/16/221658/dfasih6s60/" data-dfa="dfasih6s60"></a>Агентство вправе приостановить действие подтверждения сроком на&nbsp;10&nbsp;рабочих дней. Чтобы приостановить на&nbsp;срок от&nbsp;10&nbsp;рабочих дней до&nbsp;6&nbsp;месяцев нужно решение суда. Если причины и&nbsp;недостатки не&nbsp;устранены в&nbsp;установленный срок, срок приостановления действия подтверждения может быть продлен.</p><p><a data-anchor="/document/16/221658/bssPhr99/"></a><a data-anchor="/document/16/221658/dfashqx1bp/" data-dfa="dfashqx1bp"></a>Это следует из&nbsp;положения пунктов <span num="23" target="_self" lnktype="intlnk" title="" class="doc">39</span>, <span num="24" target="_self" lnktype="intlnk" title="" class="doc">40</span>&nbsp;Единого положения (приложение 1&nbsp;к ПКМ №&nbsp;86&nbsp;от&nbsp;22.02.2022).</p></div><a data-anchor="/document/16/221658/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/221658/bssPhr100/"></a><a data-anchor="/document/16/221658/dfas47a2c1/" data-dfa="dfas47a2c1"></a>Аннулирование</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221658/bssPhr102/"></a><a data-anchor="/document/16/221658/dfasihxqdh/" data-dfa="dfasihxqdh"></a>Подтверждение будет аннулировано в&nbsp;следующих случаях:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/221658/bssPhr103/"></a><a data-anchor="/document/16/221658/dfas2lu1ce/" data-dfa="dfas2lu1ce"></a>при принятии заявления владельца разрешения об&nbsp;аннулировании разрешения;</li><li style="text-align:left">ликвидации юридического лица;</li><li style="text-align:left">прекращении действия свидетельства о&nbsp;государственной регистрации индивидуального предпринимателя;</li><li style="text-align:left">ограничении в&nbsp;установленном порядке дееспособности физического лица, признании его недееспособным;</li><li style="text-align:left">неуплате заявителем сбора за&nbsp;выдачу подтверждения.</li></ul><p><a data-anchor="/document/16/221658/bssPhr104/"></a><a data-anchor="/document/16/221658/dfasgb687e/" data-dfa="dfasgb687e"></a>Такие правила установлены <span num="25" target="_self" lnktype="intlnk" title="" class="doc">пунктом&nbsp;48</span>&nbsp;Единого положения (приложение 1&nbsp;к ПКМ №&nbsp;86&nbsp;от&nbsp;22.02.2022).</p></div><a data-anchor="/document/16/221658/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/221658/bssPhr105/"></a><a data-anchor="/document/16/221658/dfas6exn6s/" data-dfa="dfas6exn6s"></a>Прекращение</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/221658/bssPhr107/"></a><a data-anchor="/document/16/221658/dfasl0g01i/" data-dfa="dfasl0g01i"></a>Подтверждение прекратит свое действие в&nbsp;следующих случаях:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/221658/bssPhr108/"></a><a data-anchor="/document/16/221658/dfasq9g07c/" data-dfa="dfasq9g07c"></a>при отмене процедуры выдачи подтверждения;</li><li style="text-align:left">по&nbsp;истечении срока действия подтверждения;</li><li style="text-align:left">в&nbsp;случае смерти физического лица, имеющего подтверждение;</li><li>если владелец подтверждения обратился в&nbsp;Агентство с&nbsp;заявлением о&nbsp;приостановлении действия подтверждения на&nbsp;срок до&nbsp;шести месяцев и&nbsp;не&nbsp;заявил о&nbsp;восстановлении действия разрешения в&nbsp;течение этих шести месяцев.</li></ul><p style="text-align:left"><a data-anchor="/document/16/221658/bssPhr109/"></a><a data-anchor="/document/16/221658/dfasa4c3d3/" data-dfa="dfasa4c3d3"></a>В&nbsp;случае прекращения действия подтверждения решение Агентства не&nbsp;требуется.</p><p><a data-anchor="/document/16/221658/bssPhr110/"></a><a data-anchor="/document/16/221658/dfas9w00i2/" data-dfa="dfas9w00i2"></a>Это установлено <span num="26" target="_self" lnktype="intlnk" title="" class="doc">пунктом&nbsp;51</span>&nbsp;Единого положения (приложение 1&nbsp;к ПКМ №&nbsp;86&nbsp;от&nbsp;22.02.2022).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно&#160;ли получать новое подтверждение, если организация была реорганизована</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221658/bssPhr112/"></a><a data-anchor="/document/16/221658/dfaspgg2fs/" data-dfa="dfaspgg2fs"></a><a data-anchor="/document/16/221658/dfas6xm8t0/" data-dfa="dfas6xm8t0"></a>При реорганизации (слиянии, присоединении, разделении, преобразовании, выделении), трудовые отношения в&nbsp;организации с&nbsp;согласия работника продолжаются (ст. <span num="87" target="_self" lnktype="intlnk" title="" class="doc">156</span>&nbsp;ТК). Если работник-иностранный гражданин остается работать на&nbsp;прежней должности, то&nbsp;получать заново подтверждение на&nbsp;право трудовой деятельности не&nbsp;нужно. Однако, рекомендуем информировать Агентство по&nbsp;внешней трудовой миграции о&nbsp;реорганизации и&nbsp;сообщить наименование организации, которая теперь является правопреемником.</p></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязательно&#160;ли прекратить трудовой договор с&#160;иностранцем, если очередное подтверждение получили с&#160;трехдневным перерывом</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221658/bssPhr115/"></a><a data-anchor="/document/16/221658/dfas2n898p/" data-dfa="dfas2n898p"></a>В&nbsp;данном случае нужно прекратить трудовой договор и&nbsp;заключить новый с&nbsp;даты получения подтверждения на&nbsp;право трудовой деятельности на&nbsp;территории Республики Узбекистан.&nbsp;</p><p><a data-anchor="/document/16/221658/bssPhr116/"></a><a data-anchor="/document/16/221658/dfasegi3fb/" data-dfa="dfasegi3fb"></a>Срок трудового договора с&nbsp;иностранцем истек 15&nbsp;ноября 2024&nbsp;года. Следующее подтверждение вы&nbsp;получили 18&nbsp;ноября 2024&nbsp;года. Между датой истечения срока подтверждения и&nbsp;получением нового прошло три дня. Между тем <span num="126" target="_self" lnktype="intlnk" title="" class="doc">трудовой договор</span> не&nbsp;может быть заключен на&nbsp;более длительный период, чем срок подтверждения.</p><p><a data-anchor="/document/16/221658/bssPhr117/"></a><a data-anchor="/document/16/221658/dfas7m5lzk/" data-dfa="dfas7m5lzk"></a>Оформление приема на&nbsp;работу иностранного гражданина, заключение с&nbsp;ним трудового договора, а&nbsp;также внесение изменений в&nbsp;него осуществляется в&nbsp;соответствии с&nbsp;общими нормами. Срок действия трудового договора с&nbsp;иностранным гражданином не&nbsp;может превышать срока действия подтверждения на&nbsp;право трудовой деятельности на&nbsp;территории Республики Узбекистан (<span num="127" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;524</span>&nbsp;ТК).</p><p><a data-anchor="/document/16/221658/bssPhr118/"></a><a data-anchor="/document/16/221658/dfas2wfmyz/" data-dfa="dfas2wfmyz"></a>Если&nbsp;бы иностранный работник получил новое подтверждение на&nbsp;право трудовой деятельности до&nbsp;истечения текущего срока, вы&nbsp;могли&nbsp;бы продлить действие трудового договора, оформив <span num="128" target="_self" lnktype="intlnk" title="" class="doc">дополнительное соглашение</span>.</p><p><a data-anchor="/document/16/221658/bssPhr119/"></a><a data-anchor="/document/16/221658/dfasggs2a3/" data-dfa="dfasggs2a3"></a>Однако, новое подтверждение было выдано после окончания срока предыдущего, необходимо прекратить существующий трудовой договор и&nbsp;оформить новый, начиная с&nbsp;даты получения нового подтверждения.</p><p><a data-anchor="/document/16/221658/bssPhr120/"></a><a data-anchor="/document/16/221658/dfaswbbvpd/" data-dfa="dfaswbbvpd"></a>Более подробно о&nbsp;том,&nbsp;<span data-warm-notices="46194552" data-warm-notice-type="error" num="129" target="_self" lnktype="intlnk" title="" class="doc">как принять на&nbsp;работу иностранца</span> и <span data-warm-notices="46194551" data-warm-notice-type="error" num="130" target="_self" lnktype="intlnk" title="" class="doc">как прекратить трудовой договор с&nbsp;иностранцем</span>, читайте в&nbsp;рекомендациях экспертов Системы Кадры.</p></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

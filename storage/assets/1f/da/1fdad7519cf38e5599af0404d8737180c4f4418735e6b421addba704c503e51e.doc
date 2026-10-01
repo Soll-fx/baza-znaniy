@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассчитать, перечислить в бюджет и сдать отчетность по налогу за пользование недрами</h2><div class="doc-snippet"><a data-anchor="/document/16/210735/dfas61dtq9/" data-dfa="dfas61dtq9"></a><a data-anchor="/document/16/210735/bssPhr2/"></a>Из&nbsp;рекомендации узнаете, что является объектом обложения налогом за&nbsp;пользование недрами, как определить налоговую базу по&nbsp;этому налогу и&nbsp;как его рассчитать. Также найдете ответы на&nbsp;вопросы: когда сдавать отчетность по&nbsp;налогу за&nbsp;пользование недрами, как уплатить в&nbsp;бюджет этот налог и&nbsp;какими проводками отразить расчеты по&nbsp;налогу. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/210735/bssPhr4/"></a><a data-anchor="/document/16/210735/dfasu60e8a/" data-dfa="dfasu60e8a"></a>Как рассчитать, перечислить в&nbsp;бюджет и&nbsp;сдать отчетность по&nbsp;налогу за&nbsp;пользование недрами эксперт Системы Главбух подробно описал в <span num="36" target="_self" lnktype="intlnk" title="" class="doc">рекомендации</span>.</p><a data-anchor="/document/16/210735/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210735/bssPhr5/"></a><a data-anchor="/document/16/210735/dfasfx3t2i/" data-dfa="dfasfx3t2i"></a>Объект налогообложения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210735/bssPhr7/"></a><a data-anchor="/document/16/210735/dfasp01vw0/" data-dfa="dfasp01vw0"></a>Объектами обложения налогом за пользование недрами являются (ст. 450 НК):</p><ul class="c-list"><li><a data-anchor="/document/16/210735/bssPhr8/"></a><a data-anchor="/document/16/210735/dfasbgcz1r/" data-dfa="dfasbgcz1r"></a>объем добычи (извлечения) полезного ископаемого;</li><li>объем фактической реализации добытых (извлеченных) черных, драгоценных, цветных и радиоактивных металлов, редких и редкоземельных элементов.</li></ul><p><a data-anchor="/document/16/210735/bssPhr9/"></a><a data-anchor="/document/16/210735/dfast47ye8/" data-dfa="dfast47ye8"></a>Объем добытого/извлеченного полезного ископаемого определяют за&nbsp;вычетом объема технологических потерь в&nbsp;пределах норм, утвержденных уполномоченным органом, а&nbsp;при их&nbsp;отсутствии&nbsp;— налогоплательщиком.</p><p><a data-anchor="/document/16/210735/bssPhr10/"></a><a data-anchor="/document/16/210735/dfasgfl9cy/" data-dfa="dfasgfl9cy"></a>Технологические потери&nbsp;— это потери в&nbsp;рамках технологического цикла по&nbsp;добыче/извлечению, первичной обработке, переработке и&nbsp;транспортировке полезных ископаемых.</p><p><a data-anchor="/document/16/210735/bssPhr11/"></a><a data-anchor="/document/16/210735/dfasyeozck/" data-dfa="dfasyeozck"></a>К&nbsp;технологическим потерям в&nbsp;соответствии с <span num="49" target="_self" lnktype="intlnk" title="" class="doc">частями 2</span>&nbsp;и <span num="50" target="_self" lnktype="intlnk" title="" class="doc">3</span>&nbsp;статьи&nbsp;450&nbsp;НК относят:</p><ul class="c-list"><li><a data-anchor="/document/16/210735/bssPhr12/"></a><a data-anchor="/document/16/210735/dfasq7ghuu/" data-dfa="dfasq7ghuu"></a>потери (за&nbsp;исключением сверхнормативных) при извлечении полезных ископаемых, включая остатки (неизвлекаемые запасы);</li><li>потери при первичной промысловой переработке углеводородов;</li><li>объем природного газа, закачиваемого обратно в&nbsp;продуктовый пласт для поддержания пластового давления и/или извлечения углеводородов в&nbsp;рамках замкнутого технологического цикла.</li></ul><p><a data-anchor="/document/16/210735/bssPhr13/"></a><a data-anchor="/document/16/210735/dfascfw8xy/" data-dfa="dfascfw8xy"></a>Объект налогообложения определяйте отдельно по&nbsp;каждому виду добытого/извлеченного полезного ископаемого.</p><p><a data-anchor="/document/16/210735/bssPhr14/"></a><a data-anchor="/document/16/210735/dfas1fn83w/" data-dfa="dfas1fn83w"></a>Не&nbsp;являются объектом налогообложения:</p><ul class="c-list"><li><a data-anchor="/document/16/210735/bssPhr15/"></a><a data-anchor="/document/16/210735/dfassyr1wl/" data-dfa="dfassyr1wl"></a>общераспространенные полезные ископаемые добытые (извлеченные) в&nbsp;пределах предоставленных налогоплательщикам земельных участков и&nbsp;использованные для собственных хозяйственных и&nbsp;бытовых нужд;</li><li>нерудные полезные ископаемые, добытые/извлеченные в&nbsp;результате работ по&nbsp;расчистке русел рек и&nbsp;укреплению берегов, в&nbsp;порядке, установленном законодательством, за&nbsp;исключением переработанного и&nbsp;реализованного объема полезного ископаемого (<span num="51" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;450&nbsp;НК</span>).</li></ul></div><a data-anchor="/document/16/210735/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210735/bssPhr16/"></a><a data-anchor="/document/16/210735/dfasenv4ha/" data-dfa="dfasenv4ha"></a>Налоговая база</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210735/bssPhr18/"></a><a data-anchor="/document/16/210735/dfaske3zzg/" data-dfa="dfaske3zzg"></a>Налоговая база&nbsp;— это стоимость объема добытого/извлеченного полезного ископаемого, за&nbsp;исключением с&nbsp;1&nbsp;января 2023 года добытых/извлеченных черных, драгоценных, цветных и&nbsp;радиоактивных металлов, редких и&nbsp;редкоземельных элементов.</p><p><a data-anchor="/document/16/210735/bssPhr19/"></a><a data-anchor="/document/16/210735/dfasgr9ds5/" data-dfa="dfasgr9ds5"></a>По&nbsp;добытым/извлеченным черным, драгоценным, цветным и&nbsp;радиоактивным металлам, редким и&nbsp;редкоземельным элементам налоговая база определяется исходя из&nbsp;стоимости объема их&nbsp;фактической реализации (<span num="52" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;451&nbsp;НК в&nbsp;редакции № <span num="53" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от&nbsp;30.12.2022г.).</p><p><a data-anchor="/document/16/210735/bssPhr20/"></a><a data-anchor="/document/16/210735/dfasputo9w/" data-dfa="dfasputo9w"></a>Налоговую базу налогоплательщики определяют самостоятельно нарастающим итогом с&nbsp;начала налогового (отчетного) периода в&nbsp;отношении каждого добытого (извлеченного) полезного ископаемого (<span num="54" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>, <span num="55" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;451&nbsp;НК в&nbsp;редакции № <span num="56" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от&nbsp;30.12.2022&nbsp;г.).</p><p><a data-anchor="/document/16/210735/bssPhr21/"></a><a data-anchor="/document/16/210735/dfasvbc68w/" data-dfa="dfasvbc68w"></a>Рассчитывайте ее&nbsp;по&nbsp;средневзвешенной цене реализации за&nbsp;отчетный период.<br>Средневзвешенную цену реализации определяйте по&nbsp;формуле:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td rowspan="2" style="text-align:center"><p style="text-align:center"><a data-anchor="/document/16/210735/bssPhr22/"></a><a data-anchor="/document/16/210735/dfasfdbaha/" data-dfa="dfasfdbaha"></a>СЦР =</p></td><td class="bdBottom" style="text-align:center"><p style="text-align:center"><a data-anchor="/document/16/210735/bssPhr23/"></a><a data-anchor="/document/16/210735/dfas99mk0x/" data-dfa="dfas99mk0x"></a>Объем реализации в&nbsp;денежном выражении за&nbsp;минусом НДС и&nbsp;акциза</p></td></tr><tr><td class="bdTop" style="text-align:center"><p style="text-align:center"><a data-anchor="/document/16/210735/bssPhr24/"></a><a data-anchor="/document/16/210735/dfas5g7qwn/" data-dfa="dfas5g7qwn"></a>Объем реализации в&nbsp;натуральном выражении</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210735/bssPhr26/"></a><a data-anchor="/document/16/210735/dfas3sqknq/" data-dfa="dfas3sqknq"></a>1. Если в&nbsp;течение налогового (отчетного) периода реализации полезного ископаемого не&nbsp;было.</p><p><a data-anchor="/document/16/210735/bssPhr27/"></a><a data-anchor="/document/16/210735/dfas926cbn/" data-dfa="dfas926cbn"></a>В&nbsp;этом случае налоговую базу определяйте исходя из&nbsp;средневзвешенной цены реализации полезного ископаемого последнего налогового (отчетного) периода, в&nbsp;котором была реализация.</p><p><a data-anchor="/document/16/210735/bssPhr28/"></a><a data-anchor="/document/16/210735/dfas0znm4s/" data-dfa="dfas0znm4s"></a>2. Если реализация отсутствует с&nbsp;начала добычи (извлечения) полезных ископаемых.</p><p><a data-anchor="/document/16/210735/bssPhr29/"></a><a data-anchor="/document/16/210735/dfas3wedp6/" data-dfa="dfas3wedp6"></a>В&nbsp;этом случае налоговую базу определяйте исходя из&nbsp;производственной себестоимости добычи (извлечения) данных полезных ископаемых за&nbsp;налоговый (отчетный) период, увеличенной на&nbsp;20&nbsp;процентов. При этом в&nbsp;последующем вы&nbsp;обязаны произвести корректировку суммы начисленного налога в&nbsp;первом отчетном периоде, когда будет реализация, исходя из&nbsp;средневзвешенной цены, сложившейся за&nbsp;этот отчетный период.</p><p><a data-anchor="/document/16/210735/bssPhr30/"></a><a data-anchor="/document/16/210735/dfasn3d80d/" data-dfa="dfasn3d80d"></a>3. Если часть добытого (извлеченного) полезного ископаемого вы&nbsp;реализовали, а&nbsp;другую часть используете для собственных производственных или хозяйственных нужд.</p><p><a data-anchor="/document/16/210735/bssPhr31/"></a><a data-anchor="/document/16/210735/dfasg6iz8g/" data-dfa="dfasg6iz8g"></a>В&nbsp;этом случае налоговую базу определяйте исходя из&nbsp;средневзвешенной цены реализации этого полезного ископаемого в&nbsp;расчете на&nbsp;весь объем добытого (извлеченного) полезного ископаемого.</p><p><a data-anchor="/document/16/210735/bssPhr32/"></a><a data-anchor="/document/16/210735/dfasl2vybp/" data-dfa="dfasl2vybp"></a>4. Если весь объем добытого (извлеченного) полезного ископаемого полностью используете для собственных производственных или хозяйственных нужд.</p><p><a data-anchor="/document/16/210735/bssPhr33/"></a><a data-anchor="/document/16/210735/dfas4r8ris/" data-dfa="dfas4r8ris"></a>В&nbsp;этом случае налоговую базу определяйте исходя из&nbsp;производственной себестоимости добытого (извлеченного) полезного ископаемого, увеличенной на&nbsp;20&nbsp;процентов.</p><p><a data-anchor="/document/16/210735/bssPhr34/"></a><a data-anchor="/document/16/210735/dfasnzodnp/" data-dfa="dfasnzodnp"></a>5. Если осуществляете переработку добытого природного газа, нефти, и&nbsp;(или) газового конденсата самостоятельно либо на&nbsp;давальческой основе (<span num="57" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;9</span>&nbsp;ст.&nbsp;451&nbsp;НК в&nbsp;редакции № <span num="58" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от&nbsp;30.12.2022г.).</p><p><a data-anchor="/document/16/210735/bssPhr35/"></a><a data-anchor="/document/16/210735/dfasnsylrm/" data-dfa="dfasnsylrm"></a>В&nbsp;этом случае налоговую базу определяйте исходя из&nbsp;цены реализации полученных из&nbsp;этих полезных ископаемых продуктов за&nbsp;вычетом расходов, понесенных на&nbsp;их&nbsp;дальнейшую переработку и&nbsp;транспортировку.</p><p><a data-anchor="/document/16/210735/bssPhr36/"></a><a data-anchor="/document/16/210735/dfash03dut/" data-dfa="dfash03dut"></a>6. Если добываете драгоценные, цветные и&nbsp;радиоактивные металлы, а&nbsp;также редкие и&nbsp;редкоземельные элементы, за&nbsp;исключением добычи (извлечения) золота, серебра, платины, палладия, меди, цинка, свинца и&nbsp;молибдена.</p><p><a data-anchor="/document/16/210735/bssPhr37/"></a><a data-anchor="/document/16/210735/dfashincx4/" data-dfa="dfashincx4"></a>В&nbsp;этом случае налоговую базу определяйте исходя из&nbsp;средневзвешенной цены реализации этого полезного ископаемого за&nbsp;вычетом расходов на&nbsp;его дальнейшую переработку (плавка, аффинаж) и&nbsp;(или) транспортировку (<span num="59" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;10</span>&nbsp;ст.&nbsp;451&nbsp;НК в&nbsp;редакции № <span num="60" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от&nbsp;30.12.2022г.).</p><p><a data-anchor="/document/16/210735/bssPhr38/"></a><a data-anchor="/document/16/210735/dfas94phe2/" data-dfa="dfas94phe2"></a>7. Если добываете (извлекаете) золото, серебро, платину, палладий, медь, цинк, свинец и&nbsp;молибден.</p><p><a data-anchor="/document/16/210735/bssPhr39/"></a><a data-anchor="/document/16/210735/dfasqxtmai/" data-dfa="dfasqxtmai"></a>В&nbsp;этом случае налогооблагаемую базу определяйте исходя из&nbsp;наибольшей цены между среднеарифметической биржевой ценой и&nbsp;средневзвешенной ценой реализации.</p><p><a data-anchor="/document/16/210735/bssPhr40/"></a><a data-anchor="/document/16/210735/dfas8p088q/" data-dfa="dfas8p088q"></a>Для случаев 2&nbsp;и&nbsp;4&nbsp;налоговую базу рассчитывайте по&nbsp;формуле:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/210735/bssPhr41/"></a><a data-anchor="/document/16/210735/dfas7gzlgu/" data-dfa="dfas7gzlgu"></a>Производственная себестоимость добычи полезного ископаемого</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/210735/bssPhr42/"></a><a data-anchor="/document/16/210735/dfas7ul8c4/" data-dfa="dfas7ul8c4"></a>+</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/210735/bssPhr43/"></a><a data-anchor="/document/16/210735/dfas9016rq/" data-dfa="dfas9016rq"></a>20%</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210735/bssPhr44/"></a><a data-anchor="/document/16/210735/dfasgeucl0/" data-dfa="dfasgeucl0"></a><strong>С&nbsp;2023 года по&nbsp;металлам и&nbsp;углеводородам, в&nbsp;отношении которых применяется механизм «Netback» </strong> уточняется фискальный периметр. При этом при <strong>определении налоговой базы </strong> по&nbsp;этим видам полезных ископаемых <strong>сумма расходов</strong>, <strong>связанная с&nbsp;транспортировкой и&nbsp;/или переработкой </strong> добытых полезных ископаемых, <strong>включая их&nbsp;переработку на&nbsp;давальческой основе </strong> определяется <strong>налогоплательщиком совместно с&nbsp;налоговыми органами</strong>. Сумма данных расходов <strong>может корректироваться </strong> по&nbsp;итогам календарного года, в&nbsp;аналогичном порядке (<span num="61" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;11</span>&nbsp;ст.&nbsp;451&nbsp;НК введена № <span num="62" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от&nbsp;30.12.2022г., п.3 раздела «Налог за&nbsp;пользование недрами» <span num="63" target="_self" lnktype="intlnk" title="" class="doc">Информационного сообщения</span>&nbsp;МФ от&nbsp;30.12.2022&nbsp;г. №&nbsp;06/04-32/4304).</p></div><a data-anchor="/document/16/210735/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210735/bssPhr45/"></a><a data-anchor="/document/16/210735/dfasqzg6nn/" data-dfa="dfasqzg6nn"></a>Особенности определения налоговой базы по&nbsp;отдельным металлам</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210735/bssPhr47/"></a><a data-anchor="/document/16/210735/dfasvcc8yg/" data-dfa="dfasvcc8yg"></a>Налогову базу по&nbsp;золоту, серебру, платине, палладию, меди, цинку, свинцу и&nbsp;молибдену определяйте в&nbsp;отношении каждого металла, содержащегося в&nbsp;руде, концентрате&nbsp;и (или) конечном продукте переработки (готовый продукт) в&nbsp;соответствии со <span num="97" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;451-1</span>&nbsp;НК.</p><p><a data-anchor="/document/16/210735/bssPhr48/"></a><a data-anchor="/document/16/210735/dfaskbb0xa/" data-dfa="dfaskbb0xa"></a>В&nbsp;этом случае налоговой базой является стоимость фактической реализации добытого (извлеченного) металла.</p><p><a data-anchor="/document/16/210735/bssPhr49/"></a><a data-anchor="/document/16/210735/dfaszxp50e/" data-dfa="dfaszxp50e"></a>Налоговую базу <strong>при реализации руды (концентрата) (за&nbsp;исключением золота и&nbsp;меди)</strong> рассчитывайте по&nbsp;наибольшей цене, полученной между среднеарифметической биржевой ценой и&nbsp;средневзвешенной ценой реализации за&nbsp;налоговый (отчетный) период, применяемой к&nbsp;объему металла, содержащегося в&nbsp;руде (концентрате), за&nbsp;вычетом расходов на&nbsp;его дальнейшую переработку (плавка, аффинаж) и&nbsp;(или) транспортировку;</p><p><a data-anchor="/document/16/210735/bssPhr50/"></a><a data-anchor="/document/16/210735/dfas2qg3ld/" data-dfa="dfas2qg3ld"></a>Налоговую базу <strong>при реализации золота и&nbsp;меди</strong> рассчитывайте по&nbsp;наибольшей цене, полученной между среднеарифметической биржевой ценой и&nbsp;средневзвешенной ценой реализации за&nbsp;налоговый (отчетный) период, применяемой к&nbsp;объему металла, содержащегося в&nbsp;руде, концентрате&nbsp;и (или) конечном продукте переработки (готовый продукт), без вычета расходов на&nbsp;его дальнейшую переработку (плавка, аффинаж) и&nbsp;транспортировку. При этом вы&nbsp;вправе определять налоговую базу по&nbsp;золоту и&nbsp;меди за&nbsp;вычетом этих расходов;</p><p><a data-anchor="/document/16/210735/bssPhr51/"></a><a data-anchor="/document/16/210735/dfas0itqvb/" data-dfa="dfas0itqvb"></a>Налоговую базу <strong>при реализации серебра, платины, палладия, цинка, свинца или молибдена, извлеченных самостоятельно либо на&nbsp;давальческой основ</strong>е рассчитывайте по&nbsp;наибольшей цене, полученной между среднеарифметической биржевой ценой и&nbsp;средневзвешенной ценой реализации за&nbsp;налоговый (отчетный) период, за&nbsp;вычетом расходов, понесенных налогоплательщиком на&nbsp;его дальнейшую переработку (плавка, аффинаж) и&nbsp;(или) транспортировку.</p><p><a data-anchor="/document/16/210735/bssPhr52/"></a><a data-anchor="/document/16/210735/dfas3w5gfd/" data-dfa="dfas3w5gfd"></a>Это определено в <span num="98" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;2</span>&nbsp;статьи&nbsp;451-1&nbsp;НК в&nbsp;редакции № <span num="99" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от&nbsp;30.12.2022г.</p><p><a data-anchor="/document/16/210735/bssPhr53/"></a><a data-anchor="/document/16/210735/dfas3xi9m4/" data-dfa="dfas3xi9m4"></a>Если извлеченные серебро, платина, палладий, цинк, свинец, молибден не&nbsp;являются основным металлом в&nbsp;руде или их&nbsp;извлечение осуществляется на&nbsp;производственных мощностях, на&nbsp;которых извлекаются (обогащаются, перерабатываются) золото&nbsp;и (или) медь, то&nbsp;налоговую базу определяйте без вычета расходов на&nbsp;дальнейшую переработку (плавка, аффинаж) и&nbsp;транспортировку.</p><p><a data-anchor="/document/16/210735/bssPhr54/"></a><a data-anchor="/document/16/210735/dfasds14d6/" data-dfa="dfasds14d6"></a>Если извлеченные серебро, платина, палладий, цинк, свинец, молибден являются основными металлами в&nbsp;руде, то&nbsp;налоговую базу по&nbsp;другим металлам, включая золото и&nbsp;медь, определяйте за&nbsp;вычетом расходов на&nbsp;их&nbsp;дальнейшую переработку (плавка, аффинаж) и&nbsp;транспортировку.</p><p><a data-anchor="/document/16/210735/bssPhr55/"></a><a data-anchor="/document/16/210735/dfas00i9aw/" data-dfa="dfas00i9aw"></a>Это определено <span num="100" target="_self" lnktype="intlnk" title="" class="doc">частями 3</span>&nbsp;и <span num="101" target="_self" lnktype="intlnk" title="" class="doc">4</span>&nbsp;статьи&nbsp;451-1&nbsp;НК в&nbsp;редакции № <span num="102" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от&nbsp;30.12.2022г.</p><p><a data-anchor="/document/16/210735/bssPhr56/"></a><a data-anchor="/document/16/210735/dfas4t5pyy/" data-dfa="dfas4t5pyy"></a>Если наряду с&nbsp;золотом, серебром, платиной, палладием, медью, цинком, свинцом и&nbsp;молибденом извлекаются другие драгоценные, цветные и&nbsp;радиоактивные металлы, а&nbsp;также редкие и&nbsp;редкоземельные элементы, налоговую базу по&nbsp;другим металлам (элементам) определяйте по&nbsp;средневзвешенной цене реализации за&nbsp;вычетом расходов на&nbsp;их&nbsp;дальнейшую переработку (плавка, аффинаж) и&nbsp;транспортировку (<span num="103" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>&nbsp;ст.&nbsp;451-1&nbsp;НК в&nbsp;редакции № <span num="104" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от&nbsp;30.12.2022г.).</p><p><a data-anchor="/document/16/210735/bssPhr57/"></a><a data-anchor="/document/16/210735/dfascrggo1/" data-dfa="dfascrggo1"></a>Если наряду с&nbsp;основными металлами в&nbsp;руде извлекаются другие металлы, в&nbsp;том числе из&nbsp;техногенного отхода (пыли, шлаков, кеков, шламов и&nbsp;т.&nbsp;п.), то&nbsp;налоговую базу по&nbsp;этим металлам (элементам) можно определять по&nbsp;средневзвешенной (среднеарифметической биржевой) цене реализации за&nbsp;вычетом расходов на&nbsp;их&nbsp;дальнейшую переработку (плавка, аффинаж) и&nbsp;транспортировку (<span num="105" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;6</span>&nbsp;ст.&nbsp;451-1&nbsp;НК в&nbsp;редакции № <span num="106" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от&nbsp;30.12.2022г.).</p><p><a data-anchor="/document/16/210735/bssPhr58/"></a><a data-anchor="/document/16/210735/dfas85ogum/" data-dfa="dfas85ogum"></a>Налоговые органы размещают на&nbsp;официальном сайте ГНК рассчитанную среднеарифметическую биржевую цену по&nbsp;каждому виду металла ежемесячно не&nbsp;позднее 10&nbsp;числа месяца, следующего за&nbsp;налоговым (отчетным) периодом.</p><p><a data-anchor="/document/16/210735/bssPhr59/"></a><a data-anchor="/document/16/210735/dfasdysf3v/" data-dfa="dfasdysf3v"></a>Средневзвешенную цену реализации за&nbsp;налоговый (отчетный) период определяют отдельно по&nbsp;каждому добытому (извлеченному) полезному ископаемому путем деления объемов реализации в&nbsp;денежном выражении (за&nbsp;вычетом НДС и&nbsp;акцизного налога) на&nbsp;объем реализации в&nbsp;натуральном выражении.</p></div><a data-anchor="/document/16/210735/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/210735/bssPhr60/"></a><a data-anchor="/document/16/210735/dfasqpa7k5/" data-dfa="dfasqpa7k5"></a>Расчет налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210735/bssPhr64/"></a><a data-anchor="/document/16/210735/dfas795tp8/" data-dfa="dfas795tp8"></a>Рассчитайте налог исходя из&nbsp;налоговой базы и&nbsp;установленной ставки.</p><p><a data-anchor="/document/16/210735/bssPhr65/"></a><a data-anchor="/document/16/210735/dfas53695c/" data-dfa="dfas53695c"></a>По&nbsp;отдельным видам полезных ископаемых сумму налога определяйте исходя из&nbsp;налоговой базы и&nbsp;установленной ставки, но&nbsp;не&nbsp;ниже установленной суммы налога (<span num="83" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;454&nbsp;НК).</p><p><a data-anchor="/document/16/210735/bssPhr66/"></a><a data-anchor="/document/16/210735/dfass37ut7/" data-dfa="dfass37ut7"></a>Ставки налога за&nbsp;пользование недрами установлены в <span num="85" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;452</span>&nbsp;НК.</p></div><a data-anchor="/document/16/210735/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/210735/bssPhr67/"></a><a data-anchor="/document/16/210735/dfaser0l6g/" data-dfa="dfaser0l6g"></a>Отчетность по&nbsp;налогу</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210735/bssPhr69/"></a><a data-anchor="/document/16/210735/dfas0hr6p2/" data-dfa="dfas0hr6p2"></a>Налоговым периодом по&nbsp;налогу за&nbsp;пользование недрами является:</p><ul class="c-list"><li><a data-anchor="/document/16/210735/bssPhr70/"></a><a data-anchor="/document/16/210735/dfas1damcq/" data-dfa="dfas1damcq"></a>для юрлиц&nbsp;— квартал;</li><li>для физлиц&nbsp;— календарный год.</li></ul><p><a data-anchor="/document/16/210735/bssPhr71/"></a><a data-anchor="/document/16/210735/dfas1gxnci/" data-dfa="dfas1gxnci"></a>Отчетным периодом является:</p><ul class="c-list"><li><a data-anchor="/document/16/210735/bssPhr72/"></a><a data-anchor="/document/16/210735/dfaskpk7ft/" data-dfa="dfaskpk7ft"></a>для юридических лиц&nbsp;— месяц.</li><li>для физических лиц&nbsp;— календарный год (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;453&nbsp;НК</span>).</li></ul><p><a data-anchor="/document/16/210735/bssPhr73/"></a><a data-anchor="/document/16/210735/dfasa3adpx/" data-dfa="dfasa3adpx"></a>Если вы&nbsp;юрлицо, налоговую отчетность сдавайте нарастающим итогом <strong>ежемесячно </strong> не&nbsp;позднее 20&nbsp;числа месяца, следующего за&nbsp;отчетным периодом (месяцем).</p><p><a data-anchor="/document/16/210735/bssPhr74/"></a><a data-anchor="/document/16/210735/dfasvoh2s2/" data-dfa="dfasvoh2s2"></a>Если вы&nbsp;физлицо, сдавайте отчетность <strong>один раз в&nbsp;год </strong> не&nbsp;позднее 1&nbsp;февраля года, следующего за&nbsp;налоговым периодом.</p><p><a data-anchor="/document/16/210735/bssPhr75/"></a><a data-anchor="/document/16/210735/dfasw8uk3u/" data-dfa="dfasw8uk3u"></a>Юридические лица и&nbsp;индивидуальные предприниматели представляют налоговую отчетность в&nbsp;виде электронного документа (<span num="65" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;82&nbsp;НК).</p><p><a data-anchor="/document/16/210735/bssPhr76/"></a><a data-anchor="/document/16/210735/dfasxg7igr/" data-dfa="dfasxg7igr"></a>С&nbsp;1&nbsp;января 2023&nbsp;г.&nbsp;по&nbsp;выбору налогоплательщика услуги по&nbsp;формированию налоговой отчетности могут оказывать налоговые органы (<span num="66" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>&nbsp;ст.&nbsp;81&nbsp;НК введена № <span num="67" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от&nbsp;30.12.2022г.).</p><p><a data-anchor="/document/16/210735/bssPhr77/"></a><a data-anchor="/document/16/210735/dfasx8430y/" data-dfa="dfasx8430y"></a>Налоговую отчетность предоставляйте в&nbsp;налоговые органы по&nbsp;месту налогового учета. А&nbsp;по&nbsp;нерудным строительным материалам&nbsp;— по&nbsp;месту осуществления добычи (<span num="68" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;454&nbsp;НК).</p><p><a data-anchor="/document/16/210735/bssPhr78/"></a><a data-anchor="/document/16/210735/dfasq469i5/" data-dfa="dfasq469i5"></a>Крупные налогоплательщики сдают отчетность в&nbsp;Межрегиональную государственную налоговую инспекцию по&nbsp;крупным налогоплательщикам (<span num="69" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;82&nbsp;НК).</p><p><a data-anchor="/document/16/210735/bssPhr79/"></a><a data-anchor="/document/16/210735/dfas370ss6/" data-dfa="dfas370ss6"></a>За&nbsp;несвоевременное представление налоговой отчетности должностное лицо налогоплательщика&nbsp;— юридического лица или налогоплательщик&nbsp;— физическое лицо привлекается к&nbsp;административной ответственности (<span num="70" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;220&nbsp;НК</span>). Размер штрафа с&nbsp;составляет 10&nbsp;БРВ (<span num="71" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;175</span> КоАО в&nbsp;редакции <span num="72" target="_self" lnktype="intlnk" title="" class="doc">Закона</span> № ЗРУ-758 от&nbsp;11.03.2022г.). Если правонарушение зафиксировано через Единую автоматизированную информационную систему налоговых органов, административной ответственности подлежит руководитель предприятия или индивидуальный предприниматель (<span num="73" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;17-3</span>&nbsp;КоАО, введена <span num="74" target="_self" lnktype="intlnk" title="" class="doc">Закона</span> № ЗРУ-758 от&nbsp;11.03.2022г).</p></div><a data-anchor="/document/16/210735/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/210735/bssPhr80/"></a><a data-anchor="/document/16/210735/dfaso69lcg/" data-dfa="dfaso69lcg"></a>Уплата налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210735/bssPhr82/"></a><a data-anchor="/document/16/210735/dfasiniw90/" data-dfa="dfasiniw90"></a>Юрлица уплачивают налог за&nbsp;пользование недрами ежемесячно, не&nbsp;позднее 20&nbsp;числа следующего за&nbsp;отчетным периодом (месяцем).</p><p><a data-anchor="/document/16/210735/bssPhr83/"></a><a data-anchor="/document/16/210735/dfasnqvx9p/" data-dfa="dfasnqvx9p"></a>Физлица уплачивают налог&nbsp;— не&nbsp;позднее 1&nbsp;февраля года, следующего за&nbsp;налоговым периодом.</p><p><a data-anchor="/document/16/210735/bssPhr84/"></a><a data-anchor="/document/16/210735/dfas7xs4nf/" data-dfa="dfas7xs4nf"></a>Это определено <span num="75" target="_self" lnktype="intlnk" title="" class="doc">частью&nbsp;4</span>&nbsp;статьи&nbsp;454&nbsp;НК.</p><p><a data-anchor="/document/16/210735/bssPhr85/"></a><a data-anchor="/document/16/210735/dfast65enu/" data-dfa="dfast65enu"></a>Уплату налога производите по&nbsp;месту налогового учета предприятия, а&nbsp;по&nbsp;нерудным полезным ископаемым&nbsp;— по&nbsp;месту осуществления добычи (<span num="76" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;131</span>&nbsp;НК, <span num="77" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;454</span>&nbsp;НК).</p><p><a data-anchor="/document/16/210735/bssPhr86/"></a><a data-anchor="/document/16/210735/dfaswx5tez/" data-dfa="dfaswx5tez"></a>Предприятие по&nbsp;месту осуществления добычи должно встать на&nbsp;учет в&nbsp;налоговых органах. Для этого нужно подать в&nbsp;течение 10&nbsp;дней со&nbsp;дня возникновения обязательства по&nbsp;уплате налога соответствующее заявление в&nbsp;налоговые органы в&nbsp;порядке, определенном <span num="78" target="_self" lnktype="intlnk" title="" class="doc">Административным регламентом</span>, утв. ПКМ №&nbsp;150 от&nbsp;02.04.2022&nbsp;г.</p><p><a data-anchor="/document/16/210735/bssPhr87/"></a><a data-anchor="/document/16/210735/dfasu1ufs4/" data-dfa="dfasu1ufs4"></a>Платежное поручение на&nbsp;уплату налога представьте в&nbsp;банк даже при отсутствии или недостаточности денежных средств на&nbsp;счете предприятия. При недостаточности средств на&nbsp;счете платежное поручение помещается в&nbsp;картотеку №&nbsp;2&nbsp;и&nbsp;оплачивается банком по&nbsp;мере поступления средств.</p><p><a data-anchor="/document/16/210735/bssPhr88/"></a><a data-anchor="/document/16/210735/dfasidhxvy/" data-dfa="dfasidhxvy"></a>За&nbsp;непредставление или несвоевременное представление в&nbsp;банк платежного поручения на&nbsp;уплату налогов и&nbsp;сборов на&nbsp;должностных лиц предприятия или индивидуальных предпринимателей налагается штраф в&nbsp;размере 5&nbsp;БРВ (<span num="79" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;175</span> КоАО в&nbsp;редакции <span num="80" target="_self" lnktype="intlnk" title="" class="doc">Закона</span> № ЗРУ-758 от&nbsp;11.03.2022&nbsp;г.). Если правонарушение зафиксировано через Единую автоматизированную информационную систему налоговых органов, административной ответственности подлежит руководитель предприятия или индивидуальный предприниматель (<span num="81" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;17-3</span>&nbsp;КоАО, введена <span num="82" target="_self" lnktype="intlnk" title="" class="doc">Законом</span> № ЗРУ-758 от&nbsp;11.03.2022г.).</p></div><a data-anchor="/document/16/210735/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/210735/bssPhr89/"></a><a data-anchor="/document/16/210735/dfasgu9v11/" data-dfa="dfasgu9v11"></a>Бухгалтерский учет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210735/bssPhr91/"></a><a data-anchor="/document/16/210735/dfasx3fgws/" data-dfa="dfasx3fgws"></a>В&nbsp;бухгалтерском учете расчеты по&nbsp;налогу за&nbsp;пользование недрами отражаются проводками:</p><p><a data-anchor="/document/16/210735/bssPhr92/"></a><a data-anchor="/document/16/210735/dfasxr1d2k/" data-dfa="dfasxr1d2k"></a>Дебет 9430 Кредит 6410</p><ul class="c-list"><li><a data-anchor="/document/16/210735/bssPhr93/"></a><a data-anchor="/document/16/210735/dfas3c279i/" data-dfa="dfas3c279i"></a>отражена сумма начисленного налога</li></ul><p><a data-anchor="/document/16/210735/bssPhr94/"></a><a data-anchor="/document/16/210735/dfask1bxck/" data-dfa="dfask1bxck"></a>Дебет 6410 Кредит 5110</p><ul class="c-list"><li><a data-anchor="/document/16/210735/bssPhr95/"></a><a data-anchor="/document/16/210735/dfasu9rrag/" data-dfa="dfasu9rrag"></a>отражена уплата налога.</li></ul></div><p><a data-anchor="/document/16/210735/dfasze5o1x/" data-dfa="dfasze5o1x"></a><a data-anchor="/document/16/210735/bssPhr96/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/210735/dfaswv127q/" data-dfa="dfaswv127q"></a><a data-anchor="/document/16/210735/bssPhr97/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

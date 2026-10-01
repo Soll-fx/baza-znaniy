@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Книга «Excel для бухгалтера: готовые таблицы для решения задач»</h2><div class="doc-snippet"><a data-anchor="/document/16/218752/dfasmlarlc/" data-dfa="dfasmlarlc"></a><a data-anchor="/document/16/218752/bssPhr2/"></a>Узнайте, как быстро сортировать и сравнивать показатели из нескольких таблиц, находить ошибки в заполненных данных, подводить итоги. В книге мы разобрали шесть задач из жизни бухгалтера. Вы можете скачать таблицы с готовыми формулами и отработать решение для каждой ситуации. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/218752/dfaso0af26/" data-dfa="dfaso0af26"></a><a data-anchor="/document/16/218752/bssPhr3/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887966" sourceId="1" width="454" height="514" src="https://1gb.uz/system/content/image/297/1/-41887966/"></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr4/"></a><a data-anchor="/document/16/218752/dfas6gz6cy/" data-dfa="dfas6gz6cy"></a>Оглавление:</p><ul class="c-list"><li><a data-anchor="/document/16/218752/bssPhr5/"></a><a data-anchor="/document/16/218752/dfaswpum1z/" data-dfa="dfaswpum1z"></a><a href="https://1gb.uz/#/document/16/218752/dfascac30e/">Введение</a></li><li><a href="https://1gb.uz/#/document/16/218752/dfasf1ahou/">Задача 1. Найти различия в показателях и сравнить данные за разные периоды</a></li><li><a href="https://1gb.uz/#/document/16/218752/dfasyd2gzs/">Задача 2. Отобрать данные из таблицы по условиям</a></li><li><a href="https://1gb.uz/#/document/16/218752/dfasdmi0ty/">Задача 3. Найти ошибки в заполнении</a></li><li><a href="https://1gb.uz/#/document/16/218752/dfasomomlo/">Задача 4. Сгруппировать данные в сводную таблицу</a></li><li><a href="https://1gb.uz/#/document/16/218752/dfas3qzwgy/">Задача 5. Отобрать показатели в пределах нужного лимита</a></li><li><a href="https://1gb.uz/#/document/16/218752/dfaskl4tli/">Задача 6. Проверить, как показатель повлияет на итоговый расчет</a></li></ul><a data-anchor="/document/16/218752/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218752/bssPhr6/"></a><a data-anchor="/document/16/218752/dfascac30e/" data-dfa="dfascac30e"></a>Введение</h2><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr7/"></a><a data-anchor="/document/16/218752/dfastdvp2x/" data-dfa="dfastdvp2x"></a>Читайте, как быстро сортировать и сравнивать показатели из нескольких таблиц, находить ошибки в заполненных данных, подводить итоги за месяц, квартал, год. В книге мы разобрали шесть задач из жизни бухгалтера. Вы можете скачать таблицы с готовыми формулами и отработать решение для каждой ситуации — есть четкие инструкции, как это делать.</p><a data-anchor="/document/16/218752/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218752/bssPhr8/"></a><a data-anchor="/document/16/218752/dfasf1ahou/" data-dfa="dfasf1ahou"></a>Задача 1. Найти различия в показателях и сравнить данные за разные периоды</h2><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr9/"></a><a data-anchor="/document/16/218752/dfasmm0v93/" data-dfa="dfasmm0v93"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-xlsx" href="https://1gb.uz/system/content/attachment/1/16/-101297/">Скачайте таблицу. Как сравнивать данные за разные периоды</a></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr10/"></a><a data-anchor="/document/16/218752/dfas8iwsd6/" data-dfa="dfas8iwsd6"></a><strong>Когда пригодится</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr11/"></a><a data-anchor="/document/16/218752/dfassvap1g/" data-dfa="dfassvap1g"></a>Пригодится, если нужно сравнить цены закупок, размеры зарплат и другие показатели учета за разные месяцы, кварталы, годы.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr12/"></a><a data-anchor="/document/16/218752/dfasvghke2/" data-dfa="dfasvghke2"></a><strong>Как применять</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr13/"></a><a data-anchor="/document/16/218752/dfasdb5lez/" data-dfa="dfasdb5lez"></a>В файле, который вы скачали, есть две вкладки внизу - это две таблицы с разными значениями за два месяца. Чтобы сравнить две таблицы между собой, выбираем критерий. В нашем случае это артикул. Он уникален и есть в обеих таблицах. Для сравнения используем функцию «ВПР», которая находит в столбце указанные данные (артикул) и подбирает данные из заданного столбца. В нашем случае мы подтянем цену из второй таблицы.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr14/"></a><a data-anchor="/document/16/218752/dfasq3crqm/" data-dfa="dfasq3crqm"></a>Для этого кликните на значок «f<sub>x</sub>» рядом со строкой формул и выберите из перечня функцию «ВПР». В появившемся окне укажите:</p><p><a data-anchor="/document/16/218752/dfasxwdhnu/" data-dfa="dfasxwdhnu"></a><a data-anchor="/document/16/218752/bssPhr15/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887967" sourceId="1" width="610" height="335.03076923076924" src="https://1gb.uz/system/content/image/297/1/-41887967/"></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr16/"></a><a data-anchor="/document/16/218752/dfasbbtl2p/" data-dfa="dfasbbtl2p"></a><strong>Искомое_значение</strong> - укажите первое значение в ячейке с выбранным критерием. У нас это A9.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr17/"></a><a data-anchor="/document/16/218752/dfastyv33d/" data-dfa="dfastyv33d"></a><strong>Таблица</strong> - выделите диапазон с данными из второй таблицы, с которыми нужно сравнить значения, поставьте значок «$» перед названием столбцов и номером строки. Должно получиться «DB_ Feb!$A$11:$E$44».</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr18/"></a><a data-anchor="/document/16/218752/dfasz3wdwo/" data-dfa="dfasz3wdwo"></a><strong>Номер_столбца</strong> - укажите номер столбца с ценой. В нашем примере - 5.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr19/"></a><a data-anchor="/document/16/218752/dfasoww7k2/" data-dfa="dfasoww7k2"></a><strong>Интервальный просмотр</strong> - 0.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr20/"></a><a data-anchor="/document/16/218752/dfash6m0lv/" data-dfa="dfash6m0lv"></a>Это значит, что нам нужно точное совпадение.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr21/"></a><a data-anchor="/document/16/218752/dfasxkl8eg/" data-dfa="dfasxkl8eg"></a>В строке формул должно получиться «=ВПР(A9;DB_Feb!$A$11:$E$44;5;0)».</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr22/"></a><a data-anchor="/document/16/218752/dfasvnh2pp/" data-dfa="dfasvnh2pp"></a>Протягиваем формулу до конца столбца. «#Н/Д» означает, что во второй таблице такого артикула нет, формула выдает ошибку.</p><p><a data-anchor="/document/16/218752/dfassfgfhl/" data-dfa="dfassfgfhl"></a><a data-anchor="/document/16/218752/bssPhr23/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887968" sourceId="1" width="610" height="562.945301542777" src="https://1gb.uz/system/content/image/297/1/-41887968/"></p><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218752/dfasqvn3xk/" data-dfa="dfasqvn3xk"></a><a data-anchor="/document/16/218752/bssPhr24/"></a>Чтобы заменить «#Н/Д» в ячейке на «0», используйте функцию «ЕСЛИОШИБКА»</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218752/bssPhr25/"></a><a data-anchor="/document/16/218752/dfas1e95zd/" data-dfa="dfas1e95zd"></a>В строке «Значение» укажите функцию, которая выдает ошибку, или ячейку, в которую эта функция введена. В строке «Значение_если_ошибка» укажите значение, которое хотите получить. В нашем случае это 0. Также можно вручную вписать функцию в ячейку. В этом случае получится «=ЕСЛИОШИБКА(ВПР(A9;DB_Feb!$A$11:$E$44;5;0);0)».</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/218752/bssPhr26/"></a><a data-anchor="/document/16/218752/dfas1umtg6/" data-dfa="dfas1umtg6"></a><strong>Ваши коллеги спрашивали</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr27/"></a><a data-anchor="/document/16/218752/dfasft5m3g/" data-dfa="dfasft5m3g"></a><strong>Как протянуть формулу, чтобы диапазон данных не изменялся?</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr28/"></a><a data-anchor="/document/16/218752/dfasl65vyf/" data-dfa="dfasl65vyf"></a>Используйте значок «$». Если поставить его перед названием столбца, то при копировании формулы вправо или влево название столбца не изменится. Если поставить «$» перед названием строки, то не будет меняться название строки. Если нужно закрепить ячейку, поставьте «$» перед названиями строки и столбца.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr29/"></a><a data-anchor="/document/16/218752/dfasc1uekz/" data-dfa="dfasc1uekz"></a><a data-anchor="/document/16/218752/dfasyd2gzs/" data-dfa="dfasyd2gzs"></a><a href="https://1gb.uz/#/document/16/218752/dfascac30e/">Вернуться к введению</a></p><a data-anchor="/document/16/218752/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218752/bssPhr30/"></a><a data-anchor="/document/16/218752/dfas3ctvll/" data-dfa="dfas3ctvll"></a>Задача 2. Отобрать данные из таблицы по условиям</h2><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr31/"></a><a data-anchor="/document/16/218752/dfas4czzrh/" data-dfa="dfas4czzrh"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-xlsx" href="https://1gb.uz/system/content/attachment/1/16/-101298/">Скачайте таблицу. Как отобрать данные по условиям</a></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr32/"></a><a data-anchor="/document/16/218752/dfasi6d7d9/" data-dfa="dfasi6d7d9"></a><strong>Когда пригодится:</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr33/"></a><a data-anchor="/document/16/218752/dfaspliutt/" data-dfa="dfaspliutt"></a>Пригодится, если нужно найти долги одного контрагента из списка всех дебиторов за определенный период.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr34/"></a><a data-anchor="/document/16/218752/dfasgvqqug/" data-dfa="dfasgvqqug"></a><strong>Как применять</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr35/"></a><a data-anchor="/document/16/218752/dfasufmnbw/" data-dfa="dfasufmnbw"></a>Когда хотите выбрать данные из таблицы по нескольким условиям, используйте особый фильтр. Для этого на вкладке «Данные» найдите «Фильтр - Дополнительно».</p><p><a data-anchor="/document/16/218752/dfaszr2rms/" data-dfa="dfaszr2rms"></a><a data-anchor="/document/16/218752/bssPhr36/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887969" sourceId="1" width="400" height="120" src="https://1gb.uz/system/content/image/297/1/-41887969/"></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr37/"></a><a data-anchor="/document/16/218752/dfas53s5os/" data-dfa="dfas53s5os"></a>Над таблицей, которую нужно отфильтровать, добавьте таблицу с условиями поиска. Для этого добавьте несколько строк над таблицей, скопируйте туда шапку и введите условия. Используйте знаки сравнения: «&gt;», «&lt;», «=» и т. д. В нашем примере это уже сделано.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr38/"></a><a data-anchor="/document/16/218752/dfas2ye5yd/" data-dfa="dfas2ye5yd"></a>В открывшемся окне укажите:</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr39/"></a><a data-anchor="/document/16/218752/dfas47ukqg/" data-dfa="dfas47ukqg"></a><strong>Исходный диапазон</strong> - таблица вместе с «шапкой», из которой нужно найти значения.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr40/"></a><a data-anchor="/document/16/218752/dfasffs75k/" data-dfa="dfasffs75k"></a><strong>Диапазон условий</strong> - таблица с условиями поиска, также вместе с «шапкой».</p><p><a data-anchor="/document/16/218752/dfasibxhcn/" data-dfa="dfasibxhcn"></a><a data-anchor="/document/16/218752/bssPhr41/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887970" sourceId="1" width="610" height="444.61852861035425" src="https://1gb.uz/system/content/image/297/1/-41887970/"></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr42/"></a><a data-anchor="/document/16/218752/dfasq2w3yo/" data-dfa="dfasq2w3yo"></a>Программа выберет из перечня те показатели, которые соответствуют хотя бы одному из условий. В верхней таблице вы можете задать любое количество условий.</p><p><a data-anchor="/document/16/218752/bssPhr43/"></a><a data-anchor="/document/16/218752/dfas0fpzqg/" data-dfa="dfas0fpzqg"></a><a href="https://1gb.uz/#/document/16/218752/dfasf1ahou/">Вернуться к задаче 1</a></p><a data-anchor="/document/16/218752/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218752/bssPhr44/"></a><a data-anchor="/document/16/218752/dfasdmi0ty/" data-dfa="dfasdmi0ty"></a>Задача 3. Найти ошибки в заполнении</h2><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr45/"></a><a data-anchor="/document/16/218752/dfas73ilbh/" data-dfa="dfas73ilbh"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-xlsx" href="https://1gb.uz/system/content/attachment/1/16/-101299/">Скачайте таблицу. Как проверить данные и найти ошибки</a></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr46/"></a><a data-anchor="/document/16/218752/dfashhppt1/" data-dfa="dfashhppt1"></a><strong>Когда пригодится</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr47/"></a><a data-anchor="/document/16/218752/dfashrzxiw/" data-dfa="dfashrzxiw"></a>Пригодится, если нужно найти опечатки в названиях контрагентов, наименованиях товаров, фамилиях сотрудников и т. д.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr48/"></a><a data-anchor="/document/16/218752/dfas6ad1g2/" data-dfa="dfas6ad1g2"></a><strong>Как применять</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr49/"></a><a data-anchor="/document/16/218752/dfas41htsc/" data-dfa="dfas41htsc"></a>В таблице, которую вы скачали, - длинный список контрагентов. В названии одного из них есть ошибка. Чтобы найти такую ошибку, нужен эталонный список с названиями контрагентов, с которым программа будет сравнивать данные в таблице. Такой список можно выгрузить из учетной программы или запросить в отделе кадров. Мы добавили в нашем примере список в столбец J.</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td style="vertical-align:top; width:261.9%"><p><a data-anchor="/document/16/218752/bssPhr50/"></a><a data-anchor="/document/16/218752/dfas5gibh4/" data-dfa="dfas5gibh4"></a>На вкладке «Данные» найдите пункт «Проверка данных».</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218752/dfashgpd1c/" data-dfa="dfashgpd1c"></a><a data-anchor="/document/16/218752/bssPhr51/"></a><img alt="" clipped-form="middle" hideborder="true" class="inimg" lnktype="img" id="-41887973" sourceId="1" width="90" height="103" src="https://1gb.uz/system/content/image/297/1/-41887973/"></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr52/"></a><a data-anchor="/document/16/218752/dfaseqyo37/" data-dfa="dfaseqyo37"></a>В открывшемся окне:</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr53/"></a><a data-anchor="/document/16/218752/dfasbsoi4y/" data-dfa="dfasbsoi4y"></a>Тип данных - выберите «список»;</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr54/"></a><a data-anchor="/document/16/218752/dfas2gkhte/" data-dfa="dfas2gkhte"></a>Источник - выделите список из графы J.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr55/"></a><a data-anchor="/document/16/218752/dfasyuuwyp/" data-dfa="dfasyuuwyp"></a>В графе «Контрагент» основной таблицы появится кнопка «Список». Ее можно использовать, чтобы вводить данные в дальнейшем. Это позволит избежать ошибок.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr56/"></a><a data-anchor="/document/16/218752/dfas9orrg6/" data-dfa="dfas9orrg6"></a>Чтобы найти опечатку в основной таблице, кликните «Проверка данных - Обвести неверные данные». Программа выделит название с опечаткой овалом.</p><p><a data-anchor="/document/16/218752/dfasi7dv6r/" data-dfa="dfasi7dv6r"></a><a data-anchor="/document/16/218752/bssPhr57/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887974" sourceId="1" width="610" height="279.23705722070844" src="https://1gb.uz/system/content/image/297/1/-41887974/"></p><p><a data-anchor="/document/16/218752/bssPhr58/"></a><a data-anchor="/document/16/218752/dfase696f5/" data-dfa="dfase696f5"></a><a data-anchor="/document/16/218752/backlinkanchor37/" type="backlink-anchor"></a><a href="#/document/16/218752/dfas3ctvll/" target="_self" title="" moduleId="16" documentId="218752" anchor="dfas3ctvll" class="link ">Вернуться к задаче 2</a></p><a data-anchor="/document/16/218752/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218752/bssPhr59/"></a><a data-anchor="/document/16/218752/dfasomomlo/" data-dfa="dfasomomlo"></a>Задача 4. Сгруппировать данные в сводную таблицу</h2><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr60/"></a><a data-anchor="/document/16/218752/dfaskqxhgy/" data-dfa="dfaskqxhgy"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-xlsx" href="https://1gb.uz/system/content/attachment/1/16/-101300/">Скачайте таблицу. Как сортировать и фильтровать показатели</a></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr61/"></a><a data-anchor="/document/16/218752/dfasseqq20/" data-dfa="dfasseqq20"></a><strong>Когда пригодится</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr62/"></a><a data-anchor="/document/16/218752/dfas4kvqbw/" data-dfa="dfas4kvqbw"></a>Пригодится, если нужно упростить калькуляцию затрат, подвести итоги за месяц, квартал, год, отсортировать данные по видам затрат, бухсчетам и т. д.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr63/"></a><a data-anchor="/document/16/218752/dfas53xnuc/" data-dfa="dfas53xnuc"></a><strong>Как применять</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr64/"></a><a data-anchor="/document/16/218752/dfasihz3ds/" data-dfa="dfasihz3ds"></a>В таблице, которую скачали, выделите таблицу вместе с «шапкой» и нажмите «Вставка - сводная таблица». В появившемся окне в строке «Таблица или диапазон» будет указана выделенная область. Выберите «Поместить отчет на новый лист». Остальные настройки в окне не меняйте.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr65/"></a><a data-anchor="/document/16/218752/dfascaqce5/" data-dfa="dfascaqce5"></a>На новом листе справа выберите поля сводной таблицы. Для этого перетащите их мышкой в нужную область.</p><p><a data-anchor="/document/16/218752/dfasn1nc7v/" data-dfa="dfasn1nc7v"></a><a data-anchor="/document/16/218752/bssPhr66/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887975" sourceId="1" width="610" height="393.0926430517711" src="https://1gb.uz/system/content/image/297/1/-41887975/"></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr67/"></a><a data-anchor="/document/16/218752/dfaseg72vy/" data-dfa="dfaseg72vy"></a>Чтобы подвести итог за нужный период, щелкните правой кнопкой мыши на любую область, выберите «Группировать» и укажите нужный период. Можно выбрать как один, так и несколько периодов. Например, месяц и квартал. Чтобы снять группировку, щелкните правой кнопкой мыши и нажмите «Разгруппировать».</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr68/"></a><a data-anchor="/document/16/218752/dfaskz6rxk/" data-dfa="dfaskz6rxk"></a><strong>Ваши коллеги спрашивали</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr69/"></a><a data-anchor="/document/16/218752/dfasf88zui/" data-dfa="dfasf88zui"></a><strong>Можно ли создавать сводные таблицы на основе данных из нескольких таблиц?</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr70/"></a><a data-anchor="/document/16/218752/dfas7po5tp/" data-dfa="dfas7po5tp"></a>Да, можно. Для этого используйте «Мастер сводных таблиц и диаграмм». Откройте окно мастера и на первом шаге выберите «Создать таблицу на основе данных, находящихся в нескольких диапазонах консолидации», «Вид создаваемого отчета - сводная таблица».</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr71/"></a><a data-anchor="/document/16/218752/dfas6x0dp0/" data-dfa="dfas6x0dp0"></a><a href="https://1gb.uz/#/document/16/218752/dfasdmi0ty/">Вернуться к задаче 3</a></p><a data-anchor="/document/16/218752/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/218752/bssPhr72/"></a><a data-anchor="/document/16/218752/dfas3qzwgy/" data-dfa="dfas3qzwgy"></a>Задача 5. Отобрать показатели в пределах нужного лимита</h2><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr73/"></a><a data-anchor="/document/16/218752/dfasanbk4a/" data-dfa="dfasanbk4a"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-xlsx" href="https://1gb.uz/system/content/attachment/1/16/-101302/">Скачайте таблицу. Как отобрать суммы для переноса вычетов НДС</a></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr74/"></a><a data-anchor="/document/16/218752/dfasimoqdm/" data-dfa="dfasimoqdm"></a><strong>Когда пригодится</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr75/"></a><a data-anchor="/document/16/218752/dfasy0atn4/" data-dfa="dfasy0atn4"></a>Пригодится, если нужно уложиться в намеченный лимит по заявляемым вычетам НДС и перенести часть вычетов на следующие периоды или отобрать представительские, рекламные расходы в пределах лимитов.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr76/"></a><a data-anchor="/document/16/218752/dfasuyeg0d/" data-dfa="dfasuyeg0d"></a><strong>Как применять</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr77/"></a><a data-anchor="/document/16/218752/dfasopl759/" data-dfa="dfasopl759"></a>Чтобы подобрать суммы, которые при сложении дадут нужную величину, используйте надстройку «Поиск решения». Начиная с версии MS Office 2007 эта надстройка поставляется в комплекте. Чтобы подключить такую надстройку, выберите «Файл - Параметры Excel - Надстройки». В появившемся списке отметьте галочкой «Поиск решения» и нажмите «ОК». Во вкладке «Данные» появится кнопка «Поиск решения».</p><p><a data-anchor="/document/16/218752/dfas72ytbi/" data-dfa="dfas72ytbi"></a><a data-anchor="/document/16/218752/bssPhr78/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887976" sourceId="1" width="610" height="338.2425068119891" src="https://1gb.uz/system/content/image/297/1/-41887976/"></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr79/"></a><a data-anchor="/document/16/218752/dfasyt8qoi/" data-dfa="dfasyt8qoi"></a>В ячейке H12 укажите сумму, которую нужно получить. В ячейке H13 - формулу «=СУММПРОИЗВ((Е12:Е20)F12:F20)». В этой формуле диапазон «E12:E20» - это те суммы, из которых мы подбираем нужное значение, а «F12:F20» - это столбец, в котором программа укажет, какие суммы нужно сложить. Нужные суммы будут отмечены единицами, ненужные - нулями. Для примера мы взяли небольшой диапазон, так как поиск решения потребует времени.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr80/"></a><a data-anchor="/document/16/218752/dfasyma1l9/" data-dfa="dfasyma1l9"></a>В ячейке H14 укажите формулу «=ABS(H12-H13)». Эта формула вычитает из заданной суммы по строке H12 сумму, полученную в результате вычислений, и показывает число без знака минус.</p><p><a data-anchor="/document/16/218752/bssPhr81/"></a><a data-anchor="/document/16/218752/dfasgyt2bl/" data-dfa="dfasgyt2bl"></a>&nbsp;Нажмите «Поиск решения» на вкладке «Данные».</p><p><a data-anchor="/document/16/218752/dfass30y27/" data-dfa="dfass30y27"></a><a data-anchor="/document/16/218752/bssPhr82/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41887977" sourceId="1" width="150" height="112" src="https://1gb.uz/system/content/image/297/1/-41887977/"></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr83/"></a><a data-anchor="/document/16/218752/dfaspnufnk/" data-dfa="dfaspnufnk"></a>В появившемся окне укажите:</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr84/"></a><a data-anchor="/document/16/218752/dfas8k6zq1/" data-dfa="dfas8k6zq1"></a>оптимизировать целевую функцию - ячейку с формулой «ABS ($H$14)»;</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr85/"></a><a data-anchor="/document/16/218752/dfasxvn843/" data-dfa="dfasxvn843"></a>до - «Минимум»;</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr86/"></a><a data-anchor="/document/16/218752/dfasb6os8c/" data-dfa="dfasb6os8c"></a>изменяя ячейки переменных - столбец, где будут указаны «1» или «0». В нашем случае - «$F$12:$F$20»;</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr87/"></a><a data-anchor="/document/16/218752/dfastltkpt/" data-dfa="dfastltkpt"></a>в соответствии с ограничениями - бинарное(в Excel 2007 - двоичное). Для этого нажмите «Добавить», укажите диапазон, где будут единицы и нули, и выберите «бин» («двоич»).</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr88/"></a><a data-anchor="/document/16/218752/dfasq60ckx/" data-dfa="dfasq60ckx"></a>Нажмите «Найти решение» или «Выполнить». После поиска программа предложит сохранить результат - нажмите «ОК».</p><p><a data-anchor="/document/16/218752/dfas60uyfs/" data-dfa="dfas60uyfs"></a><a data-anchor="/document/16/218752/bssPhr89/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887978" sourceId="1" width="610" height="349.8773841961853" src="https://1gb.uz/system/content/image/297/1/-41887978/"></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr90/"></a><a data-anchor="/document/16/218752/dfaspgmq50/" data-dfa="dfaspgmq50"></a>Теперь можно применить фильтр и отобрать только те суммы, которые помечены единицей. Если их сложить, получится заданное число или сумма, максимально к нему приближенная.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr91/"></a><a data-anchor="/document/16/218752/dfasmseqh7/" data-dfa="dfasmseqh7"></a><a href="https://1gb.uz/#/document/16/218752/dfasomomlo/">Вернуться к задаче 4</a></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr92/"></a><a data-anchor="/document/16/218752/dfasun5xf4/" data-dfa="dfasun5xf4"></a>У пользователей <a href="https://1gb.uz/" target="_self" title="">Системы Главбух</a>есть доступ к Рабочему столу бухгалтера. Он включает 80+ сервисов, которые будут ежедневно экономить ваше время и помогать вести учет. Вы не пропустите важные сроки и не будете тратить время на сложные расчеты.</p><p><a data-anchor="/document/16/218752/dfasm13wcr/" data-dfa="dfasm13wcr"></a><a data-anchor="/document/16/218752/bssPhr93/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887979" sourceId="1" width="610" height="505.54794520547944" src="https://1gb.uz/system/content/image/297/1/-41887979/"></p><p><a data-anchor="/document/16/218752/bssPhr94/"></a><a data-anchor="/document/16/218752/dfas9w93ox/" data-dfa="dfas9w93ox"></a>Кроме того, в непосредственно в Системе Главбух есть <a href="https://1gb.uz/#/services/" target="_self" title="">расчетчики, сервисы и калькуляторы</a> для самых разных ситуаций.</p><p><a data-anchor="/document/16/218752/dfas8ccxxz/" data-dfa="dfas8ccxxz"></a><a data-anchor="/document/16/218752/bssPhr95/"></a><a href="https://1gb.uz/#/services/" data-warm-notices="" data-warm-notice-type="" target="_self" title=""><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41887982" sourceId="1" width="251" height="46" src="https://1gb.uz/system/content/image/297/1/-41887982/"></a></p><a data-anchor="/document/16/218752/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/218752/bssPhr96/"></a><a data-anchor="/document/16/218752/dfaskl4tli/" data-dfa="dfaskl4tli"></a>Задача 6. Проверить, как показатель повлияет на итоговый расчет</h2><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr97/"></a><a data-anchor="/document/16/218752/dfas19vglk/" data-dfa="dfas19vglk"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-xls" href="https://1gb.uz/system/content/attachment/1/16/-101304/">Скачайте таблицу. Смета на работы, как смотреть несколько значений</a></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr98/"></a><a data-anchor="/document/16/218752/dfasn2g1ut/" data-dfa="dfasn2g1ut"></a><strong>Когда пригодится</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr99/"></a><a data-anchor="/document/16/218752/dfasqdklgn/" data-dfa="dfasqdklgn"></a>Пригодится, если нужно проконтролировать, как изменение расходов повлияет на конечный результат по смете.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr100/"></a><a data-anchor="/document/16/218752/dfas2xlsps/" data-dfa="dfas2xlsps"></a><strong>Как применять</strong></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr101/"></a><a data-anchor="/document/16/218752/dfas7rs75q/" data-dfa="dfas7rs75q"></a>В качестве примера мы взяли смету расходов. Лист «Смета» содержит формулы, которые ссылаются на ячейки из листов</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr102/"></a><a data-anchor="/document/16/218752/dfasbt07xn/" data-dfa="dfasbt07xn"></a>Чтобы видеть, как при изменении показателей на этих листах меняется конечный результат, используйте окно контрольного значения.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr103/"></a><a data-anchor="/document/16/218752/dfas8uy5zm/" data-dfa="dfas8uy5zm"></a>На вкладке «Формулы» найдите «Окно контрольного значения». В открывшемся окне нажмите «Добавить контрольное значение». Мы указали ячейку с конечной суммой. В нашем примере это H48. Должно получиться «=Смета!$Н$48». Если выделить несколько ячеек, добавится несколько контрольных значений.</p><p><a data-anchor="/document/16/218752/dfastrbwxu/" data-dfa="dfastrbwxu"></a><a data-anchor="/document/16/218752/bssPhr104/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887980" sourceId="1" width="200" height="104" src="https://1gb.uz/system/content/image/297/1/-41887980/"></p><p><a data-anchor="/document/16/218752/dfas9vfgbr/" data-dfa="dfas9vfgbr"></a><a data-anchor="/document/16/218752/bssPhr105/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-41887981" sourceId="1" width="610" height="374.8092643051771" src="https://1gb.uz/system/content/image/297/1/-41887981/"></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr106/"></a><a data-anchor="/document/16/218752/dfas3fa20m/" data-dfa="dfas3fa20m"></a>Теперь, если перейти на другой лист, окно контрольных значений останется перед глазами. Если поменять значения на других листах, в окне контрольного значения можно увидеть, как изменяется конечный результат в ячейке H48.</p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr107/"></a><a data-anchor="/document/16/218752/dfasdqgyfk/" data-dfa="dfasdqgyfk"></a><a href="https://1gb.uz/#/document/16/218752/dfas3qzwgy/">Вернуться к задаче 5</a></p><p style="text-align:start"><a data-anchor="/document/16/218752/bssPhr108/"></a><a data-anchor="/document/16/218752/dfase6pq8l/" data-dfa="dfase6pq8l"></a>В <strong>Системе </strong>есть круглосуточная <a data-anchor="/document/16/218752/backlinkanchor23/" type="backlink-anchor"></a><a href="#/document/16/205804" target="_self" title="" moduleId="16" documentId="205804" class="link ">Экспертная поддержка</a>, которая объединяет в себе письменные ответы персонального эксперта в течение 24 часов и мгновенные ответы онлайн-помощника в режиме чата. Если у вас есть вопрос по бухгалтерскому учету, кадрам или пользованию Системой, обратитесь к онлайн-помощнику, он подберет необходимую информацию за пару минут.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

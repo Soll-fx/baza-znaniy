@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как работать в системе Didox</h2><div class="doc-snippet"><a data-anchor="/document/16/221146/dfastwsnbo/" data-dfa="dfastwsnbo"></a><a data-anchor="/document/16/221146/bssPhr2/"></a>Система Didox – это основной инструмент электронного документооборотаа: отправки, получения и подписания счетов-фактур, актов, договоров и других документов. В рекомендации – пошаговая инструкция как работать с системой, выбрать оператора создавать документы и другие аспекты ЭДО. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/221146/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221146/bssPhr3/"></a><a data-anchor="/document/16/221146/dfase39bz4/" data-dfa="dfase39bz4"></a>Регистрация в&nbsp;Didox</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221146/bssPhr5/"></a><a data-anchor="/document/16/221146/dfas1qlewf/" data-dfa="dfas1qlewf"></a>Для того, чтобы зарегистрироваться на сайте Didox.uz, необходимо:</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr6/"></a><a data-anchor="/document/16/221146/dfas70u783/" data-dfa="dfas70u783"></a>1. Проверить расположение ЭЦП ключа. Ключ должен находиться на диске С в папке DSKEYS, также проверить наличие программы E-imzo последней версии.</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr7/"></a><a data-anchor="/document/16/221146/dfasivzsc8/" data-dfa="dfasivzsc8"></a>2. Зайти на сайт DIDOX.uz.</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr8/"></a><a data-anchor="/document/16/221146/dfas3w2c9i/" data-dfa="dfas3w2c9i"></a>3. Нажать на кнопку "<strong>Начать бесплатно"</strong>.</p><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr9/"></a><a data-anchor="/document/16/221146/dfas2s7b84/" data-dfa="dfas2s7b84"></a>4. Выбрать нужный ЭЦП и заполнить все необходимые поля. Пароль должен содержать не менее шести символов.</p><img alt="" hideborder="true" class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr10/"></a><a data-anchor="/document/16/221146/dfas08f9iv/" data-dfa="dfas08f9iv"></a>5. Ознакомиться и принять условия публичной оферты.</p><img alt="" hideborder="true" class="inimg" num="3" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr11/"></a><a data-anchor="/document/16/221146/dfas8rdn63/" data-dfa="dfas8rdn63"></a>После того как все заполнено, нажать на кнопку "<strong>Зарегистрировать"</strong>. Далее ввести пароль от ЭЦП ключа в появившемся окне.</p><img alt="" hideborder="true" class="inimg" num="4" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr12/"></a><a data-anchor="/document/16/221146/dfasvd84z5/" data-dfa="dfasvd84z5"></a>6. После успешной регистрации выбрать ключ ЭЦП и войти в аккаунт.</p><img alt="" hideborder="true" class="inimg" num="5" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/221146/bssPhr13/"></a><a data-anchor="/document/16/221146/dfasxfx5xf/" data-dfa="dfasxfx5xf"></a>&nbsp;Выбор оператора</p></div><a data-anchor="/document/16/221146/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221146/bssPhr14/"></a><a data-anchor="/document/16/221146/dfast62m1y/" data-dfa="dfast62m1y"></a>Выбор оператора&nbsp;Didox</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221146/bssPhr16/"></a><a data-anchor="/document/16/221146/dfash09go2/" data-dfa="dfash09go2"></a>Для того чтобы выбрать Didox в качестве оператора необходимо нажать на кнопку <strong>"Профиль".</strong></p><img alt="" hideborder="true" class="inimg" num="6" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr17/"></a><a data-anchor="/document/16/221146/dfasc43e0n/" data-dfa="dfasc43e0n"></a>2. В разделе <strong>"Аккаунт"</strong> нажать на кнопку <strong>"Установить Didox"</strong>.</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr18/"></a><a data-anchor="/document/16/221146/dfasb9w960/" data-dfa="dfasb9w960"></a>3. Нажмите на кнопку <strong>"Сохранить изменения"</strong>.</p><img alt="" hideborder="true" class="inimg" num="7" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr19/"></a><a data-anchor="/document/16/221146/dfast7ikv8/" data-dfa="dfast7ikv8"></a>Вы успешно выбрали Дидокс в качестве оператора.</p><img alt="" hideborder="true" class="inimg" num="8" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/221146/bssPhr20/"></a><a data-anchor="/document/16/221146/dfas6mtbgf/" data-dfa="dfas6mtbgf"></a>При входе в кабинет, если Didox не выбран в качестве оператора, выходит данное сообщение "У вас не выбран Didox в качестве оператора. Выбрать?".</p><img alt="" hideborder="true" class="inimg" num="9" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr21/"></a><a data-anchor="/document/16/221146/dfas0vw8f6/" data-dfa="dfas0vw8f6"></a>Нажмите на кнопку "Да" чтобы выбрать Дидокс в качестве оператора.</p><img alt="" hideborder="true" class="inimg" num="10" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr22/"></a><a data-anchor="/document/16/221146/dfas9vxc5e/" data-dfa="dfas9vxc5e"></a>Вы успешно выбрали Didox в качестве оператора.</p><img alt="" hideborder="true" class="inimg" num="11" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div><a data-anchor="/document/16/221146/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/221146/bssPhr23/"></a><a data-anchor="/document/16/221146/dfas2u7c1k/" data-dfa="dfas2u7c1k"></a>Создание договора ГНК в&nbsp;Didox</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221146/bssPhr25/"></a><a data-anchor="/document/16/221146/dfas3nnzex/" data-dfa="dfas3nnzex"></a>Договор заполняется согласно требованиям ГНК и синхронизируется с Роуминговым центром. Для того чтобы создать <strong>"Договор ГНК"</strong> необходимо:</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr26/"></a><a data-anchor="/document/16/221146/dfasxfgiiz/" data-dfa="dfasxfgiiz"></a>1. Нажать на кнопку "<strong>+Создать"</strong>.</p><img alt="" hideborder="true" class="inimg" num="12" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr27/"></a><a data-anchor="/document/16/221146/dfas3hvmsb/" data-dfa="dfas3hvmsb"></a>2. Выбрать тип документа <strong>"Договор ГНК"</strong>.</p><img alt="" hideborder="true" class="inimg" num="13" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr28/"></a><a data-anchor="/document/16/221146/dfas5d9smz/" data-dfa="dfas5d9smz"></a>3. Заполнить данные договора. В <strong>"Сведения партнера"</strong> можно добавить несколько партнеров нажав на значок (+). По ИНН данные заполнятся автоматически.</p><img alt="" hideborder="true" class="inimg" num="14" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr29/"></a><a data-anchor="/document/16/221146/dfaslk32r7/" data-dfa="dfaslk32r7"></a>4. Далее заполнить табличную часть и содержание договора. Через кнопки (-) и (+) можно добавить/убрать позиции для табличной части и содержания.</p><img alt="" hideborder="true" class="inimg" num="15" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr30/"></a><a data-anchor="/document/16/221146/dfasnufpbu/" data-dfa="dfasnufpbu"></a>5. При <strong>"Подписании"</strong> документа <strong>"Договор"</strong> уйдет в роуминговый центр, при <strong>"Сохранении"</strong> сохранится в черновиках. Также документ можно сохранить как шаблон.</p><img alt="" hideborder="true" class="inimg" num="16" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr31/"></a><a data-anchor="/document/16/221146/dfasmktwxw/" data-dfa="dfasmktwxw"></a>Шаблон сохранится в разделе <strong>"Документы"</strong>, во вкладке <strong>"Шаблоны"</strong>. В сохраненном шаблоне будет сохранено только содержание договора.</p><img alt="" hideborder="true" class="inimg" num="17" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr32/"></a><a data-anchor="/document/16/221146/dfaslrl1p2/" data-dfa="dfaslrl1p2"></a>Данный шаблон можно Редактировать или Удалить, а так же создать новый на основании сохраненного договора.</p></div><a data-anchor="/document/16/221146/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/221146/bssPhr33/"></a><a data-anchor="/document/16/221146/dfasl10n0p/" data-dfa="dfasl10n0p"></a>Создание произвольного&nbsp;документа&nbsp;в Didox</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221146/bssPhr35/"></a><a data-anchor="/document/16/221146/dfas9geueb/" data-dfa="dfas9geueb"></a>Произвольный документ не синхронизируется с сервисом Роумингового центра. Отображение и подписание документа доступно только на didox.uz. Для того чтобы создать <strong>"Произвольный документ"</strong> необходимо:</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr36/"></a><a data-anchor="/document/16/221146/dfas9loclf/" data-dfa="dfas9loclf"></a>1. Нажать на кнопку "<strong>+Создать".</strong></p><img alt="" hideborder="true" class="inimg" num="18" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr37/"></a><a data-anchor="/document/16/221146/dfasor1nlf/" data-dfa="dfasor1nlf"></a>2. Выбрать тип документа "<strong>Произвольный документ"</strong>.</p><img alt="" hideborder="true" class="inimg" num="19" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr38/"></a><a data-anchor="/document/16/221146/dfasubm5ml/" data-dfa="dfasubm5ml"></a>3. Заполнить обязательные поля.</p><img alt="" hideborder="false" class="inimg" num="20" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr39/"></a><a data-anchor="/document/16/221146/dfaszhavii/" data-dfa="dfaszhavii"></a>4. Прикрепить файл в PDF формате (не больше 10 мб).</p><img alt="" hideborder="true" class="inimg" num="21" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr40/"></a><a data-anchor="/document/16/221146/dfas95avd4/" data-dfa="dfas95avd4"></a>Документ можно Сохранить в черновики или сразу Подписать .</p></div><a data-anchor="/document/16/221146/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/221146/bssPhr41/"></a><a data-anchor="/document/16/221146/dfas9tzug5/" data-dfa="dfas9tzug5"></a>Создание доверенности&nbsp;в Didox</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221146/bssPhr43/"></a><a data-anchor="/document/16/221146/dfasf6dt1r/" data-dfa="dfasf6dt1r"></a>Для того чтобы создать <strong>"Доверенность"</strong> необходимо:</p><p><a data-anchor="/document/16/221146/bssPhr44/"></a><a data-anchor="/document/16/221146/dfaswgh9p1/" data-dfa="dfaswgh9p1"></a>1. Нажать на кнопку "<strong>+ Создать"</strong>.</p><img alt="" hideborder="true" class="inimg" num="22" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr45/"></a><a data-anchor="/document/16/221146/dfaspmoghb/" data-dfa="dfaspmoghb"></a>2. Из выпадающего списка необходимо выбрать тип документа <strong>"Доверенность".</strong></p><img alt="" hideborder="true" class="inimg" num="23" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr46/"></a><a data-anchor="/document/16/221146/dfasz2gvv6/" data-dfa="dfasz2gvv6"></a>3. Заполнить обязательные поля (отмечены звездочкой*).</p><img alt="" hideborder="true" class="inimg" num="24" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr47/"></a><a data-anchor="/document/16/221146/dfasvxvypo/" data-dfa="dfasvxvypo"></a>4. В поле ИНН/ПИНФЛ доверенного (физ) лица, данные заполняются автоматически по ИНН/ПИНФЛ. Серия паспорта, кем выдан, дата выдачи и должность не указываются, только ПИНФЛ и ФИО.</p><img alt="" hideborder="true" class="inimg" num="25" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr48/"></a><a data-anchor="/document/16/221146/dfas1yt18z/" data-dfa="dfas1yt18z"></a>5. Заполнить табличную часть.</p><img alt="" hideborder="true" class="inimg" num="26" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr49/"></a><a data-anchor="/document/16/221146/dfas8wcdyr/" data-dfa="dfas8wcdyr"></a>Документ можно предварительно посмотреть, через кнопку <strong>"Показать документ"</strong>. При <strong>"Подписании"</strong> документа, уйдет в кабинет Доверенного лица, при <strong>"Сохранении"</strong> сохранится в черновиках.</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr50/"></a><a data-anchor="/document/16/221146/dfass8id1h/" data-dfa="dfass8id1h"></a>В кабинете доверенного (физ) лица в списке <strong>"Входящие"</strong> необходимо открыть и подписать доверенность.</p><img alt="" hideborder="true" class="inimg" num="27" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr51/"></a><a data-anchor="/document/16/221146/dfasgzlk1q/" data-dfa="dfasgzlk1q"></a>После того, как доверенность будет подписана двумя сторонами (юр и физ. лицами) данная доверенность попадет контрагенту со статусом <strong>"Ожидает подписи партнера"</strong>, а у контрагента статус доверенности будет <strong>"Ожидает вашей подписи".</strong></p><img alt="" hideborder="true" class="inimg" num="28" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div><a data-anchor="/document/16/221146/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/221146/bssPhr52/"></a><a data-anchor="/document/16/221146/dfas6p5p47/" data-dfa="dfas6p5p47"></a>Создание&nbsp;электронного&nbsp;счета-фактуры&nbsp;в Didox</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr54/"></a><a data-anchor="/document/16/221146/dfasmhl9k5/" data-dfa="dfasmhl9k5"></a>Для того чтобы создать электронного&nbsp;счет-фактуру в Didox необходимо:</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr55/"></a><a data-anchor="/document/16/221146/dfas63wf2b/" data-dfa="dfas63wf2b"></a>1. Нажать на кнопку "+Создать".</p><img alt="" hideborder="true" class="inimg" num="29" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr56/"></a><a data-anchor="/document/16/221146/dfas1re8fq/" data-dfa="dfas1re8fq"></a>2. Далее необходимо выбрать тип документа "Счет-фактура без акта" и подтип счет фактуры.</p><img alt="" hideborder="true" class="inimg" num="30" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr57/"></a><a data-anchor="/document/16/221146/dfasaz9t9p/" data-dfa="dfasaz9t9p"></a>3. Заполнить обязательные поля(отмечены звездочкой*) и "Сведения партнера". При вводе ИНН, данные заполняются автоматически.</p><img alt="" hideborder="true" class="inimg" num="31" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr58/"></a><a data-anchor="/document/16/221146/dfas1x4657/" data-dfa="dfas1x4657"></a>4. Заполнить табличную часть. Чтобы добавить/убрать позиции нажимаем (-) или (+) в правом углу таблицы.</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr59/"></a><a data-anchor="/document/16/221146/dfaszx6imk/" data-dfa="dfaszx6imk"></a>При необходимости указать данные доверенности в поле "Доверенность".</p><img alt="" hideborder="true" class="inimg" num="32" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr60/"></a><a data-anchor="/document/16/221146/dfassblg4e/" data-dfa="dfassblg4e"></a>5. Документ можно посмотреть через кнопку "Показать документ". При "Подписании" документа, счет-фактура уйдет в роуминговый центр, при "Сохранение" сохранится в черновиках.</p><img alt="" hideborder="true" class="inimg" num="33" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div><a data-anchor="/document/16/221146/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/221146/bssPhr61/"></a><a data-anchor="/document/16/221146/dfaso7xf8s/" data-dfa="dfaso7xf8s"></a>Создание&nbsp;исправленного электронного счета-фактуры в Didox&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221146/bssPhr63/"></a><a data-anchor="/document/16/221146/dfashvnk2q/" data-dfa="dfashvnk2q"></a>Данный тип счет-фактуры исправляет/аннулирует указанную в нем&nbsp;счет-фактуру.&nbsp;</p><p><a data-anchor="/document/16/221146/bssPhr64/"></a><a data-anchor="/document/16/221146/dfaspmbtq0/" data-dfa="dfaspmbtq0"></a>1. Открыть подписанный счет-фактуру, который&nbsp;необходимо исправить.</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr65/"></a><a data-anchor="/document/16/221146/dfas1ttqes/" data-dfa="dfas1ttqes"></a>2. Скопировать "Идентификатор электронного документа" (ИД).</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr66/"></a><a data-anchor="/document/16/221146/dfaslm0xls/" data-dfa="dfaslm0xls"></a>3. Нажать на кнопку "Копировать".</p><img alt="" hideborder="true" class="inimg" num="34" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr67/"></a><a data-anchor="/document/16/221146/dfasmbg0gs/" data-dfa="dfasmbg0gs"></a>4. Далее необходимо выбрать тип документа “Счет-фактура без акта” и подтип cчет-фактуры "Исправленный", после, вставить ИД основной счет фактуры.</p><img alt="" hideborder="true" class="inimg" num="35" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr68/"></a><a data-anchor="/document/16/221146/dfasxdrf9m/" data-dfa="dfasxdrf9m"></a>5. Исправить ошибки: номер, дата (не должна быть меньше чем в основной сф).</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr69/"></a><a data-anchor="/document/16/221146/dfasdsec4l/" data-dfa="dfasdsec4l"></a>В табличной части можно корректировать (описание товара/услуги, единицу измерения, количество, цена и другие).</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr70/"></a><a data-anchor="/document/16/221146/dfasbh2df1/" data-dfa="dfasbh2df1"></a>Код ИКПУ исправлять нельзя.</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr71/"></a><a data-anchor="/document/16/221146/dfas553hrd/" data-dfa="dfas553hrd"></a>6. В случае если необходимо аннулировать (удалить) счет-фактуру ("Дубль", либо по каким-то другим причинам) в табличной части, в Количестве и в Цене необходимо поставить нули (0).</p><img alt="" hideborder="true" class="inimg" num="36" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr72/"></a><a data-anchor="/document/16/221146/dfasmfgifd/" data-dfa="dfasmfgifd"></a>7. Документ можно посмотреть через кнопку "Показать документ". При "Подписании" документа, счет-фактура уйдет в роуминговый центр, при "Сохранении" сохранится в черновиках.</p><img alt="" hideborder="true" class="inimg" num="37" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr73/"></a><a data-anchor="/document/16/221146/dfas1goxww/" data-dfa="dfas1goxww"></a>Как только исправленный&nbsp;счет-фактура будет подписан обеими сторонами, указанный&nbsp;в исправленном&nbsp;счете-фактуре&nbsp;перейдет в статус "Недействительный".</p><img alt="" hideborder="true" class="inimg" num="38" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div><a data-anchor="/document/16/221146/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/221146/bssPhr74/"></a><a data-anchor="/document/16/221146/dfas4zgamo/" data-dfa="dfas4zgamo"></a>Создание дополнительного электронного счета-фактуры в Didox &nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr76/"></a><a data-anchor="/document/16/221146/dfasi99gae/" data-dfa="dfasi99gae"></a>Данный тип счет-фактуры выставляется дополнительно к тому счету-фактуре, ИД которого указан в нем. При возврате указывается минус в цене.</p><p><a data-anchor="/document/16/221146/bssPhr77/"></a><a data-anchor="/document/16/221146/dfascg2ego/" data-dfa="dfascg2ego"></a>1. Открыть подписанный&nbsp;с двух сторон счет-фактуру, на который&nbsp;необходимо оформить дополнительный.</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr78/"></a><a data-anchor="/document/16/221146/dfas39q2kd/" data-dfa="dfas39q2kd"></a>2. Скопировать "Идентификатор электронного документа" (ИД).</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr79/"></a><a data-anchor="/document/16/221146/dfash4697w/" data-dfa="dfash4697w"></a>3. Далее нажать на кнопку "Копировать".</p><img alt="" hideborder="true" class="inimg" num="39" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr80/"></a><a data-anchor="/document/16/221146/dfasp2xtt2/" data-dfa="dfasp2xtt2"></a>4. Далее необходимо выбрать тип документа "Счет-фактура без акта" и подтип cчет-фактуры "Дополнительный", после, вставить ИД основной счет фактуры.</p><img alt="" hideborder="true" class="inimg" num="40" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr81/"></a><a data-anchor="/document/16/221146/dfasnzsygg/" data-dfa="dfasnzsygg"></a>5. При осуществлении возврата, необходимо указать знак минуса в цене.</p><img alt="" hideborder="true" class="inimg" num="41" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr82/"></a><a data-anchor="/document/16/221146/dfas53bzg2/" data-dfa="dfas53bzg2"></a>6. При необходимости дополнить основной&nbsp;счет-фактуру новыми позициями, в табличной части указываются данные позиции, исключая основные.</p><p style="text-align:left"><a data-anchor="/document/16/221146/bssPhr83/"></a><a data-anchor="/document/16/221146/dfasb7om4n/" data-dfa="dfasb7om4n"></a>7. Документ можно посмотреть через кнопку "Показать документ". При "Подписании" документа, счет-фактура уйдет в Роуминговый центр, при "Сохранении" сохранится в черновиках.</p><img alt="" hideborder="true" class="inimg" num="42" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

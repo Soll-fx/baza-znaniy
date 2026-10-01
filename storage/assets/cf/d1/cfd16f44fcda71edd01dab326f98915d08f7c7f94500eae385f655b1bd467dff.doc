@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как составить Отчет об изменениях капитала в соответствии с МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206376/dfaslfhwq6/" data-dfa="dfaslfhwq6"></a><a data-anchor="/document/16/206376/bssPhr2/"></a>В рекомендации&nbsp;найдете ответы на вопросы: из чего состоит капитал, для чего нужен Отчет об изменениях капитала и какую информацию раскрывать в Отчете. В качестве примера эксперты привели <span num="10" target="_self" lnktype="intlnk" title="" class="doc">отчет об изменениях капитала</span>, который отражает все изменения в капитале. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206376/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206376/bssPhr3/"></a><a data-anchor="/document/16/206376/dfas86h4mx/" data-dfa="dfas86h4mx"></a>Капитал</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206376/bssPhr5/"></a><a data-anchor="/document/16/206376/dfasbviqwd/" data-dfa="dfasbviqwd"></a>Капитал включает:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206376/bssPhr6/"></a><a data-anchor="/document/16/206376/dfas7obsuf/" data-dfa="dfas7obsuf"></a>средства, внесенные акционерами – акционерный капитал;</li><li style="text-align:left">эмиссионный доход;</li><li style="text-align:left">нераспределенную прибыль;</li><li style="text-align:left">резервы, сформированные за счет прибыли;</li><li style="text-align:left">резервы, представляющие собой корректировки, обеспечивающие поддержание капитала:</li></ul><p role="presentation" style="text-align:left"><a data-anchor="/document/16/206376/bssPhr7/"></a><a data-anchor="/document/16/206376/dfasyfu1ia/" data-dfa="dfasyfu1ia"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;– резерв по переоценке основных средств;</p><p role="presentation" style="text-align:left"><a data-anchor="/document/16/206376/bssPhr8/"></a><a data-anchor="/document/16/206376/dfas05ycb2/" data-dfa="dfas05ycb2"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;– резерв по курсовой разнице, возникшей при переводе отчетности дочерних компаний в валюту представления отчетности.</p><p style="text-align:left"><a data-anchor="/document/16/206376/bssPhr9/"></a><a data-anchor="/document/16/206376/dfasgvin5m/" data-dfa="dfasgvin5m"></a>Перечень составляющих капитала должен соответствовать счетам в разделе «Капитал» бухгалтерского баланса.</p></div><a data-anchor="/document/16/206376/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206376/bssPhr10/"></a><a data-anchor="/document/16/206376/dfas0kwq6u/" data-dfa="dfas0kwq6u"></a>Отчет об изменениях капитала</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206376/bssPhr12/"></a><a data-anchor="/document/16/206376/dfasc9onn0/" data-dfa="dfasc9onn0"></a>Отчет об изменениях капитала предназначен для сверки данных отчета о прибылях и убытках с информацией о движении капитала за отчетный период. Отчет об изменениях капитала должен включать прибыли и убытки компании за отчетный период, в том числе те из них, которые признаются непосредственно в разделе «Капитал».</p><p style="text-align:left"><a data-anchor="/document/16/206376/bssPhr13/"></a><a data-anchor="/document/16/206376/dfaszque94/" data-dfa="dfaszque94"></a>В отчете должны быть отражены изменения, произошедшие в капитале вследствие:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206376/bssPhr14/"></a><a data-anchor="/document/16/206376/dfas2w3dob/" data-dfa="dfas2w3dob"></a>операций с акционерами при внесении капитала и выплате дивидендов. Такие операции происходят в связи с эмиссией акций и внесением капитала собственниками, а также в связи с распределением части прибыли в пользу акционеров, то есть выплатой дивидендов;</li><li style="text-align:left"><a data-anchor="/document/16/206376/dfasr1k3hb/" data-dfa="dfasr1k3hb"></a>получения прибылей или убытков, не признанных в отчете о прибылях и убытках. Таковые появляются как результаты переоценки основных средств, результаты переоценки инвестиций, курсовые разницы от пересчета финансовой отчетности иностранных подразделений или дочерних компаний.&nbsp;</li></ul></div><a data-anchor="/document/16/206376/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206376/bssPhr15/"></a><a data-anchor="/document/16/206376/dfasimpmug/" data-dfa="dfasimpmug"></a>Содержание Отчета об изменении капитала</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206376/bssPhr17/"></a><a data-anchor="/document/16/206376/dfasalw1ol/" data-dfa="dfasalw1ol"></a>Отчет об изменениях капитала можно составить в двух вариантах:</p><p style="text-align:left"><a data-anchor="/document/16/206376/bssPhr18/"></a><a data-anchor="/document/16/206376/dfaswqwcn7/" data-dfa="dfaswqwcn7"></a><strong>1 вариант</strong>: В отчете об изменениях капитала отражайте все изменения в капитале, вызванные как операциями с акционерами при внесении капитала и выплате дивидендов, так и прибылями и убытками, не признанными в отчете о прибылях и убытках.</p><p style="text-align:left"><a data-anchor="/document/16/206376/bssPhr19/"></a><a data-anchor="/document/16/206376/dfasr4x2m2/" data-dfa="dfasr4x2m2"></a>В данном случае в отчете об изменениях капитала раскрывайте:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206376/bssPhr20/"></a><a data-anchor="/document/16/206376/dfas3eaexo/" data-dfa="dfas3eaexo"></a>чистую прибыль или убыток за период;</li><li style="text-align:left">величину доходов и расходов, прибылей и убытков, не признанных в отчете о прибылях и убытках;</li><li style="text-align:left">изменения в учетной политике и корректировка фундаментальных ошибок;</li><li style="text-align:left">стоимость операций с акционерами при внесении капитала и выплате дивидендов;</li><li style="text-align:left">сальдо накопленной прибыли, убытка на начало периода и на отчетную дату и ее изменения за период;</li><li style="text-align:left">сверку балансовой стоимости каждого класса акционерного капитала, эмиссионного дохода и каждого резерва на начало и конец периода.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206376/bssPhr21/"></a><a data-anchor="/document/16/206376/dfas180nu1/" data-dfa="dfas180nu1"></a><strong>2 вариант</strong>: признавайте в отчете только те изменения в капитале, которые обусловлены прибылями и убытками, не признанными в отчете о прибылях и убытках. В отчете отражайте:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206376/bssPhr22/"></a><a data-anchor="/document/16/206376/dfasrhal6p/" data-dfa="dfasrhal6p"></a>чистую прибыль или убыток за период;</li><li style="text-align:left">каждую статью доходов и расходов, прибылей и убытков, которая признается непосредственно в капитале, и сумму этих статей;</li><li style="text-align:left">кумулятивный эффект изменений в учетной политике и корректировку фундаментальных ошибок, учтенных в соответствии с МСФО (IAS) 8 «Учетная политика, изменения в бухгалтерских оценках». Изменения в учетной политике компании, повлекшие за собой корректировку отдельных статей баланса, подлежат раскрытию в разделе «Капитал».</li></ul><p style="text-align:left"><a data-anchor="/document/16/206376/bssPhr23/"></a><a data-anchor="/document/16/206376/dfasvfrhq9/" data-dfa="dfasvfrhq9"></a><a data-anchor="/document/16/206376/dfas66tr5o/" data-dfa="dfas66tr5o"></a>Информацию, не отраженную в таком отчете, раскрывайте в примечаниях к отчетности.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206376/bssPhr25/"></a><a data-anchor="/document/16/206376/dfasngux37/" data-dfa="dfasngux37"></a>В качестве примера приведен <span num="4" lnktype="intlnk" title="" class="doc">отчет об изменениях капитала</span>, отражающий все изменения в капитале, составленный по первому варианту.</p></div><p><a data-anchor="/document/16/206376/dfask61exa/" data-dfa="dfask61exa"></a><a data-anchor="/document/16/206376/bssPhr26/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

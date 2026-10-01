@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как формировать финансовую отчетность по МСФО</h2><div class="doc-snippet"><a data-anchor="/document/16/206440/dfasm9nefs/" data-dfa="dfasm9nefs"></a><a data-anchor="/document/16/206440/bssPhr2/"></a>Из рекомендации&nbsp;узнаете, какие существуют подходы к формированию финансовой отчетности по МСФО. Эксперты привели перечень форм, которые обязательны для финансовой отчетности по МСФО и пояснили как оформлять формы финансовой отчетности по МСФО. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206440/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206440/bssPhr7/"></a><a data-anchor="/document/16/206440/dfasxrkkgg/" data-dfa="dfasxrkkgg"></a>Подходы к формированию финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206440/bssPhr9/"></a><a data-anchor="/document/16/206440/dfasarcu2x/" data-dfa="dfasarcu2x"></a>Подходы к формированию финансовой отчетности по МСФО изложены в МСФО (IAS) 1 «Представление финансовой отчетности». Данный МСФО развивает и углубляет принципы подготовки и составления финансовой отчетности. В нем определен комплект финансовой отчетности, а также методика как раскрыть назначение, содержание, порядок формирования и представления публикуемых финансовых отчетов компании.</p><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr10/"></a><a data-anchor="/document/16/206440/dfasuo0wum/" data-dfa="dfasuo0wum"></a>Формы отчетности должны давать структурированное представление о финансовом положении, операциях и результатах деятельности компании. Финансовая отчетность должна раскрывать информацию об активах, обязательствах, капитале, доходах, расходах и финансовых результатах компании.</p></div><a data-anchor="/document/16/206440/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206440/bssPhr11/"></a><a data-anchor="/document/16/206440/dfask703w8/" data-dfa="dfask703w8"></a>Обязательные формы финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206440/bssPhr13/"></a><a data-anchor="/document/16/206440/dfas89xna7/" data-dfa="dfas89xna7"></a>Согласно МСФО (IAS) 1 «Представление финансовой отчетности» всю необходимую информацию о финансовой деятельности компании можно довести до сведения заинтересованных пользователей, если опубликовать полный комплект бухгалтерской отчетности, который должен включать:</p><ol class="c-list"><li><a data-anchor="/document/16/206440/bssPhr14/"></a><a data-anchor="/document/16/206440/dfasom8wsr/" data-dfa="dfasom8wsr"></a>Бухгалтерский баланс;</li><li><a data-anchor="/document/16/206440/bssPhr15/"></a><a data-anchor="/document/16/206440/dfas44y0n5/" data-dfa="dfas44y0n5"></a>Отчет о прибылях и убытках;</li><li><a data-anchor="/document/16/206440/bssPhr16/"></a><a data-anchor="/document/16/206440/dfasxw96gf/" data-dfa="dfasxw96gf"></a>Отчет об изменениях капитала;</li><li><a data-anchor="/document/16/206440/bssPhr17/"></a><a data-anchor="/document/16/206440/dfasz4oili/" data-dfa="dfasz4oili"></a>Отчет о движении денежных средств;</li><li><a data-anchor="/document/16/206440/bssPhr18/"></a><a data-anchor="/document/16/206440/dfas7qpx0z/" data-dfa="dfas7qpx0z"></a>Примечания к финансовой отчетности.</li></ol><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr19/"></a><a data-anchor="/document/16/206440/dfaso3xuyw/" data-dfa="dfaso3xuyw"></a>Этот комплект отчетности рекомендовано дополнять информацией, разъясняющей динамику показателей отчетности. То есть указывать изменение среды функционирования, инвестиционной политики, источников финансирования и другие необходимые показатели для правильной интерпретации изложенной в отчетности информации.</p><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr20/"></a><a data-anchor="/document/16/206440/dfasgg1u3e/" data-dfa="dfasgg1u3e"></a>Все вышеуказанные формы отчетности являются основными и требуются в обязательном порядке.</p><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr21/"></a><a data-anchor="/document/16/206440/dfas96b64w/" data-dfa="dfas96b64w"></a>Финансовая отчетность должна быть выделена из прочей публикуемой информации о деятельности компании, так как МСФО применяется только по отношению к финансовой отчетности. Однако отчетность может содержать и иную, полезную внешним пользователям нефинансовую информацию. Важно, чтобы пользователям было ясно, в какой части отчет подготовлен с учетом требований МСФО, а в какой части требования МСФО не учитывали ввиду специфики деятельности компании – это необходимо указать в самой отчетности.</p><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr22/"></a><a data-anchor="/document/16/206440/dfasrp6759/" data-dfa="dfasrp6759"></a>Ответственность за подготовку и представление финансовой отчетности несет руководство компании – совет директоров или другой руководящий орган.</p></div><a data-anchor="/document/16/206440/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206440/bssPhr23/"></a><a data-anchor="/document/16/206440/dfasy3afqw/" data-dfa="dfasy3afqw"></a>Порядок оформления форм финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206440/bssPhr25/"></a><a data-anchor="/document/16/206440/dfastl95vz/" data-dfa="dfastl95vz"></a>МСФО (IAS) 1 «Представление финансовой отчетности» определяет требования к структуре и минимальному набору показателей финансовых отчетов.</p><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr26/"></a><a data-anchor="/document/16/206440/dfasaubsi8/" data-dfa="dfasaubsi8"></a>Заголовок любой формы отчета, составленного по МСФО, должен содержать следующую информацию:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206440/bssPhr27/"></a><a data-anchor="/document/16/206440/dfas2xinz5/" data-dfa="dfas2xinz5"></a>название отчитывающейся компании;</li><li style="text-align:left">название публикуемого отчета;</li><li style="text-align:left">дату или период, на которую или за который представлен отчет;</li><li style="text-align:left">единицу измерения денежных величин.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr28/"></a><a data-anchor="/document/16/206440/dfasyy9k2x/" data-dfa="dfasyy9k2x"></a>МСФО (IAS) 1 «Представление финансовой отчетности» регламентирует периодичность представления финансовой отчетности – минимум раз в год, то есть ежегодно. В международной практике некоторые компании отчитываются за 52-недельный период, что также допустимо. Удобство такого подхода состоит в том, что отчетный период всегда заканчивается в конце недели. Ввиду специфики деятельности некоторых компаний это удобно.</p><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr29/"></a><a data-anchor="/document/16/206440/dfasbo7t2d/" data-dfa="dfasbo7t2d"></a>В исключительных случаях период, за который представляется отчетность, может быть продолжительнее или короче, чем год. Например, когда одна компания приобрела другую компанию с иной отчетной датой.</p><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr30/"></a><a data-anchor="/document/16/206440/dfasvzqwz4/" data-dfa="dfasvzqwz4"></a>В этом случае в Примечаниях к финансовой отчетности необходимо указать причину использования периода, отличного от одного года, а также факт того, что сравнительные суммы несопоставимы.</p><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr31/"></a><a data-anchor="/document/16/206440/dfascnwe7d/" data-dfa="dfascnwe7d"></a>В соответствии с МСФО (IAS) 1 «Представление финансовой отчетности» компания может иметь собственную отчетную дату и связанный с этой датой отчетный период.</p><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr32/"></a><a data-anchor="/document/16/206440/dfasm570zo/" data-dfa="dfasm570zo"></a>МСФО 1 не обязует компании предоставлять промежуточную отчетность, то есть за квартал или полугодие, но компания может это делать по своему желанию при заинтересованности пользователей такой финансовой отчетности.</p><p style="text-align:left"><a data-anchor="/document/16/206440/bssPhr33/"></a><a data-anchor="/document/16/206440/dfasqd49k9/" data-dfa="dfasqd49k9"></a>Финансовая отчетность, составленная по МСФО, должна содержать однозначное указание на такое соответствие. Отчетность считается соответствующей МСФО, если на момент ее представления она удовлетворяет требованиям всех действующих на эту дату МСФО и их интерпретаций. Если компания отошла от требований какого-либо стандарта МСФО, то в Пояснениях к финансовой отчетности необходимо указать его название и причину несоблюдения установленных требований.</p></div><p><a data-anchor="/document/16/206440/dfas9mv0gg/" data-dfa="dfas9mv0gg"></a><a data-anchor="/document/16/206440/bssPhr34/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

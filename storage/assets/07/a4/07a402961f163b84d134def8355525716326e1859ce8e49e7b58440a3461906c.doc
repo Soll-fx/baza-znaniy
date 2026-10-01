@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие документы выдать покупателю, если расчет произведен через платежный терминал</h2><div class="doc-snippet"><a data-anchor="/document/16/209873/dfas6inrga/" data-dfa="dfas6inrga"></a><a data-anchor="/document/16/209873/bssPhr2/"></a>В&nbsp;рекомендации&nbsp;— ответы на&nbsp;вопросы: какой порядок расчетов через платежный терминал, нужно&nbsp;ли оформлять счет-фактуру при расчетах через платежный терминал, как отразить в&nbsp;бухучете операции с&nbsp;использованием платежных терминалов. Эксперты пояснили, как отразить в&nbsp;бухучете возврат денег за&nbsp;товар, если покупатель расплатился банковской картой. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/209873/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/209873/bssPhr3/"></a><a data-anchor="/document/16/209873/dfasgg00hc/" data-dfa="dfasgg00hc"></a>Порядок расчетов через платежный терминал</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209873/bssPhr5/"></a><a data-anchor="/document/16/209873/dfas6qker4/" data-dfa="dfas6qker4"></a>При расчетах через платежный терминал кассир, продавец должен выдать покупателю чек терминала.</p><p><a data-anchor="/document/16/209873/bssPhr6/"></a><a data-anchor="/document/16/209873/dfasl8aos2/" data-dfa="dfasl8aos2"></a>Чеки терминала заменяют счета-фактуры (<span num="28" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;Положения «О&nbsp;формах счетов-фактур и&nbsp;порядке их&nbsp;заполнения, представления и&nbsp;приема», утв. ПКМ №&nbsp;489 от&nbsp;14.08.2020&nbsp;г.).</p><p><a data-anchor="/document/16/209873/bssPhr7/"></a><a data-anchor="/document/16/209873/dfasyrq9ae/" data-dfa="dfasyrq9ae"></a>Для бухучета&nbsp;— это первичный документ для отражения операций по&nbsp;реализации (<span num="7" target="_self" lnktype="intlnk" title="" class="doc">Закон о&nbsp;бухучете</span>).</p><p><a data-anchor="/document/16/209873/bssPhr8/"></a><a data-anchor="/document/16/209873/dfasgfixhp/" data-dfa="dfasgfixhp"></a>После снятия с&nbsp;карты покупателя суммы за&nbsp;приобретенные товары, работы, услуги, кассир, продавец возвращает карту клиенту вместе с&nbsp;чеком, выдаваемым платежным терминалом. Второй экземпляр чека остается у&nbsp;продавца.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может ли ООО получать оплату за проведение&#160;тренингов&#160;для физических лиц, не&#160;имея терминала</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/209873/bssPhr10/"></a><a data-anchor="/document/16/209873/dfasdehynd/" data-dfa="dfasdehynd"></a>Нет, не может. При расчетах с физическими лицами любыми способами в обязательном порядке необходимо иметь онлайн ККМ и выдавать соответствующие чеки с фискальной отметкой. ККТ должны применять субъекты предпринимательства, осуществляющие денежные расчеты с населением:</p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr11/"></a><a data-anchor="/document/16/209873/dfasuz5ra6/" data-dfa="dfasuz5ra6"></a>юридические лица;</li><li>индивидуальные предприниматели;</li><li>семейные предприниматели.</li></ul><p style="text-align:left"><a data-anchor="/document/16/209873/bssPhr12/"></a><a data-anchor="/document/16/209873/dfas42d5pv/" data-dfa="dfas42d5pv"></a>Такие условия предусматривает <span data-warm-notices="37434872" data-warm-notice-type="error" num="69" target="_self" lnktype="intlnk" title="" class="doc">пункт 1 </span>Приложения №1 к ПКМ от 23.11.2019 № 943.</p><p style="text-align:left"><a data-anchor="/document/16/209873/bssPhr13/"></a><a data-anchor="/document/16/209873/dfascdqod4/" data-dfa="dfascdqod4"></a>Использовать ККТ не нужно при продажах с применением торговых (вендинговых) автоматов.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как вернуть оплату и&#160;уменьшить выручку, если клиент оплатил услугу через&#160;платежную систему PAYMI, ведь сумма отразилась и в реестре ГНИ</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/209873/bssPhr15/"></a><a data-anchor="/document/16/209873/dfas8sfzly/" data-dfa="dfas8sfzly"></a>При оплате услуг посредством платежных систем, фискальный чек формирует платежная система, и&nbsp;его сумма «садится» в&nbsp;отчетность в&nbsp;виде выручки. Для корректировки фискальных чеков, сформированных платежной системой, обратитесь в&nbsp;платежную систему с&nbsp;просьбой отменить данный платеж.</p><p><a data-anchor="/document/16/209873/bssPhr16/"></a><a data-anchor="/document/16/209873/dfas9539n3/" data-dfa="dfas9539n3"></a>Также можете отменить платеж самостоятельно&nbsp; через личный кабинет, данные для доступа в&nbsp;кабинет указаны в&nbsp;договоре с&nbsp;PayME. После отмены платежа в&nbsp;личном кабинете PayME, выручка в&nbsp;налоговой отчетности будет уменьшена на&nbsp;сумму отмененного платежа, а&nbsp;с&nbsp;Вашего счета спишут средства для возврата на&nbsp;карту клиента. Для уточнения технической части исполнения отмены платежа, свяжитесь с&nbsp;коллцентром PayME.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как отразить оплату через платежные системы Click, Payme в налоговой отчетности</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/209873/bssPhr18/"></a><a data-anchor="/document/16/209873/dfas683o0z/" data-dfa="dfas683o0z"></a>Оплата через платежные системы автоматически отразится в налоговой отчетности, если обеспечена интеграция к информационным системам налоговых органов. Для этого обратитесь к операторам платежных систем Click, PayME, PayNET, Apelsin и др. Данные чеков платежных систем отражаются в Реестре продаж общей суммой за конкретный налоговый период.</p><p><a data-anchor="/document/16/209873/bssPhr20/"></a><a data-anchor="/document/16/209873/dfasmwn4gv/" data-dfa="dfasmwn4gv"></a>К операторам платежных систем Click, PayME, PayNET, Apelsin и др.&nbsp;установлено требование об обязательном их подключении к онлайн ККМ с обеспечением интеграции к информационным системам налоговых органов (<span num="80" target="_self" lnktype="intlnk" title="" class="doc">подп. б</span>&nbsp;п. 1 ПП-5252).</p><p style="text-align:left"><a data-anchor="/document/16/209873/bssPhr21/"></a><a data-anchor="/document/16/209873/dfaslht79u/" data-dfa="dfaslht79u"></a>С 1 января 2022 года при реализации товара физическим лицам в чеках онлайн-ККМ и платежных систем должны быть отметки матричного штрихового кода (QR-кода (<span num="81" target="_self" lnktype="intlnk" title="" class="doc">п. 1</span> ПП-5252).</p><p style="text-align:left"><a data-anchor="/document/16/209873/bssPhr22/"></a><a data-anchor="/document/16/209873/dfascfckov/" data-dfa="dfascfckov"></a>Субъекты предпринимательства, которые перешли&nbsp;на использование онлайн-ККМ либо виртуальной кассы в предоставленном чеке покупки в обязательном порядке отражают наименование, количество, цену и сумму, стоимость&nbsp;товаров, работ, услуг, а плательщики НДС – ставку и сумму НДС, а также QR-код и фискальную отметку (п.&nbsp;5 УП-5813). Чеки, на которых отсутствуют данные сведения, считаются недействительными.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должен&#160;ли предприниматель выдавать чек онлайн-ККМ при реализации товара через&#160;торговый (вендинговый) аппарат</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/209873/bssPhr24/"></a><a data-anchor="/document/16/209873/dfasrp5xx8/" data-dfa="dfasrp5xx8"></a>Нет, не должен.</p><p><a data-anchor="/document/16/209873/bssPhr25/"></a><a data-anchor="/document/16/209873/dfasd7prgk/" data-dfa="dfasd7prgk"></a>Субъекты предпринимательства при реализации товаров в розницу населению должны выдавать чек онлайн-ККМ – вне зависимости от того, оплатит покупатель покупку наличными или банковской картой (<span num="107" target="_blank" lnktype="intlnk" title="" class="doc">п. 1</span>, <span num="108" target="_blank" lnktype="intlnk" title="" class="doc">6</span> приложения №1 к ПКМ от 23.11.2019 № 943). Исключение составляет только торговля через вендинговые аппараты, в&nbsp;этом случае кассовый чек не выдается (<span num="109" target="_blank" lnktype="intlnk" title="" class="doc">п. 4</span> Постановления Президента от 04.06.2021 № ПП-5136).</p><p><a data-anchor="/document/16/209873/bssPhr26/"></a><a data-anchor="/document/16/209873/dfasvd65dv/" data-dfa="dfasvd65dv"></a>Платить за товар через вендинговый аппарат можно с помощью платежных систем. При приеме оплаты через платежную систему фискальный чек формирует&nbsp;сама платежная система, а все данные автоматически передаются в базу налоговых органов. Вендинговый автомат при этом выдает&nbsp;товар непосредственно после поступления платежа. Датой реализации товара признается дата фискального чека (<span data-warm-notices="45807276" data-warm-notice-type="error" num="110" target="_blank" lnktype="intlnk" title="" class="doc">ч. 1 </span>ст. 242 НК).</p></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209873/bssPhr28/"></a><a data-anchor="/document/16/209873/dfasmuagfg/" data-dfa="dfasmuagfg"></a>Юрлица, осуществляющие оборот, облагаемый НДС, и&nbsp;оборот, освобожденный от&nbsp;этого налога, а&nbsp;также юрлица&nbsp;— неплательщики НДС обязаны выставить получателю товаров, работ, услуг, счет-фактуру, за&nbsp;исключением отдельных случаев. Один из&nbsp;них&nbsp;— предоставление покупателю чека ККМ с&nbsp;фискальной памятью, чека терминала, квитанции в&nbsp;случаях реализации товаров, работ, услуг населению за&nbsp;наличный расчет (<span num="56" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;47&nbsp;НК</span>).</p><p><a data-anchor="/document/16/209873/bssPhr29/"></a><a data-anchor="/document/16/209873/dfascz1lcp/" data-dfa="dfascz1lcp"></a>В&nbsp;случае поставки товаров, работ, услуг, облагаемых НДС, в&nbsp;документах в&nbsp;обязательном порядке должна быть выделена сумма налога (<span num="57" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;47&nbsp;НК</span>).</p><p><a data-anchor="/document/16/209873/bssPhr30/"></a><a data-anchor="/document/16/209873/dfas3zhq4o/" data-dfa="dfas3zhq4o"></a>При выдаче чека терминала необходимо оформление одностороннего обобщенного ЭСФ до&nbsp;5&nbsp;числа месяца, следующего за&nbsp;месяцем реализации товаров, услуг (<span num="35" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;59</span>&nbsp;приложения №&nbsp;2&nbsp;к ПКМ №&nbsp;489). Но, с&nbsp;марта 2021 года такой ЭСФ не&nbsp;оформляется, если предприятие использует онлайн-ККМ и&nbsp;виртуальную кассу, при условии, что данные по&nbsp;чекам автоматически учитываются в&nbsp;отчете о&nbsp;поступлениях в&nbsp;персональном кабинете налогоплательщика и&nbsp;в&nbsp;налоговой отчетности.</p><p><a data-anchor="/document/16/209873/bssPhr31/"></a><a data-anchor="/document/16/209873/dfascftkit/" data-dfa="dfascftkit"></a>Предприятия, перешедшие на&nbsp;использование онлайн-ККМ или виртуальной кассы, вместе с&nbsp;чеками платежных терминалов обязательно выдают чек онлайн-ККМ или виртуальной кассы (<span num="36" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;5</span> № УП-5813).</p><p><a data-anchor="/document/16/209873/bssPhr32/"></a><a data-anchor="/document/16/209873/dfas9227oa/" data-dfa="dfas9227oa"></a>Реализация товаров, работ, услуг считается ведением торговли, оказанием услуг без применения платежных терминалов и&nbsp;является основанием для привлечения к&nbsp;ответственности в&nbsp;порядке, установленном законодательством:</p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr33/"></a><a data-anchor="/document/16/209873/dfasfh19ar/" data-dfa="dfasfh19ar"></a>без применения онлайн-ККМ или виртуальной кассы по&nbsp;истечении сроков, установленных для перехода на&nbsp;них;</li><li>при непредоставлении чека онлайн-ККМ, виртуальной кассы;</li><li>при предоставлении чека без фискальной отметки.</li></ul><p><a data-anchor="/document/16/209873/bssPhr34/"></a><a data-anchor="/document/16/209873/dfasw3le2m/" data-dfa="dfasw3le2m"></a>С&nbsp;11&nbsp;июля 2022 года ГНК ограничил возможность оформления односторонних ЭСФ для физических лиц кроме субъектов, оказывающих коммунальные, финансовые услуги и&nbsp;услуги связи. При реализации товаров, услуг физлицам по&nbsp;пластиковым картам, с&nbsp;выдачей чека онлайн-ККМ односторонний ЭСФ продавец не&nbsp;оформляет, так как сведения чеков и&nbsp;выручка по&nbsp;ним будут автоматически отражаться в&nbsp;электронной налоговой отчетности по&nbsp;данным онлайн-ККМ, виртуальных касс, маркетплейсов.</p><p><a data-anchor="/document/16/209873/bssPhr35/"></a><a data-anchor="/document/16/209873/dfasoo03xk/" data-dfa="dfasoo03xk"></a>Сохранена возможность оформления односторонних ЭСФ по&nbsp;ИКПУ, относящимся к&nbsp;коммунальным, финансовым услугам и&nbsp;услугам связи.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/209873/bssPhr36/"></a><a data-anchor="/document/16/209873/dfasib5qfn/" data-dfa="dfasib5qfn"></a>В&nbsp;случаях реализации товаров, услуг физлицам без оплаты или при осуществлении платежей без применения онлайн-ККМ нужно оформлять двухсторонний ЭСФ с&nbsp;указанием Ф.И.О. и&nbsp;ПИНФЛ физлица. При этом физлицо подписывает ЭСФ своей ЭЦП.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/209873/bssPhr37/"></a><a data-anchor="/document/16/209873/dfastk1xh2/" data-dfa="dfastk1xh2"></a>Если физлицо не&nbsp;имеет ЭЦП, то&nbsp;отправленный ему ЭСФ подтверждается автоматически и&nbsp;ЭСФ распечатывается в&nbsp;бумажной форме в&nbsp;двух экземплярах, один из&nbsp;которых выдается физлицу, второй экземпляр с&nbsp;подписью физлица, подтверждающего получение товаров (услуг), хранится у&nbsp;налогоплательщика.</p><p style="text-align:right"><a data-anchor="/document/16/209873/bssPhr38/"></a><a data-anchor="/document/16/209873/dfasdp4r7y/" data-dfa="dfasdp4r7y"></a>(<span num="37" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;61</span>&nbsp;приложения №&nbsp;2&nbsp;к ПКМ №&nbsp;489).</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/209873/bssPhr39/"></a><a data-anchor="/document/16/209873/dfasiu5q29/" data-dfa="dfasiu5q29"></a>В&nbsp;счете-фактуре обязательно отражайте:</p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr40/"></a><a data-anchor="/document/16/209873/dfas7r0o8d/" data-dfa="dfas7r0o8d"></a>ставку и&nbsp;сумму НДС, предъявляемые покупателю товаров, работ, услуг;</li><li>стоимость всего количества, объема реализуемых товаров, выполненных работ, оказанных услуг с&nbsp;учетом НДС.</li></ul><p><a data-anchor="/document/16/209873/bssPhr41/"></a><a data-anchor="/document/16/209873/dfasfydyge/" data-dfa="dfasfydyge"></a>Сумма НДС&nbsp;— обязательный реквизит чека платежного терминала. Он&nbsp;нужен для того, чтобы предприятия&nbsp;— плательщики НДС могли принять к&nbsp;зачету сумму налога при приобретении товаров, работ, услуг или&nbsp;же начислить сумму НДС при их&nbsp;реализации.</p><p><a data-anchor="/document/16/209873/bssPhr42/"></a><a data-anchor="/document/16/209873/dfasi9k7be/" data-dfa="dfasi9k7be"></a>Необходимо выставлять ЭСФ по&nbsp;требованию покупателей&nbsp;— юрлиц или индивидуальных предпринимателей, если они оплачивают товары, услуги пластиковыми картами. В&nbsp;этом случае ЭСФ оформляют на&nbsp;дату реализации до&nbsp;последнего числа месяца, в&nbsp;котором были реализованы товары, услуги, и&nbsp;не&nbsp;учитывают при формировании обобщенного ЭСФ (<span num="38" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;59</span>&nbsp;приложения №&nbsp;2&nbsp;к ПКМ №&nbsp;489).</p><p><a data-anchor="/document/16/209873/bssPhr43/"></a><a data-anchor="/document/16/209873/dfassugzwf/" data-dfa="dfassugzwf"></a><a data-anchor="/document/16/209873/dfasmxv5kh/" data-dfa="dfasmxv5kh"></a>Порядок оплаты корпоративными картами рассмотрен в&nbsp;рекомендации "<span num="10" target="_self" lnktype="intlnk" title="" class="doc">Как учесть операции по&nbsp;корпоративной карте</span>"</p></div><a data-anchor="/document/16/209873/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/209873/bssPhr44/"></a><a data-anchor="/document/16/209873/dfas9gwp5a/" data-dfa="dfas9gwp5a"></a>Бухучет операций с&nbsp;использованием платежных терминалов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209873/bssPhr48/"></a><a data-anchor="/document/16/209873/dfas4cp7hd/" data-dfa="dfas4cp7hd"></a>Для удобства и&nbsp;возможности раздельного учета денег, поступивших по&nbsp;расчетам с&nbsp;использованием ККМ и&nbsp;терминала, рекомендуем в&nbsp;рабочем плане счетов, утвержденном учетной политикой, ввести <strong>субсчет 5711 «Денежные средства (переводы) в&nbsp;пути» </strong>для учета денежных средств, оплаченных через терминал.</p><p><a data-anchor="/document/16/209873/bssPhr49/"></a><a data-anchor="/document/16/209873/dfase2pa1w/" data-dfa="dfase2pa1w"></a>Этот счет транзитный и&nbsp;позволяет непрерывно контролировать движение средств:</p><p><a data-anchor="/document/16/209873/bssPhr50/"></a><a data-anchor="/document/16/209873/dfasrvovl2/" data-dfa="dfasrvovl2"></a><strong>Дебет 5711 Кредит 9020, 9030</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr51/"></a><a data-anchor="/document/16/209873/dfastd9ly1/" data-dfa="dfastd9ly1"></a>отражаем прием оплаты через терминал, реализацию товаров, работ, услуг на&nbsp;сумму чистой выручки;</li></ul><p><a data-anchor="/document/16/209873/bssPhr52/"></a><a data-anchor="/document/16/209873/dfas2mfhqq/" data-dfa="dfas2mfhqq"></a><strong>Дебет 5711 Кредит 6410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr53/"></a><a data-anchor="/document/16/209873/dfasgkgqo7/" data-dfa="dfasgkgqo7"></a>отражена сумма НДС (у&nbsp;плательщиков налога);</li></ul><p><a data-anchor="/document/16/209873/bssPhr54/"></a><a data-anchor="/document/16/209873/dfasb8b654/" data-dfa="dfasb8b654"></a><strong>Дебет 5110 Кредит 5711</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr55/"></a><a data-anchor="/document/16/209873/dfas40xa5n/" data-dfa="dfas40xa5n"></a>зачислены средства на&nbsp;расчетный счет, на&nbsp;основании банковской выписки;</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как отразить в&#160;бухучете удержание за&#160;услуги терминала 0,2&#160;%</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/209873/bssPhr57/"></a><a data-anchor="/document/16/209873/dfasg1k4yg/" data-dfa="dfasg1k4yg"></a>Например: со&nbsp;100&nbsp;000 сумов выручки 200 сумов за&nbsp;услугу банк снимает автоматически.</p><p><a data-anchor="/document/16/209873/bssPhr58/"></a><a data-anchor="/document/16/209873/dfasdowcw1/" data-dfa="dfasdowcw1"></a>В&nbsp;бухучете такую операцию отразите проводками:</p><p><a data-anchor="/document/16/209873/bssPhr59/"></a><a data-anchor="/document/16/209873/dfas28a3wm/" data-dfa="dfas28a3wm"></a><strong>Дебет 5711 Кредит 9020</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr60/"></a><a data-anchor="/document/16/209873/dfasg8cfiu/" data-dfa="dfasg8cfiu"></a>100&nbsp;000 сумов&nbsp;— отражено поступление выручки по&nbsp;терминалу;</li></ul><p><a data-anchor="/document/16/209873/bssPhr61/"></a><a data-anchor="/document/16/209873/dfasb6ssz3/" data-dfa="dfasb6ssz3"></a><strong>Дебет 9430 Кредит 5711</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr62/"></a><a data-anchor="/document/16/209873/dfasgysg9v/" data-dfa="dfasgysg9v"></a>200 сумов&nbsp;— отражено удержание 0,2&nbsp;% комиссии банка;</li></ul><p><a data-anchor="/document/16/209873/bssPhr63/"></a><a data-anchor="/document/16/209873/dfasmob6pg/" data-dfa="dfasmob6pg"></a><strong>Дебет 5110 Кредит 5711</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr64/"></a><a data-anchor="/document/16/209873/dfase7m140/" data-dfa="dfase7m140"></a>99&nbsp;800 сумов&nbsp;— отражено поступление выручки на&nbsp;расчетный счет по&nbsp;банковской выписке.</li></ul></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как отразить в бухучете доход от реализации товара через торговый (вендинговый) аппарат</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/209873/bssPhr66/"></a><a data-anchor="/document/16/209873/dfas4a4taw/" data-dfa="dfas4a4taw"></a><a data-anchor="/document/16/209873/dfasgb27ad/" data-dfa="dfasgb27ad"></a>Доход от реализации отражаете в полном объеме – 100 процентов от стоимости товара,&nbsp;без уменьшения на вознаграждение, комиссию&nbsp;платежной системы. Одновременно с признанием дохода списываете себестоимость реализованного товара.&nbsp;В бухучете получение оплаты за товар через платежную систему отразите проводками:</p><p><a data-anchor="/document/16/209873/bssPhr67/"></a><a data-anchor="/document/16/209873/dfaszgg7kp/" data-dfa="dfaszgg7kp"></a><strong>Дебет 5710 Кредит 9020&nbsp;&nbsp;</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr68/"></a><a data-anchor="/document/16/209873/dfasuhgmer/" data-dfa="dfasuhgmer"></a>признан&nbsp;доход&nbsp;от реализации товара;</li></ul><p><a data-anchor="/document/16/209873/bssPhr69/"></a><a data-anchor="/document/16/209873/dfashwt05d/" data-dfa="dfashwt05d"></a><strong>Дебет 5710 Кредит 6410&nbsp;</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr70/"></a><a data-anchor="/document/16/209873/dfas3mn5t1/" data-dfa="dfas3mn5t1"></a>начислен НДС на реализацию;</li></ul><p><a data-anchor="/document/16/209873/bssPhr71/"></a><a data-anchor="/document/16/209873/dfas1gyiz1/" data-dfa="dfas1gyiz1"></a><strong>Дебет 9120 Кредит 2920&nbsp;</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr72/"></a><a data-anchor="/document/16/209873/dfasn37kgr/" data-dfa="dfasn37kgr"></a>списана себестоимость&nbsp;товара;</li></ul><p><a data-anchor="/document/16/209873/bssPhr73/"></a><a data-anchor="/document/16/209873/dfasx23ymn/" data-dfa="dfasx23ymn"></a><strong>Дебет 9430 Кредит 5710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr74/"></a><a data-anchor="/document/16/209873/dfasfxb49z/" data-dfa="dfasfxb49z"></a>&nbsp;удержана комиссия за услуги платежной системы.</li></ul><p><a data-anchor="/document/16/209873/bssPhr75/"></a><a data-anchor="/document/16/209873/dfas5x5y7v/" data-dfa="dfas5x5y7v"></a><strong>Дебет 5110 Кредит 5710&nbsp;</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr76/"></a><a data-anchor="/document/16/209873/dfas5ig3nf/" data-dfa="dfas5ig3nf"></a>зачислена на расчетный счет оплата, поступившая через вендинговый аппарат.</li></ul></div></div></div><a data-anchor="/document/16/209873/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/209873/bssPhr77/"></a><a data-anchor="/document/16/209873/dfasf6w3h7/" data-dfa="dfasf6w3h7"></a>Оформление возврата денег за&nbsp;товар, если покупатель расплатился банковской картой</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209873/bssPhr79/"></a><a data-anchor="/document/16/209873/dfasynceke/" data-dfa="dfasynceke"></a>При расчетах с&nbsp;населением при помощи банковских карт обязательно применять онлайн-ККМ (<span num="30" target="_self" lnktype="intlnk" title="" class="doc">№ УП-5813</span> от&nbsp;06.09.2019&nbsp;г.). Эти расчеты осуществляются согласно "<span num="31" target="_self" lnktype="intlnk" title="" class="doc">Положению</span> о&nbsp;порядке применения системы онлайн-ККМ и&nbsp;виртуальной кассы при осуществлении денежных расчетов с&nbsp;населением" (<span num="59" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;1</span>&nbsp;к ПКМ №&nbsp;943 от&nbsp;23.11.2019&nbsp;г.).</p><p><a data-anchor="/document/16/209873/bssPhr80/"></a><a data-anchor="/document/16/209873/dfasbxol8i/" data-dfa="dfasbxol8i"></a>При возврате товара, оплата за&nbsp;который принята через платежный терминал, вернуть деньги можно на&nbsp;основании чека терминала, подтверждающего оплату покупателем этого товара и&nbsp;письменного заявления покупателя с&nbsp;указанием фамилии, имени, отчества.<br>При приеме от&nbsp;покупателя возвращенного товара оформляйте накладную в&nbsp;двух экземплярах: один экземпляр передаете покупателю, второй&nbsp;— прикладываете к&nbsp;товарному отчету. На&nbsp;сумму возврата оформляйте акт о&nbsp;возврате денежных средств в&nbsp;одном экземпляре, который подписывают ответственные лица и&nbsp;утверждает руководитель предприятия. Предъявленный покупателем чек терминала вместе с&nbsp;актом сдаете в&nbsp;бухгалтерию предприятия (<span num="32" target="_self" lnktype="intlnk" title="" class="doc">глава&nbsp;6</span>&nbsp;приложения к&nbsp;ПКМ №&nbsp;943).</p><p><a data-anchor="/document/16/209873/bssPhr81/"></a><a data-anchor="/document/16/209873/dfaslmryev/" data-dfa="dfaslmryev"></a>При возврате товара формируйте чек возврата, в&nbsp;котором в&nbsp;реквизите «Вид платежа» укажите «Возврат» (<span num="33" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;38</span>&nbsp;приложения №&nbsp;1&nbsp;к ПКМ №&nbsp;943). К&nbsp;нему обязательно привяжите чек продажи.</p><p><a data-anchor="/document/16/209873/bssPhr82/"></a><a data-anchor="/document/16/209873/dfas8kr4qq/" data-dfa="dfas8kr4qq"></a>В&nbsp;бухгалтерском учете возврат товара отражайте на&nbsp;контрпассивном счете <strong>9040 «Возврат проданных товаров» </strong>(<span num="94" target="_self" lnktype="intlnk" title="" class="doc">п. 381</span> НСБУ №&nbsp;21):</p><p><a data-anchor="/document/16/209873/bssPhr83/"></a><a data-anchor="/document/16/209873/dfas29tt20/" data-dfa="dfas29tt20"></a><strong>Дебет 9040 Кредит 5110</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr84/"></a><a data-anchor="/document/16/209873/dfaslefs45/" data-dfa="dfaslefs45"></a>отражаем выплату задолженности покупателю за&nbsp;возвращенный товар;</li></ul><p><a data-anchor="/document/16/209873/bssPhr85/"></a><a data-anchor="/document/16/209873/dfasqulfv0/" data-dfa="dfasqulfv0"></a><strong>Дебет 2900 Кредит 9120</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr86/"></a><a data-anchor="/document/16/209873/dfasb2ycsm/" data-dfa="dfasb2ycsm"></a>приходуем возвращенный товар по&nbsp;себестоимости;</li></ul><p><a data-anchor="/document/16/209873/bssPhr87/"></a><a data-anchor="/document/16/209873/dfaskd1713/" data-dfa="dfaskd1713"></a><strong>Дебет 9020 Кредит 9040</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209873/bssPhr88/"></a><a data-anchor="/document/16/209873/dfase89hhw/" data-dfa="dfase89hhw"></a>отражаем закрытие в&nbsp;конце отчетного периода счета 9040.</li></ul><p><a data-anchor="/document/16/209873/bssPhr89/"></a><a data-anchor="/document/16/209873/dfash2p4pa/" data-dfa="dfash2p4pa"></a>Корректировку по&nbsp;налогам проводите в&nbsp;том налоговом периоде, в&nbsp;котором произошел возврат товара (<span num="19" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;271&nbsp;НК, <span num="48" target="_self" lnktype="intlnk" title="" class="doc">257</span>&nbsp;НК).</p></div><p><a data-anchor="/document/16/209873/dfas9kb91l/" data-dfa="dfas9kb91l"></a><a data-anchor="/document/16/209873/bssPhr90/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

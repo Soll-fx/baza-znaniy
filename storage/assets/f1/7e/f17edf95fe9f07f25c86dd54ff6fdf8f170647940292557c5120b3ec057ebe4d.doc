@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассчитать НДС при импорте товара </h2><div class="doc-snippet"><a data-anchor="/document/16/218963/dfas9fuesi/" data-dfa="dfas9fuesi"></a><a data-anchor="/document/16/218963/bssPhr3/"></a>Узнайте из рекомендации по каким правилам рассчитать сумму НДС при импорте товара, зачет «импортного» НДС, а также отражение «импортного» НДС в отчетности. <a data-anchor="/document/16/218963/dfas4uz5ga/" data-dfa="dfas4uz5ga"></a><a data-anchor="/document/16/218963/bssPhr4/"></a>Также в рекомендации дан перечень льгот, которые можно применять при ввозе товаров. <a data-anchor="/document/16/218963/dfaszwxwiu/" data-dfa="dfaszwxwiu"></a><a data-anchor="/document/16/218963/bssPhr5/"></a>Кроме того, приведен порядок определения НДС при реализации импортированного товара. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218963/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218963/bssPhr6/"></a><a data-anchor="/document/16/218963/dfas617r92/" data-dfa="dfas617r92"></a>Порядок расчета НДС при импорте&nbsp;товара</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218963/bssPhr11/"></a><a data-anchor="/document/16/218963/dfasiq282r/" data-dfa="dfasiq282r"></a>Ввоз (импорт) товаров в Узбекистан – объект обложения НДС (<span num="130" target="_self" lnktype="intlnk" title="" class="doc">п. 2</span> ч. 1 ст. 238 НК). Обязательство по уплате таможенных платежей, в состав которых включается и НДС, возникает при помещении товара под таможенный режим, в котором предусмотрена уплата таможенных платежей, если нет льгот по завозимым товарам.</p><p><a data-anchor="/document/16/218963/bssPhr12/"></a><a data-anchor="/document/16/218963/dfasvyr8z1/" data-dfa="dfasvyr8z1"></a>Стоимость завозимого товара в иностранной валюте для исчисления таможенных платежей пересчитывают в сумы по курсу ЦБ на день принятия ГТД к оформлению</p></div><a data-anchor="/document/16/218963/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218963/bssPhr13/"></a><a data-anchor="/document/16/218963/dfaskf1ppo/" data-dfa="dfaskf1ppo"></a>По каким правилам рассчитать сумму НДС</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218963/bssPhr15/"></a><a data-anchor="/document/16/218963/dfasvbv12m/" data-dfa="dfasvbv12m"></a>В налоговую базу по НДС при импорте товаров согласно ч. <span num="131" target="_self" lnktype="intlnk" title="" class="doc">1 ст</span>. 254 НК включается :</p><p><a data-anchor="/document/16/218963/bssPhr16/"></a><a data-anchor="/document/16/218963/dfas58vysw/" data-dfa="dfas58vysw"></a>- таможенная стоимость товаров, определяемая в соответствии с таможенным законодательством;</p><p><a data-anchor="/document/16/218963/bssPhr17/"></a><a data-anchor="/document/16/218963/dfas5nm8bb/" data-dfa="dfas5nm8bb"></a>акцизный налог, если ввозятся подакцизные товары;</p><p><a data-anchor="/document/16/218963/bssPhr18/"></a><a data-anchor="/document/16/218963/dfasxk6oe2/" data-dfa="dfasxk6oe2"></a>- таможенная пошлина.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218963/bssPhr19/"></a><a data-anchor="/document/16/218963/dfas7xdm95/" data-dfa="dfas7xdm95"></a>Сбор за таможенное оформление в налоговой базе по НДС не учитывается</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218963/bssPhr20/"></a><a data-anchor="/document/16/218963/dfasogbm0s/" data-dfa="dfasogbm0s"></a>При ввозе товаров, облагаемых и таможенными пошлинами, и акцизным налогом, используйте формулу:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr21/"></a><a data-anchor="/document/16/218963/dfasb5pxm9/" data-dfa="dfasb5pxm9"></a>НДС к уплате</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr22/"></a><a data-anchor="/document/16/218963/dfas3kgt9h/" data-dfa="dfas3kgt9h"></a>=</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr23/"></a><a data-anchor="/document/16/218963/dfasyrvikg/" data-dfa="dfasyrvikg"></a>Таможенная стоимость товара + таможенные пошлины + акцизный налог</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr24/"></a><a data-anchor="/document/16/218963/dfas8kf5u2/" data-dfa="dfas8kf5u2"></a>×</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr25/"></a><a data-anchor="/document/16/218963/dfas4r507g/" data-dfa="dfas4r507g"></a>Ставка НДС</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218963/bssPhr26/"></a><a data-anchor="/document/16/218963/dfastsh3ii/" data-dfa="dfastsh3ii"></a>При импорте подакцизных товаров, которые освобождены от таможенных пошлин, исключаете их из формулы.</p><p><a data-anchor="/document/16/218963/bssPhr27/"></a><a data-anchor="/document/16/218963/dfasoa0cle/" data-dfa="dfasoa0cle"></a>При ввозе подакцизных товаров, которые освобождены от таможенных пошлин, НДС рассчитывайте по формуле:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr28/"></a><a data-anchor="/document/16/218963/dfasgg8ae1/" data-dfa="dfasgg8ae1"></a>НДС к уплате</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr29/"></a><a data-anchor="/document/16/218963/dfass8a0s7/" data-dfa="dfass8a0s7"></a>=</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr30/"></a><a data-anchor="/document/16/218963/dfas7i17tt/" data-dfa="dfas7i17tt"></a>Таможенная стоимость товара + акцизный налог</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr31/"></a><a data-anchor="/document/16/218963/dfasifyaus/" data-dfa="dfasifyaus"></a>×</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr32/"></a><a data-anchor="/document/16/218963/dfasp25wq0/" data-dfa="dfasp25wq0"></a>Ставка НДС</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218963/bssPhr33/"></a><a data-anchor="/document/16/218963/dfasis99m8/" data-dfa="dfasis99m8"></a>При импорте товаров, облагаемых таможенными пошлинами, но освобожденных от акцизного налога, для расчета налога применяйте формулу:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr34/"></a><a data-anchor="/document/16/218963/dfasu53zwk/" data-dfa="dfasu53zwk"></a>НДС к уплате</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr35/"></a><a data-anchor="/document/16/218963/dfaspaehqc/" data-dfa="dfaspaehqc"></a>=</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr36/"></a><a data-anchor="/document/16/218963/dfas4gs3g1/" data-dfa="dfas4gs3g1"></a>Таможенная стоимость товара + таможенные пошлины</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr37/"></a><a data-anchor="/document/16/218963/dfasu958zn/" data-dfa="dfasu958zn"></a>×</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr38/"></a><a data-anchor="/document/16/218963/dfasn6o221/" data-dfa="dfasn6o221"></a>Ставка НДС</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218963/bssPhr39/"></a><a data-anchor="/document/16/218963/dfasqkz0rb/" data-dfa="dfasqkz0rb"></a>Если товар освобожден и от таможенных пошлин, и от акцизного налога, используйте формулу:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr40/"></a><a data-anchor="/document/16/218963/dfas7e4get/" data-dfa="dfas7e4get"></a>НДС к уплате</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr41/"></a><a data-anchor="/document/16/218963/dfas6zcm4h/" data-dfa="dfas6zcm4h"></a>=</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr42/"></a><a data-anchor="/document/16/218963/dfas9a7bzy/" data-dfa="dfas9a7bzy"></a>Таможенная стоимость товара</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr43/"></a><a data-anchor="/document/16/218963/dfasb8dzkq/" data-dfa="dfasb8dzkq"></a>×</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr44/"></a><a data-anchor="/document/16/218963/dfasfh8q44/" data-dfa="dfasfh8q44"></a>Ставка НДС</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218963/bssPhr45/"></a><a data-anchor="/document/16/218963/dfasvck8b3/" data-dfa="dfasvck8b3"></a>При ввозе в Узбекистан продуктов переработки товаров, ранее вывезенных из Узбекистана для переработки за границей, НДС рассчитывайте по формуле:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr46/"></a><a data-anchor="/document/16/218963/dfasy2uwwb/" data-dfa="dfasy2uwwb"></a>НДС к уплате</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr47/"></a><a data-anchor="/document/16/218963/dfas87xgwv/" data-dfa="dfas87xgwv"></a>=</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr48/"></a><a data-anchor="/document/16/218963/dfasxdep6s/" data-dfa="dfasxdep6s"></a>Стоимость переработки товара</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr49/"></a><a data-anchor="/document/16/218963/dfaso8of4g/" data-dfa="dfaso8of4g"></a>×</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/218963/bssPhr50/"></a><a data-anchor="/document/16/218963/dfashwsh8o/" data-dfa="dfashwsh8o"></a>Ставка НДС</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218963/bssPhr51/"></a><a data-anchor="/document/16/218963/dfasti3t3h/" data-dfa="dfasti3t3h"></a>Как рассчитать сумму НДС при импорте</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218963/bssPhr52/"></a><a data-anchor="/document/16/218963/dfask03lgv/" data-dfa="dfask03lgv"></a>Предприятие «Рубин» завезло по импорту сырье и материалы для производства готовых конструкций на сумму 10 000 долл. США – контрактная стоимость. Курс доллара на момент оформления ГТД составил 12 700 сумов.</p><p><a data-anchor="/document/16/218963/bssPhr53/"></a><a data-anchor="/document/16/218963/dfaseh0tbu/" data-dfa="dfaseh0tbu"></a>Таможенная стоимость, установленная таможенными органами, составила 14 000 долл. США, таможенная пошлина – 5 процентов.</p><p><a data-anchor="/document/16/218963/bssPhr54/"></a><a data-anchor="/document/16/218963/dfascz2kqe/" data-dfa="dfascz2kqe"></a>Для расчета таможенных платежей таможенная стоимость должна быть пересчитана в сумы по курсу ЦБ на момент оформления ГТД.</p><p><a data-anchor="/document/16/218963/bssPhr55/"></a><a data-anchor="/document/16/218963/dfasiogvsf/" data-dfa="dfasiogvsf"></a>ТС = 14 000 × 12 700 = 177 800 тыс. сумов;<br>ТП = 177 800 × 5% = 8 890 тыс. сумов;<br>НБ = 186 690 тыс. сумов (177 800 + 8 890)</p><p><a data-anchor="/document/16/218963/bssPhr56/"></a><a data-anchor="/document/16/218963/dfasvo73zg/" data-dfa="dfasvo73zg"></a>Сумма НДС = 22 402,8 тыс. сумов (186 690 × 12%)</p><p><a data-anchor="/document/16/218963/bssPhr57/"></a><a data-anchor="/document/16/218963/dfasddthms/" data-dfa="dfasddthms"></a>Учитывая, что таможенную стоимость используют исключительно для расчета таможенных платежей, при определении себестоимости импортируемого товара применяйте контрактную стоимость завозимого товара.</p><p><a data-anchor="/document/16/218963/bssPhr58/"></a><a data-anchor="/document/16/218963/dfasd3qg9v/" data-dfa="dfasd3qg9v"></a>Как отнести в зачет НДС по импортированным товарам</p><p><a data-anchor="/document/16/218963/bssPhr59/"></a><a data-anchor="/document/16/218963/dfas5zqga7/" data-dfa="dfas5zqga7"></a><strong>Организация вправе принять к зачету импортный НДС, если импортированные товары используются в деятельности, связанной с производством и (или) реализацией товаров (оказанием услуг), обороты по реализации которых подлежат налогообложению, в т.ч. по нулевой ставке <span num="132" target="_self" lnktype="intlnk" title="" class="doc">п. 1 ч</span>. 1 ст. 266 НК</strong>.</p><p><a data-anchor="/document/16/218963/bssPhr60/"></a><a data-anchor="/document/16/218963/dfas1s0koq/" data-dfa="dfas1s0koq"></a>Если импортируемый товар будет использован для необлагаемого оборота, то НДС, уплаченный на таможне, включайте в покупную стоимость товара.</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218963/bssPhr61/"></a><a data-anchor="/document/16/218963/dfasvs4n11/" data-dfa="dfasvs4n11"></a>В случае импорта товаров импортный» НДС можно принять к зачету, только если он уплачен в бюджет (п. 3 ч. 1 ст. 266 НК)</p><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как принять в зачет &#171;импортный&#187; НДС при его уплате в рассрочку</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218963/bssPhr64/"></a><a data-anchor="/document/16/218963/dfasqf4wpb/" data-dfa="dfasqf4wpb"></a>Организация ввозит товары для производственных целей. Органы таможенной службы начислили НДС при ввозе товара и дали&nbsp;отсрочку сроком на 2 месяца. Организация может принять начисленную сумму НДС к зачету только после уплаты отсроченной суммы налога в бюджет.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может ли покупатель принять в зачет НДС, который уплатил поставщик&#160;на таможне за товары, приобретенные на условиях DDP&#160;</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/218963/bssPhr66/"></a><a data-anchor="/document/16/218963/dfasdg1dxr/" data-dfa="dfasdg1dxr"></a>Нет, не может.</p><p style="text-align:left"><a data-anchor="/document/16/218963/bssPhr67/"></a><a data-anchor="/document/16/218963/dfasy9rrhz/" data-dfa="dfasy9rrhz"></a>Так как НДС на таможне в условиях поставки DDP уплатил поставщик товара, то покупатель не имеет права на зачет «таможенного» НДС, поскольку он не уплачивал налог.</p><p style="text-align:left"><a data-anchor="/document/16/218963/bssPhr68/"></a><a data-anchor="/document/16/218963/dfasmmpywy/" data-dfa="dfasmmpywy"></a>Согласно ИНКОТЕРМС 2010 поставка на условиях DDP (Delivered Duty Paid – «Поставка с оплатой пошлин») означает, что продавец предоставляет в распоряжение покупателя товар, очищенный от таможенных пошлин, необходимых для ввоза, на прибывшем транспортном средстве, готовым для разгрузки в поименованном месте назначения.</p><p style="text-align:left"><a data-anchor="/document/16/218963/bssPhr69/"></a><a data-anchor="/document/16/218963/dfas9gdl7a/" data-dfa="dfas9gdl7a"></a>При данных условиях поставки продавец:</p><ul class="c-list"><li><a data-anchor="/document/16/218963/bssPhr70/"></a><a data-anchor="/document/16/218963/dfasn9ki3d/" data-dfa="dfasn9ki3d"></a>несет все расходы и риски, связанные с доставкой товара в место назначения;</li><li>осуществляет таможенные процедуры, необходимые как для вывоза, так и для ввоза товара;</li><li>уплачивает все пошлины, налоги и сборы, взимаемые при вывозе и ввозе.</li></ul><p style="text-align:left"><a data-anchor="/document/16/218963/bssPhr71/"></a><a data-anchor="/document/16/218963/dfasz3zfsg/" data-dfa="dfasz3zfsg"></a>Если контрактом не предусмотрены другие условия, DDP подразумевает, что любые налоги при импорте, в том числе&nbsp;НДС, уплачивает&nbsp;продавец&nbsp;за свой счет.</p><p style="text-align:left"><a data-anchor="/document/16/218963/bssPhr72/"></a><a data-anchor="/document/16/218963/dfas20135m/" data-dfa="dfas20135m"></a>При импорте товаров налогоплательщик вправе отнести в зачет сумму НДС по фактически полученным товарам при условии, что эта сумма налога уплачена в бюджет (<span num="165" target="_blank" lnktype="intlnk" title="" class="doc">п. 3</span> ч. 1 ст. 266 НК).</p><p style="text-align:left"><a data-anchor="/document/16/218963/bssPhr73/"></a><a data-anchor="/document/16/218963/dfas9uqnvp/" data-dfa="dfas9uqnvp"></a>Таким образом, определяя право импортера на отнесение в зачет «таможенного» НДС, необходимо обратиться к условиям договора, а именно – кто&nbsp;платит НДС в условиях поставки DDP.</p></div></div></div><a data-anchor="/document/16/218963/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218963/bssPhr74/"></a><a data-anchor="/document/16/218963/dfaskui5aw/" data-dfa="dfaskui5aw"></a>Льготы при ввозе товаров на территорию Республики Узбекистан</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218963/bssPhr76/"></a><a data-anchor="/document/16/218963/dfas01c8vv/" data-dfa="dfas01c8vv"></a>Перечень товаров, освобожденных на постоянной основе от обложения НДС при ввозе, приведен в статье <span num="127" target="_self" lnktype="intlnk" title="" class="doc">246 НК</span>.</p><p><a data-anchor="/document/16/218963/bssPhr77/"></a><a data-anchor="/document/16/218963/dfask9zz2i/" data-dfa="dfask9zz2i"></a>От налогообложения освобожден ввоз на территорию Республики Узбекистан (<span num="128" target="_self" lnktype="intlnk" title="" class="doc">ст.246</span> НК):</p><ol class="c-list"><li><a data-anchor="/document/16/218963/bssPhr78/"></a><a data-anchor="/document/16/218963/dfassr7fgg/" data-dfa="dfassr7fgg"></a>товаров, ввозимых физлицами в пределах норм беспошлинного ввоза, утвержденных таможенным законодательством;</li><li><a data-anchor="/document/16/218963/bssPhr79/"></a><a data-anchor="/document/16/218963/dfashahyw0/" data-dfa="dfashahyw0"></a>товаров, ввозимых в качестве гуманитарной помощи, в порядке, определяемом Кабинетом Министров;</li><li><a data-anchor="/document/16/218963/bssPhr80/"></a><a data-anchor="/document/16/218963/dfasznoe5h/" data-dfa="dfasznoe5h"></a>товаров, ввозимых в целях благотворительной помощи, включая оказание технического содействия (грантов), по линии государств, правительств, международных организаций, а также иных организаций и лиц, в случаях, предусмотренных решениями Кабинета Министров Республики Узбекистан;</li><li><a data-anchor="/document/16/218963/bssPhr81/"></a><a data-anchor="/document/16/218963/dfasrt895k/" data-dfa="dfasrt895k"></a>предназначенных для официального пользования иностранными дипломатическими и приравненными к ним представительствами, а также для личного пользования дипломатического и административно-технического персонала этих представительств, включая членов их семей, проживающих вместе с ними;</li><li><a data-anchor="/document/16/218963/bssPhr82/"></a><a data-anchor="/document/16/218963/dfasb4svxk/" data-dfa="dfasb4svxk"></a>культурных ценностей, которые в соответствии с законодательством отнесены к особо ценным объектам культурного наследия, приобретены государственными учреждениями культуры или получены ими в дар, при наличии соответствующего подтверждения Министерства культуры;</li><li><a data-anchor="/document/16/218963/bssPhr83/"></a><a data-anchor="/document/16/218963/dfas1mf4y1/" data-dfa="dfas1mf4y1"></a>технологического оборудования, аналоги которого не производят в Республике Узбекистан, ввозимого на территорию Республики Узбекистан по утвержденному перечню (постановление КабМина от 04.06.2021 г. № 352);</li><li><a data-anchor="/document/16/218963/bssPhr84/"></a><a data-anchor="/document/16/218963/dfasskx1po/" data-dfa="dfasskx1po"></a>всех видов печатных изданий, получаемых государственными библиотеками и музеями по международному книгообмену, а также произведений кинематографии, ввозимых специализированными государственными организациями в рамках международных некоммерческих обменов;</li><li><a data-anchor="/document/16/218963/bssPhr85/"></a><a data-anchor="/document/16/218963/dfasmi56s9/" data-dfa="dfasmi56s9"></a>национальной валюты Республики Узбекистан и иностранной валюты, банкнот, являющихся законными средствами платежа, за исключением предназначенных для коллекционирования, а также ценных бумаг;</li><li><a data-anchor="/document/16/218963/bssPhr86/"></a><a data-anchor="/document/16/218963/dfasfzkeli/" data-dfa="dfasfzkeli"></a>товаров, ввозимых за счет займов международных финансовых институтов и международных займов правительственных организаций, если их освобождение при ввозе предусмотрено законом;</li></ol><ol class="c-list" style="counter-reset: item 9;" start="10"><li><a data-anchor="/document/16/218963/bssPhr87/"></a><a data-anchor="/document/16/218963/dfasuutwww/" data-dfa="dfasuutwww"></a>технических средств систем оперативно-розыскных мероприятий, приобретаемых операторами телекоммуникаций и специальным органом по сертификации технических средств систем оперативно-розыскных мероприятий, при наличии письменного подтверждения специально уполномоченного государственного органа;</li></ol><p><a data-anchor="/document/16/218963/bssPhr88/"></a><a data-anchor="/document/16/218963/dfas16vxov/" data-dfa="dfas16vxov"></a>10-1) технических средств системы оперативно-розыскных мероприятий, приобретаемых специально уполномоченным государственным органом.</p></div><a data-anchor="/document/16/218963/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218963/bssPhr89/"></a><a data-anchor="/document/16/218963/dfas5ht5gr/" data-dfa="dfas5ht5gr"></a>Как отразить НДС по импорту в отчетности</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218963/bssPhr91/"></a><a data-anchor="/document/16/218963/dfassxbfug/" data-dfa="dfassxbfug"></a>Данные ГТД, а именно стоимость импортированного товара, исходя из которой рассчитан «импортный» НДС, и сама сумма НДС автоматически из базы данных таможенных органов отразятся в Реестре покупок.</p><p><a data-anchor="/document/16/218963/bssPhr92/"></a><a data-anchor="/document/16/218963/dfas8o4yn7/" data-dfa="dfas8o4yn7"></a>Эти же суммы автоматически отразятся и в строке 010 приложения №3 к Расчету НДС.</p><p><a data-anchor="/document/16/218963/bssPhr93/"></a><a data-anchor="/document/16/218963/dfaskvfdpg/" data-dfa="dfaskvfdpg"></a>Как начислить НДС при реализации импортного товара</p><p><a data-anchor="/document/16/218963/bssPhr94/"></a><a data-anchor="/document/16/218963/dfasg3gz63/" data-dfa="dfasg3gz63"></a><strong>При реализации импортированных товаров НДС рассчитывается по общему правилу</strong> -исходя из примененной сторонами сделки цены (<span num="134" target="_self" lnktype="intlnk" title="" class="doc">ч. 1 ст</span>. 248 НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218963/bssPhr95/"></a><a data-anchor="/document/16/218963/dfasu24hzy/" data-dfa="dfasu24hzy"></a>При реализации ввезенных, импортированных на территорию Республики Узбекистан товаров налоговая база не может быть ниже стоимости, от которой исчислен НДС, фактически уплаченный в бюджет при ввозе, импорте этих товаров (ч. 5 ст. 248 НК).</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218963/bssPhr96/"></a><a data-anchor="/document/16/218963/dfasqgb0xb/" data-dfa="dfasqgb0xb"></a>Если импортированный товар реализуете ниже стоимости, принятой для расчета «импортного» НДС, то сделайте досчёт налоговой базы, то есть на положительную разницу между стоимостью, принятой для исчисления НДС при импорте товара, и ценой его реализации без НДС, доначислите НДС.</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218963/bssPhr97/"></a><a data-anchor="/document/16/218963/dfas67vntk/" data-dfa="dfas67vntk"></a>Как рассчитать НДС при реализации импортированного товара</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218963/bssPhr98/"></a><a data-anchor="/document/16/218963/dfasrg8s24/" data-dfa="dfasrg8s24"></a>Предприятие - плательщик НДС импортирует товар и реализует его на внутреннем рынке.</p><p><a data-anchor="/document/16/218963/bssPhr99/"></a><a data-anchor="/document/16/218963/dfasz18pdv/" data-dfa="dfasz18pdv"></a>Таможенная стоимость товара составила 190 500 тыс. сумов, таможенная пошлина 9 500 тыс. сумов. Стоимость товара для расчета НДС при импорте составила 200 000 тыс. сумов (190 500 + 9 500).</p><p><a data-anchor="/document/16/218963/bssPhr100/"></a><a data-anchor="/document/16/218963/dfasdn4rnf/" data-dfa="dfasdn4rnf"></a>НДС, уплаченный при ввозе на таможенную территорию, составил – 24 000 тыс. сумов (200 000 × 12%).</p><p><a data-anchor="/document/16/218963/bssPhr101/"></a><a data-anchor="/document/16/218963/dfaseklgl4/" data-dfa="dfaseklgl4"></a>Завезенный товар реализован по цене 179 200 тыс. сумов, включающей в себя стоимость товара – 160 000 тыс. сумов и сумму НДС – 19 200 тыс. сумов.</p><p><a data-anchor="/document/16/218963/dfasof1p0s/" data-dfa="dfasof1p0s"></a><a data-anchor="/document/16/218963/bssPhr102/"></a><br>Сравним две налоговые базы и суммы НДС:</p><p><a data-anchor="/document/16/218963/bssPhr103/"></a><a data-anchor="/document/16/218963/dfas10emaw/" data-dfa="dfas10emaw"></a>при импорте – налоговая база 200 000 тыс. сумов, НДС 24 000 тыс. сумов;</p><p><a data-anchor="/document/16/218963/bssPhr104/"></a><a data-anchor="/document/16/218963/dfaszbe4o3/" data-dfa="dfaszbe4o3"></a>при реализации – налоговая база 160 000 тыс. сумов, НДС 19 200 тыс. сумов.</p><p><a data-anchor="/document/16/218963/bssPhr105/"></a><a data-anchor="/document/16/218963/dfasrtnz8l/" data-dfa="dfasrtnz8l"></a>НБ при реализации 160 000 тыс. сумов меньше, чем НБ при импорте – 200 000 тыс. сумов.</p><p><a data-anchor="/document/16/218963/bssPhr106/"></a><a data-anchor="/document/16/218963/dfasoim1vp/" data-dfa="dfasoim1vp"></a>В этих условиях налогоплательщик обязан произвести досчёт налоговой базы, т.е. на положительную разницу между стоимостью, принятой для исчисления НДС при импорте товара, и ценой его реализации без НДС, доначислить НДС на сумму 4 800 тыс. сумов (200 000 000 – 160 000 000) х 12%) (<span num="177" target="_blank" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 248 НК).</p><p><a data-anchor="/document/16/218963/bssPhr107/"></a><a data-anchor="/document/16/218963/dfasxaqzia/" data-dfa="dfasxaqzia"></a>На положительную разницу между стоимостью, определяемой таможенными органами для расчета НДС при импорте, и стоимостью реализации без НДС – 40 000 тыс. сумов (200 000 – 160 000 ) выписывается односторонний счет-фактура типа «Реализация ниже таможенной стоимости», данные которого отражаются автоматически в <strong>Приложении № 1 </strong>к Расчету НДС:</p><p><a data-anchor="/document/16/218963/bssPhr108/"></a><a data-anchor="/document/16/218963/dfas1tclks/" data-dfa="dfas1tclks"></a>по <strong>строке 0109 </strong>в <strong>графе 3 отразится 40 000 тыс. сумов, а в графе 4 </strong>– доначисленный с этой разницы НДС 4 800 тыс. сумов (40 000 х 12%).</p><p><a data-anchor="/document/16/218963/dfasxgmhiy/" data-dfa="dfasxgmhiy"></a><a data-anchor="/document/16/218963/bssPhr109/"></a><br>Разница в 4 680 тыс. сумов 24 000 - 19 200 относится на расходы периода (счет 9430) и вычитается при расчете налога на прибыль.</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218963/bssPhr110/"></a><a data-anchor="/document/16/218963/dfasisp118/" data-dfa="dfasisp118"></a>Норма ч.5 ст.248 НК применяется только при реализации импортированных товаров</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/218963/bssPhr111/"></a><a data-anchor="/document/16/218963/dfas7d2w0a/" data-dfa="dfas7d2w0a"></a>Норма <span num="136" target="_self" lnktype="intlnk" title="" class="doc">ч.5</span> ст.248 НК, определяющая налоговую базу по НДС при реализации импортированных товаров не распространяется на организации, импортирующие , сырье и материалы для собственных нужд, то есть не предназначенных к продаже (не перепродает их как товар).</p><p style="text-align:left"><a data-anchor="/document/16/218963/bssPhr112/"></a><a data-anchor="/document/16/218963/dfasd0wxt4/" data-dfa="dfasd0wxt4"></a>Если организация решит продать импортированное сырье, ранее завезенное для собственных нужд, то в этом случае в расчетах с бюджетом по НДС оно должно учесть сумму НДС уплаченную при импорте. Если, сырье будет реализовано ниже стоимости, принятой таможенными органами для расчета «импортного» НДС, то следует доначислить НДС .</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как уплачивать НДС при вывозе товара в режиме реэкспорта</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218963/bssPhr114/"></a><a data-anchor="/document/16/218963/dfasuf4ku3/" data-dfa="dfasuf4ku3"></a>При вывозе товаров за пределы территории РУз в таможенной процедуре реэкспорта НДС не уплачивают, а уплаченные при ввозе на территорию РУз суммы налога возвращают налогоплательщику в порядке, предусмотренном таможенным законодательством (<span num="148" target="_self" lnktype="intlnk" title="" class="doc">п. 2</span> ч. 2 ст. 277 НК).</p><p><a data-anchor="/document/16/218963/bssPhr115/"></a><a data-anchor="/document/16/218963/dfasgux944/" data-dfa="dfasgux944"></a>В Расчете НДС вывоз товара в режиме реэкспорта отражается<strong> автоматически на основании ГТД</strong> по <strong>строке 0230 приложения № 2</strong> как оборот, освобождаемый от НДС, со ссылкой на <span num="149" target="_self" lnktype="intlnk" title="" class="doc">пункт 2</span> части 2 статьи 277 НК. Соответственно, учитывается по <strong>строке 01071 приложения № 1</strong>.</p><p><a data-anchor="/document/16/218963/bssPhr116/"></a><a data-anchor="/document/16/218963/dfas3b29ap/" data-dfa="dfas3b29ap"></a>При реэкспорте товара, ранее помещенного под таможенный режим выпуска для свободного обращения (импорт), уплаченные суммы таможенных пошлин и налогов возвращают по фактически реэкспортируемой части товара в порядке, предусмотренном <span num="150" target="_self" lnktype="intlnk" title="" class="doc">главой 49</span> Таможенного кодекса, при одновременном соблюдении требований и условий, установленных в <span num="151" target="_self" lnktype="intlnk" title="" class="doc">статье 35</span> Таможенного кодекса.</p><p><a data-anchor="/document/16/218963/bssPhr117/"></a><a data-anchor="/document/16/218963/dfasv25p6d/" data-dfa="dfasv25p6d"></a>При помещении товара под таможенную процедуру реэкспорта и возврате налогоплательщику НДС, уплаченного при импорте этого товара, налогоплательщик должен скорректировать (уменьшить) сумму НДС, относимого в зачет, на сумму возвращенного ему налога (<span num="152" target="_self" lnktype="intlnk" title="" class="doc">ч. 8</span> ст. 269 НК).</p><p><a data-anchor="/document/16/218963/bssPhr118/"></a><a data-anchor="/document/16/218963/dfas0uvmqw/" data-dfa="dfas0uvmqw"></a>Чтобы корректировка зачета НДС отразилась в налоговой отчетности по НДС, заполните Реестр корректировок (приложение № 5), в частности Таблицу № 2 – Реестр корректировки (исключению из зачета) сумм НДС, ранее принятых к зачету, который, заполняют согласно статье <span num="153" target="_self" lnktype="intlnk" title="" class="doc">269 НК</span>.</p><p><a data-anchor="/document/16/218963/bssPhr119/"></a><a data-anchor="/document/16/218963/dfas0agfzy/" data-dfa="dfas0agfzy"></a>Заполните таблицу 2 Приложения № 5 к Расчету НДС, для этого:</p><ol class="c-list"><li><a data-anchor="/document/16/218963/bssPhr120/"></a><a data-anchor="/document/16/218963/dfasg8gy13/" data-dfa="dfasg8gy13"></a>зайдите в персональный кабинет на my3.soliq.uz в раздел «Услуги»;</li><li><a data-anchor="/document/16/218963/bssPhr121/"></a><a data-anchor="/document/16/218963/dfasc5nbm2/" data-dfa="dfasc5nbm2"></a>выберите услугу «Внесение корректировок в сумму НДС» в подразделе «Электронный документооборот»;</li><li><a data-anchor="/document/16/218963/bssPhr122/"></a><a data-anchor="/document/16/218963/dfas6hikg6/" data-dfa="dfas6hikg6"></a>нажмите «Корректировка суммы НДС, ранее отнесенной к зачету»;</li><li><a data-anchor="/document/16/218963/bssPhr123/"></a><a data-anchor="/document/16/218963/dfasktxdox/" data-dfa="dfasktxdox"></a>заполните открывшуюся форму, перенеся запрашиваемые данные из ЭСФ или ГТД, указав основание для корректировки и дату заполнения формы;</li><li><a data-anchor="/document/16/218963/bssPhr124/"></a><a data-anchor="/document/16/218963/dfas1t7h0u/" data-dfa="dfas1t7h0u"></a>нажмите «Сохранить».</li></ol><p><a data-anchor="/document/16/218963/bssPhr125/"></a><a data-anchor="/document/16/218963/dfasr097be/" data-dfa="dfasr097be"></a>На основании Реестра корректировок (таблица № 2) откорректированная сумма НДС отразится в <strong>строке 1105 приложения № 3</strong> к Расчету НДС.</p></div></div></div><p><a data-anchor="/document/16/218963/dfashhnldp/" data-dfa="dfashhnldp"></a><a data-anchor="/document/16/218963/bssPhr126/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

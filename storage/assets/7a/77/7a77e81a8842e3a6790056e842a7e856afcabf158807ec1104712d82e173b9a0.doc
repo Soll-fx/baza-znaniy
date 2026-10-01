@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какую информацию включать в предложение участника тендера </h2><div class="doc-snippet"><a data-anchor="/document/16/208719/dfasaif1ec/" data-dfa="dfasaif1ec"></a><a data-anchor="/document/16/208719/bssPhr2/"></a>. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/208719/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/208719/bssPhr3/"></a><a data-anchor="/document/16/208719/dfasoumzmx/" data-dfa="dfasoumzmx"></a>Из каких частей состоит предложение участника тендера</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/208719/bssPhr5/"></a><a data-anchor="/document/16/208719/dfasdottqq/" data-dfa="dfasdottqq"></a>Госзаказчик оценивает тендерное предложение в два этапа:</p><p><a data-anchor="/document/16/208719/bssPhr6/"></a><a data-anchor="/document/16/208719/dfas8r4byp/" data-dfa="dfas8r4byp"></a>1-й этап. <span data-warm-notices="41963132" data-warm-notice-type="error" num="1" lnktype="intlnk" title="Как оценить техническую часть предложений в тендере" class="doc">Оценка технической части тендерного предложения</span>;</p><p><a data-anchor="/document/16/208719/bssPhr7/"></a><a data-anchor="/document/16/208719/dfas07ndx2/" data-dfa="dfas07ndx2"></a>2-й этап. <span data-warm-notices="41963133" data-warm-notice-type="error" num="3" lnktype="intlnk" title="Как оценить ценовую часть тендерного предложения" class="doc">Оценка ценовой части тендерного предложения</span> (<span num="15" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;69</span>&nbsp;Закона о госзакупках).</p><p><a data-anchor="/document/16/208719/bssPhr8/"></a><a data-anchor="/document/16/208719/dfasqsqgg5/" data-dfa="dfasqsqgg5"></a>Соответственно, тендерное предложение должно состоять из двух частей: технической и ценовой.</p><p><a data-anchor="/document/16/208719/bssPhr9/"></a><a data-anchor="/document/16/208719/dfasie4kgd/" data-dfa="dfasie4kgd"></a>В технической части опишите технические характеристики. После, сверьте свое предложение с ТЗ госзаказчика. Для этого в своем тендерном предложении укажите:</p><ul class="c-list"><li><a data-anchor="/document/16/208719/bssPhr10/"></a><a data-anchor="/document/16/208719/dfasi49cb4/" data-dfa="dfasi49cb4"></a>полное наименование;</li><li>сведения о новизне: месяц и год производства;</li><li>описание этапов изготовления: технологические процессы при производстве, если это указано в ТЗ;</li><li>код ТН ВЭД;</li><li>область применения: где и каким образом будут применять;</li><li>условия эксплуатации: климатические особенности, температурный режим, допустимый уровень влажности и другие значимые показатели, которые могут повлиять на стабильную работу;</li><li>технические, функциональные и качественные характеристики: потребительские свойства, размер, габариты, вес и т.п.;</li><li>технико-экономические и эксплуатационные показатели: расход топлива, объем потребляемой электроэнергии, рабочее напряжение, допустимое время непрерывной работы;</li><li>параметры надежности: заявленный производителем срок службы, измеряемый в количестве лет или наработанных моточасов или других единиц измерения, ресурс эксплуатации товара до проведения первого капитального ремонта;</li><li>описание конструкции и монтажно-технических характеристик: методы крепления, установки, очистки, сборки, разбора;</li><li>материалы и комплектующие товара: какие материалы и комплектующие использованы при производстве. Укажите из чего были изготовлены значимые элементы корпуса, мотора или других значимых конструктивных частей товара или оборудования;</li><li>насколько стабильно работает и насколько сильно теряет свои свойства при воздействии окружающей среды, к примеру, укажите, использовалась ли нержавеющая сталь при производстве оборудования или оцинкован ли кузов автомобиля. То есть опишите, какие материалы снижают последствия от воздействия на него агрессивной среды;</li><li>требования к электропитанию для нормальной работы;</li><li>какие контрольно-измерительные приборы установлены;</li><li>комплектность: что входит в комплект поставки, какие запасные части прилагаются и т.д.;</li><li>каким образом и в соответствии с какими требованиями нанесена маркировка, а также какую информацию она содержит;</li><li>упаковка: какую упаковку использует производитель, и от каких внешних воздействий она защищает;</li><li>порядок сдачи и приемки: сроки направления уведомлений в случае, если товар или оборудование изготавливают на заказ, перечень необходимых документов, перечень условий, которые заказчик и исполнитель должны выполнить;</li><li>условия транспортировки;</li><li>параметры хранения: требования к температурному режиму, уровню влажности и т.д.;</li><li>гарантийный срок: с какого момента он наступает;</li><li>ремонтопригодность: какие узлы и агрегаты подлежат ремонту и замене;</li><li>требования к техническому обслуживанию;</li><li>экологические параметры: объем выбросов в атмосферу вредных веществ и их перечень;</li><li>требования по безопасности эксплуатации;</li><li>классификация товара или оборудования и показатели его качества;</li><li>перечень приложений с указанием прилагаемой документации, чертежей и т.д..</li></ul><p><a data-anchor="/document/16/208719/bssPhr11/"></a><a data-anchor="/document/16/208719/dfasg2yx5v/" data-dfa="dfasg2yx5v"></a>В тендерном предложении на выполнение работ и оказание услуг укажите дополнительно:</p><ul class="c-list"><li><a data-anchor="/document/16/208719/bssPhr12/"></a><a data-anchor="/document/16/208719/dfas4um5u3/" data-dfa="dfas4um5u3"></a>согласие на выполнение работ или оказание услуг в месте, оговоренном в ТЗ;</li><li>информацию о специалистах, которые будут задействованы при выполнении работ или оказании услуг с полным описанием профессиональных навыков и стажа работы.</li></ul><p><a data-anchor="/document/16/208719/bssPhr13/"></a><a data-anchor="/document/16/208719/dfas44zz1f/" data-dfa="dfas44zz1f"></a>В рамках работ и услуг могут закупать оборудование для их выполнения. В таком случае детально укажите параметры оборудования:</p><ul class="c-list"><li><a data-anchor="/document/16/208719/bssPhr14/"></a><a data-anchor="/document/16/208719/dfas5hmk3v/" data-dfa="dfas5hmk3v"></a>полное наименование;</li><li>основные технические параметры;</li><li>основные технико-экономические и эксплуатационные показатели;</li><li>параметры надежности;</li><li>технические параметры конструкции, монтажно-технические показатели;</li><li>материал, из которого изготовлено оборудование;</li><li>параметры работы оборудования при воздействии факторов внешней среды;</li><li>параметры подключения к электро и энергопитанию;</li><li>контрольно-измерительные приборы и автоматика, установленные на данном оборудовании;</li><li>маркировка;</li><li>ЗИП и быстроизнашивающиеся детали;</li><li>требования к обслуживанию установленного оборудования.</li></ul><p><a data-anchor="/document/16/208719/bssPhr15/"></a><a data-anchor="/document/16/208719/dfasnkdydc/" data-dfa="dfasnkdydc"></a>В ценовую часть тендерного предложения включите информацию о цене за единицу, количество предлагаемого товара, работы, услуги, а также общую цену по каждой позиции и тендерного предложения в целом.</p><p><a data-anchor="/document/16/208719/bssPhr16/"></a><a data-anchor="/document/16/208719/dfasns9ax1/" data-dfa="dfasns9ax1"></a>В ценовую часть включите банковскую гарантию обеспечения безотзывности своего предложения в период его действия. Банковскую гарантию оформите строго в соответствии с требованиями тендерной документации.</p><p><a data-anchor="/document/16/208719/bssPhr17/"></a><a data-anchor="/document/16/208719/dfasqhg2ef/" data-dfa="dfasqhg2ef"></a>Если в предусмотрена гарантия обеспечения в форме денежного задатка, то до завершения сроков подачи внесите на специальный счет заказчика задаток в сумме, указанной в тендерной документации.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/208719/dfasw9fzn1/" data-dfa="dfasw9fzn1"></a><a data-anchor="/document/16/208719/bssPhr18/"></a>если иное не оговорено в тендерной документации, нерезиденты перечисляют задаток в иностранной валюте в эквиваленте суммы.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208719/bssPhr19/"></a><a data-anchor="/document/16/208719/dfasqaw92v/" data-dfa="dfasqaw92v"></a>Указанной в тендерной документации, по курсу ЦБ на день оплаты, резиденты вносят задаток в национальной валюте. Задаток вносит непосредственно сам участник тендера.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/208719/bssPhr20/"></a><a data-anchor="/document/16/208719/dfasgoug5n/" data-dfa="dfasgoug5n"></a>Если предоставляете обеспечение на участие в тендере в качестве банковской гарантии, то вместе с квалификационными документами предоставьте оригинал документа, подтверждающего гарантию обеспечения. Документ составьте в соответствии с условиями тендерной документации.</p><p><a data-anchor="/document/16/208719/bssPhr21/"></a><a data-anchor="/document/16/208719/dfasginrtw/" data-dfa="dfasginrtw"></a>Если у вас нет гарантии обеспечения, вас не допустят к тендеру и внутренний конверт с техническим и ценовым предложениями возвратят без вскрытия.</p></div><a data-anchor="/document/16/208719/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/208719/bssPhr22/"></a><a data-anchor="/document/16/208719/dfasx59m52/" data-dfa="dfasx59m52"></a>В каком порядке подавать предложения на тендер</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/208719/bssPhr24/"></a><a data-anchor="/document/16/208719/dfasqy7r9q/" data-dfa="dfasqy7r9q"></a>Тендерное предложение оформите строго в соответствие с требованиями тендерной документации, а именно:</p><ul class="c-list"><li><a data-anchor="/document/16/208719/bssPhr25/"></a><a data-anchor="/document/16/208719/dfasnvek3p/" data-dfa="dfasnvek3p"></a>предоставьте два комплекта в отдельных конвертах – один оригинал и одна копия. В каждый комплект вложите внешний, технический и внутренний, финансовый конверты;</li><li>внешний и внутренний конверты опечатайте в местах склейки конверта;</li><li>во внешний конверт вложите документ, подтверждающий гарантию обеспечения на участие в тендере, квалификационные документы и внутренние конверты, а если вносите денежный задаток – копию платежного поручения, в случае банковской гарантии - оригинал банковской гарантии;</li><li>квалификационные документы пронумеруйте, прошейте и опечатайте своей печатью, на первой странице сделайте пометку «оригинал» или «копия»;</li><li>документы внутренних конвертов прошейте, на первой странице сделайте пометку «оригинал» или «копия»;</li><li>на внешнем конверте:<ul class="c-list"><li><a data-anchor="/document/16/208719/bssPhr26/"></a><a data-anchor="/document/16/208719/dfasgko71g/" data-dfa="dfasgko71g"></a>сделайте отметку «оригинал» или «копия»;</li><li>укажите наименование предмета тендера;</li><li>укажите свое наименование;</li><li>сделайте надпись «Внешний конверт»;</li><li>укажите наименование заказчика и его адрес;</li><li>сделайте надпись «не вскрывать до (укажите время и дату вскрытия конвертов)»;</li></ul></li><li>на внутреннем конверте:<ul class="c-list"><li><a data-anchor="/document/16/208719/bssPhr27/"></a><a data-anchor="/document/16/208719/dfasawxynr/" data-dfa="dfasawxynr"></a>сделайте отметку «оригинал» или «копия»;</li><li>укажите наименование предмета тендера;</li><li>укажите свое наименование;</li><li>укажите наименование заказчика и его адрес;</li><li>сделайте надпись «Внутренний конверт с технической или ценовой частью»;</li><li>сделайте надпись: «вскрыть после успешного прохождения квалификационного отбора.</li></ul></li></ul><p style="margin-left:0pt"><a data-anchor="/document/16/208719/bssPhr28/"></a><a data-anchor="/document/16/208719/dfaszxo7sq/" data-dfa="dfaszxo7sq"></a>Тендерное предложение можно передать через курьера, своего работника либо по почте. Но желательно доставить нарочно. Если решили отправить почтой, в почтовый конверт вложите конверт с тендерным предложением в запечатанном виде со всеми указанными выше пометками.</p></div><a data-anchor="/document/16/208719/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/208719/bssPhr29/"></a><a data-anchor="/document/16/208719/dfasmi45ix/" data-dfa="dfasmi45ix"></a>На что обратить внимание при составлении тендерного предложения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-left:0pt"><a data-anchor="/document/16/208719/bssPhr31/"></a><a data-anchor="/document/16/208719/dfaswc772l/" data-dfa="dfaswc772l"></a>При составлении тендерного предложения руководствуйтесь ТЗ и отвечайте на все пункты требований госзаказчика. Опишите технические характеристики полностью. Нельзя отвечать «да ? нет».</p><p style="margin-left:0pt"><a data-anchor="/document/16/208719/bssPhr32/"></a><a data-anchor="/document/16/208719/dfasl9ffbe/" data-dfa="dfasl9ffbe"></a>Если ваш товар, работа, услуга не соответствуют полностью требованиям госзаказчика из-за незначительных отличий по техническим или иным показателям от товара, работы, услуги, которые запрашивает заказчик и при этом имеет более слабые параметры, такое тендерное предложение будет признано технически не соответствующим. Заказчик будет производить оценку поступивших предложений строго в соответствии с ТЗ. Соответственно, ваш товар должен быть, как минимум в рамках требуемого диапазона технических характеристик.</p><p style="margin-left:0pt"><a data-anchor="/document/16/208719/bssPhr33/"></a><a data-anchor="/document/16/208719/dfas2hq2pr/" data-dfa="dfas2hq2pr"></a>Вместе с тем вы вправе, помимо запрашиваемых в ТЗ характеристик, указать дополнительные технические и иные характеристики. Возможно, данные дополнительные характеристики будут решающими, когда заказчик будет принимать решение о выборе победителя тендера в случае равенства баллов.</p><p style="margin-left:0pt"><a data-anchor="/document/16/208719/bssPhr34/"></a><a data-anchor="/document/16/208719/dfaszfrgiu/" data-dfa="dfaszfrgiu"></a>Также вы можете указать производителя предлагаемого товара, так как это не запрещено.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/208719/dfase85dku/" data-dfa="dfase85dku"></a><a data-anchor="/document/16/208719/bssPhr35/"></a>в тендерной документации госзаказчик может установить, что предложения участников тендера должны содержать предложение по всем товарам, работам, услугам (лотам) или могут быть представлены только по отдельным позициям.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208719/bssPhr36/"></a><a data-anchor="/document/16/208719/dfasxhsoop/" data-dfa="dfasxhsoop"></a>В этом случае направьте закупочной комиссии заказчика только одно тендерное предложение. В предложении укажите технические и ценовые данные по всем лотам или только по отдельным позициям, а по тем позициям, по которым не имеете предложения, поставьте прочерк.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/208719/bssPhr37/"></a><a data-anchor="/document/16/208719/dfaszvciv4/" data-dfa="dfaszvciv4"></a>Читайте также рекомендацию: <span data-warm-notices="41961319,41963134" data-warm-notice-type="error" num="11" lnktype="intlnk" title="Как принять участие в тендере" class="doc">«Как принять участие в тендере»</span>.</p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

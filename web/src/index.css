@@ -1,0 +1,138 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans:
+    'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', sans-serif;
+  --font-mono: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased dark:bg-slate-950 dark:text-slate-200;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-blue-500 dark:outline-blue-400;
+  }
+
+  ::selection {
+    @apply bg-blue-200 text-slate-900 dark:bg-blue-900/60 dark:text-white;
+  }
+}
+
+@layer components {
+  /* ---------- Сайдбар ---------- */
+  .kb-scroll {
+    scrollbar-width: thin;
+    scrollbar-color: color-mix(in oklab, currentColor 25%, transparent) transparent;
+  }
+  .kb-scroll::-webkit-scrollbar {
+    width: 9px;
+    height: 9px;
+  }
+  .kb-scroll::-webkit-scrollbar-thumb {
+    @apply rounded-full bg-slate-300 dark:bg-slate-700;
+  }
+  .kb-scroll::-webkit-scrollbar-thumb:hover {
+    @apply bg-slate-400 dark:bg-slate-600;
+  }
+
+  /* Вертикальная линия вложенности */
+  .kb-tree-line {
+    @apply absolute top-0 bottom-0 w-px bg-slate-200 dark:bg-slate-800;
+  }
+
+  .kb-item {
+    @apply relative flex w-full items-center gap-1.5 rounded-md py-1.5 pr-2 pl-2 text-left text-sm
+           transition-colors select-none;
+  }
+  .kb-item:hover {
+    @apply bg-slate-200/70 dark:bg-slate-800/70;
+  }
+  .kb-item-active {
+    @apply bg-blue-50 font-medium text-blue-800 dark:bg-blue-950/60 dark:text-blue-200;
+  }
+  .kb-item-ancestor {
+    @apply text-blue-700 dark:text-blue-300;
+  }
+
+  /* ---------- Текст статьи ---------- */
+  .kb-prose {
+    @apply max-w-none text-[15px] leading-7;
+  }
+  .kb-prose h1 {
+    @apply mt-0 mb-4 text-2xl font-semibold tracking-tight;
+  }
+  .kb-prose h2 {
+    @apply mt-9 mb-3 scroll-mt-24 border-b border-slate-200 pb-1.5 text-lg font-semibold dark:border-slate-800;
+  }
+  .kb-prose h3 {
+    @apply mt-6 mb-2 scroll-mt-24 text-base font-semibold;
+  }
+  .kb-prose p {
+    @apply my-3;
+  }
+  .kb-prose ul {
+    @apply my-3 list-disc space-y-1.5 ps-6 marker:text-slate-400;
+  }
+  .kb-prose ol {
+    @apply my-3 list-decimal space-y-1.5 ps-6 marker:text-slate-400;
+  }
+  .kb-prose a {
+    @apply font-medium text-blue-700 underline decoration-blue-300 underline-offset-2 hover:decoration-blue-600 dark:text-blue-300 dark:decoration-blue-700;
+  }
+  .kb-prose strong {
+    @apply font-semibold;
+  }
+  .kb-prose code {
+    @apply rounded border border-slate-200 bg-slate-100 px-1.5 py-0.5 font-mono text-[13px] dark:border-slate-700 dark:bg-slate-800;
+  }
+  .kb-prose pre {
+    @apply my-4 overflow-x-auto rounded-lg border border-slate-200 bg-slate-50 p-4 text-[13px] dark:border-slate-800 dark:bg-slate-900;
+  }
+  .kb-prose pre code {
+    @apply border-0 bg-transparent p-0;
+  }
+  .kb-prose blockquote {
+    @apply my-4 border-s-4 border-amber-400 bg-amber-50/60 py-2 pr-3 pl-4 text-slate-700 dark:bg-amber-950/20 dark:text-slate-300;
+  }
+    .kb-prose table {
+      @apply my-0 w-full border-collapse text-sm;
+    }
+    /* Широкие таблицы (до 13 колонок) прокручиваются, а не сжимаются в кашу */
+    .kb-prose .kb-table-wrap {
+      @apply my-4 -mx-1 overflow-x-auto rounded-lg border border-slate-200 dark:border-slate-700;
+    }
+    .kb-prose .kb-table-wrap table {
+      @apply border-collapse;
+    }
+    .kb-prose th {
+      @apply border border-slate-200 bg-slate-100 px-3 py-2 text-left font-semibold whitespace-nowrap dark:border-slate-700 dark:bg-slate-800;
+    }
+    .kb-prose td {
+      @apply border border-slate-200 px-3 py-2 align-top dark:border-slate-700;
+    }
+  .kb-prose img {
+    @apply my-4 max-w-full rounded-lg border border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-900;
+  }
+  .kb-prose hr {
+    @apply my-8 border-slate-200 dark:border-slate-800;
+  }
+  .kb-prose mark {
+    @apply rounded bg-yellow-200 px-0.5 text-slate-900 dark:bg-yellow-500/40;
+  }
+
+  /* Ссылка на несуществующую статью — заметна, но не ломает вёрстку */
+  .kb-link-broken {
+    @apply text-rose-600 underline decoration-dashed underline-offset-2 dark:text-rose-400;
+  }
+}

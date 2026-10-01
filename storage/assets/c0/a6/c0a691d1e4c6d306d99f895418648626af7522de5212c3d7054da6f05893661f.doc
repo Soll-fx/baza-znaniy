@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отразить иностранную валюту в финансовой отчетности по МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/218871/dfasoll4h3/" data-dfa="dfasoll4h3"></a><a data-anchor="/document/16/218871/bssPhr2/"></a>В&nbsp;рекомендации найдете ответы на&nbsp;вопросы: что такое зарубежная деятельность в&nbsp;понимании МСФО, в&nbsp;каком порядке отражать иностранную валюту в&nbsp;финансовой отчетности компании по&nbsp;МСФО, что такое курсовые разницы и&nbsp;как их&nbsp;отражать. На&nbsp;примерах увидите, как отразить курсовую разницу и&nbsp;валюту в&nbsp;финансовой отчетности по&nbsp;МСФО. Эксперты пояснили, что необходимо раскрыть в&nbsp;примечаниях к&nbsp;финансовой отчетности. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218871/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218871/bssPhr3/"></a><a data-anchor="/document/16/218871/dfasgmknp1/" data-dfa="dfasgmknp1"></a>Порядок отражения иностранной валюты в&nbsp;финансовой отчетности по&nbsp;МСФО</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr5/"></a><a data-anchor="/document/16/218871/dfaszmb68c/" data-dfa="dfaszmb68c"></a>Порядок отражения иностранной валюты в&nbsp;финансовой отчетности регулирует МСФО (IAS) 21&nbsp;«Влияние изменений валютных курсов».</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr6/"></a><a data-anchor="/document/16/218871/dfas9gstku/" data-dfa="dfas9gstku"></a>Данный МСФО не&nbsp;требует от&nbsp;компаний представлять финансовую отчетность в&nbsp;одной конкретной валюте. Компания представляет финансовую отчетность в&nbsp;национальной валюте той страны, в&nbsp;которой ведет финансово-хозяйственную деятельность. Такая валюта называется в&nbsp;МСФО функциональной.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr7/"></a><a data-anchor="/document/16/218871/dfas9nicw6/" data-dfa="dfas9nicw6"></a>Функциональная валюта&nbsp;— это основная валюта той экономической среды, в&nbsp;которой происходит зарубежная деятельность. Это валюта, в&nbsp;которой представлены цены на&nbsp;товары, работы, услуги и&nbsp;которую применяют для взаиморасчетов в&nbsp;стране. Для того, чтобы валюту можно было назвать функциональной, она должна оказывать:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/218871/bssPhr8/"></a><a data-anchor="/document/16/218871/dfasu2rzf4/" data-dfa="dfasu2rzf4"></a>определяющее влияние на&nbsp;цены товаров, работ, услуг, продаваемых в&nbsp;стране;</li><li style="text-align:left">основное влияние на&nbsp;трудовые, материальные и&nbsp;другие расходы, необходимые для производства товаров, продукции и&nbsp;оказания каких-либо услуг.</li></ul></div><a data-anchor="/document/16/218871/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218871/bssPhr9/"></a><a data-anchor="/document/16/218871/dfas1ue5ce/" data-dfa="dfas1ue5ce"></a>Зарубежная деятельность в&nbsp;понимании МСФО</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr11/"></a><a data-anchor="/document/16/218871/dfas6dzkai/" data-dfa="dfas6dzkai"></a>Зарубежная деятельность&nbsp;— это филиал, ассоциированная компания, совместное предприятие или дочерняя компания, которые ведут свою деятельность в&nbsp;другой стране по&nbsp;отношению к&nbsp;отчитывающейся компании (МСФО (IAS) 21&nbsp;«Влияние изменений валютных курсов»).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218871/bssPhr12/"></a><a data-anchor="/document/16/218871/dfasyl1ocn/" data-dfa="dfasyl1ocn"></a>Компания должна определить свою функциональную валюту и&nbsp;оценить в&nbsp;данной валюте финансовые результаты при формировании финансовой отчетности по&nbsp;МСФО.</p><div class="incut-v4__icon"></div></div><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr14/"></a><a data-anchor="/document/16/218871/dfas30ldf3/" data-dfa="dfas30ldf3"></a>Дочерние, зависимые компании, совместные предприятия, входящие в&nbsp;состав одной крупной компании или группы компаний, могут вести свою финансово-хозяйственную деятельность в&nbsp;разных странах с&nbsp;разными функциональными валютами. Для того, чтобы консолидировать финансовые отчеты дочерних компаний в&nbsp;одну общую финансовую отчетность материнской компании, необходимо использовать валюту представления отчетности.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr15/"></a><a data-anchor="/document/16/218871/dfaszof1vb/" data-dfa="dfaszof1vb"></a>Валюта представления отчетности&nbsp;— это валюта, используемая при формировании финансовой отчетности материнской компании или для составления консолидированной финансовой отчетности.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr16/"></a><a data-anchor="/document/16/218871/dfasz7pdmh/" data-dfa="dfasz7pdmh"></a>МСФО (IAS) 21&nbsp;«Влияние изменений валютных курсов» регулирует порядок и&nbsp;правила пересчета функциональных валют в&nbsp;валюту представления финансовой отчетности.</p></div><a data-anchor="/document/16/218871/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218871/bssPhr17/"></a><a data-anchor="/document/16/218871/dfasgw30n2/" data-dfa="dfasgw30n2"></a>Курсовые разницы</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr21/"></a><a data-anchor="/document/16/218871/dfashqrtms/" data-dfa="dfashqrtms"></a>При пересчете функциональных валют в&nbsp;валюту представления отчетности могут возникать курсовые разницы.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr22/"></a><a data-anchor="/document/16/218871/dfasngm3ai/" data-dfa="dfasngm3ai"></a>Курсовая разница&nbsp;— это разница, которая возникает в&nbsp;результате отражения в&nbsp;финансовой отчетности того&nbsp;же количества единиц иностранной валюты в&nbsp;валюте отчетности по&nbsp;другим валютным курсам.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr23/"></a><a data-anchor="/document/16/218871/dfasgtzdxa/" data-dfa="dfasgtzdxa"></a>Для того, чтобы определить курсовую разницу, необходимо учесть курс валюты на&nbsp;отчетную дату, то&nbsp;есть на&nbsp;дату совершения хозяйственной операции.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr24/"></a><a data-anchor="/document/16/218871/dfasxgng9e/" data-dfa="dfasxgng9e"></a>Курсовые разницы отражайте в&nbsp;отчете о&nbsp;прибылях и&nbsp;убытках, за&nbsp;исключением:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/218871/bssPhr25/"></a><a data-anchor="/document/16/218871/dfasbixsig/" data-dfa="dfasbixsig"></a>курсовых разниц по&nbsp;инвестициям предприятия в&nbsp;зарубежную деятельность. Их&nbsp;отражают в&nbsp;составе капитала до&nbsp;момента продажи этих инвестиций;</li><li style="text-align:left">курсовой разницы, которая возникает при приобретении за&nbsp;иностранную валюту актива, и&nbsp;сопровождается существенной девальвацией или снижением стоимости валюты, и&nbsp;при этом отсутствуют эффективные способы хеджирования возникших обязательств. Такую разницу включайте в&nbsp;стоимость этих активов.</li></ul><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr26/"></a><a data-anchor="/document/16/218871/dfasce7g4e/" data-dfa="dfasce7g4e"></a>При этом скорректированная балансовая стоимость актива должна быть не&nbsp;больше одного из&nbsp;двух значений:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/218871/bssPhr27/"></a><a data-anchor="/document/16/218871/dfascgfk7n/" data-dfa="dfascgfk7n"></a>восстановительной стоимости актива;</li><li style="text-align:left">суммы, которая возмещается или может быть возмещена за&nbsp;счет продажи или использования такого актива.</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218871/bssPhr28/"></a><a data-anchor="/document/16/218871/dfaswiww0a/" data-dfa="dfaswiww0a"></a>Как отразить курсовую разницу в&nbsp;финансовой отчетности</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr29/"></a><a data-anchor="/document/16/218871/dfasorp1n2/" data-dfa="dfasorp1n2"></a>В&nbsp;составе денежных средств в&nbsp;финансовой отчетности представлена сумма в&nbsp;фунтах стерлингов (£) в&nbsp;размере £400. Бухгалтер пересчитал ее&nbsp;в&nbsp;доллары по&nbsp;курсу $1,72 = £1. Это средний курс за&nbsp;период, в&nbsp;течение которого данная сумма в&nbsp;иностранной валюте имелась у&nbsp;предприятия на&nbsp;счете. На&nbsp;30.06.2019&nbsp;г. курс составил $1,76 = £1.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr30/"></a><a data-anchor="/document/16/218871/dfasa4cgns/" data-dfa="dfasa4cgns"></a>В&nbsp;таком случае курсовая разница должна быть отражена следующим образом:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/218871/bssPhr31/"></a><a data-anchor="/document/16/218871/dfaspghwns/" data-dfa="dfaspghwns"></a>при первоначальном признании $688 (£400 × 1,72);</li><li style="text-align:left">последующая оценка $704 (£400 × 1.76);</li><li style="text-align:left">прибыль от&nbsp;курсовых разниц $16.</li></ul><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr32/"></a><a data-anchor="/document/16/218871/dfascc12fa/" data-dfa="dfascc12fa"></a>Делаем следующую проводку:</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr33/"></a><a data-anchor="/document/16/218871/dfas5d4v0d/" data-dfa="dfas5d4v0d"></a><strong>Дебет «Денежные средства»</strong> $16</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr34/"></a><a data-anchor="/document/16/218871/dfasbqvh2h/" data-dfa="dfasbqvh2h"></a><strong>Кредит «Отчет о&nbsp;прибылях и&nbsp;убытках»</strong> $16</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218871/bssPhr35/"></a><a data-anchor="/document/16/218871/dfas48wnq3/" data-dfa="dfas48wnq3"></a>Как отразить валюту в&nbsp;финансовой отчетности</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr36/"></a><a data-anchor="/document/16/218871/dfas0gzz6b/" data-dfa="dfas0gzz6b"></a>Компания готовит финансовый отчет за&nbsp;год, закончившийся 31.03.2019&nbsp;г.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr37/"></a><a data-anchor="/document/16/218871/dfaszxfosq/" data-dfa="dfaszxfosq"></a>Показатели на&nbsp;эту дату ($):</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/218871/bssPhr38/"></a><a data-anchor="/document/16/218871/dfasdkq0u1/" data-dfa="dfasdkq0u1"></a>запасы на&nbsp;31&nbsp;марта 2019&nbsp;г. —&nbsp;20,000;</li><li style="text-align:left">торговая кредиторская задолженность&nbsp;— 11,800;</li><li style="text-align:left">прибыль текущего года 8,200.</li></ul><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr39/"></a><a data-anchor="/document/16/218871/dfasogka3y/" data-dfa="dfasogka3y"></a>Стоимость запасов на&nbsp;31.03.2019&nbsp;г. включает в&nbsp;себя $960&nbsp;тыс.&nbsp;в&nbsp;отношении запчастей, которые купили у&nbsp;европейского поставщика 31.01.2019&nbsp;г.&nbsp;за&nbsp;800&nbsp;тыс. евро. Эти запчасти не&nbsp;использовали по&nbsp;состоянию на&nbsp;31.03.2019&nbsp;г.&nbsp;31&nbsp;мая 2019&nbsp;г. оплатили поставщику в&nbsp;евро.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr40/"></a><a data-anchor="/document/16/218871/dfasr92oek/" data-dfa="dfasr92oek"></a>Обменные курсы на&nbsp;указанные даты ($1&nbsp;к 1&nbsp;евро):</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr41/"></a><a data-anchor="/document/16/218871/dfasq94en9/" data-dfa="dfasq94en9"></a>31&nbsp;января 2019&nbsp;г. —&nbsp;1.20</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr42/"></a><a data-anchor="/document/16/218871/dfasv7c87o/" data-dfa="dfasv7c87o"></a>31&nbsp;марта 2019&nbsp;г. —&nbsp;1.30</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr43/"></a><a data-anchor="/document/16/218871/dfas2ozq64/" data-dfa="dfas2ozq64"></a>31&nbsp;мая 2019&nbsp;г. —&nbsp;1.35</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr44/"></a><a data-anchor="/document/16/218871/dfaseb92th/" data-dfa="dfaseb92th"></a>Стоимость запасов следует конвертировать в&nbsp;доллары по&nbsp;обменному курсу, преобладающему на&nbsp;дату закупки и&nbsp;не&nbsp;пересчитывать на&nbsp;отчетную дату (МСФО 21&nbsp;«Влияние изменений валютных курсов»).</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr45/"></a><a data-anchor="/document/16/218871/dfasvrx8m2/" data-dfa="dfasvrx8m2"></a>Торговая кредиторская задолженность в&nbsp;евро должна быть повторно конвертирована с&nbsp;использованием валютного курса на&nbsp;дату составления финансовой отчетности (€1 = $1.30), и&nbsp;включена в&nbsp;отчет о&nbsp;финансовом положении в&nbsp;сумме $1,040&nbsp;тыс.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr46/"></a><a data-anchor="/document/16/218871/dfas6rf130/" data-dfa="dfas6rf130"></a>Отрицательную курсовую разницу&nbsp;— убыток от&nbsp;конвертации $80&nbsp;тыс. ($1,040&nbsp;— $960) следует отражать в&nbsp;составе операционных расходов.</p><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr47/"></a><a data-anchor="/document/16/218871/dfaswf0gax/" data-dfa="dfaswf0gax"></a>Отчет о&nbsp;финансовом положении по&nbsp;состоянию на&nbsp;31.03.2019&nbsp;г. должен выглядеть следующим образом:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/218871/bssPhr48/"></a><a data-anchor="/document/16/218871/dfasz27nm7/" data-dfa="dfasz27nm7"></a>запасы&nbsp;— 20,000;</li><li style="text-align:left">торговая кредиторская задолженность&nbsp;— 11,880;</li><li style="text-align:left">прибыль текущего года&nbsp;— 8,120.</li></ul></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Учитываются&#160;ли положительная (отрицательная) курсовые разницы при расчете налога на&#160;прибыль</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218871/bssPhr50/"></a><a data-anchor="/document/16/218871/dfasitokrf/" data-dfa="dfasitokrf"></a>Определение курсовой разницы в&nbsp;целях исчисления налога на&nbsp;прибыль предусмотрено в <span num="7" target="_self" lnktype="intlnk" title="" class="doc">статье</span> 320 Налогового кодекса. С&nbsp;2022 года определение курсовой разницы в&nbsp;целях налогообложения отличается от&nbsp;определения курсовой разницы в&nbsp;целях бухгалтерского учета.</p><p><a data-anchor="/document/16/218871/bssPhr51/"></a><a data-anchor="/document/16/218871/dfas1ibgi1/" data-dfa="dfas1ibgi1"></a>В&nbsp;целях исчисления налога на&nbsp;прибыль:</p><ul class="c-list"><li><a data-anchor="/document/16/218871/bssPhr52/"></a><a data-anchor="/document/16/218871/dfas9mbvk2/" data-dfa="dfas9mbvk2"></a>положительной курсовой разницей признается курсовая разница, возникающая при дооценке имущества в&nbsp;виде валютных ценностей и&nbsp;требований, стоимость которых выражена в&nbsp;иностранной валюте, или при уценке обязательств, стоимость которых выражена в&nbsp;иностранной валюте;</li><li>отрицательной курсовой разницей признается курсовая разница, возникающая при уценке имущества в&nbsp;виде валютных ценностей и&nbsp;требований, стоимость которых выражена в&nbsp;иностранной валюте, или при дооценке обязательств, стоимость которых выражена в&nbsp;иностранной валюте.</li></ul><p><a data-anchor="/document/16/218871/bssPhr53/"></a><a data-anchor="/document/16/218871/dfas3zu2b7/" data-dfa="dfas3zu2b7"></a>Положительная и&nbsp;отрицательная курсовая разница определяется в&nbsp;случае, если дооценка или уценка производится в&nbsp;связи с&nbsp;изменением официального курса иностранной валюты к&nbsp;национальной валюте РУз, установленного Центральным банком, либо с&nbsp;изменением курса иностранной валюты (условных денежных единиц) к&nbsp;национальной валюте РУз, установленного законодательством или соглашением сторон, если выраженная в&nbsp;этой иностранной валюте стоимость требований, подлежащих оплате в&nbsp;национальной валюте РУз, определяется по&nbsp;курсу, установленному законодательством или соглашением сторон соответственно.</p><p><a data-anchor="/document/16/218871/bssPhr54/"></a><a data-anchor="/document/16/218871/dfas4gafap/" data-dfa="dfas4gafap"></a>В&nbsp;целях налога на&nbsp;прибыль положительная (отрицательная) курсовая разница, возникающая от&nbsp;переоценки выданных авансов, не&nbsp;учитывается. С&nbsp;2022 года в&nbsp;налоговом учете выданные и&nbsp;полученные авансы в&nbsp;иностранной валюте переоценке не&nbsp;подлежит и&nbsp;не&nbsp;отражается в&nbsp;Расчете налога на&nbsp;прибыль.</p><p><a data-anchor="/document/16/218871/bssPhr55/"></a><a data-anchor="/document/16/218871/dfasz7ogy8/" data-dfa="dfasz7ogy8"></a>В&nbsp;случае если налоговые органы в&nbsp;рамках пред проверочного анализа будут направлять уведомление о&nbsp;внесении соответствующих исправлений в&nbsp;налоговую отчетность на&nbsp;расхождение финансовой отчетности (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">Формы №&nbsp;2</span>) и&nbsp;Расчета налога на&nbsp;прибыль, то&nbsp;организации следует в&nbsp;течение 10&nbsp;дней направить обоснование о&nbsp;том, что данное расхождение возникло по&nbsp;выданным авансам в&nbsp;иностранной валюте.</p><p><a data-anchor="/document/16/218871/bssPhr56/"></a><a data-anchor="/document/16/218871/dfasgfxgpc/" data-dfa="dfasgfxgpc"></a>Курсовые разницы:</p><ol class="c-list"><li><a data-anchor="/document/16/218871/bssPhr57/"></a><a data-anchor="/document/16/218871/dfascl73vs/" data-dfa="dfascl73vs"></a>по&nbsp;валютным ценностям, по&nbsp;иностранным валютам на&nbsp;валютном счете организации определяются при каждом изменении курса иностранной валюты к&nbsp;сумме, установленному Центральным банком;</li><li><a data-anchor="/document/16/218871/bssPhr58/"></a><a data-anchor="/document/16/218871/dfaslb8yz2/" data-dfa="dfaslb8yz2"></a>по&nbsp;требованиям или обязательствам, по&nbsp;валютному кредиту определяется при каждом изменении курса иностранной валюты к&nbsp;сумме, установленному Центральным банком, курса покупки, или продажи иностранной валюты, установленной коммерческим банком по&nbsp;договору.</li></ol><p><a data-anchor="/document/16/218871/bssPhr59/"></a><a data-anchor="/document/16/218871/dfastd5hgo/" data-dfa="dfastd5hgo"></a>В&nbsp;Расчете налога на&nbsp;прибыль (10205_35):</p><ul class="c-list"><li><a data-anchor="/document/16/218871/bssPhr60/"></a><a data-anchor="/document/16/218871/dfas7z6vne/" data-dfa="dfas7z6vne"></a>положительная курсовая разница отражается в&nbsp;строке 220 приложения №&nbsp;1;</li><li>отрицательная курсовая разница отражается в&nbsp;строке 050 приложения №&nbsp;2, а&nbsp;также в&nbsp;строке 0135 этого приложения.</li></ul><p><a data-anchor="/document/16/218871/bssPhr61/"></a><a data-anchor="/document/16/218871/dfas82yy71/" data-dfa="dfas82yy71"></a>Определение положительной и&nbsp;отрицательной курсовой разницы, образующейся при продаже (покупке) иностранной валюты в <span num="9" target="_self" lnktype="intlnk" title="" class="doc">статье</span> 320 Налогового кодекса, не&nbsp;предусмотрено. Следовательно, признание положительной и&nbsp;отрицательной курсовой разницы согласно <span num="10" target="_self" lnktype="intlnk" title="" class="doc">27&nbsp;пункту</span> 3&nbsp;части, <span num="11" target="_self" lnktype="intlnk" title="" class="doc">8&nbsp;части</span> статьи&nbsp;297, <span num="12" target="_self" lnktype="intlnk" title="" class="doc">9&nbsp;части</span> 305 статьи Налогового кодекса, для целей налогового учета производится в&nbsp;соответствии с&nbsp;законодательством о&nbsp;бухгалтерском учете.</p><p><a data-anchor="/document/16/218871/bssPhr62/"></a><a data-anchor="/document/16/218871/dfas8q9gge/" data-dfa="dfas8q9gge"></a>В&nbsp;Расчете налога на&nbsp;прибыль (10205_35), образующаяся вследствие отклонения курса продажи (покупки) иностранной валюты коммерческого банка от&nbsp;курса, установленного ЦБ&nbsp;РУз на&nbsp;дату их&nbsp;совершения отражается следующим образом:</p><ul class="c-list"><li><a data-anchor="/document/16/218871/bssPhr63/"></a><a data-anchor="/document/16/218871/dfase14h55/" data-dfa="dfase14h55"></a>положительная курсовая разница&nbsp;— в&nbsp;строке 220 приложения №&nbsp;1;</li><li>отрицательная курсовая разница&nbsp;— в&nbsp;строке 050 приложения №&nbsp;2, а&nbsp;также в&nbsp;строке 0135 этого приложения.</li></ul></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как отражать курсовые разницы в&#160;финансовой отчетности</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218871/bssPhr65/"></a><a data-anchor="/document/16/218871/dfasov7bix/" data-dfa="dfasov7bix"></a>Курсовую разницу, которая образовалась в&nbsp;результате переоценки валютных статей баланса, хозяйствующие субъекты списывают на&nbsp;финансовые результаты<br>(<span num="63" target="_blank" lnktype="intlnk" title="" class="doc">п.&nbsp;14&nbsp;и&nbsp;п.&nbsp;15&nbsp;НСБУ №&nbsp;22</span>).</p><p><a data-anchor="/document/16/218871/bssPhr66/"></a><a data-anchor="/document/16/218871/dfasgcyl5d/" data-dfa="dfasgcyl5d"></a>Результаты финансовой деятельности отражают в&nbsp;отчете о&nbsp;финансовых результатах Форме&nbsp;2 (п. <span num="53" target="_self" lnktype="intlnk" title="" class="doc">85</span>&nbsp;НСБУ №&nbsp;1).</p><p><a data-anchor="/document/16/218871/bssPhr67/"></a><a data-anchor="/document/16/218871/dfasggbeln/" data-dfa="dfasggbeln"></a>Финансовый результат, сформированный на <strong>счете 9540 «Доходы от&nbsp;валютных курсовых разниц»</strong>, отражайте в&nbsp;Отчете о&nbsp;финансовых результатах по <strong>строке 150</strong>. Финансовый результат, сформированный на <strong>счете 9620 «Убытки от&nbsp;валютных курсовых разниц»</strong>, отражайте в&nbsp;Отчете о&nbsp;финансовых результатах по <strong>строке 200</strong>.</p></div></div></div><a data-anchor="/document/16/218871/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218871/bssPhr68/"></a><a data-anchor="/document/16/218871/dfasb7fd9e/" data-dfa="dfasb7fd9e"></a>Примечания к&nbsp;финансовой отчетности</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr70/"></a><a data-anchor="/document/16/218871/dfas33mexn/" data-dfa="dfas33mexn"></a>В&nbsp;примечаниях к&nbsp;финансовой отчетности компании в&nbsp;отношении курсовых разниц необходимо указать:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/218871/bssPhr71/"></a><a data-anchor="/document/16/218871/dfasq6qmf7/" data-dfa="dfasq6qmf7"></a>сумму курсовой разницы, которая включена в&nbsp;чистую прибыль или убыток компании за&nbsp;отчетный период;</li><li style="text-align:left">курсовые разницы, которые были признаны в&nbsp;составе собственного капитала;</li><li style="text-align:left">согласование сумм курсовых разниц, признанных в&nbsp;составе собственного капитала по&nbsp;состоянию на&nbsp;начало и&nbsp;конец отчетного периода;</li><li style="text-align:left">сумму курсовых разниц, которые возникли в&nbsp;течение отчетного периода и&nbsp;были капитализированы в&nbsp;составе стоимости активов.</li></ul><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr72/"></a><a data-anchor="/document/16/218871/dfashcu7in/" data-dfa="dfashcu7in"></a>Если валюта представления финансовой отчетности отлична от&nbsp;функциональной валюты, в&nbsp;примечаниях необходимо раскрыть причины:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/218871/bssPhr73/"></a><a data-anchor="/document/16/218871/dfas3p3sb7/" data-dfa="dfas3p3sb7"></a>использования другой валюты;</li><li style="text-align:left">изменения валюты финансовой отчетности.</li></ul><p style="text-align:left"><a data-anchor="/document/16/218871/bssPhr74/"></a><a data-anchor="/document/16/218871/dfasn5s8ml/" data-dfa="dfasn5s8ml"></a>В&nbsp;случае изменения классификации зарубежной деятельности в&nbsp;примечаниях к&nbsp;финансовой отчетности необходимо раскрыть:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/218871/bssPhr75/"></a><a data-anchor="/document/16/218871/dfas8u120p/" data-dfa="dfas8u120p"></a>характер изменения классификации;</li></ul></div><p><a data-anchor="/document/16/218871/dfas2u7d9n/" data-dfa="dfas2u7d9n"></a><a data-anchor="/document/16/218871/bssPhr76/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

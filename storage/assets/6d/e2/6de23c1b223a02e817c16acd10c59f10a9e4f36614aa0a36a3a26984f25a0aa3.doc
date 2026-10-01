@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кто считается представителем налогоплательщика — юридического лица</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/205363/dfasiduy5u/" data-dfa="dfasiduy5u"></a><a data-anchor="/document/16/205363/bssPhr2/"></a>. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/205363/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205363/bssPhr3/"></a><a data-anchor="/document/16/205363/dfas9ggzle/" data-dfa="dfas9ggzle"></a>Уполномоченный представитель юридического лица</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205363/bssPhr5/"></a><a data-anchor="/document/16/205363/dfasuq77zd/" data-dfa="dfasuq77zd"></a>Интересы налогоплательщика в&nbsp;налоговых отношениях может представлять его законный или уполномоченный представитель (<span num="1" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;24&nbsp;НК). Уполномоченным представителем налогоплательщика может быть физическое или юридическое лицо, которое будет представлять интересы плательщика налогов в&nbsp;сделках с&nbsp;налоговыми органами, а&nbsp;также с&nbsp;другими участниками отношений по&nbsp;налогам и&nbsp;сборам (<span num="3" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;6</span>&nbsp;ст.&nbsp;24&nbsp;НК).</p><p><a data-anchor="/document/16/205363/bssPhr6/"></a><a data-anchor="/document/16/205363/dfaserhxh3/" data-dfa="dfaserhxh3"></a>Уполномоченным представителем всех участников консолидированной группы налогоплательщиков является ее&nbsp;ответственный участник (<span num="5" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;10</span>&nbsp;ст.&nbsp;24&nbsp;НК).</p><p><a data-anchor="/document/16/205363/bssPhr7/"></a><a data-anchor="/document/16/205363/dfasvgxa4r/" data-dfa="dfasvgxa4r"></a>Представитель налогоплательщика осуществляет свои полномочия на&nbsp;основании заключенного договора или доверенности (<span num="7" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;7</span>&nbsp;ст.&nbsp;24&nbsp;НК). Законными представителями налогоплательщика являются лица, представляющие это юрлицо на&nbsp;основании закона или учредительных документов (<span num="9" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;24&nbsp;НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205363/dfasof5ild/" data-dfa="dfasof5ild"></a><a data-anchor="/document/16/205363/bssPhr8/"></a>От&nbsp;лица организации как законный представитель может выступать директор организации, назначенный протоколом общего собрания учредителей. Он&nbsp;вправе подавать налоговую отчетность, давать пояснения налоговым органам, забирать документы.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205363/bssPhr9/"></a><a data-anchor="/document/16/205363/dfasfhv9fi/" data-dfa="dfasfhv9fi"></a>Также представителем налогоплательщика является главный бухгалтер или иное уполномоченное лицо, назначенное приказом руководителя организации. В <span num="11" target="_self" lnktype="intlnk" title="" class="doc">трудовом договоре</span> и&nbsp;должностных обязанностях этого лица прописаны взаимодействия с&nbsp;налоговыми органами: составление и&nbsp;сдача налоговых расчетов и&nbsp;финансовой отчетности, контроль над своевременностью оплаты налогов и&nbsp;обязательных платежей.</p><p><a data-anchor="/document/16/205363/bssPhr10/"></a><a data-anchor="/document/16/205363/dfas4fh10b/" data-dfa="dfas4fh10b"></a>Представители налогоплательщика ответственны:</p><p><a data-anchor="/document/16/205363/bssPhr11/"></a><a data-anchor="/document/16/205363/dfasze7w39/" data-dfa="dfasze7w39"></a>—&nbsp;за&nbsp;соблюдение сроков подачи налоговой отчетности;<br>—&nbsp;правильность заполнения декларации по&nbsp;налогам;<br>—&nbsp;правильность исчисления конечных сумм налогов.</p><p><a data-anchor="/document/16/205363/bssPhr12/"></a><a data-anchor="/document/16/205363/dfasay7lfu/" data-dfa="dfasay7lfu"></a>Действия законных представителей юрлица в&nbsp;налоговых отношениях, являются действиями самого юрлица (<span num="13" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>&nbsp;ст.&nbsp;24&nbsp;НК).</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205363/dfas0u8hhh/" data-dfa="dfas0u8hhh"></a><a data-anchor="/document/16/205363/bssPhr13/"></a>Должностные лица налоговых, финансовых, таможенных и&nbsp;других государственных органов не&nbsp;могут быть уполномоченными представителями налогоплательщика (ч.&nbsp;9&nbsp;ст.&nbsp;24&nbsp;НК)</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205363/dfasigc2rm/" data-dfa="dfasigc2rm"></a></p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/205363/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205363/bssPhr14/"></a><a data-anchor="/document/16/205363/dfasg4r8hh/" data-dfa="dfasg4r8hh"></a>Доверенность на&nbsp;уполномоченного представителя налогоплательщика</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205363/bssPhr16/"></a><a data-anchor="/document/16/205363/dfasnsygs8/" data-dfa="dfasnsygs8"></a>Уполномоченный представитель налогоплательщика действует на&nbsp;основании <span num="18" lnktype="intlnk" title="" class="doc">доверенности</span>. Доверенность&nbsp;— письменное уполномочие, которое доверитель выдает поверенному для представительства перед третьей стороной (<span num="20" lnktype="intlnk" title="Доверенностью признается письменное уполномочие, выдаваемое одним лицом (доверителем) другому лицу (поверенному) для представительства перед третьими лицами. Поверенный действует..." class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;134&nbsp;ГК).</p><p><a data-anchor="/document/16/205363/bssPhr17/"></a><a data-anchor="/document/16/205363/dfasee4hfr/" data-dfa="dfasee4hfr"></a>Срок действия&nbsp;— не&nbsp;более трех лет. Если доверенность не&nbsp;содержит сведений о&nbsp;сроках, то&nbsp;она действует ровно год. Доверенность недействительна, если не&nbsp;указана дата ее&nbsp;открытия (<span num="22" lnktype="intlnk" title="Доверенность может быть выдана на срок не более трех лет. Если срок в доверенности не указан, она сохраняет силу в течение одного года со дня ее выдачи." class="doc">ч.&nbsp;1</span>&nbsp;и<span data-warm-notices="12626858" data-warm-notice-type="error" num="24" lnktype="intlnk" title="Доверенность, в которой не указана дата ее выдачи, недействительна." class="doc"> 2</span>&nbsp;ст.&nbsp;139&nbsp;ГК).</p><p><a data-anchor="/document/16/205363/bssPhr18/"></a><a data-anchor="/document/16/205363/dfas1gkgsm/" data-dfa="dfas1gkgsm"></a>Доверенность от&nbsp;имени юрлица выдавайте за&nbsp;подписью руководителя с&nbsp;приложением печати этого юрлица, при наличии печати (<span num="26" lnktype="intlnk" title="Доверенность от имени юридического лица выдается за подписью руководителя с приложением печати этого юридического лица (при наличии печати)." class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;138&nbsp;ГК).</p><p><a data-anchor="/document/16/205363/bssPhr19/"></a><a data-anchor="/document/16/205363/dfas04oq86/" data-dfa="dfas04oq86"></a>Доверенность прекращает действие в&nbsp;случаях:</p><p><a data-anchor="/document/16/205363/bssPhr20/"></a><a data-anchor="/document/16/205363/dfasuiagtp/" data-dfa="dfasuiagtp"></a>—&nbsp;истечения срока действия;<br>—&nbsp;отмены доверителем;<br>—&nbsp;отказа уполномоченного, которому выдана доверенность;<br>—&nbsp;прекращения деятельности юрлица-доверителя или юрлица-представителя;<br>—&nbsp;признания человека, выдавшего доверенность или уполномоченного, недееспособным, безвестно отсутствующим либо в&nbsp;случае его смерти.</p><p><a data-anchor="/document/16/205363/bssPhr21/"></a><a data-anchor="/document/16/205363/dfasuft0di/" data-dfa="dfasuft0di"></a>Доверитель вправе в&nbsp;любое время отменить доверенность, а&nbsp;представитель отказаться от&nbsp;нее (<span num="28" lnktype="intlnk" title="Действие доверенности прекращается вследствие:" class="doc">ч.&nbsp;1</span>&nbsp;и<span data-warm-notices="12626889" data-warm-notice-type="error" num="30" lnktype="intlnk" title="Лицо, выдавшее доверенность, может во всякое время отменить доверенность, а лицо, которому доверенность выдана — отказаться от нее. Соглашение об отказе от этого права недействительно." class="doc"> 2</span>&nbsp;ст.&nbsp;141&nbsp;ГК).</p></div><a data-anchor="/document/16/205363/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205363/bssPhr22/"></a><a data-anchor="/document/16/205363/dfas5kmgvx/" data-dfa="dfas5kmgvx"></a>Доверенность для представления интересов в&nbsp;налоговых органах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205363/bssPhr24/"></a><a data-anchor="/document/16/205363/dfaske0ssg/" data-dfa="dfaske0ssg"></a>Доверенность от&nbsp;юрлица на&nbsp;представление интересов в&nbsp;налоговых органах необходима при посещении налоговой службы каким-либо сотрудником организации, предпринимателя, кроме руководителя или бухгалтера, например, сотрудником бухгалтерии или курьером:</p><p><a data-anchor="/document/16/205363/bssPhr25/"></a><a data-anchor="/document/16/205363/dfas2iqzsr/" data-dfa="dfas2iqzsr"></a>—&nbsp;для сдачи отчетности, заявлений и&nbsp;писем;<br>—&nbsp;получения документов от&nbsp;инспекторов;<br>—&nbsp;получения выписки из&nbsp;налоговой.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязательно&#160;ли заверять нотариальную доверенность</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205363/bssPhr27/"></a><a data-anchor="/document/16/205363/dfas02uhwk/" data-dfa="dfas02uhwk"></a>Доверенность от&nbsp;юрлица нотариально заверять не&nbsp;нужно. Достаточно, чтобы на&nbsp;ней стояла подпись руководителя и&nbsp;печать организации, при ее&nbsp;наличии.</p><p><a data-anchor="/document/16/205363/bssPhr28/"></a><a data-anchor="/document/16/205363/dfastml2g4/" data-dfa="dfastml2g4"></a>А&nbsp;вот доверенность от&nbsp;предпринимателя должна быть заверена нотариально.</p><p><a data-anchor="/document/16/205363/bssPhr29/"></a><a data-anchor="/document/16/205363/dfase6astq/" data-dfa="dfase6astq"></a>Налогоплательщик вправе представлять свои интересы по&nbsp;вопросам налоговых отношений лично либо через своего представителя (<span num="33" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;21&nbsp;НК).</p></div></div></div><a data-anchor="/document/16/205363/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205363/bssPhr30/"></a><a data-anchor="/document/16/205363/dfas7k47gz/" data-dfa="dfas7k47gz"></a>Право подписи</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205363/bssPhr34/"></a><a data-anchor="/document/16/205363/dfasoxu9pl/" data-dfa="dfasoxu9pl"></a>Руководитель или лица им&nbsp;уполномоченные подписывают:</p><p><a data-anchor="/document/16/205363/bssPhr35/"></a><a data-anchor="/document/16/205363/dfas9d8ug2/" data-dfa="dfas9d8ug2"></a>—&nbsp;документы, служащие основанием для приема и&nbsp;выдачи денег, ТМЦ;<br>—&nbsp;кредитные и&nbsp;расчетные обязательства предприятия, учреждения и&nbsp;организации;<br>—&nbsp;бухгалтерские отчеты и&nbsp;балансы.</p><p><a data-anchor="/document/16/205363/bssPhr36/"></a><a data-anchor="/document/16/205363/dfasr25en9/" data-dfa="dfasr25en9"></a>Руководитель предприятия утверждает два перечня сотрудников, которым дает право подписи.</p><p><a data-anchor="/document/16/205363/bssPhr37/"></a><a data-anchor="/document/16/205363/dfasrrsguy/" data-dfa="dfasrrsguy"></a>В&nbsp;первый перечень входят руководящие работники, во&nbsp;второй&nbsp;— сотрудники бухгалтерии и&nbsp;финансового управления. Без их&nbsp;подписи доверенности недействительны (<span num="37" lnktype="intlnk" title="" class="doc">ст.&nbsp;8</span>&nbsp;Закона о&nbsp;бухучете).</p><p><a data-anchor="/document/16/205363/bssPhr38/"></a><a data-anchor="/document/16/205363/dfaswk4ws6/" data-dfa="dfaswk4ws6"></a>Право первой подписи руководитель предприятия может передать на&nbsp;основании доверенности.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205363/dfashb62c0/" data-dfa="dfashb62c0"></a><a data-anchor="/document/16/205363/bssPhr39/"></a>Право первой подписи не&nbsp;может быть передано главному бухгалтеру или другому работнику, которому принадлежит право второй подписи на&nbsp;финансовых и&nbsp;иных документах.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205363/dfask46pvi/" data-dfa="dfask46pvi"></a></p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/205363/bssPhr40/"></a><a data-anchor="/document/16/205363/dfasfm92za/" data-dfa="dfasfm92za"></a>Полномочия на&nbsp;совершение сделки&nbsp;и, соответственно, подписание договора на&nbsp;основании устава можно предоставлять только единоличному исполнительному органу в&nbsp;ООО&nbsp;— директору, генеральному директору, председателю (<span num="39" lnktype="intlnk" title="В качестве единоличного исполнительного органа общества может выступать только физическое лицо." class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;39&nbsp;Закона об&nbsp;ООО), собственнику частного предприятия (<span num="41" lnktype="intlnk" title="Статья 14. Единоличное управление частным предприятием" class="doc">ст.&nbsp;14</span>&nbsp;Закона о&nbsp;ЧП).</p><p><a data-anchor="/document/16/205363/bssPhr41/"></a><a data-anchor="/document/16/205363/dfasq3idds/" data-dfa="dfasq3idds"></a>Но&nbsp;на&nbsp;практике бывают случаи, когда устав организации содержит градацию сделок, и&nbsp;каждый вид сделки вправе совершать то&nbsp;или иное лицо. Например, заключать определенные виды договоров устав относит к&nbsp;компетенции первого лица организации&nbsp;— руководителя: директора, генерального директора. Устав предусматривает виды договоров, которые подписывает заместитель руководителя, а&nbsp;также договоры, которые может подписать руководитель отдела и&nbsp;структурного подразделения. Заключать гражданско-правовые сделки на&nbsp;основании устава вправе только руководитель.</p></div><p><a data-anchor="/document/16/205363/dfas7ifrxy/" data-dfa="dfas7ifrxy"></a><a data-anchor="/document/16/205363/bssPhr42/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/205363/dfaspsiimt/" data-dfa="dfaspsiimt"></a><a data-anchor="/document/16/205363/bssPhr43/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

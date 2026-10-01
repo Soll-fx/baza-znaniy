@@ -1,0 +1,40 @@
+# Render Blueprint — База знаний по бухгалтерии.
+#
+# Схема та же, что у рабочего проекта District: бесплатный веб-сервис
+# с Docker, без БД в репозитории. Отличие в том, что статика (собранный
+# фронт) раздаётся тем же процессом, что и API, поэтому отдельный
+# Vercel-сервис не нужен.
+#
+# Перед деплоем:
+#   1. Создать PostgreSQL (Render даёт бесплатный на 30 дней) или взять
+#      внешний (Neon / Supabase) и положить его URL в DATABASE_URL.
+#   2. Создать репозиторий: Render и Vercel деплоят только из git.
+#   3. Залить базу: локально выполнить экспорт в SQL и загрузить его
+#      в базу Render, либо прогнать импорт один раз вручную.
+#   4. Фронт отдаётся тем же сервером (web/dist), поэтому CORS_ORIGIN
+#      не нужен: запросы идут на тот же домен. Переменная понадобится,
+#      только если фронт вынести на отдельный хостинг.
+
+services:
+  - type: web
+    name: baza-znaniy
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: "4000"
+      - key: STORAGE_DIR
+        value: storage
+      - key: CONTENT_DIR
+        value: content
+      - key: FTS_LANGUAGE
+        value: russian
+      # sync: false — значение задаётся вручную в панели Render,
+      # в репозитории секретов быть не должно
+      - key: DATABASE_URL
+        sync: false

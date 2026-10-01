@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Правила экспертной поддержки</h2><div class="doc-snippet"><a data-anchor="/document/16/211881/dfas71vxtg/" data-dfa="dfas71vxtg"></a><a data-anchor="/document/16/211881/bssPhr2/"></a>Сервис «Экспертная поддержка» доступен всем клиентам, имеющим оплаченный доступ к электронной системе «Главбух». </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211881/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211881/bssPhr3/"></a><a data-anchor="/document/16/211881/dfasycbrg1/" data-dfa="dfasycbrg1"></a>Общие правила</h2><p><a data-anchor="/document/16/211881/bssPhr4/"></a><a data-anchor="/document/16/211881/dfaskc51im/" data-dfa="dfaskc51im"></a>Сервис «Экспертная поддержка» доступен всем клиентам, имеющим оплаченный доступ к электронной системе «Главбух».</p><p><a data-anchor="/document/16/211881/bssPhr5/"></a><a data-anchor="/document/16/211881/dfasgxwtx6/" data-dfa="dfasgxwtx6"></a>Письменные ответы экспертов предоставляются в течение 3 рабочих дней.</p><p><a data-anchor="/document/16/211881/bssPhr6/"></a><a data-anchor="/document/16/211881/dfasq1ggv5/" data-dfa="dfasq1ggv5"></a>Вопросы для экспертов принимаются круглосуточно через специальную форму на сайте электронной системы «Главбух». Количество вопросов неограниченно.</p><p><a data-anchor="/document/16/211881/dfasankk5k/" data-dfa="dfasankk5k"></a><a data-anchor="/document/16/211881/bssPhr7/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16367642" sourceId="1" width="610" height="314.30176565008026" src="https://1gb.uz/system/content/image/297/1/-16367642/"></p><a data-anchor="/document/16/211881/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211881/bssPhr8/"></a><a data-anchor="/document/16/211881/dfasu012ol/" data-dfa="dfasu012ol"></a>Структура вопроса при обращении в экспертную поддержку</h2><p><a data-anchor="/document/16/211881/bssPhr9/"></a><a data-anchor="/document/16/211881/dfas72m2kt/" data-dfa="dfas72m2kt"></a>При составлении ответа, нашим экспертам может понадобиться информация о Вашей компания, для ускорения и более точного ответа на Ваш вопрос, вопрос должен быть составлен по данной структуре:</p><ol class="c-list"><li><a data-anchor="/document/16/211881/bssPhr10/"></a><a data-anchor="/document/16/211881/dfas6zq326/" data-dfa="dfas6zq326"></a>Форма собственности (частная, государственная, физическое лицо);</li><li><a data-anchor="/document/16/211881/bssPhr11/"></a><a data-anchor="/document/16/211881/dfas33fopw/" data-dfa="dfas33fopw"></a>Организационно-правовая форма (ООО, АО, ЧП,&nbsp;ИП (иностранное предприятие), ПУ и т.д.);</li><li><a data-anchor="/document/16/211881/bssPhr12/"></a><a data-anchor="/document/16/211881/dfasvta6p5/" data-dfa="dfasvta6p5"></a>Вид деятельности;</li><li><a data-anchor="/document/16/211881/bssPhr13/"></a><a data-anchor="/document/16/211881/dfasvi9ttc/" data-dfa="dfasvi9ttc"></a>Система налогообложения (общеустановленная, упрощенная);</li><li><a data-anchor="/document/16/211881/bssPhr14/"></a><a data-anchor="/document/16/211881/dfasvepud0/" data-dfa="dfasvepud0"></a>Плательщик/Неплательщик&nbsp;НДС;</li><li><a data-anchor="/document/16/211881/bssPhr15/"></a><a data-anchor="/document/16/211881/dfasluky2w/" data-dfa="dfasluky2w"></a>Имеются ли льготы, предусмотренные НК или другими нормативно-правовыми актами;</li><li><a data-anchor="/document/16/211881/bssPhr16/"></a><a data-anchor="/document/16/211881/dfas6bd2kf/" data-dfa="dfas6bd2kf"></a>Сам вопрос.</li></ol><a data-anchor="/document/16/211881/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211881/bssPhr17/"></a><a data-anchor="/document/16/211881/dfas82m5m8/" data-dfa="dfas82m5m8"></a>Пример структурированного вопроса:</h3><ol class="c-list"><li><a data-anchor="/document/16/211881/bssPhr18/"></a><a data-anchor="/document/16/211881/dfassu533h/" data-dfa="dfassu533h"></a>Частная</li><li><a data-anchor="/document/16/211881/bssPhr19/"></a><a data-anchor="/document/16/211881/dfasmt7kc2/" data-dfa="dfasmt7kc2"></a>ООО</li><li><a data-anchor="/document/16/211881/bssPhr20/"></a><a data-anchor="/document/16/211881/dfasi65pgr/" data-dfa="dfasi65pgr"></a>Сельхоз</li><li><a data-anchor="/document/16/211881/bssPhr21/"></a><a data-anchor="/document/16/211881/dfasm011at/" data-dfa="dfasm011at"></a>Общеустановленная</li><li><a data-anchor="/document/16/211881/bssPhr22/"></a><a data-anchor="/document/16/211881/dfaspvsw94/" data-dfa="dfaspvsw94"></a>Плательщик НДС</li><li><a data-anchor="/document/16/211881/bssPhr23/"></a><a data-anchor="/document/16/211881/dfassc96gd/" data-dfa="dfassc96gd"></a>Льготы отсутствуют</li></ol><p><a data-anchor="/document/16/211881/bssPhr24/"></a><a data-anchor="/document/16/211881/dfas12gnc6/" data-dfa="dfas12gnc6"></a>Имеет ли право предприятие принять в зачет НДС со стоимости автомобилей, купленных для того, чтобы развозить продукцию своего производства по торговым точкам? Какие нужно подготовить документы?</p><a data-anchor="/document/16/211881/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211881/bssPhr25/"></a><a data-anchor="/document/16/211881/dfasmymbqu/" data-dfa="dfasmymbqu"></a>Какие материалы будут в письменном ответе эксперта</h2><p><a data-anchor="/document/16/211881/bssPhr26/"></a><a data-anchor="/document/16/211881/dfastsf8k7/" data-dfa="dfastsf8k7"></a>Эксперт по вашему вопросу:</p><p><a data-anchor="/document/16/211881/bssPhr27/"></a><a data-anchor="/document/16/211881/dfasbmgi9n/" data-dfa="dfasbmgi9n"></a>– подготавливает краткий ответ;<br>– подбирает экспертные материалы, содержащиеся в Системе Главбух (рекомендации, ситуации, шаблоны, примеры);<br>– предоставляет ссылки на нормативно-правовые документы, которые регулируют возникшую проблему.</p><p><a data-anchor="/document/16/211881/bssPhr28/"></a><a data-anchor="/document/16/211881/dfases71gn/" data-dfa="dfases71gn"></a>Предоставляются только те материалы, которые актуальны на интересующую вас дату.</p><p><a data-anchor="/document/16/211881/bssPhr29/"></a><a data-anchor="/document/16/211881/dfassh0qqg/" data-dfa="dfassh0qqg"></a>Наши эксперты подготовят ответы на вопросы по применению узбекского законодательства, относящегося к сфере деятельности бухгалтеров, специалистов по налоговым, кадровым вопросам.</p><p><a data-anchor="/document/16/211881/bssPhr30/"></a><a data-anchor="/document/16/211881/dfaszh8g5y/" data-dfa="dfaszh8g5y"></a>При этом обращаем Ваше внимание, что не предусмотрены ответы на вопросы, которые подразумевают:<br>– анализ и разработку положений внутренней документации (договоров, отчетности, локальных нормативных актов, распорядительных актов и т. п.);<br>– оценку правомерности действий органов государственной власти, в том числе при проведении проверок и контроле.</p><a data-anchor="/document/16/211881/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211881/bssPhr31/"></a><a data-anchor="/document/16/211881/dfasy6g5rg/" data-dfa="dfasy6g5rg"></a>Каков формат письменного ответа экспертов</h2><p><a data-anchor="/document/16/211881/bssPhr32/"></a><a data-anchor="/document/16/211881/dfasil7el6/" data-dfa="dfasil7el6"></a>Ответ состоит из:</p><p><a data-anchor="/document/16/211881/bssPhr33/"></a><a data-anchor="/document/16/211881/dfasrcof5y/" data-dfa="dfasrcof5y"></a>– короткого ответа. Он виден сразу под вопросом и содержит краткую выдержку с конкретным выводом – что делать в вашей ситуации;<br>– полного ответа с обоснованием. В файле, прикрепленном под коротким ответом, содержатся все подтверждающие материалы и ссылки на законодательство.</p><p><a data-anchor="/document/16/211881/dfasrt1e0k/" data-dfa="dfasrt1e0k"></a></p><p><a data-anchor="/document/16/211881/bssPhr34/"></a><a data-anchor="/document/16/211881/dfasgr949b/" data-dfa="dfasgr949b"></a>Новость</p><p><a data-anchor="/document/16/211881/bssPhr35/"></a><a data-anchor="/document/16/211881/dfasxqoqq9/" data-dfa="dfasxqoqq9"></a>&nbsp;</p><a data-anchor="/document/16/211881/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/211881/bssPhr36/"></a><a data-anchor="/document/16/211881/dfas42owbp/" data-dfa="dfas42owbp"></a>Сроки подготовки письменного ответа от эксперта</h2><p><a data-anchor="/document/16/211881/bssPhr37/"></a><a data-anchor="/document/16/211881/dfas64pp7c/" data-dfa="dfas64pp7c"></a>Эксперт подготовит письменный ответ в течение 3 рабочих дней с того момента, как вопрос поступил на сервер «Экспертная поддержка».</p><p><a data-anchor="/document/16/211881/bssPhr38/"></a><a data-anchor="/document/16/211881/dfasg3qpwa/" data-dfa="dfasg3qpwa"></a>Если вопрос поступил в выходной или праздничный день, а также в нерабочее время (до&nbsp;9 и после 18 часов по времени г. Ташкента), отсчет начинается с начала ближайшего рабочего дня.</p><p><a data-anchor="/document/16/211881/bssPhr39/"></a><a data-anchor="/document/16/211881/dfasilx6s0/" data-dfa="dfasilx6s0"></a>Если для подготовки качественного ответа требуются уточнения или дополнения, экспертная поддержка свяжется с вами. В этом случае подготовка ответа отсчитывается с того момента, когда получены уточнения.</p><p><a data-anchor="/document/16/211881/bssPhr40/"></a><a data-anchor="/document/16/211881/dfasq8rirt/" data-dfa="dfasq8rirt"></a>Чтобы обратить к экспертам, нажмите на кнопку «Написать эксперту» в правом нижнем углу экрана:</p><p><a data-anchor="/document/16/211881/dfasy2g38e/" data-dfa="dfasy2g38e"></a><a data-anchor="/document/16/211881/bssPhr41/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16367643" sourceId="1" width="610" height="323.1139646869984" src="https://1gb.uz/system/content/image/297/1/-16367643/"></p><p><a data-anchor="/document/16/211881/bssPhr42/"></a><a data-anchor="/document/16/211881/dfas3689em/" data-dfa="dfas3689em"></a>После этого нажмите на кнопку «Задать вопрос», опишите проблему или ситуацию. Вопрос должен содержать полную информацию для получения точного ответа.</p><p><a data-anchor="/document/16/211881/dfas4ggbuu/" data-dfa="dfas4ggbuu"></a><a data-anchor="/document/16/211881/bssPhr43/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16367644" sourceId="1" width="610" height="322.13483146067415" src="https://1gb.uz/system/content/image/297/1/-16367644/"></p><p><a data-anchor="/document/16/211881/bssPhr44/"></a><a data-anchor="/document/16/211881/dfas7qxm3q/" data-dfa="dfas7qxm3q"></a>Затем нажмите на кнопку «Отправить». Ответ поступит в течение 3 рабочих дней.</p><p><a data-anchor="/document/16/211881/dfasu6u2p9/" data-dfa="dfasu6u2p9"></a><a data-anchor="/document/16/211881/bssPhr45/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16367645" sourceId="1" width="610" height="321.6185897435897" src="https://1gb.uz/system/content/image/297/1/-16367645/"></p><p><a data-anchor="/document/16/211881/bssPhr46/"></a><a data-anchor="/document/16/211881/dfaswic0lz/" data-dfa="dfaswic0lz"></a>Если ответ эксперта поступил, на кнопке «Написать эксперту» появится цифра. Цифра означает количество поступивших непрочитанных сообщений.</p><p><a data-anchor="/document/16/211881/dfask4efv6/" data-dfa="dfask4efv6"></a><a data-anchor="/document/16/211881/bssPhr47/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16367646" sourceId="1" width="610" height="321.6185897435897" src="https://1gb.uz/system/content/image/297/1/-16367646/"></p><p><a data-anchor="/document/16/211881/bssPhr48/"></a><a data-anchor="/document/16/211881/dfasv9en4b/" data-dfa="dfasv9en4b"></a>Ознакомьтесь с ответом и оцените его по 5-балльной шкале.</p><p><a data-anchor="/document/16/211881/dfas59hlgk/" data-dfa="dfas59hlgk"></a><a data-anchor="/document/16/211881/bssPhr49/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16367647" sourceId="1" width="610" height="320.1765650080257" src="https://1gb.uz/system/content/image/297/1/-16367647/"></p><p><a data-anchor="/document/16/211881/bssPhr50/"></a><a data-anchor="/document/16/211881/dfas4dgnu3/" data-dfa="dfas4dgnu3"></a>Эксперты&nbsp;имеют право отказать в&nbsp;рассмотрении вопросов:</p><p><a data-anchor="/document/16/211881/bssPhr51/"></a><a data-anchor="/document/16/211881/dfasa1adsz/" data-dfa="dfasa1adsz"></a>– до окончания текущего доступа&nbsp;– если будет выявлен факт обращения с целью консультирования третьих лиц;<br>– в отношении отдельных вопросов&nbsp;– если эти вопросы не относятся к сфере деятельности бухгалтеров, специалистов по налоговым, кадровым вопросам и касаются других сфер деятельности, в частности юридических, экономических и иных аспектов и т. п.</p><p><a data-anchor="/document/16/211881/bssPhr52/"></a><a data-anchor="/document/16/211881/dfasu3qpgb/" data-dfa="dfasu3qpgb"></a>В рамках сервиса «Экспертная поддержка» также мы отказываем пользователям в просьбах:</p><p><a data-anchor="/document/16/211881/bssPhr53/"></a><a data-anchor="/document/16/211881/dfaslgntot/" data-dfa="dfaslgntot"></a>– оценить всесторонне хозяйственную деятельность;<br>– составить пояснительные записки, образцы документов или отчеты за пользователей;<br>– составить возражения по актам проверок или решениям судов;<br>– сформулировать условия договоров или локальных документов;<br>– провести аудит документов;<br>– прокомментировать статьи сторонних авторов из журналов;<br>– рассмотреть ситуации, требующие для ответа детального изучения внутренних документов компании (договоров, отчетности, приказов, других локальных нормативных актов и т. п.);<br>– провести расчет на основе данных пользователя или проверить такие расчеты;<br>– оценить правомерность действий органов государственной власти;<br>– рассмотреть вопросы по эксплуатации программных продуктов от сторонних разработчиков.</p><p><a data-anchor="/document/16/211881/bssPhr54/"></a><a data-anchor="/document/16/211881/dfasl2vv4c/" data-dfa="dfasl2vv4c"></a>Ответ эксперта не является консультацией, носит информационный характер и актуален на дату его предоставления. Вы самостоятельно принимаете решение - использовать или не использовать, предоставленную в ответе информацию. Система Главбух Узбекистан и эксперт, подготовивший ответ, не несут ответственности за использование или не использование Вами данной информации, а также за последствия, которые повлекло использование или неиспользование Вами указанной информации. Пользователь самостоятельно принимает решение о применении или не применении рекомендаций и самостоятельно несет ответственность за последствия руководства данными рекомендациями.</p><a data-anchor="/document/16/211881/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/211881/bssPhr55/"></a><a data-anchor="/document/16/211881/dfasgll6nn/" data-dfa="dfasgll6nn"></a>Порядок рассмотрения претензий</h2><p><a data-anchor="/document/16/211881/bssPhr56/"></a><a data-anchor="/document/16/211881/dfasyl1cbh/" data-dfa="dfasyl1cbh"></a>Если вы поставили письменному ответу эксперта низкую оценку, мы обязательно разберемся и приложим все усилия, чтобы исправить положение. Вы получите новый ответ в течение рабочего дня с момента получения претензии или плохой оценки.</p><p><a data-anchor="/document/16/211881/bssPhr57/"></a><a data-anchor="/document/16/211881/dfaszx59m3/" data-dfa="dfaszx59m3"></a>&nbsp;</p><p><a data-anchor="/document/16/211881/bssPhr58/"></a><a data-anchor="/document/16/211881/dfasg0iqpi/" data-dfa="dfasg0iqpi"></a>Читайте также:<br><a data-anchor="/document/16/211881/backlinkanchor2/" type="backlink-anchor"></a><a href="#/document/16/211964" data-warm-notices="39685842" data-warm-notice-type="error" title="" moduleId="16" documentId="211964" class="link ">Знакомство с системой Главбух</a></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

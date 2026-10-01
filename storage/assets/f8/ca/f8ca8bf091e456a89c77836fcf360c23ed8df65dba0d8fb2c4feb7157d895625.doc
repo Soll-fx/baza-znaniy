@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Постановление ГНК РУз от 28.01.2020 № 2020-03</div><h2 class="auth__title">Солиқ ҳисоботининг шаклларини тасдиқлаш тўғрисида</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/21479/dfas503gm8/"></a><a data-anchor="/document/90/21479/dfaseasz08/"></a><strong>ЎЗБЕКИСТОН РЕСПУБЛИКАСИ ДАВЛАТ СОЛИҚ ҚЎМИТАСИНИНГ<br>ҚАРОРИ</strong></p><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/21479/dfasz5zu8e/"></a><strong>Солиқ ҳисоботининг шаклларини тасдиқлаш тўғрисида</strong></p><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/21479/dfasd0p22r/"></a><strong>[Ўзбекистон Республикаси Адлия вазирлиги томонидан 2020 йил 24 февралда рўйхатдан ўтказилди, рўйхат рақами 3221]</strong></p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/21479/dfasxrpuct/"></a>Ўзбекистон Республикасининг Солиқ кодекси, Ўзбекистон Республикасининг &#171;Давлат солиқ хизмати тўғрисида&#187;ги, &#171;Давлат божи тўғрисида&#187;ги ва &#171;Ер қаъри тўғрисида&#187;ги қонунларига мувофиқ Ўзбекистон Республикаси Давлат солиқ қўмитаси қарор қилади:</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/21479/dfasb6ta7c/"></a>1. Қуйидаги солиқ ва бошқа ҳисоботлар ҳисоботининг шакллари тасдиқлансин:</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/21479/dfas7nna53/"></a>қўшилган қиймат солиғи бўйича <a class="extLink" href="https://1gb.uz/sp://num=1" title="">1-иловага</a> мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/21479/dfast8gwlv/"></a>акциз солиғи бўйича <a class="extLink" href="https://1gb.uz/sp://num=2" title="">2-иловага</a> мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/21479/dfaspqartl/"></a>фойда солиғи бўйича <a class="extLink" href="https://1gb.uz/sp://num=3" title="">3-иловага</a> мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/21479/dfasgq51ny/"></a>жисмоний шахслардан олинадиган даромад солиғи, қатъий белгиланган миқдорлардаги солиқ суммалари ва ижтимоий солиқ бўйича <a class="extLink" href="https://1gb.uz/sp://num=4" title="">4-иловага</a> мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/21479/dfasuxfslv/"></a>ер қаъридан фойдаланганлик учун солиқ бўйича <a class="extLink" href="https://1gb.uz/sp://num=5" title="">5-иловага</a> мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/21479/dfaspmlsmz/"></a>сув ресурсларидан фойдаланганлик учун солиқ бўйича <a class="extLink" href="https://1gb.uz/sp://num=6" title="">6-иловага</a> мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/21479/dfasbr9yuv/"></a>юридик шахсларнинг мол-мулкига солинадиган солиқ бўйича <a class="extLink" href="https://1gb.uz/sp://num=7" title="">7-иловага</a> мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/21479/dfashhyygi/"></a>юридик шахслардан олинадиган ер солиғи бўйича <a class="extLink" href="https://1gb.uz/sp://num=8" title="">8-иловага</a> мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/21479/dfast4212t/"></a>айланмадан олинадиган солиқ бўйича <a class="extLink" href="https://1gb.uz/sp://num=9" title="">9-иловага</a> мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/21479/dfas9zg6gb/"></a>олинган мақсадли маблағлардан фойдаланганлик бўйича <a class="extLink" href="https://1gb.uz/sp://num=10" title="">10-иловага</a> мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/21479/dfaseiwrbv/"></a>давлат божи ва йиғимлар бўйича 11-иловага мувофиқ;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/21479/dfasenos6k/"></a>тижоратбоп топилма бонуси бўйича <a class="extLink" href="https://1gb.uz/sp://num=11" title="">12-иловага</a> мувофиқ.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/21479/dfas4ly4dq/"></a>молиявий ҳисоботнинг халқаро стандартларга ўтган юридик шахсларнинг солиқларини ҳисоблаб чиқиш учун зарур бўлган кўрсаткичлар бўйича 13-иловага мувофиқ.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/21479/dfasnxkaag/"></a>фойдали қазилмаларни қазиб олганлик учун махсус рента солиғи бўйича 14-иловага мувофиқ.</p><p><a kazakh="yes" data-anchor="/document/90/21479/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/21479/dfask0rlps/"></a>маҳсулот тақсимотига оид битим доирасида фаолият юритувчи корхоналар томонидан тақдим қилинадиган солиқ ҳисоботлари 15-иловага мувофиқ.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/21479/dfasym3e9w/"></a>2. Белгилаб қўйилсинки, ўтган солиқ даври учун солиқ ҳисоботи айнан ўша солиқ даврида амал қилган тартиб ва шакллар асосида тақдим этилади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/21479/dfas6uh1p1/"></a>3. Мазкур қарор Ўзбекистон Республикаси Молия вазирлиги билан келишилган.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/21479/dfasp3wq7q/"></a>4. Мазкур қарор расмий эълон қилинган кундан эътиборан кучга киради.</p><p style="text-align:right"><a kazakh="yes" data-anchor="/document/90/21479/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/21479/dfasv3x3gd/"></a><strong>Давлат солиқ қўмитаси раиси<br>Б. Мусаев</strong></p><p><a data-anchor="/document/90/21479/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/21479/dfasngbwgo/"></a>Тошкент ш.,<br>2020 йил 28 январь,<br>2020-03-сон</p><p style="text-align:center"><a data-anchor="/document/90/21479/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/21479/dfash1wfs6/"></a><strong>Келишилган</strong><strong>:</strong></p><p style="text-align:right"><a data-anchor="/document/90/21479/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/21479/dfasmgcsid/"></a><strong>Молия вазири<br>Д. Кучкаров</strong></p><p><a data-anchor="/document/90/21479/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/21479/dfaswbqphi/"></a>2020 йил 28 январь</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

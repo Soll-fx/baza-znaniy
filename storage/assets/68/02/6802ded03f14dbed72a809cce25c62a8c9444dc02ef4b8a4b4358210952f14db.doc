@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как исправлять ошибки предыдущих периодов в финансовой отчетности по МСФО</h2><div class="doc-snippet"><a data-anchor="/document/16/206757/dfasrw392l/" data-dfa="dfasrw392l"></a><a data-anchor="/document/16/206757/bssPhr2/"></a>В рекомендации найдете ответы на вопросы: какой МСФО регулирует порядок исправления ошибок предыдущих периодов в финансовой отчетности и какие существуют способы исправления ошибок. На примере с условными цифрами эксперты показали, как исправить ошибки в учете запасов и формировании себестоимости реализованной продукции. Узнаете, что раскрывать в примечаниях к финансовой отчетности по МСФО. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206757/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206757/bssPhr3/"></a><a data-anchor="/document/16/206757/dfasvaxpfs/" data-dfa="dfasvaxpfs"></a>Порядок исправления ошибок предыдущих периодов в финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr5/"></a><a data-anchor="/document/16/206757/dfasg4qvgm/" data-dfa="dfasg4qvgm"></a>Порядок исправления ошибок предыдущих периодов в финансовой отчетности компании регулирует МСФО (IAS) 8 «Учетная политика, изменения в бухгалтерских оценках и ошибки».</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr7/"></a><a data-anchor="/document/16/206757/dfas7fwrhs/" data-dfa="dfas7fwrhs"></a>Согласно МСФО для исправления ошибок и внесения корректировок в финансовую отчетность компании можно применять 2 способа:</p><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr8/"></a><a data-anchor="/document/16/206757/dfasele2h1/" data-dfa="dfasele2h1"></a>1. Ретроспективный</p><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr9/"></a><a data-anchor="/document/16/206757/dfasg8exhg/" data-dfa="dfasg8exhg"></a>В этом случае необходимо провести корректировку, признание, измерение и раскрытие оценок элементов финансовой отчетности таким образом, как если бы предыдущие периоды не содержали никакой ошибки. Этот способ применяют, когда компания изменяет учетную политику и необходимо пересчитать отчетность предшествующих периодов.</p><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr10/"></a><a data-anchor="/document/16/206757/dfas0w41gm/" data-dfa="dfas0w41gm"></a>2. Перспективный</p><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr11/"></a><a data-anchor="/document/16/206757/dfas1x28xp/" data-dfa="dfas1x28xp"></a>При таком способе нет необходимости в пересчете предыдущих финансовых отчетов и суммарный эффект от изменений в учетной политике не нужно пересчитывать в отчете о прибылях и убытках за текущий период. Этот способ применяют, когда изменения, вносимые компанией в свою учетную политику, касаются только текущего или будущих периодов и не влияют на финансовую отчетность прошлых периодов.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206757/bssPhr12/"></a><a data-anchor="/document/16/206757/dfaslw1eap/" data-dfa="dfaslw1eap"></a>Основным методом проведения корректировок считается ретроспективный. Если его применить невозможно, то применяют перспективный метод.</p><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/206757/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206757/bssPhr14/"></a><a data-anchor="/document/16/206757/dfas00qrg8/" data-dfa="dfas00qrg8"></a>Исправление ошибок предыдущих периодов в финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr16/"></a><a data-anchor="/document/16/206757/dfasggezl1/" data-dfa="dfasggezl1"></a>При формировании финансовой отчетности и ведении бухгалтерского учета могут возникать ошибки. Если указанные ошибки существенны, то в дальнейшем их необходимо скорректировать, чтобы пользователи могли получить достоверную финансовую отчетность.</p><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr17/"></a><a data-anchor="/document/16/206757/dfas06kq8a/" data-dfa="dfas06kq8a"></a>МСФО выделяет основные существенные ошибки в финансовой отчетности:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206757/bssPhr18/"></a><a data-anchor="/document/16/206757/dfas4cp5ln/" data-dfa="dfas4cp5ln"></a>результат математических просчетов;</li><li style="text-align:left">ошибки при применении учетной политики;</li><li style="text-align:left">результат искажения информации, обмана или невнимательности;</li><li style="text-align:left">другие ошибки, которые могут исказить представление о компании на основе составленной финансовой отчетности.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206757/bssPhr19/"></a><a data-anchor="/document/16/206757/dfasskmsrl/" data-dfa="dfasskmsrl"></a>Если применявшиеся раньше принципы учета искажали реальное финансовое положение компании, переход к новым принципам, которые способствуют более достоверному представлению информации в отчетности, считается не изменением учетной политики компании, а исправлением ошибки.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/206757/bssPhr21/"></a><a data-anchor="/document/16/206757/dfasymh9z1/" data-dfa="dfasymh9z1"></a>Компания должна различать понятия «исправление ошибок» и «внесение изменений бухгалтерских оценок»:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206757/bssPhr22/"></a><a data-anchor="/document/16/206757/dfasmppei5/" data-dfa="dfasmppei5"></a><strong>бухгалтерские оценки</strong> – это приблизительные значения, которые должны быть пересмотрены по мере поступления дополнительной информации;</li><li style="text-align:left"><strong>бухгалтерские ошибки</strong> возникают ввиду некорректного использования имеющейся информации, выявление ошибок не связано с поступлением новой информации.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr23/"></a><a data-anchor="/document/16/206757/dfasesama6/" data-dfa="dfasesama6"></a>В текущем периоде можно обнаружить ошибки, которые относятся к предыдущим отчетным периодам. В таком случае, компания должна исправить существенные ошибки предшествующего периода ретроспективно в первом комплекте финансовой отчетности, утвержденном к выпуску после их обнаружения:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206757/bssPhr24/"></a><a data-anchor="/document/16/206757/dfaswmcsd9/" data-dfa="dfaswmcsd9"></a>путем пересчета сравнительных сумм за тот предшествующий представленный период, в котором была допущена соответствующая ошибка,</li></ul><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr25/"></a><a data-anchor="/document/16/206757/dfasmugf87/" data-dfa="dfasmugf87"></a>или</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206757/bssPhr26/"></a><a data-anchor="/document/16/206757/dfasvkds52/" data-dfa="dfasvkds52"></a>когда ошибка имела место до самого раннего из представленных предшествующих периодов, путем пересчета входящих остатков активов, обязательств и собственного капитала за самый ранний из представленных предшествующих периодов.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr27/"></a><a data-anchor="/document/16/206757/dfaseuoi87/" data-dfa="dfaseuoi87"></a>Порядок действий:</p><ol class="c-list"><li><a data-anchor="/document/16/206757/bssPhr28/"></a><a data-anchor="/document/16/206757/dfaswf4eeu/" data-dfa="dfaswf4eeu"></a>Пересчет делайте в том периоде, в котором была допущена ошибка.</li><li><a data-anchor="/document/16/206757/bssPhr29/"></a><a data-anchor="/document/16/206757/dfas30g70b/" data-dfa="dfas30g70b"></a>Исправления вносите в чистую прибыль или убыток, или прочий совокупный доход каждого последующего периода.</li><li><a data-anchor="/document/16/206757/bssPhr30/"></a><a data-anchor="/document/16/206757/dfas014gke/" data-dfa="dfas014gke"></a>Если ошибка относится к периоду, не представленному в сравнительной информации финансовой отчетности, то помимо корректировки начального сальдо нераспределенной прибыли или иной статьи капитального резерва самого первого из представленных периодов проведите ретроспективный пересчет в предыдущих периодах.</li><li><a data-anchor="/document/16/206757/bssPhr31/"></a><a data-anchor="/document/16/206757/dfas7wepgf/" data-dfa="dfas7wepgf"></a>Корректировку нераспределенной прибыли приводите в сводной отчетности перед показателем величины нераспределенной прибыли.</li></ol><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206757/bssPhr32/"></a><a data-anchor="/document/16/206757/dfas5xovg3/" data-dfa="dfas5xovg3"></a>Эффект от воздействия ошибки на показатели финансового положения компании за все периоды, которые предшествуют самому раннему приведенному в отчетности, равен величине, на которую следует делать корректировку сальдо нераспределенной прибыли.</p><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/206757/bssPhr34/"></a><a data-anchor="/document/16/206757/dfasgvbtcy/" data-dfa="dfasgvbtcy"></a>Как исправить ошибки в учете запасов и формировании себестоимости реализованной продукции</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr35/"></a><a data-anchor="/document/16/206757/dfasb31dph/" data-dfa="dfasb31dph"></a>В 2019 году компания установила, что товары, которые продали в 2018 году, ошибочно включили не в себестоимость реализованной продукции, а в запасы по состоянию на 31.12.2018 г. на общую сумму 3 000 тыс сумов.</p><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr36/"></a><a data-anchor="/document/16/206757/dfasgycma6/" data-dfa="dfasgycma6"></a>В 2019 году доход от продаж составил 100 000 тыс сумов, себестоимость реализованной продукции – 73 000 тыс сумов, в том числе 3 000 тыс сумов, которые были ошибочно внесены в запас на начало периода. Налог на прибыль исчисляется по ставке 19 процентов.</p><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr37/"></a><a data-anchor="/document/16/206757/dfasxxgh6h/" data-dfa="dfasxxgh6h"></a>Нераспределенная прибыль на начало 2018 г. составляла 12 000 тыс сумов, а на конец 2018 г. – 20 100 тыс сумов.</p><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr38/"></a><a data-anchor="/document/16/206757/dfasgaz4r4/" data-dfa="dfasgaz4r4"></a>Отчет о совокупном доходе за 2018 г. будет выглядеть следующим образом:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 359px;"><p class="a0" style="text-align:center"><a data-anchor="/document/16/206757/bssPhr39/"></a><a data-anchor="/document/16/206757/dfas35lyrv/" data-dfa="dfas35lyrv"></a><strong>Статья отчета о совокупном доходе</strong></p></td><td class="bdTopbdBottombdRight" style="width: 265px;"><p class="a0"><a data-anchor="/document/16/206757/bssPhr40/"></a><a data-anchor="/document/16/206757/dfasopgazg/" data-dfa="dfasopgazg"></a><strong>Сумма (тыс сумов)</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 359px;"><p class="a0"><a data-anchor="/document/16/206757/bssPhr41/"></a><a data-anchor="/document/16/206757/dfasegndp9/" data-dfa="dfasegndp9"></a>Доходы от продаж</p></td><td class="bdBottombdRight" style="width: 265px;"><p class="a0" style="text-align:center"><a data-anchor="/document/16/206757/bssPhr42/"></a><a data-anchor="/document/16/206757/dfasa3nnso/" data-dfa="dfasa3nnso"></a>60 000</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 359px;"><p class="a0"><a data-anchor="/document/16/206757/bssPhr43/"></a><a data-anchor="/document/16/206757/dfas19vchu/" data-dfa="dfas19vchu"></a>Себестоимость реализованной продукции</p></td><td class="bdBottombdRight" style="width: 265px;"><p class="a0" style="text-align:center"><a data-anchor="/document/16/206757/bssPhr44/"></a><a data-anchor="/document/16/206757/dfasrqgane/" data-dfa="dfasrqgane"></a>(50 000)</p><p class="a0" style="text-align:center"><a data-anchor="/document/16/206757/bssPhr45/"></a><a data-anchor="/document/16/206757/dfas7hth5o/" data-dfa="dfas7hth5o"></a>(ошибочно не включены товары на сумму 3000)</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 359px;"><p class="a0"><a data-anchor="/document/16/206757/bssPhr46/"></a><a data-anchor="/document/16/206757/dfas7068yu/" data-dfa="dfas7068yu"></a>Прибыль от обычной деятельности до вычета налога на прибыль</p></td><td class="bdBottombdRight" style="width: 265px;"><p class="a0" style="text-align:center"><a data-anchor="/document/16/206757/bssPhr47/"></a><a data-anchor="/document/16/206757/dfasg6yk55/" data-dfa="dfasg6yk55"></a>10 000</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 359px;"><p class="a0"><a data-anchor="/document/16/206757/bssPhr48/"></a><a data-anchor="/document/16/206757/dfasq1nyzi/" data-dfa="dfasq1nyzi"></a>Налог на прибыль</p></td><td class="bdBottombdRight" style="width: 265px;"><p class="a0" style="text-align:center"><a data-anchor="/document/16/206757/bssPhr49/"></a><a data-anchor="/document/16/206757/dfaswa6qbu/" data-dfa="dfaswa6qbu"></a>(1900)</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 359px;"><p class="a0"><a data-anchor="/document/16/206757/bssPhr50/"></a><a data-anchor="/document/16/206757/dfasg4wvt8/" data-dfa="dfasg4wvt8"></a>Чистая прибыль</p></td><td class="bdBottombdRight" style="width: 265px;"><p class="a0" style="text-align:center"><a data-anchor="/document/16/206757/bssPhr51/"></a><a data-anchor="/document/16/206757/dfasp9w51r/" data-dfa="dfasp9w51r"></a>8100</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr52/"></a><a data-anchor="/document/16/206757/dfasemglzg/" data-dfa="dfasemglzg"></a>Компания должна исправить ошибки в учете запасов и формировании себестоимости реализованной продукции и отразить это так:</p><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr53/"></a><a data-anchor="/document/16/206757/dfasfap059/" data-dfa="dfasfap059"></a>Отчет о совокупном доходе за 2019 г. (тыс сумов):</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 330px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr54/"></a><a data-anchor="/document/16/206757/dfassvhze4/" data-dfa="dfassvhze4"></a><strong>Статья отчета о совокупном доходе</strong></p></td><td class="bdTopbdBottombdRight" style="width: 128px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr55/"></a><a data-anchor="/document/16/206757/dfasbvbtnq/" data-dfa="dfasbvbtnq"></a><strong>2019 г.</strong></p></td><td class="bdTopbdBottombdRight" style="width: 161px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr56/"></a><a data-anchor="/document/16/206757/dfascf162f/" data-dfa="dfascf162f"></a><strong>2018 г.</strong></p><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr57/"></a><a data-anchor="/document/16/206757/dfas7np1xd/" data-dfa="dfas7np1xd"></a><strong>(пересчитанный)</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 330px;"><p><a data-anchor="/document/16/206757/bssPhr58/"></a><a data-anchor="/document/16/206757/dfas9xu7bt/" data-dfa="dfas9xu7bt"></a>Доход от продаж</p></td><td class="bdBottombdRight" style="width: 128px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr59/"></a><a data-anchor="/document/16/206757/dfash3lg8n/" data-dfa="dfash3lg8n"></a>100 000</p></td><td class="bdBottombdRight" style="width: 161px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr60/"></a><a data-anchor="/document/16/206757/dfasytndlt/" data-dfa="dfasytndlt"></a>60 000</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 330px;"><p><a data-anchor="/document/16/206757/bssPhr61/"></a><a data-anchor="/document/16/206757/dfasb1g8sh/" data-dfa="dfasb1g8sh"></a>Себестоимость реализованной продукции</p></td><td class="bdBottombdRight" style="width: 128px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr62/"></a><a data-anchor="/document/16/206757/dfasla2md8/" data-dfa="dfasla2md8"></a>(70 000)</p></td><td class="bdBottombdRight" style="width: 161px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr63/"></a><a data-anchor="/document/16/206757/dfasku44qz/" data-dfa="dfasku44qz"></a>(53 000)</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 330px;"><p><a data-anchor="/document/16/206757/bssPhr64/"></a><a data-anchor="/document/16/206757/dfastgkn7b/" data-dfa="dfastgkn7b"></a>Прибыль от обычной деятельности до вычета налога на прибыль</p></td><td class="bdBottombdRight" style="width: 128px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr65/"></a><a data-anchor="/document/16/206757/dfas29zmdh/" data-dfa="dfas29zmdh"></a>30 000</p></td><td class="bdBottombdRight" style="width: 161px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr66/"></a><a data-anchor="/document/16/206757/dfasne8nse/" data-dfa="dfasne8nse"></a>7 000</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 330px;"><p><a data-anchor="/document/16/206757/bssPhr67/"></a><a data-anchor="/document/16/206757/dfasdfxfag/" data-dfa="dfasdfxfag"></a>Налог на прибыль (19%)</p></td><td class="bdBottombdRight" style="width: 128px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr68/"></a><a data-anchor="/document/16/206757/dfas4nvq1c/" data-dfa="dfas4nvq1c"></a>(5 700)</p></td><td class="bdBottombdRight" style="width: 161px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr69/"></a><a data-anchor="/document/16/206757/dfasz7yn40/" data-dfa="dfasz7yn40"></a>(1 330)</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 330px;"><p><a data-anchor="/document/16/206757/bssPhr70/"></a><a data-anchor="/document/16/206757/dfasf0b5ip/" data-dfa="dfasf0b5ip"></a>Чистая прибыль</p></td><td class="bdBottombdRight" style="width: 128px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr71/"></a><a data-anchor="/document/16/206757/dfasts7rpt/" data-dfa="dfasts7rpt"></a>24 300</p></td><td class="bdBottombdRight" style="width: 161px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr72/"></a><a data-anchor="/document/16/206757/dfasq6vvqg/" data-dfa="dfasq6vvqg"></a>5 670</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr73/"></a><a data-anchor="/document/16/206757/dfasahdh41/" data-dfa="dfasahdh41"></a>Отчет о движении нераспределенной прибыли (тыс сумов):</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 368px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr74/"></a><a data-anchor="/document/16/206757/dfasmo9efm/" data-dfa="dfasmo9efm"></a><strong>Статья отчета</strong></p></td><td class="bdTopbdBottombdRight" style="width: 123px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr75/"></a><a data-anchor="/document/16/206757/dfasc1eunk/" data-dfa="dfasc1eunk"></a><strong>2019 г.</strong></p></td><td class="bdTopbdBottombdRight" style="width: 132px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr76/"></a><a data-anchor="/document/16/206757/dfasyt3vhn/" data-dfa="dfasyt3vhn"></a><strong>2018 г.</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 368px;"><p><a data-anchor="/document/16/206757/bssPhr77/"></a><a data-anchor="/document/16/206757/dfasvp3bbl/" data-dfa="dfasvp3bbl"></a>Сальдо нераспределенной прибыли на начало периода, представленное ранее в отчете</p></td><td class="bdBottombdRight" style="width: 123px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr78/"></a><a data-anchor="/document/16/206757/dfaswb4lx1/" data-dfa="dfaswb4lx1"></a>20100</p></td><td class="bdBottombdRight" style="width: 132px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr79/"></a><a data-anchor="/document/16/206757/dfasyetkiu/" data-dfa="dfasyetkiu"></a>12 000</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 368px;"><p><a data-anchor="/document/16/206757/bssPhr80/"></a><a data-anchor="/document/16/206757/dfasp3mggn/" data-dfa="dfasp3mggn"></a>Исправление ошибки за минусом налога на прибыль в размере: 3000 – (3000 × 0,19) = 2430</p></td><td class="bdBottombdRight" style="width: 123px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr81/"></a><a data-anchor="/document/16/206757/dfaspooha7/" data-dfa="dfaspooha7"></a>(2430)</p></td><td class="bdBottombdRight" style="width: 132px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr82/"></a><a data-anchor="/document/16/206757/dfasy2auiz/" data-dfa="dfasy2auiz"></a>—</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 368px;"><p><a data-anchor="/document/16/206757/bssPhr83/"></a><a data-anchor="/document/16/206757/dfas9e8xca/" data-dfa="dfas9e8xca"></a>Пересчитанное сальдо нераспределенной прибыли на начало периода</p></td><td class="bdBottombdRight" style="width: 123px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr84/"></a><a data-anchor="/document/16/206757/dfasx6wlhd/" data-dfa="dfasx6wlhd"></a>17 670</p></td><td class="bdBottombdRight" style="width: 132px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr85/"></a><a data-anchor="/document/16/206757/dfasl2hosw/" data-dfa="dfasl2hosw"></a>12 000</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 368px;"><p><a data-anchor="/document/16/206757/bssPhr86/"></a><a data-anchor="/document/16/206757/dfas3k8dr8/" data-dfa="dfas3k8dr8"></a>Чистая прибыль</p></td><td class="bdBottombdRight" style="width: 123px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr87/"></a><a data-anchor="/document/16/206757/dfashtp4gl/" data-dfa="dfashtp4gl"></a>24 300</p></td><td class="bdBottombdRight" style="width: 132px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr88/"></a><a data-anchor="/document/16/206757/dfasvge024/" data-dfa="dfasvge024"></a>5670</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 368px;"><p><a data-anchor="/document/16/206757/bssPhr89/"></a><a data-anchor="/document/16/206757/dfaslmt863/" data-dfa="dfaslmt863"></a>Нераспределенная прибыль на конец периода</p></td><td class="bdBottombdRight" style="width: 123px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr90/"></a><a data-anchor="/document/16/206757/dfas9xahwb/" data-dfa="dfas9xahwb"></a>41 970</p></td><td class="bdBottombdRight" style="width: 132px;"><p style="text-align:center"><a data-anchor="/document/16/206757/bssPhr91/"></a><a data-anchor="/document/16/206757/dfasgkxum2/" data-dfa="dfasgkxum2"></a>17 670</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr92/"></a><a data-anchor="/document/16/206757/dfasy9vg4y/" data-dfa="dfasy9vg4y"></a>В Примечаниях к финансовой отчетности компания должна отразить запись:</p><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr93/"></a><a data-anchor="/document/16/206757/dfaschnytq/" data-dfa="dfaschnytq"></a>Товары, проданные в 2018 г., были ошибочно включены в запасы по состоянию на 31.12.2018 г. на сумму 3 000 тыс сумов. Для исправления данной ошибки отчеты за 2018 г. были пересчитаны.</p></div></div></div><a data-anchor="/document/16/206757/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206757/bssPhr94/"></a><a data-anchor="/document/16/206757/dfasfm8ugc/" data-dfa="dfasfm8ugc"></a>Примечания к финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206757/bssPhr96/"></a><a data-anchor="/document/16/206757/dfas3fv0lb/" data-dfa="dfas3fv0lb"></a>При внесении корректировок, связанных с исправлением бухгалтерских ошибок, компания в Примечаниях к финансовой отчетности должна отразить:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206757/bssPhr97/"></a><a data-anchor="/document/16/206757/dfaszitsbz/" data-dfa="dfaszitsbz"></a>характер ошибки предыдущих периодов;</li><li style="text-align:left">характер переходных условий, когда применимо;</li><li style="text-align:left">влияние на будущие периоды переходных условий, когда применимо;</li><li style="text-align:left">сумму корректировок за текущий и каждый предшествующий период;</li><li style="text-align:left">влияние корректировок на показатели базовой и разводненной прибыли на акцию согласно МСФО (IAS) 33 «Прибыль на акцию»;</li><li style="text-align:left">если применение ретроспективного подхода невозможно, обстоятельства, обусловливающие невозможность его применения;</li><li style="text-align:left">существенность проведения корректировок ввиду допущенной ошибки, а именно: если исправление ошибки окажет значительный эффект на величину прибыли от основных операций или на величину чистой прибыли, то в отчетности обязательно нужно раскрыть всю информацию касательно такого исправления ошибки.</li></ul></div><p><a data-anchor="/document/16/206757/dfask1vwez/" data-dfa="dfask1vwez"></a><a data-anchor="/document/16/206757/bssPhr98/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

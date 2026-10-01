@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как выплатить и отразить в бухучете компенсацию за использование личного автомобиля сотрудника</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/211326/dfascmgopk/" data-dfa="dfascmgopk"></a><a data-anchor="/document/16/211326/bssPhr2/"></a>Из рекомендации Системы Главбух узнаете, как и когда выплачивать компенсацию за использование личного автомобиля сотрудника. Эксперты на примере с условными цифрами показали, как отразить компенсацию за использование личного автомобиля сотрудника в бухучете и при налогообложении. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211326/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211326/bssPhr10/"></a><a data-anchor="/document/16/211326/dfasnqovus/" data-dfa="dfasnqovus"></a>Как выплатить компенсацию за использование личного автомобиля сотрудника</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211326/bssPhr12/"></a><a data-anchor="/document/16/211326/dfasugbf9n/" data-dfa="dfasugbf9n"></a><a data-anchor="/document/16/211326/dfas5q4w1y/" data-dfa="dfas5q4w1y"></a>Порядок выплаты компенсации за использование личного автомобиля для служебных поездок с 1 июля 2021 года утратил силу на основании ПКМ от 29.04.2021 <span num="94" target="_self" lnktype="intlnk" title="" class="doc">№ 258</span>. Но предприятие может выплачивать работникам компенсацию за использование их личных автомобилей в служебных целях. При этом работодатель определяет размер и порядок расчета компенсации самостоятельно по согласованию с сотрудником.</p><p><a data-anchor="/document/16/211326/bssPhr13/"></a><a data-anchor="/document/16/211326/dfasx4i6lh/" data-dfa="dfasx4i6lh"></a>Если с согласия работодателя в процессе работы используется личное имущество работника или арендованное им у третьих лиц, то работодатель возмещает работнику расходы по амортизации и эксплуатации имущества (<span num="95" target="_self" lnktype="intlnk" title="" class="doc">ст. 293 ТК</span>).</p><p><a data-anchor="/document/16/211326/bssPhr14/"></a><a data-anchor="/document/16/211326/dfas7m9f9v/" data-dfa="dfas7m9f9v"></a>Компенсацию за использование личного авто в служебных целях выплачивайте по <span num="73" target="_self" lnktype="intlnk" title="" class="doc">приказу</span> руководителя организации.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211326/dfaseft8oa/" data-dfa="dfaseft8oa"></a><a data-anchor="/document/16/211326/bssPhr15/"></a>Предприятие, исходя из финансовых возможностей, вправе выплачивать компенсацию в любом размере. Сумму компенсации включайте в совокупный доход работника и облагайте НДФЛ и социальным налогом.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211326/bssPhr16/"></a><a data-anchor="/document/16/211326/dfas5ixg5x/" data-dfa="dfas5ixg5x"></a>Если работник – не владелец автомобиля, а пользуется им по доверенности, то руководитель также вправе принять решение о выплате компенсации. При этом сумму компенсации включайте в совокупный доход работника и облагайте НДФЛ и социальным налогом.</p><p><a data-anchor="/document/16/211326/bssPhr17/"></a><a data-anchor="/document/16/211326/dfasgiye0x/" data-dfa="dfasgiye0x"></a>В <span num="54" target="_self" lnktype="intlnk" title="" class="doc">приказе</span> руководитель указывает:</p><ul class="c-list"><li><a data-anchor="/document/16/211326/bssPhr18/"></a><a data-anchor="/document/16/211326/dfasrzqfgp/" data-dfa="dfasrzqfgp"></a>кому выплачивать компенсацию;</li><li>характеристики авто;</li><li>размер компенсации.</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как оформить возмещение за использование личного автомобиля в служебных целях</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211326/bssPhr20/"></a><a data-anchor="/document/16/211326/dfas0tdkh0/" data-dfa="dfas0tdkh0"></a>Порядок выплаты компенсации за использование личных автомобилей для служебных поездок, утв. ПКМ от 02.04.1999 № <span data-warm-notices="34132525,34132526" data-warm-notice-type="error" num="108" target="_self" lnktype="intlnk" title="" class="doc">154 </span><strong>утратил силу</strong> с принятием ПКМ от 29.04.2021 № <span num="109" target="_self" lnktype="intlnk" title="" class="doc">258</span>.</p><p><a data-anchor="/document/16/211326/bssPhr21/"></a><a data-anchor="/document/16/211326/dfasqnp99f/" data-dfa="dfasqnp99f"></a>Однако предприятие может выплачивать компенсацию работникам за использование личного автомобиля в служебных целях. Если с согласия работодателя в процессе работы работник использует личное или арендованное им у третьих лиц имущество, то работодатель возмещает работнику расходы по амортизации и эксплуатации имущества (<span num="110" target="_self" lnktype="intlnk" title="" class="doc">ст. 293</span> ТК). Компенсацию за использование личного авто в служебных целях выплачивайте по приказу руководителя предприятия.</p><p><a data-anchor="/document/16/211326/bssPhr22/"></a><a data-anchor="/document/16/211326/dfas3lg3qz/" data-dfa="dfas3lg3qz"></a>Так как нормы компенсации за использование личного автомобиля в служебных целях законодательно не установлены, выплаты за использование личного автотранспорта в служебных целях, начисленные сотруднику, рассматривают как сверхнормативные выплаты, в соответствии с <span num="111" target="_self" lnktype="intlnk" title="" class="doc">пунктом 11</span> статьи 373 НК. Эти выплаты включают в состав доходов в виде оплаты труда (<span num="112" target="_self" lnktype="intlnk" title="" class="doc">ст. 371</span> НК), облагают <span num="113" target="_self" lnktype="intlnk" title="" class="doc">НДФЛ</span>, <span num="114" target="_self" lnktype="intlnk" title="" class="doc">ИНПС</span>, а также <span data-warm-notices="34132527" data-warm-notice-type="error" num="115" target="_self" lnktype="intlnk" title="" class="doc">соцналогом</span> (<span num="116" target="_self" lnktype="intlnk" title="" class="doc">ст. 403</span>, <span num="117" target="_self" lnktype="intlnk" title="" class="doc">404</span> НК).</p><p><a data-anchor="/document/16/211326/bssPhr23/"></a><a data-anchor="/document/16/211326/dfasr9gsaz/" data-dfa="dfasr9gsaz"></a><strong>Компенсационные выплаты за использование личных автомобилей</strong> в служебных целях <strong>сверх установленных норм </strong>будут не вычитаемыми расходами при определении налоговой базы по <span data-warm-notices="34132528" data-warm-notice-type="error" num="118" target="_self" lnktype="intlnk" title="" class="doc">налогу на прибыль</span> (<span num="119" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span> ст. 317 НК).</p></div></div></div><a data-anchor="/document/16/211326/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211326/bssPhr24/"></a><a data-anchor="/document/16/211326/dfashu4iyq/" data-dfa="dfashu4iyq"></a>Когда выплачивать компенсацию</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211326/bssPhr26/"></a><a data-anchor="/document/16/211326/dfas4znkhd/" data-dfa="dfas4znkhd"></a>Компенсацию за использование личного автомобиля можно выплачивать один раз в месяц одновременно с заработной платой за вторую половину месяца.</p><p><a data-anchor="/document/16/211326/bssPhr27/"></a><a data-anchor="/document/16/211326/dfasoik4bv/" data-dfa="dfasoik4bv"></a>Компенсацию выплачивайте за дни, когда личный автомобиль работника действительно используется в служебных целях.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211326/dfasgflcqi/" data-dfa="dfasgflcqi"></a><a data-anchor="/document/16/211326/bssPhr28/"></a>За дни, когда работник был в отпуске, в командировке, на больничном или отсутствовал на работе по другим причинам, то есть личный автомобиль не эксплуатировался, компенсацию не выплачивайте.</p><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211326/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211326/bssPhr30/"></a><a data-anchor="/document/16/211326/dfasvo6grm/" data-dfa="dfasvo6grm"></a>Как отразить в бухучете и при налогообложении компенсацию за использование личного автомобиля сотрудника</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211326/bssPhr32/"></a><a data-anchor="/document/16/211326/dfase6wty2/" data-dfa="dfase6wty2"></a>Так как нормы по компенсации за использование личного автомобиля в служебных целях законодательно не установлены относите всю начисленную сумму компенсации к компенсационным выплатам (<span num="55" target="_self" lnktype="intlnk" title="" class="doc">п. 11</span> ст. 373 НК). Компенсационные выплаты включайте в доход сотрудника в виде оплаты труда и облагайте НДФЛ, обязательными взносами на ИНПС и социальным налогом (<span num="56" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 371 НК, <span num="57" target="_self" lnktype="intlnk" title="" class="doc">ст. 366</span> НК, <span num="58" target="_self" lnktype="intlnk" title="" class="doc">ст. 403</span> НК, <span num="59" target="_self" lnktype="intlnk" title="" class="doc">ст. 404</span> НК, <span num="60" target="_self" lnktype="intlnk" title="" class="doc">ст. 10</span> Закона «О накопительном пенсионном обеспечении граждан», ЗРУ №702-II от 02.12.2004 г.).</p><p><a data-anchor="/document/16/211326/bssPhr33/"></a><a data-anchor="/document/16/211326/dfasyikeci/" data-dfa="dfasyikeci"></a>Сумму компенсации отражайте в форме налоговой отчетности по НДФЛ и социальному налогу.</p><p><a data-anchor="/document/16/211326/bssPhr35/"></a><a data-anchor="/document/16/211326/dfasngk59g/" data-dfa="dfasngk59g"></a>Компенсацию в бухгалтерском учете отражайте проводками в зависимости от целей использования автомобиля:</p><p><a data-anchor="/document/16/211326/bssPhr36/"></a><a data-anchor="/document/16/211326/dfasm7817w/" data-dfa="dfasm7817w"></a>Дебет 2010,2510 и др. Кредит 6710</p><ul class="c-list"><li><a data-anchor="/document/16/211326/bssPhr37/"></a><a data-anchor="/document/16/211326/dfasoi10ki/" data-dfa="dfasoi10ki"></a>если автомобиль используете в производственных целях;</li></ul><p><a data-anchor="/document/16/211326/bssPhr38/"></a><a data-anchor="/document/16/211326/dfasagvl27/" data-dfa="dfasagvl27"></a>Дебет 9410 Кредит 6710</p><ul class="c-list"><li><a data-anchor="/document/16/211326/bssPhr39/"></a><a data-anchor="/document/16/211326/dfas3ra795/" data-dfa="dfas3ra795"></a>если автомобиль используете для целей отдела сбыта;</li></ul><p><a data-anchor="/document/16/211326/bssPhr40/"></a><a data-anchor="/document/16/211326/dfasclzm21/" data-dfa="dfasclzm21"></a>Дебет 9420 Кредит 6710если автомобиль используете для административных нужд.</p><p><a data-anchor="/document/16/211326/bssPhr41/"></a><a data-anchor="/document/16/211326/dfasyx9fbc/" data-dfa="dfasyx9fbc"></a>Если начисляете компенсацию работнику – не владельцу автомобиля, который пользуется им по доверенности, то учитывайте ее также как доход сотрудника, облагайте налогами и отражайте в форме налоговой отчетности по НДФЛ и социальному налогу.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211326/dfasopsvie/" data-dfa="dfasopsvie"></a><a data-anchor="/document/16/211326/bssPhr42/"></a>Если компенсацию назначаете самому руководителю, получите разрешение общего собрания учредителей.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211326/bssPhr43/"></a><a data-anchor="/document/16/211326/dfasg5e9ku/" data-dfa="dfasg5e9ku"></a>При начислении компенсации за использование личного автомобиля путевой лист по этому автомобилю не ведется.</p><p><a data-anchor="/document/16/211326/bssPhr44/"></a><a data-anchor="/document/16/211326/dfas6b8pw7/" data-dfa="dfas6b8pw7"></a>Суммы выплачиваемых компенсаций относятся к расходам предприятия.</p><p><a data-anchor="/document/16/211326/bssPhr45/"></a><a data-anchor="/document/16/211326/dfasek1o35/" data-dfa="dfasek1o35"></a><strong>Компенсационные выплаты за использование личных автомобилей</strong> в служебных целях <strong>сверх установленных норм </strong>являются не вычитаемыми расходами при определении налоговой базы по налогу на прибыль (<span num="61" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span> ст. 317 НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211326/dfashbad0p/" data-dfa="dfashbad0p"></a><a data-anchor="/document/16/211326/bssPhr46/"></a>Так как, «Порядок выплаты компенсации за использование личных автомобилей для служебных поездок»</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211326/bssPhr47/"></a><a data-anchor="/document/16/211326/dfaskdrbg7/" data-dfa="dfaskdrbg7"></a>ПКМ от 02.04.1999 <span data-warm-notices="31002118" data-warm-notice-type="error" num="96" target="_self" lnktype="intlnk" title="" class="doc">№ 154</span> . утратил силу на основании ПКМ от 29.04.2021 <span num="97" target="_self" lnktype="intlnk" title="" class="doc">№ 258</span>&nbsp;&nbsp;и в данное время нормы компенсации законодательно не установлены, рекомендуем всю сумму компенсации относить к не вычитаемым расходам при расчете налога на прибыль.</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211326/dfaso7dgut/" data-dfa="dfaso7dgut"></a><a data-anchor="/document/16/211326/bssPhr48/"></a>В ООО «Удача» за июль 2023 года менеджеру по продажам А.Э. Махкамову, отработавшему полный месяц – начислена зарплата 3 000 000 сумов и в соответствии с приказом, начислена компенсация за использование личного автомобиля 780 500 сумов.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211326/bssPhr49/"></a><a data-anchor="/document/16/211326/dfasiv7ew3/" data-dfa="dfasiv7ew3"></a>Сумма компенсации, в размере 780 500 сумов является доходом работника, включается в его совокупный доход, облагается НДФЛ и социальным налогом.</p><p><a data-anchor="/document/16/211326/bssPhr50/"></a><a data-anchor="/document/16/211326/dfas03xa0r/" data-dfa="dfas03xa0r"></a>Бухгалтер ООО «Удача» в учете сделал записи:</p><p><a data-anchor="/document/16/211326/bssPhr51/"></a><a data-anchor="/document/16/211326/dfaskcfxz8/" data-dfa="dfaskcfxz8"></a><strong>Дебет 9410 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211326/bssPhr52/"></a><a data-anchor="/document/16/211326/dfasfplgvw/" data-dfa="dfasfplgvw"></a>3 780 500 сумов (3 000 000 + 780 500) – начислена зарплата Махкамову;</li></ul><p><a data-anchor="/document/16/211326/bssPhr53/"></a><a data-anchor="/document/16/211326/dfaswmxvg4/" data-dfa="dfaswmxvg4"></a><strong>Дебет 6710 Кредит 6410 </strong></p><ul class="c-list"><li><a data-anchor="/document/16/211326/bssPhr54/"></a><a data-anchor="/document/16/211326/dfasr80nkt/" data-dfa="dfasr80nkt"></a>453 660 сумов (3 780 500 × 12%) – начислен НДФЛ;</li></ul><p><a data-anchor="/document/16/211326/bssPhr55/"></a><a data-anchor="/document/16/211326/dfas0hdlwy/" data-dfa="dfas0hdlwy"></a><strong>Дебет 9410 Кредит 6520</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211326/bssPhr56/"></a><a data-anchor="/document/16/211326/dfasg0df3e/" data-dfa="dfasg0df3e"></a>453 660 сумов (3 780 500× 12%) – начислен социальный налог.</li></ul></div></div></div><p><a data-anchor="/document/16/211326/dfascec09s/" data-dfa="dfascec09s"></a><a data-anchor="/document/16/211326/bssPhr57/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882114" sourceId="1" fullSizeImageId="-41882113" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882114/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

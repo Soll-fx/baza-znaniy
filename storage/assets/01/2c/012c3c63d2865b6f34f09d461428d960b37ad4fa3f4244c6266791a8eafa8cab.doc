@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как вычесть убытки прошлых периодов (перенос убытков)</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203012/bssPhr1/"></a><a data-anchor="/document/16/203012/dfaslmkdps/" data-dfa="dfaslmkdps"></a>При расчете налогооблагаемой базы по налогу на прибыль юрлиц убыток – это превышение вычитаемых расходов над совокупным доходом (<a data-anchor="/document/16/203012/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/20918/dfassamnwn/" class="link npd" title="Убытком признается превышение вычитаемых расходов, предусмотренных в настоящем Кодексе, над совокупным доходом." moduleId="90" documentId="20918" anchor="dfassamnwn">ч. 1</a> ст. 161 НК). Налоговый кодекс позволяет списывать убыток, который возник у налогоплательщика по итогам предыдущего налогового периода, на уменьшение налогооблагаемой прибыли текущего налогового периода в течение последующих 5 лет (<a data-anchor="/document/16/203012/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasxsdqyn/" class="link npd" title="Налогоплательщик вправе осуществлять перенос убытков на будущее в течение пяти лет, следующих за тем налоговым периодом, в котором получен этот убыток." moduleId="90" documentId="20918" anchor="dfasxsdqyn">ч. 2</a> ст. 161 НК).</p><p><a data-anchor="/document/16/203012/bssPhr2/"></a><a data-anchor="/document/16/203012/dfasnracne/" data-dfa="dfasnracne"></a>Вычет убытков прошлых лет возможен также, когда предприятие прекратило работу из-за реорганизации. В этом случае право вычета переходит к правопреемнику (<a data-anchor="/document/16/203012/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasto12fw/" class="link npd" title="В случае прекращения налогоплательщиком деятельности в связи с реорганизацией налогоплательщик-правопреемник вправе уменьшать налогооблагаемую прибыль в порядке и на условиях, которые..." moduleId="90" documentId="20918" anchor="dfasto12fw">ч. 8</a> ст. 161 НК). Если правопреемников несколько, то объем прав на вычет правопреемники должны определять на основе разделительного баланса (<a data-anchor="/document/16/203012/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/21650/dfask392x2/" class="link npd" title="При выделении из состава юридического лица одного или нескольких юридических лиц к каждому из них переходят права и обязанности реорганизованного юридического лица в соответствии..." moduleId="90" documentId="21650" anchor="dfask392x2">ч. 4</a> ст. 50 ГК).</p><p><a data-anchor="/document/16/203012/bssPhr3/"></a><a data-anchor="/document/16/203012/dfasmk1o6f/" data-dfa="dfasmk1o6f"></a>Сумму убытка можно рассчитать по классической формуле:</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tr align="center"><td class="bdAll"><p align="center"><a data-anchor="/document/16/203012/bssPhr4/"></a><a data-anchor="/document/16/203012/dfask1ctum/" data-dfa="dfask1ctum"></a>Вычитаемые расходы</p></td><td class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203012/bssPhr5/"></a><a data-anchor="/document/16/203012/dfasrargwt/" data-dfa="dfasrargwt"></a>–</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/203012/bssPhr6/"></a><a data-anchor="/document/16/203012/dfas92w2aw/" data-dfa="dfas92w2aw"></a>Совокупный доход</p></td><td class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203012/bssPhr7/"></a><a data-anchor="/document/16/203012/dfasqpfi9h/" data-dfa="dfasqpfi9h"></a>=</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/203012/bssPhr8/"></a><a data-anchor="/document/16/203012/dfaskr1qnd/" data-dfa="dfaskr1qnd"></a>Налоговый убыток</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203012/bssPhr9/"></a><a data-anchor="/document/16/203012/dfaseir9cg/" data-dfa="dfaseir9cg"></a>убыток при расчете налога на прибыль нельзя путать с финансовым убытком, который вытекает из данных бухгалтерского учета. В расчете налогового убытка невычитаемые расходы не участвуют. Тогда как при расчете финансового убытка учитываются не только вычитаемые, но и невычитаемые расходы, которые влияют на результат. </p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/203012/bssPhr10/"></a><a data-anchor="/document/16/203012/dfasfb53xi/" data-dfa="dfasfb53xi"></a>Поэтому при финансовом убытке налоговый убыток можно рассчитать по упрощенной формуле:</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tr valign="top" align="center"><td class="bdAll"><p align="center"><a data-anchor="/document/16/203012/bssPhr11/"></a><a data-anchor="/document/16/203012/dfas60u5tk/" data-dfa="dfas60u5tk"></a>Финансовый убыток</p></td><td class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203012/bssPhr12/"></a><a data-anchor="/document/16/203012/dfase4r4sy/" data-dfa="dfase4r4sy"></a>+</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/203012/bssPhr13/"></a><a data-anchor="/document/16/203012/dfas7tylk3/" data-dfa="dfas7tylk3"></a>Невычитаемые расходы</p></td><td class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203012/bssPhr14/"></a><a data-anchor="/document/16/203012/dfasp93wn6/" data-dfa="dfasp93wn6"></a>=</p></td><td class="bdAll"><p align="center"><a data-anchor="/document/16/203012/bssPhr15/"></a><a data-anchor="/document/16/203012/dfas3gkqi5/" data-dfa="dfas3gkqi5"></a>Налоговый убыток</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203012/dfasnbkbr4/" data-dfa="dfasnbkbr4"></a><a data-anchor="/document/16/203012/bssPhr16/"></a>предприятие по данным бухгалтерского учета имеет убыток 150 тыс. сумов.</name></p><div class="incut-v4__content" data-incut-content=""><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr valign="top" align="center"><td><p align="center"><a data-anchor="/document/16/203012/bssPhr17/"></a><a data-anchor="/document/16/203012/dfasbqe9n1/" data-dfa="dfasbqe9n1"></a><a data-anchor="/document/16/203012/dfasq2b4z3/" data-dfa="dfasq2b4z3"></a>Вариант 1</p></td><td><p align="center"><a data-anchor="/document/16/203012/bssPhr18/"></a><a data-anchor="/document/16/203012/dfasug3gqv/" data-dfa="dfasug3gqv"></a>Вариант 2</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr19/"></a><a data-anchor="/document/16/203012/dfasu8obqo/" data-dfa="dfasu8obqo"></a>Сумма невычитаемых расходов (затраты, которые входят в налогооблагаемую прибыль) составляет 50 тыс. сумов.</p><p><a data-anchor="/document/16/203012/bssPhr20/"></a><a data-anchor="/document/16/203012/dfas51yyb4/" data-dfa="dfas51yyb4"></a>У предприятия имеется налоговый убыток:</p><p><a data-anchor="/document/16/203012/bssPhr21/"></a><a data-anchor="/document/16/203012/dfasakfaaa/" data-dfa="dfasakfaaa"></a>-150 тыс. сумов + 50 тыс. сумов = -100 тыс. сумов</p></td><td><p><a data-anchor="/document/16/203012/bssPhr22/"></a><a data-anchor="/document/16/203012/dfasalhsix/" data-dfa="dfasalhsix"></a>Сумма невычитаемых расходов (затраты, которые входят в налогооблагаемую прибыль) составляет 170 тыс. сумов.</p><p><a data-anchor="/document/16/203012/bssPhr23/"></a><a data-anchor="/document/16/203012/dfas1sr3og/" data-dfa="dfas1sr3og"></a>У предприятия отсутствует налоговый убыток:</p><p><a data-anchor="/document/16/203012/bssPhr24/"></a><a data-anchor="/document/16/203012/dfasy9ofsa/" data-dfa="dfasy9ofsa"></a>-150 тыс. сумов + 170 тыс. сумов = 20 тыс. сумов</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><p><a data-anchor="/document/16/203012/bssPhr25/"></a><a data-anchor="/document/16/203012/dfas5azrfy/" data-dfa="dfas5azrfy"></a>В том году, за который возник убыток, налогооблагаемой базы не будет, а сумма налога на прибыль окажется нулевой. При этом закон смягчает экономическое положение налогоплательщика и разрешает перенести убытки на следующие 5 лет (<a data-anchor="/document/16/203012/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasxsdqyn/" class="link npd" title="Налогоплательщик вправе осуществлять перенос убытков на будущее в течение пяти лет, следующих за тем налоговым периодом, в котором получен этот убыток." moduleId="90" documentId="20918" anchor="dfasxsdqyn">ч. 2</a> ст. 161 НК). То есть убыток одного года можно вычесть из налогооблагаемой базы в будущем.</p><p><a data-anchor="/document/16/203012/bssPhr26/"></a><a data-anchor="/document/16/203012/dfas4mxke7/" data-dfa="dfas4mxke7"></a>Вместе с тем существует ограничение – вычет убытков прошлых лет не должен превышать 50 процентов от налогооблагаемой прибыли того года, в котором производится вычет (<a data-anchor="/document/16/203012/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasep2bhk/" class="link npd" title="Совокупная сумма переносимого убытка, учитываемая в каждом последующем налоговом периоде, не может превышать 50 процентов налогооблагаемой прибыли текущего налогового периода, исчисленной..." moduleId="90" documentId="20918" anchor="dfasep2bhk">ч. 4</a> ст. 161 НК). В пределах этого лимита налогоплательщик сам решает, какую сумму убытков вычесть (<a data-anchor="/document/16/203012/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasa781i3/" class="link npd" title="Налогоплательщики налога на прибыль юридических лиц, имеющие убыток (убытки), исчисленный в соответствии с частью первой настоящей статьи, в предыдущем налоговом периоде или в предыдущих..." moduleId="90" documentId="20918" anchor="dfasa781i3">ч. 3</a> ст. 161 НК). </p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203012/dfasp0lgq8/" data-dfa="dfasp0lgq8"></a><a data-anchor="/document/16/203012/bssPhr27/"></a>налогооблагаемая прибыль текущего года – 200 млн сумов, сумма прошлогоднего убытка – 80 млн сумов.</name></p><div class="incut-v4__content" data-incut-content=""><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr28/"></a><a data-anchor="/document/16/203012/dfasogxsur/" data-dfa="dfasogxsur"></a><a data-anchor="/document/16/203012/dfasqm0501/" data-dfa="dfasqm0501"></a>Расчет допустимой суммы вычета</p></td><td><p><a data-anchor="/document/16/203012/bssPhr29/"></a><a data-anchor="/document/16/203012/dfas8ph6q9/" data-dfa="dfas8ph6q9"></a>Расчет соотношения убытков к налогооблагаемой прибыли</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr30/"></a><a data-anchor="/document/16/203012/dfasz01ylu/" data-dfa="dfasz01ylu"></a>200 млн сумов ÷ 100 × 50 = 100 млн сумов</p></td><td><p><a data-anchor="/document/16/203012/bssPhr31/"></a><a data-anchor="/document/16/203012/dfas1kvigw/" data-dfa="dfas1kvigw"></a>80 млн сумов ÷ 200 млн сумов × 100 = 40%</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><p><a data-anchor="/document/16/203012/bssPhr32/"></a><a data-anchor="/document/16/203012/dfas9nla8l/" data-dfa="dfas9nla8l"></a>Предприятие вправе вычесть всю сумму переносимого убытка, так как он составляет 40 процентов от налогооблагаемой прибыли и не превышает предельный размер переноса в 50 процентов (<a data-anchor="/document/16/203012/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasep2bhk/" class="link npd" title="Совокупная сумма переносимого убытка, учитываемая в каждом последующем налоговом периоде, не может превышать 50 процентов налогооблагаемой прибыли текущего налогового периода, исчисленной..." moduleId="90" documentId="20918" anchor="dfasep2bhk">ч. 4</a> ст. 161 НК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203012/dfasd13rbf/" data-dfa="dfasd13rbf"></a><a data-anchor="/document/16/203012/bssPhr33/"></a>налогооблагаемая прибыль текущего года – 200 млн сумов, сумма прошлогоднего убытка – 300 млн сумов.</name></p><div class="incut-v4__content" data-incut-content=""><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr34/"></a><a data-anchor="/document/16/203012/dfas6fqaua/" data-dfa="dfas6fqaua"></a><a data-anchor="/document/16/203012/dfasnogn8q/" data-dfa="dfasnogn8q"></a>Расчет допустимой суммы вычета</p></td><td><p><a data-anchor="/document/16/203012/bssPhr35/"></a><a data-anchor="/document/16/203012/dfasquywqy/" data-dfa="dfasquywqy"></a>Расчет соотношения убытков к налогооблагаемой прибыли</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr36/"></a><a data-anchor="/document/16/203012/dfasbssux6/" data-dfa="dfasbssux6"></a>200 млн сумов ÷ 100 × 50 = 100 млн сумов</p></td><td><p><a data-anchor="/document/16/203012/bssPhr37/"></a><a data-anchor="/document/16/203012/dfas9vkahz/" data-dfa="dfas9vkahz"></a>300 млн сумов ÷ 200 млн сумов × 100 = 150%</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><p><a data-anchor="/document/16/203012/bssPhr38/"></a><a data-anchor="/document/16/203012/dfasfhpp7a/" data-dfa="dfasfhpp7a"></a>В текущем году предприятие может уменьшить налогооблагаемую прибыль только на 100 млн сумов переносимого убытка, то есть перекрыть не весь убыток прошлого года. Непокрытый убыток в размере оставшихся 200 млн сумов можно вычесть по итогам последующих 5 лет после года, в котором получен убыток.</p></div></div><p><a data-anchor="/document/16/203012/bssPhr39/"></a><a data-anchor="/document/16/203012/dfasdeveyq/" data-dfa="dfasdeveyq"></a>Предприятие может быть убыточным в течение нескольких лет. В этих случаях переносите убытки в той очередности, в которой они получены (<a data-anchor="/document/16/203012/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas6mqs7t/" class="link npd" title="Убытки, полученные более чем в одном календарном году, переносятся в той очередности, в которой они получены." moduleId="90" documentId="20918" anchor="dfas6mqs7t">ч. 6</a> ст. 161 НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203012/dfas5u2mmc/" data-dfa="dfas5u2mmc"></a><a data-anchor="/document/16/203012/bssPhr40/"></a>предприятие получило убытки: за 2016 год – 300 млн сумов, за 2017 год – 200 млн сумов. Налогооблагаемая база за 2018 год составила 700 млн сумов. Задача – определить суммы убытков 2016 и 2017 годов, которые предприятие вправе вычесть в 2018 году.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203012/bssPhr41/"></a><a data-anchor="/document/16/203012/dfasbiqffq/" data-dfa="dfasbiqffq"></a><a data-anchor="/document/16/203012/dfasop5zvp/" data-dfa="dfasop5zvp"></a><b>Шаг 1.</b> Соблюдая очередность, налогоплательщик вначале вычитает из налогооблагаемой прибыли 2018 года убыток, который возник в 2016 году:</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr42/"></a><a data-anchor="/document/16/203012/dfas7b7zsi/" data-dfa="dfas7b7zsi"></a>Расчет допустимой суммы вычета:</p></td><td><p><a data-anchor="/document/16/203012/bssPhr43/"></a><a data-anchor="/document/16/203012/dfas8l58n9/" data-dfa="dfas8l58n9"></a>Расчет соотношения убытков к налогооблагаемой прибыли</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr44/"></a><a data-anchor="/document/16/203012/dfasdz6w61/" data-dfa="dfasdz6w61"></a>700 млн сумов : 100 × 50 = 350 млн сумов</p></td><td><p><a data-anchor="/document/16/203012/bssPhr45/"></a><a data-anchor="/document/16/203012/dfas8u032y/" data-dfa="dfas8u032y"></a>300 млн сумов : 700 млн сумов × 100 = 42,8%</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><p><a data-anchor="/document/16/203012/bssPhr46/"></a><a data-anchor="/document/16/203012/dfasda145k/" data-dfa="dfasda145k"></a>Предприятие вправе вычесть всю сумму переносимого убытка 2016 года, так как он составляет 42,8 процента от налогооблагаемой прибыли и не превышает предельный размер переноса в 50 процентов (<a data-anchor="/document/16/203012/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasep2bhk/" class="link npd" title="Совокупная сумма переносимого убытка, учитываемая в каждом последующем налоговом периоде, не может превышать 50 процентов налогооблагаемой прибыли текущего налогового периода, исчисленной..." moduleId="90" documentId="20918" anchor="dfasep2bhk">ч. 4</a> ст. 161 НК).</p><p><a data-anchor="/document/16/203012/bssPhr47/"></a><a data-anchor="/document/16/203012/dfasybukg3/" data-dfa="dfasybukg3"></a><b>Шаг 2. </b>Налогоплательщик определяет сумму лимита вычета убытков, которая осталась после шага 1.</p><p><a data-anchor="/document/16/203012/bssPhr48/"></a><a data-anchor="/document/16/203012/dfask7gkn3/" data-dfa="dfask7gkn3"></a>350 млн сумов – 300 млн сумов = 50 млн сумов</p><p><a data-anchor="/document/16/203012/bssPhr49/"></a><a data-anchor="/document/16/203012/dfasun41nq/" data-dfa="dfasun41nq"></a>В отличие от убытков 2016 года, убытки 2017 года покрываются не полностью, а частично в размере 50 млн сумов. Остальные 150 млн сумов (200 – 50) могут быть вычтены из прибыли 2019–2023 гг.</p></div></div><p><a data-anchor="/document/16/203012/bssPhr50/"></a><a data-anchor="/document/16/203012/dfas55vs26/" data-dfa="dfas55vs26"></a>Возможно также чередование убыточных и прибыльных налоговых периодов.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203012/dfasr4htm3/" data-dfa="dfasr4htm3"></a><a data-anchor="/document/16/203012/bssPhr51/"></a>предприятие в 2015 году получило 300 млн сумов убытков, а в 2017 году – 200 млн сумов. И наоборот, по итогам 2016 года предприятие получило прибыль – 500 млн сумов, а по итогам 2018 года – 600 млн сумов.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203012/bssPhr52/"></a><a data-anchor="/document/16/203012/dfast35zno/" data-dfa="dfast35zno"></a><a data-anchor="/document/16/203012/dfasw9m08e/" data-dfa="dfasw9m08e"></a><b>Шаг 1. </b>Соблюдая очередность,<a data-anchor="/document/16/203012/_GoBack/"></a> налогоплательщик вначале вычитает из налогооблагаемой прибыли 2016 года убыток, который возник в 2015 году.</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr53/"></a><a data-anchor="/document/16/203012/dfas246r4p/" data-dfa="dfas246r4p"></a>Расчет допустимой суммы вычета</p></td><td><p><a data-anchor="/document/16/203012/bssPhr54/"></a><a data-anchor="/document/16/203012/dfasmn8z5w/" data-dfa="dfasmn8z5w"></a>Расчет соотношения убытков к налогооблагаемой прибыли</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr55/"></a><a data-anchor="/document/16/203012/dfas17m0o3/" data-dfa="dfas17m0o3"></a>500 млн сумов ÷ 100 × 50 = 250 млн сумов</p></td><td><p><a data-anchor="/document/16/203012/bssPhr56/"></a><a data-anchor="/document/16/203012/dfaskbdvg5/" data-dfa="dfaskbdvg5"></a>300 млн сумов ÷ 500 млн сумов × 100 = 60%</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><p><a data-anchor="/document/16/203012/bssPhr57/"></a><a data-anchor="/document/16/203012/dfasw8si84/" data-dfa="dfasw8si84"></a>Убытки 2015 года в 2016 году покрываются не полностью, а частично. Из 300 млн сумов убытка могут быть вычтены только 250 млн сумов (50 процентов прибыли 2016 года). Остальная часть убытков 2015 года в размере 50 млн сумов (300 млн – 250 млн сумов) не может быть вычтена в 2017 году из-за отсутствия прибыли и подлежит погашению в 2018–2020 годах.</p><p><a data-anchor="/document/16/203012/bssPhr58/"></a><a data-anchor="/document/16/203012/dfasxkmgof/" data-dfa="dfasxkmgof"></a><b>Шаг 2. </b>В 2018 году налогоплательщик поочередно вычитает остаток убытков 2015 года (50 млн сумов) и убытки 2017 года (200 млн сумов). </p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr59/"></a><a data-anchor="/document/16/203012/dfasp0nbpy/" data-dfa="dfasp0nbpy"></a>Расчет допустимой суммы вычета</p></td><td><p><a data-anchor="/document/16/203012/bssPhr60/"></a><a data-anchor="/document/16/203012/dfasxx38rw/" data-dfa="dfasxx38rw"></a>Расчет соотношения убытков к налогооблагаемой прибыли</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203012/bssPhr61/"></a><a data-anchor="/document/16/203012/dfasvw9gqe/" data-dfa="dfasvw9gqe"></a>600 млн сумов ÷ 100 × 50 = 300 млн сумов</p></td><td><p><a data-anchor="/document/16/203012/bssPhr62/"></a><a data-anchor="/document/16/203012/dfas9cpmiq/" data-dfa="dfas9cpmiq"></a>(50 млн + 200 млн сумов) ÷ 600 млн сумов ×100 = 41,6%</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><p><a data-anchor="/document/16/203012/bssPhr63/"></a><a data-anchor="/document/16/203012/dfaslbuu6d/" data-dfa="dfaslbuu6d"></a>Из прибыли 2018 года могут быть полностью вычтены остаток убытков 2015 года и убытки 2017 года.</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203012/bssPhr64/"></a><a data-anchor="/document/16/203012/dfasorzk1y/" data-dfa="dfasorzk1y"></a>убытки, полученные в налоговом периоде, когда налогоплательщик освобожден от уплаты налога, не подлежат переносу в последующие налоговые периоды (<a data-anchor="/document/16/203012/backlinkanchor21/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaskioe0b/" class="link npd" title="Убытки, полученные в налоговом периоде, в котором налогоплательщик освобожден от уплаты налога на прибыль юридических лиц, не подлежат переносу в последующие налоговые периоды." moduleId="90" documentId="20918" anchor="dfaskioe0b">ч. 7</a> ст. 161 НК).</p><div class="incut-v4__icon"></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

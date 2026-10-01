@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как правильно оформить увольнение при реорганизации организации</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулчехра&nbsp;Юсупханова,&nbsp;Главный редактор Системы Кадры, юрист</p></td></tr></table><div id="documentBody" class="content-common"><p style="text-align:left"><a data-anchor="/document/12/87179/bssPhr297/"></a><a data-anchor="/document/12/87179/dfasshunpg/" data-dfa="dfasshunpg"></a>Если в&nbsp;организации будет реорганизация, руководитель издает <span data-warm-notices="45502544" data-warm-notice-type="error" num="353" target="_self" lnktype="intlnk" title="" class="doc">приказ</span> по&nbsp;основной деятельности, которым фиксирует факт реорганизации.</p><p style="text-align:left"><a data-anchor="/document/12/87179/bssPhr298/"></a><a data-anchor="/document/12/87179/dfasbye7ke/" data-dfa="dfasbye7ke"></a>Рекомендуем письменно предупредить работников о&nbsp;том, что реорганизация произошла: ознакомить всех работников под роспись с&nbsp;приказом руководителя или направить каждому работнику <span data-warm-notices="45502543" data-warm-notice-type="error" num="354" target="_self" lnktype="intlnk" title="" class="doc">предупреждение</span>.</p><p style="text-align:left"><a data-anchor="/document/12/87179/bssPhr299/"></a><a data-anchor="/document/12/87179/dfasue05fv/" data-dfa="dfasue05fv"></a>Сама по&nbsp;себе реорганизация в&nbsp;организации не&nbsp;является основанием для расторжения трудовых договоров с&nbsp;работниками по&nbsp;инициативе работодателя. С&nbsp;согласия работников трудовые отношения продолжаются и&nbsp;после реорганизации&nbsp;ст. <a data-anchor="/document/12/87179/backlinkanchor355/" type="backlink-anchor"></a><a href="#/document/90/21678/dfasbcnybw/" class="link npd" target="_self" title="" moduleId="90" documentId="21678" anchor="dfasbcnybw">156</a>&nbsp;ТК. Но&nbsp;в&nbsp;результате реорганизации работники могут переводиться на&nbsp;другие должности. Также трудовые отношения с&nbsp;ними могут прекращаться по&nbsp;различным основаниям в&nbsp;зависимости от&nbsp;возникшей ситуации.</p><p style="text-align:left"><a data-anchor="/document/12/87179/bssPhr300/"></a><a data-anchor="/document/12/87179/dfas5k024a/" data-dfa="dfas5k024a"></a>К&nbsp;примеру, если реорганизация повлекла сокращение численности или штата, прекратить <a data-anchor="/document/12/87179/backlinkanchor356/" type="backlink-anchor"></a><a href="#/document/118/204294" target="_self" title="" moduleId="118" documentId="204294" class="link ">трудовые договоры</a> с&nbsp;высвобождаемыми работниками можно без их&nbsp;согласия.</p><p style="text-align:left"><a data-anchor="/document/12/87179/bssPhr301/"></a><a data-anchor="/document/12/87179/dfas9ciecm/" data-dfa="dfas9ciecm"></a>При этом работодатель обязан письменно (под роспись) предупредить работника о&nbsp;своем намерении прекратить трудовой договор не&nbsp;менее чем за&nbsp;2&nbsp;месяца. В&nbsp;течение срока предупреждения работнику предоставляется право не&nbsp;выходить на&nbsp;работу не&nbsp;менее одного дня в&nbsp;неделю с&nbsp;сохранением заработной платы за&nbsp;это время для подыскания другой работы. В&nbsp;срок предупреждения не&nbsp;включаются периоды временной нетрудоспособности.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

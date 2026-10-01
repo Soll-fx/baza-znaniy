@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как платить НДС по договору простого товарищества (договору о совместной деятельности)</h2><div class="doc-snippet"><a data-anchor="/document/16/210956/dfasl298t7/" data-dfa="dfasl298t7"></a><a data-anchor="/document/16/210956/bssPhr2/"></a>Что представляет собой договор простого товарищества, как платит НДС доверенное лицо в рамках этого договора и имеет ли право доверенное лицо на зачет по полученному имуществу, узнаете из рекомендации Системы Главбух. Также эксперт объяснил, как передать имущество и зачесть НДС, если договор товарищества прекращен. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210956/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210956/bssPhr3/"></a><a data-anchor="/document/16/210956/dfasi6q52h/" data-dfa="dfasi6q52h"></a>Договор простого товарищества</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210956/bssPhr5/"></a><a data-anchor="/document/16/210956/dfasm5h4nk/" data-dfa="dfasm5h4nk"></a>Договор простого товарищества – это соглашение о совместной деятельности. При этом юрлица и индивидуальные предприниматели вносят свои вклады и работают сообща для извлечения прибыли или достижения другой законной цели, не создавая юрлицо (<span num="61" target="_self" lnktype="intlnk" title="" class="doc">ст. 962 ГК</span>).</p><p><a data-anchor="/document/16/210956/bssPhr6/"></a><a data-anchor="/document/16/210956/dfas9g3yey/" data-dfa="dfas9g3yey"></a>Простое товарищество – гибкий субъект рынка. Взаимоотношения между его участниками регулирует договор. Закон дает широкий простор для усмотрения сторон и фактически позволяет участникам распределять прибыль и убытки как им удобно, потому что их размер не привязан к размеру вклада (ст. <span num="3" target="_self" lnktype="intlnk" title="" class="doc">967</span> и <span num="5" target="_self" lnktype="intlnk" title="" class="doc">968</span> ГК).</p><p><a data-anchor="/document/16/210956/bssPhr7/"></a><a data-anchor="/document/16/210956/dfasmulgk7/" data-dfa="dfasmulgk7"></a>Имущество товарищей, участников договора простого товарищества, которое они используют в совместной деятельности, учитывайте на балансе каждого товарища, в виде вклада в совместную деятельность.</p><p><a data-anchor="/document/16/210956/bssPhr8/"></a><a data-anchor="/document/16/210956/dfas1xmpn0/" data-dfa="dfas1xmpn0"></a>Внесенное товарищами имущество, которым они обладали на правах собственности, а также произведенная в результате совместной деятельности продукция и доходы признаются их общей долевой собственностью (<span num="7" target="_self" lnktype="intlnk" title="" class="doc">ст. 964 ГК</span>).</p></div><a data-anchor="/document/16/210956/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210956/bssPhr11/"></a><a data-anchor="/document/16/210956/dfastia0f0/" data-dfa="dfastia0f0"></a>Уплата НДС</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210956/bssPhr13/"></a><a data-anchor="/document/16/210956/dfastxe997/" data-dfa="dfastxe997"></a>В рамках совместной деятельности возникают обязательства по уплате НДС. Особенности исчисления и уплаты НДС в бюджет в рамках договора простого товарищества установлены <span data-warm-notices="25550376" data-warm-notice-type="error" num="75" target="_self" lnktype="intlnk" title="" class="doc">статьей 275 </span>НК.</p><p><a data-anchor="/document/16/210956/bssPhr14/"></a><a data-anchor="/document/16/210956/dfas4h40ug/" data-dfa="dfas4h40ug"></a>Обязанности плательщика НДС возлагают на доверенное лицо <strong>– </strong> участника договора простого товарищества, который ведет учет операций по деятельности в рамках этого договора. Об этом указано в <span num="12" target="_self" lnktype="intlnk" title="" class="doc">пункте 5</span> части 1 статьи 237 НК.</p><p><a data-anchor="/document/16/210956/bssPhr15/"></a><a data-anchor="/document/16/210956/dfas2zz1a2/" data-dfa="dfas2zz1a2"></a>Доверенное лицо - участник договора простого товарищества, на которого возложено ведение дел простого товарищества, обязано встать на специальный регистрационный учет в качестве налогоплательщика НДС (<span num="68" target="_self" lnktype="intlnk" title="" class="doc">Положение</span>, приложение № 1 к ПКМ № 595 от 22.09.2021 года).</p><p><a data-anchor="/document/16/210956/bssPhr16/"></a><a data-anchor="/document/16/210956/dfasef96mb/" data-dfa="dfasef96mb"></a>При реализации, товаров, услуг в рамках совместной деятельности <span num="82" target="_self" lnktype="intlnk" title="" class="doc">выставлять покупателям счета-фактуры</span> обязано доверенное лицо (<span num="90" target="_self" lnktype="intlnk" title="" class="doc">ч. 4</span> ст. 275 НК).</p><p><a data-anchor="/document/16/210956/bssPhr17/"></a><a data-anchor="/document/16/210956/dfasg1s94f/" data-dfa="dfasg1s94f"></a>Если товары (услуги) передаются в рамках договора простого товарищества между его участниками, такая передача также признается оборотом по реализации и облагается НДС (<span num="91" target="_self" lnktype="intlnk" title="" class="doc">п. 2</span> ч. 4 ст. 239 НК). При передаче освобожденных от налогообложения товаров (услуг) НДС не начисляется (<span num="92" target="_self" lnktype="intlnk" title="" class="doc">ст. 243 НК</span>).</p><p><a data-anchor="/document/16/210956/bssPhr18/"></a><a data-anchor="/document/16/210956/dfassc4qdn/" data-dfa="dfassc4qdn"></a>Правом на зачет «входного» НДС по товарам (услугам), приобретаемым для использования в совместной деятельности, обладает только доверенное лицо товарищества (<span num="93" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 275 НК). Основанием для применения зачета являются счета-фактуры, выставленные поставщиками товаров (услуг) на его имя.</p><p><a data-anchor="/document/16/210956/bssPhr19/"></a><a data-anchor="/document/16/210956/dfas3v9osc/" data-dfa="dfas3v9osc"></a>При осуществлении доверенным лицом товарищества иной деятельности, кроме деятельности в рамках простого товарищества, право на зачет НДС возникает при наличии раздельного учета товаров (услуг), используемых при осуществлении операций в соответствии с договором простого товарищества, и при осуществлении другой собственной деятельности (<span num="94" target="_self" lnktype="intlnk" title="" class="doc">ч. 6</span> ст. 275 НК).</p><p><a data-anchor="/document/16/210956/bssPhr20/"></a><a data-anchor="/document/16/210956/dfasmwdzvw/" data-dfa="dfasmwdzvw"></a>Доверенное лицо вправе принять к зачету сумму налога, которую заплатил участник при передаче имущества в совместную деятельность.</p><p><a data-anchor="/document/16/210956/bssPhr21/"></a><a data-anchor="/document/16/210956/dfasgrd87o/" data-dfa="dfasgrd87o"></a>Доверенное лицо представляет налоговую отчетность отдельно по совместной деятельности по месту налогового учета, в срок не позднее 20 числа месяца, следующего за истекшим налоговым периодом (<span num="95" target="_self" lnktype="intlnk" title="" class="doc">ст. 273 НК</span>).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210956/dfaslegvgq/" data-dfa="dfaslegvgq"></a><a data-anchor="/document/16/210956/bssPhr22/"></a>Чтобы платить НДС по договору простого товарищества, не нужно иметь оборот в 1 миллиард сумов и выше. Доверенное лицо признается плательщиком НДС и налога на прибыль независимо от размера дохода, полученного от реализации совместно произведенного продукта.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210956/dfas2ge6bf/" data-dfa="dfas2ge6bf"></a></p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/210956/bssPhr23/"></a><a data-anchor="/document/16/210956/dfasghg1bs/" data-dfa="dfasghg1bs"></a>Доверенное лицо ведет раздельный учет собственных объектов налогообложения и объектов по совместной деятельности. Если доверенное лицо ведет свою собственную деятельность, и по своей деятельности уплачивает налог с оборота, либо НДФЛ в фиксированном размере, то за ним сохраняется статус плательщика налога с оборота либо НДФЛ.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210956/dfasqvwdg9/" data-dfa="dfasqvwdg9"></a><a data-anchor="/document/16/210956/bssPhr24/"></a>Налогообложения при раздельном учете совместной и собственной деятельности</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210956/bssPhr25/"></a><a data-anchor="/document/16/210956/dfasgf4ylt/" data-dfa="dfasgf4ylt"></a>Юрлицо – плательщик налога с оборота принимает участие в совместной деятельности. По договору простого товарищества между всеми участниками, оно ведет учет операций в рамках совместной деятельности, то есть выступает как доверенное лицо. С выручки от реализации совместно произведенного продукта доверенное лицо должно уплачивать НДС и налог на прибыль. С выручки от реализации собственной продукции, произведенной не в рамках товарищества, юрлицо уплачивает налог с оборота.</p></div></div><p><a data-anchor="/document/16/210956/bssPhr26/"></a><a data-anchor="/document/16/210956/dfasataiou/" data-dfa="dfasataiou"></a>Если один из участников товарищества юрлицо РУз либо индивидуальный предприниматель, то ведение учета доходов и расходов такого товарищества для целей налогообложения должно быть возложено на такого участника, независимо от того, на кого возложено ведение дел товарищества в соответствии с договором (<span num="22" target="_self" lnktype="intlnk" title="" class="doc">ст. 275 НК</span>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210956/dfas8ab88v/" data-dfa="dfas8ab88v"></a><a data-anchor="/document/16/210956/bssPhr27/"></a>Как рассчитать НДС по деятельности в рамках договора простого товарищества</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210956/bssPhr28/"></a><a data-anchor="/document/16/210956/dfasr37mwi/" data-dfa="dfasr37mwi"></a>ООО «Атлас» и ООО «Текстильщик» заключили договор простого товарищества. Совместная деятельность – производство комплектов постельного белья. В качестве вклада в простое товарищество «Текстильщик» внес производственное оборудование, а «Атлас» – ткани. Доверенным лицом простого товарищества, для ведения общих дел назначен «Атлас».</p><p><a data-anchor="/document/16/210956/bssPhr29/"></a><a data-anchor="/document/16/210956/dfasmu2583/" data-dfa="dfasmu2583"></a>За февраль в рамках договора простого товарищества реализовали 500 комплектов постельного белья. Покупатель – ООО «Мадина». Отпускная стоимость одного комплекта – 850 000 сумов/шт без НДС. Общая сумма сделки – 425 000 000 сумов = 500 шт × 850 000 сумов/шт.</p><p><a data-anchor="/document/16/210956/bssPhr30/"></a><a data-anchor="/document/16/210956/dfas3fu41d/" data-dfa="dfas3fu41d"></a>Сумма НДС, которую продавец предъявил покупателю, составила:<br>425 000 000 сумов × 12 % = 51 000 000 сумов.</p><p><a data-anchor="/document/16/210956/bssPhr31/"></a><a data-anchor="/document/16/210956/dfas3q3go9/" data-dfa="dfas3q3go9"></a>Таким образом, общая стоимость реализуемой продукции с учетом НДС будет 476 000 000 = 425 000 000 сумов + 51 000 000 сумов.</p><p><a data-anchor="/document/16/210956/bssPhr32/"></a><a data-anchor="/document/16/210956/dfasoc70ns/" data-dfa="dfasoc70ns"></a>На стоимость отгруженной продукции «Атлас» предъявил «Мадине» счет-фактуру.</p><p><a data-anchor="/document/16/210956/bssPhr33/"></a><a data-anchor="/document/16/210956/dfasd3mms7/" data-dfa="dfasd3mms7"></a>Доверенное лицо «Атлас» при реализации совместно произведенной продукции в счете-фактуре делает пометку о том, что продукция произведена в рамках совместной деятельности.</p><p><a data-anchor="/document/16/210956/bssPhr34/"></a><a data-anchor="/document/16/210956/dfas0m1c4e/" data-dfa="dfas0m1c4e"></a>Доверенное лицо «Атлас» имеет право на зачет <span num="105" target="_self" lnktype="intlnk" title="" class="doc">входного НДС, на основании</span> счетов -фактур, выставленных продавцами на его имя. Для правомерного зачета НДС «Атлас» должен вести раздельный учет операций, что является обязательным условиям для зачета входного НДС. Это предусмотрено <span num="106" target="_self" lnktype="intlnk" title="" class="doc">частью 6</span> статьи 275 НК.</p></div></div><p><a data-anchor="/document/16/210956/dfas6ppyo1/" data-dfa="dfas6ppyo1"></a></p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Вправе ли доверенное лицо принять к зачету НДС по полученному от участника совместной деятельности оборудованию.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210956/bssPhr36/"></a><a data-anchor="/document/16/210956/dfasepgt88/" data-dfa="dfasepgt88"></a>Вклад участника простого товарищества ООО «Ткач» – оборудование. Участник – плательщик НДС. Оборудование передано для использования в рамках совместной деятельности с НДС – 896 000 000 сумов, в том числе НДС – 96 000 000 сумов.</p><p><a data-anchor="/document/16/210956/bssPhr37/"></a><a data-anchor="/document/16/210956/dfas5qw0os/" data-dfa="dfas5qw0os"></a>Да, вправе.</p><p><a data-anchor="/document/16/210956/bssPhr38/"></a><a data-anchor="/document/16/210956/dfasrknr5w/" data-dfa="dfasrknr5w"></a>В данном случае объект ОС передан для производства совместного продукта, реализация которого образует объект обложения НДС (<span num="62" target="_self" lnktype="intlnk" title="" class="doc">ч. 4</span> ст. 239 НК). Поэтому у доверенного лица – плательщика НДС возникает право зачета НДС, уплаченного участником при его передаче. Доверенное лицо имеет право зачесть НДС в сумме 96 000 000 сумов.</p></div></div><p><a data-anchor="/document/16/210956/bssPhr39/"></a><a data-anchor="/document/16/210956/dfasnf4ua8/" data-dfa="dfasnf4ua8"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Имеет ли право на зачет по полученному имуществу доверенное лицо.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210956/bssPhr41/"></a><a data-anchor="/document/16/210956/dfasoduczu/" data-dfa="dfasoduczu"></a>Участник – неплательщик НДС передает как вклад в простое товарищество имущество, приобретенное с НДС.</p><p><a data-anchor="/document/16/210956/bssPhr42/"></a><a data-anchor="/document/16/210956/dfasgscgfn/" data-dfa="dfasgscgfn"></a>Нет, не имеет.</p><p><a data-anchor="/document/16/210956/bssPhr43/"></a><a data-anchor="/document/16/210956/dfasvtfpxs/" data-dfa="dfasvtfpxs"></a>Если участник – неплательщик НДС передает в качестве вклада имущество, то в счет-фактуре на передаваемое имущество он не должен выделять НДС, несмотря на то, что оно приобретено с НДС. У доверенного лица нет оснований для принятия к зачету НДС по такому передаваемому имуществу.</p></div></div><p><a data-anchor="/document/16/210956/bssPhr44/"></a><a data-anchor="/document/16/210956/dfasbqv01x/" data-dfa="dfasbqv01x"></a>Участник, ведущий общий учет, должен отразить в своей налоговой отчетности суммы НДС к <span num="36" target="_self" lnktype="intlnk" title="" class="doc">уплате в бюджет</span> по операциям простого товарищества.</p><p><a data-anchor="/document/16/210956/bssPhr45/"></a><a data-anchor="/document/16/210956/dfas8o6z4i/" data-dfa="dfas8o6z4i"></a>Доверенное лицо представляет налоговую отчетность отдельно по совместной деятельности по месту налогового учета, в срок не позднее 20 числа месяца, следующего за истекшим налоговым периодом (<span num="38" target="_self" lnktype="intlnk" title="" class="doc">ст. 273 НК</span>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210956/dfaspnxr1p/" data-dfa="dfaspnxr1p"></a><a data-anchor="/document/16/210956/bssPhr46/"></a>Как зачесть НДС при передаче оборудования в качестве вклада в совместную деятельность</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210956/bssPhr47/"></a><a data-anchor="/document/16/210956/dfasqdgohg/" data-dfa="dfasqdgohg"></a>Вклад участника простого товарищества ООО «Альфа» – оборудование. Участник – плательщик НДС. Оборудование передается для использования в совместной деятельности с НДС, так как данная передача признается оборотом по реализации (<span num="45" target="_self" lnktype="intlnk" title="" class="doc">ч. 4</span> ст. 239 НК). Участник приобрел оборудование за 448 000 000 сумов в том числе НДС 48 000 000 сумов. При передаче оборудования в качестве вклада в совместную деятельность участник имеет право зачесть сумму НДС в размере 48 000 000 сумов, уплаченного в стоимости приобретенного оборудования (<span num="47" target="_self" lnktype="intlnk" title="" class="doc">ст. 266 НК</span>).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210956/dfas5n0on0/" data-dfa="dfas5n0on0"></a><a data-anchor="/document/16/210956/bssPhr48/"></a>Как зачесть НДС при финансировании строительства недвижимости для совместной деятельности</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210956/bssPhr49/"></a><a data-anchor="/document/16/210956/dfas6v1wlp/" data-dfa="dfas6v1wlp"></a>Вклад ООО «Бунедкор» в простое товарищество – финансирование строительства объекта недвижимости производственного назначения. Этот объект по окончании строительства участники будут использовать в совместной деятельности. Понесенные затраты (объект незавершенного производства) признаются вкладом в совместную деятельность – операцию, подпадающую под объект налогообложения. Предъявленный поставщиками и подрядчиками НДС по материалам, используемым в строительстве, и работам, данный участник вправе принять к зачету.</p></div></div></div><a data-anchor="/document/16/210956/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210956/bssPhr50/"></a><a data-anchor="/document/16/210956/dfaswk4eny/" data-dfa="dfaswk4eny"></a>Передача имущества и зачет НДС при прекращении договора</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210956/bssPhr52/"></a><a data-anchor="/document/16/210956/dfasog06tt/" data-dfa="dfasog06tt"></a>При прекращении договора простого товарищества вещи, переданные в общее владение и (или) пользование товарищей, возвращаются предоставившим их товарищам без вознаграждения, если иное не предусмотрено соглашением сторон. Товарищ, внесший в общую долевую собственность индивидуально определенную вещь, вправе при прекращении договора простого товарищества требовать возврата ему этой вещи, при условии соблюдения интересов остальных товарищей и кредиторов (<span num="89" target="_self" lnktype="intlnk" title="" class="doc">ст. 971 ГК</span>).</p><p><a data-anchor="/document/16/210956/bssPhr53/"></a><a data-anchor="/document/16/210956/dfasmwbqi5/" data-dfa="dfasmwbqi5"></a>Возврат участникам имущества, переданного ими в общую собственность товарищества, также признается оборотом по реализации, облагаемым НДС.</p><p><a data-anchor="/document/16/210956/bssPhr54/"></a><a data-anchor="/document/16/210956/dfasb9faz4/" data-dfa="dfasb9faz4"></a>Если договор прекращен, то НДС участник принимает к зачету в установленном порядке при использовании переданного имущества в операциях, облагаемых НДС. Доверенное лицо при возврате имущества выписывает счет-фактуру с учетом НДС, что служит основанием для зачета НДС при возврате участнику вклада.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210956/dfasuedc1c/" data-dfa="dfasuedc1c"></a><a data-anchor="/document/16/210956/bssPhr55/"></a>Передача денежных средств участником в качества вклада в простое товарищество, а также возврат вклада денежными средствами не рассматривается как объект налогообложения.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210956/dfasotoxfb/" data-dfa="dfasotoxfb"></a></p></div><div class="incut-v4__icon"></div></div></div><p><a data-anchor="/document/16/210956/dfas2754nf/" data-dfa="dfas2754nf"></a><a data-anchor="/document/16/210956/bssPhr56/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/210956/dfasg7l6gc/" data-dfa="dfasg7l6gc"></a><a data-anchor="/document/16/210956/bssPhr57/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

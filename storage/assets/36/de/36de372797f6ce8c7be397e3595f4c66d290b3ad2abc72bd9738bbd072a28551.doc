@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Знакомство с Поиском</h2><div class="doc-snippet"><a data-anchor="/document/16/218261/dfaslkxluf/" data-dfa="dfaslkxluf"></a><a data-anchor="/document/16/218261/bssPhr2/"></a>Новость </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/218261/bssPhr3/"></a><a data-anchor="/document/16/218261/dfasi36on1/" data-dfa="dfasi36on1"></a>После <span data-warm-notices="39685861" data-warm-notice-type="error" num="1" lnktype="intlnk" title="" class="doc">изучения</span> и базового использования Системы Главбух для более тщательного поиска нужных вам документов вы можете воспользоваться нашим Поиском.</p><p><a data-anchor="/document/16/218261/dfasitfw8t/" data-dfa="dfasitfw8t"></a><a data-anchor="/document/16/218261/bssPhr4/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16380409" sourceId="1" width="610" height="290.08152173913044" src="https://1gb.uz/system/content/image/297/1/-16380409/"></p><p><a data-anchor="/document/16/218261/bssPhr5/"></a><a data-anchor="/document/16/218261/dfas3m5c1s/" data-dfa="dfas3m5c1s"></a>Чтобы воспользоваться Поиском достаточно в поисковой строке написать тему или вопрос. К примеру: «Основные средства».</p><p><a data-anchor="/document/16/218261/dfasq9vhdz/" data-dfa="dfasq9vhdz"></a><a data-anchor="/document/16/218261/bssPhr6/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16380411" sourceId="1" width="610" height="290.08152173913044" src="https://1gb.uz/system/content/image/297/1/-16380411/"></p><p><a data-anchor="/document/16/218261/bssPhr7/"></a><a data-anchor="/document/16/218261/dfasdqth72/" data-dfa="dfasdqth72"></a>Обратите внимание, что при выдаче результатов, предложены формы из раздела «Шаблоны», подходящие по тематике запроса.</p><p><a data-anchor="/document/16/218261/bssPhr8/"></a><a data-anchor="/document/16/218261/dfasvk1c57/" data-dfa="dfasvk1c57"></a>Совет: для более точного поиска по типу документов используйте поиск в нужном разделе.</p><p><a data-anchor="/document/16/218261/bssPhr9/"></a><a data-anchor="/document/16/218261/dfascowp7h/" data-dfa="dfascowp7h"></a>К примеру, при поиске в разделе «Правовая база» помимо поисковой строки вы можете использовать дополнительные поисковые возможности «по реквизитам» таким как:</p><ul class="c-list"><li><a data-anchor="/document/16/218261/bssPhr10/"></a><a data-anchor="/document/16/218261/dfasvkmxo9/" data-dfa="dfasvkmxo9"></a>номер документа;</li><li>дата его принятия (есть возможность выбора в промежутках актуальности);</li><li>вид документа, к примеру: постановление, закон;</li><li>орган, принявший данный документ.</li></ul><p><a data-anchor="/document/16/218261/dfash6y2ka/" data-dfa="dfash6y2ka"></a><a data-anchor="/document/16/218261/bssPhr11/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16380413" sourceId="1" width="610" height="290.08152173913044" src="https://1gb.uz/system/content/image/297/1/-16380413/"></p><p><a data-anchor="/document/16/218261/bssPhr12/"></a><a data-anchor="/document/16/218261/dfasrbqgco/" data-dfa="dfasrbqgco"></a>После выполнения запроса вы можете также отфильтровать полученные результаты, как по «Запросу», так и по «Актуальности», используя переключатели слева от поля полученных результатов.</p><p><a data-anchor="/document/16/218261/dfashauzbs/" data-dfa="dfashauzbs"></a><a data-anchor="/document/16/218261/bssPhr13/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16380415" sourceId="1" width="610" height="290.08152173913044" src="https://1gb.uz/system/content/image/297/1/-16380415/"></p><p><a data-anchor="/document/16/218261/bssPhr14/"></a><a data-anchor="/document/16/218261/dfas39nbay/" data-dfa="dfas39nbay"></a>Если вы через поиск не получили нужный вам результат, можете обратиться с вашим вопросом к нашим экспертам напрямую, используя функцию «Написать эксперту» в правом нижнем углу системы.</p><p><a data-anchor="/document/16/218261/dfasshc8fx/" data-dfa="dfasshc8fx"></a><a data-anchor="/document/16/218261/bssPhr15/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-16380417" sourceId="1" width="610" height="290.08152173913044" src="https://1gb.uz/system/content/image/297/1/-16380417/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

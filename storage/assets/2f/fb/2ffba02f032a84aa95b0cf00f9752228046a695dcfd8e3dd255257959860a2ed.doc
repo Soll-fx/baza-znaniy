@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Постановление Президента РУз от 26.11.2018 № ПП-4030</div><h2 class="auth__title">О мерах по созданию условий для осуществления деятельности по старательской добыче драгоценных металлов</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/18776/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/18776/dfas49t2gf/"></a><strong>ПРЕЗИДЕНТА РЕСПУБЛИКИ УЗБЕКИСТАН</strong></p><p style="text-align:center"><a data-anchor="/document/90/18776/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/18776/dfas3vzkkh/"></a><strong>ПОСТАНОВЛЕНИЕ</strong></p><p style="text-align:center"><a data-anchor="/document/90/18776/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/18776/dfasgit1h2/"></a><strong>О мерах по созданию условий для осуществления деятельности по старательской добыче драгоценных металлов</strong></p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/18776/dfaslu1fgq/"></a>В стране уделяется особое внимание повышению благосостояния населения путем создания новых рабочих мест и благоприятных условий для развития частного предпринимательства.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/18776/dfas4z6o3e/"></a>Несмотря на принимаемые меры, в отдельных регионах страны наблюдается усиление социальной напряженности и ухудшение криминогенной ситуации, связанной, в том числе с продолжающейся несанкционированной добычей драгоценных металлов.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/18776/dfas0r8tgf/"></a>Основной причиной этого является отсутствие возможности легально заниматься непромышленной добычей драгоценных металлов на участках недр, которые в количественном и качественном отношении не являются объектами промышленной разработки.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/18776/dfas4uwsg9/"></a>Несанкционированная добыча драгоценных металлов приобрела системный характер на территориях Навоийской, Самаркандской и Бухарской областей, что приводит к теневому обороту драгоценных металлов и их нелегальному вывозу за рубеж. Имеют место получение телесных повреждений и смертельные случаи при нелегальной добыче золота.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/18776/dfasgab42s/"></a>В целях создания условий для развития старательства как вида предпринимательства по добыче драгоценных металлов, обеспечения занятости населения, эффективного освоения участков недр, а также увеличения выпуска золота и ювелирной продукции:</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/18776/dfaseogocn/"></a>1. Согласиться с предложениями Генеральной прокуратуры, Министерства экономики, Министерства финансов, Государственного комитета по геологии и минеральным ресурсам, Государственного комитета Республики Узбекистан по экологии и охране окружающей среды, ГИ &#171;Саноатгеоконтехназорат&#187; о введении с 1 марта 2019 года деятельности по старательской добыче драгоценных металлов на основе предпринимательского риска.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/18776/dfasaboprh/"></a>2. Установить порядок, в соответствии с которым:</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/18776/dfasxmnkgo/"></a>деятельность по старательской добыче драгоценных металлов является отдельным видом пользования недрами и осуществляется на участках недр;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/18776/dfaso1p56y/"></a>для осуществления деятельности по старательской добыче драгоценных металлов предоставляются участки недр, в том числе россыпные месторождения золота размерами до 5 гектаров;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/18776/dfas3ar4ui/"></a>для осуществления деятельности по старательской добыче драгоценных металлов выдается разрешение на право пользования участками недр, при этом общая площадь участков недр, предоставляемых на одного соискателя в течение одного года на основе разрешения, не должна превышать 20 гектаров;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/18776/dfasxwuwh8/"></a>на разрешения на право пользования участками недр для осуществления деятельности по старательской добыче драгоценных металлов могут претендовать исключительно резиденты Республики Узбекистан, в частности, физические лица, являющиеся гражданами Республики Узбекистан, имеющие статус индивидуального предпринимателя, и юридические лица, в уставном капитале (фонде) которых доля физического лица, являющегося гражданином Республики Узбекистан, составляет 70 и более процентов;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/18776/dfas60oosg/"></a>70 процентов работников юридического лица, претендующего на получение разрешения на право пользования участками недр для осуществления деятельности по старательской добыче драгоценных металлов, должны быть гражданами Республики Узбекистан;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/18776/dfas34p8qe/"></a>разрешение на право пользования участками недр для осуществления деятельности по старательской добыче драгоценных металлов выдается Государственным комитетом Республики Узбекистан по геологии и минеральным ресурсам сроком на 3 года по итогам электронного аукциона на электронной торговой платформе &#171;E-AUKSION&#187; в установленном порядке через информационную систему &#171;Лицензия&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/18776/dfasc84gve/"></a>стартовая цена выставления на торги права пользования участками недр для осуществления деятельности по старательской добыче драгоценных металлов на каждый гектар устанавливается в 35-кратном размере базовой расчетной величины, установленной на территории Республики Узбекистан. При этом стартовая цена неполного гектара определяется путем умножения цены, установленной за 1 гектар, на размер земельного участка;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/18776/dfas0vfega/"></a>перечень участков недр, на которых разрешается осуществление деятельности по старательской добыче драгоценных металлов, ежегодно утверждается Государственным комитетом Республики Узбекистан по геологии и минеральным ресурсам;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/18776/dfasicay9l/"></a>не допускается передача (уступка) разрешения или права пользования участком недр (полностью или частично) третьим лицам, а также выдача разрешения на право пользования одним участком недр нескольким лицам;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/18776/dfasnccnch/"></a>ведение реестра лиц, осуществляющих деятельность по старательской добыче драгоценных металлов, а также государственный контроль выделенных им участков недр обеспечивается Государственным комитетом Республики Узбекистан по геологии и минеральным ресурсам;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/18776/dfascr13g0/"></a>реализация драгоценного металла, добытого путем старательской добычи, осуществляется по договорной цене юридическим лицам, имеющим лицензии на право осуществления деятельности аффинажа, в том числе акционерным обществам &#171;Алмалыкский горно-металлургический комбинат&#187; и &#171;Навоийский горно-металлургический комбинат&#187;, а также юридическим лицам и индивидуальным предпринимателям, имеющим право на производство ювелирных и других изделий из драгоценного металла и драгоценных камней;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/18776/dfash94fl2/"></a>сокрытие добытого драгоценного металла, в том числе его нереализация в течение 6 месяцев, а также нарушение требований по безопасному ведению работ при старательской добыче драгоценных металлов, повлекшее нанесение тяжких телесных повреждений или смерть людей, являются основанием для аннулирования разрешения и запрета на занятие данной деятельностью в течение одного года;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/18776/dfas356s8b/"></a>после прекращения права пользования участками недр, предоставленных для осуществления деятельности по старательской добыче драгоценных металлов, на недропользователей возлагается обязанность по рекультивации участков недр и приведению их в состояние, пригодное для дальнейшего использования.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/18776/dfasr2hbe1/"></a>Установить, что требования, предусмотренные в абзацах четвертом, пятом и шестом настоящего пункта, применяются в отношении разрешений на право осуществления деятельности по старательской добыче драгоценных металлов, выдаваемых начиная с 1 мая 2021 года.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/18776/dfas1iiq25/"></a>3. Определить, что денежные средства от реализации права пользования участками недр для осуществления деятельности по старательской добыче драгоценных металлов на электронной торговой платформе &#171;E-AUKSION&#187; и суммы удержанного задатка, за вычетом сумм оплаты за услуги организации аукциона, зачисляются в равных долях на специальные казначейские счета:</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/18776/dfas3t8p6g/"></a>соответствующих местных бюджетов районов (городов), на территориях которых осуществляется деятельность по старательской добыче драгоценных металлов, в качестве их дополнительных источников;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/18776/dfaswm619n/"></a>Государственного комитета Республики Узбекистан по геологии и минеральным ресурсам с целевым направлением на реализацию ежегодных государственных программ развития и воспроизводства минерально-сырьевой базы на территории Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/18776/dfas13qqsy/"></a>4. Освободить лиц, осуществляющих деятельность по старательской добыче драгоценных металлов с соблюдением условий, предусмотренных настоящим постановлением, от уплаты всех видов налогов и других обязательных платежей (за исключением единого социального платежа) в части осуществления деятельности по старательской добыче драгоценных металлов.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/18776/dfasby4w7v/"></a>5. Кабинету Министров в месячный срок внести в Законодательную палату Олий Мажлиса Республики Узбекистан проект закона о внесении изменений и дополнений в законодательство о недрах, предусматривающий порядок регулирования деятельности по старательской добыче драгоценных металлов.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/18776/dfaslrfo02/"></a>6. Государственному комитету по геологии и минеральным ресурсам совместно с ГИ &#171;Саноатгеоконтехназорат&#187;, Государственным комитетом по экологии и охране окружающей среды, Министерством финансов, Государственным налоговым комитетом и другими заинтересованными ведомствами в срок до 1 февраля 2019 года внести на утверждение в Кабинет Министров Республики Узбекистан:</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/18776/dfasq6gu5f/"></a>а) Положение о порядке осуществления деятельности по старательской добыче драгоценных металлов (далее &#8212; Положение), предусматривающее в том числе:</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/18776/dfaspfmkeg/"></a>порядок выдачи лицензий на право пользование участками недр, в том числе регламент проведения электронного аукциона на электронной торговой площадке &#171;E-IJRO AUKSION&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/18776/dfasceu8bm/"></a>условия пользования участками недр, в том числе разрешенные способы и средства старательской добычи драгоценных металлов, а также требования к используемому оборудованию и технике;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/18776/dfas6l6p3e/"></a>порядок ценообразования, приобретения, учета, хранения и реализации драгоценных металлов, добытых путем старательской добычи;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/18776/dfasggxwhp/"></a>требования по соблюдению правил и норм ведения работ, а также ответственность недропользователей за нарушение законодательства;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/18776/dfasmqxgck/"></a>механизм рекультивации отработанных земель и их возврата в резервный фонд органов государственной власти на местах;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/18776/dfasg60mbp/"></a>б) Перечень участков недр, предоставляемых для старательской добычи драгоценных металлов (далее &#8212; Перечень), с указанием их достоверных, точных контуров и границ.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/18776/dfas19itot/"></a>7. Рекомендовать АО &#171;Алмалыкский горно-металлургический комбинат&#187; и ГП &#171;Навоийский горно-металлургический комбинат&#187; в срок до 1 марта 2019 года открыть в регионах страны специализированные приемные кассы и установить прозрачный механизм скупки драгоценных металлов, добытых путем старательской добычи.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/18776/dfas7fckik/"></a>8. Органам государственной власти и управления оказывать всестороннее содействие лицам, осуществляющим деятельность по старательской добыче драгоценных металлов, в том числе путем дачи методических, практических и юридических консультаций.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/18776/dfasy2fhyf/"></a>9. Генеральной прокуратуре совместно с Министерством внутренних дел, Министерством по чрезвычайным ситуациям, Государственным комитетом Республики Узбекистан по геологии и минеральным ресурсам, хокимиятами соответствующих областей в трехмесячный срок утвердить совместные меры по предупреждению фактов несанкционированной добычи драгоценных металлов.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/18776/dfaszomuzx/"></a>10. Государственному комитету Республики Узбекистан по геологии и минеральным ресурсам:</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/18776/dfas3g6vnq/"></a>обеспечить свободный доступ к Положению и Перечню путем их размещения на своем официальном сайте в сети Интернет с последующим систематическим обновлением;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/18776/dfasi0pnu9/"></a>совместно с Государственным комитетом Республики Узбекистан по экологии и охране окружающей среды установить строгий контроль за соблюдением норм и правил проведения работ по старательской добыче драгоценных металлов, а также требований природоохранного законодательства в установленном порядке;</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/18776/dfasaig8ro/"></a>совместно с Министерством юстиции и другими заинтересованными ведомствами в двухмесячный срок внести в Кабинет Министров Республики Узбекистан предложения об изменениях и дополнениях в законодательство, вытекающих из настоящего постановления.</p><p style="text-align:left"><a data-anchor="/document/90/18776/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/18776/dfas3sxa9i/"></a>11. Контроль за исполнением настоящего постановления возложить на Премьер-министра Республики Узбекистан А.Н. Арипова, руководителя Администрации Президента Республики Узбекистан З.Ш. Низомиддинова, Генерального прокурора Республики Узбекистан О.Б. Муродова и первого заместителя советника Президента Республики Узбекистан Б.М. Мавлонова.</p><p style="text-align:right"><a data-anchor="/document/90/18776/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/18776/dfaskvpgh7/"></a><strong>Президент Республики Узбекистан Ш. МИРЗИЁЕВ</strong></p><p style="text-align:center"><a data-anchor="/document/90/18776/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/18776/dfas21t7a9/"></a>г. Ташкент,<br>26 ноября 2018 г.,<br>№ ПП-4030</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

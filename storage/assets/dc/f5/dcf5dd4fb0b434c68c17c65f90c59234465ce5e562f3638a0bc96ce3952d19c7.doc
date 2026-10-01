@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как составить Отчет о движении денежных средств по МСФО</h2><div class="doc-snippet"><a data-anchor="/document/16/206375/dfasnr0yye/" data-dfa="dfasnr0yye"></a><a data-anchor="/document/16/206375/bssPhr2/"></a>В рекомендации найдете ответы на вопросы: в каком порядке формировать отчет о движении денежных средств, как МСФО классифицируют денежные потоки и какие методы использовать при составлении отчета о движении денежных потоков по операционной деятельности компании. В качестве примера эксперты привели <span num="21" target="_self" lnktype="intlnk" title="" class="doc">отчет о движении денежных средств</span> компании, составленный прямым методом. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206375/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206375/bssPhr7/"></a><a data-anchor="/document/16/206375/dfasg9td92/" data-dfa="dfasg9td92"></a>Порядок формирования отчета о движении денежных средств</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206375/bssPhr9/"></a><a data-anchor="/document/16/206375/dfasbp65px/" data-dfa="dfasbp65px"></a>Порядок формирования отчета о движении денежных средств регулирует МСФО 7 «Отчет о движении денежных средств». Отчет о движении денежных средств предназначен для представления информации о поступлениях и выплатах денежных средств, произведенных компанией в отчетном периоде. Эта информация позволяет внешним пользователям оценить существующие и потенциальные возможности компании в части генерирования денежных средств и понять проблемы ликвидности компании.</p><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr10/"></a><a data-anchor="/document/16/206375/dfas5cfkxc/" data-dfa="dfas5cfkxc"></a>Этот отчет помогает оценить, располагает ли компания свободными денежными средствами и не склонна ли она в ближайшем будущем к банкротству. Зачастую отсутствие свободных денежных средств становится причиной банкротства компаний.</p><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr11/"></a><a data-anchor="/document/16/206375/dfasgumwg4/" data-dfa="dfasgumwg4"></a>Отчет о движении денежных средств в увязке с другими формами финансовой отчетности позволяет внешним пользователям оценить эффективность управления денежными потоками, понять динамику изменения чистых активов компании.</p><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr12/"></a><a data-anchor="/document/16/206375/dfas8692xg/" data-dfa="dfas8692xg"></a>В МСФО 7 используется понятие «Потоки денежных средств». Потоки – движение денежных средств включают приток – положительный поток и отток – отрицательный поток денежных средств и их эквивалентов. Информация о чистом денежном потоке важна при проведении анализа для принятия управленческих решений. Чистый денежный поток представляет собой нетто-результат движения положительных и отрицательных денежных потоков в процессе производственно-финансовой деятельности компании. В случае превышения поступления денежных средств над их выбытием чистый денежный поток будет положительным, в противном случае – отрицательным.</p></div><a data-anchor="/document/16/206375/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206375/bssPhr13/"></a><a data-anchor="/document/16/206375/dfascfaa12/" data-dfa="dfascfaa12"></a>Классификация денежных потоков по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206375/bssPhr15/"></a><a data-anchor="/document/16/206375/dfasfkricm/" data-dfa="dfasfkricm"></a>Потоки денежных средств в соответствии с МСФО 7 классифицируют, учитывают и отражают в финансовой отчетности по различным направлениям деятельности компании:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206375/bssPhr16/"></a><a data-anchor="/document/16/206375/dfasrxgrlv/" data-dfa="dfasrxgrlv"></a>операционной;</li><li style="text-align:left">инвестиционной;</li><li style="text-align:left">финансовой.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr17/"></a><a data-anchor="/document/16/206375/dfasxsil85/" data-dfa="dfasxsil85"></a>Операционная деятельность – деятельность, для которой создана компания и которая приносит основной доход.</p><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr18/"></a><a data-anchor="/document/16/206375/dfas4wekfv/" data-dfa="dfas4wekfv"></a>Примеры денежных потоков от операционной деятельности:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206375/bssPhr19/"></a><a data-anchor="/document/16/206375/dfash3ivse/" data-dfa="dfash3ivse"></a>поступления от продаж товаров и предоставления услуг;</li><li style="text-align:left">поступления от аренды, гонорары, комиссионные и другие доходы;</li><li style="text-align:left">платежи поставщикам за товары и услуги;</li><li style="text-align:left">выплаты работникам;</li><li style="text-align:left">выплаты или компенсации налога на прибыль, если только они не увязаны с финансовой или инвестиционной деятельностью и др.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr20/"></a><a data-anchor="/document/16/206375/dfas991ewt/" data-dfa="dfas991ewt"></a>Инвестиционная деятельность – деятельность, связанная с приобретением и выбытием долгосрочных активов и финансовых вложений, не относящихся к денежным эквивалентам.</p><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr21/"></a><a data-anchor="/document/16/206375/dfasg5qus9/" data-dfa="dfasg5qus9"></a>Примеры денежных потоков от инвестиционной деятельности:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206375/bssPhr22/"></a><a data-anchor="/document/16/206375/dfas1nzesf/" data-dfa="dfas1nzesf"></a>платежи для приобретения основных средств, нематериальных и других долгосрочных активов;</li><li style="text-align:left">поступления от продажи указанного вида активов;</li><li style="text-align:left">платежи для приобретения долевых или долговых инструментов других компаний и долей участия в совместных компаниях;</li><li style="text-align:left">денежные поступления от продаж указанного вида активов;</li><li style="text-align:left">платежи и кредиты, предоставленные другим сторонам для нефинансовых компаний.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr23/"></a><a data-anchor="/document/16/206375/dfas75lux8/" data-dfa="dfas75lux8"></a>Финансовая деятельность – деятельность, результаты которой приводят к изменениям в размере и составе собственного капитала и заемных средств компании.</p><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr24/"></a><a data-anchor="/document/16/206375/dfaslgg566/" data-dfa="dfaslgg566"></a>Примеры денежных потоков от финансовой деятельности:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206375/bssPhr25/"></a><a data-anchor="/document/16/206375/dfaswnyt5n/" data-dfa="dfaswnyt5n"></a>поступления от эмиссии акций или других долевых инструментов;</li><li style="text-align:left">выплаты владельцам для приобретения или погашения акций компании;</li><li style="text-align:left">поступления от выпуска облигаций, займов, векселей, закладных и других краткосрочных и долгосрочных кредитов;</li><li style="text-align:left">погашения сумм кредитов и займов, не имеющих целевого характера и др.</li></ul></div><a data-anchor="/document/16/206375/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206375/bssPhr26/"></a><a data-anchor="/document/16/206375/dfasqh0xs7/" data-dfa="dfasqh0xs7"></a>Методы составления отчета о движении денежных потоков по операционной деятельности компании</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206375/bssPhr28/"></a><a data-anchor="/document/16/206375/dfashiqt8r/" data-dfa="dfashiqt8r"></a>Отчет о движении денежных потоков по операционной деятельности компании по МСФО 7 можно составить одним из двух методов:</p><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr29/"></a><a data-anchor="/document/16/206375/dfasg5fado/" data-dfa="dfasg5fado"></a>Прямой метод предполагает определять сумму чистого денежного потока сравнением данных о поступлениях и выплатах денежных средств в связи с проведением операционной деятельности. Полученный результат корректируют на процентные платежи и расходы по налогу на прибыль. Данный метод предпочтителен.</p><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr30/"></a><a data-anchor="/document/16/206375/dfas83fgoo/" data-dfa="dfas83fgoo"></a>Косвенный метод раскрывает информацию о движении денежных средств от операционной деятельности путем корректировки чистой прибыли или убытка на суммы амортизационных отчислений, изменений в запасах, дебиторской и кредиторской задолженности, поступлений от реализации собственных акций, облигаций, полученных и выплаченных дивидендов и т.п.</p><p style="text-align:left"><a data-anchor="/document/16/206375/bssPhr31/"></a><a data-anchor="/document/16/206375/dfasg5zywg/" data-dfa="dfasg5zywg"></a>В качестве примера приведен <span num="4" lnktype="intlnk" title="" class="doc">отчет о движении денежных средств</span> компании, составленный прямым методом.</p></div><p><a data-anchor="/document/16/206375/dfas1uhg5q/" data-dfa="dfas1uhg5q"></a><a data-anchor="/document/16/206375/bssPhr32/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

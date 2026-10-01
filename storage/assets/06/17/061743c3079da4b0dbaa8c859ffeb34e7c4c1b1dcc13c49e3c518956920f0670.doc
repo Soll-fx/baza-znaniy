@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">HR в кризис: рядом, даже если далеко</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/205566/bssPhr1/"></a><a data-anchor="/document/16/205566/dfas60qo36/" data-dfa="dfas60qo36"></a>На время пандемии коронавируса многие компании вынуждены были перейти на удаленку. Всем ли удалось грамотно построить работу? Не снизилась ли эффективность работы сотрудников? Как их мотивировать и получить максимальный результат? Об этом на вебинаре в рамках экстренного онлайн-марафона рассказала директор по работе с персоналом ИП Balton Trading Asia, основатель школы по управлению персоналом Smart HR Екатерина Аганджанова.</p><a data-anchor="/document/16/205566/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205566/bssPhr2/"></a><a data-anchor="/document/16/205566/dfasl01def/" data-dfa="dfasl01def"></a><strong>Как оставаться эффективным, работая удаленно</strong></h2><p><a data-anchor="/document/16/205566/bssPhr3/"></a><a data-anchor="/document/16/205566/dfaswsnmen/" data-dfa="dfaswsnmen"></a>По мнению эксперта, для эффективности в режиме самоизоляции нужны:</p><p><a data-anchor="/document/16/205566/bssPhr4/"></a><a data-anchor="/document/16/205566/dfasm92e5c/" data-dfa="dfasm92e5c"></a>– быстрая адаптация и настройка;<br>  – постановка задач и удаленный контроль команды.</p><p><a data-anchor="/document/16/205566/bssPhr5/"></a><a data-anchor="/document/16/205566/dfas767gtb/" data-dfa="dfas767gtb"></a>Эксперт советует начинать работу с создания антикризисного комитета, настроя сотрудников на универсальность, упрощения бизнес-процессов и усиления коммуникации на всех уровнях компании.</p><p><a data-anchor="/document/16/205566/bssPhr6/"></a><a data-anchor="/document/16/205566/dfaso9geop/" data-dfa="dfaso9geop"></a>Как настроить работу команды? Эксперт рекомендует установить правила: от организации рабочего места – до сохранения полезных контактов, которым должны следовать все.</p><p><a data-anchor="/document/16/205566/bssPhr7/"></a><a data-anchor="/document/16/205566/dfaskk1bhv/" data-dfa="dfaskk1bhv"></a>Одна из задач в организации инфраструктуры– настройка:</p><p><a data-anchor="/document/16/205566/bssPhr8/"></a><a data-anchor="/document/16/205566/dfasxqp294/" data-dfa="dfasxqp294"></a>–каналов коммуникации;<br>  –хранения данных;<br>  –сети и нужных доступов.</p><p><a data-anchor="/document/16/205566/bssPhr9/"></a><a data-anchor="/document/16/205566/dfastm8nk3/" data-dfa="dfastm8nk3"></a>Постановка задач и их контроль подразумевает актуализацию задач под антикризисный план, заморозку неактуальных проектов и т.д. Каждая компания должна в этом случае исходить из специфики своей работы.</p><a data-anchor="/document/16/205566/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205566/bssPhr10/"></a><a data-anchor="/document/16/205566/dfasoo42o8/" data-dfa="dfasoo42o8"></a><strong>Как выйти из кризиса с новым опытом и бизнес-идеями</strong></h2><p><a data-anchor="/document/16/205566/bssPhr11/"></a><a data-anchor="/document/16/205566/dfasrssi64/" data-dfa="dfasrssi64"></a>Здесь вам помогут 6 советов нашего спикера для руководителей:</p><p><a data-anchor="/document/16/205566/bssPhr12/"></a><a data-anchor="/document/16/205566/dfas6a1go1/" data-dfa="dfas6a1go1"></a>1. Мотивируйте сотрудников.<br>  2. Повышайте эффективность работы команды.<br>  3. Постоянно контактируйте с людьми.<br>  4. Постоянно поддерживайте обратную связь.<br>  5. Оперативно корректируйте план действий.<br>  6. Не скупитесь на похвалу и признание.</p><a data-anchor="/document/16/205566/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205566/bssPhr13/"></a><a data-anchor="/document/16/205566/dfasf8tuks/" data-dfa="dfasf8tuks"></a><strong>Во время онлайн-семинара эксперт ответил на вопросы слушателей</strong></h2><p><a data-anchor="/document/16/205566/bssPhr14/"></a><a data-anchor="/document/16/205566/dfasr4m00x/" data-dfa="dfasr4m00x"></a><strong>Вопрос:</strong>Как наладить работу в такой ситуации: я – заведующий отделом кадров работаю в другом регионе в головном офисе. Главный бухгалтер и юрист работают в Ташкенте – в настоящее время на удаленке. Приказы в связи с этим зависают во времени. Как наладить систему, не нарушив закон?</p><p><a data-anchor="/document/16/205566/bssPhr15/"></a><a data-anchor="/document/16/205566/dfas6g03rb/" data-dfa="dfas6g03rb"></a><strong>Ответ:</strong>Сократите бюрократию, закрепленную в политике вашего предприятия, но по которой нет требований в законодательстве. Сделать это можно путем электронного документооборота. Позаботьтесь о том, чтобы на документах была подпись, например, генеральногодиректора и печать компании.А подписи других участников договоров или приказов могут быть отсканированы и отправлены.</p><a data-anchor="/document/16/205566/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205566/bssPhr16/"></a><a data-anchor="/document/16/205566/dfas7484qn/" data-dfa="dfas7484qn"></a><strong>Еще по этой теме читайте в Системе Главбух</strong></h2><p><a data-anchor="/document/16/205566/bssPhr17/"></a><a data-anchor="/document/16/205566/dfasx1ddri/" data-dfa="dfasx1ddri"></a><a data-anchor="/document/16/205566/backlinkanchor2/" type="backlink-anchor"></a><a href="#/document/16/205477" title="" moduleId="16" documentId="205477" class="link ">Как наладить удаленный документооборот</a></p><p><a data-anchor="/document/16/205566/bssPhr18/"></a><a data-anchor="/document/16/205566/dfas9qc0cc/" data-dfa="dfas9qc0cc"></a><a data-anchor="/document/16/205566/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/16/205433" title="" data-warm-notices="26013082,26080452,26147625,26214845,26282506,26349721,26417154,26484628,26552367,26619576,26686832,26754322,26821778,26889180,26956708,27024333,27091548,27158764,27226276,27293652,27361087,27428424,27495886,27563158,27630360,27697844,27765415,27833173,27900537,27967823,28035023,28102186,28169708,28237113,28304432,28371548,28438785,28505942,28573081,28640579,28707905,28775348,28842575,28909737,28976820,29043904,29111199,29178436,29245636,29313017,29380215,29447304,29514369,29581587,29649239,29716266,29783337,29850390,29917428,29984497,30051617,30118850,30186020,30253242,30320340,30387441,30454512,30521652,30588868,30656030,30723211,30790411,30857470,30924550,30991803,31058983,31126218,31193686,31261108,31328228,31395288,31462940,31530253,31597493,31664748,31732000,31799124,31866242,31931155,31994647,32057981,32121377,32185115,32248310,32311497,32374747,32438313,32501652,32564963,32628284,32691465,32754633,32817930,32881251,32944525,33007872,33071111,33134205,33197291,33260475,33323700,33387286,33450709,33516578,33583914,33651156,33718599,33785874,33853369,33920609,33987785,34054953,34122103,34189540,34256757,34324020,34391271,34458500,34525614,34592864,34660255,34727512,34794736,34861989,34929126,34996374,35063575,35130833,35198176,35265494,35332550,35399612,35466926,35534185,35601370,35668575,35735826,35802941,35870075,35937262,36004443,36071800,36139051,36206164,36273258,36340576,36407815,36474968,36542162,36609383,36676507,36743590,36810765,36877915,36945056,36964434,36975877,36987239,36998602,37010063,37021494,37032872,37044320,37055650,37066960,37078279,37089677,37101132,37112811,37124443,37136018,37147538,37159040,37170617,37182191,37193685,37205163,37217439,37228845,37240242,37251688,37263128,37274408,37285741,37297214,37308397,37319709,37331216,37342666,37353996,37365459,37376547,37387675,37399070,37410109,37421528,37432537,37443839,37455352,37466328,37477568,37488788,37499952,37510938,37522179,37533192,37544231,37555210,37566373,37577450,37588352,37599675,37610650,37621607,37632657,37643836,37654623,37665871,37676940,37687802,37698605,37709667,37720647,37731364,37742530,37753557,37764280,37775175,37786044,37796931,37807816,37818736,37829713,37840795,37851604,37862461,37873414,37884577,37895521,37906505,37917476,37928239,37939155,37950063,37961122,37972202,37983194,37994163,38005049,38015907,38026882,38038054,38049070,38060286,38071381,38082402,38093421,38105039,38116282,38127410,38138486,38150161,38161258,38172405,38183609,38194845,38206400,38217852,38228945,38239924,38251054,38262258,38273307,38284527,38295682,38306975,38318042,38329095,38340312,38351403,38362584,38373970,38385141,38396309,38407378,38418597,38429776,38440952,38452227,38463521,38474523,38485581,38497178,38508390,38519658,38528175,38539237,38550292,38561336,38572473,38583594,38594734,38605932,38617003,38628107,38639195,38650404,38661504,38672623,38683695,38694737,38705710,38716778,38728213,38739434,38750608,38761745,38772998,38784135,38795212,38806527,38817807,38828964,38840187,38851313,38862389,38873473,38884678,38896037,38907120,38918269,38929360,38940502,38951583,38962743,38973812,38985141,38996334,39007334,39018495,39029783,39040962,39052178,39063915,39075136,39086281,39098308,39109694,39120998,39132348,39143660,39154951,39166153,39177586,39188816,39200830,39212960,39224950,39237071,39249224,39261368,39273390,39285377,39297391,39310794,39323587,39335754,39347788,39359831,39371963,39384114,39396301,39408602,39420706,39432937,39445188,39457302,39469402,39481507,39493504,39505643,39517651,39527800,39537678,39547526,39557403,39567226,39577012,39587033,39605605,39616224,39626926,39636375,39645788,39655219,39664653,39674273,39683700,39693077,39702391,39712078,39721461,39730978,39740423,39749877,39759278,39768727,39778164,39787605,39797037,39806556,39815956,39825380,39834804,39844245,39853663,39863077,39872459,39882053,39891684,39901243,39910863,39920600,39930091,39939684,39949549,39959232,39968732,39978207,39987872,39997403,40006908,40016384,40025882,40035348,40044790,40054281,40064306,40073837,40083302,40092855,40102290,40111967,40121636,40131376,40140961,40150487,40159974,40169307,40179043,40188540,40198070,40207538,40217008,40226505,40236436,40246081,40255738,40265294,40274986,40284569,40294087,40303641,40313205,40322687,40332218,40341774,40351506,40361242,40370945,40380825,40390895,40402759,40412997,40423565,40434244,40445351,40458071,40468238,40478581,40488822,40499049,40509191,40519665,40530057,40540312,40550529,40560754,40570884,40581138,40591309,40601493,40611714,40621868,40631996,40642153,40652258,40662427,40672649,40682741,40692725,40702843,40712941,40722904,40732888,40742900,40752932,40763116,40773301,40783476,40793598,40803627,40813476" data-warm-notice-type="error" moduleId="16" documentId="205433" class="link ">Что делать работодателю в период карантина</a></p><p><a data-anchor="/document/16/205566/bssPhr19/"></a><a data-anchor="/document/16/205566/dfasz49l7w/" data-dfa="dfasz49l7w"></a><a data-anchor="/document/16/205566/backlinkanchor4/" type="backlink-anchor"></a><a href="#/document/16/205434" title="" moduleId="16" documentId="205434" class="link ">Форс мажор из-за коронавируса. Что делать при невозможности исполнения договорных обязательств</a></p><p><a data-anchor="/document/16/205566/bssPhr20/"></a><a data-anchor="/document/16/205566/dfasddkocl/" data-dfa="dfasddkocl"></a><strong>Вам понадобится</strong></p><p><a data-anchor="/document/16/205566/bssPhr21/"></a><a data-anchor="/document/16/205566/dfasfswvi1/" data-dfa="dfasfswvi1"></a><a data-anchor="/document/16/205566/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/118/201865" title="" moduleId="118" documentId="201865" class="link ">Приказ об установлении удаленного режима работы</a></p><p><a data-anchor="/document/16/205566/dfaswvytug/" data-dfa="dfaswvytug"></a><a data-anchor="/document/16/205566/bssPhr22/"></a><strong>Подробная информация по теме</strong> - <a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-pdf" href="https://1gb.uz/system/content/attachment/1/16/-88367/">в презентации спикера</a></p><p><a data-anchor="/document/16/205566/bssPhr23/"></a><a data-anchor="/document/16/205566/dfasbrqgw1/" data-dfa="dfasbrqgw1"></a><strong>Запись вебинара смотрите здесь</strong></p><div class="iframe"><iframe width="734" height="413" src="https://www.youtube.com/embed/GAcJWMEp3JU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

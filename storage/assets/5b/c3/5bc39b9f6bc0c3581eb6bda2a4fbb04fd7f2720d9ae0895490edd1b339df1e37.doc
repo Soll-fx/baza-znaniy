@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Все проводки по дивидендам</h2><div class="doc-snippet"><a data-anchor="/document/16/210751/dfasgu129h/" data-dfa="dfasgu129h"></a><a data-anchor="/document/16/210751/bssPhr2/"></a>Собрали все проводки по дивидендам в одном месте. </div><div id="documentBody" class="content-common"><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210751/bssPhr4/"></a><a data-anchor="/document/16/210751/dfas1yzggi/" data-dfa="dfas1yzggi"></a>В бухучете расчеты по выплате дивидендов отражайте на отдельном <span num="9" lnktype="intlnk" title="" class="doc">счете 6610</span> «Дивиденды к оплате» (НСБУ № 21).</p><p><a data-anchor="/document/16/210751/bssPhr5/"></a><a data-anchor="/document/16/210751/dfasfrsuso/" data-dfa="dfasfrsuso"></a>На дату, когда общее собрание акционеров, участников приняло решение о распределении прибыли и выплате дивидендов , отразите их в качестве текущих обязательств.</p><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr6/"></a><a data-anchor="/document/16/210751/dfas4edguk/" data-dfa="dfas4edguk"></a><span num="10" target="_self" lnktype="intlnk" title="" class="doc"><strong>Посмотреть пример</strong></span></p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210751/bssPhr8/"></a><a data-anchor="/document/16/210751/dfasi8si4r/" data-dfa="dfasi8si4r"></a>Если дивиденды выплачивают деньгами, то в бухучете сделайте проводку:</p><p><a data-anchor="/document/16/210751/bssPhr9/"></a><a data-anchor="/document/16/210751/dfasp0yo29/" data-dfa="dfasp0yo29"></a><strong>Дебет 6610 Кредит 5110, 5010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr10/"></a><a data-anchor="/document/16/210751/dfaslzlwrn/" data-dfa="dfaslzlwrn"></a>выплачены дивиденды в денежной форме.</li></ul><p><a data-anchor="/document/16/210751/bssPhr11/"></a><a data-anchor="/document/16/210751/dfasppwfz1/" data-dfa="dfasppwfz1"></a>Когда в счет выплаты дивидендов передают имущество, то порядок бухучета зависит от вида этих активов. Если общим собранием участников, акционеров принято решение о выплате дивидендов товарно-материальными ценностями: ОС, НМА, готовой продукцией и др., то эти операции отражайте в учете как реализацию с учетом налоговых обязательств, аналогичным операциям реализации.</p><p><a data-anchor="/document/16/210751/bssPhr12/"></a><a data-anchor="/document/16/210751/dfasr8kgzt/" data-dfa="dfasr8kgzt"></a>Бухгалтерские проводки по начислению и выплате дивидендов:</p><p><a data-anchor="/document/16/210751/bssPhr13/"></a><a data-anchor="/document/16/210751/dfas2teu97/" data-dfa="dfas2teu97"></a><strong>Акционерным обществом</strong>:</p><div align="left"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="height:0px; vertical-align:middle"><p><a data-anchor="/document/16/210751/bssPhr14/"></a><a data-anchor="/document/16/210751/dfaspq34vf/" data-dfa="dfaspq34vf"></a>&nbsp;</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr15/"></a><a data-anchor="/document/16/210751/dfasv6uq2u/" data-dfa="dfasv6uq2u"></a><strong>Дебет</strong></p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr16/"></a><a data-anchor="/document/16/210751/dfasp0g3kg/" data-dfa="dfasp0g3kg"></a><strong>Кредит</strong></p></td></tr><tr><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr17/"></a><a data-anchor="/document/16/210751/dfashgg6cg/" data-dfa="dfashgg6cg"></a>Начислены дивиденды</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr18/"></a><a data-anchor="/document/16/210751/dfastg309a/" data-dfa="dfastg309a"></a>8710, 8720, 8520</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr19/"></a><a data-anchor="/document/16/210751/dfasuzz4y7/" data-dfa="dfasuzz4y7"></a>6610</p></td></tr><tr><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr20/"></a><a data-anchor="/document/16/210751/dfasav4pld/" data-dfa="dfasav4pld"></a>Удержан налога с дохода в виде дивидендов</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr21/"></a><a data-anchor="/document/16/210751/dfaseb1pn6/" data-dfa="dfaseb1pn6"></a>6610</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr22/"></a><a data-anchor="/document/16/210751/dfas9vxh7n/" data-dfa="dfas9vxh7n"></a>6410</p></td></tr><tr><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr23/"></a><a data-anchor="/document/16/210751/dfasmdq417/" data-dfa="dfasmdq417"></a>Оплачен налог с дохода в виде дивидендов</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr24/"></a><a data-anchor="/document/16/210751/dfasqray7u/" data-dfa="dfasqray7u"></a>6410</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr25/"></a><a data-anchor="/document/16/210751/dfas71piuu/" data-dfa="dfas71piuu"></a>5110</p></td></tr><tr><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr26/"></a><a data-anchor="/document/16/210751/dfasd682cb/" data-dfa="dfasd682cb"></a>Выплачены дивиденды денежными средствами</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr27/"></a><a data-anchor="/document/16/210751/dfas130fl5/" data-dfa="dfas130fl5"></a>6610</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr28/"></a><a data-anchor="/document/16/210751/dfas4c58tf/" data-dfa="dfas4c58tf"></a>5010, 5110</p></td></tr><tr><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr29/"></a><a data-anchor="/document/16/210751/dfasuzb5t8/" data-dfa="dfasuzb5t8"></a>Выплачены дивиденды акциями</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr30/"></a><a data-anchor="/document/16/210751/dfaslagsgo/" data-dfa="dfaslagsgo"></a>6610</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr31/"></a><a data-anchor="/document/16/210751/dfashtso2o/" data-dfa="dfashtso2o"></a>8310, 8320</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210751/bssPhr32/"></a><a data-anchor="/document/16/210751/dfasiddg6d/" data-dfa="dfasiddg6d"></a><strong>Обществом с ограниченной ответственностью:</strong></p><div align="left"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="height:0px; vertical-align:middle"><p><a data-anchor="/document/16/210751/bssPhr33/"></a><a data-anchor="/document/16/210751/dfasm79d22/" data-dfa="dfasm79d22"></a>&nbsp;</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr34/"></a><a data-anchor="/document/16/210751/dfasgtbl40/" data-dfa="dfasgtbl40"></a><strong>Дебет</strong></p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr35/"></a><a data-anchor="/document/16/210751/dfas8eqb5c/" data-dfa="dfas8eqb5c"></a><strong>Кредит</strong></p></td></tr><tr><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr36/"></a><a data-anchor="/document/16/210751/dfastvwy9s/" data-dfa="dfastvwy9s"></a>Начислены дивиденды</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr37/"></a><a data-anchor="/document/16/210751/dfas2ganal/" data-dfa="dfas2ganal"></a>8710, 8720, 8520</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr38/"></a><a data-anchor="/document/16/210751/dfas6qulnz/" data-dfa="dfas6qulnz"></a>6610</p></td></tr><tr><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr39/"></a><a data-anchor="/document/16/210751/dfas7l5blu/" data-dfa="dfas7l5blu"></a>Удержан налог с дивидендов</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr40/"></a><a data-anchor="/document/16/210751/dfas05pb0y/" data-dfa="dfas05pb0y"></a>6610</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr41/"></a><a data-anchor="/document/16/210751/dfasg96etz/" data-dfa="dfasg96etz"></a>6410</p></td></tr><tr><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr42/"></a><a data-anchor="/document/16/210751/dfasuh2tsn/" data-dfa="dfasuh2tsn"></a>Оплачен налог с дивидендов</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr43/"></a><a data-anchor="/document/16/210751/dfasx2ym9b/" data-dfa="dfasx2ym9b"></a>6410</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr44/"></a><a data-anchor="/document/16/210751/dfasgekyyg/" data-dfa="dfasgekyyg"></a>5110</p></td></tr><tr><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr45/"></a><a data-anchor="/document/16/210751/dfas8vynus/" data-dfa="dfas8vynus"></a>Выплачены дивиденды денежными средствами</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr46/"></a><a data-anchor="/document/16/210751/dfas7mxrmp/" data-dfa="dfas7mxrmp"></a>6610</p></td><td style="height:0px; vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr47/"></a><a data-anchor="/document/16/210751/dfasbhb80n/" data-dfa="dfasbhb80n"></a>5010, 5110</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210751/bssPhr48/"></a><a data-anchor="/document/16/210751/dfasaoby4b/" data-dfa="dfasaoby4b"></a>В аналогичном порядке отражайте в бухучете начисление и выплату дивидендов в частных и семейных предприятиях.</p><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr49/"></a><a data-anchor="/document/16/210751/dfasiiokyl/" data-dfa="dfasiiokyl"></a><span num="19" target="_self" lnktype="intlnk" title="" class="doc"><strong>Посмотреть пример</strong></span></p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210751/bssPhr51/"></a><a data-anchor="/document/16/210751/dfasi1f1zo/" data-dfa="dfasi1f1zo"></a>В бухучете полученные дивиденды учитывают на счете <strong>4840 «Дивиденды к получению» </strong>(п. 209 Инструкции к плану счетов).</p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr52/"></a><a data-anchor="/document/16/210751/dfasrmoll1/" data-dfa="dfasrmoll1"></a>Проводки в бухучете будут такие:</p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr53/"></a><a data-anchor="/document/16/210751/dfasbrs498/" data-dfa="dfasbrs498"></a>На дату принятия решения о выплате дивидендов</p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr54/"></a><a data-anchor="/document/16/210751/dfast2svyb/" data-dfa="dfast2svyb"></a><strong>Дебет 4840 Кредит 9520 «Доходы в виде дивидендов»</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr55/"></a><a data-anchor="/document/16/210751/dfasnp1i92/" data-dfa="dfasnp1i92"></a>отражена вся начисленная сумма дивидендов, причитающаяся к получению.</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr56/"></a><a data-anchor="/document/16/210751/dfas0wi6er/" data-dfa="dfas0wi6er"></a><strong>Дебет 9810 Кредит 6410</strong></p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr57/"></a><a data-anchor="/document/16/210751/dfask081ip/" data-dfa="dfask081ip"></a><strong>Дебет 6410 Кредит 4840</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr58/"></a><a data-anchor="/document/16/210751/dfasd3g775/" data-dfa="dfasd3g775"></a>отражено удержание налога у источника выплаты.</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr59/"></a><a data-anchor="/document/16/210751/dfas9lhxyy/" data-dfa="dfas9lhxyy"></a>На дату получения денег, если дивиденды выплачивают деньгами.</p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr60/"></a><a data-anchor="/document/16/210751/dfaskkk1y2/" data-dfa="dfaskkk1y2"></a><strong>Дебет 5110 Кредит 4840</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr61/"></a><a data-anchor="/document/16/210751/dfas6gwhza/" data-dfa="dfas6gwhza"></a>получены дивиденды за минусом налога, удержанного у источника выплаты.</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr62/"></a><a data-anchor="/document/16/210751/dfasnow6zy/" data-dfa="dfasnow6zy"></a>На дату получения имущества, если дивиденды выплачивают имуществом.</p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr63/"></a><a data-anchor="/document/16/210751/dfasvdlham/" data-dfa="dfasvdlham"></a><strong>Дебет 1000, 0100, 0400, 2900 и др. Кредит 4840</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr64/"></a><a data-anchor="/document/16/210751/dfasp0z7pf/" data-dfa="dfasp0z7pf"></a>получено имущество в счет выплаты дивидендов за минусом налога, удержанного у источника выплаты.</li></ul><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr65/"></a><a data-anchor="/document/16/210751/dfas9wpoyg/" data-dfa="dfas9wpoyg"></a><strong><span num="20" target="_self" lnktype="intlnk" title="" class="doc">Посмотреть пример</span></strong></p><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr66/"></a><a data-anchor="/document/16/210751/dfash7fudg/" data-dfa="dfash7fudg"></a><span num="21" target="_self" lnktype="intlnk" title="" class="doc"><strong>Посмотреть пример</strong></span></p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/210751/bssPhr68/"></a><a data-anchor="/document/16/210751/dfasl8gscp/" data-dfa="dfasl8gscp"></a>В бухгалтерском учете будут следующие проводки:</p><div class="scroller__container"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td rowspan="2" style="vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr69/"></a><a data-anchor="/document/16/210751/dfasaoyz61/" data-dfa="dfasaoyz61"></a><strong>Название операции</strong></p></td><td colspan="2" style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr70/"></a><a data-anchor="/document/16/210751/dfasalsgeq/" data-dfa="dfasalsgeq"></a><strong>Корреспонденция счетов</strong></p></td></tr><tr><td style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr71/"></a><a data-anchor="/document/16/210751/dfasxx23n4/" data-dfa="dfasxx23n4"></a><strong>Дебет</strong></p></td><td style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr72/"></a><a data-anchor="/document/16/210751/dfasu1v11b/" data-dfa="dfasu1v11b"></a><strong>Кредит</strong></p></td></tr><tr><td style="vertical-align:bottom"><p><a data-anchor="/document/16/210751/bssPhr73/"></a><a data-anchor="/document/16/210751/dfas203hlz/" data-dfa="dfas203hlz"></a>Начисленные дивиденды учредителю</p></td><td style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr74/"></a><a data-anchor="/document/16/210751/dfash6q2rd/" data-dfa="dfash6q2rd"></a>8710</p></td><td style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr75/"></a><a data-anchor="/document/16/210751/dfass9ev5l/" data-dfa="dfass9ev5l"></a>6610</p></td></tr><tr><td style="vertical-align:bottom"><p><a data-anchor="/document/16/210751/bssPhr76/"></a><a data-anchor="/document/16/210751/dfas770651/" data-dfa="dfas770651"></a>Начислен налог на дивиденды учредителя</p></td><td style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr77/"></a><a data-anchor="/document/16/210751/dfasceagtg/" data-dfa="dfasceagtg"></a>6610</p></td><td style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr78/"></a><a data-anchor="/document/16/210751/dfas8hgrto/" data-dfa="dfas8hgrto"></a>6410</p></td></tr><tr><td style="vertical-align:bottom"><p><a data-anchor="/document/16/210751/bssPhr79/"></a><a data-anchor="/document/16/210751/dfassdq6k4/" data-dfa="dfassdq6k4"></a>Оплата налога на дивиденды в бюджет</p></td><td style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr80/"></a><a data-anchor="/document/16/210751/dfasmt0kax/" data-dfa="dfasmt0kax"></a>6410</p></td><td style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr81/"></a><a data-anchor="/document/16/210751/dfasvlkbsa/" data-dfa="dfasvlkbsa"></a>5110</p></td></tr><tr><td style="vertical-align:bottom"><p><a data-anchor="/document/16/210751/bssPhr82/"></a><a data-anchor="/document/16/210751/dfasxly0bn/" data-dfa="dfasxly0bn"></a>Оплата дивидендов учредителю товарами</p></td><td style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr83/"></a><a data-anchor="/document/16/210751/dfaso8gpdg/" data-dfa="dfaso8gpdg"></a>6610</p></td><td style="vertical-align:bottom"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr84/"></a><a data-anchor="/document/16/210751/dfas0flgyu/" data-dfa="dfas0flgyu"></a>9020</p></td></tr><tr><td style="vertical-align:bottom"><p><a data-anchor="/document/16/210751/bssPhr85/"></a><a data-anchor="/document/16/210751/dfas3ungqe/" data-dfa="dfas3ungqe"></a>Списана себестоимость товаров, передаваемых в качестве дивидендов учредителю</p></td><td style="vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr86/"></a><a data-anchor="/document/16/210751/dfasw7h71k/" data-dfa="dfasw7h71k"></a>9120</p></td><td style="vertical-align:middle"><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr87/"></a><a data-anchor="/document/16/210751/dfasg6a166/" data-dfa="dfasg6a166"></a>2920</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr89/"></a><a data-anchor="/document/16/210751/dfashotu2r/" data-dfa="dfashotu2r"></a>Дивиденды, начисленные предприятию, отражайте на счете <strong>4840 «Дивиденды к получению»</strong>. Данный счет используйте при условии, что получение прибыли от вкладов в уставные капиталы (дивиденды по акциям) не основной вид деятельности предприятия.</p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr90/"></a><a data-anchor="/document/16/210751/dfasabbnll/" data-dfa="dfasabbnll"></a>В бухучете полученные дивиденды отразите проводками:</p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr91/"></a><a data-anchor="/document/16/210751/dfasbbcrsl/" data-dfa="dfasbbcrsl"></a><strong>Дебет 4840 Кредит 9520</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr92/"></a><a data-anchor="/document/16/210751/dfasfk4acy/" data-dfa="dfasfk4acy"></a>объявление дивидендов к получению (вся начисленная сумма). Основание – протокол собрания учредителей;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr93/"></a><a data-anchor="/document/16/210751/dfas6z0b2d/" data-dfa="dfas6z0b2d"></a><strong>Дебет 9810 Кредит 6400</strong></p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr94/"></a><a data-anchor="/document/16/210751/dfasdo8fot/" data-dfa="dfasdo8fot"></a><strong>Дебет 6400 Кредит 4840</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr95/"></a><a data-anchor="/document/16/210751/dfasglw5h9/" data-dfa="dfasglw5h9"></a>удержание налога источником выплаты;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr96/"></a><a data-anchor="/document/16/210751/dfasr79sgx/" data-dfa="dfasr79sgx"></a><strong>Дебет 5110 Кредит 4840</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr97/"></a><a data-anchor="/document/16/210751/dfasfe05kk/" data-dfa="dfasfe05kk"></a>поступление дивидендов денежными средствами. Отражается сумма за вычетом налога.</li><li>Если дивиденды предприятию выплачивает нерезидент РУз, то обязательство по удержанию налога с дивидендов возлагается на предприятие (ч. 2 ст. 343 НК).</li></ul></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr99/"></a><a data-anchor="/document/16/210751/dfaslxda55/" data-dfa="dfaslxda55"></a>Выбытие ОС при выплате в счет дивидендов отразите проводками:</p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr100/"></a><a data-anchor="/document/16/210751/dfas66nw8v/" data-dfa="dfas66nw8v"></a><strong>Дебет 8710 Кредит 6610</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr101/"></a><a data-anchor="/document/16/210751/dfas8lxaqf/" data-dfa="dfas8lxaqf"></a>начислены дивиденды учредителям;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr102/"></a><a data-anchor="/document/16/210751/dfasfaohru/" data-dfa="dfasfaohru"></a><strong>Дебет 6610 Кредит 6400</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr103/"></a><a data-anchor="/document/16/210751/dfashu4s7z/" data-dfa="dfashu4s7z"></a>начислен налог на дивиденды;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr104/"></a><a data-anchor="/document/16/210751/dfash75au5/" data-dfa="dfash75au5"></a><strong>Дебет 6400 Кредит 5110</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr105/"></a><a data-anchor="/document/16/210751/dfascuazxg/" data-dfa="dfascuazxg"></a>уплачен налог на дивиденды;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr106/"></a><a data-anchor="/document/16/210751/dfasx9t97m/" data-dfa="dfasx9t97m"></a><strong>Дебет 6610 Кредит 9210</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr107/"></a><a data-anchor="/document/16/210751/dfaszvudac/" data-dfa="dfaszvudac"></a>передано ОС в счет дивидендов;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr108/"></a><a data-anchor="/document/16/210751/dfas4ubcs5/" data-dfa="dfas4ubcs5"></a><strong>Дебет 9210 Кредит 0100</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr109/"></a><a data-anchor="/document/16/210751/dfasb3na3z/" data-dfa="dfasb3na3z"></a>списана первоначальная (восстановительная) стоимость, выбывающего ОС;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr110/"></a><a data-anchor="/document/16/210751/dfasqramdb/" data-dfa="dfasqramdb"></a><strong>Дебет 0200 Кредит 9210</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr111/"></a><a data-anchor="/document/16/210751/dfasxsixvk/" data-dfa="dfasxsixvk"></a>списан начисленный износ по выбывающему ОС;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr112/"></a><a data-anchor="/document/16/210751/dfasmszkza/" data-dfa="dfasmszkza"></a><strong>Дебет 8510 Кредит 9210</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr113/"></a><a data-anchor="/document/16/210751/dfasvz3axb/" data-dfa="dfasvz3axb"></a>списано сальдо переоценки (дооценка) выбывающего ОС;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr114/"></a><a data-anchor="/document/16/210751/dfasx2qmyb/" data-dfa="dfasx2qmyb"></a><strong>Дебет 9210 Кредит 6410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr115/"></a><a data-anchor="/document/16/210751/dfasy89zg2/" data-dfa="dfasy89zg2"></a>начислен НДС – у плательщиков.</li></ul></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr117/"></a><a data-anchor="/document/16/210751/dfas8pprws/" data-dfa="dfas8pprws"></a>В бухучете чистую прибыль, полученную по итогам отчетного периода, отражайте по кредиту счета <strong>8710 </strong><strong>«Нераспределенная прибыль (непокрытый убыток) отчетного периода».</strong></p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr118/"></a><a data-anchor="/document/16/210751/dfas479am1/" data-dfa="dfas479am1"></a>Сумму чистой прибыли в конце отчетного периода списывайте заключительной проводкой в кредит, а сумму убытка – в дебет счета <strong>8710 </strong>в корреспонденции со счетом <strong>9910 </strong><strong>«Конечный финансовый результат»</strong>:<br><strong>Дебет 9910 Кредит 8710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr119/"></a><a data-anchor="/document/16/210751/dfasvfm19a/" data-dfa="dfasvfm19a"></a>конечный финансовый результат отчетного периода на сумму прибыли;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr120/"></a><a data-anchor="/document/16/210751/dfasnzhr68/" data-dfa="dfasnzhr68"></a><strong>Дебет 8710 Кредит 9910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr121/"></a><a data-anchor="/document/16/210751/dfas7af3gm/" data-dfa="dfas7af3gm"></a>конечный финансовый результат отчетного периода на сумму убытка.</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr122/"></a><a data-anchor="/document/16/210751/dfaslpzktg/" data-dfa="dfaslpzktg"></a>При направлении нераспределенной прибыли на формирование резервного капитала делайте запись:</p><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr123/"></a><a data-anchor="/document/16/210751/dfaseux7g7/" data-dfa="dfaseux7g7"></a><strong>Дебет 8710 Кредит 8520 «Резервный капитал (фонд)»</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr124/"></a><a data-anchor="/document/16/210751/dfasanxmvq/" data-dfa="dfasanxmvq"></a>чистая прибыль направлена на формирование резервного фонда по нормативам, утвержденным законодательством, уставом.</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr125/"></a><a data-anchor="/document/16/210751/dfas9gq2ve/" data-dfa="dfas9gq2ve"></a>Начисление дивидендов, как годовых, так и промежуточных, отражайте проводкой:<br><strong>Дебет 8710 Кредит 6610 «</strong><strong>Дивиденды к оплате»</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr126/"></a><a data-anchor="/document/16/210751/dfasrn82lg/" data-dfa="dfasrn82lg"></a>начислены дивиденды учредителю.</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr127/"></a><a data-anchor="/document/16/210751/dfasxb5z97/" data-dfa="dfasxb5z97"></a>При направлении части прибыли на увеличение уставного капитала, делайте запись:<br><strong>Дебет 8710 Кредит 6610</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr128/"></a><a data-anchor="/document/16/210751/dfasym5b7f/" data-dfa="dfasym5b7f"></a>часть прибыли, направленная на увеличение уставного капитала в размере начисленных дивидендов;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr129/"></a><a data-anchor="/document/16/210751/dfasav46ge/" data-dfa="dfasav46ge"></a><strong>Дебет 6610 Кредит 8310-8330</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr130/"></a><a data-anchor="/document/16/210751/dfasacfcwy/" data-dfa="dfasacfcwy"></a>увеличение уставного капитала за счет начисленных дивидендов.</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr131/"></a><a data-anchor="/document/16/210751/dfas13abvr/" data-dfa="dfas13abvr"></a>Сумму нераспределенной прибыли отчетного периода после распределения со счета <strong>8710 </strong>зачисляйте на счет <strong>8720 «Накопленная прибыль (непокрытый убыток)»</strong>:<br><strong>Дебет 8710 Кредит 8720</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr132/"></a><a data-anchor="/document/16/210751/dfas2a4bgx/" data-dfa="dfas2a4bgx"></a>зачисление остатка нераспределенной прибыли на накопленную прибыль, в случае прибыли;</li></ul><p style="text-align:start"><a data-anchor="/document/16/210751/bssPhr133/"></a><a data-anchor="/document/16/210751/dfaswufrys/" data-dfa="dfaswufrys"></a><strong>Дебет 8720 Кредит 8710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210751/bssPhr134/"></a><a data-anchor="/document/16/210751/dfasvgckmi/" data-dfa="dfasvgckmi"></a>зачисление остатка нераспределенной прибыли на накопленную прибыль, в случае убытка.</li></ul><p style="text-align:center"><a data-anchor="/document/16/210751/bssPhr135/"></a><a data-anchor="/document/16/210751/dfasnhdkur/" data-dfa="dfasnhdkur"></a><span num="22" target="_self" lnktype="intlnk" title="" class="doc"><strong>Посмотреть пример</strong></span></p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

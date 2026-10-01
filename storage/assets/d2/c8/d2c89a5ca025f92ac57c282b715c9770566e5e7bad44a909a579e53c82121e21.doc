@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Указ Президента РУз от 19.06.2020 № УП-6011</div><h2 class="auth__title">Об отмене отдельных налоговых и таможенных льгот</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/10440/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/10440/dfasg1bora/"></a>Указ</p><p style="text-align:center"><a data-anchor="/document/90/10440/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/10440/dfas2whttc/"></a>Президента Республики Узбекистан</p><p style="text-align:center"><a data-anchor="/document/90/10440/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/10440/dfasgeuvax/"></a><strong>Об отмене отдельных налоговых и таможенных льгот</strong></p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/10440/dfasvl0634/"></a>В соответствии с Налоговым кодексом Республики Узбекистан и Указом Президента Республики Узбекистан от 27 июня 2019 года № УП-5755 &#171;О мерах по дальнейшему упорядочению предоставления налоговых и таможенных льгот&#187;:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/10440/dfas0vefrr/"></a>1. Установить, что:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/10440/dfasy4npui/"></a>льготы, предусмотренные актами налогового законодательства по налогам, не распространяются на социальный налог, если в них прямо не указано освобождение от данного налога;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/10440/dfas02n0bv/"></a>льготы по налогу на добавленную стоимость по приобретаемым работам (услугам) от юридических лиц-нерезидентов Республики Узбекистан, не распространяются на работы (услуги), предоставляемые юридическими лицами-нерезидентами, осуществляющими деятельность в Республике Узбекистан через постоянные учреждения.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/10440/dfasgim2w5/"></a>2. Внести изменения и дополнения в некоторые акты Президента Республики Узбекистан и Правительства Республики Узбекистан согласно приложению № 1.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/10440/dfas0vfcz1/"></a>3. Признать утратившими силу некоторые акты Президента Республики Узбекистан согласно приложению № 2.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/10440/dfasilcl9u/"></a>4. Определить, что:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/10440/dfasav1otm/"></a>настоящий Указ вступает в силу с 1 октября 2020 года;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/10440/dfas8mf2qt/"></a>пункты 1, 6, 7 и 10 приложения № 2 к настоящему Указу вводятся в действие с 1 января 2021 года;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/10440/dfashglcbq/"></a>пункт 4 приложения № 1 к настоящему Указу вводится в действие с 1 января 2022 года.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/10440/dfasg55wik/"></a>5. Контроль за исполнением настоящего Указа возложить на Премьер-министра Республики Узбекистан А.Н. Арипова.</p><p style="text-align:right"><a data-anchor="/document/90/10440/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/10440/dfas8eo0vq/"></a><strong>Президент Республики Узбекистан Ш. МИРЗИЁЕВ</strong></p><p style="text-align:center"><a data-anchor="/document/90/10440/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/10440/dfas877rts/"></a>г. Ташкент,<br>19 июня 2020 г.,<br>№ УП-6011</p><div class="doc__untyped doc-start" data-type="untyped" data-level="5"><a data-role="toc" data-anchor="/document/90/10440/tit1/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/10440/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/10440/dfase7cmxy/"></a>ПРИЛОЖЕНИЕ № 1<br>к Указу Президента Республики Узбекистан от 19 июня 2020 года № УП-6011</span></div><p style="text-align:center"><a data-anchor="/document/90/10440/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/10440/dfas8rfwle/"></a><strong>Изменения и дополнения, вносимые в некоторые акты Президента Республики Узбекистан и Правительства Республики Узбекистан </strong></p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/10440/dfasux9cgz/"></a>1. В Указе Президента Республики Узбекистан от 28 апреля 2000 года № УП-2598 &#171;О мерах по привлечению прямых иностранных инвестиций в разведку и добычу нефти и газа&#187;:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/10440/dfasxguhb6/"></a>пункт 4 изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/10440/dfasbk2x1s/"></a>&#171;4. Освободить иностранные компании, осуществляющие поисковые и разведочные работы на нефть и газ, а также привлекаемые ими иностранные подрядные и субподрядные организации от уплаты:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/10440/dfasrg3nhs/"></a>налога на прибыль (за исключением полученных процентов от размещенных в коммерческих банках средств), налога на имущество с юридических лиц, земельного налога с юридических лиц, налога за пользование водными ресурсами, на период проведения геологоразведочных работ;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/10440/dfasnzgl7n/"></a>таможенных платежей (кроме налога на добавленную стоимость и сборов за таможенное оформление) при импорте оборудования, материально-технических ресурсов и услуг, необходимых для проведения поисковых, разведочных и других сопутствующих работ&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/10440/dfasao0osz/"></a>пункты 5 и 7 признать утратившими силу.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/10440/dfasy0y5wo/"></a>2. В Указе Президента Республики Узбекистан от 11 апреля 2005 года № УП-3594 &#171;О дополнительных мерах по стимулированию привлечения прямых частных иностранных инвестиций&#187;:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/10440/dfas26enfp/"></a>пункты 1 и 2 изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/10440/dfas8gsgiv/"></a>&#171;1. Предприятиям, созданным с привлечением прямых иностранных инвестиций и специализирующимся на производстве продукции (оказании услуг) в отраслях экономики по перечню согласно приложению, предусматриваются особенности применения льгот по отдельным налогам в порядке, установленном Налоговым кодексом Республики Узбекистан, при объеме прямых частных иностранных инвестиций:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/10440/dfasa8f26l/"></a>от 300 тыс. долларов США до 3 млн долларов США &#8212; сроком на 3 года;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/10440/dfas5k909f/"></a>свыше 3 млн долларов США до 10 млн долларов США &#8212; сроком на 5 лет;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/10440/dfasvtzcrc/"></a>свыше 10 млн долларов США &#8212; сроком на 7 лет.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/10440/dfas26rqlv/"></a>2. Установить, что льготы по отдельным налогам, установленные Налоговым кодексом Республики Узбекистан, указанные в пункте 1 настоящего Указа, применяются при размещении указанных предприятий во всех городах и сельских населенных пунктах республики, за исключением г. Ташкента и Ташкентской области. Данное территориальное ограничение не распространяется на предприятия, осуществляющие деятельность в сфере туризма и обращения с отходами&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/10440/dfasglocy5/"></a>пункты 4, 6, 7 и 8 признать утратившими силу.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/10440/dfas2gqq6a/"></a>3. В Указе Президента Республики Узбекистан от 26 октября 2016 года № УП-4853 &#171;О дополнительных мерах по активизации и расширению деятельности свободных экономических зон&#187;:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/10440/dfasbe5u2t/"></a>пункт 3 изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/10440/dfass3r3go/"></a>&#171;3. Участникам специальных экономических зон предусматриваются особенности применения льгот по отдельным налогам, а также таможенным платежам в порядке, установленном Налоговым кодексом Республики Узбекистан и Законом Республики Узбекистан &#171;О специальных экономических зонах&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/10440/dfas0nw1cd/"></a>абзац пятый пункта 4 изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/10440/dfasme75to/"></a>&#171;от 10 млн долларов США и выше &#8212; сроком на 10 лет&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/10440/dfasggb3td/"></a>пункт 5 признать утратившим силу.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/10440/dfas1b12ex/"></a>4. Пункт 10 Указа Президента Республики Узбекистан от 5 июня 2017 года № УП-5068 &#171;О создании инновационного технопарка в Яшнабадском районе города Ташкента&#187; изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/10440/dfasw04wsk/"></a>&#171;10. Освободить дирекцию и резидентов технопарка &#171;Яшнабад&#187; по реализуемым инновационным проектам на весь период функционирования технопарка &#171;Яшнабад&#187; от уплаты:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/10440/dfasy7less/"></a>земельного налога и налога на имущество с юридических лиц;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/10440/dfasnkfhpc/"></a>таможенных платежей (кроме налога на добавленную стоимость и таможенных сборов) за оборудование, сырье, материалы, реактивы, комплектующие изделия и строительные материалы, не производимые в Республике Узбекистан, завозимые для собственных производственных нужд в рамках реализации инновационных проектов, по перечням, утверждаемым в установленном порядке&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/10440/dfastfg18n/"></a>5. В Указе Президента Республики Узбекистан от 14 декабря 2017 года № УП-5285 &#171;О мерах по ускоренному развитию текстильной и швейно-трикотажной промышленности&#187;:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/10440/dfas8ww86g/"></a>а) в пункте 9:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/10440/dfasszxvng/"></a>из абзаца первого слова &#171;&#8212; члены Ассоциации &#171;Узтекстильпром&#187; исключить;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/10440/dfasbcdq9m/"></a>абзац второй после слова &#171;кроме&#187; дополнить словами &#171;налога на добавленную стоимость и&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/10440/dfas06zkhy/"></a>б) пункт 10 признать утратившим силу.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/10440/dfasva9fha/"></a>6. Подпункта &#171;в&#187; пункта 8 Указа Президента Республики Узбекистан от 3 февраля 2018 года № УП-5326 &#171;О дополнительных организационных мерах по созданию благоприятных условий для развития туристского потенциала Республики Узбекистан&#187; изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/10440/dfass6ggv8/"></a>&#171;в) субъекты предпринимательской деятельности сроком до 1 января 2022 года &#8212; от уплаты таможенных платежей (кроме налога на добавленную стоимость и сборов за таможенное оформление) за ввозимые на территорию Республики Узбекистан:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/10440/dfas53fyyt/"></a>транспортные средства, с момента выпуска которых прошло не более 5 лет, используемые для перевозки пассажиров и имеющие кроме места водителя восемь и более восьми мест для сидения;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/10440/dfasgzq2z1/"></a>оборудование, механизмы и запасные части для строительства, реконструкции и оснащения канатных дорог, горнолыжных подъемников, фуникулеров и других аналогичных объектов и сооружений, а также аэростаты (воздушные шары), моторные лодки и квадроциклы по перечням, утверждаемым в установленном порядке&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/10440/dfash91cmh/"></a>7. В Указе Президента Республики Узбекистан от 15 мая 2019 года № УП-5719 &#171;О мерах по определению Навоийской области свободной экономической зоной для инновационных, высокотехнологичных, экспортоориентированных и импортозамещающих производств&#187;:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/10440/dfasnp7vwy/"></a>а) пункт 7 изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/10440/dfasdnzi6e/"></a>&#171;7. Предприятиям в Навоийской области, получившим статус участника СЭЗ &#171;Навои&#187;, предусматриваются особенности применения льгот по отдельным налогам, а также таможенным платежам в порядке, установленном Налоговым кодексом Республики Узбекистан и Законом Республики Узбекистан &#171;О специальных экономических зонах&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/10440/dfas3wvguq/"></a>б) в пункте 8:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/10440/dfasa92vpn/"></a>абзац пятый подпункта &#171;а&#187; изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/10440/dfasp77hwy/"></a>&#171;от 10 млн долларов США и выше &#8212; сроком на 10 лет&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/10440/dfasi03gs7/"></a>подпункт &#171;в&#187; признать утратившим силу;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/10440/dfas7ubbhq/"></a>в) пункт 10 признать утратившим силу.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/10440/dfas7y91lc/"></a>8. Абзац шестой пункта 8 постановления Президента Республики Узбекистан от 21 февраля 2008 года № ПП-800 &#171;О создании предприятия с иностранными инвестициями &#171;Дженерал Моторс Узбекистан&#187; исключить.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/10440/dfaszu5imx/"></a>9. Пункт 9 постановления Президента Республики Узбекистан от 15 июля 2008 года № ПП-916 &#171;О дополнительных мерах по стимулированию внедрения инновационных проектов и технологий в производство&#187; изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/10440/dfas04h8eg/"></a>&#171;9. Освободить от таможенных платежей (за исключением налога на добавленную стоимость и сборов за таможенное оформление) оборудование, ввозимое для переоснащения и дооснащения научно-исследовательских учреждений и организаций в рамках проводимой модернизации по перечням, утверждаемым в установленном порядке&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/10440/dfask7mbxz/"></a>10. В постановлении Президента Республики Узбекистан от 26 марта 2012 года № ПП-1731 &#171;О дополнительных мерах по усилению стимулирования предприятий-экспортеров и расширению экспортных поставок конкурентоспособной продукции&#187;:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/10440/dfasfcq9hz/"></a>пункты 1 и 7, а также приложение признать утратившими силу;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/10440/dfasqou4x9/"></a>абзац четвертый пункта 5 изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/10440/dfas1gnm5q/"></a>&#171;Установить, что указанные в настоящем пункте контракты приравниваются к экспортным контрактам с вводом данных в Единую электронную информационную систему внешнеторговых операций&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/10440/dfasggzlus/"></a>11. Пункт 9 постановления Президента Республики Узбекистан от 29 декабря 2015 года № ПП-2460 &#171;О мерах по дальнейшему реформированию и развитию сельского хозяйства на период 2016 &#8212; 2020 годы&#187; изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/10440/dfasfcqri6/"></a>&#171;9. Освободить на период до 1 января 2021 года от уплаты:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/10440/dfas0bo385/"></a>налога на прибыль (за исключением полученных процентов от размещенных в коммерческих банках средств), налога на имущество, земельного налога и налога за пользование водными ресурсами субъектов племенного животноводства по основному виду деятельности;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/10440/dfasi118sn/"></a>таможенных платежей (кроме налога на добавленную стоимость и сборов за таможенное оформление) Республиканское объединение &#171;Уззооветтаъминотхизмат&#187;, субъектов племенного животноводства, птицеводческие и рыбоводческие хозяйства, хозяйствующие субъекты по производству комбинированных кормов, кормовых добавок, ветеринарных вакцин и препаратов при ввозе племенного материала, технологического и вспомогательного оборудования, компонентов для производства комбикормов и кормовых добавок, а также фермерские хозяйства и другие организации при ввозе подвоев, саженцев и оборудования для капельного орошения по перечням, утверждаемым в установленном порядке&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/10440/dfasv3aw9d/"></a>12. Пункт 13 постановления Президента Республики Узбекистан от 13 февраля 2017 года № ПП-2772 &#171;О мерах по дальнейшему совершенствованию управления, ускоренному развитию и диверсификации электротехнической промышленности на 2017 &#8212; 2021 гг.&#187; изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/10440/dfas40btdv/"></a>&#171;13. Освободить на срок до 1 января 2022 года от таможенных платежей (за исключением налога на добавленную стоимость и сборов за таможенное оформление) оборудование, материалы и комплектующие изделия, не производимые в республике, завозимые в рамках реализации проектов, включенных в Программу мер по дальнейшему развитию и диверсификации электротехнической промышленности на 2017 &#8212; 2021 гг., по перечням, утверждаемым в установленном порядке&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/10440/dfasgqo3gr/"></a>13. В постановлении Президента Республики Узбекистан от 14 февраля 2017 года № ПП-2776 &#171;Об организации деятельности Государственного комитета Республики Узбекистан по автомобильным дорогам и Республиканского дорожного фонда при Кабинете Министров Республики Узбекистан&#187;:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/10440/dfas86eqxo/"></a>абзац третий пункта 6 изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/10440/dfas8lidtn/"></a>&#171;таможенных платежей (кроме налога на добавленную стоимость и сборов за таможенное оформление) за оборудование, сырье и материалы, запасные части и комплектующие изделия и узлы, ввозимые для строительства, реконструкции, ремонта и эксплуатации автомобильных дорог по перечням, утверждаемым в установленном порядке&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/10440/dfasy9wqmq/"></a>абзац четвертый пункта 7 исключить.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/10440/dfas7auwie/"></a>14. В постановлении Президента Республики Узбекистан от 11 сентября 2017 года № ПП-3262 &#171;О мерах по совершенствованию системы озеленения и архитектурно-ландшафтного конструирования автомобильных дорог&#187;:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/10440/dfasocxmae/"></a>абзац четвертый пункта 7 исключить;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr79/" data-role="phrase-anchor" data-phrase-id="79" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr79"></a><a data-anchor="/document/90/10440/dfassyc3eq/"></a>пункт 17 изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr80/" data-role="phrase-anchor" data-phrase-id="80" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr80"></a><a data-anchor="/document/90/10440/dfasxyvpxb/"></a>&#171;17. Освободить УП &#171;Узйулкукаламзорлаштириш&#187; и его структурные подразделения сроком до 1 января 2025 года от уплаты земельного налога в части земельных участков, занятых под питомники для выращивания декоративных растений, налога на имущество юридических лиц&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr81/" data-role="phrase-anchor" data-phrase-id="81" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr81"></a><a data-anchor="/document/90/10440/dfascapc80/"></a>15. Пункт 11 постановления Президента Республики Узбекистан от 16 октября 2017 года № ПП-3327 &#171;О мерах по дальнейшему развитию отрасли пчеловодства в республике&#187; изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr82/" data-role="phrase-anchor" data-phrase-id="82" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr82"></a><a data-anchor="/document/90/10440/dfasmgtabv/"></a>&#171;11. Освободить сроком до 1 января 2023 года от таможенных платежей (за исключением налога на добавленную стоимость и сборов за таможенное оформление) племенной материал (продукцию), предметы инвентаря и оборудование, используемые в области пчеловодства, специальные транспортные средства и прицепы для перевозки ульев, ветеринарные лекарственные средства и препараты, применяемые для предотвращения болезней пчел и борьбы с вредителями, необходимые лесоматериалы и древесину для производства ульев, пенополиуретан, вспомогательное оборудование, комплектующие изделия и запасные части к нему, вощины и восковую продукцию, ввозимые организациями по перечням, утверждаемым в установленном порядке&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr83/" data-role="phrase-anchor" data-phrase-id="83" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr83"></a><a data-anchor="/document/90/10440/dfasrb6sln/"></a>16. Абзацы второй и третий пункта 4 постановления Президента Республики Узбекистан от 2 декабря 2017 года № ПП-3422 &#171;О мерах по совершенствованию транспортной инфраструктуры и диверсификации внешнеторговых маршрутов перевозки грузов на 2018 &#8212; 2022 годы&#187; изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr84/" data-role="phrase-anchor" data-phrase-id="84" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr84"></a><a data-anchor="/document/90/10440/dfasar3clw/"></a>&#171;налога на имущество и земельного налога, с условием направления высвобождаемых средств на расширение собственного парка автотранспортных средств, модернизацию производственных мощностей, создание современных складских терминалов и погашение банковских кредитов;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr85/" data-role="phrase-anchor" data-phrase-id="85" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr85"></a><a data-anchor="/document/90/10440/dfasm4ik1k/"></a>таможенных платежей (кроме налога на добавленную стоимость и сборов за таможенное оформление) за ввозимые складское оборудование, погрузочно-разгрузочную технику, агрегаты, запасные части и другие товары, не производимые в Республике Узбекистан, предназначенные для оказания транспортно-логистических услуг, по перечням, утверждаемым в установленном порядке&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr86/" data-role="phrase-anchor" data-phrase-id="86" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr86"></a><a data-anchor="/document/90/10440/dfasu7zn9n/"></a>17. Абзац третий пункта 12 постановления Президента Республики Узбекистан от 28 февраля 2018 года № ПП-3573 &#171;О мерах по коренному совершенствованию винодельческой отрасли и реализации алкогольной продукции&#187; после слов &#171;за исключением&#187; дополнить словами &#171;налога на добавленную стоимость и&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr87/" data-role="phrase-anchor" data-phrase-id="87" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr87"></a><a data-anchor="/document/90/10440/dfas65qqbh/"></a>18. Пункт 9 постановления Президента Республики Узбекистан от 3 мая 2018 года № ПП-3693 &#171;О мерах по дальнейшему стимулированию развития и роста экспортного потенциала кожевенно-обувной и пушно-меховой отраслей&#187; изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr88/" data-role="phrase-anchor" data-phrase-id="88" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr88"></a><a data-anchor="/document/90/10440/dfasy30ha6/"></a>&#171;9. Предоставить сроком до 1 января 2023 года организациям, занимающимся заготовкой, хранением и переработкой кожевенного, пушно-мехового сырья и шерсти, автоматизированным убоем скота, производством изделий из шерсти, каракуля и искусственной кожи, кожгалантерейной продукции, обуви, налоговые и таможенные льготы и преференции в виде:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr89/" data-role="phrase-anchor" data-phrase-id="89" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr89"></a><a data-anchor="/document/90/10440/dfashrglid/"></a>освобождения от уплаты налога на прибыль и налога на имущество, налога с оборота;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr90/" data-role="phrase-anchor" data-phrase-id="90" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr90"></a><a data-anchor="/document/90/10440/dfass4yh4a/"></a>освобождения от уплаты таможенных платежей (кроме налога на добавленную стоимость и сборов за таможенное оформление) за импортируемое оборудование, комплектующие изделия, не производимые в республике сырье, материалы и фурнитуру по перечням, утверждаемым в установленном порядке;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr91/" data-role="phrase-anchor" data-phrase-id="91" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr91"></a><a data-anchor="/document/90/10440/dfaskqytqo/"></a>отсрочки по уплате таможенных платежей (кроме сборов за таможенное оформление) в установленном законодательством порядке при импорте оборудования, комплектующих изделий, сырья, материалов и фурнитуры, необходимых для собственного производства товаров, не включенных в вышеуказанные утверждаемые перечни&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr92/" data-role="phrase-anchor" data-phrase-id="92" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr92"></a><a data-anchor="/document/90/10440/dfaseodzbr/"></a>19. Абзац первый пункта 9 постановления Президента Республики Узбекистан от 6 ноября 2018 года № ПП-4005 &#171;О дополнительных мерах по дальнейшему развитию рыбоводческой отрасли&#187; после слов &#171;за исключением&#187; дополнить словами &#171;налога на добавленную стоимость и&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr93/" data-role="phrase-anchor" data-phrase-id="93" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr93"></a><a data-anchor="/document/90/10440/dfasmv91mx/"></a>20. Абзац первый пункта 16 постановления Президента Республики Узбекистан от 13 ноября 2018 года № ПП-4015 &#171;О дополнительных мерах по дальнейшему развитию птицеводства&#187; после слов &#171;за исключением&#187; дополнить словами &#171;налога на добавленную стоимость и&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr94/" data-role="phrase-anchor" data-phrase-id="94" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr94"></a><a data-anchor="/document/90/10440/dfas4m1a3u/"></a>21. Абзац второй пункта 5 распоряжения Президента Республики Узбекистан от 12 декабря 2017 года № Р-5137 &#171;Об организационных вопросах деятельности Национального агентства проектного управления при Президенте Республики Узбекистан&#187; после слов &#171;за исключением&#187; дополнить словами &#171;налога на добавленную стоимость и&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr95/" data-role="phrase-anchor" data-phrase-id="95" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr95"></a><a data-anchor="/document/90/10440/dfas6f9ngx/"></a>22. Пункт 2 распоряжения Президента Республики Узбекистан от 6 марта 2018 года № Р-5230 &#171;Об освобождении теплиц и тепличных строительных конструкций, не производимых в республике, ввозимых в целях реализации агропромышленных проектов, от таможенных платежей сроком до 1 января 2021 года&#187; после слов &#171;за исключением&#187; дополнить словами &#171;налога на добавленную стоимость и&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr96/" data-role="phrase-anchor" data-phrase-id="96" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr96"></a><a data-anchor="/document/90/10440/dfas8cegng/"></a>23. Пункт 11 постановления Кабинета Министров от 30 сентября 2015 года № 279 &#171;О мерах по завершению строительства гостиницы международного класса в городе Ташкенте&#187; изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr97/" data-role="phrase-anchor" data-phrase-id="97" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr97"></a><a data-anchor="/document/90/10440/dfascn2f2m/"></a>&#171;11. Освободить, в порядке исключения:</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr98/" data-role="phrase-anchor" data-phrase-id="98" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr98"></a><a data-anchor="/document/90/10440/dfasod310y/"></a>ГУП &#171;Пойтахт курилиш ва хизмат&#187;, АО &#171;Ташгипрогор&#187;, АО &#171;Трест 12&#187; и их субподрядные организации, на период проектирования, строительства до завершения гарантийного срока &#8211; от уплаты таможенных платежей (за исключением налога на добавленную стоимость и таможенных сборов) на завозимые оборудование, строительную технику, строительные материалы и комплектующие изделия, мебель, компьютерную технику и другие товары для строительства и оснащения гостиницы в соответствии со спецификациями, предусмотренными проектно-сметной документацией, разработанной по стандартам компании &#171;Хаятт Интернэшнл&#187;, включая комплекты их запасов в соответствии с требованиями компании &#171;Хаятт Интернэшнл&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr99/" data-role="phrase-anchor" data-phrase-id="99" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr99"></a><a data-anchor="/document/90/10440/dfasricegk/"></a>ГУП &#171;Пойтахт курилиш ва хизмат&#187;, АО &#171;Ташгипрогор&#187;, АО &#171;Трест 12&#187; и их субподрядные организации, на период проектирования, строительства до завершения гарантийного срока &#8212; от уплаты таможенных платежей (за исключением налога на добавленную стоимость и таможенных сборов) на завозимые оборудование, строительную технику, строительные материалы и комплектующие изделия, мебель, компьютерную технику и другие товары для строительства и оснащения гостиницы в соответствии со спецификациями, предусмотренными проектно-сметной документацией, разработанной по стандартам компании &#171;Хаятт Интернэшнл&#187;, включая комплекты их запасов в соответствии с требованиями компании &#171;Хаятт Интернэшнл&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr100/" data-role="phrase-anchor" data-phrase-id="100" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr100"></a><a data-anchor="/document/90/10440/dfas1pkgs2/"></a>компании &#171;Хаятт Интернэшнл&#187;, &#171;Хаятт Интернэшнл (Европа, Африка, Ближний Восток) Лимитед&#187;, &#171;Хаятт Чейн Сервисиз Лимитед&#187;, &#171;Хаятт Голден Паспорт (трэвел) ЛТД.&#187;, &#171;Интернэшнл Резервейшнз ЛТД&#187; и &#171;Хаятт Интернэшнл техникал сервисиз Инк.&#187; в рамках заключенных соглашений с ГУП &#171;Пойтахт курилиш ва хизмат&#187; &#8212; от уплаты налога на прибыль, взимаемого у источника выплаты, на период погашения привлекаемого ГУП &#171;Пойтахт курилиш ва хизмат&#187; кредита Фонда реконструкции и развития Республики Узбекистан&#187;.</p><div class="doc__untyped" data-type="untyped" data-level="5"><a data-role="toc" data-anchor="/document/90/10440/tit2/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/10440/bssPhr101/" data-role="phrase-anchor" data-phrase-id="101" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr101"></a><a data-anchor="/document/90/10440/dfas45nep4/"></a>ПРИЛОЖЕНИЕ № 2<br>к Указу Президента Республики Узбекистан от 19 июня 2020 года № УП-6011</span></div><p style="text-align:center"><a data-anchor="/document/90/10440/bssPhr102/" data-role="phrase-anchor" data-phrase-id="102" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr102"></a><a data-anchor="/document/90/10440/dfasu4g381/"></a><strong>ПЕРЕЧЕНЬ</strong></p><p style="text-align:center"><a data-anchor="/document/90/10440/bssPhr103/" data-role="phrase-anchor" data-phrase-id="103" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr103"></a><a data-anchor="/document/90/10440/dfas58umie/"></a><strong>некоторых актов Президента Республики Узбекистан, признаваемых утратившими силу</strong></p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr104/" data-role="phrase-anchor" data-phrase-id="104" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr104"></a><a data-anchor="/document/90/10440/dfaskfskcv/"></a>2. Пункт 8 приложения к Указу Президента Республики Узбекистан от 27 февраля 2009 года № УП-4087 &#171;О внесении изменений и дополнения в некоторые указы Президента Республики Узбекистан&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr105/" data-role="phrase-anchor" data-phrase-id="105" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr105"></a><a data-anchor="/document/90/10440/dfasgafczp/"></a>3. Подпункт &#171;б&#187; пункта 2 приложения № 1 к Указу Президента Республики Узбекистан от 17 июня 2009 года № УП-4116 &#171;О внесении изменений, а также признании утратившими силу некоторых решений Президента Республики Узбекистан в связи с упорядочением налоговых льгот&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr106/" data-role="phrase-anchor" data-phrase-id="106" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr106"></a><a data-anchor="/document/90/10440/dfaso8ogwg/"></a>4. Пункты 1 и 4 Указа Президента Республики Узбекистан от 10 апреля 2012 года № УП-4434 &#171;О дополнительных мерах по стимулированию привлечения прямых иностранных инвестиций&#187;, а также приложение № 1 к нему.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr107/" data-role="phrase-anchor" data-phrase-id="107" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr107"></a><a data-anchor="/document/90/10440/dfasbtngf0/"></a>5. Пункт 2 и подпункт &#171;б&#187; пункта 3 приложения № 1 к Указу Президента Республики Узбекистан от 4 апреля 2018 года № УП-5398 &#171;О внесении изменений и дополнений, а также признании утратившими силу некоторых актов Президента Республики Узбекистан&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr108/" data-role="phrase-anchor" data-phrase-id="108" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr108"></a><a data-anchor="/document/90/10440/dfasos2f9g/"></a>6. Пункт 9 постановления Президента Республики Узбекистан от 3 августа 2009 года № ПП-1167 &#171;О дополнительных мерах по расширению масштабов строительства жилья в сельской местности&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr109/" data-role="phrase-anchor" data-phrase-id="109" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr109"></a><a data-anchor="/document/90/10440/dfasebrfn1/"></a>7. Пункт 18 постановления Президента Республики Узбекистан от 22 ноября 2016 года № ПП-2660 &#171;О мерах по реализации Программы по строительству и реконструкции доступных многоквартирных домов в городах на 2017 &#8212; 2020 годы&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr110/" data-role="phrase-anchor" data-phrase-id="110" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr110"></a><a data-anchor="/document/90/10440/dfasfx82ha/"></a>8. Пункт 6 постановления Президента Республики Узбекистан от 30 марта 2017 года № ПП-2860 &#171;О создании малой промышленной зоны в городе Янгиере Сырдарьинской области&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr111/" data-role="phrase-anchor" data-phrase-id="111" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr111"></a><a data-anchor="/document/90/10440/dfasc8i9gg/"></a>9. Пункт 8 постановления Президента Республики Узбекистан от 4 сентября 2017 года № ПП-3255 &#171;Об организации производства современного радиооборудования в Республике Узбекистан&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/10440/bssPhr112/" data-role="phrase-anchor" data-phrase-id="112" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr112"></a><a data-anchor="/document/90/10440/dfasa5k5vu/"></a>10. Пункт 2 приложения к постановлению Президента Республики Узбекистан от 18 июля 2018 года № ПП-3863 &#171;О дополнительных мерах по совершенствованию механизмов реализации программ по строительству доступных жилых домов по обновленным типовым проектам в сельской местности и доступных многоквартирных домов в городах на 2018 год&#187;.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

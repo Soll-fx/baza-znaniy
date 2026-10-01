@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Приказ Минтруда от 28.03.2020 № 3228</div><h2 class="auth__title">Карантинга оид чоралар амал қилиши даврида ходимларни масофавий иш усулида, мослашувчан иш графигида ёки уйда ишлашга ўтказишнинг вақтинчалик тартиби тўғрисидаги низомни тасдиқлаш ҳақида</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/10241/dfasgdlfqy/"></a><strong>Ўзбекистон Республикаси бандлик ва меҳнат муносабатлари вазирининг</strong></p><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/10241/dfasgcaxts/"></a><strong>буйруғи</strong></p><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/10241/dfasl7q878/"></a><strong>Карантинга оид чоралар амал қилиши даврида ходимларни масофавий иш усулида, мослашувчан иш графигида ёки уйда ишлашга ўтказишнинг вақтинчалик тартиби тўғрисидаги низомни тасдиқлаш ҳақида</strong></p><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/10241/dfas2rmkys/"></a><strong>[Ўзбекистон Республикаси Адлия вазирлиги томонидан 2020 йил 28 мартда рўйхатдан ўтказилди, рўйхат рақами 3228]</strong></p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/10241/dfaso8wh9q/"></a>Ўзбекистон Республикаси Президентининг 2020 йил 19 мартдаги ПФ-5969-сон &#171;Коронавирус пандемияси ва глобал инқироз ҳолатларининг иқтисодиёт тармоқларига салбий таъсирини юмшатиш бўйича биринчи навбатдаги чора-тадбирлар тўғрисида&#187;ги Фармонига мувофиқ буюраман:</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/10241/dfasffy1fu/"></a>1. Карантинга оид чоралар амал қилиши даврида ходимларни масофавий иш усулида, мослашувчан иш графигида ёки уйда ишлашга ўтказишнинг вақтинчалик тартиби тўғрисидаги низом иловага мувофиқ тасдиқлансин.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/10241/dfaseociwq/"></a>2. Мазкур буйруқ расмий эълон қилинган кундан эътиборан кучга киради.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/10241/dfaskew0tx/"></a>3. Ушбу буйруқ коронавирус пандемияси билан боғлиқ карантинга оид чоралар бекор қилингунга қадар амал қилади.</p><p style="text-align:right"><a data-anchor="/document/90/10241/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/10241/dfasdwixu2/"></a><strong>Вазир Н. ХУСАНОВ</strong></p><p style="text-align:center"><a data-anchor="/document/90/10241/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/10241/dfashxp9nu/"></a>Тошкент ш.,<br>2020 йил 25 март,<br>9-2020/Б-сон</p><div class="doc__untyped doc-start" data-type="untyped" data-level="5"><a data-role="toc" data-anchor="/document/90/10241/tit1/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/10241/dfaskbys84/"></a>Ўзбекистон Республикаси бандлик ва меҳнат муносабатлари вазирининг 2020 йил 25 мартдаги 9-2020/Б-сон буйруғига<br>ИЛОВА</span></div><p style="text-align:center"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/10241/dfas94rou6/"></a><strong>Карантинга оид чоралар амал қилиш даврида ходимларни масофавий иш усулида, мослашувчан иш графигида ёки уйда ишлашга ўтказишнинг вақтинчалик тартиби тўғрисидаги </strong></p><p style="text-align:center"><a data-anchor="/document/90/10241/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/10241/dfasa6ghw2/"></a><strong>НИЗОМ</strong></p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/10241/dfasar88i9/"></a>Мазкур Низом Ўзбекистон Республикаси Президентининг 2020 йил 19 мартдаги ПФ-5969-сон &#171;Коронавирус пандемияси ва глобал инқироз ҳолатларининг иқтисодиёт тармоқларига салбий таъсирини юмшатиш бўйича биринчи навбатдаги чора-тадбирлар тўғрисида&#187;ги Фармонининг (бундан буён матнда Фармон деб юритилади) 18-бандига мувофиқ коронавирус инфекцияси тарқалишини олдини олишга қаратилган чора-тадбирларини амалга ошириш вақтида (бундан буён матнда карантин даври деб юритилади) давлат органлари ва мулкчилик шаклидан қатъи назар барча ташкилотлар ходимларини масофавий иш усулида, мослашувчан иш графигида ёки уйда ишлашга ўтказишнинг вақтинчалик тартибини белгилайди.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/10241/tit2/"></a><span class="doc__chapter-number" style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/10241/dfasqbo3l0/"></a>1 </span><span class="doc__chapter-name">-боб. Умумий қоидалар</span></div><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/10241/dfas9p1wqh/"></a>1. Ушбу Низомга мувофиқ карантин даврида иш берувчилар ходимларни розилиги билан уларни масофавий иш усулида, мослашувчан иш жадвалида ёки уйда ишлашга ўтказишлари мумкин.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/10241/dfas0ouz6y/"></a>2. Масофавий иш усулида, мослашувчан иш жадвалида ёки уйда ишлашга ўтиш ҳуқуқидан биринчи навбатда ҳомиладор аёллар, кексалар, имконияти чекланган шахслар ва сурункали касалликларга чалинган ходимлар фойдаланади.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/10241/tit3/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/10241/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/10241/dfaso5fxsg/"></a>2 </span><span class="doc__chapter-name">-боб. Ходимни масофавий иш усулига ўтказиш тартиби</span></div><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/10241/dfasy2n4yk/"></a>3. Масофадан иш деганда, ходимнинг меҳнат шартномасида кўрсатилган меҳнат мажбуриятларини иш берувчининг жойлашган ҳудудидан ташқарида, бевосита ёки билвосита назоратида бўлган доимий иш жойи, ҳудуд ёки объектдан ташқарида бажариладиган иш усули тушунилади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/10241/dfasgosyol/"></a>4. Ходимни масофавий ишга вақтинчалик ўтказишда иш берувчи томонидан вақтинчалик ишга ўтказиш ҳақида муддати кўрсатилган буйруқ чиқарилади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/10241/dfasimnz34/"></a>5. Ходимни масофавий ишга вақтинчалик ўтказиш тўғрисидаги буйруққа иш берувчи ва ходим ўртасида тузилган меҳнат шартномасига киритилган ўзгартиришлар асос бўлади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/10241/dfaso5ukbs/"></a>6. Масофавий ишга ўтказиш юзасидан ходим билан тузилган меҳнат шартномасига киритиладиган ўзгартиришларда Меҳнат кодексининг 73-моддасида назарда тутилган шартлар билан бир қаторда қуйидагилар кўрсатилади:</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/10241/dfaswral0a/"></a>иш берувчи ва ходим ўртасида электрон ҳужжат алмашинуви бўйича ўзаро алоқалар тартиби;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/10241/dfasmqhmg1/"></a>ходимнинг меҳнат мажбуриятларини амалга ошириш учун зарур бўлган жиҳозлар ва/ёки техника воситаларидан фойдаланиш тартиби, агар томонлар тарафидан ходимга тегишли жиҳозлар ва/ёки техника воситаларидан фойдаланиш тўғрисидаги келишув мавжуд бўлса;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/10241/dfas3dq9ex/"></a>иш берувчи билан доимий алоқаларини таъминлаш мақсадида ходимни алоқа воситалари билан таъминлаш, шу жумладан Интернет тармоғидан фойдаланиш;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/10241/dfasx09l9d/"></a>иш берувчи томонидан ходимга берилган жиҳозлар ва техникаларнинг ходимнинг айби билан бузилганда, етказилган зарарни ходим томонидан иш берувчига қоплаб бериш билан боғлиқ шартлар;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/10241/dfasoue0y9/"></a>ходим ўз меҳнат вазифаларини бажариш учун шахсий жиҳозлар ва/ёки техника воситаларидан, шунингдек алоқа воситалари, шу жумладан Интернет тармоғидан фойдаланган тақдирда харажатларни қоплаш тартиби ва шартлари;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/10241/dfasorhk0d/"></a>ходим ва иш берувчининг зарурий меҳнат муҳофазаси ва меҳнат шароитларига амал қилиш бўйича мажбуриятлари;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/10241/dfaskr41gf/"></a>ходимни ишлаб чиқариш зарурияти туғилганда доимий иш жойига ўтказиш шартлари.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/10241/dfas40px2k/"></a>7. Ходим ва иш берувчи ўртасидаги электрон ҳужжат алмашиш йўли орқали алоқалар қонунчилик ҳужжатларида ўрнатилган белгиланган тартибда амалга оширилади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/10241/dfasbvw2lx/"></a>8. Ходим иш вақтининг давомийлиги ва тартибини ишлаб чиқариш топшириғининг ҳажми ва меҳнат шартномасида кўрсатилган бошқа шартлардан келиб чиққан ҳолда мустақил равишда белгилайди. Иш жадвали тарафлар келишувига биноан белгиланади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/10241/dfaskdprci/"></a>9. Масофавий ишда ишловчи ходим иш вақтини ўз хоҳишига кўра тақсимланишини ҳисобга олган ҳолда, у томонидан бажарилган ишлар учун бир баравар миқдорда меҳнат ҳақи тўланади. Бунда ходимга нисбатан иш вақтидан ташқари иш, дам олиш ва байрам кунларидаги иш, шунингдек тунги вақтдаги иш учун меҳнатга ҳақ тўлаш шартлари қўлланилмайди.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/10241/dfaska2aaz/"></a>10. Масофавий ишга вақтинчалик ўтказилган ходимнинг меҳнатига ҳақ тўлаш қуйидагича амалга оширилади:</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/10241/dfasa5o7iu/"></a>меҳнатга ҳақ тўлашдаги соатбай асосида &#8212; ходимнинг масофавий ишга ўтказилгунга қадар белгиланган тариф ставкаси (лавозим оклади)дан келиб чиққан ҳолда;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/10241/dfas2qw45r/"></a>меҳнатга ҳақ тўлашдаги ишбай асосида &#8212; ўрнатилган нархлардан келиб чиққан ҳолда.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/10241/dfas24f42d/"></a>11. Ходим масофавий ишга ўтказилганда унинг таътиллар жадвалига мувофиқ меҳнат таътили, вақтинча меҳнатга лаёқатсизлик бўйича нафақа олиш ҳамда қонунчилик ҳужжатларида ва жамоа шартномасида назарда тутилган бошқа ҳуқуқлари сақланиб қолинади.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/10241/tit4/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/10241/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/10241/dfas8wumc9/"></a>3 </span><span class="doc__chapter-name">-боб. Ходимни мослашувчан иш графигига ўтказиш тартиби</span></div><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/10241/dfasg6yh26/"></a>12. Иш вақти режимининг ўзгариши, шу жумладан ишнинг бошланиши ва тугаш вақти, шунингдек тўлиқсиз иш вақтининг ўрнатилиши меҳнат шароитининг ўзгариши ҳисобланади ва иш берувчининг буйруғи билан расмийлаштирилади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/10241/dfas0r3zuz/"></a>13. Ходимни мослашувчан иш графигига вақтинчалик ўтказиш тўғрисидаги буйруққа иш берувчи ва ходим ўртасида тузилган меҳнат шартномасига киритиладиган ўзгартиришлар асос бўлади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/10241/dfasae51a2/"></a>14. Мослашувчан иш графигига вақтинчалик ўтказиш қуйидагиларни назарда тутиши мумкин:</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/10241/dfastnm4yq/"></a>ходимга тўлиқсиз иш вақти &#8212; тўлиқсиз иш куни ёки тўлиқсиз иш ҳафтасини белгилаш;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/10241/dfasxgkzno/"></a>қисқартирилган иш вақти давомийлиги доирасида ходимнинг иши бошланиши ва тугаш вақтларини белгилаш, шунингдек бошқа ходимлар учун ўрнатилган ички меҳнат тартиби қоидаларидан фарқли равишда ишдаги танаффуслар вақти ва давомийлиги.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/10241/dfastkc06m/"></a>15. Мослашувчан иш графигига вақтинчалик ўтказиш юзасидан ходим билан тузилган меҳнат шартномасига киритиладиган ўзгартиришларда Меҳнат кодексининг 73-моддасида назарда тутилган шартлар билан бир қаторда қуйидагилар кўрсатилади:</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/10241/dfasgy0nr5/"></a>тўлиқсиз иш вақтида &#8212; ишнинг бошланиш ва тугаш вақти кўрсатилган кунлик иш соатлари ёки ҳафталик иш кунлари миқдори;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/10241/dfasr4gmmo/"></a>иш вақти режими ўзгарганда &#8212; ишнинг кунлик бошланиш ва тугаш вақти, шунингдек сменали ишда ишланадиган ва ишланмайдиган кунларнинг навбати.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/10241/dfas1f4h9l/"></a>16. Ходим мослашувчан иш графигига ўтказилганда унинг таътиллар жадвалига мувофиқ меҳнат таътили, вақтинча меҳнатга лаёқатсизлик бўйича нафақа олиш ҳамда қонунчилик ҳужжатларида ва жамоа шартномасида назарда тутилган бошқа ҳуқуқлари сақланиб қолинади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/10241/dfasg6lnee/"></a>Мослашувчан иш графигига ўтказилган ходимга меҳнат ҳақи ишланган вақтга ёки ишлаб чиқарилган маҳсулотга мутаносиб равишда тўланади.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/10241/tit5/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/10241/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/10241/dfas722stb/"></a>4 </span><span class="doc__chapter-name">-боб. Ходимларни уйда ишлашга ўтказиш тартиби</span></div><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/10241/dfasv144ds/"></a>17. Ходимнинг хоҳишига кўра ва иш берувчининг розилиги билан ходим вақтинчалик уйда ишлаши учун уй меҳнати шароитига ўтказилиши мумкин.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/10241/dfasx5axx6/"></a>18. Уйда ишлаш тузилган меҳнат шартномасига мувофиқ ходим яшаш жойи бўйича ёки унга ёхуд унинг оила аъзоларига тегишли бўлган бошқа биноларда иш берувчининг буюртмалари бўйича товарлар ишлаб чиқариш ёки хизматлар кўрсатиш бўйича амалга оширилаётган ишни англатади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/10241/dfas8t9016/"></a>19. Ходимни вақтинчалик уйда ишлашга ўтказиш тўғрисидаги буйруққа иш берувчи ва ходим ўртасида тузилган меҳнат шартномасига киритиладиган ўзгартиришлар асос бўлади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/10241/dfas3a3k9r/"></a>20. Уйда ишлашни ташкил этишга, иш берувчи ва ходим ўртасида тузилган меҳнат шартномасига киритилган ўзгартиришларга мувофиқ уйда ишлашни амалга ошириш учун зарур бўлган шароитлар, шу жумладан турар-жойи бўлган тақдирда йўл қўйилади.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/10241/dfasyvgnvc/"></a>21. Ходимни вақтинчалик уйда ишлашга ўтказиш юзасидан ходим билан тузилган меҳнат шартномасига киритилган ўзгартиришларда қуйидагилар кўрсатилади:</p><p style="text-align:left"><a data-anchor="/document/90/10241/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/10241/dfas4w63sk/"></a>ходим уйда бажариши лозим бўлган иш турлари;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/10241/dfasubuog9/"></a>ходим лавозим вазифаларини бажариши учун жиҳозлар, асбоб-ускуналар, бутловчи маҳсулотлар, хом ашё, материаллар, ярим тайёр маҳсулотлар, шунингдек ишлаб чиқариш топшириғини тақдим этиш тартиби;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/10241/dfas2h04og/"></a>ходим ва иш берувчининг зарурий меҳнат муҳофазаси ва шароитларига амал қилиш бўйича мажбуриятлари;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/10241/dfastu9l3r/"></a>ходим томонидан ўз меҳнат мажбуриятларини бажаришда шахсий жиҳозлари, асбоблари ва инвентарларининг ишлатилиши, шунингдек ходимнинг меҳнат қилиши муносабати билан энергия, сув, алоқа учун харажатларини қоплаш бўйича шартлари ва тартиби;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/10241/dfas9qgwyh/"></a>меҳнат шартномасига киритилган ўзгартиришларда қонунчилик ҳужжатларига мувофиқ бошқа шартлар ҳам назарда тутилиши мумкин.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/10241/dfas8n6kt5/"></a>22. Уйда ишлашга ўтказилган ходимнинг меҳнатига ҳақ тўлаш қуйидагича амалга оширилади:</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/10241/dfas1hx59m/"></a>меҳнатга ҳақ тўлашдаги соатбай асосида &#8212; ходимнинг уйда ишлашга ўтказилгунга қадар белгиланган тариф ставкаси (лавозим оклади)дан келиб чиққан ҳолда;</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/10241/dfas1utbru/"></a>меҳнатга ҳақ тўлашдаги ишбай асосида.</p><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/10241/dfas06475m/"></a>23. Уйда ишлашга ўтказилган ходимнинг таътиллар жадвалига мувофиқ меҳнат таътили, вақтинча меҳнатга лаёқатсизлик бўйича нафақа олиш ҳамда қонунчилик ҳужжатларида ва жамоа шартномасида назарда тутилган бошқа ҳуқуқлари сақланиб қолинади.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/10241/tit6/"></a><span class="doc__chapter-number" style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/10241/dfas9w18ms/"></a>5 </span><span class="doc__chapter-name">-боб. Якуний қоидалар</span></div><p style="text-align:left"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/10241/dfasi5291r/"></a>24. Мазкур Низом талаблари бузилишида айбдор бўлган шахслар қонунчилик ҳужжатларда белгиланган тартибда жавобгар бўладилар.</p><p style="text-align:left"><a data-anchor="/document/90/10241/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/10241/dfasgc3gc7/"></a>25. Ушбу Низом Ўзбекистон касаба уюшмалари Федерацияси билан келишилган.</p><p style="text-align:center"><a data-anchor="/document/90/10241/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/10241/dfas97ib6w/"></a><strong>Келишилган:</strong></p><p style="text-align:right"><a kazakh="yes" data-anchor="/document/90/10241/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/10241/dfasz4znuh/"></a><strong>Ўзбекистон касаба уюшмалари Федерацияси раиси<br>Қ. РАФИКОВ</strong></p><p><a data-anchor="/document/90/10241/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/10241/dfas9a2gni/"></a>2020 йил 25 март</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

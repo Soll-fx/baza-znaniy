@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Всех прекрасных бухгалтеров поздравляем с 8 Марта</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/218728/dfas1lw5m2/" data-dfa="dfas1lw5m2"></a><a data-anchor="/document/16/218728/bssPhr3/"></a>Редакция Системы Главбух поздравляет вас с&nbsp;8&nbsp;Марта! </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/218728/dfaseluroi/" data-dfa="dfaseluroi"></a><a data-anchor="/document/16/218728/bssPhr4/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41887650" sourceId="1" fullSizeImageId="-41887649" width="610" height="283.3923705722071" src="https://1gb.uz/system/content/image/297/1/-41887650/"></p><p><a data-anchor="/document/16/218728/bssPhr5/"></a><a data-anchor="/document/16/218728/dfasowzsa6/" data-dfa="dfasowzsa6"></a>С&nbsp;8&nbsp;Марта, дорогие друзья! Поздравляем каждого из&nbsp;вас с&nbsp;этим прекрасным весенним праздником! Спасибо за&nbsp;вашу мудрость, терпение и&nbsp;умение находить подход к&nbsp;людям. Благодаря вам в&nbsp;коллективах царит порядок, гармония и&nbsp;взаимопонимание. Пусть ваш труд всегда ценится, а&nbsp;доброта возвращается теплом и&nbsp;благодарностью. Желаем вам, вдохновения, радости и&nbsp;счастья в&nbsp;каждом дне! Вы&nbsp;делаете мир труда лучше!</p><a data-anchor="/document/16/218728/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218728/bssPhr6/"></a><a data-anchor="/document/16/218728/dfasiyudn9/" data-dfa="dfasiyudn9"></a>Открытки коллегам</h2><p><a data-anchor="/document/16/218728/bssPhr7/"></a><a data-anchor="/document/16/218728/dfas2bhg8n/" data-dfa="dfas2bhg8n"></a>Порадуйте коллег милыми открытками. Просто скачайте и&nbsp;отправьте поздравления-афоризмы.</p><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td style="text-align:center; vertical-align:middle"><a data-anchor="/document/16/218728/bssPhr8/"></a><a data-anchor="/document/16/218728/dfasbvvllh/" data-dfa="dfasbvvllh"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41887614" sourceId="1" width="610" height="610" src="https://1gb.uz/system/content/image/297/1/-41887614/"><p><a data-anchor="/document/16/218728/dfasw20yaa/" data-dfa="dfasw20yaa"></a><a data-anchor="/document/16/218728/bssPhr9/"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-jfif" href="https://1gb.uz/system/content/attachment/1/16/-101217/">Скачать &gt;&gt;&gt;</a></p></td><td style="text-align:center; vertical-align:middle"><a data-anchor="/document/16/218728/bssPhr10/"></a><a data-anchor="/document/16/218728/dfasdo9rql/" data-dfa="dfasdo9rql"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41887615" sourceId="1" width="610" height="610" src="https://1gb.uz/system/content/image/297/1/-41887615/"><p><a data-anchor="/document/16/218728/dfashn3osk/" data-dfa="dfashn3osk"></a><a data-anchor="/document/16/218728/bssPhr11/"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-jfif" href="https://1gb.uz/system/content/attachment/1/16/-101218/">Скачать &gt;&gt;&gt;</a>&nbsp;</p></td><td style="text-align:center; vertical-align:middle"><a data-anchor="/document/16/218728/bssPhr12/"></a><a data-anchor="/document/16/218728/dfasias879/" data-dfa="dfasias879"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41887617" sourceId="1" fullSizeImageId="-41887616" width="610" height="610" src="https://1gb.uz/system/content/image/297/1/-41887617/"><p><a data-anchor="/document/16/218728/dfasopptnl/" data-dfa="dfasopptnl"></a><a data-anchor="/document/16/218728/bssPhr13/"></a><a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export link_type_export link_viewtype_export-jfif" href="https://1gb.uz/system/content/attachment/1/16/-101219/">Скачать &gt;&gt;&gt;</a>&nbsp;</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/218728/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218728/bssPhr14/"></a><a data-anchor="/document/16/218728/dfaspatd3x/" data-dfa="dfaspatd3x"></a>Мастер-класс. Повысить себе зарплату и&nbsp;оставаться ценным на&nbsp;работе</h2><p><a data-anchor="/document/16/218728/bssPhr15/"></a><a data-anchor="/document/16/218728/dfasfm2ffl/" data-dfa="dfasfm2ffl"></a>Посмотрите суперактуальный мастер-класс от&nbsp;Татьяны Минаевой (основатель Университета Карьерного Роста)</p><div class="iframe"><iframe width="560" height="515" src="https://www.youtube.com/embed/J1JykRVzR2k?si=5K5UntjmTINDU9gA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><a data-anchor="/document/16/218728/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218728/bssPhr16/"></a><a data-anchor="/document/16/218728/dfasm2mt3z/" data-dfa="dfasm2mt3z"></a>Измените жизнь к&nbsp;лучшему</h2><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr17/"></a><a data-anchor="/document/16/218728/dfasgg0quf/" data-dfa="dfasgg0quf"></a>«Не&nbsp;откладывай на&nbsp;завтра&nbsp;то, что можно сделать сегодня!»&nbsp;— отличный девиз для успешных перемен в&nbsp;жизни. Перемены полезны и&nbsp;на&nbsp;работе, и&nbsp;в&nbsp;личной жизни. Идеи для списка задач, чтобы изменить жизнь к&nbsp;лучшему,&nbsp;— в&nbsp;этой рекомендации.</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr18/"></a><a data-anchor="/document/16/218728/dfasd7ox9c/" data-dfa="dfasd7ox9c"></a>Подробные советы с&nbsp;мотивацией, практическими советами и&nbsp;жизненными историями читайте в&nbsp;книге «Женщина в&nbsp;бухгалтерии. Стратегия поведения бухгалтера в&nbsp;сложных ситуациях». Да, эта книга адресована женщинам&nbsp;— они составляют основной костяк бухгалтерии. Но&nbsp;и&nbsp;мужчины смогут вынести полезное из&nbsp;прочитанного. В&nbsp;конце концов станет проще общаться с&nbsp;коллегами-женщинами.</p><a data-anchor="/document/16/218728/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218728/bssPhr19/"></a><a data-anchor="/document/16/218728/dfas3oiohd/" data-dfa="dfas3oiohd"></a>Задача №&nbsp;1. Научиться быть разной на&nbsp;работе и&nbsp;дома</h3><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr20/"></a><a data-anchor="/document/16/218728/dfasf1alcy/" data-dfa="dfasf1alcy"></a>Чтобы быть успешной на&nbsp;всех фронтах, правильно распределите силы между домом и&nbsp;работой. На&nbsp;работе часто приходится задействовать мужские качества: собранность, пунктуальность, твердость. Дома&nbsp;же с&nbsp;близкими надо быть настоящей женщиной: чуткой, внимательной и&nbsp;способной передать инициативу своему спутнику.</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr21/"></a><a data-anchor="/document/16/218728/dfasih6uu6/" data-dfa="dfasih6uu6"></a>Читайте инструкции в&nbsp;книге:</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr22/"></a><a data-anchor="/document/16/218728/dfasa7mtwt/" data-dfa="dfasa7mtwt"></a><a data-anchor="/document/16/218728/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/126/1077958" data-warm-notices="41317184" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077958" class="link ">Женский магнетизм. Как остаться женщиной в&nbsp;офисе и&nbsp;дома.</a></p><a data-anchor="/document/16/218728/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218728/bssPhr23/"></a><a data-anchor="/document/16/218728/dfasxy4tf1/" data-dfa="dfasxy4tf1"></a>Задача №&nbsp;2. Перестроить свои отношения с&nbsp;коллегами</h3><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr24/"></a><a data-anchor="/document/16/218728/dfaspwqf8p/" data-dfa="dfaspwqf8p"></a>Лучше, конечно, выстраивать правильные отношения с&nbsp;коллегами с&nbsp;первого дня работы. Вначале присмотритесь к&nbsp;коллективу, изучите соотношение сил, не&nbsp;примыкайте сразу к&nbsp;какой-то группе. Уважайте правила, сложившиеся в&nbsp;коллективе.</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr25/"></a><a data-anchor="/document/16/218728/dfas5xoqdw/" data-dfa="dfas5xoqdw"></a>Не&nbsp;стремитесь сразу понравиться руководителю и&nbsp;не&nbsp;бойтесь его. Пришли на&nbsp;руководящую должность? Демонстрируйте уверенность и&nbsp;спокойствие, но&nbsp;в&nbsp;то&nbsp;же время держите дистанцию при общении с&nbsp;подчиненными.</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr26/"></a><a data-anchor="/document/16/218728/dfasuu0zp3/" data-dfa="dfasuu0zp3"></a>Если с&nbsp;первого дня работы наладить позитивные отношения с&nbsp;коллегами не&nbsp;удалось, сейчас есть шанс пересмотреть свою позицию. Начните как с&nbsp;чистого листа.</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr27/"></a><a data-anchor="/document/16/218728/dfashggxv3/" data-dfa="dfashggxv3"></a>Читайте инструкции в&nbsp;книге:</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr28/"></a><a data-anchor="/document/16/218728/dfas037o0o/" data-dfa="dfas037o0o"></a><a data-anchor="/document/16/218728/backlinkanchor4/" type="backlink-anchor"></a><a href="#/document/126/1077959" data-warm-notices="41317185" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077959" class="link ">С&nbsp;чистого листа. Как выстроить отношения с&nbsp;коллегами;</a></p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr29/"></a><a data-anchor="/document/16/218728/dfaseamkdw/" data-dfa="dfaseamkdw"></a>Стратегия успеха.</p><a data-anchor="/document/16/218728/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/218728/bssPhr30/"></a><a data-anchor="/document/16/218728/dfas9ql8we/" data-dfa="dfas9ql8we"></a>Задача №&nbsp;3. Расставить приоритеты в&nbsp;работе</h3><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr31/"></a><a data-anchor="/document/16/218728/dfasycg2zo/" data-dfa="dfasycg2zo"></a>Бухгалтер постоянно работает в&nbsp;режиме многозадачности. Разбейте весь объем работы на&nbsp;блоки и&nbsp;спланируйте свое рабочее время так, чтобы все знали, когда и&nbsp;чем вы&nbsp;занимаетесь. Перестаньте копить дела. Незаконченные дела вызывают постоянную тревогу и&nbsp;отвлекают внимание от&nbsp;других задач.</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr32/"></a><a data-anchor="/document/16/218728/dfasvb8gc8/" data-dfa="dfasvb8gc8"></a>Читайте инструкции в&nbsp;книге:</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr33/"></a><a data-anchor="/document/16/218728/dfas7hxgv9/" data-dfa="dfas7hxgv9"></a><a data-anchor="/document/16/218728/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/126/1077960" data-warm-notices="41317186" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077960" class="link ">Как покорить аврал.</a></p><a data-anchor="/document/16/218728/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/218728/bssPhr34/"></a><a data-anchor="/document/16/218728/dfasp1s80z/" data-dfa="dfasp1s80z"></a>Задача №&nbsp;4. Освободиться от&nbsp;негатива</h3><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr35/"></a><a data-anchor="/document/16/218728/dfasn0lyp0/" data-dfa="dfasn0lyp0"></a>После работы обязательно настройтесь на&nbsp;положительные эмоции: пообщайтесь с&nbsp;близкими и&nbsp;друзьями, займитесь хобби и&nbsp;домашними делами, сходите в&nbsp;театр, ресторан. А&nbsp;еще выполните упражнения, которые помогут снять напряжение.</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr36/"></a><a data-anchor="/document/16/218728/dfasake0ng/" data-dfa="dfasake0ng"></a>Читайте инструкции в&nbsp;книге:</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr37/"></a><a data-anchor="/document/16/218728/dfasss4k8u/" data-dfa="dfasss4k8u"></a><a data-anchor="/document/16/218728/backlinkanchor6/" type="backlink-anchor"></a><a href="#/document/126/1077961" target="_self" title="" moduleId="126" documentId="1077961" class="link ">Как застраховаться от&nbsp;ошибок, которые становятся причиной ваших расстройств</a>;</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr38/"></a><a data-anchor="/document/16/218728/dfas96glg9/" data-dfa="dfas96glg9"></a><a data-anchor="/document/16/218728/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/126/1077962" target="_self" title="" moduleId="126" documentId="1077962" class="link ">Как освободиться от&nbsp;негативных эмоций</a>.</p><a data-anchor="/document/16/218728/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/218728/bssPhr39/"></a><a data-anchor="/document/16/218728/dfasfohllv/" data-dfa="dfasfohllv"></a>Задача №&nbsp;5. Говорить только добрые слова и&nbsp;научиться отказывать</h3><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr40/"></a><a data-anchor="/document/16/218728/dfasnzpvrh/" data-dfa="dfasnzpvrh"></a>В&nbsp;работе бухгалтерии важна атмосфера спокойствия и&nbsp;психологического комфорта. Чтобы ее&nbsp;достичь, говорите добрые слова, просите и&nbsp;отказывайте правильно. Не&nbsp;обижайтесь, критикуйте конструктивно и&nbsp;проявляйте здоровый эгоизм в&nbsp;общении с&nbsp;коллегами.</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr41/"></a><a data-anchor="/document/16/218728/dfasn3gfg3/" data-dfa="dfasn3gfg3"></a>Читайте инструкции в&nbsp;книге:</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr42/"></a><a data-anchor="/document/16/218728/dfasq0pzza/" data-dfa="dfasq0pzza"></a><a data-anchor="/document/16/218728/backlinkanchor8/" type="backlink-anchor"></a><a href="#/document/126/1077964" target="_self" title="" moduleId="126" documentId="1077964" class="link ">Эффективное общение. Полезные привычки в&nbsp;речи</a>;</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr43/"></a><a data-anchor="/document/16/218728/dfasc71rp2/" data-dfa="dfasc71rp2"></a><a data-anchor="/document/16/218728/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/126/1077965" data-warm-notices="41317187" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077965" class="link ">Как научиться отказывать и&nbsp;просить без смущения;</a></p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr44/"></a><a data-anchor="/document/16/218728/dfasgvo4ox/" data-dfa="dfasgvo4ox"></a><a data-anchor="/document/16/218728/backlinkanchor10/" type="backlink-anchor"></a><a href="#/document/126/1077966" data-warm-notices="41317188" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077966" class="link ">Как высказывать и&nbsp;принимать претензии без негатива;</a></p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr45/"></a><a data-anchor="/document/16/218728/dfas8a9u8t/" data-dfa="dfas8a9u8t"></a><a data-anchor="/document/16/218728/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/126/1077967" data-warm-notices="41317189" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077967" class="link ">Как разговаривать, чтобы ценили, а&nbsp;не&nbsp;обесценивали;</a></p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr46/"></a><a data-anchor="/document/16/218728/dfasiyvl0q/" data-dfa="dfasiyvl0q"></a><a data-anchor="/document/16/218728/backlinkanchor12/" type="backlink-anchor"></a><a href="#/document/126/1077968" data-warm-notices="41317190" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077968" class="link ">Как научиться работать без обид в&nbsp;коллективе;</a></p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr47/"></a><a data-anchor="/document/16/218728/dfasmwiike/" data-dfa="dfasmwiike"></a><a data-anchor="/document/16/218728/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/126/1077969" data-warm-notices="41317191" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077969" class="link ">Психологические установки.</a></p><a data-anchor="/document/16/218728/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/218728/bssPhr48/"></a><a data-anchor="/document/16/218728/dfasi2gunq/" data-dfa="dfasi2gunq"></a>Задача №&nbsp;6. Уметь разбираться в&nbsp;людях</h3><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr49/"></a><a data-anchor="/document/16/218728/dfast7f41m/" data-dfa="dfast7f41m"></a>Вы&nbsp;сможете найти подход к&nbsp;любому коллеге или просто новому знакомому, если будете разбираться в&nbsp;психотипах. Определите, к&nbsp;какому психологическому типу относится человек, и&nbsp;следуйте рекомендациям.</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr50/"></a><a data-anchor="/document/16/218728/dfastwc09r/" data-dfa="dfastwc09r"></a>Читайте инструкции в&nbsp;книге:</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr51/"></a><a data-anchor="/document/16/218728/dfasgp6b5y/" data-dfa="dfasgp6b5y"></a><a data-anchor="/document/16/218728/backlinkanchor14/" type="backlink-anchor"></a><a href="#/document/126/1077970" data-warm-notices="41317192" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077970" class="link ">Типы сложных сотрудников;</a></p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr52/"></a><a data-anchor="/document/16/218728/dfasn4v2od/" data-dfa="dfasn4v2od"></a><a data-anchor="/document/16/218728/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/126/1077971" data-warm-notices="41317193" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077971" class="link ">Властный, гневный тип личности;</a></p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr53/"></a><a data-anchor="/document/16/218728/dfasxt1bp9/" data-dfa="dfasxt1bp9"></a><a data-anchor="/document/16/218728/backlinkanchor16/" type="backlink-anchor"></a><a href="#/document/126/1077972" data-warm-notices="41317194" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077972" class="link ">Подозрительный, недоверчивый тип личности;</a></p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr54/"></a><a data-anchor="/document/16/218728/dfasuoqvkx/" data-dfa="dfasuoqvkx"></a><a data-anchor="/document/16/218728/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/126/1077973" target="_self" title="" moduleId="126" documentId="1077973" class="link ">Избегающий тип личности</a>...</p><a data-anchor="/document/16/218728/tit10/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit10"><a data-anchor="/document/16/218728/bssPhr55/"></a><a data-anchor="/document/16/218728/dfase9bgwh/" data-dfa="dfase9bgwh"></a>Задача №&nbsp;7. Любить себя и&nbsp;заботиться о&nbsp;своем теле</h3><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr56/"></a><a data-anchor="/document/16/218728/dfasatc546/" data-dfa="dfasatc546"></a>Прислушивайтесь к&nbsp;сигналам, которые подает ваш организм. Помните, что в&nbsp;нашем теле отражается вся сущность человека, именно через него мы&nbsp;реализуем все наши жизненные проекты и&nbsp;чувства.</p><p style="text-align:start"><a data-anchor="/document/16/218728/bssPhr57/"></a><a data-anchor="/document/16/218728/dfas4nmhaq/" data-dfa="dfas4nmhaq"></a>Читайте инструкции в&nbsp;книге:<a data-anchor="/document/16/218728/backlinkanchor18/" type="backlink-anchor"></a><a href="#/document/126/1077976" data-warm-notices="41317195" data-warm-notice-type="error" target="_self" title="" moduleId="126" documentId="1077976" class="link "> Любите себя и&nbsp;заботьтесь о&nbsp;своем теле.</a></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

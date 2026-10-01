@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассчитать стоимость незавершенного производства</h2><div class="doc-snippet"><a data-anchor="/document/16/210278/dfas8dy4xr/" data-dfa="dfas8dy4xr"></a><a data-anchor="/document/16/210278/bssPhr2/"></a>Из рекомендации узнаете, когда проводить инвентаризацию незавершенного производства, как отразить в бухучете незавершенное производство и как его оценить. Эксперты привели примеры, как оценить незавершенное производство по фактической либо нормативной, плановой производственной себестоимости, а также как оценить незавершенное производство в организациях, оказывающих услуги. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210278/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210278/bssPhr5/"></a><a data-anchor="/document/16/210278/dfasrthggx/" data-dfa="dfasrthggx"></a>Незавершенное производство</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210278/bssPhr7/"></a><a data-anchor="/document/16/210278/dfas2tvc7r/" data-dfa="dfas2tvc7r"></a>Незавершенное производство – это ТМЦ в виде незаконченных обработкой и сборкой частей механизмов, установок, изделий и незаконченных технологических процессов.</p><p><a data-anchor="/document/16/210278/bssPhr8/"></a><a data-anchor="/document/16/210278/dfas4pc9iz/" data-dfa="dfas4pc9iz"></a>В организациях, оказывающих услуги и выполняющих работы, незавершенное производство – это расходы на выполнение незаконченных услуг, работ, по которым еще не оформлены приемо-сдаточные документы и организацией не признан соответствующий доход (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span> НСБУ № 4 рег. МЮ 30.06.2020г.).&nbsp;</p></div><a data-anchor="/document/16/210278/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210278/bssPhr9/"></a><a data-anchor="/document/16/210278/dfasblb5mo/" data-dfa="dfasblb5mo"></a>Бухучет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210278/bssPhr11/"></a><a data-anchor="/document/16/210278/dfasuikbiu/" data-dfa="dfasuikbiu"></a>Незавершенное производство в бухучете – это:</p><ul class="c-list"><li><a data-anchor="/document/16/210278/bssPhr12/"></a><a data-anchor="/document/16/210278/dfasld93l9/" data-dfa="dfasld93l9"></a>стоимость направленных в производство затрат: материалов, потребленных ресурсов, амортизационных отчислений, начисленной работникам зарплаты;</li><li>стоимость прочих расходов по продукции, работам, производство которых уже началось, но на отчетную дату еще не было завершено.</li></ul><p><a data-anchor="/document/16/210278/bssPhr13/"></a><a data-anchor="/document/16/210278/dfas1odoci/" data-dfa="dfas1odoci"></a>Для обобщения информации о стоимости незавершенного производства используйте счет <strong>2010 «Основное производство» </strong>(<span data-warm-notices="41292565" data-warm-notice-type="error" num="6" lnktype="intlnk" title="" class="doc">Инструкция</span> к плану счетов).</p><p><a data-anchor="/document/16/210278/bssPhr14/"></a><a data-anchor="/document/16/210278/dfasggwv0r/" data-dfa="dfasggwv0r"></a>По <strong>дебету 2010 </strong> отражайте:</p><ul class="c-list"><li><a data-anchor="/document/16/210278/bssPhr15/"></a><a data-anchor="/document/16/210278/dfasug9onv/" data-dfa="dfasug9onv"></a>прямые расходы;</li><li>косвенные расходы;</li><li>расходы вспомогательных и иных участвующих в изготовлении продукции производств.</li></ul><p><a data-anchor="/document/16/210278/bssPhr16/"></a><a data-anchor="/document/16/210278/dfaser8bw7/" data-dfa="dfaser8bw7"></a>По <strong>кредиту 2010 </strong> отражайте суммы фактической себестоимости завершенного производства.</p><p><a data-anchor="/document/16/210278/bssPhr17/"></a><a data-anchor="/document/16/210278/dfas3rmdgp/" data-dfa="dfas3rmdgp"></a>Остаток по счету <strong>2010 </strong> на конец месяца – это стоимость незавершенного производства.</p><p><a data-anchor="/document/16/210278/bssPhr18/"></a><a data-anchor="/document/16/210278/dfas70vfc8/" data-dfa="dfas70vfc8"></a>Остаток по счетам <strong>2310</strong>, <strong>2710 </strong> также отражает стоимость незавершенного производства.</p></div><a data-anchor="/document/16/210278/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210278/bssPhr19/"></a><a data-anchor="/document/16/210278/dfasfkgknx/" data-dfa="dfasfkgknx"></a>Способы оценки незавершенного производства</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210278/bssPhr23/"></a><a data-anchor="/document/16/210278/dfasorhn6g/" data-dfa="dfasorhn6g"></a>Незавершенное производство можно оценивать несколькими способами. Выбор зависит от специфики технологии на предприятии.</p><p><a data-anchor="/document/16/210278/bssPhr24/"></a><a data-anchor="/document/16/210278/dfasufxglo/" data-dfa="dfasufxglo"></a>В массовом, серийном производстве выбирают один из четырех вариантов:</p><p><a data-anchor="/document/16/210278/bssPhr25/"></a><a data-anchor="/document/16/210278/dfasb8uhgs/" data-dfa="dfasb8uhgs"></a><strong>1. По фактической производственной себестоимости</strong> (подходит и для массового, и для штучного производства)</p><p><a data-anchor="/document/16/210278/bssPhr26/"></a><a data-anchor="/document/16/210278/dfas2mtdy8/" data-dfa="dfas2mtdy8"></a>Особенность метода:</p><p><a data-anchor="/document/16/210278/bssPhr27/"></a><a data-anchor="/document/16/210278/dfask0ah2f/" data-dfa="dfask0ah2f"></a>Включаются все затраты, связанные с выпуском продукции. Считается оптимально точным методом.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210278/dfas96zp1b/" data-dfa="dfas96zp1b"></a><a data-anchor="/document/16/210278/bssPhr28/"></a>Как оценить незавершенное производство по фактической производственной себестоимости</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210278/bssPhr29/"></a><a data-anchor="/document/16/210278/dfasmeggml/" data-dfa="dfasmeggml"></a>Предприятие производит изделия из металла. В текущем месяце было запущено производство на изготовление 1 000 штук изделий. Незавершенного производства на начало месяца не было. В течение месяца выпущено и оприходовано на склад 800 штук изделий. Следовательно, незавершенное производство на конец периода составило 200 штук.</p><p><a data-anchor="/document/16/210278/bssPhr30/"></a><a data-anchor="/document/16/210278/dfast0uyk1/" data-dfa="dfast0uyk1"></a>Затраты за текущий месяц составили 7 700 000 сумов, в том числе:</p><ul class="c-list"><li><a data-anchor="/document/16/210278/bssPhr31/"></a><a data-anchor="/document/16/210278/dfasccfixl/" data-dfa="dfasccfixl"></a>стоимость израсходованного сырья — 2 000 000 сумов;</li><li>зарплата производственных рабочих — 5 000 000 сумов;</li><li>сумма социального налога с зарплаты производственных рабочих — 600 000 сумов;</li><li>амортизация производственного станка – 100 000 сумов.</li></ul><p><a data-anchor="/document/16/210278/bssPhr32/"></a><a data-anchor="/document/16/210278/dfasewsx16/" data-dfa="dfasewsx16"></a>Сумма общехозяйственных расходов, которая распределена по итогам месяца на данный вид продукции составила 1 500 000 сумов.</p><p><a data-anchor="/document/16/210278/bssPhr33/"></a><a data-anchor="/document/16/210278/dfas3nz50d/" data-dfa="dfas3nz50d"></a>Общая сумма фактически произведенных расходов организации за месяц составила 9 200 000 сумов (7 700 000 + 1 500 000).</p><p><a data-anchor="/document/16/210278/bssPhr34/"></a><a data-anchor="/document/16/210278/dfas7702eo/" data-dfa="dfas7702eo"></a>Фактическая производственная себестоимость одной единицы продукции – как завершенной, так и незавершенной – составляет:</p><p><a data-anchor="/document/16/210278/bssPhr35/"></a><a data-anchor="/document/16/210278/dfasoazx6d/" data-dfa="dfasoazx6d"></a>9 200 000 ÷ 1 000 = 9 200 сумов.</p><p><a data-anchor="/document/16/210278/bssPhr36/"></a><a data-anchor="/document/16/210278/dfas6urk08/" data-dfa="dfas6urk08"></a>Себестоимость выпущенной продукции составляет:</p><p><a data-anchor="/document/16/210278/bssPhr37/"></a><a data-anchor="/document/16/210278/dfasga7org/" data-dfa="dfasga7org"></a>800 шт. х 9 200 сумов = 7 360 000 сумов.</p><p><a data-anchor="/document/16/210278/bssPhr38/"></a><a data-anchor="/document/16/210278/dfasr4w7by/" data-dfa="dfasr4w7by"></a>Себестоимость незавершенного производства на конец периода:</p><p><a data-anchor="/document/16/210278/bssPhr39/"></a><a data-anchor="/document/16/210278/dfasf2yzu4/" data-dfa="dfasf2yzu4"></a>200 шт. × 9 200 сумов = 1 840 000 сумов.</p></div></div><p><a data-anchor="/document/16/210278/bssPhr40/"></a><a data-anchor="/document/16/210278/dfassy1fqg/" data-dfa="dfassy1fqg"></a><strong>2. По нормативной (плановой) производственной себестоимости</strong></p><p><a data-anchor="/document/16/210278/bssPhr41/"></a><a data-anchor="/document/16/210278/dfasozmhbn/" data-dfa="dfasozmhbn"></a>Особенность метода:</p><p><a data-anchor="/document/16/210278/bssPhr42/"></a><a data-anchor="/document/16/210278/dfaswna3k2/" data-dfa="dfaswna3k2"></a>Норма списания каждого компонента себестоимости определяется исходя из отраслевых норм, методических рекомендаций и особенностей производственного процесса.</p><p><a data-anchor="/document/16/210278/bssPhr43/"></a><a data-anchor="/document/16/210278/dfas4ggg9u/" data-dfa="dfas4ggg9u"></a>В конце периода могут возникать отклонения фактических затрат от плановых, то есть возникает либо экономия, либо перерасход.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210278/dfasmzhf58/" data-dfa="dfasmzhf58"></a><a data-anchor="/document/16/210278/bssPhr44/"></a>Как оценить незавершенное производство по нормативной, плановой производственной себестоимости</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210278/bssPhr45/"></a><a data-anchor="/document/16/210278/dfasad9u6u/" data-dfa="dfasad9u6u"></a>Предприятие производит изделия из металла. В текущем месяце было запущено производство на изготовление 1 000 штук изделий. Незавершенного производства на начало месяца не было. В течение месяца выпущено и оприходовано на склад 800 штук изделий. Следовательно, незавершенное производство на конец месяца составило 200 штук.</p><p><a data-anchor="/document/16/210278/bssPhr46/"></a><a data-anchor="/document/16/210278/dfaslt1tsd/" data-dfa="dfaslt1tsd"></a>Затраты за текущий месяц составили 7 700 000 сумов, в том числе:</p><ul class="c-list"><li><a data-anchor="/document/16/210278/bssPhr47/"></a><a data-anchor="/document/16/210278/dfasw6h7sg/" data-dfa="dfasw6h7sg"></a>стоимость израсходованного сырья — 2 000 000 сумов;</li><li>зарплата производственных рабочих — 5 000 000 сумов;</li><li>сумма социального налога с зарплаты производственных рабочих — 600 000 сумов;</li><li>амортизация производственного станка – 100 000 сумов.</li></ul><p><a data-anchor="/document/16/210278/bssPhr48/"></a><a data-anchor="/document/16/210278/dfast7spkg/" data-dfa="dfast7spkg"></a>Сумма общехозяйственных расходов, которая распределена по итогам месяца на данный вид продукции составила 1 500 000 сумов.</p><p><a data-anchor="/document/16/210278/bssPhr49/"></a><a data-anchor="/document/16/210278/dfasu23d3g/" data-dfa="dfasu23d3g"></a>Общая сумма фактически произведенных расходов организации за месяц составила 9 200 000 сумов (7 700 000 + 1 500 000).</p><p><a data-anchor="/document/16/210278/bssPhr50/"></a><a data-anchor="/document/16/210278/dfas0lgkv4/" data-dfa="dfas0lgkv4"></a>Фактическая производственная себестоимость одной единицы продукции – как завершенной, так и незавершенной – составляет:</p><p><a data-anchor="/document/16/210278/bssPhr51/"></a><a data-anchor="/document/16/210278/dfaseevs5u/" data-dfa="dfaseevs5u"></a>9 200 000 ÷ 1 000 = 9 200 сумов.</p><p><a data-anchor="/document/16/210278/bssPhr52/"></a><a data-anchor="/document/16/210278/dfashgxc94/" data-dfa="dfashgxc94"></a>По расчетам нормативная себестоимость одного изделия составляет 8 000 сумов.</p><p><a data-anchor="/document/16/210278/bssPhr53/"></a><a data-anchor="/document/16/210278/dfas7mhdau/" data-dfa="dfas7mhdau"></a>Нормативная себестоимость, оставшихся в незавершенном производстве, 200 штук изделий составит 1 600 000 сумов (200 х 8 000). Фактическая себестоимость, оставшихся в незавершенном производстве 200 штук изделий, составит 1 840 000 сумов (200 х 9 200).</p><p><a data-anchor="/document/16/210278/bssPhr54/"></a><a data-anchor="/document/16/210278/dfasbwq58p/" data-dfa="dfasbwq58p"></a>Отклонение составило 240 000 сумов (1 840 000 – 1 600 000).</p></div></div><p><a data-anchor="/document/16/210278/bssPhr55/"></a><a data-anchor="/document/16/210278/dfas3xykoq/" data-dfa="dfas3xykoq"></a><strong>3. По прямым статьям затрат</strong></p><p><a data-anchor="/document/16/210278/bssPhr56/"></a><a data-anchor="/document/16/210278/dfas8vbuvg/" data-dfa="dfas8vbuvg"></a>Особенность метода:</p><p><a data-anchor="/document/16/210278/bssPhr57/"></a><a data-anchor="/document/16/210278/dfasx5fgg1/" data-dfa="dfasx5fgg1"></a>В себестоимость включаются только прямые расходы, которые связаны с производственным процессом. Их состав определяется <span num="7" lnktype="intlnk" title="" class="doc">учетной политикой</span>.</p><p><a data-anchor="/document/16/210278/bssPhr58/"></a><a data-anchor="/document/16/210278/dfaszio5wx/" data-dfa="dfaszio5wx"></a>Такой метод применяют, если материальные затраты небольшие, а расходы на оплату труда, с учетом социального налога, рабочих, изготавливающих продукцию, амортизация производственного оборудования и другие материальные затраты значительны.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210278/dfasmorqr7/" data-dfa="dfasmorqr7"></a><a data-anchor="/document/16/210278/bssPhr59/"></a>Как рассчитать стоимость незавершенного производства по прямым статьям затрат</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210278/bssPhr60/"></a><a data-anchor="/document/16/210278/dfasgonwla/" data-dfa="dfasgonwla"></a>Предприятие производит изделия из металла. В текущем месяце было запущено производство на изготовление 1 000 штук изделий. Незавершенного производства на начало месяца не было. В течение месяца выпущено и оприходовано на склад 800 штук изделий. Следовательно, незавершенное производство на конец месяца составило 200 штук.</p><p><a data-anchor="/document/16/210278/bssPhr61/"></a><a data-anchor="/document/16/210278/dfasvzfy79/" data-dfa="dfasvzfy79"></a>Затраты за текущий месяц составили 7 700 000 сумов, в том числе:</p><ul class="c-list"><li><a data-anchor="/document/16/210278/bssPhr62/"></a><a data-anchor="/document/16/210278/dfaspu7h7a/" data-dfa="dfaspu7h7a"></a>стоимость израсходованного сырья — 2 000 000 сумов;</li><li>зарплата производственных рабочих — 5 000 000 сумов;</li><li>сумма социального налога с зарплаты производственных рабочих — 600 000 сумов;</li><li>амортизация производственного станка – 100 000 сумов.</li></ul><p><a data-anchor="/document/16/210278/bssPhr63/"></a><a data-anchor="/document/16/210278/dfasepzr65/" data-dfa="dfasepzr65"></a>Сумма общехозяйственных расходов, которая распределена по итогам месяца, на данный вид продукции составила 1 500 000 сумов.</p><p><a data-anchor="/document/16/210278/bssPhr64/"></a><a data-anchor="/document/16/210278/dfasi6d3pg/" data-dfa="dfasi6d3pg"></a>Общая сумма фактически произведенных расходов организации за месяц составила 9 200 000 сумов (7 700 000 + 1 500 000).</p><p><a data-anchor="/document/16/210278/bssPhr65/"></a><a data-anchor="/document/16/210278/dfasihpx4f/" data-dfa="dfasihpx4f"></a>При этом общая сумма прямых затрат составит 7 700 000 сумов (2 000 000 + 5 000 000 + 600 000 + 100 000).</p><p><a data-anchor="/document/16/210278/bssPhr66/"></a><a data-anchor="/document/16/210278/dfastmotzc/" data-dfa="dfastmotzc"></a>Прямые затраты на одну единицу продукции – как завершенной, так и незавершенной – составят:</p><p><a data-anchor="/document/16/210278/bssPhr67/"></a><a data-anchor="/document/16/210278/dfasp8pwwb/" data-dfa="dfasp8pwwb"></a>7 700 000 ÷ 1 000 = 7 700 сумов.</p><p><a data-anchor="/document/16/210278/bssPhr68/"></a><a data-anchor="/document/16/210278/dfasc62o2u/" data-dfa="dfasc62o2u"></a>Каждую единицу незавершенной продукции нужно так же оценить по прямым статьям затрат. Следовательно, себестоимость всего незавершенного производства составит 1 540 000 сумов (200 х 7 700).</p></div></div><p><a data-anchor="/document/16/210278/bssPhr69/"></a><a data-anchor="/document/16/210278/dfasrxqzgm/" data-dfa="dfasrxqzgm"></a><strong>4. По стоимости сырья, материалов и полуфабрикатов</strong></p><p><a data-anchor="/document/16/210278/bssPhr70/"></a><a data-anchor="/document/16/210278/dfaslz52o2/" data-dfa="dfaslz52o2"></a>Особенность метода:</p><p><a data-anchor="/document/16/210278/bssPhr71/"></a><a data-anchor="/document/16/210278/dfasd3hw5p/" data-dfa="dfasd3hw5p"></a>В себестоимость включается только фактическая стоимость сырья, материалов, полуфабрикатов, переданных в производство. Все остальные затраты включаются непосредственно в себестоимость готовой продукции. Он применяется, в случаях, когда стоимость сырья и материалов составляет большую часть себестоимости готовой продукции, например 70%, 80% от себестоимости готовой продукции.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210278/dfas9be2na/" data-dfa="dfas9be2na"></a><a data-anchor="/document/16/210278/bssPhr72/"></a>Как оценить незавершенное производство по стоимости сырья, материалов и полуфабрикатов</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210278/bssPhr73/"></a><a data-anchor="/document/16/210278/dfasow8hr0/" data-dfa="dfasow8hr0"></a>Предприятие производит изделия из металла. В текущем месяце было запущено производство на изготовление 1 000 штук изделий. Незавершенного производства на начало месяца не было. В течение месяца выпущено и оприходовано на склад 800 штук изделий. Следовательно, незавершенное производство на конец месяца составило 200 штук.</p><p><a data-anchor="/document/16/210278/bssPhr74/"></a><a data-anchor="/document/16/210278/dfas0fh208/" data-dfa="dfas0fh208"></a>Общая сумма затрат на изготовление 1 000 штук изделий составила 10 000 000 сумов, из них стоимость израсходованного сырья составляет 7 000 000 сумов.</p><p><a data-anchor="/document/16/210278/bssPhr75/"></a><a data-anchor="/document/16/210278/dfasbung52/" data-dfa="dfasbung52"></a>Расход сырья на единицу продукции, запущенной в производство, составит 7 000 сумов (7 000 000 ÷ 1 000).</p><p><a data-anchor="/document/16/210278/bssPhr76/"></a><a data-anchor="/document/16/210278/dfasu7ovoa/" data-dfa="dfasu7ovoa"></a>Себестоимость незавершенного производства составит 1 400 000 сумов (7 000 х 200).</p></div></div><p><a data-anchor="/document/16/210278/bssPhr77/"></a><a data-anchor="/document/16/210278/dfasguzfog/" data-dfa="dfasguzfog"></a>Организация самостоятельно выбирает метод оценки незавершенного производства и закрепляет его в <span num="8" lnktype="intlnk" title="" class="doc">учетной политике</span>.</p><p><a data-anchor="/document/16/210278/bssPhr78/"></a><a data-anchor="/document/16/210278/dfasf0r0a2/" data-dfa="dfasf0r0a2"></a>Если на предприятии постоянно в наличии переходящие остатки незавершенного производства, то в этом случае себестоимость выпущенной продукции определяйте так:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr79/"></a><a data-anchor="/document/16/210278/dfas2c60bo/" data-dfa="dfas2c60bo"></a>Незавершенное производство на начало месяца</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr80/"></a><a data-anchor="/document/16/210278/dfasv91xby/" data-dfa="dfasv91xby"></a>+</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr81/"></a><a data-anchor="/document/16/210278/dfasvpfu1s/" data-dfa="dfasvpfu1s"></a>Затраты за месяц</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr82/"></a><a data-anchor="/document/16/210278/dfasxrw33z/" data-dfa="dfasxrw33z"></a>–</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr83/"></a><a data-anchor="/document/16/210278/dfasflke1e/" data-dfa="dfasflke1e"></a>Незавершенное производство на конец месяца</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><a data-anchor="/document/16/210278/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/210278/bssPhr84/"></a><a data-anchor="/document/16/210278/dfasi06a50/" data-dfa="dfasi06a50"></a>Оценка незавершенного производства для организаций, оказывающих услуги</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210278/bssPhr86/"></a><a data-anchor="/document/16/210278/dfasdvfzp8/" data-dfa="dfasdvfzp8"></a>Некоторые виды услуг могут иметь вещественные результаты, которые получает заказчик. Это консультационные или аудиторские услуги.</p><p><a data-anchor="/document/16/210278/bssPhr87/"></a><a data-anchor="/document/16/210278/dfas858vc3/" data-dfa="dfas858vc3"></a>Для организаций, которые оказывают услуги, в качестве незавершенного производства выступают услуги частичной готовности, а также оказанные, но не принятые заказчиком.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210278/dfasamlsp0/" data-dfa="dfasamlsp0"></a><a data-anchor="/document/16/210278/bssPhr88/"></a>Как оценить незавершенное производство в организациях, оказывающих услуги</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210278/bssPhr89/"></a><a data-anchor="/document/16/210278/dfas511m7y/" data-dfa="dfas511m7y"></a>Аудиторская фирма в январе-феврале выполняла заказы по подтверждению достоверности бухгалтерской отчетности заказчика:</p><div align="left"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr90/"></a><a data-anchor="/document/16/210278/dfas9hseg2/" data-dfa="dfas9hseg2"></a>№ заказа</p></td><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr91/"></a><a data-anchor="/document/16/210278/dfasvh4vt4/" data-dfa="dfasvh4vt4"></a>Стоимость услуг по договору, сумов</p></td><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr92/"></a><a data-anchor="/document/16/210278/dfasnhtc6q/" data-dfa="dfasnhtc6q"></a>Дата оказания услуги</p></td></tr><tr><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr93/"></a><a data-anchor="/document/16/210278/dfasaie1ai/" data-dfa="dfasaie1ai"></a>1</p></td><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr94/"></a><a data-anchor="/document/16/210278/dfasqf1dnl/" data-dfa="dfasqf1dnl"></a>2 000 000</p></td><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr95/"></a><a data-anchor="/document/16/210278/dfascbk3ce/" data-dfa="dfascbk3ce"></a>14.02.2020</p></td></tr><tr><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr96/"></a><a data-anchor="/document/16/210278/dfasfwpy6u/" data-dfa="dfasfwpy6u"></a>2</p></td><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr97/"></a><a data-anchor="/document/16/210278/dfaslhhdpk/" data-dfa="dfaslhhdpk"></a>3 000 000</p></td><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr98/"></a><a data-anchor="/document/16/210278/dfaswnnvkh/" data-dfa="dfaswnnvkh"></a>28.02.2020</p></td></tr><tr><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr99/"></a><a data-anchor="/document/16/210278/dfasbqymy5/" data-dfa="dfasbqymy5"></a>3</p></td><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr100/"></a><a data-anchor="/document/16/210278/dfasone2eg/" data-dfa="dfasone2eg"></a>1 500 000</p></td><td><a data-anchor="/document/16/210278/bssPhr101/"></a><a data-anchor="/document/16/210278/dfasnkd3a9/" data-dfa="dfasnkd3a9"></a>&nbsp;</td></tr><tr><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr102/"></a><a data-anchor="/document/16/210278/dfasliveho/" data-dfa="dfasliveho"></a>Итого:</p></td><td><p style="text-align:center"><a data-anchor="/document/16/210278/bssPhr103/"></a><a data-anchor="/document/16/210278/dfas8p1p9c/" data-dfa="dfas8p1p9c"></a>6 500 000</p></td><td><a data-anchor="/document/16/210278/bssPhr104/"></a><a data-anchor="/document/16/210278/dfas6fzpup/" data-dfa="dfas6fzpup"></a>&nbsp;</td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210278/bssPhr105/"></a><a data-anchor="/document/16/210278/dfasrzvufg/" data-dfa="dfasrzvufg"></a>Предположим, что по данным бухучета:</p><ul class="c-list"><li><a data-anchor="/document/16/210278/bssPhr106/"></a><a data-anchor="/document/16/210278/dfasae3vb7/" data-dfa="dfasae3vb7"></a>сумма прямых расходов, приходящихся на начало месяца, составляла 1 000 000 сумов;</li><li>сумма прямых расходов за февраль месяц составила 2 500 000 сумов.</li></ul><p><a data-anchor="/document/16/210278/bssPhr107/"></a><a data-anchor="/document/16/210278/dfasgxhkhs/" data-dfa="dfasgxhkhs"></a>Определим сумму прямых расходов, приходящихся на остаток незавершенного производства.</p><p><a data-anchor="/document/16/210278/bssPhr108/"></a><a data-anchor="/document/16/210278/dfasvpkg51/" data-dfa="dfasvpkg51"></a>Доля невыполненных заказов в общем объеме заказов составляет:</p><p><a data-anchor="/document/16/210278/bssPhr109/"></a><a data-anchor="/document/16/210278/dfas906uol/" data-dfa="dfas906uol"></a>1 500 000 сумов ÷ 6 500 000 сумов = 0,23.</p><p><a data-anchor="/document/16/210278/bssPhr110/"></a><a data-anchor="/document/16/210278/dfastrhosh/" data-dfa="dfastrhosh"></a>Тогда сумма прямых расходов по невыполненным заказам составит:</p><p><a data-anchor="/document/16/210278/bssPhr111/"></a><a data-anchor="/document/16/210278/dfassuknu2/" data-dfa="dfassuknu2"></a>(1 000 000 + 2 500 000) × 0,23 = 805 000 сумов.</p></div></div></div><a data-anchor="/document/16/210278/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/210278/bssPhr112/"></a><a data-anchor="/document/16/210278/dfaspkurk4/" data-dfa="dfaspkurk4"></a>Инвентаризация незавершенного производства</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210278/bssPhr114/"></a><a data-anchor="/document/16/210278/dfas1bqh4q/" data-dfa="dfas1bqh4q"></a>Все предприятия должны проводить инвентаризацию незавершенного производства. Инвентаризацию проводите перед составлением годового отчета, но не раньше 1 октября (НСБУ № 19). Для целей бухучета сроки проведения инвентаризации, ее особенности для данного конкретного предприятия должны быть закреплены в <span num="9" lnktype="intlnk" title="" class="doc">учетной политике</span>. Некоторые предприятия проводят такую инвентаризацию ежемесячно, ежеквартально. Результаты инвентаризации оформляйте инвентаризационными ведомостями.</p></div><p><a data-anchor="/document/16/210278/dfas6e8kcr/" data-dfa="dfas6e8kcr"></a><a data-anchor="/document/16/210278/bssPhr115/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882124" sourceId="1" fullSizeImageId="-41882123" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882124/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

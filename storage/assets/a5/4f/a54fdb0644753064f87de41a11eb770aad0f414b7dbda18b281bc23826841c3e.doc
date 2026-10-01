@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как составить штатное расписание</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/211181/dfass29yky/" data-dfa="dfass29yky"></a><a data-anchor="/document/16/211181/bssPhr2/"></a>Из&nbsp;рекомендации Системы Главбух узнаете, что такое штатное расписание и&nbsp;для чего оно нужно, как выбрать форму штатного расписания, кто разрабатывает и&nbsp;утверждает штатное расписание. Эксперты пояснили, как заполнить графы штатного расписания и&nbsp;вносить изменения в&nbsp;штатное расписание. Также узнаете, как составить коллективный договор и&nbsp;что такое штатная расстановка. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211181/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211181/bssPhr7/"></a><a data-anchor="/document/16/211181/dfaslg78f3/" data-dfa="dfaslg78f3"></a>Штатное расписание</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211181/bssPhr9/"></a><a data-anchor="/document/16/211181/dfasmm3xv2/" data-dfa="dfasmm3xv2"></a><span num="153" lnktype="intlnk" title="" class="doc">Штатное расписание</span>&nbsp;— нормативный документ предприятия, который устанавливает организационную структуру, штатный состав и&nbsp;численность работников с&nbsp;указанием размера заработной платы в&nbsp;зависимости от&nbsp;занимаемой должности. Каждой штатной единице соответствует определенная должность. В&nbsp;штатном расписании определена оплата труда по&nbsp;каждой должности.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211181/bssPhr11/"></a><a data-anchor="/document/16/211181/dfasii2qa2/" data-dfa="dfasii2qa2"></a>Для бюджетных организаций действует <span num="197" target="_self" lnktype="intlnk" title="" class="doc">Положение</span> о&nbsp;порядке составления, утверждения и&nbsp;регистрации смет расходов и&nbsp;штатных расписаний бюджетных организаций (рег.&nbsp;от&nbsp;15.12.2014 №&nbsp;2634).</p><p><a data-anchor="/document/16/211181/bssPhr12/"></a><a data-anchor="/document/16/211181/dfaskyi13l/" data-dfa="dfaskyi13l"></a>Законодательство, в&nbsp;том числе и&nbsp;трудовое, не&nbsp;требует от&nbsp;работодателей коммерческих организаций оформлять штатное расписание. Также не&nbsp;установлен порядок составления и&nbsp;ведения штатного расписания.</p><p style="text-align:left"><a data-anchor="/document/16/211181/bssPhr13/"></a><a data-anchor="/document/16/211181/dfasgmlho2/" data-dfa="dfasgmlho2"></a>Однако нормативно-правовые акты, регулирующие деятельность этих предприятий в&nbsp;зависимости от&nbsp;организационно-правовой формы, требуют наличия в&nbsp;коммерческих организациях штатного расписания (<span num="10" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;6</span>&nbsp;ст.&nbsp;79&nbsp;Закона об&nbsp;акционерных обществах и&nbsp;защите прав акционеров, <span num="11" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;14</span>&nbsp;Закона о&nbsp;частном предприятии, <span num="12" target="_self" lnktype="intlnk" title="" class="doc">абз.&nbsp;4</span>&nbsp;ст.&nbsp;29&nbsp;Закона об&nbsp;общественных фондах). Поэтому в&nbsp;любой организации лучше составить штатное расписание.</p><p><a data-anchor="/document/16/211181/bssPhr14/"></a><a data-anchor="/document/16/211181/dfasgyufmm/" data-dfa="dfasgyufmm"></a>Для работодателя это удобный «инструмент» с&nbsp;несколькими функциями:</p><ul class="c-list"><li><a data-anchor="/document/16/211181/bssPhr15/"></a><a data-anchor="/document/16/211181/dfasnq5egr/" data-dfa="dfasnq5egr"></a>наглядно показывает структуру организации;</li><li>дает полную информацию о&nbsp;кадровых ресурсах и&nbsp;количестве штатных единиц по&nbsp;каждой должности, профессии;</li><li>позволяет проследить систему оплаты труда работников и&nbsp;рассчитать необходимое количество денег на&nbsp;их&nbsp;содержание;</li><li>отражает размеры надбавок;</li><li>облегчает возможность отслеживать вакансии и&nbsp;подбирать персонал на&nbsp;них.</li></ul></div><a data-anchor="/document/16/211181/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211181/bssPhr16/"></a><a data-anchor="/document/16/211181/dfas1uwhr4/" data-dfa="dfas1uwhr4"></a>Выбираем форму</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211181/bssPhr19/"></a><a data-anchor="/document/16/211181/dfas7q2k4o/" data-dfa="dfas7q2k4o"></a>Можно по&nbsp;выбору использовать <span num="103" target="_self" lnktype="intlnk" title="" class="doc">типовую форму</span> штатного расписания либо <span num="104" lnktype="intlnk" title="" class="doc">самостоятельно разработанную форму</span> с&nbsp;необходимыми реквизитами. Штатное расписание содержит:</p><ul class="c-list"><li><a data-anchor="/document/16/211181/bssPhr20/"></a><a data-anchor="/document/16/211181/dfasl8pk2b/" data-dfa="dfasl8pk2b"></a>наименования структурных подразделений;</li><li>наименования должностей,</li><li>специальностей;</li><li>количество штатных единиц;</li><li>размер оклада или тарифной ставки;</li><li>наличие и&nbsp;размер надбавки;</li><li>прочие сведения.</li></ul><p><a data-anchor="/document/16/211181/bssPhr21/"></a><a data-anchor="/document/16/211181/dfasoovpno/" data-dfa="dfasoovpno"></a>Документ утверждает руководитель приказом.</p><p><a data-anchor="/document/16/211181/bssPhr22/"></a><a data-anchor="/document/16/211181/dfasx7zbh6/" data-dfa="dfasx7zbh6"></a><a data-anchor="/document/16/211181/dfase5q735/" data-dfa="dfase5q735"></a>Положение о&nbsp;порядке составления, утверждения и&nbsp;регистрации смет расходов и&nbsp;штатных расписаний бюджетных организаций утверждает типовую форму штатного расписания для бюджетных организаций (<span num="13" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;3</span>&nbsp;к Положению от&nbsp;15.12.2014 №&nbsp;2634). Коммерческие организации могут не&nbsp;применять данную форму.</p><p><a data-anchor="/document/16/211181/bssPhr23/"></a><a data-anchor="/document/16/211181/dfasd6nt42/" data-dfa="dfasd6nt42"></a>При заполнении формы укажите наименование организации полностью, как закреплено в&nbsp;учредительных документах, проставьте дату и&nbsp;номер <span num="16" lnktype="intlnk" title="" class="doc">приказа</span>, по&nbsp;которому руководитель утвердил штатное расписание, количество штатных единиц.</p></div><a data-anchor="/document/16/211181/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211181/bssPhr24/"></a><a data-anchor="/document/16/211181/dfaswee9qd/" data-dfa="dfaswee9qd"></a>Заполняем графы</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211181/bssPhr26/"></a><a data-anchor="/document/16/211181/dfas60p02g/" data-dfa="dfas60p02g"></a>Наименование структурного подразделения указывайте без сокращения. Используйте классификатор подразделений, который утвердил работодатель. Если классификатора нет, то&nbsp;пишите в&nbsp;алфавитном порядке или в&nbsp;порядке определения места структурного подразделения в&nbsp;иерархии организации. То&nbsp;есть, начиная с&nbsp;самых крупных и&nbsp;заканчивая самыми маленькими подразделениями.</p><p><a data-anchor="/document/16/211181/bssPhr27/"></a><a data-anchor="/document/16/211181/dfaslbw1zl/" data-dfa="dfaslbw1zl"></a>Коммерческие организации используют любые названия структурных подразделений. Но&nbsp;при этом нужно соблюдать требования к&nbsp;терминологии, общепринятым понятиям и&nbsp;определениям.</p><p><a data-anchor="/document/16/211181/bssPhr28/"></a><a data-anchor="/document/16/211181/dfas2es9w3/" data-dfa="dfas2es9w3"></a><a data-anchor="/document/16/211181/dfaskthhhd/" data-dfa="dfaskthhhd"></a><strong>Должность, профессию </strong> указывайте без сокращений в&nbsp;составе структурного подразделения. У&nbsp;рабочих&nbsp;— профессии, у&nbsp;служащих&nbsp;— должности. Чтобы правильно определить названия профессии или должности, используйте основных должностей служащих и&nbsp;профессий рабочих (<span num="90" target="_self" lnktype="intlnk" title="" class="doc">Постановление</span> Агентства стандартизации, метрологии и&nbsp;сертификации от&nbsp;06.05.2021 №&nbsp;05-1288).</p><p style="text-align:left"><a data-anchor="/document/16/211181/bssPhr29/"></a><a data-anchor="/document/16/211181/dfassh5kp2/" data-dfa="dfassh5kp2"></a>Последовательность заполнения этой графы по&nbsp;каждому структурному подразделению является индивидуальной с&nbsp;учетом специфики организации. Как правило, сначала указываете должность руководителя структурного подразделения, его заместителей, далее&nbsp;— ведущих и&nbsp;главных специалистов, затем должности исполнителей. Если в&nbsp;составе структурного подразделения есть, как инженерно-технический персонал, так и&nbsp;рабочие, необходимо выделить сначала ИТР, а&nbsp;затем рабочих.</p><p style="text-align:left"><a data-anchor="/document/16/211181/bssPhr30/"></a><a data-anchor="/document/16/211181/dfasrse7l7/" data-dfa="dfasrse7l7"></a>Если структурных подразделений в&nbsp;организации не&nbsp;предусмотрено, то&nbsp;должности в&nbsp;штатном расписании расположите в&nbsp;иерархической последовательности, например:</p><ul class="c-list"><li><a data-anchor="/document/16/211181/bssPhr31/"></a><a data-anchor="/document/16/211181/dfas10q2cm/" data-dfa="dfas10q2cm"></a>Директор</li><li>Заместитель директора</li><li>Главный бухгалтер</li><li>Руководитель отдела....</li></ul><p><a data-anchor="/document/16/211181/bssPhr32/"></a><a data-anchor="/document/16/211181/dfasud2vxs/" data-dfa="dfasud2vxs"></a>Желательно предусмотреть одинаковую оплату труда для одноименных должностей. Если хотите определить разные оклады работников на&nbsp;одноименных должностях, введите в&nbsp;форму понятия «старший», «ведущий», «помощник» и&nbsp;т.п. Либо пропишите в&nbsp;трудовых договорах с&nbsp;работниками на&nbsp;одноименных должностях различный функционал:</p><ul class="c-list"><li><a data-anchor="/document/16/211181/bssPhr33/"></a><a data-anchor="/document/16/211181/dfasikmulv/" data-dfa="dfasikmulv"></a>права и&nbsp;обязанности;</li><li>уровень ответственности.</li></ul><p><a data-anchor="/document/16/211181/bssPhr34/"></a><a data-anchor="/document/16/211181/dfasbae480/" data-dfa="dfasbae480"></a><strong>Количество штатных единиц </strong> указывайте по&nbsp;каждой должности или профессии. Коммерческое предприятие определяет количество штатных единиц по&nbsp;своим потребностям в&nbsp;зависимости от&nbsp;видов работ, экономической целесообразности. Должности, которые предусматривают не&nbsp;полную штатную единицу, заполните с&nbsp;указанием долей, например: 0,25; 0,5; 0,75 и&nbsp;прочее.</p><p><a data-anchor="/document/16/211181/bssPhr35/"></a><a data-anchor="/document/16/211181/dfasmbpqrt/" data-dfa="dfasmbpqrt"></a><a data-anchor="/document/16/211181/dfasdo5v76/" data-dfa="dfasdo5v76"></a><strong>Оклад (тарифную ставку) </strong> указывайте в&nbsp;размере месячной заработной платы с&nbsp;учетом системы оплаты.</p><p><a data-anchor="/document/16/211181/bssPhr36/"></a><a data-anchor="/document/16/211181/dfasp0b0zt/" data-dfa="dfasp0b0zt"></a>При установлении оклада учитывайте требования:</p><ul class="c-list"><li><a data-anchor="/document/16/211181/bssPhr37/"></a><a data-anchor="/document/16/211181/dfas7qri1f/" data-dfa="dfas7qri1f"></a>актов трудового законодательства;</li><li>Единой тарифной сетки по&nbsp;оплате труда (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;1</span>&nbsp;к постановлению Кабмина от&nbsp;16.09.2019 №&nbsp;775);</li><li>локальных нормативных актов (Положение об&nbsp;оплате труда и&nbsp;премировании в&nbsp;организации и&nbsp;другими).</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211181/dfaso5g6ok/" data-dfa="dfaso5g6ok"></a><a data-anchor="/document/16/211181/bssPhr38/"></a>МРОТ служит денежным выражением месячной тарифной ставки по&nbsp;первому разряду ЕТС</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211181/bssPhr39/"></a><a data-anchor="/document/16/211181/dfasgbs0r5/" data-dfa="dfasgbs0r5"></a>МРОТ обязателен для всех работодателей, независимо от&nbsp;организационно-правовой формы и&nbsp;трудовых отношений, в&nbsp;качестве нижней границы оплаты труда работников, полностью выполнивших установленные трудовые нормы (п.2 Указа президента от&nbsp;21.05.2019 № УП-5723).</p></div><div class="incut-v4__icon"></div></div><p style="text-align:left"><a data-anchor="/document/16/211181/bssPhr40/"></a><a data-anchor="/document/16/211181/dfas7zl0st/" data-dfa="dfas7zl0st"></a>То&nbsp;есть размер оплаты труда работника не&nbsp;должен быть ниже тарифной ставки по&nbsp;первому разряду Единой тарифной сетки по&nbsp;оплате труда с&nbsp;тарифным коэффициентом 1,0.</p><p><a data-anchor="/document/16/211181/bssPhr41/"></a><a data-anchor="/document/16/211181/dfasg5cg88/" data-dfa="dfasg5cg88"></a><a data-anchor="/document/16/211181/dfas2i7nd4/" data-dfa="dfas2i7nd4"></a><strong>Надбавки. </strong> Это стимулирующие и&nbsp;компенсационные выплаты. Их&nbsp;устанавливает законодательство или работодатель. Данную графу можно не&nbsp;включать в&nbsp;форму штатного расписания. Все эти выплаты можно расписать и&nbsp;утвердить внутренними документами предприятия (коллективный договор, система оплаты труда и&nbsp;др.).</p><p><a data-anchor="/document/16/211181/bssPhr42/"></a><a data-anchor="/document/16/211181/dfas7p11ae/" data-dfa="dfas7p11ae"></a>Если в&nbsp;штатном расписании такая графа все&nbsp;же предусмотрена, то&nbsp;в&nbsp;ней указывайте размер надбавки, доплаты и&nbsp;за&nbsp;что она установлена.</p><p><a data-anchor="/document/16/211181/bssPhr43/"></a><a data-anchor="/document/16/211181/dfastrmbza/" data-dfa="dfastrmbza"></a>Если в&nbsp;организации бестарифная, смешанная и&nbsp;другие формы и&nbsp;системы оплаты труда, при которых невозможно установить размер надбавки в&nbsp;денежном эквиваленте, то&nbsp;эту графу заполняйте в&nbsp;соответствующих единицах измерения: процентах, коэффициентах.</p><p><a data-anchor="/document/16/211181/bssPhr44/"></a><a data-anchor="/document/16/211181/dfasvlh6ge/" data-dfa="dfasvlh6ge"></a><a data-anchor="/document/16/211181/dfasy55t05/" data-dfa="dfasy55t05"></a><a data-anchor="/document/16/211181/dfasr4000d/" data-dfa="dfasr4000d"></a><strong>Месячный фонд заработной платы. </strong> Укажите общую сумму оклада и&nbsp;надбавки, умноженную на&nbsp;количество штатных единиц. Месячный фонд заработной платы&nbsp;— суммарные денежные средства, которые выплачиваются работникам по&nbsp;штатному расписанию. Примечание заполняете, если информация в&nbsp;графах формы требует пояснения.</p></div><a data-anchor="/document/16/211181/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211181/bssPhr45/"></a><a data-anchor="/document/16/211181/dfash0ieyd/" data-dfa="dfash0ieyd"></a>Разработка и&nbsp;утверждение штатного расписания</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211181/bssPhr47/"></a><a data-anchor="/document/16/211181/dfas44gefk/" data-dfa="dfas44gefk"></a><a data-anchor="/document/16/211181/dfasb9v39d/" data-dfa="dfasb9v39d"></a>Законодательство не&nbsp;определяет ответственных за&nbsp;разработку штатного расписания лиц из&nbsp;числа работников предприятия. В&nbsp;небольших предприятиях документ составляют кадровики или бухгалтеры, реже&nbsp;— юристы, в&nbsp;крупных компаниях&nbsp;— планово-экономический отдел или отдел организации труда и&nbsp;заработной платы.</p><p><a data-anchor="/document/16/211181/bssPhr48/"></a><a data-anchor="/document/16/211181/dfasiz1l9c/" data-dfa="dfasiz1l9c"></a><a data-anchor="/document/16/211181/dfasqwewh1/" data-dfa="dfasqwewh1"></a><a data-anchor="/document/16/211181/dfas515t0o/" data-dfa="dfas515t0o"></a>Первое штатное расписание составляют и&nbsp;утверждают при открытии предприятия. Штатное расписание утверждает руководитель организации приказом. Реквизиты документа укажите в&nbsp;поле «Утверждено приказом организации от „____“ _____________ 200__ № __» в&nbsp;форме штатного расписания.</p><p><a data-anchor="/document/16/211181/bssPhr49/"></a><a data-anchor="/document/16/211181/dfas5nvfkq/" data-dfa="dfas5nvfkq"></a>Обратите внимание, что даты составления, утверждения и&nbsp;вступления в&nbsp;силу штатного расписания могут не&nbsp;совпадать. Так, штатное расписание может быть утверждено позже его составления, а&nbsp;дата его введения в&nbsp;силу быть более поздней по&nbsp;сравнению с&nbsp;датами утверждения и&nbsp;составления.</p></div><a data-anchor="/document/16/211181/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211181/bssPhr50/"></a><a data-anchor="/document/16/211181/dfasztr42y/" data-dfa="dfasztr42y"></a><a data-anchor="/document/16/211181/dfasg1gtm8/" data-dfa="dfasg1gtm8"></a>Изменения в&nbsp;штатном расписании</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211181/bssPhr52/"></a><a data-anchor="/document/16/211181/dfaspprinw/" data-dfa="dfaspprinw"></a>Рано или поздно у&nbsp;любого руководителя возникнет необходимость вносить изменения в&nbsp;штатное расписание в&nbsp;связи&nbsp;с:</p><ul class="c-list"><li><a data-anchor="/document/16/211181/bssPhr53/"></a><a data-anchor="/document/16/211181/dfasm5p76g/" data-dfa="dfasm5p76g"></a>введением новых штатных единиц;</li><li>сокращением уже имеющихся штатных единиц;</li><li>введением целого подразделения;</li><li>сокращением имеющегося подразделения;</li><li>изменением окладов, тарифных ставок;</li><li>переименованием подразделения или должности и&nbsp;т.д.</li></ul><p><a data-anchor="/document/16/211181/bssPhr54/"></a><a data-anchor="/document/16/211181/dfasyolvke/" data-dfa="dfasyolvke"></a>Поскольку штатное расписание руководитель утверждает приказом, то&nbsp;и&nbsp;изменения в&nbsp;него вносят приказом. Дата выпуска приказа об&nbsp;изменении и&nbsp;дата вступления изменений в&nbsp;силу не&nbsp;всегда совпадают.</p><p><a data-anchor="/document/16/211181/bssPhr55/"></a><a data-anchor="/document/16/211181/dfasqyiog5/" data-dfa="dfasqyiog5"></a>Если изменения незначительны, можно выпустить поправки к&nbsp;расписанию. Если изменения масштабны&nbsp;— нужно составить новое штатное расписание и&nbsp;издать новый приказ о&nbsp;его утверждении.</p><p><a data-anchor="/document/16/211181/bssPhr56/"></a><a data-anchor="/document/16/211181/dfas80gv50/" data-dfa="dfas80gv50"></a>В&nbsp;качестве заголовков соответствующего приказа можно использовать следующие: «Об&nbsp;изменении штатного расписания», «О&nbsp;частичном изменении штатного расписания», «О&nbsp;внесении изменений в&nbsp;штатное расписание» и&nbsp;другие.</p><p><a data-anchor="/document/16/211181/bssPhr57/"></a><a data-anchor="/document/16/211181/dfasfvrfp1/" data-dfa="dfasfvrfp1"></a>Каких-либо нормативов, указывающих с&nbsp;какой периодичностью необходимо обновлять штатное расписание, не&nbsp;существует. Делать это можно по&nbsp;мере необходимости. Работодатель самостоятельно регулирует сроки или периоды изменения штатного расписания, а&nbsp;также утверждает новое штатное расписание. Например, если в&nbsp;течение года в&nbsp;штатное расписание вносили изменения или дополнения, то&nbsp;в&nbsp;начале календарного года с&nbsp;учетом данных изменений можно утвердить новое штатное расписание для удобства его применения в&nbsp;работе.</p><p><a data-anchor="/document/16/211181/bssPhr58/"></a><a data-anchor="/document/16/211181/dfasta1muf/" data-dfa="dfasta1muf"></a>Вместе с&nbsp;тем штатное расписание может быть утверждено один раз и&nbsp;действовать на&nbsp;протяжении нескольких лет. С&nbsp;учетом того, что зарплата начисляется работникам помесячно, изменения в&nbsp;штатное расписание логично вводить в&nbsp;действие с&nbsp;первого числа месяца.</p><p><a data-anchor="/document/16/211181/bssPhr59/"></a><a data-anchor="/document/16/211181/dfasu38mzg/" data-dfa="dfasu38mzg"></a>Изменения штатного расписания обычно затрагивают сотрудников, поэтому за&nbsp;ними следуют изменения <span num="27" target="_self" lnktype="intlnk" title="" class="doc">трудовых договоров</span>. В&nbsp;большинстве случаев для их&nbsp;применения необходимо согласие работников, соблюдение сроков уведомления персонала и&nbsp;прочее.</p><p><a data-anchor="/document/16/211181/bssPhr60/"></a><a data-anchor="/document/16/211181/dfass2hems/" data-dfa="dfass2hems"></a>При сокращении численности исключаются отдельные единицы, а&nbsp;при сокращении штата&nbsp;— отдельные подразделения. При этом работники, занимающие сокращаемые должности или работающие по&nbsp;сокращаемым профессиям, подлежат увольнению по&nbsp;соответствующим статьям Трудового кодекса и&nbsp;с&nbsp;соблюдением требований действующего законодательства.</p><p><a data-anchor="/document/16/211181/bssPhr61/"></a><a data-anchor="/document/16/211181/dfasgyff43/" data-dfa="dfasgyff43"></a><a data-anchor="/document/16/211181/dfasqe3gga/" data-dfa="dfasqe3gga"></a>При переводе сотрудников на&nbsp;другие должности, или при изменении условий труда, с&nbsp;работниками заключают дополнительные соглашения к&nbsp;трудовым договорам.</p></div><a data-anchor="/document/16/211181/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/211181/bssPhr62/"></a><a data-anchor="/document/16/211181/dfasrr9gol/" data-dfa="dfasrr9gol"></a>Штатная расстановка</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211181/bssPhr64/"></a><a data-anchor="/document/16/211181/dfasghfexw/" data-dfa="dfasghfexw"></a>Во&nbsp;многих организациях руководители или сотрудники кадровых служб практикуют ведение «рабочей» формы штатного расписания&nbsp;— штатной расстановки, иначе ее&nbsp;можно назвать штатно-должностным списком.</p><p><a data-anchor="/document/16/211181/bssPhr65/"></a><a data-anchor="/document/16/211181/dfas0uu39z/" data-dfa="dfas0uu39z"></a>Главное отличие этого документа от&nbsp;штатного расписания в&nbsp;том, что его можно оперативно менять в&nbsp;зависимости от&nbsp;происходящих численных и&nbsp;качественных изменений в&nbsp;личном составе предприятия и&nbsp;он&nbsp;не&nbsp;требует издания приказа о&nbsp;утверждении и&nbsp;изменении.</p><p><a data-anchor="/document/16/211181/bssPhr66/"></a><a data-anchor="/document/16/211181/dfasrg8td1/" data-dfa="dfasrg8td1"></a>Штатное расписание показывает общее количество штатных единиц (должностей) на&nbsp;предприятии и&nbsp;не&nbsp;дает возможности определить, вакантна должность или занята, кто из&nbsp;сотрудников ее&nbsp;занимает.</p><p><a data-anchor="/document/16/211181/bssPhr67/"></a><a data-anchor="/document/16/211181/dfasy6milc/" data-dfa="dfasy6milc"></a>В&nbsp;штатной расстановке указываются именно эти сведения:</p><ul class="c-list"><li><a data-anchor="/document/16/211181/bssPhr68/"></a><a data-anchor="/document/16/211181/dfast0rnbu/" data-dfa="dfast0rnbu"></a>фамилии и&nbsp;инициалы работников предприятия, занимающих должности, предусмотренные штатным расписанием;</li><li>статус должности&nbsp;— закрытый или вакантный.</li></ul><p><a data-anchor="/document/16/211181/bssPhr69/"></a><a data-anchor="/document/16/211181/dfaseog0yc/" data-dfa="dfaseog0yc"></a>В&nbsp;этот документ можно включать и&nbsp;другие данные:</p><ul class="c-list"><li><a data-anchor="/document/16/211181/bssPhr70/"></a><a data-anchor="/document/16/211181/dfaseg00v8/" data-dfa="dfaseg00v8"></a>табельный номер сотрудника;</li><li>стаж работы сотрудника в&nbsp;компании;</li><li>особая категория (инвалид, пенсионер, имеющий детей до&nbsp;трех лет и&nbsp;т.д.).</li></ul><p><a data-anchor="/document/16/211181/bssPhr71/"></a><a data-anchor="/document/16/211181/dfas7qwy9w/" data-dfa="dfas7qwy9w"></a><a data-anchor="/document/16/211181/dfaskm22w5/" data-dfa="dfaskm22w5"></a>За&nbsp;основу штатно-должностного списка берется утвержденное штатное расписание организации и&nbsp;в&nbsp;него добавляются необходимые графы в&nbsp;соответствии с&nbsp;потребностями организации. Ни&nbsp;обязанность по&nbsp;ведению штатной расстановки, ни&nbsp;ее&nbsp;унифицированная форма нормативными актами не&nbsp;установлены.</p></div><p><a data-anchor="/document/16/211181/dfasn5iqde/" data-dfa="dfasn5iqde"></a><a data-anchor="/document/16/211181/bssPhr72/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

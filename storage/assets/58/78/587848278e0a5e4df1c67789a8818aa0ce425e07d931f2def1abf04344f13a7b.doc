@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как оформить поступление товаров в качестве вклада в уставный фонд</h2><div class="doc-snippet"><a data-anchor="/document/16/211008/dfas0a9yr8/" data-dfa="dfas0a9yr8"></a><a data-anchor="/document/16/211008/bssPhr2/"></a>Оформление вклада товарами в&nbsp;уставной фонд и&nbsp;оценка вкладов зависит от&nbsp;организационно-правовой формы предприятия. В&nbsp;рекомендации узнаете все особенности, а&nbsp;также как отразить в&nbsp;налоговом и&nbsp;бухгалтерском учете поступление товаров в&nbsp;качестве вклада в&nbsp;уставный капитал. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211008/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211008/bssPhr6/"></a><a data-anchor="/document/16/211008/dfasggnaqv/" data-dfa="dfasggnaqv"></a>Определение себестоимости товара, полученного в&nbsp;качестве вклада в&nbsp;уставный капитал</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211008/bssPhr8/"></a><a data-anchor="/document/16/211008/dfas9ev0ec/" data-dfa="dfas9ev0ec"></a><a data-anchor="/document/16/211008/dfas3vtnk9/" data-dfa="dfas3vtnk9"></a>Получение товаров в&nbsp;качестве вклада в&nbsp;УФ оформляйте актом приема-передачи. Типовая форма такого документа не&nbsp;установлена, поэтому составьте его в&nbsp;произвольной форме с&nbsp;указанием обязательных реквизитов, определенных <span num="57" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;14</span>&nbsp;Закона о&nbsp;бухучете. Товары, полученные в&nbsp;качестве вклада в&nbsp;УФ, принимайте к&nbsp;бухучету в&nbsp;оценке, согласованной учредителями, участниками. В&nbsp;зависимости от&nbsp;организационно-правовой формы предприятия оценка вкладов в&nbsp;уставный капитал имуществом имеет свои особенности.</p><p><a data-anchor="/document/16/211008/bssPhr9/"></a><a data-anchor="/document/16/211008/dfas32vh03/" data-dfa="dfas32vh03"></a><a data-anchor="/document/16/211008/dfashkltes/" data-dfa="dfashkltes"></a>В&nbsp;ООО денежную оценку товаров, вносимых в&nbsp;качестве вклада в&nbsp;уставный фонд, утверждает решение общего собрания участников, учредителей при единогласном голосовании (<span num="7" target="_self" lnktype="intlnk" title="Вклады в уставный фонд (уставный капитал) общества" class="doc">ст.&nbsp;15</span>&nbsp;Закона об&nbsp;ООО). С&nbsp;1&nbsp;апреля 2023 года неденежные вклады в&nbsp;уставный фонд ООО стоимостью свыше 10&nbsp;000&nbsp;БРВ должны быть оценены оценочной организацией и&nbsp;не&nbsp;могут превышать оценочной стоимости (<span num="87" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;постановления Президента Республики Узбекистан от&nbsp;08.11.2022 № ПП-415).</p><p><a data-anchor="/document/16/211008/bssPhr10/"></a><a data-anchor="/document/16/211008/dfaskxcl3w/" data-dfa="dfaskxcl3w"></a>В&nbsp;АО&nbsp;денежная оценка товаров, вносимых в&nbsp;качестве вклада в&nbsp;уставный капитал, также согласовывается со&nbsp;всеми участниками. Но&nbsp;если номинальная стоимость приобретаемых таким способом акций и&nbsp;иных ценных бумаг общества выше 200-кратного размера установленной законодательством БРВ на&nbsp;текущий момент, то&nbsp;подтвердить денежную оценку такого вклада должна оценочная организация (<span num="9" target="_self" lnktype="intlnk" title="При размещении акций и иных ценных бумаг общества их оплата осуществляется денежными и другими средствами платежа, имуществом, а также правами (в том числе имущественными), имеющими..." class="doc">ст.&nbsp;31</span>&nbsp;Закона об&nbsp;акционерных обществах и&nbsp;защите прав акционеров).</p><p><a data-anchor="/document/16/211008/bssPhr11/"></a><a data-anchor="/document/16/211008/dfasqg8z7f/" data-dfa="dfasqg8z7f"></a>В&nbsp;ЧП&nbsp;собственник самостоятельно оценивает товары, вносимые им&nbsp;в&nbsp;уставный фонд (<span num="11" target="_self" lnktype="intlnk" title="Уставный фонд частного предприятия" class="doc">ст.&nbsp;12</span>&nbsp;Закона о&nbsp;частном предприятии). Денежную оценку товаров собственник оформляет своим решением, а&nbsp;поступление товаров&nbsp;— актом приема-передачи.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как документально оформить передачу учредителем ООО товара в качестве вклада в УФ</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/211008/bssPhr13/"></a><a data-anchor="/document/16/211008/dfasxez39a/" data-dfa="dfasxez39a"></a>Если учредитель — юридическое лицо, то оформляйте стандартный ЭСФ — тип «Без оплаты». В итоговой строке ЭСФ проставляйте запись «вклад в уставный фонд, уставный капитал» (<span num="107" target="_self" lnktype="intlnk" title="" class="doc">п. 52</span> Положения о о формах счетов-фактур и порядке их заполнения, представления и приема, приложение № 2 к ПКМ от 14.08.2020 № 489<strong>)</strong>.</p><p style="text-align:left"><a data-anchor="/document/16/211008/bssPhr14/"></a><a data-anchor="/document/16/211008/dfasqutup9/" data-dfa="dfasqutup9"></a>Если учредитель — физическое лицо, передачу вклада в виде товара в уставный фонд оформляйте актом приема-передачи, где стоимость товара указывайте без НДС.</p></div></div></div><a data-anchor="/document/16/211008/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211008/bssPhr15/"></a><a data-anchor="/document/16/211008/dfasyktth0/" data-dfa="dfasyktth0"></a>Бухучет поступления товаров в&nbsp;качестве вклада в&nbsp;уставный капитал</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211008/bssPhr19/"></a><a data-anchor="/document/16/211008/dfas0mkvtc/" data-dfa="dfas0mkvtc"></a>Поступление товаров в&nbsp;качестве вклада в&nbsp;уставный капитал отразите проводками, установленными в <span num="120" target="_self" lnktype="intlnk" title="" class="doc">пунктах 196 –&nbsp;198</span> НСБУ № 21:</p><p><a data-anchor="/document/16/211008/bssPhr20/"></a><a data-anchor="/document/16/211008/dfaszqlv18/" data-dfa="dfaszqlv18"></a><strong>Дебет 4610 Кредит 8300</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211008/bssPhr21/"></a><a data-anchor="/document/16/211008/dfasobg0x2/" data-dfa="dfasobg0x2"></a>отражена величина уставного капитала и&nbsp;задолженность учредителей по&nbsp;вкладам в&nbsp;уставный капитал;</li></ul><p><a data-anchor="/document/16/211008/bssPhr22/"></a><a data-anchor="/document/16/211008/dfas5hfdhr/" data-dfa="dfas5hfdhr"></a><strong>Дебет 2900 Кредит 4610 </strong> «Задолженность учредителей по&nbsp;вкладам в&nbsp;уставный капитал»</p><ul class="c-list"><li><a data-anchor="/document/16/211008/bssPhr23/"></a><a data-anchor="/document/16/211008/dfasgm2q7i/" data-dfa="dfasgm2q7i"></a>получены товары в&nbsp;качестве вклада в&nbsp;уставный капитал;</li></ul><p><a data-anchor="/document/16/211008/bssPhr24/"></a><a data-anchor="/document/16/211008/dfasxhhs75/" data-dfa="dfasxhhs75"></a><strong>Дебет 4400 Кредит 4610</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211008/bssPhr25/"></a><a data-anchor="/document/16/211008/dfasl1umoo/" data-dfa="dfasl1umoo"></a>отражен НДС по&nbsp;полученным материалам в&nbsp;качестве вклада в&nbsp;уставный капитал (у&nbsp;плательщиков НДС).</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211008/dfaszz3n8z/" data-dfa="dfaszz3n8z"></a><a data-anchor="/document/16/211008/bssPhr26/"></a>Как отразить в&nbsp;бухучете поступление товаров в&nbsp;качестве вклада в&nbsp;уставный капитал</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211008/bssPhr27/"></a><a data-anchor="/document/16/211008/dfasi2xiw5/" data-dfa="dfasi2xiw5"></a>ООО «Альфа»&nbsp;— учредитель ООО «Гермес». Доля «Альфы» составляет 12&nbsp;000&nbsp;000&nbsp;сумов. В&nbsp;качестве вклада в&nbsp;уставный капитал «Гермеса» «Альфа» внесла товары стоимостью 13&nbsp;440&nbsp;000&nbsp;сумов, в&nbsp;том числе НДС&nbsp;— 1&nbsp;440&nbsp;000&nbsp;сумов. Стоимость этих товаров согласована и&nbsp;утверждена решением учредителей. Организация учитывает товары на&nbsp;счете <strong>2910 </strong>по&nbsp;фактической себестоимости.</p><p><a data-anchor="/document/16/211008/bssPhr28/"></a><a data-anchor="/document/16/211008/dfasxmt9eg/" data-dfa="dfasxmt9eg"></a>Бухгалтер «Гермеса» сделал в&nbsp;учете такие проводки:</p><p><a data-anchor="/document/16/211008/bssPhr29/"></a><a data-anchor="/document/16/211008/dfas3kt6yf/" data-dfa="dfas3kt6yf"></a><strong>Дебет 4610 Кредит 8330 </strong>«Паи и&nbsp;вклады»<br>—&nbsp;12&nbsp;000&nbsp;000 сумов&nbsp;— отражена задолженность «Альфы» по&nbsp;вкладу в&nbsp;уставный капитал «Гермеса»;<br><strong>Дебет 2910 Кредит 4610</strong><br>—&nbsp;12&nbsp;000&nbsp;000 сумов&nbsp;— поступили товары в&nbsp;качестве вклада в&nbsp;уставный капитал;<br><strong>Дебет 4410 Кредит 4610</strong><br>—&nbsp;1&nbsp;440&nbsp;000 сумов&nbsp;— выделен НДС со&nbsp;стоимости товаров, полученных в&nbsp;качестве вклада в&nbsp;уставный капитал.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно&#160;ли в&#160;бухучете увеличить стоимость товаров, полученных в&#160;качестве вклада в&#160;УФ, на&#160;сумму затрат получения товаров</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211008/bssPhr31/"></a><a data-anchor="/document/16/211008/dfasc7l4gt/" data-dfa="dfasc7l4gt"></a>Да, можно.</p><p><a data-anchor="/document/16/211008/bssPhr32/"></a><a data-anchor="/document/16/211008/dfasrphi92/" data-dfa="dfasrphi92"></a>При получении товаров в&nbsp;качестве вклада в&nbsp;уставный капитал можно учесть расходы, связанные с&nbsp;их&nbsp;получением (<span num="21" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;25</span>&nbsp;НСБУ №&nbsp;4).</p></div></div></div><a data-anchor="/document/16/211008/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211008/bssPhr33/"></a><a data-anchor="/document/16/211008/dfasovlfhr/" data-dfa="dfasovlfhr"></a>Налогообложение поступления товаров в&nbsp;качестве вклада в&nbsp;уставный капитал</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211008/bssPhr35/"></a><a data-anchor="/document/16/211008/dfasmg4b56/" data-dfa="dfasmg4b56"></a>При получении товаров в&nbsp;качестве вклада в&nbsp;уставный капитал получатель&nbsp;— плательщик НДС принимает к&nbsp;зачету сумму НДС, указанную в&nbsp;счете-фактуре учредителя. Зачет НДС производится при соблюдении условий статей <span num="23" target="_self" lnktype="intlnk" title="" class="doc">266</span>, <span num="24" target="_self" lnktype="intlnk" title="" class="doc">267</span>, <span num="25" target="_self" lnktype="intlnk" title="" class="doc">268</span>&nbsp;НК.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211008/dfase0r14y/" data-dfa="dfase0r14y"></a><a data-anchor="/document/16/211008/bssPhr36/"></a>Если предприятие&nbsp;— неплательщик НДС или освобождено от&nbsp;уплаты НДС, зачет не&nbsp;производится</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211008/bssPhr37/"></a><a data-anchor="/document/16/211008/dfas5wvvcw/" data-dfa="dfas5wvvcw"></a>Это предусмотрено в <span num="67" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;267</span>&nbsp;НК. В&nbsp;этом случае сумму НДС, указанную учредителем в&nbsp;счете-фактуре, включайте в&nbsp;фактическую себестоимость товаров.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211008/bssPhr38/"></a><a data-anchor="/document/16/211008/dfasc6g6tb/" data-dfa="dfasc6g6tb"></a>С <strong>1&nbsp;января 2023 года </strong> ставка НДС <strong>12&nbsp;процентов</strong> (<span num="68" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;258&nbsp;НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211008/dfasge1eka/" data-dfa="dfasge1eka"></a><a data-anchor="/document/16/211008/bssPhr39/"></a>С&nbsp;1&nbsp;января 2023 года в&nbsp;счетах-фактурах должна быть указана ставка НДС 12&nbsp;процентов, независимо от&nbsp;даты заключения договоров</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211008/bssPhr40/"></a><a data-anchor="/document/16/211008/dfasfg0pbx/" data-dfa="dfasfg0pbx"></a><a data-anchor="/document/16/211008/dfas2s647h/" data-dfa="dfas2s647h"></a>Полученные вклады в&nbsp;уставный капитал не&nbsp;рассматриваются в&nbsp;качестве дохода предприятия и&nbsp;не&nbsp;включаются в&nbsp;налогооблагаемую базу при расчете налога на&nbsp;прибыль или налога с&nbsp;оборота (<span num="26" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ст.&nbsp;304&nbsp;НК, <span num="27" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;463&nbsp;НК)<strong>. </strong>НДС, отраженный в&nbsp;счетах-фактурах на&nbsp;полученные товары, а&nbsp;также на&nbsp;услуги, связанные с&nbsp;их&nbsp;получением, получатели&nbsp;— плательщики НДС принимают к&nbsp;зачету.</p><p><a data-anchor="/document/16/211008/bssPhr41/"></a><a data-anchor="/document/16/211008/dfashwdnfm/" data-dfa="dfashwdnfm"></a>Подробнее о&nbsp;том, <span num="28" target="_self" lnktype="intlnk" title="" class="doc">как принять к&nbsp;зачету входной НДС</span> читайте в&nbsp;рекомендации от&nbsp;эксперта Системы Главбух.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Начислять&#160;ли НДС при передаче учредителем ООО товара в&#160;качестве вклада в&#160;УФ</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/211008/bssPhr43/"></a><a data-anchor="/document/16/211008/dfas4nmd2i/" data-dfa="dfas4nmd2i"></a>Начислять, если учредитель&nbsp;— плательщик НДС.</p><p style="text-align:left"><a data-anchor="/document/16/211008/bssPhr44/"></a><a data-anchor="/document/16/211008/dfas0x2a6z/" data-dfa="dfas0x2a6z"></a>В&nbsp;этом случае передача товаров в&nbsp;качестве вклада в&nbsp;уставный фонд юридического лица будет оборотом по&nbsp;реализации товаров (<span num="22" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;4&nbsp;ст.&nbsp;239&nbsp;НК). Следовательно, учредитель должен передать товары с&nbsp;учетом НДС.</p><p><a data-anchor="/document/16/211008/bssPhr45/"></a><a data-anchor="/document/16/211008/dfas1hwsvi/" data-dfa="dfas1hwsvi"></a>Если учредитель не&nbsp;плательщик НДС, например, физическое лицо или плательщик налога с&nbsp;оборота, то&nbsp;при передаче товаров в&nbsp;качестве вклада в&nbsp;уставный фонд юридического лица НДС не&nbsp;начисляют.</p><p style="text-align:left"><a data-anchor="/document/16/211008/bssPhr46/"></a><a data-anchor="/document/16/211008/dfas89ov2w/" data-dfa="dfas89ov2w"></a><a data-anchor="/document/16/211008/dfas66mmna/" data-dfa="dfas66mmna"></a>Следовательно, если учредитель передает товары с&nbsp;учетом НДС, то&nbsp;вклад учредителя учитывайте также с&nbsp;НДС.</p><p style="text-align:left"><a data-anchor="/document/16/211008/bssPhr47/"></a><a data-anchor="/document/16/211008/dfasbeux9v/" data-dfa="dfasbeux9v"></a>Если предприятие&nbsp;— плательщик НДС, то&nbsp;сумму НДС, указанную в&nbsp;счет-фактуре учредителя (юридического лица&nbsp;— плательщика НДС), предприятие вправе принять к&nbsp;зачету, при выполнении условий зачета, предусмотренных в <span num="109" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;266</span>&nbsp;НК. В&nbsp;частности, полученные товары будут использовать при осуществлении деятельности налогоплательщика, связанной с&nbsp;производством или реализацией товаров, оказанием услуг, обороты по&nbsp;реализации которых подлежат налогообложению, в&nbsp;том числе по&nbsp;нулевой ставке.</p></div></div></div><p><a data-anchor="/document/16/211008/dfasg64z84/" data-dfa="dfasg64z84"></a><a data-anchor="/document/16/211008/bssPhr48/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как заполнить отчетность по фиксированному налогу</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203612/dfasgg2keu/" data-dfa="dfasgg2keu"></a><a data-anchor="/document/16/203612/bssPhr1/"></a>Индивидуальный предприниматель, выручка которого не превышает 1 млрд сумов, ведет регистры учета доходов и товарных операций, а также книгу товарных чеков (<a data-anchor="/document/16/203612/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/4223/dfash5ttqi/" class="link npd" title="3. Товарларни (ишларни, хизматларни) реализация қилишдан олинган тушуми бир миллиард сўмдан ошмаган якка тартибдаги тадбиркорлар томонидан даромадларни ва товар операцияларини ҳисобга..." moduleId="90" documentId="4223" anchor="dfash5ttqi">п. 3</a> Положения о порядке исчисления выручки от реализации товаров (работ, услуг) и уплаты налогов индивидуальными предпринимателями, рег. № 3143 от 19.03.2019 г.).</p><p><a data-anchor="/document/16/203612/dfasu10e03/" data-dfa="dfasu10e03"></a><a data-anchor="/document/16/203612/bssPhr2/"></a>Регистры учета доходов и товарных операций, книга товарных чеков ведутся по форме согласно <a data-anchor="/document/16/203612/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/4091/dfast0gi74/" class="link npd" title="Формы налоговой отчетности по фиксированному налогу" moduleId="90" documentId="4091" anchor="dfast0gi74">приложению № 11</a> постановление МФ и ГНК (рег. № 3126 от 21.01.2019 г.). При этом регистры учета доходов и товарных операций сшиваются в форме книги и на ее первом листе заполняются данные об индивидуальном предпринимателе.</p><p><a data-anchor="/document/16/203612/dfasx3cpx2/" data-dfa="dfasx3cpx2"></a><a data-anchor="/document/16/203612/bssPhr3/"></a>Последующие листы Книги учета прошиваются в достаточном для осуществления деятельности количестве, исходя из вида деятельности:</p><p><a data-anchor="/document/16/203612/dfas62pg2a/" data-dfa="dfas62pg2a"></a><a data-anchor="/document/16/203612/bssPhr4/"></a>– регистры о движении товаров индивидуального предпринимателя, занимающегося розничной торговлей;</p><p><a data-anchor="/document/16/203612/dfasbla24g/" data-dfa="dfasbla24g"></a><a data-anchor="/document/16/203612/bssPhr5/"></a>– регистры о движении товаров индивидуального предпринимателя, завозящего товары из-за рубежа для коммерческой деятельности;</p><p><a data-anchor="/document/16/203612/dfasqowv35/" data-dfa="dfasqowv35"></a><a data-anchor="/document/16/203612/bssPhr6/"></a>– регистры о движении оказанных услуг индивидуальным предпринимателем (<a data-anchor="/document/16/203612/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/4223/dfasq95451/" class="link npd" title="4. Даромадларни ва товар операцияларини ҳисобга олиш регистрлари ва товар чеклари китобчаси Ўзбекистон Республикаси Молия вазирлиги ва Давлат солиқ қўмитасининг 2019 йил 7 январдаги..." moduleId="90" documentId="4223" anchor="dfasq95451">п. 4</a> Положения № 3143).</p><p><a data-anchor="/document/16/203612/dfasfg3opo/" data-dfa="dfasfg3opo"></a><a data-anchor="/document/16/203612/bssPhr7/"></a>Индивидуальный предприниматель, который ведет денежные расчеты с населением без применения ККМ, представляет в налоговую службу книги товарных чеков для регистрации. Книги товарных чеков на основании заявления индивидуального предпринимателя регистрируются в  налоговой службе по месту его регистрации. </p><a data-anchor="/document/16/203612/dfasqefl2p/" data-dfa="dfasqefl2p"></a><a data-anchor="/document/16/203612/bssPhr8/"></a><a data-anchor="/document/16/203612/tit0/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Как контролируют выручку индивидуального предпринимателя</h2><p><a data-anchor="/document/16/203612/dfaskba5ps/" data-dfa="dfaskba5ps"></a><a data-anchor="/document/16/203612/bssPhr9/"></a>Основанием для перевода индивидуального предпринимателя с уплаты фиксированного налога на уплату ЕНП для налоговых органов считается:</p><p><a data-anchor="/document/16/203612/dfasep0cbf/" data-dfa="dfasep0cbf"></a><a data-anchor="/document/16/203612/bssPhr10/"></a>– налоговый отчет, который представил индивидуальным предпринимателем;</p><p><a data-anchor="/document/16/203612/dfassluum6/" data-dfa="dfassluum6"></a><a data-anchor="/document/16/203612/bssPhr11/"></a>– сведения банка об осуществлении товарооборота по расчетным счетам в размере свыше 100 млн сумов, но не более 1 млрд сумов;</p><p><a data-anchor="/document/16/203612/dfas5q9dgu/" data-dfa="dfas5q9dgu"></a><a data-anchor="/document/16/203612/bssPhr12/"></a>– данные камерального контроля о приобретении ИП товаров на сумму свыше 100 млн сумов, но не более 1 млрд сумов;</p><p><a data-anchor="/document/16/203612/dfasmbbe4f/" data-dfa="dfasmbbe4f"></a><a data-anchor="/document/16/203612/bssPhr13/"></a>– сведения таможенных органов об импорте товаров на сумму свыше 100 млн сумов, но не более 1 млрд сумов;</p><p><a data-anchor="/document/16/203612/dfashdo8uk/" data-dfa="dfashdo8uk"></a><a data-anchor="/document/16/203612/bssPhr14/"></a>– исчисление по результатам проведенного в установленном порядке хронометражного обследования размера выручки свыше 100 млн сумов, но не более 1 млрд сумов;</p><p><a data-anchor="/document/16/203612/dfasw1dyxh/" data-dfa="dfasw1dyxh"></a><a data-anchor="/document/16/203612/bssPhr15/"></a>– заключение о размере выручки свыше 100 млн сумов, но не более 1 млрд сумов на основе других данных, полученных от соответствующих организаций (<a data-anchor="/document/16/203612/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/4223/dfasgu5l1t/" class="link npd" title="15. Якка тартибдаги тадбиркорларни қатъий белгиланган солиққа тортиш тартибидан ягона солиқ тўловига ўтказиш учун солиқ органларига қуйидаги белгилар асос бўлиши мумкин:" moduleId="90" documentId="4223" anchor="dfasgu5l1t">п. 15</a> Положения № 3143).</p><p><a data-anchor="/document/16/203612/dfas1t3mc0/" data-dfa="dfas1t3mc0"></a><a data-anchor="/document/16/203612/bssPhr16/"></a>Если в ходе камерального контроля выявлено, что выручка от реализации превысила 100 млн сумов, но не превысила 1 млрд сумов, налоговые органы направляют индивидуальному предпринимателю требование:</p><p><a data-anchor="/document/16/203612/dfasgfipqu/" data-dfa="dfasgfipqu"></a><a data-anchor="/document/16/203612/bssPhr17/"></a>– представить обоснования полученных сведений с доказательствами о непревышении выручки сверх 100 млн сумов;</p><p><a data-anchor="/document/16/203612/dfas2u4l39/" data-dfa="dfas2u4l39"></a><a data-anchor="/document/16/203612/bssPhr18/"></a>или</p><p><a data-anchor="/document/16/203612/dfasgbgxgq/" data-dfa="dfasgbgxgq"></a><a data-anchor="/document/16/203612/bssPhr19/"></a>– перейти на ЕНП.</p><a data-anchor="/document/16/203612/dfasxd02vy/" data-dfa="dfasxd02vy"></a><a data-anchor="/document/16/203612/bssPhr20/"></a><a data-anchor="/document/16/203612/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Когда сдать отчетность по фиксированному налогу</h2><p><a data-anchor="/document/16/203612/dfasyz147w/" data-dfa="dfasyz147w"></a><a data-anchor="/document/16/203612/bssPhr21/"></a>Индивидуальный предприниматель представляет отчеты в зависимости от размера выручки.</p><p><a data-anchor="/document/16/203612/dfasp592vr/" data-dfa="dfasp592vr"></a><a data-anchor="/document/16/203612/bssPhr22/"></a>Ситуация 1. При выручке до 100 млн сумов – отчет индивидуального предпринимателя по выручке от реализации товаров (работ, услуг) (<a data-anchor="/document/16/203612/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/4091/dfast0gi74/" class="link npd" title="Формы налоговой отчетности по фиксированному налогу" moduleId="90" documentId="4091" anchor="dfast0gi74">прил. №11</a> к постановление № 3126).</p><p><a data-anchor="/document/16/203612/dfasgxiv5a/" data-dfa="dfasgxiv5a"></a><a data-anchor="/document/16/203612/bssPhr23/"></a>Ситуация 2. При выручке в диапазоне 100 млн сумов – 1 млрд сумов – формы отчетов по ЕНП (<a data-anchor="/document/16/203612/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/4091/dfasnmpx6e/" class="link npd" title="ФОРМЫ НАЛОГОВОЙ ОТЧЕТНОСТИ" moduleId="90" documentId="4091" anchor="dfasnmpx6e">прил. № 9</a> к постановление № 3126);</p><p><a data-anchor="/document/16/203612/dfas20mnsr/" data-dfa="dfas20mnsr"></a><a data-anchor="/document/16/203612/bssPhr24/"></a>Ситуация 3. При выручке более 1 млрд сумов – отчеты сдают так же, как и юрлица по общеустановленной системе налогообложения.</p><p><a data-anchor="/document/16/203612/dfas2n7ewz/" data-dfa="dfas2n7ewz"></a><a data-anchor="/document/16/203612/bssPhr25/"></a>Индивидуальный предприниматель – плательщик фиксированного налога сдает отчеты по товарообороту в налоговую службу по месту учета ежеквартально не позднее 10 числа месяца, следующего за отчетным кварталом. При этом отчеты не сдаются с месяца, следующего за месяцем, в котором выручка индивидуального предпринимателя превысила 100 млн сумов (<a data-anchor="/document/16/203612/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/4223/dfasbptmhv/" class="link npd" title="24. Товарларни (ишларни, хизматларни) реализация қилишдан олинган тушумлари 100 миллион сўмдан ошмаган якка тартибдаги тадбиркор томонидан ҳисобга олиш жойидаги солиқ органига товар..." moduleId="90" documentId="4223" anchor="dfasbptmhv">п. 24</a> Положения № 3143).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>В какие сроки сдает отчет индивидуальный предприниматель, который занимается торговлей и индивидуальный предприниматель, который завозит товары для коммерческой деятельности?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203612/dfasbtdyfd/" data-dfa="dfasbtdyfd"></a><a data-anchor="/document/16/203612/bssPhr33/"></a>– Индивидуальный предприниматель сдает отчеты по товарообороту ежеквартально, а завозящие для коммерческой деятельности – ежемесячно (<span title="Индивидуальные предприниматели, осуществляющие торговую деятельность, обязаны вести учет доходов и осуществленных товарных операций в регистрах учета доходов и товарных операций." num="15" lnktype="intlnk" class="doc">ст. 374</span> НК).</p></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

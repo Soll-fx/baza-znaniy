@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Что такое наблюдение как процедура банкротства</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206018/dfasdxdgeh/" data-dfa="dfasdxdgeh"></a><a data-anchor="/document/16/206018/bssPhr2/"></a>Из рекомендации узнаете, что подразумевает процедура наблюдения при банкротстве и в каком порядке вводится, какие последствия возникают при введении наблюдения, какой порядок назначения временного управляющего для проведения наблюдения и какие у него права и обязанности. Эксперты пояснили, в каком порядке проводить первое собрание кредиторов, какие полномочия оно имеет и какие решения принимает. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206018/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206018/bssPhr3/"></a><a data-anchor="/document/16/206018/dfas0vz3n3/" data-dfa="dfas0vz3n3"></a>Наблюдение как процедура банкротства</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206018/bssPhr5/"></a><a data-anchor="/document/16/206018/dfas876gla/" data-dfa="dfas876gla"></a>Наблюдение – это первая процедура банкротства, с которой начинается&nbsp;рассмотрение дела о признании должника банкротом. Экономический суд применяет наблюдение к должнику – юрлицу с момента принятия судом заявления о признании должника банкротом. Наблюдение продолжается до следующей процедуры и имеет две основные цели: обеспечить сохранность имущества должника и провести анализ его финансового состояния (<span num="10" lnktype="intlnk" title="" class="doc">ст. 3</span> Закона о банкротстве).</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr6/"></a><a data-anchor="/document/16/206018/dfasiidbtd/" data-dfa="dfasiidbtd"></a>Финансовое состояние должника анализируют с целью определить достаточность имущества, принадлежащего должнику, для покрытия судебных расходов, расходов на выплату вознаграждения судебным управляющим. Также определяют возможно или невозможно восстановить платежеспособность должника.</p></div><a data-anchor="/document/16/206018/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206018/bssPhr7/"></a><a data-anchor="/document/16/206018/dfasxxzggl/" data-dfa="dfasxxzggl"></a>Порядок введения наблюдения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206018/bssPhr9/"></a><a data-anchor="/document/16/206018/dfaspdb6eu/" data-dfa="dfaspdb6eu"></a>Наблюдение вводится при возбуждении дела о банкротстве с даты, когда экономический суд принял заявление о признании должника банкротом к производству (<span num="11" lnktype="intlnk" title="" class="doc">ст. 62</span> Закона о банкротстве). Исключение составляют случаи, при которых закон предусматривает применение к должнику иной процедуры банкротства. Если экономический суд возбудит дело о банкротстве, то в определении суда о принятии заявления к производству должно быть указано о введении наблюдения.</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr10/"></a><a data-anchor="/document/16/206018/dfaso7m2qa/" data-dfa="dfaso7m2qa"></a>После введения наблюдения необходимо уведомить всех лиц, участвующих в деле.</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr11/"></a><a data-anchor="/document/16/206018/dfasktznx4/" data-dfa="dfasktznx4"></a>Для этого <a href="https://1gb.uz/#/document/16/206018/dfas9w715h/">временный управляющий</a>&nbsp;в течение трех дней с момента его назначения направляет для публикации в официальном издании сообщение о введении в отношении должника наблюдения (<span num="12" lnktype="intlnk" title="" class="doc">ст. 68</span> Закона о банкротстве). Далее, не позднее десяти дней с даты публикации сообщения о введении наблюдения, временный управляющий должен уведомить всех выявленных кредиторов должника. Исключение составляют кредиторы по выплате задолженности по заработной плате. Руководитель должника обязан уведомить своих работников, учредителей или собственника имущества о вынесении экономическим судом определения о введении в отношении должника наблюдения.</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr12/"></a><a data-anchor="/document/16/206018/dfas8sadvn/" data-dfa="dfas8sadvn"></a>Уведомить кредиторов о введении наблюдения необходимо сообщением, способ передачи которого позволяет установить дату получения кредитором такого сообщения. Но кредиторов по требованиям по выплате задолженности по заработной плате уведомляют другим способом, а именно путем созыва и проведения общего собрания работников должника.</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr13/"></a><a data-anchor="/document/16/206018/dfaslyosqg/" data-dfa="dfaslyosqg"></a>Учредителей, участников должника уведомляют на общем собрании. Также можно направить сообщение о введении в отношении должника наблюдения органу юрлица, имеющему в соответствии с законодательством или учредительными документами право созывать общее собрание учредителей, участников.</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr14/"></a><a data-anchor="/document/16/206018/dfasd3r5td/" data-dfa="dfasd3r5td"></a>Сообщение о введении в отношении должника наблюдения должно содержать:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206018/bssPhr15/"></a><a data-anchor="/document/16/206018/dfas8k7m1o/" data-dfa="dfas8k7m1o"></a>наименование, фамилию, имя, отчество должника и его почтовый адрес;</li><li style="text-align:left">наименование экономического суда, вынесшего определение о введении в отношении должника наблюдения, дату вынесения такого определения и номер дела о банкротстве;</li><li style="text-align:left">фамилию, имя, отчество назначенного временного управляющего и его почтовый адрес;</li><li style="text-align:left">установленную экономическим судом дату, время и место судебного заседания по рассмотрению дела о банкротстве;</li><li style="text-align:left">иную информацию по усмотрению отправителя сообщения: временного управляющего или руководителя должника.</li></ul></div><a data-anchor="/document/16/206018/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206018/bssPhr16/"></a><a data-anchor="/document/16/206018/dfasai5l55/" data-dfa="dfasai5l55"></a>Последствия введения наблюдения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206018/bssPhr18/"></a><a data-anchor="/document/16/206018/dfas61zlo2/" data-dfa="dfas61zlo2"></a>Перечень последствий, которые возникают при введении наблюдения предусмотрен <span num="23" lnktype="intlnk" title="" class="doc">статьей 63</span> Закона о банкротстве. Так с момента введения наблюдения:</p><ol class="c-list"><li><a data-anchor="/document/16/206018/bssPhr19/"></a><a data-anchor="/document/16/206018/dfas84pknb/" data-dfa="dfas84pknb"></a>приостанавливают исполнение исполнительных документов по имущественным взысканиям. Не приостанавливают исполнение исполнительных документов, выданных на основании судебных актов о взыскании задолженности по заработной плате, выплате вознаграждений по авторским договорам, алиментов, а также о возмещении вреда, причиненного жизни или здоровью, компенсации морального вреда, вступивших в законную силу до момента принятия экономическим судом заявления о признании должника банкротом к производству. Определение экономического суда о принятии заявления к производству и возбуждении дела о банкротстве приостанавливает исполнение исполнительных документов;</li></ol><ol class="c-list" style="counter-reset: item 1;" start="2"><li><a data-anchor="/document/16/206018/bssPhr20/"></a><a data-anchor="/document/16/206018/dfaso4qo5d/" data-dfa="dfaso4qo5d"></a>запрещают удовлетворять требования учредителей должника – юрлица о выделе доли в имуществе в связи с выходом из состава его учредителей;</li></ol><ol class="c-list" style="counter-reset: item 2;" start="3"><li><a data-anchor="/document/16/206018/bssPhr21/"></a><a data-anchor="/document/16/206018/dfasn2mpdm/" data-dfa="dfasn2mpdm"></a>запрещают выплаты дивидендов и иных платежей по эмиссионным ценным бумагам;</li></ol><ol class="c-list" style="counter-reset: item 3;" start="4"><li><a data-anchor="/document/16/206018/bssPhr22/"></a><a data-anchor="/document/16/206018/dfasmd12gw/" data-dfa="dfasmd12gw"></a>не допускают прекращения денежных обязательств должника путем зачета встречного однородного требования, если при этом нарушается очередность удовлетворения требований кредиторов, предусмотренных Законом.</li></ol><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr23/"></a><a data-anchor="/document/16/206018/dfastsfyku/" data-dfa="dfastsfyku"></a>Закон установил, что введение наблюдения не может служить основанием для отстранения руководителя должника и иных органов управления должника. Они могут продолжить исполнять свои полномочия, но с определенными ограничениями.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/206018/dfasopd9zb/" data-dfa="dfasopd9zb"></a><a data-anchor="/document/16/206018/bssPhr24/"></a>Органы управления должника могут совершать исключительно с письменного согласия временного управляющего сделки, связанные:</name></p><div class="incut-v4__content" data-incut-content=""><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206018/bssPhr25/"></a><a data-anchor="/document/16/206018/dfas8r7nca/" data-dfa="dfas8r7nca"></a>с передачей недвижимого имущества в аренду, залог или с распоряжением таким имуществом иным способом;</li><li style="text-align:left">распоряжением имуществом должника, балансовая стоимость которого составляет более 10 процентов балансовой стоимости активов должника;</li><li style="text-align:left">получением и выдачей займов, кредитов, выдачей поручительств и гарантий, уступкой прав требований, переводом долга, а также с заключением договора доверительного управления имуществом должника.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr26/"></a><a data-anchor="/document/16/206018/dfasog191n/" data-dfa="dfasog191n"></a>Органы управления должника не вправе принимать решения:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206018/bssPhr27/"></a><a data-anchor="/document/16/206018/dfasr890os/" data-dfa="dfasr890os"></a>о реорганизации: слиянии, присоединении, разделении, выделении, преобразовании и ликвидации должника;</li><li style="text-align:left">создании юрлиц или об участии в иных юрлицах;</li><li style="text-align:left">открытии представительств и создании филиалов;</li><li style="text-align:left">выплате дивидендов или распределении дохода, прибыли должника между его учредителями, участниками;</li><li style="text-align:left">размещении должником облигаций и иных эмиссионных бумаг, за исключением решения о выпуске акций;</li><li style="text-align:left">приобретении у акционеров ранее выпущенных акций.</li></ul></div></div></div><a data-anchor="/document/16/206018/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206018/bssPhr28/"></a><a data-anchor="/document/16/206018/dfas9w715h/" data-dfa="dfas9w715h"></a>Порядок назначения временного управляющего</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206018/bssPhr30/"></a><a data-anchor="/document/16/206018/dfasxif00b/" data-dfa="dfasxif00b"></a>Экономический суд назначает временного управляющего для проведения процедуры наблюдения. Его назначают из числа кандидатур, предложенных кредиторами или государственным органом по делам о банкротстве, либо профессиональным объединением судебных управляющих. Порядок назначения временного управляющего закреплен в <span num="24" lnktype="intlnk" title="" class="doc">статье 64</span> Закона о банкротстве. Временный управляющий получает вознаграждение за выполнение своих обязанностей. Размер и порядок выплаты вознаграждения должен быть указан в определении о назначении временного управляющего. Размер вознаграждения может изменить экономический суд на основании решения собрания кредиторов.</p></div><a data-anchor="/document/16/206018/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206018/bssPhr31/"></a><a data-anchor="/document/16/206018/dfasde6qhv/" data-dfa="dfasde6qhv"></a>Права и обязанности временного управляющего</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206018/bssPhr33/"></a><a data-anchor="/document/16/206018/dfasecpp99/" data-dfa="dfasecpp99"></a>Временный управляющий имеет право обратиться в экономический суд с заявлением об освобождении от исполнения обязанностей, и в случае удовлетворения, суд назначает нового временного управляющего из числа кандидатур, предложенных кредиторами. Если кредиторы не представили кандидатуру временного управляющего, суд назначает временного управляющего из числа кандидатур, предложенных государственным органом по делам о банкротстве либо профессиональным объединением судебных управляющих. Временный управляющий продолжает исполнять свои обязанности до назначения нового.</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr34/"></a><a data-anchor="/document/16/206018/dfasermkpa/" data-dfa="dfasermkpa"></a><span num="25" lnktype="intlnk" title="" class="doc">Статья 66</span> Закона «О банкротстве» наделяет временного управляющего правами:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206018/bssPhr35/"></a><a data-anchor="/document/16/206018/dfasg3ow8i/" data-dfa="dfasg3ow8i"></a>предъявлять в экономический суд от своего имени требования о признании недействительными сделок, а также о применении последствий недействительности ничтожных сделок, заключенных или исполненных должником с нарушением требований, установленных законодательством;</li><li style="text-align:left">заявлять возражения на исполнение требований кредиторов в период наблюдения в случаях, предусмотренных законом;</li><li style="text-align:left">принимать участие при проверке судьей обоснованности представленных возражений должника по требованиям кредиторов;</li><li style="text-align:left">обращаться в экономический суд с ходатайством о принятии дополнительных мер по обеспечению сохранности имущества должника, в том числе о запрете совершать без согласия временного управляющего сделки, не предусмотренные Законом, о передаче имущества на хранение третьим лицам, а также об отмене таких мер;</li><li style="text-align:left">подавать ходатайство в экономический суд об отстранении руководителя должника от исполнения его обязанностей;</li><li style="text-align:left">получать любую информацию и документы, касающиеся деятельности должника.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr36/"></a><a data-anchor="/document/16/206018/dfas3sfkcp/" data-dfa="dfas3sfkcp"></a>Перечень обязанностей временного управляющего предусмотрен в <span num="26" lnktype="intlnk" title="" class="doc">статье 67</span> Закона «О банкротстве». Временный управляющий обязан:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206018/bssPhr37/"></a><a data-anchor="/document/16/206018/dfasu8dln7/" data-dfa="dfasu8dln7"></a>обеспечивать сохранность имущества должника;</li><li style="text-align:left">анализировать финансовое состояние должника;</li><li style="text-align:left">выявлять кредиторов должника, вести реестр требований кредиторов, уведомлять их о введении в отношении должника наблюдения;</li><li style="text-align:left">предоставлять в десятидневный срок информацию о финансовом состоянии должника и своей деятельности по требованию кредитора;</li><li style="text-align:left">созывать и проводить первое собрание кредиторов.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr38/"></a><a data-anchor="/document/16/206018/dfasdbt4na/" data-dfa="dfasdbt4na"></a>По окончании наблюдения, но не позднее чем за пять дней до установленной даты заседания экономического суда, временный управляющий обязан представить в экономический суд:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206018/bssPhr39/"></a><a data-anchor="/document/16/206018/dfas0vmvkq/" data-dfa="dfas0vmvkq"></a>отчет о своей деятельности;</li><li style="text-align:left">сведения о финансовом состоянии должника;</li><li style="text-align:left">предложения о возможности или невозможности восстановления платежеспособности должника;</li><li style="text-align:left">протокол первого собрания кредиторов с приложением документов, предусмотренных Законом.</li></ul></div><a data-anchor="/document/16/206018/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/206018/bssPhr40/"></a><a data-anchor="/document/16/206018/dfasuv3u0p/" data-dfa="dfasuv3u0p"></a>Порядок созыва первого собрания кредиторов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206018/bssPhr42/"></a><a data-anchor="/document/16/206018/dfasx2f3mb/" data-dfa="dfasx2f3mb"></a>Временный управляющий определяет дату проведения первого собрания кредиторов. Он же уведомляет об этом всех выявленных кредиторов, представителя работников должника, а также иных лиц, органов, имеющих право на участие в этом собрании. Первое собрание кредиторов нужно провести в срок не позднее пяти дней до даты проведения заседания экономического суда, установленной в определении о принятии заявления о признании должника банкротом к производству (<span num="27" lnktype="intlnk" title="" class="doc">ст. 71</span> Закона о банкротстве).</p></div><a data-anchor="/document/16/206018/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/206018/bssPhr43/"></a><a data-anchor="/document/16/206018/dfase127yz/" data-dfa="dfase127yz"></a>Полномочия первого собрания кредиторов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206018/bssPhr45/"></a><a data-anchor="/document/16/206018/dfaskquwww/" data-dfa="dfaskquwww"></a>Перечень вопросов, которые рассматривает первое собрание кредиторов, закреплен <span num="28" lnktype="intlnk" title="" class="doc">статьей 72</span> Закона «О банкротстве». Первое собрание кредиторов имеет право принимать решения по вопросам:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206018/bssPhr46/"></a><a data-anchor="/document/16/206018/dfaszg2k0g/" data-dfa="dfaszg2k0g"></a>подачи в экономический суд ходатайства о введении судебной санации либо внешнего управления;</li><li style="text-align:left">обращения в экономический суд с ходатайством о признании должника банкротом и открытии ликвидационного производства;</li><li style="text-align:left">численного состава комитета кредиторов, избрания его членов;</li><li style="text-align:left">одобрения кандидатуры санирующего управляющего, внешнего управляющего или ликвидационного управляющего.</li></ul></div><a data-anchor="/document/16/206018/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/206018/bssPhr47/"></a><a data-anchor="/document/16/206018/dfaszuvnb4/" data-dfa="dfaszuvnb4"></a>Решения первого собрания кредиторов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206018/bssPhr49/"></a><a data-anchor="/document/16/206018/dfas6glheo/" data-dfa="dfas6glheo"></a>Первое собрание кредиторов может принять решение об обращении в экономический суд с ходатайством о введении судебной санации. Решение должно содержать предлагаемый срок судебной санации и одобренный график погашения задолженности. Первое собрание кредиторов, принявшее решение об обращении в экономический суд с ходатайством о введении судебной санации, вправе обратиться в экономический суд с ходатайством об освобождении временного управляющего от исполнения его обязанностей. В ходатайстве может быть предложена кандидатура санирующего управляющего (<span num="29" lnktype="intlnk" title="" class="doc">ст. 73</span> Закона о банкротстве).</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr50/"></a><a data-anchor="/document/16/206018/dfasl8achr/" data-dfa="dfasl8achr"></a>Если первое собрание кредиторов примет решение об обращении в экономический суд с ходатайством о введении внешнего управления, то оно должно содержать предлагаемый срок внешнего управления и кандидатуру внешнего управляющего, а также сведения о нем. Решение первого собрания кредиторов об обращении в экономический суд с ходатайством о признании должника банкротом и открытии ликвидационного производства должно содержать предлагаемый срок ликвидационного производства и кандидатуру ликвидационного управляющего, а также сведения о нем (<span num="30" lnktype="intlnk" title="" class="doc">ст. 74</span> Закона о банкротстве).</p></div><a data-anchor="/document/16/206018/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/206018/bssPhr51/"></a><a data-anchor="/document/16/206018/dfasn85ngm/" data-dfa="dfasn85ngm"></a>Прекращение наблюдения: порядок и последствия</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206018/bssPhr53/"></a><a data-anchor="/document/16/206018/dfasm2m2m9/" data-dfa="dfasm2m2m9"></a>Экономический суд на основании решения первого собрания кредиторов, если иное не установлено <span num="31" lnktype="intlnk" title="" class="doc">статьей 75</span> Закона «О банкротстве»:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206018/bssPhr54/"></a><a data-anchor="/document/16/206018/dfas5plbzc/" data-dfa="dfas5plbzc"></a>принимает решение признать должника банкротом и открыть ликвидационное производство;</li><li style="text-align:left">или выносит определение о введении судебной санации или внешнего управления;</li><li style="text-align:left">либо утверждает мировое соглашение и прекращает производство по делу о банкротстве.</li></ul><p><a data-anchor="/document/16/206018/bssPhr55/"></a><a data-anchor="/document/16/206018/dfas2q0lgd/" data-dfa="dfas2q0lgd"></a>Если первое собрание кредиторов не приняло решение о применении одной из процедур банкротства либо не представило в экономический суд ни одно из решений в срок, установленный Законом, экономический суд при наличии признаков банкротства принимает решение признать должника банкротом и открыть ликвидационное производство, если иное не предусмотрено <span num="32" lnktype="intlnk" title="" class="doc">статьей 75</span> Закона «О банкротстве».</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr56/"></a><a data-anchor="/document/16/206018/dfas71fp5b/" data-dfa="dfas71fp5b"></a>Если первое собрание кредиторов приняло решение об обращении в экономический суд с ходатайством о признании должника банкротом и открытии ликвидационного производства либо в экономический суд не представило ни одно из решений, экономический суд вправе вынести определение о введении судебной санации по ходатайству учредителей, участников или собственника имущества должника, государственного органа по делам о банкротстве, а также третьего лица, лиц при условии предоставления заявителями обеспечения исполнения обязательств должника в соответствии с графиком погашения задолженности.</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr57/"></a><a data-anchor="/document/16/206018/dfass6wiwm/" data-dfa="dfass6wiwm"></a>Исполнение обязанностей санирующего или внешнего либо ликвидационного управляющего в полном объеме возлагается на лицо, ранее исполнявшее обязанности временного управляющего.</p><p style="text-align:left"><a data-anchor="/document/16/206018/bssPhr58/"></a><a data-anchor="/document/16/206018/dfasvqofox/" data-dfa="dfasvqofox"></a>Наблюдение прекращается с момента, когда экономический суд:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206018/bssPhr59/"></a><a data-anchor="/document/16/206018/dfasgwk5a9/" data-dfa="dfasgwk5a9"></a>признал должника банкротом и открыл ликвидационное производство;</li><li style="text-align:left">ввел судебную санацию или внешнее управление;</li><li style="text-align:left">либо утвердил мировое соглашение.</li></ul></div><p><a data-anchor="/document/16/206018/dfaspae1zg/" data-dfa="dfaspae1zg"></a><a data-anchor="/document/16/206018/bssPhr60/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882136" sourceId="1" fullSizeImageId="-41882135" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882136/"></p><p><a data-anchor="/document/16/206018/dfasmigo18/" data-dfa="dfasmigo18"></a><a data-anchor="/document/16/206018/bssPhr61/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как проверить контрагента</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/211729/dfass39y33/" data-dfa="dfass39y33"></a><a data-anchor="/document/16/211729/bssPhr2/"></a>Что такое должная осмотрительность,&nbsp; зачем ее нужно проявлять при заключении сделки и чем грозит неосмотрительность&nbsp;предпринимателю, читайте в рекомендации. Эксперт собрал для вас все возможные сервисы для проверки контрагента перед заключением сделки. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211729/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211729/bssPhr5/"></a><a data-anchor="/document/16/211729/dfas2ffwyu/" data-dfa="dfas2ffwyu"></a>Как минимизировать риски при заключении контракта</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/211729/bssPhr7/"></a><a data-anchor="/document/16/211729/dfasubx764/" data-dfa="dfasubx764"></a>Заключая договора с контрагентами, руководители юрлиц должны проявлять должную осмотрительность (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">ст. 15</span> НК).</p><p><a data-anchor="/document/16/211729/bssPhr8/"></a><a data-anchor="/document/16/211729/dfaskz9bcp/" data-dfa="dfaskz9bcp"></a>Налоговые органы имеют право проводить проверку правильности оформления сделки могут изменить квалификацию сделки (<span num="40" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 14 НК). Налоговые органы могут признать сделку мнимой (притворной), могут обвинить вас в том, что вы злоупотребили правом или не проявили должной осмотрительности при выборе бизнес-партнера (<span data-warm-notices="38376169" data-warm-notice-type="error" num="41" target="_self" lnktype="intlnk" title="" class="doc">ч. 3,</span>&nbsp;<span num="42" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span>&nbsp;ст. 14 НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211729/bssPhr9/"></a><a data-anchor="/document/16/211729/dfasklqcv6/" data-dfa="dfasklqcv6"></a>Злоупотребление правом, мнимость, притворность сделки устанавливает сам налоговый орган, а при несогласии налогоплательщика – суд по иску налоговых органов.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211729/bssPhr10/"></a><a data-anchor="/document/16/211729/dfasqgey3e/" data-dfa="dfasqgey3e"></a>Это определено в <span num="43" target="_self" lnktype="intlnk" title="" class="doc">части 8</span> статьи 14 НК.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211729/bssPhr11/"></a><a data-anchor="/document/16/211729/dfasdpf35i/" data-dfa="dfasdpf35i"></a>Вас не оштрафуют и не привлекут к ответственности, если вы не проявили должной осмотрительности. Но если вы не проверили своего контрагента до заключения сделки, и у вас возникли убытки, налоговые органы их не признают (<span num="26" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 15 НК).</p><p><a data-anchor="/document/16/211729/bssPhr12/"></a><a data-anchor="/document/16/211729/dfas25tqca/" data-dfa="dfas25tqca"></a>Предлагаем проверить контрагента по чек-листу. Чем больше совпадений, тем больше рисков при сотрудничестве с ним:</p><ul class="c-list"><li><a data-anchor="/document/16/211729/bssPhr13/"></a><a data-anchor="/document/16/211729/dfas40afl5/" data-dfa="dfas40afl5"></a>контрагент не значится в реестре юридических лиц;</li><li>не рекламирует свои товары, работы и услуги, у него нет сайта в интернете или страница действует;</li><li>контрагент часто переезжает с одного адреса на другой. Адрес в учредительных документах не совпадает с адресом в его реквизитах;</li><li>предлагает слишком выгодную цену, которая может быть убыточна для него;</li><li>судится с другими клиентами или поставщиками из-за просроченных поставок и нарушения договора, проходит ответчиком по налоговым спорам;</li><li>отказывается давать отчетность, выписку из учредительных документов, показывать собственные помещения и склады;</li><li>вид деятельности лицензируемый, а лицензии нет или она просрочена;</li><li>контрагент открыл бизнес меньше года назад;</li><li>все документы подписывает сотрудник по доверенности;</li><li>нет отчетности у компании, директор номинальный;</li><li>денежные операции имеют транзитный характер;</li><li>у контрагента недостаточно основных средств, чтобы выполнить заказ, нет собственных складов и транспорта для перевозки товаров;</li><li>в штате недостаточно квалифицированных работников или работает только директор.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211729/bssPhr14/"></a><a data-anchor="/document/16/211729/dfas6sy9eg/" data-dfa="dfas6sy9eg"></a>Последствия признания сделки недействительной:</p><div class="incut-v4__content" data-incut-content=""><ul class="c-list"><li><a data-anchor="/document/16/211729/bssPhr15/"></a><a data-anchor="/document/16/211729/dfas7lvi6z/" data-dfa="dfas7lvi6z"></a>полученную от нее налоговую выгоду признают необоснованной;</li><li>откажут в вычете НДС;</li><li>затраты по спорным операциям исключат из состава расходов для целей налогообложения прибыли;</li><li>доначислят недоимку по налогу на прибыль, начислят пени и штраф;</li><li>привлекут к административной или уголовной ответственности должностных лиц;</li><li>инициируют проверки у третьих лиц, имеющих отношение к деятельности проверяемого.</li></ul></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как доказать, что&#160;при выборе контрагента была&#160;проявлена должная осмотрительность, если&#160;налоговики отказывают&#160;в зачете НДС по причине неблагонадежности контрагента</name></p><div class="incut-v4__content" data-incut-content=""><p data-end="329" data-start="151"><a data-anchor="/document/16/211729/bssPhr17/"></a><a data-anchor="/document/16/211729/dfas47se3r/" data-dfa="dfas47se3r"></a>Расходы по сделке с неблагонадежным контрагентом не признаются для целей налогообложения, если налогоплательщик не проявил должную осмотрительность (<span num="82" target="_blank" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 15 НК).</p><p data-end="587" data-start="331"><a data-anchor="/document/16/211729/bssPhr18/"></a><a data-anchor="/document/16/211729/dfasec05wi/" data-dfa="dfasec05wi"></a>Чтобы подтвердить осмотрительность, необходимо иметь доказательства проверки контрагента на момент заключения договора: наличие регистрации, действующего статуса плательщика НДС, деловой репутации, ресурсов и финансовой способности исполнить обязательства.</p><p data-end="782" data-start="589"><a data-anchor="/document/16/211729/bssPhr19/"></a><a data-anchor="/document/16/211729/dfas2b51xo/" data-dfa="dfas2b51xo"></a>В частности, можно подтвердить, что на дату сделки контрагент не был исключен из реестра плательщиков НДС, имел действующее свидетельство и регистрационный номер, что давало право на зачет НДС.</p><p data-end="1064" data-is-last-node="" data-is-only-node="" data-start="784"><a data-anchor="/document/16/211729/bssPhr20/"></a><a data-anchor="/document/16/211729/dfashegbh0/" data-dfa="dfashegbh0"></a>Дополнительно учитывается проверка деловой репутации, наличия производственной базы, персонала и финансового состояния контрагента. При наличии таких подтверждений налогоплательщик вправе обосновать добросовестность сделки и правомерность учета расходов и зачета НДС (<span num="83" target="_blank" lnktype="intlnk" title="" class="doc">ст. 266</span> НК).</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="9" target="_self" lnktype="intlnk" title="" class="doc">Как проверить доверенность представителя контрагента</span></li><li class="incut-v4-more-about__item"><span num="10" target="_self" lnktype="intlnk" title="" class="doc">Как рассматривают дела о налоговых правонарушениях</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211729/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211729/bssPhr22/"></a><a data-anchor="/document/16/211729/dfasv8a4ev/" data-dfa="dfasv8a4ev"></a>Сервисы для проверки контрагента&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><a data-anchor="/document/16/211729/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211729/bssPhr24/"></a><a data-anchor="/document/16/211729/dfas3odl05/" data-dfa="dfas3odl05"></a>Выписка из ЕГРПО</h3><p><a data-anchor="/document/16/211729/bssPhr25/"></a><a data-anchor="/document/16/211729/dfassm7cbo/" data-dfa="dfassm7cbo"></a>Вы можете получить выписку из Единого государственного регистра предприятий и организаций (ЕГРПО) своего контрагента. Выписка будет содержать:</p><ul class="c-list"><li><a data-anchor="/document/16/211729/bssPhr26/"></a><a data-anchor="/document/16/211729/dfast4ee4l/" data-dfa="dfast4ee4l"></a>наименование контрагента;</li><li>ИНН;</li><li>дату регистрации;</li><li>виды деятельности;</li><li>размер уставного фонда;</li><li>состав учредителей;</li><li>ФИО руководителя и др.</li></ul><p><a data-anchor="/document/16/211729/bssPhr27/"></a><a data-anchor="/document/16/211729/dfasp9525v/" data-dfa="dfasp9525v"></a>Сделать это можно на сайте <a href="https://registr.stat.uz/ru/" target="_self" title="">registr.stat.uz</a>:</p><img alt="" hideborder="true" class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><a data-anchor="/document/16/211729/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211729/bssPhr28/"></a><a data-anchor="/document/16/211729/dfas6uf3za/" data-dfa="dfas6uf3za"></a>«Сведения о контрагенте» в персональном кабинете на my.soliq.uz</h3><p><a data-anchor="/document/16/211729/bssPhr29/"></a><a data-anchor="/document/16/211729/dfascwb88r/" data-dfa="dfascwb88r"></a>С помощью данного сервиса контрагент может предоставить вам доступ к своим регистрационным данным, актам сверок, налоговым расчетам и финансовым отчетам.</p><p><a data-anchor="/document/16/211729/bssPhr30/"></a><a data-anchor="/document/16/211729/dfasp9i5tx/" data-dfa="dfasp9i5tx"></a>Для этого контрагент заходит в раздел «Сведения о контрагенте» в персональном кабинете на <a href="https://my.soliq.uz/main/?lang=ru" target="_self" title="">my.soliq.uz</a>.</p><img alt="" hideborder="true" class="inimg" num="3" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/211729/bssPhr31/"></a><a data-anchor="/document/16/211729/dfasdaf6mg/" data-dfa="dfasdaf6mg"></a>Сам сервис расположен на сайте <a href="https://my3.soliq.uz/" target="_self" title="">my3.soliq.uz</a>. После перехода на сайт <a href="https://my3.soliq.uz/" target="_self" title="">my3.soliq.uz</a>, контрагент должен внести ваши данные (наименование, ИНН, срок доступа), а также сформировать пароль с помощью функционала «Предоставление доступа контрагенту»:</p><img alt="" hideborder="true" class="inimg" num="4" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><a data-anchor="/document/16/211729/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211729/bssPhr32/"></a><a data-anchor="/document/16/211729/dfas0l8ndz/" data-dfa="dfas0l8ndz"></a>Сервис «Постановка на специальный учет в качестве плательщика НДС» в персональном кабинете на my.soliq.uz</h3><p><a data-anchor="/document/16/211729/bssPhr33/"></a><a data-anchor="/document/16/211729/dfaske95x9/" data-dfa="dfaske95x9"></a>С помощью этого сервиса вы можете получить доступ к информации о месте регистрации контрагента, дате регистрации в качестве плательщика НДС, статусе Свидетельства НДС и коэффициенте разрыва при уплате НДС.</p><img alt="" hideborder="true" class="inimg" num="5" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/211729/bssPhr34/"></a><a data-anchor="/document/16/211729/dfaslbsv4i/" data-dfa="dfaslbsv4i"></a>Сервис расположен на сайте <a href="https://my3.soliq.uz/" target="_self" title="">my3.soliq.uz</a>. Проверить состояние контрагента можно во вкладке «Определение плательщиков НДС»:</p><img alt="" hideborder="true" class="inimg" num="6" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><a data-anchor="/document/16/211729/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/211729/bssPhr35/"></a><a data-anchor="/document/16/211729/dfasgbvrh2/" data-dfa="dfasgbvrh2"></a>Перечень предприятий, злоупотребивших правом уменьшения суммы НДС, подлежащей уплате</h3><p><a data-anchor="/document/16/211729/bssPhr36/"></a><a data-anchor="/document/16/211729/dfasqfs3v3/" data-dfa="dfasqfs3v3"></a>Для того чтобы проверить своего контрагента, зайдите на сайт <a href="https://soliq.uz/?lang=ru" target="_self" title="">soliq.uz</a>, введите его ИНН (ПИНФЛ) и код:</p><img alt="" hideborder="true" class="inimg" num="7" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:left"><a data-anchor="/document/16/211729/bssPhr37/"></a><a data-anchor="/document/16/211729/dfass3n8me/" data-dfa="dfass3n8me"></a>Если выйдет сообщение «В списке не состоит», то ваш контрагент надежен. Если контрагент значится в Перечне предприятий, злоупотребивших правом уменьшения суммы НДС, подлежащей уплате, то он соответствует одному из критериев:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/211729/bssPhr38/"></a><a data-anchor="/document/16/211729/dfas4r8y9f/" data-dfa="dfas4r8y9f"></a>наличие неисполненных налоговых обязательств на сумму свыше 100 миллионов сумов, зарегистрированных на одного физического лица, являющегося учредителем (руководителем) одновременно двух и более субъектов предпринимательства, созданных и осуществляющих деятельность менее одного года;</li><li style="text-align:left">необоснованная частая смена юридического адреса (три и более раз в год);</li><li style="text-align:left">осуществление реализации работ (услуг) в больших объемах за достаточно короткий период времени с момента создания, занижение количества официально занятых работников;</li><li style="text-align:left">хранение, использование и реализация неоформленных (неоприходованных) товаров;</li><li style="text-align:left">отражение в остатках приобретенных высоколиквидных товаров, предназначенных для реализации (в том числе импортных) без их реализации продолжительные период времени и последующее приобретение данных видов товаров при наличии больших остатков;</li><li style="text-align:left">инициирование банкротства в результате присоединения к себе других субъектов предпринимательства, имеющих неисполненные налоговые обязательства;</li><li style="text-align:left">заявленный адрес местонахождения налогоплательщика совпадает с адресом, указанным при государственной регистрации в качестве места нахождения нескольких (трех и более) юридических лиц, признанных банкротами, или с адресами местонахождения налогоплательщиков с высоким риском уклонения от уплаты налогов;</li><li style="text-align:left">выявление фактов неуплаты или неполной уплаты налогов путем злоупотребления правом или заключения мнимых (притворных) сделок.</li></ul><a data-anchor="/document/16/211729/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/211729/bssPhr39/"></a><a data-anchor="/document/16/211729/dfaslr8op8/" data-dfa="dfaslr8op8"></a>Рейтинг предпринимателей</h3><p><a data-anchor="/document/16/211729/bssPhr40/"></a><a data-anchor="/document/16/211729/dfasz5p4l6/" data-dfa="dfasz5p4l6"></a>С 1 февраля 2024 года внедрен новый рейтинг предпринимателей. Полноценно он заработает к 1 апреля. Рейтинг формируется автоматически на основе данных из систем. В основе оценки – информация о соблюдении субъектом предпринимательства требований законодательства.</p><p><a data-anchor="/document/16/211729/bssPhr41/"></a><a data-anchor="/document/16/211729/dfasbbyob9/" data-dfa="dfasbbyob9"></a>Порядок ведения рейтинга определен в <span num="50" target="_self" lnktype="intlnk" title="" class="doc">Положении</span>, которое утверждено <span num="51" target="_self" lnktype="intlnk" title="" class="doc">постановлением</span> Кабмина от 30.01.2024 № 55. Максимальное количество баллов, которые может набрать предприниматель – 100. В зависимости от количества набранных баллов предпринимателей разделят на категории:</p><ul class="c-list"><li><a data-anchor="/document/16/211729/bssPhr42/"></a><a data-anchor="/document/16/211729/dfasbh7nhm/" data-dfa="dfasbh7nhm"></a>«ААА», «АА» и «А» – высокий рейтинг устойчивости;</li><li>«ВВВ», «ВВ» и «В» – средний рейтинг устойчивости;</li><li>«ССС», «СС» и «С» – удовлетворительный рейтинг устойчивости;</li><li>«D» – низкий рейтинг устойчивости.</li></ul><p><a data-anchor="/document/16/211729/bssPhr43/"></a><a data-anchor="/document/16/211729/dfasiac74y/" data-dfa="dfasiac74y"></a>Узнать рейтинг контрагента можно по ИНН на платформе «Рейтинг устойчивости предпринимателей» (<a href="https://chamber.uz/contractor-rating" target="_self" title="">chamber.uz/contractor-rating</a>):</p><img alt="" hideborder="true" class="inimg" num="8" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><a data-anchor="/document/16/211729/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/211729/bssPhr44/"></a><a data-anchor="/document/16/211729/dfaswq4trq/" data-dfa="dfaswq4trq"></a>Проверка налоговой задолженности контрагента</h3><p><a data-anchor="/document/16/211729/bssPhr46/"></a><a data-anchor="/document/16/211729/dfasghvxb7/" data-dfa="dfasghvxb7"></a>Вы можете проверить, имеет ли ваш контрагент задолженность перед бюджетом, за какой срок она сформирована и насколько велика. Проверить задолженность можно по ссылке <a href="https://soliq.uz/?lang=ru" target="_self" title="">soliq.uz</a>. Введите ИНН контрагента и код:</p><img alt="" hideborder="true" class="inimg" num="9" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><a data-anchor="/document/16/211729/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/211729/bssPhr47/"></a><a data-anchor="/document/16/211729/dfasaknecb/" data-dfa="dfasaknecb"></a>Получение информации о неплатежеспособности (банкротстве) хозяйственного общества</h3><p><a data-anchor="/document/16/211729/bssPhr48/"></a><a data-anchor="/document/16/211729/dfasgfhtuo/" data-dfa="dfasgfhtuo"></a>Для получения информации о платежеспособности контрагента авторизуйтесь на ЕПИГУ через OneID. Перейдите на страницу <a href="https://my.gov.uz/ru" target="_self" title="">my.gov.uz</a>&nbsp;и нажмите «Получить услугу». В открывшемся окне введите ИНН контрагента и код:</p><img alt="" hideborder="false" class="inimg" num="10" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="11" target="_self" lnktype="intlnk" title="" class="doc">Какие документы нужно запросить у контрагента перед тем, как подписывать с ним договор</span></li><li class="incut-v4-more-about__item"><span num="12" target="_self" lnktype="intlnk" title="" class="doc">Чек-лист для бухгалтера, чтобы проверить контрагента</span></li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211729/tit10/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit10"><a data-anchor="/document/16/211729/bssPhr50/"></a><a data-anchor="/document/16/211729/dfasmvakd4/" data-dfa="dfasmvakd4"></a>Какие документы запросить у местной компании</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211729/bssPhr52/"></a><a data-anchor="/document/16/211729/dfasrnw5nm/" data-dfa="dfasrnw5nm"></a><strong>Учредительные документы</strong></p><p><a data-anchor="/document/16/211729/bssPhr53/"></a><a data-anchor="/document/16/211729/dfasi14ked/" data-dfa="dfasi14ked"></a>Запросите их у контрагента полностью. Нет смысла запрашивать выписки из учредительных документов, первые и последние страницы устава.</p><p><a data-anchor="/document/16/211729/bssPhr54/"></a><a data-anchor="/document/16/211729/dfasn07da5/" data-dfa="dfasn07da5"></a>Учредительные документы запрашивайте у контрагента в актуальной редакции. Проверьте, последнюю ли версию уставных документов представил контрагент. Для этого сравните состав учредителей и их доли в уставном фонде по выписке из ЕГРПО либо сведений из реестра Центра госуслуг с предоставленными вам документами. Если будут сомнения в их достоверности представленных документов, истребуйте у контрагента предыдущие редакции учредительных документов.</p><p><a data-anchor="/document/16/211729/bssPhr55/"></a><a data-anchor="/document/16/211729/dfasnfa495/" data-dfa="dfasnfa495"></a><strong>Свидетельство о регистрации юрлица в ЕГРПО</strong></p><p><a data-anchor="/document/16/211729/bssPhr56/"></a><a data-anchor="/document/16/211729/dfasgt4gro/" data-dfa="dfasgt4gro"></a>Данные о регистрации юрлица и присвоении ИНН вы можете самостоятельно проверить в ЕГРПО на сайте <a href="https://registr.stat.uz/ru/" target="_self" title="">registr.stat.uz</a>.</p><p><a data-anchor="/document/16/211729/bssPhr57/"></a><a data-anchor="/document/16/211729/dfasnvr301/" data-dfa="dfasnvr301"></a><strong>Полномочия лица, которое будет подписывать договор</strong></p><p><a data-anchor="/document/16/211729/bssPhr58/"></a><a data-anchor="/document/16/211729/dfasy5iidm/" data-dfa="dfasy5iidm"></a>Если договор будет подписывать генеральный директор, запросите у контрагента либо решение о назначении генерального директора, либо протокол об избрании генерального директора коллегиальным органом юрлица.</p><p><a data-anchor="/document/16/211729/bssPhr59/"></a><a data-anchor="/document/16/211729/dfasq31i6a/" data-dfa="dfasq31i6a"></a>Также сведения о руководителе контрагента вы можете получить из выписки ЕГРПО, где в графе «Общие сведения» будут указаны имя руководителя и его ИНН.</p><p><a data-anchor="/document/16/211729/bssPhr60/"></a><a data-anchor="/document/16/211729/dfasaibgid/" data-dfa="dfasaibgid"></a>Обратите внимание на полномочия директора, закрепленные в уставе организации. Например, его полномочия заключать хозяйственные либо гражданско-правовые сделки могут быть ограничены определенной суммой. Тогда сделки, совершенные с нарушением такого ограничения, могут признать недействительными (<span num="36" target="_self" lnktype="intlnk" title="" class="doc">ст. 126</span> ГК).</p><p><a data-anchor="/document/16/211729/bssPhr61/"></a><a data-anchor="/document/16/211729/dfas5qq0r4/" data-dfa="dfas5qq0r4"></a>В уставе компании чаще всего указывают срок, на который избирают или назначают директора. Поэтому проверьте, чтобы представленные контрагентом решение о назначении либо протокол об избрании директора не были просрочены.</p><p><a data-anchor="/document/16/211729/bssPhr62/"></a><a data-anchor="/document/16/211729/dfasbgggc8/" data-dfa="dfasbgggc8"></a>Если договор будет подписывать не директор, а иное лицо, то запросите еще и копию доверенности такого лица. В ней должна стоять дата ее выдачи. Без такой даты доверенность недействительна (<span num="37" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 139 ГК).</p><p><a data-anchor="/document/16/211729/bssPhr63/"></a><a data-anchor="/document/16/211729/dfas7ifaws/" data-dfa="dfas7ifaws"></a>Если в доверенности не указан срок действия, то она действительна в течение года со дня ее совершения (<span num="38" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 139 ГК).</p><p><a data-anchor="/document/16/211729/bssPhr64/"></a><a data-anchor="/document/16/211729/dfasrnkgxz/" data-dfa="dfasrnkgxz"></a>Доверенность от юрлица должна быть удостоверена подписью руководителя или иным уполномоченным сотрудником. Поэтому проверьте полномочия такого лица на момент выдачи доверенности. Они должны вытекать либо из уставных документов, либо из выданной ему доверенности с правом передоверия. Если доверенность выдана в порядке передоверия, то она должна быть удостоверена лицом уполномоченного на это доверенностью (<span num="39" target="_self" lnktype="intlnk" title="" class="doc">ст. 140</span> ГК).</p><p><a data-anchor="/document/16/211729/bssPhr65/"></a><a data-anchor="/document/16/211729/dfasaubh7d/" data-dfa="dfasaubh7d"></a>Если сделки от имени юрлица подписывает сотрудник на основании передоверия, контрагент должен проверить основную доверенность и доверенность по передоверию.</p><p><a data-anchor="/document/16/211729/bssPhr66/"></a><a data-anchor="/document/16/211729/dfasvzo9g5/" data-dfa="dfasvzo9g5"></a>Полномочий представителя должно быть достаточно, чтобы подписывать договор.</p><p><a data-anchor="/document/16/211729/bssPhr67/"></a><a data-anchor="/document/16/211729/dfasp0o77q/" data-dfa="dfasp0o77q"></a><strong>Лицензия на ведение деятельности, если требуется ее получение</strong></p><p><a data-anchor="/document/16/211729/bssPhr68/"></a><a data-anchor="/document/16/211729/dfask7xbg5/" data-dfa="dfask7xbg5"></a>К лицензии прилагают перечень конкретных видов деятельности, которые выполняет организация. Поэтому запросите у контрагента этот перечень вместе с лицензией.</p><p><a data-anchor="/document/16/211729/bssPhr69/"></a><a data-anchor="/document/16/211729/dfas9xrqhg/" data-dfa="dfas9xrqhg"></a>Если в лицензии содержится срок ее действия, то необходимо проверить, не истек ли он.</p><p><a data-anchor="/document/16/211729/bssPhr70/"></a><a data-anchor="/document/16/211729/dfasc28n7f/" data-dfa="dfasc28n7f"></a><strong>Правоустанавливающие документы на имущество, которое выступает предметом сделки</strong></p><p><a data-anchor="/document/16/211729/bssPhr71/"></a><a data-anchor="/document/16/211729/dfasm90l2x/" data-dfa="dfasm90l2x"></a>Если предмет договора – недвижимость, то запросите у контрагента правоустанавливающие документы на имущество. Также запросить у контрагента справку об отсутствии ареста/запрета и иных обременений, полученную в нотариальной конторе через автоматизированную информационную систему «Нотариус».</p><p><a data-anchor="/document/16/211729/bssPhr72/"></a><a data-anchor="/document/16/211729/dfasvv14se/" data-dfa="dfasvv14se"></a><strong>Копию паспорта лица, которое будет подписывать договор</strong></p><p><a data-anchor="/document/16/211729/bssPhr73/"></a><a data-anchor="/document/16/211729/dfas7nv1c4/" data-dfa="dfas7nv1c4"></a>Лицо, которое будет подписывать договор, вправе отказаться представлять копии страниц паспорта, поскольку в них содержатся персональные данные. В таком случае проверьте личность подписанта в тот момент, когда он подписывает договор.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211729/bssPhr74/"></a><a data-anchor="/document/16/211729/dfassgbuys/" data-dfa="dfassgbuys"></a>При заключении крупной сделки стоит проверить фактическую деятельность партнера</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211729/bssPhr75/"></a><a data-anchor="/document/16/211729/dfasx3b3q8/" data-dfa="dfasx3b3q8"></a>Например, посетить его офис, осмотреть производственные мощности, встретиться с директором и главным бухгалтером&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/211729/tit11/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit11"><a data-anchor="/document/16/211729/bssPhr76/"></a><a data-anchor="/document/16/211729/dfas199mh3/" data-dfa="dfas199mh3"></a>Какие документы запросить у иностранной компании&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211729/bssPhr78/"></a><a data-anchor="/document/16/211729/dfasn886g6/" data-dfa="dfasn886g6"></a>У иностранной компании запросите такой же пакет документов, как и у узбекской компании, но при этом учитывайте особенности:</p><ul class="c-list"><li><a data-anchor="/document/16/211729/bssPhr79/"></a><a data-anchor="/document/16/211729/dfash6imum/" data-dfa="dfash6imum"></a>документы, подтверждающие правовой статус иностранной компании (устав, учредительный договор, сертификат об инкорпорации и т. д.), нужно сначала перевести на узбекский (русский) язык и легализовать, если нет возможности удостоверить их с помощью апостиля.</li></ul><p><a data-anchor="/document/16/211729/bssPhr80/"></a><a data-anchor="/document/16/211729/dfaswhsxy8/" data-dfa="dfaswhsxy8"></a>Апостиль удостоверяет подлинность подписи, качество, в котором выступало лицо, подписавшее документ, и, в надлежащем случае, подлинность печати или штампа, которыми скреплен этот документ. Перечень документов, для представления которых необходим апостиль, содержится в статье 1 Гаагской конвенции, отменяющей требование легализации официальных иностранных документов, участником которой является и Узбекистан. Вы можете обратиться в компании, которые предоставляют данные услуги. У&nbsp;иностранной компании нужно запросить выписку из торгового реестра ее страны. В этой выписке компания должна значиться как «действующая».</p><p><a data-anchor="/document/16/211729/bssPhr81/"></a><a data-anchor="/document/16/211729/dfas8e1nfq/" data-dfa="dfas8e1nfq"></a>Если партнер не представит такую выписку или в выписке будет указан текущий статус компании «Прекращено», то договор заключать не стоит. Если в иностранном государстве не ведется торговый реестр, то вместо выписки из торгового реестра нужно запросить документ, который подтверждает благополучное состояние компании. Его нужно получить в стране, в которой зарегистрирована компания.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="14" target="_self" lnktype="intlnk" title="" class="doc">Как заключить договор</span></li><li class="incut-v4-more-about__item"><span num="15" target="_self" lnktype="intlnk" title="" class="doc">Как понудить к заключению договора</span></li><li class="incut-v4-more-about__item"><span num="16" target="_self" lnktype="intlnk" title="" class="doc">Как признать договор недействительным</span></li></ul></div><div class="incut-v4__icon"></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

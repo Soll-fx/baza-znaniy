@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие документы выдать работнику при прекращении трудового договора</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулчехра&nbsp;Юсупханова,&nbsp;Главный редактор Системы Кадры, юрист</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/208516/dfaseyaevq/" data-dfa="dfaseyaevq"></a><a data-anchor="/document/16/208516/bssPhr2/"></a>В&nbsp;последний рабочий день выдайте работнику его трудовую книжку либо выписку из&nbsp;электронной трудовой книжки, а&nbsp;также копию приказа о&nbsp;прекращении трудового договора. </div><div id="documentBody" class="content-common"><list><item><a anchor="dfasqg2rhc" icon="useful" itemid="_wx6cctvkl" label="Полезно" text="Узнайте какая ответственность предусмотрена">Узнайте какая ответственность предусмотрена</a></item></list><a data-anchor="/document/16/208516/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/208516/bssPhr3/"></a><a data-anchor="/document/16/208516/dfastoqu3x/" data-dfa="dfastoqu3x"></a>Документы к&nbsp;выдаче</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/208516/bssPhr7/"></a><a data-anchor="/document/16/208516/dfasmc58ov/" data-dfa="dfasmc58ov"></a>В&nbsp;последний рабочий день выдайте работнику его трудовую книжку либо выписку из&nbsp;электронной трудовой книжки, а&nbsp;также копию приказа о&nbsp;прекращении трудового договора. Выдайте другие документы, если работник изложил просьбу в&nbsp;форме <span data-warm-notices="19762172" data-warm-notice-type="error" num="174" target="_self" lnktype="intlnk" title="" class="doc">заявления </span>(<span num="81" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;171&nbsp;ТК).</p><p><a data-anchor="/document/16/208516/bssPhr8/"></a><a data-anchor="/document/16/208516/dfas7imthm/" data-dfa="dfas7imthm"></a>В&nbsp;день прекращения трудового договора выплатите работнику:</p><ul class="c-list"><li><a data-anchor="/document/16/208516/bssPhr9/"></a><a data-anchor="/document/16/208516/dfasov7i3e/" data-dfa="dfasov7i3e"></a>недополученную заработную плату;</li><li>компенсацию за&nbsp;все неиспользованные основные и&nbsp;дополнительные отпуска;</li><li>иные выплаты, если они предусмотрены локальным актом организации или трудовым договором.</li></ul><p><a data-anchor="/document/16/208516/bssPhr10/"></a><a data-anchor="/document/16/208516/dfasx99gbc/" data-dfa="dfasx99gbc"></a>Если в&nbsp;день прекращения трудового договора работник отсутствовал на&nbsp;работе, то&nbsp;все равно в&nbsp;этот день проведите расчет и&nbsp;перечислите итоговую сумму на&nbsp;банковскую карту работника. Если зарплату выдаете через кассу соответствующие суммы должны быть выплачены не&nbsp;позднее трех дней после предъявления работником требования о&nbsp;расчете (<span num="175" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;172&nbsp;ТК). Также составьте <span num="67" target="_self" lnktype="intlnk" title="" class="doc">уведомление</span> о&nbsp;том, что работнику необходимо забрать трудовую книжку и&nbsp;другие документы (<span num="115" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;171&nbsp;ТК).</p></div><a data-anchor="/document/16/208516/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/208516/bssPhr11/"></a><a data-anchor="/document/16/208516/dfas1erf7u/" data-dfa="dfas1erf7u"></a>Подтверждение выдачи документов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/208516/bssPhr13/"></a><a data-anchor="/document/16/208516/dfaseqbcg2/" data-dfa="dfaseqbcg2"></a>Получите подтверждение того, что работнику выдали документы в&nbsp;день прекращения трудового договора одним из&nbsp;способов:</p><ol class="c-list"><li><a data-anchor="/document/16/208516/bssPhr14/"></a><a data-anchor="/document/16/208516/dfasq1og1g/" data-dfa="dfasq1og1g"></a>Оформите опись документов и&nbsp;попросите работника поставить подпись, которая подтвердит, что он&nbsp;получил документы при прекращении трудового договора;</li><li><a data-anchor="/document/16/208516/bssPhr15/"></a><a data-anchor="/document/16/208516/dfasr7q9x3/" data-dfa="dfasr7q9x3"></a>Попросите работника написать расписку о&nbsp;том, что он&nbsp;получил документы в&nbsp;день прекращения трудового договора;</li><li><a data-anchor="/document/16/208516/bssPhr16/"></a><a data-anchor="/document/16/208516/dfasg23gq1/" data-dfa="dfasg23gq1"></a>Получите подпись работника на&nbsp;копиях выданных документов.</li></ol><p><a data-anchor="/document/16/208516/bssPhr17/"></a><a data-anchor="/document/16/208516/dfas1kpqp9/" data-dfa="dfas1kpqp9"></a>В&nbsp;расписке попросите работника указать:</p><ul class="c-list"><li><a data-anchor="/document/16/208516/bssPhr18/"></a><a data-anchor="/document/16/208516/dfasy0d9gx/" data-dfa="dfasy0d9gx"></a>Ф.&nbsp;И.&nbsp;О. и&nbsp;должность;</li><li>перечень справок и&nbsp;документов, которые он&nbsp;получил;</li><li>дату, когда работник получил документы.</li></ul><p><a data-anchor="/document/16/208516/bssPhr19/"></a><a data-anchor="/document/16/208516/dfasi8m7p7/" data-dfa="dfasi8m7p7"></a>Проверьте, чтобы работник поставил подпись в&nbsp;описи или расписке о&nbsp;получении документов в&nbsp;день увольнения. Подпись работника подтвердит, что работодатель выдал ему документы при прекращении трудового договора.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как поступить, если работник пришел за&#160;документами после дня увольнения</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208516/bssPhr21/"></a><a data-anchor="/document/16/208516/dfasn7pu83/" data-dfa="dfasn7pu83"></a>Нужно выдать работнику документы.</p><p><a data-anchor="/document/16/208516/bssPhr22/"></a><a data-anchor="/document/16/208516/dfasiw13ku/" data-dfa="dfasiw13ku"></a>Если работник не&nbsp;пришел на&nbsp;работу в&nbsp;день прекращения трудового договора по&nbsp;собственному желанию и&nbsp;заявление не&nbsp;отзывал, то&nbsp;работодатель имеет право прекратить трудовые отношения и&nbsp;в&nbsp;период отсутствия на&nbsp;работе (<span data-warm-notices="38195167" data-warm-notice-type="error" num="267" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;160&nbsp;</span>ТК). Если не&nbsp;оформить прекращение трудовых отношений, работник может оформить претензию о&nbsp;том, что работодатель не&nbsp;выполнил его просьбу.</p><p><a data-anchor="/document/16/208516/bssPhr23/"></a><a data-anchor="/document/16/208516/dfas6rfrsb/" data-dfa="dfas6rfrsb"></a>Если в&nbsp;день прекращения трудового договора работник отсутствовал на&nbsp;работе, то&nbsp;все равно в&nbsp;этот день проведите расчет и&nbsp;перечислите итоговую сумму на&nbsp;банковскую карту работника. Если зарплату выдаете через кассу, то&nbsp;выдайте ее&nbsp;в&nbsp;течение трех дней после обращения работника за&nbsp;деньгами (<span data-warm-notices="12766344" data-warm-notice-type="error" num="116" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;172&nbsp;</span>ТК).</p><p><a data-anchor="/document/16/208516/bssPhr24/"></a><a data-anchor="/document/16/208516/dfasg83f68/" data-dfa="dfasg83f68"></a>Если работник не&nbsp;получил трудовую книжку, по&nbsp;просьбе работника, работодатель вправе переслать трудовую книжку работника по&nbsp;почте. Для этого отправьте работнику уведомление с&nbsp;просьбой явиться за&nbsp;трудовой книжкой. После того, как получите письменное согласие работника на&nbsp;пересылку трудовой книжки, отправьте ее&nbsp;по&nbsp;почте заказным письмом с&nbsp;уведомлением не&nbsp;позднее трех рабочих дней со&nbsp;дня, когда поступило заявление (<span num="151" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;171&nbsp;ТК).</p><p><a data-anchor="/document/16/208516/bssPhr25/"></a><a data-anchor="/document/16/208516/dfasfe7gm2/" data-dfa="dfasfe7gm2"></a>Выдайте другие документы по&nbsp;требованию, если работник высказал такую просьбу в&nbsp;форме <span data-warm-notices="19762173" data-warm-notice-type="error" num="187" target="_self" lnktype="intlnk" title="" class="doc">заявления </span>(<span num="188" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;171&nbsp;ТК).</p><p><a data-anchor="/document/16/208516/bssPhr26/"></a><a data-anchor="/document/16/208516/dfasx9s1v1/" data-dfa="dfasx9s1v1"></a>По&nbsp;общему правилу в&nbsp;последний рабочий день работодатель обязан выплатить работнику окончательный расчет и&nbsp;выдать следующие документы:</p><ul class="c-list"><li><a data-anchor="/document/16/208516/bssPhr27/"></a><a data-anchor="/document/16/208516/dfasbetu41/" data-dfa="dfasbetu41"></a>трудовую книжку;</li><li>копию приказа о&nbsp;прекращении трудового договора;</li><li>иные документы по&nbsp;письменному заявлению.</li></ul><p><a data-anchor="/document/16/208516/bssPhr28/"></a><a data-anchor="/document/16/208516/dfas8662wy/" data-dfa="dfas8662wy"></a>Такие правила устанавливает статья <span num="119" target="_self" lnktype="intlnk" title="" class="doc">171</span>&nbsp;ТК.</p><p><a data-anchor="/document/16/208516/bssPhr29/"></a><a data-anchor="/document/16/208516/dfaswf6zfx/" data-dfa="dfaswf6zfx"></a>Этот&nbsp;же порядок соблюдайте и&nbsp;в&nbsp;отношении работников-совместителей. Выдайте им&nbsp;при прекращении трудового договора те&nbsp;же документы. Исключением будет только трудовая книжка. Так как ее&nbsp;хранят по&nbsp;основному месту работы&nbsp;— при увольнении работодатель ее&nbsp;совместителю не&nbsp;выдает.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Что делать, если работник не&#160;забрал трудовую книжку</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208516/bssPhr31/"></a><a data-anchor="/document/16/208516/dfasfhmz66/" data-dfa="dfasfhmz66"></a>В&nbsp;день прекращения трудового договора работодатель обязан выдать работнику его трудовую книжку либо выписку из&nbsp;электронной трудовой книжки, а&nbsp;также копию приказа о&nbsp;прекращении трудового договора (<span num="189" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;171&nbsp;ТК, <span num="201" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;п.&nbsp;3.1 «Инструкции о&nbsp;порядке ведения трудовых книжек», рег. №&nbsp;402 от&nbsp;29.01.1998).</p><p><a data-anchor="/document/16/208516/bssPhr32/"></a><a data-anchor="/document/16/208516/dfasr9t914/" data-dfa="dfasr9t914"></a>Если работник не&nbsp;пришел на&nbsp;работу и&nbsp;не&nbsp;забрал трудовую книжку, не&nbsp;позднее следующего рабочего дня, то&nbsp;направьте ему <span num="68" target="_self" lnktype="intlnk" title="" class="doc">уведомление</span> (<span data-warm-notices="12766348" data-warm-notice-type="error" num="120" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2&nbsp;</span>ст.&nbsp;171&nbsp;ТК). В&nbsp;уведомлении укажите, что трудовой договор прекращен и&nbsp;работник должен забрать трудовую книжку или дать письменное согласие на&nbsp;отправление ее&nbsp;по&nbsp;почте. К&nbsp;уведомлению приложите копию <span num="53" target="_self" lnktype="intlnk" title="" class="doc">приказа</span> о&nbsp;прекращении трудового договора. Со&nbsp;дня, когда выслали уведомление, работодатель не&nbsp;несет ответственности за&nbsp;то, что несвоевременно выдал трудовую книжку и&nbsp;другие документы.</p><p><a data-anchor="/document/16/208516/bssPhr33/"></a><a data-anchor="/document/16/208516/dfas0zgpab/" data-dfa="dfas0zgpab"></a><a data-anchor="/document/16/208516/dfasswzuxa/" data-dfa="dfasswzuxa"></a>После того, как получите письменное согласие работника на&nbsp;пересылку трудовой книжки, отправьте ее&nbsp;по&nbsp;почте заказным письмом с&nbsp;уведомлением не&nbsp;позднее трех рабочих дней со&nbsp;дня, когда поступило заявление. Такие правила установлены статьей <span num="121" target="_self" lnktype="intlnk" title="" class="doc">171</span>&nbsp;ТК.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно&#160;ли отправить по&#160;почте трудовую, которую работник не&#160;получил в&#160;день увольнения</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208516/bssPhr35/"></a><a data-anchor="/document/16/208516/dfasm8pywn/" data-dfa="dfasm8pywn"></a>Если в&nbsp;день прекращения трудового договора выдать трудовую книжку работнику невозможно, например, он&nbsp;отсутствует на&nbsp;работе, составьте <span num="70" target="_self" lnktype="intlnk" title="" class="doc">уведомление</span> и&nbsp;не&nbsp;позднее следующего рабочего дня направьте его по&nbsp;почте (ч.&nbsp;2&nbsp;ст.&nbsp;171&nbsp;ТК). В&nbsp;уведомлении укажите, что работник должен прийти в&nbsp;организацию за&nbsp;трудовой книжкой или дать согласие на&nbsp;то, чтобы ее&nbsp;отправили по&nbsp;почте. К&nbsp;уведомлению приложите копию приказа о&nbsp;прекращении трудового договора</p><p><a data-anchor="/document/16/208516/bssPhr36/"></a><a data-anchor="/document/16/208516/dfasqr1wzz/" data-dfa="dfasqr1wzz"></a>Со&nbsp;дня, когда выслали уведомление, организация не&nbsp;несет ответственности за&nbsp;то, что несвоевременно выдала трудовую (<span num="96" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;171&nbsp;ТК).</p><p><a data-anchor="/document/16/208516/bssPhr41/"></a><a data-anchor="/document/16/208516/dfas6uoc0d/" data-dfa="dfas6uoc0d"></a>Если работник сам не&nbsp;захотел получить трудовую книжку в&nbsp;день прекращения трудового договора, это не&nbsp;освобождает работодателя от&nbsp;ответственности за&nbsp;задержку. И&nbsp;работник вправе потребовать начислить заработок за&nbsp;период задержки трудовой книжки (ст. <span data-warm-notices="12766351" data-warm-notice-type="error" num="139" target="_self" lnktype="intlnk" title="" class="doc">320&nbsp;</span>ТК). Поэтому, в&nbsp;последний день работы, при отказе работника получить трудовую, уведомьте его о&nbsp;необходимости забрать ее&nbsp;или дать согласие на&nbsp;то, что трудовую книжку отправят почтой. Сделать это можно двумя способами:</p><ol class="c-list"><li><a data-anchor="/document/16/208516/bssPhr42/"></a><a data-anchor="/document/16/208516/dfasdnh1zf/" data-dfa="dfasdnh1zf"></a>Прописать в&nbsp;самом акте об&nbsp;отказе получить трудовую книжку, что необходимо прибыть за&nbsp;ней или дать согласие на&nbsp;то, что ее&nbsp;перешлют;</li><li><a data-anchor="/document/16/208516/bssPhr43/"></a><a data-anchor="/document/16/208516/dfasli7meg/" data-dfa="dfasli7meg"></a>Составьте отдельное уведомление.</li></ol><p><a data-anchor="/document/16/208516/bssPhr44/"></a><a data-anchor="/document/16/208516/dfas0kn1vu/" data-dfa="dfas0kn1vu"></a>В&nbsp;обоих случаях работника ознакомьте с&nbsp;уведомлением под роспись.</p><p><a data-anchor="/document/16/208516/bssPhr45/"></a><a data-anchor="/document/16/208516/dfast1iscz/" data-dfa="dfast1iscz"></a><a data-anchor="/document/16/208516/dfase4ggkm/" data-dfa="dfase4ggkm"></a>Если работник не&nbsp;получил трудовую книжку, по&nbsp;письменному заявлению работника, работодатель вправе переслать трудовую книжку работника по&nbsp;почте. В&nbsp;заявлении он&nbsp;указывает адрес, на&nbsp;который работодатель отправит трудовую книжку.</p><p><a data-anchor="/document/16/208516/bssPhr47/"></a><a data-anchor="/document/16/208516/dfasl4yscg/" data-dfa="dfasl4yscg"></a>Отправьте трудовую книжку по&nbsp;почте не&nbsp;позднее трех рабочих дней с&nbsp;момента, когда работник выразил согласие на&nbsp;это и&nbsp;написал заявление на&nbsp;отправку по&nbsp;почте (<span num="162" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;171&nbsp;ТК). Трудовую книжку отправляйте заказным письмом обязательно с&nbsp;описью вложения, где укажите, например,: «Трудовая книжка Кадырова И.И.». Только в&nbsp;этом случае работодатель не&nbsp;будет нести ответственность, если документ потеряют на&nbsp;почте. При этом пересылка трудовой книжки по&nbsp;почте происходит за&nbsp;счет работодателя.</p><p><a data-anchor="/document/16/208516/bssPhr48/"></a><a data-anchor="/document/16/208516/dfasafrmog/" data-dfa="dfasafrmog"></a>Трудовую книжку, которую работник не&nbsp;получил при увольнении, храните до&nbsp;востребования документа работником или его ближайшими родственниками&nbsp;— в&nbsp;случае смерти работника. Невостребованные трудовые книжки храните 75&nbsp;лет.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязан&#160;ли работодатель выдавать обходной лист при увольнении работника</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208516/bssPhr50/"></a><a data-anchor="/document/16/208516/dfas5384s9/" data-dfa="dfas5384s9"></a>Нет, не&nbsp;обязан.</p><p><a data-anchor="/document/16/208516/bssPhr51/"></a><a data-anchor="/document/16/208516/dfaspm912v/" data-dfa="dfaspm912v"></a>Закон не&nbsp;предусматривает обязанность работодателя выдавать <span num="213" target="_self" lnktype="intlnk" title="" class="doc">обходной лист</span>, а&nbsp;работника заполнять его при увольнении (ст. <span num="122" target="_self" lnktype="intlnk" title="" class="doc">170</span>, <span num="123" target="_self" lnktype="intlnk" title="" class="doc">171</span>&nbsp;ТК).</p><p><a data-anchor="/document/16/208516/bssPhr52/"></a><a data-anchor="/document/16/208516/dfashgmmr7/" data-dfa="dfashgmmr7"></a>Однако на&nbsp;практике работодатели используют этот документ в&nbsp;своей деятельности. Заполненный обходной лист свидетельствует о&nbsp;том, что обязательства работника перед работодателем отсутствуют, а&nbsp;работодатель не&nbsp;имеет претензий к&nbsp;нему.</p><p><a data-anchor="/document/16/208516/bssPhr53/"></a><a data-anchor="/document/16/208516/dfask5i3le/" data-dfa="dfask5i3le"></a>Типовой формы обходного листа в&nbsp;Законе нет, поэтому работодатель вправе использовать форму, которую разработал сам. Обычно обходной лист представляет собой документ, где руководители подразделений делают отметку об&nbsp;исполнении работником обязательств перед ними. Например, он&nbsp;составил авансовый отчет, сдал спецодежду и&nbsp;пропуск в&nbsp;организацию.</p><p><a data-anchor="/document/16/208516/bssPhr54/"></a><a data-anchor="/document/16/208516/dfasemaiip/" data-dfa="dfasemaiip"></a>Самостоятельно разработанную форму обходного листа и&nbsp;порядок, по&nbsp;которому ее&nbsp;заполнять, утверждают отдельным локальным документом или как приложение к&nbsp;тому, который уже существует, например, к <span num="54" target="_self" lnktype="intlnk" title="" class="doc">Инструкции по&nbsp;делопроизводству</span>.</p><p><a data-anchor="/document/16/208516/bssPhr55/"></a><a data-anchor="/document/16/208516/dfas4fhc6e/" data-dfa="dfas4fhc6e"></a>Утверждение формы обходного листа и&nbsp;порядок ее&nbsp;заполнения в&nbsp;локальном документе работодателя не&nbsp;влияет на&nbsp;общий порядок оформления прекращения трудового договора (ст. <span num="124" target="_self" lnktype="intlnk" title="" class="doc">170</span>&nbsp;ТК). Например, работодатель не&nbsp;вправе задерживать выдачу трудовой книжки и&nbsp;окончательный расчет работнику, если тот несвоевременно сдал обходной лист или не&nbsp;стал его заполнять (<span data-warm-notices="12766349" data-warm-notice-type="error" num="125" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1&nbsp;</span>ст.&nbsp;171 и&nbsp;ст. <span num="126" target="_self" lnktype="intlnk" title="" class="doc">172</span>&nbsp;ТК и <span num="281" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;п.&nbsp;6&nbsp;Постановление Верховного суда от&nbsp;20.11.2023 №&nbsp;26&nbsp;«О&nbsp;применении судами законодательства, регулирующего прекращение трудового договора»).</p><p><a data-anchor="/document/16/208516/bssPhr56/"></a><a data-anchor="/document/16/208516/dfas58ts36/" data-dfa="dfas58ts36"></a>За&nbsp;то, что несвоевременно выдали трудовую книжку и&nbsp;выплатили окончательный расчет при прекращении трудового договора с&nbsp;работником, предусмотрена материальная и&nbsp;административная ответственность (ст. <span num="92" target="_self" lnktype="intlnk" title="" class="doc">320</span>, <span num="93" target="_self" lnktype="intlnk" title="" class="doc">333</span>&nbsp;ТК и&nbsp;ст. <span num="94" target="_self" lnktype="intlnk" title="" class="doc">49</span>&nbsp;КоАО).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Когда выдать трудовую книжку и&#160;произвести расчет работника, если он&#160;ушел в&#160;отпуск с&#160;последующим увольнением</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208516/bssPhr58/"></a><a data-anchor="/document/16/208516/dfasldq3bz/" data-dfa="dfasldq3bz"></a>Выдать трудовую книжку и&nbsp;провести окончательный расчет следует в&nbsp;последний день отпуска.</p><p><a data-anchor="/document/16/208516/bssPhr59/"></a><a data-anchor="/document/16/208516/dfassp9fk3/" data-dfa="dfassp9fk3"></a>Для этого работодатель вправе пригласить работника в&nbsp;день прекращения трудового договора для того, чтобы выдать трудовую книжку, произвести окончательный расчет и&nbsp;ознакомить его с&nbsp;документами. В&nbsp;этом случае не&nbsp;берут в&nbsp;расчет, что работника отозвали из&nbsp;отпуска и&nbsp;нарушили трудовое законодательство, так как это случилось из-за его желания оформить прекращение трудовых отношений.</p><p><a data-anchor="/document/16/208516/bssPhr60/"></a><a data-anchor="/document/16/208516/dfasgn7wvf/" data-dfa="dfasgn7wvf"></a>Если работник уехал и&nbsp;не&nbsp;сможет быть лично, то&nbsp;необходимо направить <span num="69" target="_self" lnktype="intlnk" title="" class="doc">уведомление</span> по&nbsp;почте с&nbsp;просьбой забрать трудовую книжку или дать согласие на&nbsp;то, чтобы ее&nbsp;отправили по&nbsp;почте.</p><p><a data-anchor="/document/16/208516/bssPhr61/"></a><a data-anchor="/document/16/208516/dfas2lhzy8/" data-dfa="dfas2lhzy8"></a>Если работник ушел в&nbsp;отпуск и&nbsp;одновременно подал заявление о&nbsp;прекращении трудовых отношений, это не&nbsp;считают отпуском с&nbsp;последующим увольнением, если в&nbsp;заявлении об&nbsp;отпуске отсутствует соответствующая формулировка. В&nbsp;таком случае:</p><ul class="c-list"><li><a data-anchor="/document/16/208516/bssPhr62/"></a><a data-anchor="/document/16/208516/dfasm913g3/" data-dfa="dfasm913g3"></a>работник может отозвать заявление вплоть до&nbsp;даты увольнения&nbsp;— последнего дня отпуска;</li><li>работодатель не&nbsp;обязан выдать документы и&nbsp;окончательный расчет в&nbsp;последний рабочий день, который предшествует отпуску.</li></ul><p><a data-anchor="/document/16/208516/bssPhr63/"></a><a data-anchor="/document/16/208516/dfasdu9agc/" data-dfa="dfasdu9agc"></a>Более того, в&nbsp;этом случае при проверке потребуют переоформить все документы на&nbsp;прекращение трудовых отношений, если работник отзовет свое заявление.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно&#160;ли выдавать на&#160;руки личную карточку работника при его увольнении</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208516/bssPhr65/"></a><a data-anchor="/document/16/208516/dfasgtsdpe/" data-dfa="dfasgtsdpe"></a>Нет, не&nbsp;нужно.</p><p><a data-anchor="/document/16/208516/bssPhr66/"></a><a data-anchor="/document/16/208516/dfasi1lg41/" data-dfa="dfasi1lg41"></a>Закон не&nbsp;предусматривает обязанность работодателя выдавать <span num="55" target="_self" lnktype="intlnk" title="" class="doc">личную карточку работника Т-2</span> (<span num="95" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;171&nbsp;ТК).</p><p><a data-anchor="/document/16/208516/bssPhr67/"></a><a data-anchor="/document/16/208516/dfas5t79pf/" data-dfa="dfas5t79pf"></a>Личные карточки уволенных работников храните в&nbsp;архиве организации в&nbsp;течение 75&nbsp;лет.</p></div></div></div><a data-anchor="/document/16/208516/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/208516/bssPhr68/"></a><a data-anchor="/document/16/208516/dfasqg2rhc/" data-dfa="dfasqg2rhc"></a>Ответственность за&nbsp;задержку</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/208516/bssPhr70/"></a><a data-anchor="/document/16/208516/dfasf9p77s/" data-dfa="dfasf9p77s"></a>Если работодатель несвоевременно выдал работнику трудовую книжку и&nbsp;задержал выплату окончательного расчета при прекращении трудового договора, законодательство предусматривает материальную и&nbsp;административную ответственность (ст. <span num="97" target="_self" lnktype="intlnk" title="" class="doc">320</span>, <span num="98" target="_self" lnktype="intlnk" title="" class="doc">333</span>&nbsp;ТК и&nbsp;ст. <span num="99" target="_self" lnktype="intlnk" title="" class="doc">49</span>&nbsp;КоАО).</p><p><a data-anchor="/document/16/208516/bssPhr71/"></a><a data-anchor="/document/16/208516/dfasqlkbph/" data-dfa="dfasqlkbph"></a>За&nbsp;несвоевременную выдачу трудовой книжки работник вправе потребовать возместить ему материальный ущерб в&nbsp;размере заработка за&nbsp;все время задержки (например, по&nbsp;причине несвоевременной сдачи матценностей). В&nbsp;таком случае днем прекращения трудового договора считайте день выдачи трудовой книжки. О&nbsp;новой дате прекращения трудового договора издайте приказ и&nbsp;внесите запись в&nbsp;трудовую книжку работника и <span num="128" target="_self" lnktype="intlnk" title="" class="doc">ЕНСТ</span>. Запись о&nbsp;прекращении трудового договора, которую оформили ранее, аннулируйте (п.&nbsp;2.8 «Инструкции о&nbsp;порядке ведения трудовых книжек», рег. №&nbsp;402 от&nbsp;29.01.1998).</p><p><a data-anchor="/document/16/208516/bssPhr72/"></a><a data-anchor="/document/16/208516/dfaspev2af/" data-dfa="dfaspev2af"></a><a data-anchor="/document/16/208516/dfasr42m4h/" data-dfa="dfasr42m4h"></a>При этом, если работодатель нарушил сроки выплаты окончательного расчета при прекращении трудового договора с&nbsp;работником, он&nbsp;обязан заплатить последнему компенсацию в&nbsp;размере&nbsp;10% от&nbsp;ставки рефинансирования&nbsp;ЦБ (<span num="225" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;333</span>&nbsp;ТК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/208516/bssPhr73/"></a><a data-anchor="/document/16/208516/dfasbvi02v/" data-dfa="dfasbvi02v"></a>Расчет компенсации за&nbsp;задержку зарплаты при увольнении. Размер компенсации коллективным (трудовым) договором не&nbsp;установлен</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/208516/bssPhr74/"></a><a data-anchor="/document/16/208516/dfasrvolce/" data-dfa="dfasrvolce"></a>Кадыров уволился 4&nbsp;октября 2023&nbsp;года. Но&nbsp;окончательный расчет организация выплатила 30&nbsp;декабря 2023&nbsp;года.</p><p><a data-anchor="/document/16/208516/bssPhr75/"></a><a data-anchor="/document/16/208516/dfaswmybya/" data-dfa="dfaswmybya"></a>Сумма расчета при прекращении трудового договора составила 3&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/208516/bssPhr76/"></a><a data-anchor="/document/16/208516/dfasq3fqxz/" data-dfa="dfasq3fqxz"></a>Количество дней задержки&nbsp;— 87.</p><p><a data-anchor="/document/16/208516/bssPhr77/"></a><a data-anchor="/document/16/208516/dfasabkvi6/" data-dfa="dfasabkvi6"></a>Вместе с&nbsp;задолженностью по&nbsp;зарплате организация выплатила компенсацию за&nbsp;задержку. Ее&nbsp;размер в&nbsp;коллективном договоре не&nbsp;установлен, поэтому расчет производится в&nbsp;размере 10&nbsp;% от&nbsp;ставки рефинансирования ЦБ.</p><p><a data-anchor="/document/16/208516/bssPhr78/"></a><a data-anchor="/document/16/208516/dfashbq2ht/" data-dfa="dfashbq2ht"></a>Следовательно, сумма задолженности, включая компенсацию за&nbsp;задержку зарплаты составила:</p><p><a data-anchor="/document/16/208516/bssPhr79/"></a><a data-anchor="/document/16/208516/dfast8e1b3/" data-dfa="dfast8e1b3"></a><strong>3&nbsp;010&nbsp;010, 96&nbsp;сумов</strong> (3&nbsp;000&nbsp;000 сум + 3&nbsp;000&nbsp;000 сум × 14% х&nbsp;10% ÷ 365&nbsp;дн х&nbsp;87&nbsp;дн)</p></div></div><p><a data-anchor="/document/16/208516/bssPhr80/"></a><a data-anchor="/document/16/208516/dfasfvghav/" data-dfa="dfasfvghav"></a>Компенсацию начисляют за&nbsp;каждый день просрочки выплаты, на&nbsp;всю невыплаченную в&nbsp;срок сумму. В&nbsp;трудовом или <span num="56" target="_self" lnktype="intlnk" title="" class="doc">колдоговоре</span> могут установить более высокий размер компенсации. Тогда работодатель выплачивает компенсацию в&nbsp;размере, который предусматривает договор (<span num="100" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;333&nbsp;ТК</span>).</p><p><a data-anchor="/document/16/208516/bssPhr81/"></a><a data-anchor="/document/16/208516/dfasyvcz0o/" data-dfa="dfasyvcz0o"></a>Помимо материальной ответственности, законодательство предусматривает административный штраф (<span num="37" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;49&nbsp;КоАО</span>). Размер штрафа составляет от&nbsp;5&nbsp;до&nbsp;10&nbsp;БРВ. Повторное нарушение предусматривает от&nbsp;10&nbsp;до&nbsp;15&nbsp;БРВ.</p><p><a data-anchor="/document/16/208516/bssPhr82/"></a><a data-anchor="/document/16/208516/dfassa7u24/" data-dfa="dfassa7u24"></a><a data-anchor="/document/16/208516/dfasmc1f7r/" data-dfa="dfasmc1f7r"></a>Работодатель выплачивает работнику такую компенсацию, даже если задержка окончательного расчета произошла не&nbsp;по&nbsp;его вине (<span num="101" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;333&nbsp;ТК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span data-warm-notices="43024512" data-warm-notice-type="error" num="252" target="_self" lnktype="intlnk" title="" class="doc">Какую ответственность несет работодатель за&nbsp;задержку заработной платы</span></li><li class="incut-v4-more-about__item"><span num="296" target="_self" lnktype="intlnk" title="" class="doc">Калькулятор компенсации за&nbsp;задержку зарплаты</span></li></ul></div><div class="incut-v4__icon"></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

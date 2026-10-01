@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отразить в бухучете и при налогообложении многолетние насаждения</h2><div class="doc-snippet"><a data-anchor="/document/16/218392/dfasg2rpo0/" data-dfa="dfasg2rpo0"></a><a data-anchor="/document/16/218392/bssPhr2/"></a>В рекомендации Системы Главбух найдете проводки, которыми следует отразить в учете многолетние насаждения в составе основных средств, а также в составе инвентаря и хозяйственных принадлежностей. Узнаете, нужно ли платить налог на имущество с многолетних насаждений и как отразить в учете выращивание многолетних насаждений для продажи. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/218392/bssPhr4/"></a><a data-anchor="/document/16/218392/dfas67eryq/" data-dfa="dfas67eryq"></a>В бухучете многолетние насаждения учитывайте в составе:</p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr5/"></a><a data-anchor="/document/16/218392/dfaszq39qk/" data-dfa="dfaszq39qk"></a><a href="https://1gb.uz/#/document/16/218392/dfasdpkxb3/">основных средств</a>;</li><li><a data-anchor="/document/16/218392/dfasnaa9gy/" data-dfa="dfasnaa9gy"></a><a href="https://1gb.uz/#/document/16/218392/dfasdrmfo4/">либо инвентаря и хозяйственных принадлежностей</a>.</li></ul><a data-anchor="/document/16/218392/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218392/bssPhr6/"></a><a data-anchor="/document/16/218392/dfas4htdsy/" data-dfa="dfas4htdsy"></a>Многолетние насаждения в составе основных средств</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218392/bssPhr8/"></a><a data-anchor="/document/16/218392/dfasdpkxb3/" data-dfa="dfasdpkxb3"></a>Руководитель организации вправе установить в учетной политике критерии для учета активов в составе основных средств, а также классификацию основных средств по группам (<span num="70" target="_self" lnktype="intlnk" title="" class="doc">п. 4 НСБУ №5</span>).</p><p><a data-anchor="/document/16/218392/bssPhr9/"></a><a data-anchor="/document/16/218392/dfasynhw89/" data-dfa="dfasynhw89"></a>Многолетние насаждения признавайте в качестве основных средств, если:</p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr10/"></a><a data-anchor="/document/16/218392/dfascob9r5/" data-dfa="dfascob9r5"></a>есть уверенность поступления на предприятие будущей экономической выгоды, связанной с насаждениями;</li><li>стоимость многолетних насаждений может быть точно оценена (<span num="71" target="_self" lnktype="intlnk" title="" class="doc">п. 8</span> НСБУ № 5).</li></ul><p><a data-anchor="/document/16/218392/bssPhr11/"></a><a data-anchor="/document/16/218392/dfasmgc0gu/" data-dfa="dfasmgc0gu"></a>Если многолетние насаждения соответствуют критериям отнесения к ОС в <span num="10" lnktype="intlnk" title="" class="doc">учетной политике</span> предприятия, то учитывайте и отражайте их на <strong>счете 0180 «Многолетние насаждения»</strong>. На этом счете учитывайте озеленительные, декоративные, плодово-ягодные деревья и насаждения, живые изгороди и др. (<span data-warm-notices="41378230" data-warm-notice-type="error" num="12" target="_self" lnktype="intlnk" title="" class="doc">п. 20</span> Инструкции к плану счетов).</p><p><a data-anchor="/document/16/218392/bssPhr12/"></a><a data-anchor="/document/16/218392/dfasp1krfu/" data-dfa="dfasp1krfu"></a><strong>Подробнее об этом читайте в рекомендациях:</strong> «<span num="13" lnktype="intlnk" title="" class="doc">Как оформить и отразить в бухучете приобретение основных средств за плату</span>», «<span num="14" lnktype="intlnk" title="" class="doc">Как оформить поступление основных средств</span>», «<span num="15" lnktype="intlnk" title="" class="doc">Как рассчитать и зачесть НДС по основным средствам, нематериальным активам, «незавершенке» и оборудованию к установке</span>», «<span num="16" lnktype="intlnk" title="" class="doc">Как принять к зачету входной НДС</span>»,</p><p><a data-anchor="/document/16/218392/bssPhr13/"></a><a data-anchor="/document/16/218392/dfas7k7ach/" data-dfa="dfas7k7ach"></a>Бухгалтерские проводки следующие:</p><p><a data-anchor="/document/16/218392/bssPhr14/"></a><a data-anchor="/document/16/218392/dfas35hn89/" data-dfa="dfas35hn89"></a><strong>Дебет 0890 или 0820 Кредит 6000</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr15/"></a><a data-anchor="/document/16/218392/dfasrpacld/" data-dfa="dfasrpacld"></a>отражена стоимость насаждений, приобретенных за плату, которые будут учтены в составе основных средств;</li></ul><p><a data-anchor="/document/16/218392/bssPhr16/"></a><a data-anchor="/document/16/218392/dfashvy9uh/" data-dfa="dfashvy9uh"></a><strong>Дебет 0890 или 0820 Кредит 6900, 6710, 6500</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr17/"></a><a data-anchor="/document/16/218392/dfaszwu80v/" data-dfa="dfaszwu80v"></a>отражены затраты на приобретение насаждений, которые будут учтены в составе основных средств, например, транспортировка, зарплата работников, связанных с приобретением ОС, социальный налог по этой зарплате.</li></ul><p><a data-anchor="/document/16/218392/bssPhr18/"></a><a data-anchor="/document/16/218392/dfas2g62nt/" data-dfa="dfas2g62nt"></a>Затраты, связанные с приобретением ОС определены в <span num="17" target="_self" lnktype="intlnk" title="" class="doc">пункте 13</span> НСБУ № 5.</p><p><a data-anchor="/document/16/218392/bssPhr19/"></a><a data-anchor="/document/16/218392/dfasbzklnf/" data-dfa="dfasbzklnf"></a><strong>Дебет 4410 Кредит 6000, 6900</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr20/"></a><a data-anchor="/document/16/218392/dfas7idh9o/" data-dfa="dfas7idh9o"></a>отражен НДС, у плательщиков налога, по приобретенным насаждениям и затратам, связанным с их приобретением;</li></ul><p><a data-anchor="/document/16/218392/bssPhr21/"></a><a data-anchor="/document/16/218392/dfasfb5mge/" data-dfa="dfasfb5mge"></a><strong>Дебет 6410 Кредит 4410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr22/"></a><a data-anchor="/document/16/218392/dfas8k2gnb/" data-dfa="dfas8k2gnb"></a>отражен зачет НДС, у плательщиков налога, по приобретенным насаждениям и затратам, связанным с их приобретением;</li></ul><p><a data-anchor="/document/16/218392/bssPhr23/"></a><a data-anchor="/document/16/218392/dfasudmyg5/" data-dfa="dfasudmyg5"></a><strong>Дебет 0180 Кредит 0890 или 0820</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr24/"></a><a data-anchor="/document/16/218392/dfas11osr7/" data-dfa="dfas11osr7"></a>принято в состав основных средств и введено в эксплуатацию насаждение по первоначальной стоимости. Если насаждение не вводите в эксплуатацию, тогда такую проводку не делайте.</li></ul><p><a data-anchor="/document/16/218392/bssPhr25/"></a><a data-anchor="/document/16/218392/dfas9r93p5/" data-dfa="dfas9r93p5"></a>Основным средством в целях налогообложения признается имущество, отвечающее критериям, установленным <span num="37" target="_self" lnktype="intlnk" title="" class="doc">статьей 306</span> НК в редакции Закона №ЗРУ-741. Основным средством является имущество:</p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr26/"></a><a data-anchor="/document/16/218392/dfasf17u7a/" data-dfa="dfasf17u7a"></a>стоимостью более 50 БРВ, установленной на дату признания в качестве такового, за единицу (комплект). Налогоплательщики вправе устанавливать в учетной политике в целях налогообложения меньший предел стоимости имущества для его учета в составе основных средств;</li><li>находящееся у налогоплательщика на правах собственности;</li><li>используемое в производстве товаров, оказании услуг или для административно-управленческих нужд в течение длительного времени (продолжительностью свыше двенадцати месяцев).</li></ul><p><a data-anchor="/document/16/218392/bssPhr27/"></a><a data-anchor="/document/16/218392/dfasm9i7s8/" data-dfa="dfasm9i7s8"></a>Особенность учета многолетних насаждений в том, что они не сразу достигают своего эксплуатационного возраста, например, периода, когда они могут давать плоды. Нормативных документов, регулирующих порядок учета многолетних насаждений, нет.</p><p><a data-anchor="/document/16/218392/bssPhr28/"></a><a data-anchor="/document/16/218392/dfasgdkmi3/" data-dfa="dfasgdkmi3"></a>В состав основных средств саженцы следует переводить при достижении ими эксплуатационного возраста и по первоначальной стоимости с учетом затрат, накопленных на <strong>счете 0890 «Прочие капитальные вложения» </strong> или <strong>0820 «Приобретение основных средств»</strong>. Многолетние насаждения, не достигшие эксплуатационного возраста, продолжайте учитывать в качестве капитальных вложений на <strong>счете 0890 </strong> или<strong> 0820</strong>. Также на этих счетах учитывайте затраты на их выращивание до ввода насаждений в эксплуатацию.</p><p><a data-anchor="/document/16/218392/bssPhr29/"></a><a data-anchor="/document/16/218392/dfasc46bnf/" data-dfa="dfasc46bnf"></a>Достижение многолетними насаждениями эксплуатационного возраста законодательно не определено, но как правило у саженцев плодовых многолетних насаждений – это наступление плодоношения, по другим многолетним саженцам – после смыкания крон.</p><p><a data-anchor="/document/16/218392/bssPhr30/"></a><a data-anchor="/document/16/218392/dfasiukqb7/" data-dfa="dfasiukqb7"></a>По не принятым в состав ОС насаждениям амортизацию не начисляйте.</p><p><a data-anchor="/document/16/218392/bssPhr31/"></a><a data-anchor="/document/16/218392/dfasv4y1f6/" data-dfa="dfasv4y1f6"></a>После того как многолетние насаждения будут введены в эксплуатацию, начните начислять амортизацию. Амортизацию в бухгалтерском учете начисляйте с даты ввода их в эксплуатацию и в течение всего срока полезной службы, по методу, определенному в учетной политике (<span num="59" target="_self" lnktype="intlnk" title="" class="doc">п. 33</span>&nbsp;-&nbsp;<span num="19" target="_self" lnktype="intlnk" title="" class="doc">35</span> НСБУ № 5).</p><p><a data-anchor="/document/16/218392/bssPhr32/"></a><a data-anchor="/document/16/218392/dfas2caivg/" data-dfa="dfas2caivg"></a>В налоговом учете начинайте начислять амортизацию также с даты ввода в эксплуатацию актива, независимо от даты его госрегистрации (<span num="38" target="_self" lnktype="intlnk" title="" class="doc">ч. 34</span> ст. 306 НК в редакции <span num="60" target="_self" lnktype="intlnk" title="" class="doc">Закона</span> № ЗРУ-741).</p><p><a data-anchor="/document/16/218392/bssPhr33/"></a><a data-anchor="/document/16/218392/dfasnvh4rc/" data-dfa="dfasnvh4rc"></a><strong>Подробнее об этом читайте в рекомендации</strong> «<span num="20" target="_self" lnktype="intlnk" title="" class="doc">Как начислить амортизацию основных средств</span>».</p><p><a data-anchor="/document/16/218392/bssPhr34/"></a><a data-anchor="/document/16/218392/dfas557rb5/" data-dfa="dfas557rb5"></a>На каждый вид и породу многолетних насаждений, принятых в эксплуатацию, откройте инвентарную карточку учета многолетних насаждений, в которой укажите:</p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr35/"></a><a data-anchor="/document/16/218392/dfasq3pi9w/" data-dfa="dfasq3pi9w"></a>местоположение;</li><li>площадь;</li><li>схему посадки;</li><li>количество деревьев и кустарников (шт.);</li><li>возраст, год посадки;</li><li>дату и номер акта приемки;</li><li>год сдачи в эксплуатацию;</li><li>балансовую стоимость;</li><li>другие необходимые показатели.</li></ul><p><a data-anchor="/document/16/218392/bssPhr36/"></a><a data-anchor="/document/16/218392/dfass8nrau/" data-dfa="dfass8nrau"></a>Затраты по уходу за многолетними насаждениями, принятыми в эксплуатацию, учитывайте в течение года как капитальные вложения на <strong>счете 0890</strong>. К таким затратам могут быть отнесены зарплата сотрудников, расходы на полив, удобрения, амортизация сельскохозяйственной техники, расходы на оплату услуг сторонних организаций.</p><p><a data-anchor="/document/16/218392/bssPhr37/"></a><a data-anchor="/document/16/218392/dfas1cdh4h/" data-dfa="dfas1cdh4h"></a>Ежегодно, в конце года сумму капитальных вложений включайте в стоимость многолетних насаждений. Это определено в <span num="21" target="_self" lnktype="intlnk" title="" class="doc">пункте 27</span>&nbsp;НСБУ № 5.</p><p><a data-anchor="/document/16/218392/bssPhr38/"></a><a data-anchor="/document/16/218392/dfasgsv14t/" data-dfa="dfasgsv14t"></a>В зависимости от вида расходов сделайте проводку:</p><p><a data-anchor="/document/16/218392/bssPhr39/"></a><a data-anchor="/document/16/218392/dfas4qd5nk/" data-dfa="dfas4qd5nk"></a><strong>Дебет 0890 Кредит 0200, 1000, 6710, 6500</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr40/"></a><a data-anchor="/document/16/218392/dfash20ek3/" data-dfa="dfash20ek3"></a>отражены затраты по уходу за многолетними насаждениями в составе капитальных вложений;</li></ul><p><a data-anchor="/document/16/218392/bssPhr41/"></a><a data-anchor="/document/16/218392/dfasovgb0r/" data-dfa="dfasovgb0r"></a><strong>Дебет 0180 Кредит 0890</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr42/"></a><a data-anchor="/document/16/218392/dfashegm7b/" data-dfa="dfashegm7b"></a>переведена сумма капитальных вложений в стоимость многолетних насаждений в конце отчетного года.</li></ul><p><a data-anchor="/document/16/218392/bssPhr43/"></a><a data-anchor="/document/16/218392/dfasft0ahc/" data-dfa="dfasft0ahc"></a>В налоговом учете многолетние насаждения, которые отвечают критериям основного средства, в соответствии со <span num="47" target="_self" lnktype="intlnk" title="" class="doc">статьей 306 НК</span> и учетной политикой предприятия в целях налогообложения, учитывайте в составе амортизируемого имущества. Примите их к учету по первоначальной стоимости (<span num="48" target="_self" lnktype="intlnk" title="" class="doc">ст. 306</span> НК).&nbsp;</p><p><a data-anchor="/document/16/218392/bssPhr44/"></a><a data-anchor="/document/16/218392/dfas0o5oog/" data-dfa="dfas0o5oog"></a>В&nbsp;бухгалтерском&nbsp;учете&nbsp;многолетние&nbsp;насаждения&nbsp;можете признать по первоначальной или переоцененной стоимости. Применяемый метод учета стоимости должен быть отражен в учетной политике (<span num="72" target="_self" lnktype="intlnk" title="" class="doc">п. 12 НСБУ № 5</span>).</p><p><a data-anchor="/document/16/218392/bssPhr45/"></a><a data-anchor="/document/16/218392/dfaswuy3qq/" data-dfa="dfaswuy3qq"></a>Амортизацию для целей налогообложения начисляйте линейным методом путем применения нормы амортизации, но не выше предельной, установленной <span num="39" target="_self" lnktype="intlnk" title="" class="doc">статьей 306</span> НК (<span num="40" target="_self" lnktype="intlnk" title="" class="doc">ч. 31</span> ст. 306 НК в редакции <span num="61" target="_self" lnktype="intlnk" title="" class="doc">Закона</span> № ЗРУ-741.</p><p><a data-anchor="/document/16/218392/bssPhr46/"></a><a data-anchor="/document/16/218392/dfasa9tnsa/" data-dfa="dfasa9tnsa"></a>Для многолетних насаждений применяйте годовую предельную норму амортизации, установленную для VI группы, то есть 15 процентов (<span num="41" target="_self" lnktype="intlnk" title="" class="doc">ч. 31</span> ст. 306 НК).</p><p><a data-anchor="/document/16/218392/bssPhr47/"></a><a data-anchor="/document/16/218392/dfassc07yh/" data-dfa="dfassc07yh"></a>Суммы амортизационных отчислений, начисленные в пределах норм, установленных <span num="25" target="_self" lnktype="intlnk" title="" class="doc">статьей 306</span> НК, вычитаются из совокупного дохода при расчете налога на прибыль, но не уменьшают налогооблагаемую базу при расчете налога с оборота.</p><p><a data-anchor="/document/16/218392/bssPhr48/"></a><a data-anchor="/document/16/218392/dfas25ga5g/" data-dfa="dfas25ga5g"></a>&nbsp;Для целей бухучета национальными стандартами предусмотрены два основных метода начисления амортизации (<span num="73" target="_self" lnktype="intlnk" title="" class="doc">п. 39 –&nbsp;42 НСБУ № 5</span>):</p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr49/"></a><a data-anchor="/document/16/218392/dfas1l13k5/" data-dfa="dfas1l13k5"></a>равномерный или прямолинейный метод;</li><li>производственный метод — пропорционально объему выполненных работ.</li><li>А также два дополнительных метода:</li><li>уменьшающегося остатка с удвоенной нормой амортизации;</li><li>суммы лет или кумулятивный метод.</li></ul><p><a data-anchor="/document/16/218392/bssPhr50/"></a><a data-anchor="/document/16/218392/dfaspg98gn/" data-dfa="dfaspg98gn"></a>Применяемые методы и нормы начисления амортизации&nbsp;закрепите в учетной политике для целей налогового и бухгалтерского учета.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли платить налог на имущество с многолетних насаждений</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218392/bssPhr52/"></a><a data-anchor="/document/16/218392/dfasv5vnxw/" data-dfa="dfasv5vnxw"></a>Нет, не нужно.</p><p><a data-anchor="/document/16/218392/bssPhr53/"></a><a data-anchor="/document/16/218392/dfasmxglsz/" data-dfa="dfasmxglsz"></a>Многолетние насаждения могут быть как движимым, так и недвижимым имуществом. Недвижимостью насаждения считают, если они прочно связаны с землей и их невозможно переместить без несоразмерного ущерба. Проще говоря, если деревья или кустарники нельзя пересадить в другое место так, чтобы они не погибли. Если же такая пересадка возможна, многолетнее насаждение считайте движимым имуществом. Это следует из <span num="4" target="_self" lnktype="intlnk" title="" class="doc">статьи 83</span> ГК.</p><p><a data-anchor="/document/16/218392/bssPhr54/"></a><a data-anchor="/document/16/218392/dfassmz8li/" data-dfa="dfassmz8li"></a>Налогом на имущество облагаются только объекты недвижимого имущества, определенные в <span num="5" target="_self" lnktype="intlnk" title="" class="doc">части 2</span> статьи 411 НК. Многолетние насаждения к такому имуществу не относятся, значит налогом на имущество не облагаются.</p></div></div></div><a data-anchor="/document/16/218392/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218392/bssPhr55/"></a><a data-anchor="/document/16/218392/dfastsb6wb/" data-dfa="dfastsb6wb"></a>Выращивание многолетних насаждений для продажи</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218392/bssPhr57/"></a><a data-anchor="/document/16/218392/dfas4589u8/" data-dfa="dfas4589u8"></a>Многолетние насаждения, выращиваемые для продажи, относятся к готовой продукции. Готовая продукция – это часть материально-производственных запасов, предназначенных для продажи. В отличие от других запасов готовая продукция - это активы, которые произвело предприятие. Они представляют конечный результат производственного цикла.</p><p><a data-anchor="/document/16/218392/bssPhr58/"></a><a data-anchor="/document/16/218392/dfas9mxg0n/" data-dfa="dfas9mxg0n"></a>Готовую продукцию учитывайте в количественных и стоимостных показателях. Количественный учет готовой продукции ведите в единицах измерения, принятых на предприятии, исходя из ее физических свойств (объем, вес, поштучно и т.д.).</p><p><a data-anchor="/document/16/218392/bssPhr59/"></a><a data-anchor="/document/16/218392/dfasmzqzqk/" data-dfa="dfasmzqzqk"></a>Готовую продукцию приходуйте по производственной себестоимости. Производственная себестоимость готовой продукции включает затраты, непосредственно связанные с ее производством согласно технологии и организации производства (<span num="30" target="_self" lnktype="intlnk" title="" class="doc">п. 1</span> Положения о составе затрат, утв. ПКМ № 54 от 05.02.1999).</p><p><a data-anchor="/document/16/218392/bssPhr60/"></a><a data-anchor="/document/16/218392/dfasvfpgh6/" data-dfa="dfasvfpgh6"></a>Затраты, которые образуют производственную себестоимость готовой продукции, группируют по элементам:</p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr61/"></a><a data-anchor="/document/16/218392/dfasvg07du/" data-dfa="dfasvg07du"></a>производственные материальные затраты;</li><li>затраты на оплату труда, связанные с производством;</li><li>амортизация основных средств и нематериальных активов производственного назначения;</li><li>прочие затраты производственного характера (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">п. 35</span> НСБУ № 4).</li></ul><p><a data-anchor="/document/16/218392/bssPhr62/"></a><a data-anchor="/document/16/218392/dfasv321xf/" data-dfa="dfasv321xf"></a>Себестоимость продукции можно определять различными методами в зависимости от вида продукции, типа производства, его сложности, наличия незавершенного производства, длительности производственного цикла, номенклатуры продукции.</p><p><a data-anchor="/document/16/218392/bssPhr63/"></a><a data-anchor="/document/16/218392/dfasdr5o2m/" data-dfa="dfasdr5o2m"></a>Методы определения себестоимости продукции приведены в <span num="32" target="_self" lnktype="intlnk" title="" class="doc">НСБУ № 4</span>. Выбранный метод определения себестоимости предприятие утверждает в своей учетной политике.</p><p><a data-anchor="/document/16/218392/bssPhr64/"></a><a data-anchor="/document/16/218392/dfasqz6hdg/" data-dfa="dfasqz6hdg"></a>Готовую продукцию приходуйте по дебету <strong>счета 2810 </strong> «Готовая продукция на складе» по фактической производственной себестоимости в корреспонденции со счетами учета затрат:</p><p><a data-anchor="/document/16/218392/bssPhr65/"></a><a data-anchor="/document/16/218392/dfasovp0wp/" data-dfa="dfasovp0wp"></a><strong>Дебет 2010 Кредит 1010, 6710, 6510, 0200, 0500, 6010, 6990 </strong> и т. д.</p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr66/"></a><a data-anchor="/document/16/218392/dfas3fogez/" data-dfa="dfas3fogez"></a>учтены затраты на изготовление готовой продукции (себестоимость готовой продукции);</li></ul><p><a data-anchor="/document/16/218392/bssPhr67/"></a><a data-anchor="/document/16/218392/dfasipk2zc/" data-dfa="dfasipk2zc"></a><strong>Дебет 2810 Кредит 2010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr68/"></a><a data-anchor="/document/16/218392/dfas3akvd2/" data-dfa="dfas3akvd2"></a>оприходована готовая продукция по фактической производственной себестоимости.</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как определить&#160;себестоимость выращенного урожая</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218392/bssPhr70/"></a><a data-anchor="/document/16/218392/dfast4mabp/" data-dfa="dfast4mabp"></a>Себестоимостью готовой продукции собственного изготовления служит их производственная себестоимость, включающая затраты, непосредственно связанные с обслуживанием сада и виноградника (<span num="84" target="_self" lnktype="intlnk" title="" class="doc">п. 34</span> НСБУ № 4). К таким затратам относите:&nbsp;расходы на полив, рыхление почвы, сбор урожая, затраты на содержание сторожа и т. д. Все затраты, связанные с обслуживанием сада, а также сбором урожая, отражайте&nbsp;по <strong>дебету счета 2010</strong>. Для удобства подсчета затрат&nbsp; создайте субсчет и ведите&nbsp;раздельно затраты на выращивание разных фруктов и ягод. К примеру <strong>2010 «Основное производство: выращивание винограда»</strong>, <strong>2011 «Основное производство: выращивание малины»</strong> и т. д.</p><p><a data-anchor="/document/16/218392/bssPhr71/"></a><a data-anchor="/document/16/218392/dfas0650h3/" data-dfa="dfas0650h3"></a>Себестоимость продукции рассчитывайте разделив&nbsp;сумму производственных затрат на общее количество веса (в килограммах или тоннах) произведенной продукции (<span num="85" target="_self" lnktype="intlnk" title="" class="doc">п. 38</span> НСБУ № 4).</p><p><a data-anchor="/document/16/218392/bssPhr72/"></a><a data-anchor="/document/16/218392/dfassbggio/" data-dfa="dfassbggio"></a>Методы определения себестоимости&nbsp; готовой продукции, которые в зависимости от особенностей отрасли производства выбрали для применения, обязательно отразите в учетной политике предприятия (<span num="86" target="_self" lnktype="intlnk" title="" class="doc">п. 48</span> НСБУ № 4).</p><p><a data-anchor="/document/16/218392/bssPhr73/"></a><a data-anchor="/document/16/218392/dfasqy3kqw/" data-dfa="dfasqy3kqw"></a>В бухучете&nbsp;отразите определение себестоимости готовой продукции проводками:</p><p><a data-anchor="/document/16/218392/bssPhr74/"></a><a data-anchor="/document/16/218392/dfascl6ktw/" data-dfa="dfascl6ktw"></a><strong>Дебет 2010 Кредит 0200</strong></p><p><a data-anchor="/document/16/218392/bssPhr75/"></a><a data-anchor="/document/16/218392/dfasuxts6f/" data-dfa="dfasuxts6f"></a>– отражена амортизация ОС;</p><p><a data-anchor="/document/16/218392/bssPhr76/"></a><a data-anchor="/document/16/218392/dfas6wb8p5/" data-dfa="dfas6wb8p5"></a><strong>Дебет</strong>&nbsp;<strong>2010 Кредит 6710</strong></p><p><a data-anchor="/document/16/218392/bssPhr77/"></a><a data-anchor="/document/16/218392/dfas86ayfo/" data-dfa="dfas86ayfo"></a>– начислена заработная плата работникам;</p><p><a data-anchor="/document/16/218392/bssPhr78/"></a><a data-anchor="/document/16/218392/dfasqzpe7b/" data-dfa="dfasqzpe7b"></a><strong>Дебет</strong>&nbsp;<strong>2010 Кредит 6510</strong></p><p><a data-anchor="/document/16/218392/bssPhr79/"></a><a data-anchor="/document/16/218392/dfasnplf4u/" data-dfa="dfasnplf4u"></a>– начислен социальный налог;</p><p><a data-anchor="/document/16/218392/bssPhr80/"></a><a data-anchor="/document/16/218392/dfas40h9ws/" data-dfa="dfas40h9ws"></a><strong>Дебет</strong>&nbsp;<strong>2010 Кредит 6010,6990</strong></p><p><a data-anchor="/document/16/218392/bssPhr81/"></a><a data-anchor="/document/16/218392/dfasqpdmxz/" data-dfa="dfasqpdmxz"></a>– отражены прочие затраты, непосредственно связанные c обслуживанием сада и сбором урожая;</p><p><a data-anchor="/document/16/218392/bssPhr82/"></a><a data-anchor="/document/16/218392/dfasuv6bvi/" data-dfa="dfasuv6bvi"></a><strong>Дебет</strong>&nbsp;<strong>2810 Кредит 2010</strong></p><p><a data-anchor="/document/16/218392/bssPhr83/"></a><a data-anchor="/document/16/218392/dfasxebf03/" data-dfa="dfasxebf03"></a>– оприходован урожай в качестве готовой продукции (накладная на передачу).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Какими проводками отразить в бухучете&#160;реализацию урожая винограда</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218392/bssPhr85/"></a><a data-anchor="/document/16/218392/dfasiliwx7/" data-dfa="dfasiliwx7"></a>Реализацию готовой продукции – урожая винограда отразите в бухучете проводками:</p><p><a data-anchor="/document/16/218392/bssPhr86/"></a><a data-anchor="/document/16/218392/dfaspp10zz/" data-dfa="dfaspp10zz"></a><strong>Дебет</strong>&nbsp;<strong>5110</strong>&nbsp;<strong>Кредит</strong>&nbsp;<strong>6310</strong></p><p><a data-anchor="/document/16/218392/bssPhr87/"></a><a data-anchor="/document/16/218392/dfas11iihp/" data-dfa="dfas11iihp"></a>– поступили денежные средства от заказчика;</p><p><a data-anchor="/document/16/218392/bssPhr88/"></a><a data-anchor="/document/16/218392/dfasihbg0t/" data-dfa="dfasihbg0t"></a><strong>Дебет</strong>&nbsp;<strong>4010</strong>&nbsp;<strong>Кредит</strong>&nbsp;<strong>9010</strong></p><p><a data-anchor="/document/16/218392/bssPhr89/"></a><a data-anchor="/document/16/218392/dfasuimpr1/" data-dfa="dfasuimpr1"></a>– реализована готовая продукция;</p><p><a data-anchor="/document/16/218392/bssPhr90/"></a><a data-anchor="/document/16/218392/dfas5gdqx3/" data-dfa="dfas5gdqx3"></a><strong>Дебет</strong>&nbsp;<strong>4010</strong>&nbsp;<strong>Кредит</strong>&nbsp;<strong>6410</strong></p><p><a data-anchor="/document/16/218392/bssPhr91/"></a><a data-anchor="/document/16/218392/dfasi7lhsz/" data-dfa="dfasi7lhsz"></a>– начислен НДС;</p><p><a data-anchor="/document/16/218392/bssPhr92/"></a><a data-anchor="/document/16/218392/dfasn01r03/" data-dfa="dfasn01r03"></a><strong>Дебет</strong>&nbsp;<strong>9110 Кредит 2810</strong></p><p><a data-anchor="/document/16/218392/bssPhr93/"></a><a data-anchor="/document/16/218392/dfas461br3/" data-dfa="dfas461br3"></a>– списана себестоимость готовой продукции;</p><p><a data-anchor="/document/16/218392/bssPhr94/"></a><a data-anchor="/document/16/218392/dfas65v95u/" data-dfa="dfas65v95u"></a><strong>Дебет</strong>&nbsp;<strong>6310 Кредит 4010</strong></p><p><a data-anchor="/document/16/218392/bssPhr95/"></a><a data-anchor="/document/16/218392/dfastuf49f/" data-dfa="dfastuf49f"></a>– зачтены&nbsp;авансы.</p></div></div></div><a data-anchor="/document/16/218392/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218392/bssPhr96/"></a><a data-anchor="/document/16/218392/dfasdrmfo4/" data-dfa="dfasdrmfo4"></a>Многолетние насаждения в составе инвентаря и хозяйственных принадлежностей</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218392/bssPhr98/"></a><a data-anchor="/document/16/218392/dfashowwc8/" data-dfa="dfashowwc8"></a>Многолетние насаждения, которые по учетной политике предприятия не отвечают критериям основного средства, учитывайте в составе инвентаря и хозяйственных принадлежностей на <strong>счет 1080 «Инвентарь и хозяйственные принадлежности»</strong>.</p><p><a data-anchor="/document/16/218392/bssPhr99/"></a><a data-anchor="/document/16/218392/dfas9eaa5o/" data-dfa="dfas9eaa5o"></a>Бухгалтерские проводки следующие:</p><p><a data-anchor="/document/16/218392/bssPhr100/"></a><a data-anchor="/document/16/218392/dfas0dg6mc/" data-dfa="dfas0dg6mc"></a><strong>Дебет 1080 Кредит 6010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr101/"></a><a data-anchor="/document/16/218392/dfaszplgkn/" data-dfa="dfaszplgkn"></a>поступление многолетних насаждений в качестве инвентаря и хозпринадлежностей.</li></ul><p><a data-anchor="/document/16/218392/bssPhr102/"></a><a data-anchor="/document/16/218392/dfasas40z7/" data-dfa="dfasas40z7"></a>Плательщики НДС принимают в зачет сумму налога по приобретенным инвентарю и хозпринадлежностям, при выполнении требований <span num="57" target="_self" lnktype="intlnk" title="" class="doc">статей 266</span> НК, <span num="58" target="_self" lnktype="intlnk" title="" class="doc">266-1</span> НК, и делают проводки:</p><p><a data-anchor="/document/16/218392/bssPhr103/"></a><a data-anchor="/document/16/218392/dfasfpxch6/" data-dfa="dfasfpxch6"></a><strong>Дебет 4410 Кредит 6010</strong><br><strong>Дебет 6410 Кредит 4410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr104/"></a><a data-anchor="/document/16/218392/dfas8f5wha/" data-dfa="dfas8f5wha"></a>зачет НДС.</li></ul><p><a data-anchor="/document/16/218392/bssPhr105/"></a><a data-anchor="/document/16/218392/dfas12ag3s/" data-dfa="dfas12ag3s"></a>При передаче многолетних насаждений в эксплуатацию можете использовать один из методов списания. Если стоимость насаждений на момент приобретения составляла:</p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr106/"></a><a data-anchor="/document/16/218392/dfaszih7x3/" data-dfa="dfaszih7x3"></a>менее 10 БРВ за единицу, комплект, то их стоимость сразу списывайте на затраты производства или расходы периода;</li><li><a data-anchor="/document/16/218392/dfaszabs62/" data-dfa="dfaszabs62"></a>более 10 БРВ за единицу, комплект, то их стоимость можно отнести на отсроченные расходы.</li></ul><p><a data-anchor="/document/16/218392/bssPhr107/"></a><a data-anchor="/document/16/218392/dfasxif0qi/" data-dfa="dfasxif0qi"></a>Это определено пунктами <span num="6" target="_self" lnktype="intlnk" title="" class="doc">69-72</span> НСБУ № 4.</p><p><a data-anchor="/document/16/218392/bssPhr108/"></a><a data-anchor="/document/16/218392/dfassigzs6/" data-dfa="dfassigzs6"></a>Выбранный метод утвердите в учетной политике.</p><p><a data-anchor="/document/16/218392/bssPhr109/"></a><a data-anchor="/document/16/218392/dfasu82nhp/" data-dfa="dfasu82nhp"></a>Проводки следующие:</p><p><a data-anchor="/document/16/218392/bssPhr110/"></a><a data-anchor="/document/16/218392/dfasv4d0hp/" data-dfa="dfasv4d0hp"></a><strong>Дебет 2000, 2310, 2510, 2710, 9400 Кредит 1080</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr111/"></a><a data-anchor="/document/16/218392/dfasga79gs/" data-dfa="dfasga79gs"></a>списание сразу стоимости инвентаря и хозяйственных принадлежностей при передаче в эксплуатацию.</li></ul><p><a data-anchor="/document/16/218392/bssPhr112/"></a><a data-anchor="/document/16/218392/dfas98bshy/" data-dfa="dfas98bshy"></a>Стоимость насаждений после передачи их в эксплуатацию и списания на затраты, учитывайте на забалансовом <strong>счете 014 «Инвентарь и хозяйственные принадлежности в эксплуатации» </strong> в разрезе мест их эксплуатации.</p><p><a data-anchor="/document/16/218392/bssPhr113/"></a><a data-anchor="/document/16/218392/dfasc2xv4c/" data-dfa="dfasc2xv4c"></a><strong>Дебет 014</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr114/"></a><a data-anchor="/document/16/218392/dfasb18hg1/" data-dfa="dfasb18hg1"></a>учтена стоимость насаждений при передаче в эксплуатацию.</li></ul><p><a data-anchor="/document/16/218392/bssPhr115/"></a><a data-anchor="/document/16/218392/dfasggvbhg/" data-dfa="dfasggvbhg"></a>По окончании срока эксплуатации насаждений списывайте их с забалансового учета предприятия проводкой:</p><p><a data-anchor="/document/16/218392/bssPhr116/"></a><a data-anchor="/document/16/218392/dfas21xikx/" data-dfa="dfas21xikx"></a><strong>Кредит 014</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr117/"></a><a data-anchor="/document/16/218392/dfas59f3tu/" data-dfa="dfas59f3tu"></a>списана стоимость насаждений по окончании срока эксплуатации.</li></ul><p><a data-anchor="/document/16/218392/bssPhr118/"></a><a data-anchor="/document/16/218392/dfasa9zlr0/" data-dfa="dfasa9zlr0"></a>Списание стоимости насаждений на отсроченные расходы учитывайте на <strong>счете 3290 «Прочие отсроченные расходы» </strong> проводками:</p><p><a data-anchor="/document/16/218392/bssPhr119/"></a><a data-anchor="/document/16/218392/dfasv29td5/" data-dfa="dfasv29td5"></a><strong>Дебет 3290 Кредит 1080</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr120/"></a><a data-anchor="/document/16/218392/dfaskguh8v/" data-dfa="dfaskguh8v"></a>отнесена стоимость насаждений на отсроченные расходы;</li></ul><p><a data-anchor="/document/16/218392/bssPhr121/"></a><a data-anchor="/document/16/218392/dfasheb9m8/" data-dfa="dfasheb9m8"></a><strong>Дебет 2000, 2310, 2510, 2710, 9400 Кредит 3290</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218392/bssPhr122/"></a><a data-anchor="/document/16/218392/dfasrxpua4/" data-dfa="dfasrxpua4"></a>списаны отсроченные расходы по статьям затрат, в зависимости от выбранного метода.</li></ul><p><a data-anchor="/document/16/218392/bssPhr123/"></a><a data-anchor="/document/16/218392/dfascyke9z/" data-dfa="dfascyke9z"></a>Затраты на удобрения, средства защиты растений, горшки, и другие расходы по выращиванию растений списывайте при фактическом использовании на <strong>счет 9430 «Прочие операционные расходы»</strong>.</p><p><a data-anchor="/document/16/218392/bssPhr124/"></a><a data-anchor="/document/16/218392/dfasgnifct/" data-dfa="dfasgnifct"></a>Подробнее об этом читайте в рекомендации «<span num="7" lnktype="intlnk" title="" class="doc">Как оформить и учесть инвентарь и хозяйственные принадлежности</span>».&nbsp;&nbsp;</p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

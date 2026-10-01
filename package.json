@@ -1,0 +1,40 @@
+{
+  "name": "baza-znaniy",
+  "private": true,
+  "version": "0.1.0",
+  "description": "База знаний по бухгалтерии: иерархическая справочная система + режим обучения",
+  "workspaces": [
+    "server",
+    "web"
+  ],
+  "scripts": {
+    "start": "node scripts/start-all.mjs",
+    "db:up": "docker compose up -d db",
+    "db:down": "docker compose down",
+    "db:reset": "docker compose down -v && npm run db:up && npm run db:migrate",
+    "db:migrate": "npm run migrate --workspace server",
+    "db:seed": "npm run seed --workspace server",
+    "dev": "concurrently -n api,web -c cyan,magenta \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:api": "npm run dev --workspace server",
+    "dev:web": "npm run dev --workspace web",
+    "import": "npm run import --workspace server --",
+    "export": "npm run export --workspace server --",
+    "validate": "npm run validate --workspace server --",
+    "build": "npm run build --workspace server && npm run build --workspace web",
+    "typecheck": "npm run typecheck --workspace server && npm run typecheck --workspace web",
+    "test": "npm run test --workspace server && npm run test --workspace web"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "embedded-postgres": "^18.4.0-beta.17"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "esbuild@0.21.5": true,
+    "esbuild@0.25.12": true,
+    "@embedded-postgres/darwin-arm64@18.4.0-beta.17": true
+  }
+}

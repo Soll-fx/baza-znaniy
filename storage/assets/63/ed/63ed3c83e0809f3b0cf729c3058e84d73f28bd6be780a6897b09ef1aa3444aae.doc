@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как начислить и отразить в бухучете и налогообложении премии</h2><div class="doc-snippet"><a data-anchor="/document/16/211175/dfas0i0moi/" data-dfa="dfas0i0moi"></a><a data-anchor="/document/16/211175/bssPhr2/"></a>Из&nbsp;рекомендации узнаете, какие бывают премии, где закрепить порядок выплаты премий, какие документы оформить при выплате премии и&nbsp;как издать приказ о&nbsp;премировании руководителя предприятия. Эксперты пояснили, как отразить в&nbsp;бухучете премии и&nbsp;какими налогами их&nbsp;облагать, привели пример, как учесть ежемесячную премию за&nbsp;производственные результаты, если сотрудник отработал не&nbsp;полный месяц. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211175/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211175/bssPhr8/"></a><a data-anchor="/document/16/211175/dfasb2znck/" data-dfa="dfasb2znck"></a>Виды премий</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211175/bssPhr10/"></a><a data-anchor="/document/16/211175/dfasn9vsz6/" data-dfa="dfasn9vsz6"></a>Премии можно классифицировать в&nbsp;зависимости от&nbsp;того, как часто и&nbsp;за&nbsp;какой период их&nbsp;платят. По&nbsp;этим признакам их&nbsp;можно разделить:</p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr11/"></a><a data-anchor="/document/16/211175/dfasek7fnv/" data-dfa="dfasek7fnv"></a>на&nbsp;разовые;</li><li>периодические, которые выплачивают в&nbsp;течение года, например, ежемесячные и&nbsp;ежеквартальные;</li><li>по&nbsp;итогам работы за&nbsp;год.</li></ul><p><a data-anchor="/document/16/211175/bssPhr12/"></a><a data-anchor="/document/16/211175/dfasptb0et/" data-dfa="dfasptb0et"></a>В&nbsp;зависимости от&nbsp;оснований выплаты премии делят на&nbsp;производственные, которые начисляют за&nbsp;трудовые достижения сотрудника, и&nbsp;непроизводственные, они не&nbsp;связаны с&nbsp;результатами трудовой деятельности сотрудника, например, разовые премии к&nbsp;праздникам или юбилейной дате работника.</p></div><a data-anchor="/document/16/211175/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211175/bssPhr13/"></a><a data-anchor="/document/16/211175/dfastwzvwi/" data-dfa="dfastwzvwi"></a>Порядок выплаты</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211175/bssPhr15/"></a><a data-anchor="/document/16/211175/dfasld5rq3/" data-dfa="dfasld5rq3"></a><a data-anchor="/document/16/211175/dfasaowqxd/" data-dfa="dfasaowqxd"></a>Порядок выплаты премий закрепите в&nbsp;коллективном договоре либо отдельном локальном документе. Например, в <span num="29" target="_self" lnktype="intlnk" title="" class="doc">положении</span> об&nbsp;оплате труда, положении о&nbsp;премировании (<span num="87" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;246&nbsp;ТК</span>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно&#160;ли выплачивать сотрудникам на&#160;испытательном сроке премии, которые предусмотрены коллективным договором</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211175/bssPhr17/"></a><a data-anchor="/document/16/211175/dfas3qp9g5/" data-dfa="dfas3qp9g5"></a>Да, нужно.</p><p><a data-anchor="/document/16/211175/bssPhr18/"></a><a data-anchor="/document/16/211175/dfasq2nlgd/" data-dfa="dfasq2nlgd"></a>На&nbsp;сотрудников, которые проходят испытательный срок, полностью распространяется действие трудового законодательства и&nbsp;иных правовых актов о&nbsp;труде (<span num="83" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;131&nbsp;ТК).</p><p><a data-anchor="/document/16/211175/bssPhr19/"></a><a data-anchor="/document/16/211175/dfas0lkiy0/" data-dfa="dfas0lkiy0"></a>Иные правовые акты о&nbsp;труде это:</p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr20/"></a><a data-anchor="/document/16/211175/dfasyqdxz0/" data-dfa="dfasyqdxz0"></a>коллективные соглашения;</li><li>коллективные договоры;</li><li>локальные акты, принимаемые работодателем по&nbsp;согласованию с&nbsp;профсоюзным комитетом;</li><li>локальные акты, в&nbsp;том числе индивидуальные правовые акты, принимаемые работодателем единолично в&nbsp;пределах его полномочий (<span num="84" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;12&nbsp;ТК</span>).</li></ul></div></div></div><a data-anchor="/document/16/211175/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211175/bssPhr21/"></a><a data-anchor="/document/16/211175/dfaswcdn1e/" data-dfa="dfaswcdn1e"></a>Оформление документов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211175/bssPhr23/"></a><a data-anchor="/document/16/211175/dfaseic6ls/" data-dfa="dfaseic6ls"></a>Основанием для начисления премии служит приказ руководителя о&nbsp;поощрении сотрудника или группы сотрудников. Приказ подписывает руководитель организации. Ознакомьте с&nbsp;приказом под подпись тех, кого премируете. Приказ составьте в&nbsp;произвольной форме. Можете использовать предложенный <span num="58" target="_self" lnktype="intlnk" title="" class="doc">образец</span>.</p><p><a data-anchor="/document/16/211175/bssPhr24/"></a><a data-anchor="/document/16/211175/dfas45mgu4/" data-dfa="dfas45mgu4"></a><a data-anchor="/document/16/211175/dfasn96yqd/" data-dfa="dfasn96yqd"></a>Начисление и&nbsp;выплату премий отразите в&nbsp;расчетно-платежной или платежной ведомости по&nbsp;формам <span num="31" target="_self" lnktype="intlnk" title="" class="doc">№ Т-49</span> или <span num="32" target="_self" lnktype="intlnk" title="" class="doc">№ Т-51</span> либо по <span num="33" target="_self" lnktype="intlnk" title="" class="doc">расходному кассовому ордеру</span>. Формы <span num="34" target="_self" lnktype="intlnk" title="" class="doc">№ Т-49</span> или <span num="35" target="_self" lnktype="intlnk" title="" class="doc">№ Т-51</span>&nbsp;не утверждены законодательно для применения. Поэтому предприятие может самостоятельно разработать формы для отражения начислений по&nbsp;оплате труда и&nbsp;других выплат работникам, либо использовать формы <span num="36" target="_self" lnktype="intlnk" title="" class="doc">№ Т-49</span> или <span num="37" target="_self" lnktype="intlnk" title="" class="doc">№ Т-51</span>, так как они не&nbsp;запрещены для применения. Субъекты малого предпринимательства, которые применяют упрощенный порядок ведения бухучета, могут вести учет по&nbsp;начислению зарплаты в&nbsp;Ведомости учета расчетов по&nbsp;оплате труда (<span num="38" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;12</span>&nbsp;к НСБУ №&nbsp;20).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как издать приказ о&#160;премировании руководителя предприятия</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211175/bssPhr28/"></a><a data-anchor="/document/16/211175/dfasgnvloq/" data-dfa="dfasgnvloq"></a>Руководитель предприятия, как и&nbsp;обычный штатный сотрудник, имеет право на&nbsp;премию. Но, если приказ о&nbsp;премировании штатного сотрудника подписывает работодатель&nbsp;— руководитель предприятия, который наделен правом приема на&nbsp;работу, то&nbsp;чтобы премировать руководителя, необходимо решение общего собрания учредителей, так как именно учредители&nbsp;— работодатели директора. Единственное исключение, если директор&nbsp;— единственный учредитель предприятия.</p><p><a data-anchor="/document/16/211175/bssPhr29/"></a><a data-anchor="/document/16/211175/dfasqm4x2u/" data-dfa="dfasqm4x2u"></a>При оформлении премии руководителю предприятия придерживайтесь правил:</p><ol class="c-list" style="counter-reset: item 0;" start="1"><li><a data-anchor="/document/16/211175/bssPhr30/"></a><a data-anchor="/document/16/211175/dfasn1fqg9/" data-dfa="dfasn1fqg9"></a>Решение о&nbsp;премировании руководителя принимают учредители предприятия.</li><li><a data-anchor="/document/16/211175/bssPhr31/"></a><a data-anchor="/document/16/211175/dfas6yml6l/" data-dfa="dfas6yml6l"></a>Приказ о&nbsp;премировании издавайте на&nbsp;основании протокола общего собрания учредителей или решения единственного учредителя предприятия.</li><li><a data-anchor="/document/16/211175/bssPhr32/"></a><a data-anchor="/document/16/211175/dfas6qv95g/" data-dfa="dfas6qv95g"></a>Премирование директора без согласования с&nbsp;учредителями возможно, если это предусмотрено трудовым договором с&nbsp;руководителем или Уставом предприятия.</li></ol><p><a data-anchor="/document/16/211175/bssPhr33/"></a><a data-anchor="/document/16/211175/dfas98tt7g/" data-dfa="dfas98tt7g"></a>Если организация бюджетная, при выплате премий придерживайтесь локальных нормативных актов предприятия. Например, «Положения об&nbsp;оплате труда и&nbsp;премировании» и <span num="14" target="_self" lnktype="intlnk" title="" class="doc">Положения</span> «О&nbsp;порядке составления, утверждения и&nbsp;регистрации смет расходов и&nbsp;штатных расписаний бюджетных организаций и&nbsp;получателей бюджетных средств» (от&nbsp;15.12.2014&nbsp;рег. №&nbsp;2634).</p><p><a data-anchor="/document/16/211175/bssPhr34/"></a><a data-anchor="/document/16/211175/dfasp9wygw/" data-dfa="dfasp9wygw"></a>В&nbsp;Положении о&nbsp;премировании можно установить критерии выплаты премии для руководителя, ее&nbsp;размер в&nbsp;зависимости от&nbsp;достижения конкретного показателя, а&nbsp;также основания ее&nbsp;невыплаты.</p><p><a data-anchor="/document/16/211175/bssPhr35/"></a><a data-anchor="/document/16/211175/dfasx6mmf0/" data-dfa="dfasx6mmf0"></a>Руководитель, как лицо, имеющее право подписи документов предприятия, имеет право подписывать приказы, в&nbsp;том числе и&nbsp;на&nbsp;премирование. Основанием для издания такого приказа служат решения учредителя организации и&nbsp;локальные нормативные акты предприятия.</p></div></div></div><a data-anchor="/document/16/211175/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211175/bssPhr36/"></a><a data-anchor="/document/16/211175/dfasfms58x/" data-dfa="dfasfms58x"></a>Бухучет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211175/bssPhr38/"></a><a data-anchor="/document/16/211175/dfasyilmqm/" data-dfa="dfasyilmqm"></a><a data-anchor="/document/16/211175/dfaskdo35f/" data-dfa="dfaskdo35f"></a>Как отразить премии в&nbsp;бухучете зависит от&nbsp;того, за&nbsp;что и&nbsp;кому их&nbsp;выплачивают: расходы, включаемые в&nbsp;производственную себестоимость, расходы периода. Премии учитывайте в&nbsp;составе затрат на&nbsp;оплату труда, как выплаты стимулирующего характера.</p><p><a data-anchor="/document/16/211175/bssPhr39/"></a><a data-anchor="/document/16/211175/dfas4g0c7a/" data-dfa="dfas4g0c7a"></a>Премии, которые начислены за&nbsp;трудовые показатели производственному персоналу, отражайте в&nbsp;составе затрат, включаемых в&nbsp;производственную себестоимость (<span num="112" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1.2.1</span>. Положения о&nbsp;составе затрат). Проводка такая:</p><p><a data-anchor="/document/16/211175/bssPhr40/"></a><a data-anchor="/document/16/211175/dfasz3p0fv/" data-dfa="dfasz3p0fv"></a><strong>Дебет 2000, 2300, 2500, 2600, 2700 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr41/"></a><a data-anchor="/document/16/211175/dfaswdhuxq/" data-dfa="dfaswdhuxq"></a>начислена премия производственному персоналу.</li></ul><p><a data-anchor="/document/16/211175/bssPhr42/"></a><a data-anchor="/document/16/211175/dfasucrfhr/" data-dfa="dfasucrfhr"></a>Премии, которые начислены непроизводственному персоналу в&nbsp;бухучете относите к&nbsp;расходам периода (<span num="40" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.1.2.1</span>, <span num="41" target="_self" lnktype="intlnk" title="" class="doc">2.2.1</span>. Положения о&nbsp;составе затрат). Их&nbsp;начисление отразите проводкой:</p><p><a data-anchor="/document/16/211175/bssPhr43/"></a><a data-anchor="/document/16/211175/dfasqs1lgb/" data-dfa="dfasqs1lgb"></a><strong>Дебет 9410 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr44/"></a><a data-anchor="/document/16/211175/dfashwx2w6/" data-dfa="dfashwx2w6"></a>начислена премия сотрудникам, связанным с&nbsp;реализацией продукции, товаров, работ, услуг.</li></ul><p><a data-anchor="/document/16/211175/bssPhr45/"></a><a data-anchor="/document/16/211175/dfasuet0c5/" data-dfa="dfasuet0c5"></a><strong>Дебет 9420 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr46/"></a><a data-anchor="/document/16/211175/dfasg269cg/" data-dfa="dfasg269cg"></a>начислена премия управленческому персоналу.</li></ul><p><a data-anchor="/document/16/211175/bssPhr47/"></a><a data-anchor="/document/16/211175/dfas8ns847/" data-dfa="dfas8ns847"></a>Премии по&nbsp;итогам работы за&nbsp;год, за&nbsp;выслугу лет, единовременные премии отражайте в&nbsp;составе прочих операционных расходов (<span num="42" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.3.8.2</span>. Положения о&nbsp;составе затрат). Их&nbsp;начисление отразите проводкой:</p><p><a data-anchor="/document/16/211175/bssPhr48/"></a><a data-anchor="/document/16/211175/dfaseeqqcg/" data-dfa="dfaseeqqcg"></a><strong>Дебет 9430 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr49/"></a><a data-anchor="/document/16/211175/dfas0v04aa/" data-dfa="dfas0v04aa"></a><a data-anchor="/document/16/211175/dfasg3n8g1/" data-dfa="dfasg3n8g1"></a>начислена премия за&nbsp;выслугу лет, единовременная премия и&nbsp;т.д.</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как учесть премию, если ее&#160;начисляют и&#160;выплачивают в&#160;месяце, который следует за&#160;расчетным</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211175/bssPhr51/"></a><a data-anchor="/document/16/211175/dfasy0oxd0/" data-dfa="dfasy0oxd0"></a>Учитывайте в&nbsp;следующем месяце.</p><p><a data-anchor="/document/16/211175/bssPhr52/"></a><a data-anchor="/document/16/211175/dfas0slsvc/" data-dfa="dfas0slsvc"></a>Часто ежемесячные премии начисляют, когда посчитают показатели для премирования. Обычно это делают в&nbsp;следующем месяце. При этом могут возникнуть вопросы о&nbsp;том, как отразить премию в&nbsp;бухучете, при расчете налогов.</p><p><a data-anchor="/document/16/211175/bssPhr53/"></a><a data-anchor="/document/16/211175/dfas5bzqbl/" data-dfa="dfas5bzqbl"></a>В&nbsp;бухучете отразите премию на&nbsp;дату, когда оформили соответствующий приказ. Бухгалтер начисляет премию на&nbsp;основании распоряжения руководителя. Отразить премию в&nbsp;учете раньше, чем будет готов приказ, нельзя. Закрепите такой порядок в&nbsp;локальном акте организации. Например: «... премии начисляют по&nbsp;данным, переданным руководителю, в&nbsp;месяце, который следует за&nbsp;периодом, за&nbsp;который их&nbsp;рассчитывают на&nbsp;основании приказа руководителя».</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно&#160;ли платить и&#160;учитывать ежемесячную премию, если сотрудник уволился в&#160;середине месяца</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211175/bssPhr55/"></a><a data-anchor="/document/16/211175/dfasb1qoof/" data-dfa="dfasb1qoof"></a>Да, нужно.</p><p><a data-anchor="/document/16/211175/bssPhr56/"></a><a data-anchor="/document/16/211175/dfas9pb4wc/" data-dfa="dfas9pb4wc"></a>При условии, что сотрудник выполнил для этого все условия. Даже если он&nbsp;отработал только часть месяца, квартала или года, за&nbsp;который начисляют премию.</p><p><a data-anchor="/document/16/211175/bssPhr57/"></a><a data-anchor="/document/16/211175/dfas7me6bi/" data-dfa="dfas7me6bi"></a>Если работнику, с&nbsp;которым был прекращен трудовой договор, были начислены какие-либо выплаты (премии по&nbsp;итогам месяца, квартала, года) в&nbsp;период после прекращения трудового договора, то&nbsp;данные выплаты производятся не&nbsp;позднее трех дней после предъявления работником соответствующего требования (<span num="85" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>&nbsp;ст.&nbsp;172&nbsp;ТК).</p><p><a data-anchor="/document/16/211175/bssPhr58/"></a><a data-anchor="/document/16/211175/dfas04v1b1/" data-dfa="dfas04v1b1"></a>В&nbsp;этом случае премию считайте пропорционально отработанному времени. Иной порядок расчета премии может быть предусмотрен в&nbsp;локальных документах организации, например в <span num="16" target="_self" lnktype="intlnk" title="" class="doc">Положении о&nbsp;премировании</span>.</p></div></div></div><a data-anchor="/document/16/211175/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211175/bssPhr59/"></a><a data-anchor="/document/16/211175/dfas48errx/" data-dfa="dfas48errx"></a>Налогообложение</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211175/bssPhr61/"></a><a data-anchor="/document/16/211175/dfas2eewm4/" data-dfa="dfas2eewm4"></a><strong>НДФЛ, Социальный налог, ИНПС </strong></p><p><a data-anchor="/document/16/211175/bssPhr62/"></a><a data-anchor="/document/16/211175/dfascom6ez/" data-dfa="dfascom6ez"></a>Вне зависимости от&nbsp;системы налогообложения, которую применяет организация:</p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr63/"></a><a data-anchor="/document/16/211175/dfas3sc5nh/" data-dfa="dfas3sc5nh"></a><span num="17" target="_self" lnktype="intlnk" title="" class="doc">сумму премии включите в&nbsp;налоговую базу по&nbsp;НДФЛ</span>, как выплаты стимулирующего характера (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;372&nbsp;НК</span>);</li><li>с&nbsp;суммы премии начислите ИНПС, сумму <span num="70" target="_self" lnktype="intlnk" title="" class="doc">НДФЛ к&nbsp;уплате в&nbsp;бюджет</span> уменьшите на&nbsp;сумму обязательных ежемесячных взносов на&nbsp;ИНПС граждан (<span num="86" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;Положения «О&nbsp;порядке начисления и&nbsp;уплаты работодателями обязательных взносов на&nbsp;индивидуальные накопительные пенсионные счета граждан» рег. Минюстом от&nbsp;06.10.2005 года №&nbsp;151, <span num="71" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;7</span>&nbsp;ст.&nbsp;385&nbsp;НК);</li><li>на&nbsp;сумму премии начислите <span num="21" target="_self" lnktype="intlnk" title="" class="doc">социальный налог</span> (<span num="22" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.403&nbsp;НК).</li></ul><p><a data-anchor="/document/16/211175/bssPhr64/"></a><a data-anchor="/document/16/211175/dfasrn1ls8/" data-dfa="dfasrn1ls8"></a><strong>Налог на&nbsp;прибыль</strong></p><p><a data-anchor="/document/16/211175/bssPhr65/"></a><a data-anchor="/document/16/211175/dfasfe5fzy/" data-dfa="dfasfe5fzy"></a>При расчете <span num="23" target="_self" lnktype="intlnk" title="" class="doc">налога на&nbsp;прибыль</span> учтите премии в&nbsp;составе расходов на&nbsp;оплату труда, в&nbsp;том месяце, в&nbsp;котором они были начислены (<span num="24" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;78&nbsp;НК</span>). Данные расходы подлежат вычету из&nbsp;налоговой базы по&nbsp;налогу на&nbsp;прибыль, если затраты экономически обоснованы, документально подтверждены, направлены на&nbsp;получение дохода (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;и <span num="26" target="_self" lnktype="intlnk" title="" class="doc">2</span>&nbsp;ст.&nbsp;305&nbsp;НК).</p><p><a data-anchor="/document/16/211175/bssPhr66/"></a><a data-anchor="/document/16/211175/dfast7ty5x/" data-dfa="dfast7ty5x"></a>Для обоснования и&nbsp;документального подтверждения утвердите выплаты премий и&nbsp;их&nbsp;перечень&nbsp;в:</p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr67/"></a><a data-anchor="/document/16/211175/dfaslzvh68/" data-dfa="dfaslzvh68"></a>положении о&nbsp;премировании либо в&nbsp;положении по&nbsp;оплате труда;</li><li>коллективном договоре.</li></ul><p><a data-anchor="/document/16/211175/bssPhr68/"></a><a data-anchor="/document/16/211175/dfasvxt7px/" data-dfa="dfasvxt7px"></a>В&nbsp;этих документах пропишите, что выплата премий необходима для стимулирования работников с&nbsp;целью увеличения доходов предприятия.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211175/dfasval8z2/" data-dfa="dfasval8z2"></a><a data-anchor="/document/16/211175/bssPhr69/"></a>Как учесть ежемесячную премию за&nbsp;производственные результаты, если сотрудник отработал не&nbsp;полный месяц</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211175/bssPhr70/"></a><a data-anchor="/document/16/211175/dfasvv7ueb/" data-dfa="dfasvv7ueb"></a>Положением о&nbsp;премировании ООО «Альфа» предусмотрена выплата ежемесячных премий работникам в&nbsp;размере&nbsp;5% от&nbsp;суммы заработной платы при условии выполнения предприятием плана реализации. Премии начисляют вместе с&nbsp;зарплатой за&nbsp;текущий месяц и&nbsp;выплачивают 5&nbsp;числа месяца, следующего за&nbsp;отчетным. Менеджеру В.&nbsp;К. Волкову установлен должностной оклад в&nbsp;размере 5&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211175/bssPhr71/"></a><a data-anchor="/document/16/211175/dfasrbmd0c/" data-dfa="dfasrbmd0c"></a>В&nbsp;расчетном месяце 22&nbsp;рабочих дня. Волков отработал из&nbsp;них 18.</p><p><a data-anchor="/document/16/211175/bssPhr72/"></a><a data-anchor="/document/16/211175/dfasbve2va/" data-dfa="dfasbve2va"></a>Согласно Положению о&nbsp;премировании, в&nbsp;«Альфе» ежемесячные премии считают пропорционально отработанному времени. За&nbsp;расчетный месяц Волкову начислено:</p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr73/"></a><a data-anchor="/document/16/211175/dfas6eyglh/" data-dfa="dfas6eyglh"></a>заработная плата в&nbsp;размере 5&nbsp;000&nbsp;000 ÷22×18 = 4&nbsp;090 909,09сумов;</li><li>премия 4&nbsp;090 909,09×5% = 204 545,45&nbsp;сумов.</li></ul><p><a data-anchor="/document/16/211175/bssPhr74/"></a><a data-anchor="/document/16/211175/dfas7hcva5/" data-dfa="dfas7hcva5"></a>Общая сумма, начисленная Волкову, составила 4&nbsp;090 909,09 + 204 545,45 = 4&nbsp;295 454,54&nbsp;сумов.</p><p><a data-anchor="/document/16/211175/bssPhr75/"></a><a data-anchor="/document/16/211175/dfasekalh7/" data-dfa="dfasekalh7"></a>Сумма заработной платы вместе с&nbsp;премией включается в&nbsp;налоговую базу по&nbsp;НДФЛ за&nbsp;расчетный месяц. С&nbsp;суммы заработной платы и&nbsp;премии производятся обязательные отчисления на&nbsp;ИНПС с&nbsp;соответствующим уменьшением на&nbsp;эту сумму НДФЛ, подлежащего уплате в&nbsp;бюджет.</p><p><a data-anchor="/document/16/211175/bssPhr76/"></a><a data-anchor="/document/16/211175/dfas4pe7qv/" data-dfa="dfas4pe7qv"></a>Бухгалтер отразил начисление зарплаты и&nbsp;премии так:</p><p><a data-anchor="/document/16/211175/bssPhr77/"></a><a data-anchor="/document/16/211175/dfashgs8mi/" data-dfa="dfashgs8mi"></a><strong>Дебет 9410 Кредит 6710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr78/"></a><a data-anchor="/document/16/211175/dfasdktgdu/" data-dfa="dfasdktgdu"></a>4&nbsp;295 454,54 сумов&nbsp;— начислены заработная плата и&nbsp;ежемесячная премия Волкову;</li></ul><p><a data-anchor="/document/16/211175/bssPhr79/"></a><a data-anchor="/document/16/211175/dfasgwryak/" data-dfa="dfasgwryak"></a><strong>Дебет 6710 Кредит 6410 </strong></p><p><a data-anchor="/document/16/211175/bssPhr80/"></a><a data-anchor="/document/16/211175/dfasi5t5ah/" data-dfa="dfasi5t5ah"></a>515 454,54сумов (4&nbsp;295 454,54 сумов × 12%)&nbsp;— удержан НДФЛ;</p><p><a data-anchor="/document/16/211175/bssPhr81/"></a><a data-anchor="/document/16/211175/dfas80q0qt/" data-dfa="dfas80q0qt"></a><strong>Дебет 6410 Кредит 6530 </strong></p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr82/"></a><a data-anchor="/document/16/211175/dfassps24w/" data-dfa="dfassps24w"></a>4 295,45 сумов (4&nbsp;295 454,54 сумов × 0,1%)&nbsp;— начислены взносы на&nbsp;ИНПС;</li></ul><p><a data-anchor="/document/16/211175/bssPhr83/"></a><a data-anchor="/document/16/211175/dfasaxsimd/" data-dfa="dfasaxsimd"></a><strong>Дебет 9410 Кредит 6500</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211175/bssPhr84/"></a><a data-anchor="/document/16/211175/dfas30p39o/" data-dfa="dfas30p39o"></a>515 454,54сумов (4&nbsp;295 454,54 сумов × 12%)&nbsp;— начислен социальный налог.</li></ul></div></div><p><a data-anchor="/document/16/211175/bssPhr85/"></a><a data-anchor="/document/16/211175/dfas7uhvdg/" data-dfa="dfas7uhvdg"></a><strong>Налог с&nbsp;оборота</strong></p><p><a data-anchor="/document/16/211175/bssPhr86/"></a><a data-anchor="/document/16/211175/dfas7zkius/" data-dfa="dfas7zkius"></a>Если организация платит <span num="27" target="_self" lnktype="intlnk" title="" class="doc">налог с&nbsp;оборота</span>, начисление премий не&nbsp;окажет влияния на&nbsp;его расчет. Плательщики налога с&nbsp;оборота рассчитывают налог исходя из&nbsp;совокупного дохода. Такие организации при расчете совокупного дохода по&nbsp;налогу с&nbsp;оборота не&nbsp;учитывают расходы, в&nbsp;том числе расходы по&nbsp;оплате труда (<span num="28" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;463&nbsp;НК</span>).</p></div><p><a data-anchor="/document/16/211175/dfasuoynec/" data-dfa="dfasuoynec"></a><a data-anchor="/document/16/211175/bssPhr87/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p><p><a data-anchor="/document/16/211175/bssPhr88/"></a><a data-anchor="/document/16/211175/dfas4af95m/" data-dfa="dfas4af95m"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

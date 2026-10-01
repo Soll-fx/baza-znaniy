@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Открытый диалог с главным редактором журнала «НАЛОГООБЛОЖЕНИЕ И БУХГАЛТЕРСКИЙ УЧЕТ»</h2><div class="doc-snippet"><a data-anchor="/document/16/210070/dfask24gfu/" data-dfa="dfask24gfu"></a><a data-anchor="/document/16/210070/bssPhr2/"></a>22 сентября 2022 года ведущий эксперт и главный редактор журнала «Налогообложение и бухгалтерский учет» с 13-летним стажем работы в Государственном налоговом комитете Республики Узбекистан <strong>Адилов Мумин Кадирович </strong>провел открытый диалог с Вашими коллегами. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/210070/dfas3uddnk/" data-dfa="dfas3uddnk"></a><a data-anchor="/document/16/210070/bssPhr3/"></a>В ходе диалога обсудили 6 горячих вопросов по амортизации и ОС:</p><ol class="c-list"><li><a data-anchor="/document/16/210070/bssPhr4/"></a><a data-anchor="/document/16/210070/dfasl3komx/" data-dfa="dfasl3komx"></a>Как определить первоначальную стоимость ОС;</li><li><a data-anchor="/document/16/210070/bssPhr5/"></a><a data-anchor="/document/16/210070/dfasiymr5e/" data-dfa="dfasiymr5e"></a>Какие активы не подлежат амортизации в бухгалтерском и налоговом учете;</li><li><a data-anchor="/document/16/210070/bssPhr6/"></a><a data-anchor="/document/16/210070/dfasveaed1/" data-dfa="dfasveaed1"></a>Как начислять амортизацию в бухгалтерском и налоговом учете;</li><li><a data-anchor="/document/16/210070/bssPhr7/"></a><a data-anchor="/document/16/210070/dfasqghnm7/" data-dfa="dfasqghnm7"></a>Какие нормы начисления амортизации применяют в бухгалтерском и налоговом учете;</li><li><a data-anchor="/document/16/210070/bssPhr8/"></a><a data-anchor="/document/16/210070/dfas0ihy7p/" data-dfa="dfas0ihy7p"></a>Какими методами начислять амортизацию в бухгалтерском и налоговом учете;</li><li><a data-anchor="/document/16/210070/bssPhr9/"></a><a data-anchor="/document/16/210070/dfaskdrcft/" data-dfa="dfaskdrcft"></a>Как провести переоценку ОС.</li></ol><p><a data-anchor="/document/16/210070/bssPhr10/"></a><a data-anchor="/document/16/210070/dfaspwbfru/" data-dfa="dfaspwbfru"></a>Также эксперт помог разобраться,&nbsp;как отразить в учете первоначальную стоимость основного средства, при покупке его с НДС и, как учитывать расходы на амортизацию при определении налогооблагаемой базы по налогу на прибыль.</p><a data-anchor="/document/16/210070/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210070/bssPhr11/"></a><a data-anchor="/document/16/210070/dfasv2t3k1/" data-dfa="dfasv2t3k1"></a><strong>Посмотрите видеозапись открытого диалога:</strong></h3><p><a data-anchor="/document/16/210070/bssPhr12/"></a><a data-anchor="/document/16/210070/dfas4gumfg/" data-dfa="dfas4gumfg"></a>&nbsp;</p><div class="iframe"><iframe width="560" height="315" src="https://www.youtube.com/embed/bZ26VY218pQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="3" target="_self" lnktype="intlnk" title="" class="doc">Как начислить амортизацию основных средств по МСФО</span></li><li class="incut-v4-more-about__item"><span num="4" target="_self" lnktype="intlnk" title="" class="doc">Как начислить амортизацию НМА и отразить в финансовой отчетности по МСФО</span></li><li class="incut-v4-more-about__item"><span num="5" target="_self" lnktype="intlnk" title="" class="doc">Как оформить и отразить в бухучете приобретение основных средств за плату</span></li><li class="incut-v4-more-about__item"><span num="6" target="_self" lnktype="intlnk" title="" class="doc">Как оформить и отразить в учете основные средства, полученные в качестве вклада в уставный капитал</span></li><li class="incut-v4-more-about__item"><span num="7" target="_self" lnktype="intlnk" title="" class="doc">Как оформить и отразить в бухучете и при налогообложении безвозмездную передачу основных средств</span></li><li class="incut-v4-more-about__item"><span num="8" target="_self" lnktype="intlnk" title="" class="doc">Как списать основные средства в качестве выплаты дивидендов</span></li></ul></div><div class="incut-v4__icon"></div></div><a data-anchor="/document/16/210070/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210070/bssPhr14/"></a><a data-anchor="/document/16/210070/dfashoiyz4/" data-dfa="dfashoiyz4"></a>Начало и окончание амортизации</h3><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/dcf93b8a-335e-4fdf-8032-6105a3f00189/index.html" data-itype="presentation" data-moduleId="237" data-id="17" style="min-height:400px" width="100%"></iframe></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

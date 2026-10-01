@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как сдать декларацию о доходах физических лиц</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203266/bssPhr1/"></a><a data-anchor="/document/16/203266/dfasiyrgrw/" data-dfa="dfasiyrgrw"></a><a data-anchor="/document/16/203266/dfask5ogbl/" data-dfa="dfask5ogbl"></a>Декларация&nbsp;– документ о доходах, которые налогоплательщик получил за год, и удержанных с них сумм НДФЛ. Декларация представляется в налоговую инспекцию по месту жительства по форме (<a data-anchor="/document/16/203266/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/4091/dfasla6hlu/" class="link npd" moduleId="90" documentId="4091" anchor="dfasla6hlu">прил №&nbsp;2</a>, рег. МЮ №&nbsp;3126 от 21.01.2019) </p><p><a data-anchor="/document/16/203266/dfashrvbln/" data-dfa="dfashrvbln"></a><a data-anchor="/document/16/203266/bssPhr2/"></a>У кого возникают обязательства по декларированию доходов, а также порядок и сроки сдачи декларации, определены в <a data-anchor="/document/16/203266/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/3864/dfas09d6ie/" class="link npd" moduleId="90" documentId="3864" anchor="dfas09d6ie">главе 34</a> НК.</p><p><a data-anchor="/document/16/203266/bssPhr3/"></a><a data-anchor="/document/16/203266/dfasuua691/" data-dfa="dfasuua691"></a>С 1&nbsp;января 2019 года обязательно (независимо – был удержан налог с этих доходов или нет) декларируются:</p><p><a data-anchor="/document/16/203266/bssPhr4/"></a><a data-anchor="/document/16/203266/dfas7n67kl/" data-dfa="dfas7n67kl"></a>– доходы из источников за пределами Узбекистана;</p><p><a data-anchor="/document/16/203266/bssPhr5/"></a><a data-anchor="/document/16/203266/dfas611xu2/" data-dfa="dfas611xu2"></a>– доходы из источников, не являющихся налоговыми агентами.</p><p><a data-anchor="/document/16/203266/bssPhr6/"></a><a data-anchor="/document/16/203266/dfasbt7aet/" data-dfa="dfasbt7aet"></a>Доходы, которые декларируются только в случае, если по ним не был удержан НДФЛ:</p><p><a data-anchor="/document/16/203266/bssPhr7/"></a><a data-anchor="/document/16/203266/dfasyriy3k/" data-dfa="dfasyriy3k"></a>– полученные не по основному месту работы в виде материальной выгоды;</p><p><a data-anchor="/document/16/203266/bssPhr8/"></a><a data-anchor="/document/16/203266/dfaskd4gia/" data-dfa="dfaskd4gia"></a>– полученные в виде авторского вознаграждения за создание и использование произведений науки, литературы и искусства;</p><p><a data-anchor="/document/16/203266/bssPhr9/"></a><a data-anchor="/document/16/203266/dfasd2vwo1/" data-dfa="dfasd2vwo1"></a>– имущественные доходы, если они не обложены у источника выплаты.</p><p><a data-anchor="/document/16/203266/bssPhr10/"></a><a data-anchor="/document/16/203266/dfasyfpgxf/" data-dfa="dfasyfpgxf"></a>Доходы из двух и более источников не подлежат декларированию с 1 января 2019 года (<a data-anchor="/document/16/203266/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/3886/dfasg3kvy1/" class="link npd" moduleId="90" documentId="3886" anchor="dfasg3kvy1">п. 37</a> ст. 2 ЗРУ-508 от 24.12.2018).</p><p><a data-anchor="/document/16/203266/bssPhr11/"></a><a data-anchor="/document/16/203266/dfaszdn8lg/" data-dfa="dfaszdn8lg"></a>Иностранный гражданин, ставший резидентом Узбекистана, представляет декларацию о доходах в установленном порядке и в установленные сроки (независимо от источника дохода и удержан или не удержан НДФЛ).</p><p><a data-anchor="/document/16/203266/bssPhr12/"></a><a data-anchor="/document/16/203266/dfas99gd3h/" data-dfa="dfas99gd3h"></a>Декларация о совокупном годовом доходе представляется в налоговую инспекцию по месту постоянного жительства.</p><p><a data-anchor="/document/16/203266/bssPhr13/"></a><a data-anchor="/document/16/203266/dfasi6a355/" data-dfa="dfasi6a355"></a>Сроки представления декларации о совокупном доходе определены в <a data-anchor="/document/16/203266/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/3864/dfasgiwfq1/" class="link npd" moduleId="90" documentId="3864" anchor="dfasgiwfq1">статье 192</a> НК:</p><p><a data-anchor="/document/16/203266/bssPhr14/"></a><a data-anchor="/document/16/203266/dfasmn1bkp/" data-dfa="dfasmn1bkp"></a>– физические лица-резиденты – не позднее 1&nbsp;апреля года, следующего за отчетным;</p><p><a data-anchor="/document/16/203266/bssPhr15/"></a><a data-anchor="/document/16/203266/dfasc5rmw8/" data-dfa="dfasc5rmw8"></a>– иностранные физические лица, ставшие резидентами Узбекистана до 1 апреля текущего года, – не позднее 1 апреля года, следующего за отчетным.</p><p><a data-anchor="/document/16/203266/bssPhr16/"></a><a data-anchor="/document/16/203266/dfasnvgznv/" data-dfa="dfasnvgznv"></a>Декларация о доходах, полученных в текущем налоговом периоде иностранными физическими лицами-резидентами Узбекистана, при прекращении деятельности и выезде из Узбекистана представляется за один месяц до выезда.</p><p><a data-anchor="/document/16/203266/bssPhr17/"></a><a data-anchor="/document/16/203266/dfasmsasqo/" data-dfa="dfasmsasqo"></a>Если иностранный гражданин-резидент выезжает за границу на постоянное место жительство до 1 февраля текущего года, декларация не представляется.</p><p><a data-anchor="/document/16/203266/bssPhr18/"></a><a data-anchor="/document/16/203266/dfaslr4hvw/" data-dfa="dfaslr4hvw"></a>К декларации о совокупном годовом доходе прилагают справки о выплаченных доходах и удержанных суммах НДФЛ со всех источников доходов. Форма справки по доходам за 2019 год не утверждена.</p><p><a data-anchor="/document/16/203266/bssPhr19/"></a><a data-anchor="/document/16/203266/dfasuquome/" data-dfa="dfasuquome"></a>Физлица, получавшие грант, вместе со справкой предъявляют заключение уполномоченного органа по координации развития науки и технологий.</p><p><a data-anchor="/document/16/203266/bssPhr20/"></a><a data-anchor="/document/16/203266/dfas0gmvm8/" data-dfa="dfas0gmvm8"></a>Физлица, имеющие право на льготу в виде вычета 4 МРЗП (<a data-anchor="/document/16/203266/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/3864/dfasch3wim/" class="link npd" moduleId="90" documentId="3864" anchor="dfasch3wim">ч. 2</a> ст. 180 НК), вместе со справкой представляют документ, подтверждающий право на льготу.</p><p><a data-anchor="/document/16/203266/bssPhr21/"></a><a data-anchor="/document/16/203266/dfas0o3iga/" data-dfa="dfas0o3iga"></a>Для физлиц, которые получают доходы от сдачи имущества в аренду, установлен особый порядок декларирования этих доходов.</p><p><a data-anchor="/document/16/203266/bssPhr22/"></a><a data-anchor="/document/16/203266/dfasntg0cy/" data-dfa="dfasntg0cy"></a>Если с доходов за аренду не был удержан налог у источника выплаты, то представляется предварительная декларация в пятидневный срок после первого месяца со дня появления доходов от аренды. Предварительная декларация с 22 января 2019 года представляется по форме, утвержденной <a data-anchor="/document/16/203266/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/4091/dfasos6z5a/" class="link npd" moduleId="90" documentId="4091" anchor="dfasos6z5a">постановлением</a> МФ и ГНК № 3126 от 21.01.2019.</p><p><a data-anchor="/document/16/203266/bssPhr23/"></a><a data-anchor="/document/16/203266/dfasok0se6/" data-dfa="dfasok0se6"></a>Предварительная декларация не представляется, если договор аренды недвижимого имущества поставлен на учет в налоговой службе (<a data-anchor="/document/16/203266/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/7371/dfasp0hscx/" class="link npd" moduleId="90" documentId="7371" anchor="dfasp0hscx">Положение</a> о порядке обязательной постановки на учет договоров аренды недвижимости в налоговых органах, рег. № 3077 от 11.10.2018). Налог в этом случае уплачивается на основании платежного извещения налоговой инспекции (ст. <a data-anchor="/document/16/203266/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/90/3864/dfasgiwfq1/" class="link npd" moduleId="90" documentId="3864" anchor="dfasgiwfq1">192</a>, <a data-anchor="/document/16/203266/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/3864/dfas2slrqt/" class="link npd" moduleId="90" documentId="3864" anchor="dfas2slrqt">193</a> НК, пп. <a data-anchor="/document/16/203266/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/90/3886/dfasb67asd/" class="link npd" moduleId="90" documentId="3886" anchor="dfasb67asd">38</a>, <a data-anchor="/document/16/203266/backlinkanchor21/" type="backlink-anchor"></a><a href="#/document/90/3886/dfas4k0baw/" class="link npd" moduleId="90" documentId="3886" anchor="dfas4k0baw">39</a> ст. 2 ЗРУ-508 от 24.12.2018).</p><p><a data-anchor="/document/16/203266/bssPhr24/"></a><a data-anchor="/document/16/203266/dfas2lzok8/" data-dfa="dfas2lzok8"></a>Если налогоплательщик не представил декларацию о доходах или выявлена недостоверная информация по представленной декларации, налоговая инспекция вправе начислить сумму НДФЛ на основе имеющейся информации по ставке 12 процентов без применения льгот.</p><p><a data-anchor="/document/16/203266/bssPhr25/"></a><a data-anchor="/document/16/203266/dfasfifp1s/" data-dfa="dfasfifp1s"></a>Налогоплательщику в 10-дневный срок вручается платежное извещение о сумме начисленного налога, подлежащего уплате (<a data-anchor="/document/16/203266/backlinkanchor23/" type="backlink-anchor"></a><a href="#/document/90/3864/dfasahrxet/" class="link npd" moduleId="90" documentId="3864" anchor="dfasahrxet">ч. 10</a> ст. 192 НК). </p><p><a data-anchor="/document/16/203266/bssPhr26/"></a><a data-anchor="/document/16/203266/dfas9s32qr/" data-dfa="dfas9s32qr"></a>Декларация может быть представлена нарочно, по почте заказным письмом, а также на электронном носителе информации.</p><p><a data-anchor="/document/16/203266/bssPhr27/"></a><a data-anchor="/document/16/203266/dfasgdc4rk/" data-dfa="dfasgdc4rk"></a>Декларацию можете заполнять сами или доверить специалисту или аудиторским фирмам. Также можно оформить доверенность на специалиста для сдачи декларации.</p><a data-anchor="/document/16/203266/bssPhr28/"></a><a data-anchor="/document/16/203266/tit0/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203266/dfasa14x20/" data-dfa="dfasa14x20"></a><h2 class="main__title-section title toc" toc-anchor="tit0">В какие сроки и в каком порядке платить НДФЛ по декларации</h2><p style="margin-right:71pt;"><a data-anchor="/document/16/203266/bssPhr29/"></a><a data-anchor="/document/16/203266/dfas13s45l/" data-dfa="dfas13s45l"></a>Иностранные физлица-резиденты уплачивают налог:</p><p><a data-anchor="/document/16/203266/bssPhr30/"></a><a data-anchor="/document/16/203266/dfas3qt344/" data-dfa="dfas3qt344"></a>– по декларации о совокупном годовом доходе – не позднее 1 июня года, следующего за истекшим годом;</p><p><a data-anchor="/document/16/203266/bssPhr31/"></a><a data-anchor="/document/16/203266/dfasdzyfyg/" data-dfa="dfasdzyfyg"></a>– по декларации о доходах за текущий год (при прекращении деятельности и выезде за пределы Узбекистана) – в течение 15 дней с момента подачи декларации (<a data-anchor="/document/16/203266/backlinkanchor25/" type="backlink-anchor"></a><a href="#/document/90/3864/dfas2slrqt/" class="link npd" moduleId="90" documentId="3864" anchor="dfas2slrqt">ст. 193</a> НК). </p><p><a data-anchor="/document/16/203266/bssPhr32/"></a><a data-anchor="/document/16/203266/dfasktionc/" data-dfa="dfasktionc"></a>Они вправе уплачивать НДФЛ в иностранной валюте с банковского счета, который открыт в иностранном государстве. При этом сумма НДФЛ пересчитывается в иностранную валюту по курсу ЦБ на дату уплаты (ч. <a data-anchor="/document/16/203266/backlinkanchor27/" type="backlink-anchor"></a><a href="#/document/90/3864/dfaslf5vpz/" class="link npd" moduleId="90" documentId="3864" anchor="dfaslf5vpz">1</a>, <a data-anchor="/document/16/203266/backlinkanchor29/" type="backlink-anchor"></a><a href="#/document/90/3864/dfaszes7bh/" class="link npd" moduleId="90" documentId="3864" anchor="dfaszes7bh">2</a> ст. 193 НК).</p><p><a data-anchor="/document/16/203266/bssPhr33/"></a><a data-anchor="/document/16/203266/dfasr0vzzi/" data-dfa="dfasr0vzzi"></a>Физлица-резиденты уплачивают налог не позднее 1 июня года, следующего за истекшим годом.</p><p><a data-anchor="/document/16/203266/bssPhr34/"></a><a data-anchor="/document/16/203266/dfasd5rcag/" data-dfa="dfasd5rcag"></a>При неуплате налога в установленный срок начисляется пеня за каждый день просрочки, начиная со следующего дня после установленного срока уплаты по день уплаты включительно. Размер пени составляет 0,045 процента, а в случае начисления пени по результатам налоговой проверки – 0,06 процента (<a data-anchor="/document/16/203266/backlinkanchor31/" type="backlink-anchor"></a><a href="#/document/90/3886/dfastrlw2d/" class="link npd" moduleId="90" documentId="3886" anchor="dfastrlw2d">п. 20</a> ст. 2 ЗРУ-508 от 24.12.2018).Но при этом размер пени не может превышать суммы задолженности по налогу (<a data-anchor="/document/16/203266/backlinkanchor33/" type="backlink-anchor"></a><a href="#/document/90/3864/dfass0eim9/" class="link npd" moduleId="90" documentId="3864" anchor="dfass0eim9">ст. 120</a> НК).</p><p><a data-anchor="/document/16/203266/bssPhr35/"></a><a data-anchor="/document/16/203266/dfaseapwg8/" data-dfa="dfaseapwg8"></a>Доходы резидента из источников за пределами страны включаются в совокупный доход. Но если источник выплаты на основании Соглашения об избежании двойного налогообложения уже удержал с этих доходов НДФЛ, то уплаченная сумма налога подлежит зачету при расчете налога в Узбекистане. Для подтверждения уплаты налога за пределами Узбекистана физлицо вместе с декларацией представляет документ, заверенный уполномоченным органом, определяемым международным соглашением. </p><p><a data-anchor="/document/16/203266/bssPhr36/"></a><a data-anchor="/document/16/203266/dfasfzh53p/" data-dfa="dfasfzh53p"></a>Зачет налога применяется только по доходам из источников в государствах, с которыми Узбекистан подписал международные договоры.</p><p><a data-anchor="/document/16/203266/bssPhr37/"></a><a data-anchor="/document/16/203266/dfas1a1ozt/" data-dfa="dfas1a1ozt"></a>Сумма уплаченного налога за пределами Узбекистана не подлежит зачету в случаях, если: </p><p><a data-anchor="/document/16/203266/bssPhr38/"></a><a data-anchor="/document/16/203266/dfasmfqqh8/" data-dfa="dfasmfqqh8"></a>– договором установлено, что доходы облагаются налогами только в Узбекистане; </p><p><a data-anchor="/document/16/203266/bssPhr39/"></a><a data-anchor="/document/16/203266/dfasb23c92/" data-dfa="dfasb23c92"></a>– резидент получил доходы и уплатил с них налог в государстве, с которым Узбекистан не заключил договор.</p><a data-anchor="/document/16/203266/bssPhr40/"></a><a data-anchor="/document/16/203266/tit1/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203266/dfas9wzxq0/" data-dfa="dfas9wzxq0"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Санкции за нарушение порядка представления декларации</h2><p><a data-anchor="/document/16/203266/bssPhr41/"></a><a data-anchor="/document/16/203266/dfas467gu5/" data-dfa="dfas467gu5"></a>За непредставление, несвоевременное представление или представление по неустановленной форме деклараций применяется административный штраф в размере от одного до трех МРЗП (<a data-anchor="/document/16/203266/backlinkanchor35/" type="backlink-anchor"></a><a href="#/document/90/3863/dfas7s1vpb/" class="link npd" moduleId="90" documentId="3863" anchor="dfas7s1vpb">ч. 3</a> ст. 174 КоАО).</p><p><a data-anchor="/document/16/203266/bssPhr42/"></a><a data-anchor="/document/16/203266/dfasb8ecfh/" data-dfa="dfasb8ecfh"></a>Если же декларация представлена не вовремя по уважительной причине, то в ГНИ вместе с декларацией представляется объяснительная записка и подтверждающие документы (например, приказ о командировке).</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

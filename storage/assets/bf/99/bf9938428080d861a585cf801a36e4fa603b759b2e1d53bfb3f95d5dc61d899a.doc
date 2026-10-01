@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как регулировать трудовые отношения в условиях карантина</h2><div class="doc-snippet"><a data-anchor="/document/16/205569/dfasv5okex/" data-dfa="dfasv5okex"></a><a data-anchor="/document/16/205569/bssPhr2/"></a>. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/205569/bssPhr3/"></a><a data-anchor="/document/16/205569/dfas6yroyg/" data-dfa="dfas6yroyg"></a>Экстренный онлайн-марафон в поддержку бизнеса, который организовала компания Актион-МЦФЭР, начался с актуального вебинара. Тема – трудовые отношения в условиях карантина.</p><p><a data-anchor="/document/16/205569/bssPhr4/"></a><a data-anchor="/document/16/205569/dfas29x0vv/" data-dfa="dfas29x0vv"></a>Многим компаниям пришлось перестроить свою работу: отпустить работников в трудовые отпуска, кого-то отправить в отпуск без сохранения заработной платы, а для других – организовать удаленку. Поэтому перед кадровиками встал вопрос: как все организовать и грамотно оформить. На них ответила доцент Ташкентского государственного юридического университета Гульнар Сарымсакова.&nbsp;&nbsp;</p><a data-anchor="/document/16/205569/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205569/bssPhr5/"></a><a data-anchor="/document/16/205569/dfas1vr0k3/" data-dfa="dfas1vr0k3"></a><strong>Как перевести работников на дистанционный режим работы</strong></h2><p><a data-anchor="/document/16/205569/bssPhr6/"></a><a data-anchor="/document/16/205569/dfastncokw/" data-dfa="dfastncokw"></a>Некоторые предприятия впервые столкнулись с вопросом о переводе работников на дистанционку, гибкий рабочий график и работу на дому. Такую норму на период карантина установил <a data-anchor="/document/16/205569/backlinkanchor2/" type="backlink-anchor"></a><a href="#/document/90/10238" class="link npd" title="" moduleId="90" documentId="10238">Указ Президента</a> от 19.03.2020 № УП-5969 «О первоочередных мерах по смягчению негативного воздействия на отрасли экономики коронавирусной пандемии и глобальных кризисных явлений».</p><p><a data-anchor="/document/16/205569/bssPhr7/"></a><a data-anchor="/document/16/205569/dfasruu420/" data-dfa="dfasruu420"></a>При оформлении удаленки руководствуйтесь <a data-anchor="/document/16/205569/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/10241/dfasa6ghw2/" class="link npd" target="_self" title="" moduleId="90" documentId="10241" anchor="dfasa6ghw2">Положением</a> о временном порядке перевода работников на удаленную работу, работу по гибкому графику или из дома в период действия карантинных мер (рег. № 3228 от 25.03.2020).</p><p><a data-anchor="/document/16/205569/bssPhr8/"></a><a data-anchor="/document/16/205569/dfasn6efnr/" data-dfa="dfasn6efnr"></a>Для перевода сотрудников на удаленную работу в связи с угрозой заражения коронавирусом заключите <a data-anchor="/document/16/205569/backlinkanchor4/" type="backlink-anchor"></a><a href="#/document/118/200914" data-warm-notices="14180413" data-warm-notice-type="error" title="" moduleId="118" documentId="200914" class="link ">дополнительное соглашение</a> и издайте <a data-anchor="/document/16/205569/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/118/201865" title="" moduleId="118" documentId="201865" class="link ">приказ об установлении удаленного режима работы</a>. Формально перевод на удаленную работу, даже временный, это изменение условий трудового договора. Сейчас допсоглашение можно заключить дистанционно, если у сторон есть ЭЦП.</p><p><a data-anchor="/document/16/205569/bssPhr9/"></a><a data-anchor="/document/16/205569/dfasbwbi2m/" data-dfa="dfasbwbi2m"></a>Подробную информацию по этой теме вы можете получить в рекомендации «<a data-anchor="/document/16/205569/backlinkanchor6/" type="backlink-anchor"></a><a href="#/document/16/205433" data-warm-notices="33260476" data-warm-notice-type="error" title="" moduleId="16" documentId="205433" class="link ">Что делать работодателю в период карантина</a>»&nbsp;и «<a data-anchor="/document/16/205569/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/16/221269" data-warm-notices="33260477,33269176" data-warm-notice-type="error" target="_self" title="" moduleId="16" documentId="221269" class="link ">Что учесть работодателю при предоставлении ежегодных трудовых отпусков</a>».</p><a data-anchor="/document/16/205569/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205569/bssPhr10/"></a><a data-anchor="/document/16/205569/dfasknu50s/" data-dfa="dfasknu50s"></a><strong>Кому и как предоставлять отпуска</strong></h2><p><a data-anchor="/document/16/205569/bssPhr11/"></a><a data-anchor="/document/16/205569/dfas9ggsy0/" data-dfa="dfas9ggsy0"></a>Если с удаленкой дела обстоят проще, то оформление отпусков требует особого внимания – на практике возникает много вопросов.</p><p><a data-anchor="/document/16/205569/bssPhr12/"></a><a data-anchor="/document/16/205569/dfas8a91br/" data-dfa="dfas8a91br"></a>Эксперт рассказал о том, что деятельность предприятия может быть приостановлена из-за финансовых трудностей. В этом случае предложите сотрудникам частично оплачиваемый отпуск. Этот вариант предусмотрите в локальных актах предприятия.</p><p><a data-anchor="/document/16/205569/bssPhr13/"></a><a data-anchor="/document/16/205569/dfas8vzzx5/" data-dfa="dfas8vzzx5"></a>Другой вариант – отправить работников в отпуск по графику или попросить выйти в отпуск без содержания. Такой отпуск предоставляйте только по заявлению работника и по соглашению сторон (<a data-anchor="/document/16/205569/backlinkanchor8/" type="backlink-anchor"></a><a href="#/document/90/8505/dfas3nngyg/" class="link npd" title="" data-warm-notices="39188817,39200852,39212857,39224951,39237072,39249232,39261381,39273391,39285378,39297335,39310797,39323588,39335755,39347789,39359884,39371964,39384115,39396318,39408603,39420707,39432975,39445189,39457253,39469403,39481508,39493525,39505654,39517652,39527779,39537643,39547477,39557365,39567179,39576974,39587003,39605564,39616209,39626908,39636363,39645749,39655183,39664625,39674226,39683656,39693030,39702373,39712055,39721480,39730998,39740424,39749882,39759284,39768736,39778170,39787613,39797043,39806563,39815964,39825389,39834810,39844250,39853672,39863081,39872465,39882059,39891688,39901252,39910872,39920601,39930099,39939692,39949557,39959235,39968738,39978211,39987875,39997410,40006914,40016390,40025888,40035357,40044796,40054290,40064309,40073843,40083309" data-warm-notice-type="error" moduleId="90" documentId="8505" anchor="dfas3nngyg">ст. 150 ТК</a>). То есть без согласия работника вы не можете дать отпуск без сохранения заработной платы.</p><p><a data-anchor="/document/16/205569/bssPhr14/"></a><a data-anchor="/document/16/205569/dfasyfggwk/" data-dfa="dfasyfggwk"></a><strong>Все об оформлении и оплате отпусков читайте в рекомендациях</strong> «<a data-anchor="/document/16/205569/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/16/221269" data-warm-notices="33260479,33269177" data-warm-notice-type="error" target="_self" title="" moduleId="16" documentId="221269" class="link ">Что учесть работодателю при предоставлении ежегодных трудовых отпусков</a>»&nbsp;и «<a data-anchor="/document/16/205569/backlinkanchor10/" type="backlink-anchor"></a><a href="#/document/16/221311" title="" moduleId="16" documentId="221311" class="link ">Как рассчитать отпускные</a>».</p><a data-anchor="/document/16/205569/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205569/bssPhr15/"></a><a data-anchor="/document/16/205569/dfasycz5q7/" data-dfa="dfasycz5q7"></a><strong>Во время онлайн-семинара эксперт ответил на вопросы слушателей</strong></h2><p><a data-anchor="/document/16/205569/bssPhr16/"></a><a data-anchor="/document/16/205569/dfaswgug6u/" data-dfa="dfaswgug6u"></a><strong>Вопрос: </strong>Можно ли перенести на другую дату ежегодный трудовой отпуск, если работник заболел и не может использовать свой очередной отпуск по графику?</p><p><a data-anchor="/document/16/205569/bssPhr17/"></a><a data-anchor="/document/16/205569/dfaswgnri9/" data-dfa="dfaswgnri9"></a><strong>Ответ:</strong> Если работник берет отпуск не по графику, в документе сделайте отметку фактической даты отпуска. Это поможет рассчитать трудовой стаж для предоставления следующих трудовых отпусков.</p><p><a data-anchor="/document/16/205569/bssPhr18/"></a><a data-anchor="/document/16/205569/dfas23gquk/" data-dfa="dfas23gquk"></a><strong>Вопрос:</strong> Можно ли отправить работника в неоплачиваемый отпуск без его согласия? Что делать в этом случае работодателю?</p><p><a data-anchor="/document/16/205569/bssPhr19/"></a><a data-anchor="/document/16/205569/dfasif8xxr/" data-dfa="dfasif8xxr"></a><strong>Ответ: </strong>Нет, нельзя.</p><p><a data-anchor="/document/16/205569/bssPhr20/"></a><a data-anchor="/document/16/205569/dfasv1ps8e/" data-dfa="dfasv1ps8e"></a>Для выхода работника в отпуск без содержание нужно <a data-anchor="/document/16/205569/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/118/201836" title="" moduleId="118" documentId="201836" class="link ">заявление</a>, в котором он выражает согласие на такой вид отпуска (<a data-anchor="/document/16/205569/backlinkanchor12/" type="backlink-anchor"></a><a href="#/document/90/8505/dfas3nngyg/" class="link npd" title="" data-warm-notices="39188818,39200854,39212863,39224952,39237073,39249233,39261382,39273392,39285379,39297342,39310798,39323589,39335756,39347790,39359885,39371965,39384116,39396319,39408604,39420708,39432980,39445190,39457263,39469404,39481509,39493528,39505655,39517653,39527781,39537645,39547478,39557366,39567183,39576975,39587004,39605568,39616214,39626910,39636364,39645751,39655184,39664629,39674231,39683661,39693034,39702376,39712056,39721481,39730999,39740425,39749885,39759285,39768737,39778171,39787614,39797044,39806566,39815965,39825390,39834812,39844251,39853673,39863085,39872467,39882060,39891692,39901253,39910873,39920604,39930100,39939693,39949559,39959238,39968741,39978214,39987879,39997411,40006915,40016393,40025890,40035358,40044797,40054291,40064311,40073844,40083310" data-warm-notice-type="error" moduleId="90" documentId="8505" anchor="dfas3nngyg">ст. 150 ТК</a>). Нельзя вынуждать работников брать неоплачиваемый отпуск, даже, если в организации нет денег платить им зарплату.</p><p><a data-anchor="/document/16/205569/bssPhr21/"></a><a data-anchor="/document/16/205569/dfas37xxhy/" data-dfa="dfas37xxhy"></a><strong>Вопрос:</strong> Можно ли расторгнуть трудовой договор с работником, пока он находится в отпуске без содержания?</p><p><a data-anchor="/document/16/205569/bssPhr22/"></a><a data-anchor="/document/16/205569/dfasc5w9e4/" data-dfa="dfasc5w9e4"></a><strong>Ответ: </strong>Не допускается прекращение трудового договора по инициативе работодателя в период временной нетрудоспособности и пребывания работника в отпусках. Такие условия прописаны в части 3 статьи 100 ТК.</p><p><a data-anchor="/document/16/205569/bssPhr23/"></a><a data-anchor="/document/16/205569/dfassr07ku/" data-dfa="dfassr07ku"></a><strong>Вопрос:</strong> В начале года мы приняли на работу новых сотрудников. Можно ли их отправить в отпуск во время карантина?</p><p><a data-anchor="/document/16/205569/bssPhr24/"></a><a data-anchor="/document/16/205569/dfas2xk1sh/" data-dfa="dfas2xk1sh"></a><strong>Ответ: </strong>Да, это можно сделать по соглашению сторон.</p><p><a data-anchor="/document/16/205569/bssPhr25/"></a><a data-anchor="/document/16/205569/dfasrv1n1p/" data-dfa="dfasrv1n1p"></a><strong>Запись вебинара смотрите здесь:</strong></p><div class="iframe"><iframe width="734" height="413" src="https://www.youtube-nocookie.com/embed/FA447LXBe4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

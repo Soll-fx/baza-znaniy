@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как начислить амортизацию НМА и отразить в финансовой отчетности по МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206455/dfasyhbiet/" data-dfa="dfasyhbiet"></a><a data-anchor="/document/16/206455/bssPhr2/"></a>Из рекомендации узнаете, какой МСФО регламентирует порядок амортизации нематериальных активов, по каким критериям определять продолжительность срока полезного использования НМА и как определить ликвидационную стоимость НМА. Эксперты пояснили, какие методы использовать при начислении амортизации НМА и как отразить выбытие нематериальных активов в финансовой отчетности по МСФО. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206455/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206455/bssPhr3/"></a><a data-anchor="/document/16/206455/dfaslvowek/" data-dfa="dfaslvowek"></a>Порядок амортизации нематериальных активов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206455/bssPhr5/"></a><a data-anchor="/document/16/206455/dfasnypl7n/" data-dfa="dfasnypl7n"></a>Порядок начисления амортизации нематериальных активов и отражения результатов данной амортизации в финансовой отчетности компании регулирует МСФО (IAS) 38 «Нематериальные активы».</p><p style="text-align:left"><a data-anchor="/document/16/206455/bssPhr6/"></a><a data-anchor="/document/16/206455/dfas9h7h24/" data-dfa="dfas9h7h24"></a>В соответствии с принципом «соответствие расходов доходам» МСФО рекомендуют регулярно начислять амортизацию нематериальных активов. Амортизируется первоначальная стоимость или остаточная стоимость нематериального актива за вычетом его ликвидационной стоимости.</p></div><a data-anchor="/document/16/206455/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206455/bssPhr7/"></a><a data-anchor="/document/16/206455/dfasld7a6v/" data-dfa="dfasld7a6v"></a>Критерии определения продолжительности срока полезного использования НМА</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206455/bssPhr9/"></a><a data-anchor="/document/16/206455/dfas5ees2f/" data-dfa="dfas5ees2f"></a>Критерии, по которым нужно определять продолжительность срока полезного использования нематериального актива:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206455/bssPhr10/"></a><a data-anchor="/document/16/206455/dfas0q8apv/" data-dfa="dfas0q8apv"></a>период, на протяжении которого компания планирует использовать нематериальный актив в своей финансово-хозяйственной деятельности;</li><li style="text-align:left">количество продукции, работ, услуг, которые компания планирует получить от использования данного нематериального актива.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206455/bssPhr11/"></a><a data-anchor="/document/16/206455/dfasug2uh8/" data-dfa="dfasug2uh8"></a>Согласно МСФО, максимальный срок полезного использования нематериального актива составляет 20 лет. Компания может:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206455/bssPhr12/"></a><a data-anchor="/document/16/206455/dfasq2qnyo/" data-dfa="dfasq2qnyo"></a>увеличить данный срок, если на то есть обоснования, и компания может их описать в примечаниях к финансовой отчетности;</li><li style="text-align:left">уменьшить срок полезного использования нематериального актива. Например, компания приобрела нематериальный актив на длительный период – 20 лет, а ожидаемый срок его фактического использования составляет 15 лет, соответственно, в качестве срока полезного использования будет выбран срок – 15 лет.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206455/bssPhr13/"></a><a data-anchor="/document/16/206455/dfas6yroxm/" data-dfa="dfas6yroxm"></a>Чтобы достоверно и надежно определить срок службы нематериального актива компания может учитывать следующие факторы:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206455/bssPhr14/"></a><a data-anchor="/document/16/206455/dfasd8ux16/" data-dfa="dfasd8ux16"></a>срок ожидаемого использования нематериального актива;</li><li style="text-align:left">общедоступная информация о сроках службы таких нематериальных активов или их аналогов;</li><li style="text-align:left">техническое устаревание в результате изменения или совершенствования производства товаров, работ, услуг;</li><li style="text-align:left">изменения спроса на рынке товаров, работ, услуг, которые компания планирует производить с помощью такого нематериального актива;</li><li style="text-align:left">зависимость срока полезной службы нематериального актива от сроков полезной службы других активов в компании;</li><li style="text-align:left">затраты на поддержание исправного рабочего состояния и защиту такого нематериального актива;</li><li style="text-align:left">юридические и иные ограничения и запреты на использование такого актива. Например, дата истечения договора аренды нематериального актива;</li><li style="text-align:left">ожидаемая политика потенциальных и существующих на рынке конкурентов.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206455/bssPhr15/"></a><a data-anchor="/document/16/206455/dfasbxdgtz/" data-dfa="dfasbxdgtz"></a>Если компания не может установить срок полезного использования нематериального актива, то амортизация на такой нематериальный актив не начисляется.</p><div class="incut-v4__icon"></div></div><p style="text-align:left"><a data-anchor="/document/16/206455/bssPhr17/"></a><a data-anchor="/document/16/206455/dfas9d9ftd/" data-dfa="dfas9d9ftd"></a>Срок полезной службы нельзя установить, если невозможно определить период, в течение которого компания ожидает чистые поступления денежных средств от использования такого нематериального актива.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206455/bssPhr18/"></a><a data-anchor="/document/16/206455/dfasnogy5z/" data-dfa="dfasnogy5z"></a>Согласно МСФО (IAS) 36 «Обесценение активов», нематериальные активы с неопределенным сроком полезной службы подлежат ежегодному тестированию на обесценение.</p><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/206455/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206455/bssPhr20/"></a><a data-anchor="/document/16/206455/dfasa0kse2/" data-dfa="dfasa0kse2"></a>Ликвидационная стоимость НМА</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206455/bssPhr22/"></a><a data-anchor="/document/16/206455/dfasilgxbi/" data-dfa="dfasilgxbi"></a>Согласно МСФО, ликвидационная стоимость нематериального актива равна 0, кроме следующих ситуаций:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206455/bssPhr23/"></a><a data-anchor="/document/16/206455/dfasq8iz5o/" data-dfa="dfasq8iz5o"></a>существует обязательство третьей стороны приобрести актив в конце срока его полезной службы, то есть по окончании полезного срока нематериального актива компания уже знает кому она его продаст и за сколько. Например, уже заключен договор на продажу такого нематериального актива;</li><li style="text-align:left">для данного вида нематериального актива уже сформирован активный рынок, на котором он может стоить определенных денег. Соответственно, при определении ликвидационной стоимости, компания ссылается на данный рынок;</li><li style="text-align:left">существует высокая вероятность, что такой активный рынок будет сформирован к концу срока полезного использования нематериального актива. Имеется обоснованная тенденция, статистика, то есть рынок уже начал формироваться.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206455/bssPhr24/"></a><a data-anchor="/document/16/206455/dfas3r4pnv/" data-dfa="dfas3r4pnv"></a>Затраты на разработку нематериального актива имеют ликвидационную стоимость, равную нулю, так как они не признаются нематериальным активом и не могут быть проданы.</p><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/206455/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206455/bssPhr26/"></a><a data-anchor="/document/16/206455/dfasrqpduh/" data-dfa="dfasrqpduh"></a>Методы начисления амортизации НМА</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206455/bssPhr28/"></a><a data-anchor="/document/16/206455/dfaspfqsqd/" data-dfa="dfaspfqsqd"></a>При начислении амортизации на нематериальный актив компания может использовать следующие методы:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206455/bssPhr29/"></a><a data-anchor="/document/16/206455/dfas7g3wll/" data-dfa="dfas7g3wll"></a>методы равномерного (прямолинейного) начисления;</li><li style="text-align:left">метод уменьшающегося остатка;</li><li style="text-align:left">метод начисления амортизации пропорционально произведенной продукции.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206455/bssPhr30/"></a><a data-anchor="/document/16/206455/dfasufqp9b/" data-dfa="dfasufqp9b"></a>Если у компании есть график потребления экономических выгод от нематериального актива, то компания может самостоятельно выбрать метод начисления амортизации на такой актив.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206455/bssPhr31/"></a><a data-anchor="/document/16/206455/dfas25rcvh/" data-dfa="dfas25rcvh"></a>Если такого графика нет, и он не может быть надежно определен, компания должна использовать линейный метод начисления амортизации. Также в конце каждого финансового года компания должна пересматривать период и метод начисления амортизации.</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/206455/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206455/bssPhr32/"></a><a data-anchor="/document/16/206455/dfasm32y1a/" data-dfa="dfasm32y1a"></a>Выбытие нематериальных активов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206455/bssPhr34/"></a><a data-anchor="/document/16/206455/dfasze9dqu/" data-dfa="dfasze9dqu"></a>Выбытие нематериальных активов выражается в том, что компания прекращает признавать их в балансе в качестве нематериальных активов. Выбытие нематериальных активов происходит, если компания больше не ожидает получения будущих экономических выгод от их использования.</p><p style="text-align:left"><a data-anchor="/document/16/206455/bssPhr35/"></a><a data-anchor="/document/16/206455/dfasgde3aw/" data-dfa="dfasgde3aw"></a>При этом, компания может продать нематериальный актив и тогда она получит прибыль или убыток, которые будут равны разнице между чистыми поступлениями денежных средств от выбытия такого нематериального актива и его балансовой стоимостью. Отражать такие прибыль или убыток необходимо в том отчетном периоде, в котором они возникли.</p><p style="text-align:left"><a data-anchor="/document/16/206455/bssPhr36/"></a><a data-anchor="/document/16/206455/dfasr8a2sv/" data-dfa="dfasr8a2sv"></a>В финансовой отчетности компании это необходимо отразить как доход, расход в отчете о прибылях и убытках.</p></div><p><a data-anchor="/document/16/206455/dfasvgqixw/" data-dfa="dfasvgqixw"></a><a data-anchor="/document/16/206455/bssPhr37/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

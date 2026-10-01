@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как инкассировать наличную денежную выручку</h2><div class="doc-snippet"><a data-anchor="/document/16/210444/dfaskp00hc/" data-dfa="dfaskp00hc"></a><a data-anchor="/document/16/210444/bssPhr2/"></a>В рекомендации Системы Главбух найдете ответы на вопросы: в каком порядке инкассировать наличную денежную выручку, как ее сдавать инкассаторам и можно ли сдавать выручку один раз в три дня. Эксперты показали, как в бухучете отразить сдачу наличной выручки в инкассацию. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210444/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210444/bssPhr3/"></a><a data-anchor="/document/16/210444/dfas1q85y9/" data-dfa="dfas1q85y9"></a>Сдача наличной выручки инкассаторам</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210444/bssPhr6/"></a><a data-anchor="/document/16/210444/dfasrc9o8q/" data-dfa="dfasrc9o8q"></a>Порядок инкассации наличной денежной выручки определен в Инструкции по организации кассовой работы, инкассации ценностей в коммерческих банках (рег. № 3028 от 29.06.2018 ).&nbsp;Предприятия, использующие онлайн-ККМ или виртуальную кассу, могут сдавать выручку, независимо от ее размера, самостоятельно или через службу инкассации (<span num="39" target="_self" lnktype="intlnk" title="" class="doc">п. 3</span> от 06.09.2019 № УП-5813).</p><p><a data-anchor="/document/16/210444/bssPhr7/"></a><a data-anchor="/document/16/210444/dfassp4g1a/" data-dfa="dfassp4g1a"></a>Все наличные деньги сверх установленных лимитов должны быть сданы в банк для оприходования на счет (<span num="40" target="_self" lnktype="intlnk" title="" class="doc">п. 24</span> Инструкции рег. МЮ от 01.05.2018 № 3003).</p><p><a data-anchor="/document/16/210444/bssPhr8/"></a><a data-anchor="/document/16/210444/dfas08whre/" data-dfa="dfas08whre"></a>Всем предприятиям предоставлена возможность сдачи дневной наличной выручки:</p><ul class="c-list"><li><a data-anchor="/document/16/210444/bssPhr9/"></a><a data-anchor="/document/16/210444/dfas9cbgf3/" data-dfa="dfas9cbgf3"></a>в размере свыше 20 БРВ – ежедневно, через службу инкассации или самостоятельно;</li><li>в размере до 20 БРВ – через службу инкассации в определяемые ими периоды или самостоятельно (<span num="41" target="_self" lnktype="intlnk" title="" class="doc">п. 1в</span>) № УП-5564 от 30.10.2018).</li></ul></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210444/bssPhr11/"></a><a data-anchor="/document/16/210444/dfas49o9sb/" data-dfa="dfas49o9sb"></a>С 1 марта 2020 г. оплата за услуги по доставке в банки наличных денег хозяйствующих субъектов через службы инкассации оплачивается заказчиком - хозяйствующим субъектом или банком согласно договору (<span num="33" target="_self" lnktype="intlnk" title="" class="doc">п. 1</span> приложения № 1 к ПКМ № 30 от 16.01.2020 г.).</p><p><a data-anchor="/document/16/210444/bssPhr12/"></a><a data-anchor="/document/16/210444/dfas0b26kp/" data-dfa="dfas0b26kp"></a>Городские, районные отделы инкассации могут заключать договора на оказание своих услуг только с предприятиями, имеющими наличную выручку и осуществляющими деятельность на территории данного города, района. Если у предприятия в одном или нескольких районах есть точки, получающие наличную денежную выручку, то выручка инкассируется в кассу одного из банков в районе их расположения, который определен в договоре инкассации.</p><p><a data-anchor="/document/16/210444/bssPhr13/"></a><a data-anchor="/document/16/210444/dfasctwmfu/" data-dfa="dfasctwmfu"></a>При заключении договора отдел службы инкассации ежемесячно составляет явочную карточку (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">приложение № 13</span> к Инструкции по организации кассовой работы, инкассации денежной наличности и других ценностей в коммерческих банках, рег. № 3028 от 29.06.2018). В явочной карточке указывают отдел инкассации, клиента, банк, периодичность инкассирования и другие данные. Оформление явочной карточки подтверждают подписями и печатями отдел инкассации, клиент и руководитель, обслуживающего или инкассирующего наличную денежную выручку клиента, банка.</p><p><a data-anchor="/document/16/210444/bssPhr14/"></a><a data-anchor="/document/16/210444/dfasek078t/" data-dfa="dfasek078t"></a>Предприятию в необходимом количестве, но не менее трех штук, выдают инкассаторские сумки с надписью «БАНК» и дробным номером: в числителе – регистрационный номер предприятия по списку в отделе инкассации, в знаменателе – порядковый номер сумки (<span num="9" target="_self" lnktype="intlnk" title="" class="doc">п. 309</span> Инструкции № 3028 от 29.06.2018). Предприятиям, сдающим наличную денежную выручку службе инкассации в воскресные и праздничные дни, дополнительно выдают инкассаторские сумки с буквой «Д».</p><p><a data-anchor="/document/16/210444/bssPhr15/"></a><a data-anchor="/document/16/210444/dfashecvv0/" data-dfa="dfashecvv0"></a>Предприятие должно предоставить образцы пломбы с указанием сокращенного наименования предприятия. При сдаче выручки в банк образцы пломб предоставьте в банк в двух экземплярах, при сдаче через инкассаторскую службу – в трех экземплярах. После проверки образцов пломб, один экземпляр заверенного банком или инкассаторской службой образца пломбы вернут вашему предприятию.</p><p><a data-anchor="/document/16/210444/bssPhr16/"></a><a data-anchor="/document/16/210444/dfasy2gu0g/" data-dfa="dfasy2gu0g"></a>Перед сдачей денег инкассатору кассир или другое ответственное лицо предприятия заполняет под копирку и подписывает сам, а также у руководителя предприятия сопроводительную <span num="10" target="_self" lnktype="intlnk" title="" class="doc">ведомость</span><strong>, </strong><span num="11" target="_self" lnktype="intlnk" title="" class="doc">накладную</span> и <span num="12" target="_self" lnktype="intlnk" title="" class="doc">квитанцию</span> по установленным формам (<span num="13" target="_self" lnktype="intlnk" title="" class="doc">постановление</span> правления ЦБ, рег. № 3028-1 от 23.01.2019):</p><ul class="c-list"><li><a data-anchor="/document/16/210444/bssPhr17/"></a><a data-anchor="/document/16/210444/dfasf6mw6w/" data-dfa="dfasf6mw6w"></a><span num="14" target="_self" lnktype="intlnk" title="" class="doc">ведомость</span> вкладывается в специальный карман инкассаторской сумки;</li><li><span num="15" target="_self" lnktype="intlnk" title="" class="doc">накладная</span> отдается инкассатору вместе с сумкой;</li><li><span num="16" target="_self" lnktype="intlnk" title="" class="doc">квитанция</span>, после проставления на ней инкассатором треугольной печати, остается у предприятия.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210444/dfaswam6bk/" data-dfa="dfaswam6bk"></a><a data-anchor="/document/16/210444/bssPhr18/"></a>Если инкассаторских сумок несколько, подготовьте документы для каждой.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/210444/bssPhr20/"></a><a data-anchor="/document/16/210444/dfasz7eqc2/" data-dfa="dfasz7eqc2"></a>При приеме сумки с деньгами инкассатор предъявляет сдатчику денег:</p><ul class="c-list"><li><a data-anchor="/document/16/210444/bssPhr21/"></a><a data-anchor="/document/16/210444/dfasxgs2fl/" data-dfa="dfasxgs2fl"></a>служебное удостоверение с фотокарточкой;</li><li>доверенность на получение денежной выручки (<span num="17" target="_self" lnktype="intlnk" title="" class="doc">приложение 9</span> и <span num="18" target="_self" lnktype="intlnk" title="" class="doc">10</span> к постановлению правления ЦБ, рег. № 3028-1 от 23.01.2019);</li><li>явочную карточку.</li></ul><p><a data-anchor="/document/16/210444/bssPhr22/"></a><a data-anchor="/document/16/210444/dfas2og2o6/" data-dfa="dfas2og2o6"></a>При приеме наличной выручки инкассатор проверяет:</p><ul class="c-list"><li><a data-anchor="/document/16/210444/bssPhr23/"></a><a data-anchor="/document/16/210444/dfasz4xp19/" data-dfa="dfasz4xp19"></a>целостность сумки;</li><li>соответствие данных явочной карточки накладной и квитанции.</li></ul><p><a data-anchor="/document/16/210444/bssPhr24/"></a><a data-anchor="/document/16/210444/dfasbzeclm/" data-dfa="dfasbzeclm"></a>При отсутствии нарушений инкассатор в части расписки <span num="19" target="_self" lnktype="intlnk" title="" class="doc">квитанции</span> ставит:</p><ul class="c-list"><li><a data-anchor="/document/16/210444/bssPhr25/"></a><a data-anchor="/document/16/210444/dfas7chgwc/" data-dfa="dfas7chgwc"></a>номер принимаемой сумки;</li><li>дату сдачи инкассации;</li><li>свою подпись;</li><li>треугольную печать маршрута.</li></ul><p><a data-anchor="/document/16/210444/bssPhr26/"></a><a data-anchor="/document/16/210444/dfas8vir7x/" data-dfa="dfas8vir7x"></a>После этого передает представителю предприятия:</p><ul class="c-list"><li><a data-anchor="/document/16/210444/bssPhr27/"></a><a data-anchor="/document/16/210444/dfase0y70a/" data-dfa="dfase0y70a"></a><span num="20" target="_self" lnktype="intlnk" title="" class="doc">квитанцию</span>;</li><li>пустую инкассаторскую сумку для использования на следующий рабочий день.</li></ul><p><a data-anchor="/document/16/210444/bssPhr28/"></a><a data-anchor="/document/16/210444/dfasz8o10t/" data-dfa="dfasz8o10t"></a>Если инкассатор выявляет нарушения, то он не принимает сумку с деньгами. Если исправление выявленных нарушений не нарушит график работы инкассаторов, то они могут быть устранены в их присутствии, в остальных случаях сумки можно сдать только при повторном приезде инкассаторов и об этом делается запись в явочной карточке.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли сдавать выручку один раз в три дня</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210444/bssPhr31/"></a><a data-anchor="/document/16/210444/dfast650cb/" data-dfa="dfast650cb"></a>Если у предприятия <strong>среднедневная выручка</strong>:</p><ul class="c-list"><li><a data-anchor="/document/16/210444/bssPhr32/"></a><a data-anchor="/document/16/210444/dfasrif735/" data-dfa="dfasrif735"></a><strong>более 20 БРВ</strong>, то выручка должна сдаваться в банк <strong>ежедневно</strong>;</li><li><strong>менее 20 БРВ</strong>, то предприятие <strong>может выбрать удобный для себя период сдачи выручки в банк</strong>. В этом случае, необходимо утвердить на предприятии график сдачи денежных средств, например, раз в два дня, один раз в неделю (<span num="26" target="_self" lnktype="intlnk" title="" class="doc">п. 1в</span>)&nbsp;№ УП-5564 от 30.10.2018 г.).</li></ul><p><a data-anchor="/document/16/210444/bssPhr33/"></a><a data-anchor="/document/16/210444/dfasgv3t84/" data-dfa="dfasgv3t84"></a>Независимо от размера среднедневной выручки, предприятие может по своему усмотрению сдавать выручку самостоятельно или через службу инкассации.</p></div></div><a data-anchor="/document/16/210444/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210444/bssPhr34/"></a><a data-anchor="/document/16/210444/dfaswxolsc/" data-dfa="dfaswxolsc"></a>Сдача наличной выручки предприятием самостоятельно в банк</h3><p><a data-anchor="/document/16/210444/bssPhr35/"></a><a data-anchor="/document/16/210444/dfasgdha94/" data-dfa="dfasgdha94"></a>Кассир или другое ответственное лицо предприятия, сдающий наличную выручку самостоятельно в банк, заполняет и вкладывает вместе с деньгами в опломбированную сумку бланк по форме <span num="21" target="_self" lnktype="intlnk" title="" class="doc">приложения 8а</span>. Наличную выручку сдавайте в помещение инкассы банка. При приеме денег сотрудники кассы банка расписываются, проставляют печать на части квитанции бланка и возвращают его предприятию.</p><a data-anchor="/document/16/210444/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210444/bssPhr36/"></a><a data-anchor="/document/16/210444/dfassg3sl7/" data-dfa="dfassg3sl7"></a>Как в бухучете отразить сдачу наличной выручки в инкассацию</h3><p><a data-anchor="/document/16/210444/bssPhr37/"></a><a data-anchor="/document/16/210444/dfasxvooxg/" data-dfa="dfasxvooxg"></a>При сдаче наличной выручки в инкассацию и последующем ее зачисление на расчетный счет в бухучете делайте проводки:</p><p><a data-anchor="/document/16/210444/bssPhr38/"></a><a data-anchor="/document/16/210444/dfasruzbfg/" data-dfa="dfasruzbfg"></a><strong>Дебет 5710 Кредит 5010 </strong></p><ul class="c-list"><li><a data-anchor="/document/16/210444/bssPhr39/"></a><a data-anchor="/document/16/210444/dfaslg7gmd/" data-dfa="dfaslg7gmd"></a>передача наличной выручки из кассы предприятия в инкассацию;</li></ul><p><a data-anchor="/document/16/210444/bssPhr40/"></a><a data-anchor="/document/16/210444/dfasqxh28g/" data-dfa="dfasqxh28g"></a><strong>Дебет 5110 Кредит 5710</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210444/bssPhr41/"></a><a data-anchor="/document/16/210444/dfasigos1f/" data-dfa="dfasigos1f"></a>наличная выручка зачислена на расчетный счет (по выписке банка).</li></ul></div><p><a data-anchor="/document/16/210444/dfasighrnf/" data-dfa="dfasighrnf"></a><a data-anchor="/document/16/210444/bssPhr42/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p><iframe class="doc-iframe" allow="join-ad-interest-group" data-load-time="1740747125782" data-tagging-id="G-7BFSM9D13X" height="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-7BFSM9D13X&amp;gacid=2137443560.1737432437&amp;gtm=45je52q0v9108781240za200&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=1&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102658453~102717421~102732003&amp;z=472133038" style="display: none; visibility: hidden;" width="0"></iframe></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

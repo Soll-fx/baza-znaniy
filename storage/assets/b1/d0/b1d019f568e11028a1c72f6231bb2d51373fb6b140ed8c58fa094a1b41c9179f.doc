@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие кадровые документы и локальные акты изменять в связи с новым Трудовым кодексом</h2><div class="doc-snippet"><a data-anchor="/document/16/211033/dfasodigmf/" data-dfa="dfasodigmf"></a><a data-anchor="/document/16/211033/bssPhr2/"></a>В рекомендации навигатор, который поможет решить, в какие кадровые и локальные акты вносить изменения, какие отменить и какие новые разработать, чтобы документация организации соответствовала требованиям нового Трудового кодекса. Готовые шаблоны помогут в работе, чтобы перестроиться под <span num="28" target="_self" lnktype="intlnk" title="" class="doc">новый ТК</span> </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211033/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211033/bssPhr3/"></a><a data-anchor="/document/16/211033/dfas8aoylu/" data-dfa="dfas8aoylu"></a><a data-anchor="/document/16/211033/dfas4h49wa/" data-dfa="dfas4h49wa"></a>Инициирование изменений</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211033/bssPhr5/"></a><a data-anchor="/document/16/211033/dfasbrdpav/" data-dfa="dfasbrdpav"></a>Инициатором аудита и приведения в соответствие с новым ТК кадровых и иных документов, а также локальных актов организации может выступить как руководитель организации, так и ответственные работники, представительный орган работников и т. д. Однако, как правило, службы или специалисты, ответственные за те или иные документы и локальные акты, лучше осведомлены об их содержании и необходимости изменений и дополнений, или отмены и разработки новых. В связи с чем инициатором могут выступать именно они.</p><p><a data-anchor="/document/16/211033/bssPhr6/"></a><a data-anchor="/document/16/211033/dfasokrg4o/" data-dfa="dfasokrg4o"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Когда нужно инициировать аудит документов и локальных актов по новому ТК</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211033/bssPhr8/"></a><a data-anchor="/document/16/211033/dfasnsu8u7/" data-dfa="dfasnsu8u7"></a>Трудовой кодекс, подписанный 28 октября 2022 года, вступит в силу 30 апреля 2023 года. Таким образом, у работодателей было шесть месяцев на изучение нового ТК. Поэтому инициировать аудит кадровых и иных документов, локальных актов нужно с таким расчетом, чтобы работа по изменению, отмене и разработке проектов новых документов была завершена к моменту вступления нового ТК в силу.</p><p><a data-anchor="/document/16/211033/bssPhr9/"></a><a data-anchor="/document/16/211033/dfasd5s55o/" data-dfa="dfasd5s55o"></a>Инициативу проведения аудита документов и локальных актов организации лучше оформить в письменной форме. Например, это может быть служебная записка руководителя кадровой службы на имя руководителя организации. Затем работодатель своим приказом создает рабочую комиссию по аудиту и приведению документов и локальных актов организации в соответствие с новым ТК.</p></div></div></div><a data-anchor="/document/16/211033/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211033/bssPhr10/"></a><a data-anchor="/document/16/211033/dfasp5c2bg/" data-dfa="dfasp5c2bg"></a>Создание рабочей комиссии</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211033/bssPhr12/"></a><a data-anchor="/document/16/211033/dfasznakcq/" data-dfa="dfasznakcq"></a>В <span num="12" target="_self" lnktype="intlnk" title="" class="doc">приказе</span> о создании рабочей комиссии работодатель определяет состав данной комиссии, назначает председателя и членов комиссии, ее задачи, устанавливает сроки внесения изменений в каждый из документов и актов.</p><p><a data-anchor="/document/16/211033/bssPhr13/"></a><a data-anchor="/document/16/211033/dfasc0gbmp/" data-dfa="dfasc0gbmp"></a>В состав рабочей комиссии следует включить представителей служб, ответственных за документы и локальные акты, которые нужно проверить и привести в соответствие с новым ТК. В последующем в состав комиссии можно будет вносить изменения, так как по ходу работы может оказаться, что необходимо разработать проекты локальных актов, которых до этого в организации не было.</p><p><a data-anchor="/document/16/211033/bssPhr14/"></a><a data-anchor="/document/16/211033/dfasqoh7k0/" data-dfa="dfasqoh7k0"></a>В приказе о создании рабочей комиссии обозначьте задачи комиссии, например:</p><ul class="c-list"><li><a data-anchor="/document/16/211033/bssPhr15/"></a><a data-anchor="/document/16/211033/dfasroraxg/" data-dfa="dfasroraxg"></a>аудит кадровых документов и локальных актов организации на предмет их соответствия новому ТК;</li><li>отмена действующих кадровых документов или локальных актов организации в случае обнаружения в них противоречий новому ТК;</li><li>определение характера изменений и дополнений в каждый из документов и актов;</li><li>внесение изменений и дополнений в кадровые и иные документы и локальные акты организации в случае обнаружения разделов, пунктов, не соответствующих новому ТК, или же при необходимости включать новые разделы и пункты, чтобы акт соответствовал новому ТК;</li><li>разработка новых документов и актов для обеспечения выполнения положений нового ТК.</li></ul><p><a data-anchor="/document/16/211033/bssPhr16/"></a><a data-anchor="/document/16/211033/dfaswo5ysk/" data-dfa="dfaswo5ysk"></a>Нарушение установленного порядка утверждения локального акта чревато отменой вынесенных на его основе приказов или распоряжений работодателя, решений суда, привлечением руководителя к административной ответственности.</p><div class="doc-columns doc-columns_type_forms"><table class="" style="width:92%"><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr></table></div></div><a data-anchor="/document/16/211033/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211033/bssPhr17/"></a><a data-anchor="/document/16/211033/dfasnadi59/" data-dfa="dfasnadi59"></a>Регламент</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211033/bssPhr19/"></a><a data-anchor="/document/16/211033/dfastq8vo0/" data-dfa="dfastq8vo0"></a>Чтобы у рабочей комиссии было общее понимание того, как должны происходить аудит и приведение документов и актов организации в соответствие с новым ТК, а также как разработать проекты новых актов, разработайте регламент рабочей комиссии. Регламент должен учитывать порядок регулирования в Трудовом кодексе:</p><a data-anchor="/document/16/211033/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211033/bssPhr20/"></a><a data-anchor="/document/16/211033/dfasil01rk/" data-dfa="dfasil01rk"></a>1. Соотношения трудового законодательства и иных правовых актов о труде (ст. 13 ТК)</h3><p><a data-anchor="/document/16/211033/bssPhr21/"></a><a data-anchor="/document/16/211033/dfas1qtp3a/" data-dfa="dfas1qtp3a"></a>Иные правовые акты о труде:</p><ul class="c-list"><li><a data-anchor="/document/16/211033/bssPhr22/"></a><a data-anchor="/document/16/211033/dfasfig9ee/" data-dfa="dfasfig9ee"></a>коллективные соглашения;</li><li>коллективные договоры;</li><li>локальные акты, принимаемые работодателем по согласованию с профсоюзным комитетом;</li><li>локальные акты, в том числе индивидуальные правовые акты, принимаемые работодателем единолично в пределах его полномочий.</li></ul><p><a data-anchor="/document/16/211033/bssPhr23/"></a><a data-anchor="/document/16/211033/dfas2gxc5a/" data-dfa="dfas2gxc5a"></a>В иных правовых актах о труде можно предусматривать дополнительные по сравнению с установленными трудовым законодательством права и гарантии работникам. Нельзя включать в них правила, ухудшающие положение работника по сравнению с трудовым законодательством.</p><a data-anchor="/document/16/211033/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211033/bssPhr24/"></a><a data-anchor="/document/16/211033/dfasnnf7kv/" data-dfa="dfasnnf7kv"></a>2. Соотношения коллективных соглашений между собой и с локальными актами (ст. 14 ТК)</h3><p><a data-anchor="/document/16/211033/bssPhr25/"></a><a data-anchor="/document/16/211033/dfas4rrh9f/" data-dfa="dfas4rrh9f"></a>В колл договорах, иных локальных актах организации, независимо от того, приняты они по согласованию с профсоюзным комитетом, или единолично руководителем, можно предусмотреть дополнительные трудовые права и гарантии работникам по сравнению с установленными колсоглашениями. Например, в коллективном договоре можно предусмотреть условия:</p><ul class="c-list"><li><a data-anchor="/document/16/211033/bssPhr26/"></a><a data-anchor="/document/16/211033/dfasg7xilq/" data-dfa="dfasg7xilq"></a>о предоставлении работникам дополнительных отпусков;</li><li>установлении для работников сокращенной продолжительности рабочего времени без уменьшения оплаты труда;</li><li>дополнительных компенсационных выплатах или увеличении размеров этих выплат по сравнению с теми, которые предусмотрены законодательством;</li><li>перечне уважительных причин, при наличии которых просьба работника о временном переводе на другую работу подлежит удовлетворению работодателем помимо тех случаев, когда работник вправе потребовать перевести его на другую работу в соответствии с законодательством и т. п.</li></ul><p><a data-anchor="/document/16/211033/bssPhr27/"></a><a data-anchor="/document/16/211033/dfas1lrzw5/" data-dfa="dfas1lrzw5"></a>В указанные выше акты недопустимо включение правил, ухудшающих положение работника по сравнению с коллективными соглашениями. Например, дополнительные трудовые отпуска могут быть установлены не только законодательством, но и колсоглашениями, а также колдоговором, другими локальными актами, трудовым договором (<span num="34" target="_self" lnktype="intlnk" title="" class="doc">ст. 236 ТК</span>).</p><p><a data-anchor="/document/16/211033/bssPhr28/"></a><a data-anchor="/document/16/211033/dfasiwwkp5/" data-dfa="dfasiwwkp5"></a>Если в колсоглашении предусмотрено предоставление работникам дополнительных отпусков и определена их продолжительность, то в колдоговор, другие локальные акты нельзя включать положения, согласно которым эти отпуска работникам не предоставляются или определена меньшая их продолжительность по сравнению с установленной коллективным соглашением. Иначе их признают недействительными (<span num="35" target="_self" lnktype="intlnk" title="" class="doc">ст. 86 ТК</span>).</p><a data-anchor="/document/16/211033/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/211033/bssPhr29/"></a><a data-anchor="/document/16/211033/dfas8tgznl/" data-dfa="dfas8tgznl"></a>3. Соотношения локальных актов между собой (ст. 15 ТК)</h3><p><a data-anchor="/document/16/211033/bssPhr30/"></a><a data-anchor="/document/16/211033/dfas8afmsy/" data-dfa="dfas8afmsy"></a>Высшую ступень в иерархии локальных актов занимает коллективный договор. Все другие локальные акты, как согласованные с профсоюзным комитетом, так и принятые работодателем единолично, не должны содержать правил, ухудшающих положение работника по сравнению с коллективным договором. Например, колсоглашения, а также коллективный договор, локальные акты, трудовой договор могут устанавливать:</p><ul class="c-list"><li><a data-anchor="/document/16/211033/bssPhr31/"></a><a data-anchor="/document/16/211033/dfasgdgzu4/" data-dfa="dfasgdgzu4"></a>дополнительные гарантии работникам при выплате выходного пособия за счет средств работодателя;</li><li>включение в стаж работы, влияющий на размер выходного пособия, периодов трудовой деятельности работников в определенной отрасли или по определенной профессии, зачет в названный стаж работников, поступивших на работу в данную организацию по приглашению работодателя, времени работы в той организации, где работник трудился ранее.</li></ul><p><a data-anchor="/document/16/211033/bssPhr32/"></a><a data-anchor="/document/16/211033/dfasnv2sog/" data-dfa="dfasnv2sog"></a>Такие правила установлены <span num="36" target="_self" lnktype="intlnk" title="" class="doc">частью 4</span> статьи 173 ТК.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211033/dfasxa3hia/" data-dfa="dfasxa3hia"></a><a data-anchor="/document/16/211033/bssPhr33/"></a>Повышенные размеры выходного пособия были установлены в коллективном договоре.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211033/bssPhr34/"></a><a data-anchor="/document/16/211033/dfaser6v0w/" data-dfa="dfaser6v0w"></a>В этом случае в соответствии с <span num="37" target="_self" lnktype="intlnk" title="" class="doc">частью 1</span> статьи 15 нового ТК ни один локальный акт не должен содержать положений, предусматривающих выплату выходного пособия в меньшем размере по сравнению с установленным в коллективном договоре, в том числе и тогда, когда этот размер равен или даже превышает размер выходного пособия, установленный законодательством.</p></div></div><p><a data-anchor="/document/16/211033/bssPhr35/"></a><a data-anchor="/document/16/211033/dfaseegw0t/" data-dfa="dfaseegw0t"></a>Следующую ступень после коллективного договора в иерархии локальных актов занимают акты, принятые работодателем по согласованию с профсоюзным комитетом.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211033/dfast4hz8z/" data-dfa="dfast4hz8z"></a><a data-anchor="/document/16/211033/bssPhr36/"></a>Локальные акты, принятые работодателем единолично, не должны содержать правил, ухудшающих положение работника по сравнению с локальными актами, принятыми им по согласованию с профсоюзным комитетом. В ином случае их могут признать недействительными</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211033/bssPhr37/"></a><a data-anchor="/document/16/211033/dfas1gcs0y/" data-dfa="dfas1gcs0y"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211033/bssPhr38/"></a><a data-anchor="/document/16/211033/dfas4cgoye/" data-dfa="dfas4cgoye"></a><a data-anchor="/document/16/211033/dfasaxqvd5/" data-dfa="dfasaxqvd5"></a>Работодатель обязан по согласованию с профсоюзным комитетом решать вопросы, затрагивающие трудовые права и гарантии работников (<span num="38" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 15 ТК).&nbsp;Эта обязанность работодателя может касаться принятия им как локальных актов, так и конкретных решений. Например, по согласованию с профсоюзным комитетом работодатель утверждает ПВТР (<span num="39" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 296 ТК), график отпусков (<span num="40" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 228 ТК).</p><a data-anchor="/document/16/211033/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/211033/bssPhr39/"></a><a data-anchor="/document/16/211033/dfas4vmxnc/" data-dfa="dfas4vmxnc"></a>4. Соотношения трудового законодательства, иных правовых актов о труде и трудового договора (ст. 16 ТК)</h3><p><a data-anchor="/document/16/211033/bssPhr40/"></a><a data-anchor="/document/16/211033/dfasmfd7gi/" data-dfa="dfasmfd7gi"></a>В трудовой договор можно включать условия о предоставлении работнику дополнительных, по сравнению с предусмотренными трудовым законодательством и иными правовыми актами о труде, прав и гарантий. Например, в трудовой договор можно включать условие:</p><ul class="c-list"><li><a data-anchor="/document/16/211033/bssPhr41/"></a><a data-anchor="/document/16/211033/dfas779khp/" data-dfa="dfas779khp"></a>об установлении работнику сокращенной продолжительности рабочего времени без уменьшения размера оплаты труда (<span num="41" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 183);</li><li>предоставление работнику ежегодных удлиненных отпусков, а также увеличение продолжительности ежегодных удлиненных отпусков (<span num="43" target="_self" lnktype="intlnk" title="" class="doc">ч. 4</span> ст. 218 ТК);</li><li>предоставление допотпусков (<span num="44" target="_self" lnktype="intlnk" title="" class="doc">ст. 219 ТК</span>);</li><li>другие дополнительные права и гарантии работников.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211033/dfasil8fx8/" data-dfa="dfasil8fx8"></a><a data-anchor="/document/16/211033/bssPhr42/"></a>При этом нельзя включать в трудовой договор условия, ухудшающие положение работника по сравнению с трудовым законодательством, с колсоглашениями, коллдоговором или иными локальными актами.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211033/bssPhr43/"></a><a data-anchor="/document/16/211033/dfasgbm2sc/" data-dfa="dfasgbm2sc"></a>Рабочая комиссия в ходе своей работы должна учитывать требования <span num="45" target="_self" lnktype="intlnk" title="" class="doc">статьи 17</span> ТК в ином случае те положения правовых актов о труде, которые ухудшают положение работника, могут признать недействительными.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211033/bssPhr44/"></a><a data-anchor="/document/16/211033/dfasn8sedk/" data-dfa="dfasn8sedk"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>В течение какого периода будет действовать рабочая комиссия по внесению изменений в кадровые документы и локальные акты организации</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211033/bssPhr46/"></a><a data-anchor="/document/16/211033/dfas7kzen4/" data-dfa="dfas7kzen4"></a>Срок работы комиссии не стоит ограничивать периодом, необходимым для проведения первичного аудита и изменения документов организации. В настоящий момент готовятся проекты ряда подзаконных актов для обеспечения реализации положений нового ТК. Сколько времени займет завершение процесса их разработки и утверждения, пока неизвестно. Поэтому срок действия рабочей комиссии лучше обозначить как 1 год.</p></div></div><p><a data-anchor="/document/16/211033/dfasfghur5/" data-dfa="dfasfghur5"></a></p><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211033/dfasyhhemx/" data-dfa="dfasyhhemx"></a><a data-anchor="/document/16/211033/bssPhr47/"></a>Локальные акты не могут ухудшать положение работников по сравнению с законодательством, коллективными соглашениями и коллективным договором.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211033/bssPhr48/"></a><a data-anchor="/document/16/211033/dfas4rcar4/" data-dfa="dfas4rcar4"></a>Например, нельзя устанавливать в графике сменности сменный режим работы продолжительностью 24 часа. Это противоречит <span num="46" target="_self" lnktype="intlnk" title="" class="doc">статье 199</span> ТК, а именно продолжительность ежедневной работы (смены) не может превышать 12 часов.</p><p><a data-anchor="/document/16/211033/bssPhr49/"></a><a data-anchor="/document/16/211033/dfasltkrez/" data-dfa="dfasltkrez"></a>А вот включать нормы, улучшающие положение работников по сравнению с законодательством, коллективными соглашениями и коллективным договором – допускается. Например, организация вправе исходя из своих финансовых возможностей предусмотреть повышенные размеры выходного пособия по сравнению с установленными <span num="47" target="_self" lnktype="intlnk" title="" class="doc">статьей 173</span>&nbsp;ТК.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211033/dfaslbwo8m/" data-dfa="dfaslbwo8m"></a></p></div><a data-anchor="/document/16/211033/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/211033/bssPhr50/"></a><a data-anchor="/document/16/211033/dfasxwtti7/" data-dfa="dfasxwtti7"></a>Отбор документов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211033/bssPhr52/"></a><a data-anchor="/document/16/211033/dfas8syt36/" data-dfa="dfas8syt36"></a>Чтобы не пропустить ни один документ, следует отобрать кадровые и иные документы, а также локальные акты организации и разделить их по категориям. При этом на каждого члена комиссии возлагается задача по отбору документов, за которые ответственен он или его служба. Например, кадровая служба отбирает кадровые документы, которые нужно пересмотреть в связи с принятием нового ТК. Финансово-экономическая служба – документы, регулирующие разного рода выплаты и т. п.</p><p><a data-anchor="/document/16/211033/bssPhr53/"></a><a data-anchor="/document/16/211033/dfas4iwh2r/" data-dfa="dfas4iwh2r"></a>Локальный акт – официальный документ, изданный в установленном порядке, компетентным органом управления или должностным лицом организации, устанавливающий обязательные правила поведения для работников организации, и рассчитанный на неоднократное применение.</p><p><a data-anchor="/document/16/211033/bssPhr54/"></a><a data-anchor="/document/16/211033/dfasxkrf9k/" data-dfa="dfasxkrf9k"></a>В эту группу может войти и приказ, несмотря на то что является документом распорядительным. Приказ может быть локальным актом, но для этого он должен соответствовать ряду требований, а именно:</p><ul class="c-list"><li><a data-anchor="/document/16/211033/bssPhr55/"></a><a data-anchor="/document/16/211033/dfastghdpi/" data-dfa="dfastghdpi"></a>издаваться в установленном порядке;</li><li>содержать нормы и правила;</li><li>быть обязательным для определенного круга лиц;</li><li>создаваться с целью неоднократного применения.</li></ul></div><a data-anchor="/document/16/211033/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/211033/bssPhr56/"></a><a data-anchor="/document/16/211033/dfas4tehu7/" data-dfa="dfas4tehu7"></a>Аудит</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211033/bssPhr58/"></a><a data-anchor="/document/16/211033/dfasq4ycmp/" data-dfa="dfasq4ycmp"></a>Чтобы провести аудит кадровых документов и актов организации, целесообразно изучить и соотнести с нормами нового ТК каждый из отобранных документов. Следует учитывать, что нередко в организации специалисты совмещают несколько должностей, например, в малочисленных организациях бухгалтер выполняет функции финансовой и кадровой служб. В таком случае проводить аудит кадровых и финансово-экономических документов может представитель бухгалтерии в рабочей комиссии.</p><p><a data-anchor="/document/16/211033/bssPhr59/"></a><a data-anchor="/document/16/211033/dfasf4xp87/" data-dfa="dfasf4xp87"></a>Изменения и дополнения в коллективный договор должны вноситься в том же порядке, в котором он заключался (<span num="78" target="_self" lnktype="intlnk" title="" class="doc">ст. 77 ТК</span>). Так, колдоговор считается одобренным, если за него проголосовало более 50 % присутствующих на общем собрании / конференции трудового коллектива. При этом, учтите, что общее собрание будет правомочным, только если на нем присутствует более половины работников, которые трудятся у работодателя на основании трудового договора (<span num="49" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 36 ТК).</p><p><a data-anchor="/document/16/211033/bssPhr60/"></a><a data-anchor="/document/16/211033/dfas4tpgze/" data-dfa="dfas4tpgze"></a>Если проект колдоговора не получил одобрения, комиссия по социально-трудовым вопросам дорабатывает его в соответствии с предложениями и замечаниями общего собрания / конференции и в течение 15 календарных дней повторно представляет на рассмотрение общего собрания / конференции.</p><p><a data-anchor="/document/16/211033/bssPhr61/"></a><a data-anchor="/document/16/211033/dfasw89qht/" data-dfa="dfasw89qht"></a>Споры по разрешению разногласий, которые сторонам не удалось разрешить при рассмотрении проекта колдоговора, рассматриваются в порядке, установленном для разрешения коллективных трудовых споров.</p><p><a data-anchor="/document/16/211033/bssPhr62/"></a><a data-anchor="/document/16/211033/dfaseiqiin/" data-dfa="dfaseiqiin"></a>После одобрения колдоговора на общем собрании / конференции трудового коллектива представители сторон подписывают его в течение трех дней.</p><p><a data-anchor="/document/16/211033/bssPhr63/"></a><a data-anchor="/document/16/211033/dfasp8kghw/" data-dfa="dfasp8kghw"></a>Результатом проведенного аудита будет перечень изменений и дополнений в документы, выводы о замене или отмене акта, или о разработке нового акта. Далее останется объединить перечни по всем видам документов в один общий перечень и предоставить руководителю на утверждение.</p><p><a data-anchor="/document/16/211033/bssPhr64/"></a><a data-anchor="/document/16/211033/dfasew2lz4/" data-dfa="dfasew2lz4"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Кто принимает решения о внесении изменений и дополнений в документы разработке новых актов &#8211; руководитель или председатель рабочей комиссии</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211033/bssPhr66/"></a><a data-anchor="/document/16/211033/dfasyptupw/" data-dfa="dfasyptupw"></a>Трудовой кодекс обязывает принимать тот или иной документ, изменения и дополнения в него, новые акты по согласованию с представительным органом работников. Документы, утверждение которых не требует согласования с ПОР, руководитель может утверждать самостоятельно.</p></div></div></div><a data-anchor="/document/16/211033/tit10/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit10"><a data-anchor="/document/16/211033/bssPhr67/"></a><a data-anchor="/document/16/211033/dfas7ikpv2/" data-dfa="dfas7ikpv2"></a>Внесение изменений</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211033/bssPhr69/"></a><a data-anchor="/document/16/211033/dfassk3m1p/" data-dfa="dfassk3m1p"></a>Вносить изменения в кадровые и иные документы, локальные акты нужно в том же порядке, в котором их утверждали первоначально.</p><p><a data-anchor="/document/16/211033/bssPhr70/"></a><a data-anchor="/document/16/211033/dfaso7aosa/" data-dfa="dfaso7aosa"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли предупреждать работников об изменении условий труда не менее чем за два месяца</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211033/bssPhr72/"></a><a data-anchor="/document/16/211033/dfassiputd/" data-dfa="dfassiputd"></a>Нет, не нужно.</p><p><a data-anchor="/document/16/211033/bssPhr73/"></a><a data-anchor="/document/16/211033/dfaskozte7/" data-dfa="dfaskozte7"></a>Условия труда устанавливаются трудовым законодательством, иными правовыми актами о труде, а также соглашением сторон трудового договора. Изменение условий труда производится в том же порядке, в каком они были установлены (<span num="77" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span>, <span num="30" target="_self" lnktype="intlnk" title="" class="doc">2</span> ст. 135 ТК). Условия труда, предусмотренные новым ТК – обязательны как для работника, так и для работодателя.</p><p><a data-anchor="/document/16/211033/bssPhr74/"></a><a data-anchor="/document/16/211033/dfas4f3zr1/" data-dfa="dfas4f3zr1"></a>Условия труда, установленные в трудовом договоре, коллективном договоре и локальных актах, нельзя изменять по требованию одной из сторон трудового договора. Исключение составляют случаи, предусмотренные в статьях <span num="31" target="_self" lnktype="intlnk" title="" class="doc">136</span> и <span num="32" target="_self" lnktype="intlnk" title="" class="doc">137</span> ТК.</p></div></div></div><a data-anchor="/document/16/211033/tit11/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit11"><a data-anchor="/document/16/211033/bssPhr75/"></a><a data-anchor="/document/16/211033/dfas9qwizh/" data-dfa="dfas9qwizh"></a>Ознакомление&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211033/bssPhr77/"></a><a data-anchor="/document/16/211033/dfaske7v01/" data-dfa="dfaske7v01"></a>В случаях, когда Трудовой кодекс обязывает знакомить работников с документами под роспись, с изменениями и дополнениями в документах также нужно знакомить работников под роспись. Например, в документе можно создать специальное поле с готовой формулировкой, где работник, после ознакомления с документом, поставить свою подпись:</p><img alt="" hideborder="false" class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/211033/bssPhr78/"></a><a data-anchor="/document/16/211033/dfaslsqsi8/" data-dfa="dfaslsqsi8"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211033/dfas271ogt/" data-dfa="dfas271ogt"></a><a data-anchor="/document/16/211033/bssPhr79/"></a>Работодатель-микрофирма вправе отказаться полностью или частично от принятия локальных актов, в том числе ПВТР, положений об оплате труда и иных локальных актов.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211033/bssPhr80/"></a><a data-anchor="/document/16/211033/dfasvx280b/" data-dfa="dfasvx280b"></a>Однако, условия, непосредственно связанные с трудовыми отношениями с работниками, работодатель-микрофирма должен включить в трудовые договоры с работниками (<span num="33" target="_self" lnktype="intlnk" title="" class="doc">ст. 505 ТК</span>).</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211033/bssPhr81/"></a><a data-anchor="/document/16/211033/dfas0ozxxk/" data-dfa="dfas0ozxxk"></a>Если изменения и дополнения в трудовой договор с работником будут значительными по объему и содержанию, можно заключить дополнительное соглашение, в котором изложите трудовой договор в новой редакции.</p><p><a data-anchor="/document/16/211033/bssPhr82/"></a><a data-anchor="/document/16/211033/dfasuklpvy/" data-dfa="dfasuklpvy"></a>Процедура ознакомления с локальными актами обычно производится в виде выдачи лицу оригинала (копии) документа для изучения. Организации иногда отводят специальные места, оборудованные стендами, предназначенные для ознакомления с документом.</p><p><a data-anchor="/document/16/211033/bssPhr83/"></a><a data-anchor="/document/16/211033/dfascz8bnf/" data-dfa="dfascz8bnf"></a>Ознакомление с локальным актом завершается отметкой об ознакомлении с документом, которая, как правило, включает в себя подпись, фамилию и инициалы ознакомившегося лица, дату ознакомления. В зависимости от вида локального акта отметка об ознакомлении с документом может содержаться:</p><ul class="c-list"><li><a data-anchor="/document/16/211033/bssPhr84/"></a><a data-anchor="/document/16/211033/dfast8ufim/" data-dfa="dfast8ufim"></a>в локальном акте (на последней странице либо на обороте последнего листа документа);</li><li>на отдельном листе ознакомления с локальным актом, прилагаемом к документу;</li><li>специальном листке (карточке) ознакомления с перечнем локальных актов;</li><li>журнале ознакомления с локальным актом;</li><li>трудовом договоре. В трудовом договоре можно перечислить все внутренние локальные акты и прописать фразу о том, что работник ознакомлен с ними. Подпись работника на документе это подтвердит.</li></ul><p><a data-anchor="/document/16/211033/bssPhr85/"></a><a data-anchor="/document/16/211033/dfas9dmfgs/" data-dfa="dfas9dmfgs"></a>Работодатель вправе применять любой из этих способов.</p><p><a data-anchor="/document/16/211033/bssPhr86/"></a><a data-anchor="/document/16/211033/dfas440tab/" data-dfa="dfas440tab"></a>Если законодательством или локальными нормами предприятия предусмотрена обязанность выдачи локальных актов структурным подразделениям, соответствующим должностным лицам или отдельным работникам, то выдайте копии локальных актов. Копирование документов, подлежащих выдаче, производится любым способом, который обеспечивает идентичность копий с подлинником. Выдачу копий локальных актов, оформите в специальном журнале.</p></div><p><a data-anchor="/document/16/211033/dfas3eahin/" data-dfa="dfas3eahin"></a><a data-anchor="/document/16/211033/bssPhr87/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882144" sourceId="1" fullSizeImageId="-41882143" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882144/"></p><p><a data-anchor="/document/16/211033/dfasynmmz1/" data-dfa="dfasynmmz1"></a><a data-anchor="/document/16/211033/bssPhr88/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

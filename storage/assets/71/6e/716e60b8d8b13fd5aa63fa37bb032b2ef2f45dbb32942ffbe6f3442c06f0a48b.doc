@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как правильно заполнить и зарегистрировать импортный контракт в ЕЭИСВО</h2><div class="doc-snippet"><a data-anchor="/document/16/204337/dfaspq9zet/" data-dfa="dfaspq9zet"></a><a data-anchor="/document/16/204337/bssPhr2/"></a>Из рекомендации Системы Главбух узнаете, какие контракты регистрировать в Единой электронной информационной системе внешнеторговых операций (ЕЭИСВО). Эксперты подготовили пошаговую инструкцию «Как зарегистрировать контракт в ЕЭИСВО». </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/204337/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/204337/bssPhr3/"></a><a data-anchor="/document/16/204337/dfasgasynv/" data-dfa="dfasgasynv"></a>Какие контракты регистрировать в ЕЭИСВО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/204337/bssPhr5/"></a><a data-anchor="/document/16/204337/dfas8rgxg4/" data-dfa="dfas8rgxg4"></a>Все импортные и экспортные контакты на товары и услуги вводите в Единую электронную информационную систему внешнеторговых операций (ЕЭИСВО) в онлайн режиме. Чтобы работать с ЕЭИСВО, <span num="1" lnktype="intlnk" title="Как получить электронную цифровую подпись (ЭЦП)" class="doc">получите электронно-цифровую подпись</span> (ЭЦП) в Центре госуслуг «Единое окно». Работать по таким контрактам можно после того, как система зарегистрирует контракт и присвоит ему идентификационный номер.</p><p><a data-anchor="/document/16/204337/bssPhr6/"></a><a data-anchor="/document/16/204337/dfas9qwnq0/" data-dfa="dfas9qwnq0"></a>В ЕЭИСВО можете не вводить контракты, которые составляют часть госсекретов, а также контракты на экспорт товаров стоимостью менее 3&nbsp;000 долл. США, реализованных посредством электронной коммерции (<span num="2" target="_self" lnktype="intlnk" title="31. Не подлежат вводу в Единую электронную информационную систему внешнеторговых операций внешнеторговые контракты, содержащие сведения о государственных секретах, а также экспорт товаров (работ, услуг) стоимостью до трех тысяч..." class="doc">п. 3-1</span> постановления Кабмина от 21.07.2014 г. <span num="3" target="_self" lnktype="intlnk" title="Постановление Кабинета Министров Республики Узбекистан О дополнительных мерах по совершенствованию мониторинга внешнеторговых операций в Республике Узбекистан" class="doc">№ 199</span>).</p><p><a data-anchor="/document/16/204337/bssPhr7/"></a><a data-anchor="/document/16/204337/dfasdphr7y/" data-dfa="dfasdphr7y"></a><a data-anchor="/document/16/204337/dfasaztryg/" data-dfa="dfasaztryg"></a><a data-anchor="/document/16/204337/dfastekz61/" data-dfa="dfastekz61"></a>Контракты, составляющие гостайну, регистрируют на бумажном носителе непосредственно в ответственных органах. Учитывайте, чтогосорганы и банки имеют доступ в ЕЭИСВО для мониторинга внешнеэкономической деятельности.</p></div><a data-anchor="/document/16/204337/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/204337/bssPhr8/"></a><a data-anchor="/document/16/204337/dfas6f5dml/" data-dfa="dfas6f5dml"></a><a data-anchor="/document/16/204337/dfasfgo7hc/" data-dfa="dfasfgo7hc"></a>Как зарегистрировать контракт в ЕЭИСВО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/204337/bssPhr10/"></a><a data-anchor="/document/16/204337/dfas8lzpug/" data-dfa="dfas8lzpug"></a>Чтобы успешно зарегистрировать контракт в Единой электронной информационной системе внешнеторговых операций (ЕЭИСВО) и работать по нему, подготовьте проект контракта, который отвечает законодательным требованиям к внешнеторговым контрактам. Так, в контракте укажите:</p><ul class="c-list"><li><a data-anchor="/document/16/204337/bssPhr11/"></a><a data-anchor="/document/16/204337/dfasecb0ry/" data-dfa="dfasecb0ry"></a>наименование сторон;</li><li>сумму и валюту контракта (может быть ориентировочной);</li><li>адреса сторон договора и их обслуживающих банков;</li><li>банковские реквизиты сторон;</li><li>подведомственность узбекской стороны контракта.</li></ul><p><a data-anchor="/document/16/204337/bssPhr12/"></a><a data-anchor="/document/16/204337/dfaspgtxsl/" data-dfa="dfaspgtxsl"></a><a data-anchor="/document/16/204337/dfas3srlyt/" data-dfa="dfas3srlyt"></a><a data-anchor="/document/16/204337/dfasomp1br/" data-dfa="dfasomp1br"></a><a data-anchor="/document/16/204337/dfasvr5o33/" data-dfa="dfasvr5o33"></a><a data-anchor="/document/16/204337/dfasc41ixf/" data-dfa="dfasc41ixf"></a><a data-anchor="/document/16/204337/dfasd3q5tt/" data-dfa="dfasd3q5tt"></a>Чтобы правильно зарегистрировать контракт в ЕЭИСВО, следуйте шагам:</p><img alt="" hideborder="false" class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/204337/bssPhr13/"></a><a data-anchor="/document/16/204337/dfas4g3sw0/" data-dfa="dfas4g3sw0"></a>Шаг 2. Проверьте контракт на корректное заполнение всех полей посредством интерактивной кнопки. Если вы что-то не ввели или ввели некорректно, система укажет вам на ошибки. Исправьте их.</p><img alt="" hideborder="false" class="inimg" num="3" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/204337/bssPhr14/"></a><a data-anchor="/document/16/204337/dfaseyvsyu/" data-dfa="dfaseyvsyu"></a>Шаг 3. Сохраните основную карточку контракта.</p><p><a data-anchor="/document/16/204337/bssPhr15/"></a><a data-anchor="/document/16/204337/dfas1lefhb/" data-dfa="dfas1lefhb"></a>Шаг 4. Заполните сведения о других документах контракта – дополнительных соглашениях к контракту и спецификации на товары и услуги, поставляемые по данному контракту.</p><img alt="" hideborder="false" class="inimg" num="4" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><img alt="" hideborder="false" class="inimg" num="5" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/204337/bssPhr16/"></a><a data-anchor="/document/16/204337/dfasgdlbkk/" data-dfa="dfasgdlbkk"></a>Шаг 5. Заполните поля: валюта, единица измерения, для каких нужд завозится товар (это может служить основанием для получения льгот на таможенную очистку), наименование грузоотправителя и грузополучателя (в спецификациях на товары).</p><img alt="" hideborder="false" class="inimg" num="6" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Поставщик услуг &#8211; резидент РФ, но оказывал услуги на территории Республики Узбекистан.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/204337/bssPhr18/"></a><a data-anchor="/document/16/204337/dfasmnf9bg/" data-dfa="dfasmnf9bg"></a>При оплате оказанных услуг в банк нужно предоставить сертификат, подтверждающий статус налогового резидента. Сертификат выдают налоговые органы РФ. В противном случае, до поставщика дойдет только 80% суммы, остальные 20% пойдут на оплату налога на прибыль у источника выплаты. Это предусмотрено в <span num="5" lnktype="intlnk" title="Соглашение об избежании двойного налогообложения" class="doc">Соглашении об избежание двойного налогообложения</span>, заключенного между двумя странами.</p></div></div><p><a data-anchor="/document/16/204337/bssPhr19/"></a><a data-anchor="/document/16/204337/dfaso2a7lf/" data-dfa="dfaso2a7lf"></a><a data-anchor="/document/16/204337/dfasbrer2b/" data-dfa="dfasbrer2b"></a>Шаг 7. Проверьте правильность внесения сведений о других документах контракта и сохраните.</p><img alt="" hideborder="false" class="inimg" num="7" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/204337/bssPhr20/"></a><a data-anchor="/document/16/204337/dfas9gdhvt/" data-dfa="dfas9gdhvt"></a>Шаг 8. Определите базис поставки, форму и сроки расчетов.</p><img alt="" hideborder="false" class="inimg" num="8" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/204337/bssPhr21/"></a><a data-anchor="/document/16/204337/dfast9ew01/" data-dfa="dfast9ew01"></a>Шаг 9. Внесите номер, дату и сумму акта выполненных работ (при регистрации контракта на поставку услуг).</p><img alt="" hideborder="false" class="inimg" num="9" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/204337/bssPhr22/"></a><a data-anchor="/document/16/204337/dfaskmcmtw/" data-dfa="dfaskmcmtw"></a>Шаг 10. Подпишите документ при помощи ЭЦП. Общую информацию о контракте, акт, спецификацию или дополнительное соглашение подписывайте отдельно и сохраняйте (раздел Сохранить на добавление / корректировку).</p><p><a data-anchor="/document/16/204337/bssPhr23/"></a><a data-anchor="/document/16/204337/dfasmpy9nh/" data-dfa="dfasmpy9nh"></a>Затем все файлы загрузите <a href="https://my.gov.uz/ru/gtk-foreign-trade-contracts/default/send-contract" target="_blank">на сайт</a> с использованием ЭЦП.</p><p><a data-anchor="/document/16/204337/bssPhr24/"></a><a data-anchor="/document/16/204337/dfas1tlcm0/" data-dfa="dfas1tlcm0"></a>Если регистрация контракта прошла успешно, система присваивает зарегистрированному контракту идентификационный номер (ИДН), состоящий из 27 цифр:</p><ul class="c-list"><li><a data-anchor="/document/16/204337/bssPhr25/"></a><a data-anchor="/document/16/204337/dfas0e5she/" data-dfa="dfas0e5she"></a>первые 9 цифр – ИНН банка, в котором регистрируется контракт;</li><li>следующие 9 цифр – ИНН самой организации экспортера / импортера;</li><li>следующие две цифры – цифры года, в котором заключен контракт;</li><li>следующие 2 цифры – определение вида контракта: экспортный контракт – 01, импортный – 02;</li><li>последние 5 цифр в этой цепочке – порядковый номер самого контракта.</li></ul><p><a data-anchor="/document/16/204337/bssPhr26/"></a><a data-anchor="/document/16/204337/dfas0u298x/" data-dfa="dfas0u298x"></a><a data-anchor="/document/16/204337/dfasg38v1d/" data-dfa="dfasg38v1d"></a>После присвоения ИДН вернитесь в ЕЭИСВО и запишите последние 5 цифр в графу ИДН.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

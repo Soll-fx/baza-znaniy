@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как составить договор комиссии</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206818/dfas7z34ex/" data-dfa="dfas7z34ex"></a><a data-anchor="/document/16/206818/bssPhr2/"></a>В&nbsp;рекомендации узнаете, как составить договор комиссии. Узнаете характерные особенности договора комиссии и&nbsp;как заполнять разделы документа по&nbsp;требованиям&nbsp;ГК. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206818/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206818/bssPhr3/"></a><a data-anchor="/document/16/206818/dfasw8m1x5/" data-dfa="dfasw8m1x5"></a><a data-anchor="/document/16/206818/dfas4tc23t/" data-dfa="dfas4tc23t"></a>Какие характерные особенности договора комиссии</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206818/bssPhr5/"></a><a data-anchor="/document/16/206818/dfaswyb01n/" data-dfa="dfaswyb01n"></a>Договор комиссии заключают, как с&nbsp;указанием конкретного срока, так и&nbsp;без его указания. Комиссионер должен отчитаться перед комитентом не&nbsp;только в&nbsp;совершении сделки, но&nbsp;и&nbsp;вручить ему деньги или имущество, а&nbsp;на&nbsp;это нужно время. Поэтому различают срок, в&nbsp;течение которого комиссионер совершает сделку, и&nbsp;срок действия договора комиссии.</p><p><a data-anchor="/document/16/206818/bssPhr6/"></a><a data-anchor="/document/16/206818/dfasc85hck/" data-dfa="dfasc85hck"></a>Предмет договора комиссии не имеет материальный формы и относится к категории посреднических договоров. По договору комиссии одна сторона — комиссионер обязуется по поручению другой стороны — комитенту за вознаграждение совершить одну или несколько сделок от своего имени, но за счет комитента. Так определяет договор комиссии <span num="33" lnktype="intlnk" title="Статья 832. Договор комиссии" class="doc">статья 832</span> ГК.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr9/"></a><a data-anchor="/document/16/206818/dfas3x4u11/" data-dfa="dfas3x4u11"></a><a data-anchor="/document/16/206818/dfas4o69vg/" data-dfa="dfas4o69vg"></a>По&nbsp;договору комиссии комиссионер действуют по&nbsp;поручению третьего лица. При этом все права, обязанности и&nbsp;ответственность при реализации договора возникают у&nbsp;комиссионера, а&nbsp;не&nbsp;у&nbsp;комитента. Кроме того, комиссионер вправе не&nbsp;открывать третьему лицу, что он&nbsp;действует в&nbsp;интересах комитента. Комиссия&nbsp;— это всегда возмездная услуга, то&nbsp;есть комитент всегда обязан оплатить услуги комиссионера.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206818/bssPhr10/"></a><a data-anchor="/document/16/206818/dfasxdxn62/" data-dfa="dfasxdxn62"></a>Договор комиссии будет незаконным в&nbsp;случае, если законодательство ограничивает право заключать договоры комиссии</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206818/bssPhr11/"></a><a data-anchor="/document/16/206818/dfaszqp8rq/" data-dfa="dfaszqp8rq"></a>Например, комиссионер не&nbsp;может представлять интересы лица, если он&nbsp;комиссионер другого лица. Такой запрет устанавливает <span num="26" target="_blank" lnktype="intlnk" title="" class="doc">пункт&nbsp;29</span>&nbsp;Положения о&nbsp;доверительных управляющих инвестиционными активами (прил. №&nbsp;3, утв. постановлением Кабмина от&nbsp;19.04.2003 <span num="27" target="_blank" lnktype="intlnk" title="" class="doc">№&nbsp;189</span>).</p></div><div class="incut-v4__icon"></div></div><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr12/"></a><a data-anchor="/document/16/206818/dfasrp19li/" data-dfa="dfasrp19li"></a>Договор комиссии заключают в&nbsp;письменной форме.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr13/"></a><a data-anchor="/document/16/206818/dfas93bcwq/" data-dfa="dfas93bcwq"></a>Договор комиссии можете заключать:</p><ul class="c-list"><li style="text-align:left"><annotation data-warm-notice-id="100000002" data-warm-notice-type="error"><a data-anchor="/document/16/206818/bssPhr14/"></a><a data-anchor="/document/16/206818/dfasowniwf/" data-dfa="dfasowniwf"></a>с&nbsp;указанием или без указания территории его исполнения; </annotation></li><li style="text-align:left"><annotation data-warm-notice-id="200000002" data-warm-notice-type="error"><a data-anchor="/document/16/206818/dfash64rb7/" data-dfa="dfash64rb7"></a>с&nbsp;обязательством комитента не&nbsp;представлять третьим лицам право совершать в&nbsp;его интересах и&nbsp;за&nbsp;его счет сделки, совершение которых поручено комиссионеру, или без такого обязательства; </annotation></li><li style="text-align:left"><annotation data-warm-notice-id="300000002" data-warm-notice-type="error"><a data-anchor="/document/16/206818/dfasu83wyq/" data-dfa="dfasu83wyq"></a>с&nbsp;условиями или без условий относительно ассортимента товаров, являющихся предметом комиссии.</annotation></li></ul></div><a data-anchor="/document/16/206818/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206818/bssPhr15/"></a><a data-anchor="/document/16/206818/dfasotlqen/" data-dfa="dfasotlqen"></a><a data-anchor="/document/16/206818/dfas8qiig5/" data-dfa="dfas8qiig5"></a>Какие минимальные требования к&nbsp;договору комиссии</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206818/bssPhr17/"></a><a data-anchor="/document/16/206818/dfasdd4p4u/" data-dfa="dfasdd4p4u"></a>Когда будете составлять текст договора комиссии или адаптировать для вашего случая шаблон такого договора, прежде всего, обеспечьте соответствие его текста требованиям и&nbsp;положениям <span num="7" lnktype="intlnk" title="Глава 48. Комиссия" class="doc">главы&nbsp;48</span>&nbsp;ГК.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr18/"></a><a data-anchor="/document/16/206818/dfas8yygao/" data-dfa="dfas8yygao"></a><a data-anchor="/document/16/206818/dfas7qu719/" data-dfa="dfas7qu719"></a><strong>Раздел «Предмет договора». </strong>Следует указать, будет&nbsp;ли совершать комиссионер одну или несколько сделок, будут&nbsp;ли они комплексными или нет, на&nbsp;какую территорию распространяется действие Договора.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/206818/bssPhr19/"></a><a data-anchor="/document/16/206818/dfaseubv7t/" data-dfa="dfaseubv7t"></a>Что такое комплексная сделка</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206818/bssPhr20/"></a><a data-anchor="/document/16/206818/dfasv8a01w/" data-dfa="dfasv8a01w"></a>Комитент по&nbsp;поручению комиссионера обязан предпринимать все необходимые действия и&nbsp;заключить все необходимые сделки, чтобы продать товар комитента в&nbsp;пределах города Ташкента и&nbsp;Ташкентской области в&nbsp;течение 6&nbsp;месяцев. Это означает, что комиссионер может заключить несколько сделок&nbsp;— например, нанять машину для перевозки товара, арендовать склад для его хранения и&nbsp;т.д.</p></div></div><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr21/"></a><a data-anchor="/document/16/206818/dfasoarxvy/" data-dfa="dfasoarxvy"></a>Комитент вправе нанять комиссионера и&nbsp;для конкретной сделки. Например, дать указание закупить товар у&nbsp;определенного продавца в&nbsp;определенном количестве и&nbsp;по&nbsp;определенной стоимости или аналогично продать определенный товар.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr22/"></a><a data-anchor="/document/16/206818/dfasr2spqz/" data-dfa="dfasr2spqz"></a>Таким образом, в&nbsp;предмете договора указывают:</p><ul class="c-list"><li style="text-align:left"><annotation data-warm-notice-id="400000002" data-warm-notice-type="error"><a data-anchor="/document/16/206818/bssPhr23/"></a><a data-anchor="/document/16/206818/dfastbhchv/" data-dfa="dfastbhchv"></a>наименование, ассортимент, количество, характеристики товара; </annotation></li><li style="text-align:left"><annotation data-warm-notice-id="500000002" data-warm-notice-type="error"><a data-anchor="/document/16/206818/dfaslfvcs6/" data-dfa="dfaslfvcs6"></a>минимальную и&nbsp;максимальную стоимость закупки/продажи.</annotation></li></ul><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr24/"></a><a data-anchor="/document/16/206818/dfaso15f79/" data-dfa="dfaso15f79"></a>Кроме этого, можно обязать комиссионера указывать при совершении сделки, что он&nbsp;является комиссионером и&nbsp;действует в&nbsp;его интересах.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr25/"></a><a data-anchor="/document/16/206818/dfas8uom5u/" data-dfa="dfas8uom5u"></a><strong>Раздел «Вознаграждение комиссионера». </strong>Следует указать размер вознаграждения комиссионеру.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr26/"></a><a data-anchor="/document/16/206818/dfasag0qay/" data-dfa="dfasag0qay"></a>Комитент обязан уплатить вознаграждение комиссионеру, а&nbsp;если комиссионер поручился за&nbsp;то, что третье лицо исполнит сделку (делькредере), также дополнительное вознаграждение, размер которого также устанавливают в&nbsp;договоре (<span num="8" lnktype="intlnk" title="Статья 833. Комиссионное вознаграждение" class="doc">ст.&nbsp;833</span>&nbsp;ГК). Если в&nbsp;договоре этот размер не&nbsp;предусмотрели и&nbsp;его нельзя определить, исходя из&nbsp;его условий договора, размер вознаграждения устанавливают в&nbsp;соответствии с&nbsp;аналогичными расценками на&nbsp;подобные услуги (<span num="9" lnktype="intlnk" title="Статья 356. Цена" class="doc">ст.&nbsp;356</span>&nbsp;ГК).</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr27/"></a><a data-anchor="/document/16/206818/dfas14wekm/" data-dfa="dfas14wekm"></a><a data-anchor="/document/16/206818/dfashlfty0/" data-dfa="dfashlfty0"></a>Более того, комиссионер вправе рассчитывать на&nbsp;вознаграждение в&nbsp;случае, если договор не&nbsp;будет исполнен по&nbsp;причинам, зависящим от&nbsp;комитента.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как указать форму вознаграждения в&#160;договоре комиссии?</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr29/"></a><a data-anchor="/document/16/206818/dfas49m2x7/" data-dfa="dfas49m2x7"></a>Стороны вправе указать вознаграждение в&nbsp;твердой/фиксированной сумме, хотя более распространенная форма&nbsp;— это процент от&nbsp;совершенных сделок.</p></div></div><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr30/"></a><a data-anchor="/document/16/206818/dfas9n87nk/" data-dfa="dfas9n87nk"></a>Дополнительно следует оговорить указание, по&nbsp;которому будет ясно, как действовать с&nbsp;полученной выгодой, в&nbsp;случае если комитент продаст или купит товар/услугу на&nbsp;более выгодных условиях, чем было оговорено в&nbsp;договоре. Эту сумму можно оставить комиссионеру, вернуть комитенту или разделить поровну&nbsp;— как договорятся стороны.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr31/"></a><a data-anchor="/document/16/206818/dfasb1irwp/" data-dfa="dfasb1irwp"></a>Комитент обязан, помимо уплаты комиссионного вознаграждения, а&nbsp;в&nbsp;соответствующих случаях и&nbsp;дополнительного вознаграждения за&nbsp;делькредере, возместить комиссионеру израсходованные им&nbsp;по&nbsp;исполнению комиссионного поручения суммы (<span num="10" lnktype="intlnk" title="Статья 842. Возмещение расходов по исполнению комиссионного поручения" class="doc">ст.&nbsp;842</span>&nbsp;ГК).</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr32/"></a><a data-anchor="/document/16/206818/dfasazkn5p/" data-dfa="dfasazkn5p"></a>Комиссионер не&nbsp;имеет права на&nbsp;возмещение расходов по&nbsp;хранению находящегося у&nbsp;него имущества комитента, если в&nbsp;законодательстве или договоре комиссии не&nbsp;установлено иное.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr33/"></a><a data-anchor="/document/16/206818/dfasaomh6v/" data-dfa="dfasaomh6v"></a><strong>Раздел «Порядок исполнения поручения или обязательства сторон». </strong>Комиссионер обязан выполнить все поручения комитента добросовестно и&nbsp;в&nbsp;полном объеме. Комиссионер обязан исполнить данное ему поручение лично, за&nbsp;исключением указанных в&nbsp;законодательстве случаев (<span num="11" lnktype="intlnk" title="Статья 822. Передоверие исполнения поручения" class="doc">ст.&nbsp;822</span>&nbsp;ГК).</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr34/"></a><a data-anchor="/document/16/206818/dfas2lglwc/" data-dfa="dfas2lglwc"></a>Кроме этого, комиссионер отвечает перед комитентом за&nbsp;всякое упущение, повлекшее утрату, недостачу или повреждение находящегося у&nbsp;него имущества комитента.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr35/"></a><a data-anchor="/document/16/206818/dfaspcnza8/" data-dfa="dfaspcnza8"></a>Если при приеме имущества, которого прислал комитент либо поступил к&nbsp;комиссионеру для комитента, комиссионер обнаружит повреждения или недостачу, которые можно заметить при наружном осмотре, или кто-то причинил ущерб имуществу комитента, находящемуся у&nbsp;комиссионера, комиссионер сделать все от&nbsp;него зависящее, чтобы защитить права комитента, собрать необходимые доказательства и&nbsp;обо всем без промедления известить комитента.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr36/"></a><a data-anchor="/document/16/206818/dfasgbu93e/" data-dfa="dfasgbu93e"></a>Если комиссионер не&nbsp;застраховал находящееся у&nbsp;него имущество комитента, то&nbsp;отвечает за&nbsp;это лишь в&nbsp;случаях, когда комитент предписал ему застраховать имущество за&nbsp;счет комитента либо его обязательство застраховать это имуществ предусмотрено в&nbsp;договоре комиссии или обычаями делового оборота.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr37/"></a><a data-anchor="/document/16/206818/dfasp4inn3/" data-dfa="dfasp4inn3"></a>Комиссионер обязан исполнить поручение комитента, а&nbsp;если в&nbsp;договоре комиссии таких указаний нет&nbsp;— в&nbsp;соответствии с&nbsp;обычаями делового оборота или иными обычно предъявляемыми требованиями, на&nbsp;наиболее выгодных для комитента условиях (<span num="12" lnktype="intlnk" title="Статья 834. Исполнение комиссионного поручения" class="doc">ст.&nbsp;834</span>&nbsp;ГК). Но&nbsp;рекомендуем все&nbsp;же детально прописать указания по&nbsp;исполнению поручения&nbsp;— допустимые договора, которые комиссионер может заключить и&nbsp;т.д.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr38/"></a><a data-anchor="/document/16/206818/dfas9ksl1z/" data-dfa="dfas9ksl1z"></a>При этом комиссионер, как правило, не&nbsp;вправе отклонять прямые указания комитента, конечно если они законны и&nbsp;обоснованы.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr39/"></a><a data-anchor="/document/16/206818/dfasnvrtg9/" data-dfa="dfasnvrtg9"></a>Исключение из&nbsp;этого правило содержит <span num="13" lnktype="intlnk" title="Статья 837. Отступление от указаний комитента" class="doc">статья&nbsp;837</span>&nbsp;ГК: комиссионер вправе отступить от&nbsp;указания комитента если по&nbsp;обстоятельствам дела это необходимо в&nbsp;интересах комитента и&nbsp;комиссионер не&nbsp;мог предварительно запросить комитента либо не&nbsp;получил в&nbsp;разумный срок ответа на&nbsp;свой запрос. В&nbsp;этом случае комиссионер обязан уведомить комитента о&nbsp;допущенных отступлениях, как только уведомление стало возможным. Кроме этого, комиссионер, если продаст имущество по&nbsp;цене ниже согласованной с&nbsp;комитентом, обязан возместить ему разницу, если не&nbsp;докажет, что у&nbsp;него не&nbsp;было возможности продать имущество по&nbsp;согласованной цене и&nbsp;продажа по&nbsp;более низкой цене предупредила еще большие убытки. Если комиссионер был обязан предварительно запросить комитента, комиссионер должен также доказать, что он&nbsp;не&nbsp;имел возможности предварительно получить согласие комитента на&nbsp;отступление от&nbsp;его указаний.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr40/"></a><a data-anchor="/document/16/206818/dfashmqgdg/" data-dfa="dfashmqgdg"></a>Если комиссионер купил имущество по&nbsp;цене выше согласованной с&nbsp;комитентом, комитент, если не&nbsp;желает принять такую покупку, обязан заявить об&nbsp;этом комиссионеру в&nbsp;разумный срок после получения от&nbsp;него извещения о&nbsp;заключении сделки с&nbsp;третьим лицом. В&nbsp;противном случае признают, что комитент принял покупку.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr41/"></a><a data-anchor="/document/16/206818/dfas7ni7r8/" data-dfa="dfas7ni7r8"></a>Если комиссионер сообщил, что принимает разницу в&nbsp;цене на&nbsp;свой счет, комитент не&nbsp;вправе отказаться заключать для него сделку.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr42/"></a><a data-anchor="/document/16/206818/dfasyuzw00/" data-dfa="dfasyuzw00"></a>Комиссионер не&nbsp;отвечает перед комитентом, если третье лицо не&nbsp;исполнит сделку, совершенную с&nbsp;ним за&nbsp;счет комитента. Исключение составляют случаи, когда комиссионер не&nbsp;проявил необходимой осмотрительности в&nbsp;выборе этого лица либо принял на&nbsp;себя ручательство за&nbsp;исполнение сделки (делькредере). В&nbsp;случае такого неисполнения, комиссионер обязан незамедлительно уведомить комитента об&nbsp;этом и&nbsp;по&nbsp;требованию комитента передать ему право требования долга (<span num="14" lnktype="intlnk" title="Статья 313. Основания и порядок перехода прав кредитора к другому лицу" class="doc">ст.&nbsp;313</span>-<span num="15" lnktype="intlnk" title="Статья 317. Возражения должника против требования нового кредитора" class="doc">317</span>, <span num="16" lnktype="intlnk" title="Статья 319. Условия уступки требования" class="doc">319</span>, <span num="17" lnktype="intlnk" title="Статья 320. Форма уступки требования" class="doc">320</span>&nbsp;ГК). При этом согласие третьего лица на&nbsp;такую переуступку права требования не&nbsp;нужно, но&nbsp;это и&nbsp;не&nbsp;освобождает комиссионера от&nbsp;ответственности за&nbsp;такую переуступку.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr43/"></a><a data-anchor="/document/16/206818/dfaswzs35r/" data-dfa="dfaswzs35r"></a>Комиссионер вправе перепоручить исполнение комиссионного поручения субкомиссионеру, если иное не&nbsp;предусмотрено в&nbsp;договоре или нет законодательного запрета. Поэтому, если для комитента важно, чтобы поручение выполнил непосредственно сам комиссионер, то&nbsp;лучше сразу ограничить право субкомиссии в&nbsp;договоре.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr44/"></a><a data-anchor="/document/16/206818/dfasthmgou/" data-dfa="dfasthmgou"></a>Если для комитента вопрос субкомиссии непринципиален и&nbsp;в&nbsp;договор не&nbsp;внесли условие о&nbsp;запрете комиссионеру передавать свои права и&nbsp;обязанности субкомиссионеру, то&nbsp;комиссионер может нанять субкомиссионера и&nbsp;принять перед ним все права и&nbsp;обязанности комитента. При этом комитент вправе связываться с&nbsp;субкомиссионером напрямую только с&nbsp;согласия комиссионера, если иное не&nbsp;оговорили в&nbsp;договоре. Так указано в <span num="18" lnktype="intlnk" title="Статья 835. Субкомиссия" class="doc">статье&nbsp;835</span>&nbsp;ГК.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr45/"></a><a data-anchor="/document/16/206818/dfas7ysl65/" data-dfa="dfas7ysl65"></a>Кроме этого, нужно указать в&nbsp;договоре обязательство комиссионера отчитываться о&nbsp;своих действиях и&nbsp;о&nbsp;том, в&nbsp;какой форме и&nbsp;как часто он&nbsp;будет представлять отчет комитенту.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr46/"></a><a data-anchor="/document/16/206818/dfasrgrwn1/" data-dfa="dfasrgrwn1"></a>Комитент, в&nbsp;свою очередь, обязан:</p><ul class="c-list"><li style="text-align:left"><annotation data-warm-notice-id="600000002" data-warm-notice-type="error"><a data-anchor="/document/16/206818/bssPhr47/"></a><a data-anchor="/document/16/206818/dfassk1sva/" data-dfa="dfassk1sva"></a>принять от&nbsp;комиссионера все исполненное по&nbsp;договору комиссии;</annotation></li><li style="text-align:left"><annotation data-warm-notice-id="700000002" data-warm-notice-type="error"><a data-anchor="/document/16/206818/dfasad1qg0/" data-dfa="dfasad1qg0"></a>осмотреть имущество, которое комиссионер купил для него, и&nbsp;известить его без промедления об&nbsp;обнаруженных в&nbsp;этом имуществе недостатках;</annotation></li><li style="text-align:left"><annotation data-warm-notice-id="800000002" data-warm-notice-type="error"><a data-anchor="/document/16/206818/dfas4ge1o5/" data-dfa="dfas4ge1o5"></a>освободить комиссионера от&nbsp;обязательств, принятых им&nbsp;на&nbsp;себя перед третьим лицом по&nbsp;исполнению комиссионного поручения.</annotation></li></ul><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr48/"></a><a data-anchor="/document/16/206818/dfas2dx909/" data-dfa="dfas2dx909"></a><strong>Раздел «Условия оплаты». </strong>В&nbsp;этом разделе описывают процесс выплаты вознаграждения, как будут осуществляться расчеты с&nbsp;контрагентами.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr49/"></a><a data-anchor="/document/16/206818/dfasbrbipb/" data-dfa="dfasbrbipb"></a>В&nbsp;договоре рекомендуют указать порядок расчета с&nbsp;третьим лицом за&nbsp;приобретенный/реализованный товар/услугу: кто будет оплачивать&nbsp;— комиссионер или комитент напрямую?</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr50/"></a><a data-anchor="/document/16/206818/dfasqg9dmn/" data-dfa="dfasqg9dmn"></a>Например, в&nbsp;случае когда комиссионное поручение связано с&nbsp;реализацией товара или услуги комиссионер вправе получать от&nbsp;контрагента всю сумму за&nbsp;товар или услугу и&nbsp;направлять ее&nbsp;полностью комитенту или направить комитенту сумму за&nbsp;вычетом своего вознаграждения.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr51/"></a><a data-anchor="/document/16/206818/dfashgq9q0/" data-dfa="dfashgq9q0"></a>Контрагент также вправе направить деньги напрямую комитенту и&nbsp;комитент сам выплатит вознаграждение комиссионеру, либо направить отдельно сумму комитенту и&nbsp;отдельно вознаграждению комиссионеру.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr52/"></a><a data-anchor="/document/16/206818/dfasrn115y/" data-dfa="dfasrn115y"></a>Если заключен договор комиссии на&nbsp;приобретение товара, в&nbsp;аналогичном порядке комиссионер либо комитент могут оплатить напрямую по&nbsp;заключенным комиссионером договорам.</p><p style="text-align:left"><a data-anchor="/document/16/206818/bssPhr53/"></a><a data-anchor="/document/16/206818/dfasxqm9sh/" data-dfa="dfasxqm9sh"></a>Также ГК устанавливает условия, при которых, стороны могут отказаться от исполнения поручений (<span num="19" lnktype="intlnk" title="Статья 844. Отказ комиссионера от исполнения поручения" class="doc">ст.&nbsp;844</span> ГК), и условия отмены самих поручений (<span num="20" lnktype="intlnk" title="Статья 843. Отмена комиссионного поручения комитентом" class="doc">ст.&nbsp;843</span> ГК) и т.д. Стороны вправе согласовать иной порядок, но его нужно зафиксировать в самом договоре. Также следует указать и стандартные условия многих видов договоров – условия о урегулировании споров, подсудности, <span num="21" lnktype="intlnk" title="Как правильно оформить договор. Разделы «Порядок разрешения споров», «Ответственность сторон», «Форс-мажор» и «Заключительные положения»" class="doc">форс-мажоре</span>.</p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отражать инвестиционную недвижимость в финансовой отчетности по МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206607/dfasiyfg6f/" data-dfa="dfasiyfg6f"></a><a data-anchor="/document/16/206607/bssPhr2/"></a>В рекомендации найдете ответы на вопросы: что такое инвестиционная недвижимость и как признать недвижимость инвестиционной, как отражать инвестиционную недвижимость в финансовой отчетности по МСФО и когда объекты инвестиционной недвижимости подлежат выбытию. Эксперты пояснили, как отразить в бухучете продажу объекта инвестиционной недвижимости и какие активы не попадают под действие МСФО (IAS) 40. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206607/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206607/bssPhr3/"></a><a data-anchor="/document/16/206607/dfaslgcz8f/" data-dfa="dfaslgcz8f"></a>Инвестиционная недвижимость</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr5/"></a><a data-anchor="/document/16/206607/dfaskli4ab/" data-dfa="dfaskli4ab"></a>Инвестиционная недвижимость – это имущество компании – земельные участки, здания, часть здания, земля и здание, находящееся в распоряжении собственника, то есть компании, или арендатора по договору финансовой аренды с целью получения арендных платежей, доходов от прироста стоимости капитала или того и другого, но не для использования в ходе обычной деятельности компании: производства или поставок продукции, товаров, услуг, для административных целей. Такой актив не предполагается продавать в ходе обычной финансово-хозяйственной деятельности компании.</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr6/"></a><a data-anchor="/document/16/206607/dfas46w1mi/" data-dfa="dfas46w1mi"></a>Объект инвестиционной недвижимости должны использовать только для извлечения инвестиционных доходов в виде:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr7/"></a><a data-anchor="/document/16/206607/dfasbgv4nw/" data-dfa="dfasbgv4nw"></a>арендных платежей;</li><li style="text-align:left">рыночного прироста стоимости такого объекта.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr8/"></a><a data-anchor="/document/16/206607/dfasr38i3y/" data-dfa="dfasr38i3y"></a>Например:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr9/"></a><a data-anchor="/document/16/206607/dfasib2ym4/" data-dfa="dfasib2ym4"></a>земельный участок, стоимость которого предположительно вырастет в будущем, и собственник не имеет цели его перепродавать;</li><li style="text-align:left">здание компании, которое собственник сдает в операционную аренду;</li><li style="text-align:left">здание, которое компания арендовала по договору финансовой аренды и сдает его другой компании в операционную аренду;</li><li style="text-align:left">здание компании, которое в настоящее время пустует и было куплено для того, чтобы в дальнейшем его сдать в операционную аренду.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr10/"></a><a data-anchor="/document/16/206607/dfasuv9uul/" data-dfa="dfasuv9uul"></a>МСФО выделяют инвестиции денежных средств в недвижимость как отдельный вид активов, который называется инвестиционная собственность или инвестиционная недвижимость.</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr11/"></a><a data-anchor="/document/16/206607/dfasr3bugh/" data-dfa="dfasr3bugh"></a>МСФО также выделяют в отдельную категорию недвижимость, которую занимает компания-владелец. Таким имуществом владелец или арендатор распоряжается по договору финансовой аренды и использует для производства продукции или поставки товаров, работ, услуг, в административных целях и т.д. Отражение такого вида имущества в финансовой отчетности не попадает под действие МСФО (IAS) 40 «Инвестиционная недвижимость».</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr12/"></a><a data-anchor="/document/16/206607/dfasrgtupl/" data-dfa="dfasrgtupl"></a>Таким образом, разделяют денежные потоки, которые генерируются:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr13/"></a><a data-anchor="/document/16/206607/dfasxxlz2f/" data-dfa="dfasxxlz2f"></a>инвестиционной недвижимостью и не связаны с другими активами компании;</li><li style="text-align:left">операционной деятельностью компании, относятся к объектам недвижимости и другим активам компании, которые используются при ведении бизнеса компании.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206607/bssPhr14/"></a><a data-anchor="/document/16/206607/dfas475rp3/" data-dfa="dfas475rp3"></a>В отчете о движении денежных средств компания должна раскрывать отдельно информацию о денежных средствах, связанных с приобретением и реализацией объектов инвестиционной недвижимости,</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/206607/bssPhr15/"></a><a data-anchor="/document/16/206607/dfasre7cu3/" data-dfa="dfasre7cu3"></a>которые в дальнейшем включать в состав денежных средств от всей инвестиционной деятельности компании.</p></div><div class="incut-v4__icon"></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr17/"></a><a data-anchor="/document/16/206607/dfasr80knb/" data-dfa="dfasr80knb"></a>Объект недвижимости можно признать в качестве объекта инвестиционной недвижимости, если:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr18/"></a><a data-anchor="/document/16/206607/dfas5ig8dy/" data-dfa="dfas5ig8dy"></a>есть вероятность поступления в компанию будущих экономических выгод от таких объектов;</li><li style="text-align:left">стоимость данных объектов инвестиционной недвижимости можно надежно оценить.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr19/"></a><a data-anchor="/document/16/206607/dfas4lg0cg/" data-dfa="dfas4lg0cg"></a>МСФО также предполагают, что компания может дополнительно разработать определенные критерии отнесения объектов к инвестиционной недвижимости, которые должны быть раскрыты в отчетности в том случае, когда трудно классифицировать объект недвижимости как инвестиционную недвижимость.</p></div><a data-anchor="/document/16/206607/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206607/bssPhr20/"></a><a data-anchor="/document/16/206607/dfasdwbaqg/" data-dfa="dfasdwbaqg"></a>Порядок отражения инвестиционной недвижимости в финансовой отчетности</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr22/"></a><a data-anchor="/document/16/206607/dfaswy99g0/" data-dfa="dfaswy99g0"></a>Порядок отражения инвестиционной недвижимости в финансовой отчетности регулирует МСФО (IAS) 40 «Инвестиционная недвижимость».</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr23/"></a><a data-anchor="/document/16/206607/dfas363z84/" data-dfa="dfas363z84"></a>На практике часто бывает, что компания, владея основным средством, часть такого объекта сдает в аренду и получает арендную плату, а часть использует в своей операционной деятельности или для административных целей. В таком случае, если две части объекта:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr24/"></a><a data-anchor="/document/16/206607/dfasowxu6i/" data-dfa="dfasowxu6i"></a>могут быть проданы или сданы в финансовую аренду независимо друг от друга, то их нужно отражать в финансовой отчетности компании раздельно;</li><li style="text-align:left">не могут быть проданы или сданы в финансовую аренду по отдельности, то такой объект в целом можно отражать как объект инвестиционной недвижимости, когда для операционной деятельности или административных целей компания-владелец использует незначительную часть объекта.</li></ul></div><a data-anchor="/document/16/206607/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206607/bssPhr25/"></a><a data-anchor="/document/16/206607/dfas70rvkn/" data-dfa="dfas70rvkn"></a>Выбытие объектов инвестиционной недвижимости</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr27/"></a><a data-anchor="/document/16/206607/dfas147eoa/" data-dfa="dfas147eoa"></a>Когда компания принимает решение больше не использовать объект инвестиционной недвижимости для получения дохода, она его списывает с баланса. При этом, объекты инвестиционной недвижимости могут выбывать по причине:</p><ol class="c-list"><li><a data-anchor="/document/16/206607/bssPhr28/"></a><a data-anchor="/document/16/206607/dfasomlpze/" data-dfa="dfasomlpze"></a>продажи;</li><li><a data-anchor="/document/16/206607/bssPhr29/"></a><a data-anchor="/document/16/206607/dfasv6y7ow/" data-dfa="dfasv6y7ow"></a>передачи объекта другой компании в финансовую аренду.</li></ol><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr30/"></a><a data-anchor="/document/16/206607/dfasxu1ule/" data-dfa="dfasxu1ule"></a>Дату выбытия объекта инвестиционной недвижимости определяют в соответствии с требованиями МСФО (IFRS) 15 «Выручка по договорам с покупателями». Порядок отражения выбытия объекта инвестиционной недвижимости при передаче его в финансовую аренду регулирует МСФО (IFRS) 16 «Аренда».</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206607/bssPhr31/"></a><a data-anchor="/document/16/206607/dfas375mzr/" data-dfa="dfas375mzr"></a>Прибыль или убыток от выбытия объекта инвестиционной недвижимости отражайте в Отчете о прибылях и убытках в периоде выбытия такого объекта.</p><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/206607/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206607/bssPhr33/"></a><a data-anchor="/document/16/206607/dfasx55p3g/" data-dfa="dfasx55p3g"></a>Продажа объекта инвестиционной недвижимости</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr35/"></a><a data-anchor="/document/16/206607/dfasket15a/" data-dfa="dfasket15a"></a>При продаже объекта инвестиционной недвижимости финансовый результат компании будет равен разнице между чистой стоимостью продажи и балансовой стоимостью на дату продажи.</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr36/"></a><a data-anchor="/document/16/206607/dfasfyna02/" data-dfa="dfasfyna02"></a>Если чистая стоимость реализации будет выше балансовой стоимости делайте проводку:</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr37/"></a><a data-anchor="/document/16/206607/dfasq62iug/" data-dfa="dfasq62iug"></a><strong>Дебет счета «Денежные средства»;</strong></p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr38/"></a><a data-anchor="/document/16/206607/dfasl1r0c2/" data-dfa="dfasl1r0c2"></a><strong>Кредит счета «Инвестиционная недвижимость» </strong> (сумму указывайте по балансовой стоимости);</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr39/"></a><a data-anchor="/document/16/206607/dfas7pqeit/" data-dfa="dfas7pqeit"></a><strong>Кредит счета «Доход от реализации инвестиционной недвижимости» </strong> (указывайте сумму чистых поступлений денег от продажи).</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr40/"></a><a data-anchor="/document/16/206607/dfas39iqb8/" data-dfa="dfas39iqb8"></a>Если балансовая стоимость будет выше чистой стоимости реализации, делайте следующую проводку:</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr41/"></a><a data-anchor="/document/16/206607/dfasgdhxnw/" data-dfa="dfasgdhxnw"></a><strong>Дебет счета «Денежные средства» </strong> (указывайте сумму чистых поступлений денег от продажи);</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr42/"></a><a data-anchor="/document/16/206607/dfas0dfye3/" data-dfa="dfas0dfye3"></a><strong>Дебет счета «Убыток от реализации инвестиционной недвижимости»;</strong></p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr43/"></a><a data-anchor="/document/16/206607/dfasmc5wgp/" data-dfa="dfasmc5wgp"></a><strong>Кредит счета </strong><strong>«Инвестиционная недвижимость» </strong> (указывайте балансовую стоимость).</p></div><a data-anchor="/document/16/206607/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206607/bssPhr44/"></a><a data-anchor="/document/16/206607/dfasmlwqpt/" data-dfa="dfasmlwqpt"></a>Примечания к финансовой отчетности</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr46/"></a><a data-anchor="/document/16/206607/dfasqmy1o6/" data-dfa="dfasqmy1o6"></a>В примечаниях к финансовой отчетности необходимо привести:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr47/"></a><a data-anchor="/document/16/206607/dfasqmvm0e/" data-dfa="dfasqmvm0e"></a>описание объектов инвестиционной недвижимости;</li><li style="text-align:left">описание ситуации, при которой невозможно определить справедливую стоимость объекта инвестиционной недвижимости;</li><li style="text-align:left">модель учета объектов инвестиционной недвижимости, которую использует компания;</li><li style="text-align:left">критерии, которые компания разработала для отнесения объекта к объекту инвестиционной недвижимости;</li><li style="text-align:left">методы расчета справедливой стоимости объекта;</li><li style="text-align:left">существенные допущения при расчете справедливой стоимости объекта;</li><li style="text-align:left">основу для расчета справедливой стоимости;</li><li style="text-align:left">суммы, отраженные по объектам инвестиционной недвижимости в отчете о прибылях и убытках.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr48/"></a><a data-anchor="/document/16/206607/dfas8snpeq/" data-dfa="dfas8snpeq"></a>Обязательно укажите, оценивал ли справедливую стоимость объекта независимый профессиональный оценщик, который обладает необходимой квалификацией и опытом оценки аналогичных объектов инвестиционной недвижимости на той же территории, на которой расположен объект компании. Если такой эксперт оценку не проводил, это также укажите.</p><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr49/"></a><a data-anchor="/document/16/206607/dfasu5l4oh/" data-dfa="dfasu5l4oh"></a>Если компания использует модель оценки объектов инвестиционной недвижимости по справедливой стоимости, также необходимо раскрыть данные сверки значений балансовой стоимости на начало и конец отчетного периода и указать прирост стоимости инвестиционной недвижимости:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr50/"></a><a data-anchor="/document/16/206607/dfas4fvta6/" data-dfa="dfas4fvta6"></a>в связи с приобретением объектов при объединении компаний;</li><li style="text-align:left">ввиду покупки новых объектов и капитализацией расходов.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr51/"></a><a data-anchor="/document/16/206607/dfasmwpn7l/" data-dfa="dfasmwpn7l"></a>Также раскройте информацию:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr52/"></a><a data-anchor="/document/16/206607/dfasa1i5xy/" data-dfa="dfasa1i5xy"></a>о выбытии объектов инвестиционной недвижимости;</li><li style="text-align:left">пере-классификации объектов инвестиционной недвижимости;</li><li style="text-align:left">размере прибыли или убытка от корректировки справедливой стоимости;</li><li style="text-align:left">чистых курсовых разницах ввиду пересчета финансовой отчетности в другую валюту представления;</li><li style="text-align:left">чистых курсовых разницах ввиду пересчета финансовой отчетности зарубежной деятельности в валюту представления материнской компании;</li><li style="text-align:left">других произошедших изменениях.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr53/"></a><a data-anchor="/document/16/206607/dfas2bg0zt/" data-dfa="dfas2bg0zt"></a>Если компания использует модель оценки объектов инвестиционной недвижимости по первоначальной стоимости, то необходимо раскрыть информацию:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr54/"></a><a data-anchor="/document/16/206607/dfastzzky8/" data-dfa="dfastzzky8"></a>о сроках полезного использования таких объектов;</li><li style="text-align:left">нормах амортизации таких объектов;</li><li style="text-align:left">методах начисления амортизации по таким объектам;</li><li style="text-align:left">совокупной балансовой стоимости объектов;</li><li style="text-align:left">совокупной накопленной амортизации на начало и конец отчетного периода;</li><li style="text-align:left">об убытках от обесценения на начало и конец отчетного периода.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr55/"></a><a data-anchor="/document/16/206607/dfasuge11i/" data-dfa="dfasuge11i"></a>Приведите результаты сверки балансовой стоимости объектов инвестиционной недвижимости на начало и конец отчетного периода с дополнительной информацией:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr56/"></a><a data-anchor="/document/16/206607/dfas0ngv28/" data-dfa="dfas0ngv28"></a>о приросте стоимости инвестиционной недвижимости ввиду приобретения объектов и капитализации последующих расходов;</li><li style="text-align:left">выбытии объектов инвестиционной недвижимости;</li><li style="text-align:left">сумме накопленной амортизации;</li><li style="text-align:left">сумме убытков от обесценения в течение периода;</li><li style="text-align:left">чистых курсовых разницах от пересчета показателей финансовой отчетности в другую валюту представления;</li><li style="text-align:left">чистых курсовых разницах от пересчета финансовой отчетности зарубежной деятельности в валюту представления отчетности материнской компании;</li><li style="text-align:left">пере-классификации объектов инвестиционной недвижимости;</li><li style="text-align:left">справедливой стоимости инвестиционной недвижимости.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr57/"></a><a data-anchor="/document/16/206607/dfas8mgfp1/" data-dfa="dfas8mgfp1"></a>Если компания не может рассчитать справедливую стоимость необходимо:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr58/"></a><a data-anchor="/document/16/206607/dfas6azxig/" data-dfa="dfas6azxig"></a>описать объекты инвестиционной недвижимости;</li><li style="text-align:left">указать причины невозможности оценить справедливую стоимость объектов;</li><li style="text-align:left">указать границы суммы справедливой стоимости таких объектов;</li><li style="text-align:left">описать другие изменения, произошедшие с такими объектами.</li></ul></div><a data-anchor="/document/16/206607/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/206607/bssPhr59/"></a><a data-anchor="/document/16/206607/dfasxd21ty/" data-dfa="dfasxd21ty"></a>Активы, которые не попадают под действие МСФО (IAS) 40 «Инвестиционная недвижимость»</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr61/"></a><a data-anchor="/document/16/206607/dfasdczw8h/" data-dfa="dfasdczw8h"></a>Не попадают под действие МСФО (IAS) 40 «Инвестиционная недвижимость» объекты недвижимости, которые:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr62/"></a><a data-anchor="/document/16/206607/dfasx3gpyr/" data-dfa="dfasx3gpyr"></a>находятся на стадии сооружения или реконструкции по поручению третьих лиц;</li><li style="text-align:left">компания предполагает продать при ведении своей операционной деятельности;</li><li style="text-align:left">находятся на стадии строительства или возведения с целью их дальнейшей продажи в ходе операционной деятельности компании;</li><li style="text-align:left">занимает сама компания-владелец;</li><li style="text-align:left">планируется реконструировать и использовать для собственных нужд в ходе ведения операционной деятельности;</li><li style="text-align:left">занимают сотрудники компании или сама компания-владелец и в дальнейшем планируется выбытие этих объектов, продажа, списание;</li><li style="text-align:left">сданы другой компании на условиях финансовой аренды;</li><li style="text-align:left">находятся сейчас в стадии строительства, реконструкции, а в дальнейшем компания планирует использовать их как инвестиционную недвижимость, только до момента завершения строительства или реконструкции.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr63/"></a><a data-anchor="/document/16/206607/dfas66gloc/" data-dfa="dfas66gloc"></a>Также под действие МСФО (IAS) 40 «Инвестиционная недвижимость» не попадают:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206607/bssPhr64/"></a><a data-anchor="/document/16/206607/dfasvqaeb0/" data-dfa="dfasvqaeb0"></a>биологические активы (сельское хозяйство);</li><li style="text-align:left">права на природные полезные ископаемые.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206607/bssPhr65/"></a><a data-anchor="/document/16/206607/dfasb3nmas/" data-dfa="dfasb3nmas"></a>Учет таких активов регулируют другие стандарты МСФО.</p></div><p><a data-anchor="/document/16/206607/dfas9dg9gf/" data-dfa="dfas9dg9gf"></a><a data-anchor="/document/16/206607/bssPhr66/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

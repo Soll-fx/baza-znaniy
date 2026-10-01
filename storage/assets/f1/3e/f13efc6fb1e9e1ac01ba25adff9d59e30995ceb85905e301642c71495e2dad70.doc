@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отразить в бухгалтерском и налоговом учете поступление товара безвозмездно</h2><div class="doc-snippet"><a data-anchor="/document/16/211014/dfassrq57e/" data-dfa="dfassrq57e"></a><a data-anchor="/document/16/211014/bssPhr2/"></a>. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211014/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211014/bssPhr3/"></a><a data-anchor="/document/16/211014/dfas9fwtpk/" data-dfa="dfas9fwtpk"></a>Бухучет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211014/bssPhr5/"></a><a data-anchor="/document/16/211014/dfaso5t6sy/" data-dfa="dfaso5t6sy"></a>Безвозмездное поступление товаров оформляйте на основании договора дарения. Счет – фактуру при безвозмездной передаче товаров оформляет передающая сторона в электронном виде и в порядке, определенном <span num="62" target="_self" lnktype="intlnk" title="" class="doc">Положением</span> «О формах счетов-фактур и порядке их заполнения, представления и приема», приложение № 2 к ПКМ № 489 от 14.08.2020 г.</p><p><a data-anchor="/document/16/211014/bssPhr6/"></a><a data-anchor="/document/16/211014/dfaslgx49d/" data-dfa="dfaslgx49d"></a>При этом:</p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr7/"></a><a data-anchor="/document/16/211014/dfasymyzeg/" data-dfa="dfasymyzeg"></a>если передающая сторона плательщик НДС, то в соответствующих графах счета-фактуры она указывает ставку и сумму НДС;</li><li>если передающая сторона неплательщики НДС, а также освобождена от НДС, то она делает надпись «Без НДС»;</li><li>в итоговой строке счета-фактуры передающая сторона делать надпись «Без оплаты».</li></ul><p><a data-anchor="/document/16/211014/bssPhr8/"></a><a data-anchor="/document/16/211014/dfas2pn7np/" data-dfa="dfas2pn7np"></a>Получающая сторона не регистрирует счет-фактуру в Реестре покупок.</p><p><a data-anchor="/document/16/211014/bssPhr9/"></a><a data-anchor="/document/16/211014/dfasvc770q/" data-dfa="dfasvc770q"></a>На безвозмездно полученное имущество также предусмотрено оформление одностороннего ЭСФ (<span num="63" target="_self" lnktype="intlnk" title="" class="doc">ПКМ № 471</span> от 22.08.2022г., <span num="64" target="_self" lnktype="intlnk" title="" class="doc">п. 59-1</span> Положения, приложение № 2 к ПКМ № 489 от 14.08.2020г.).</p><p><a data-anchor="/document/16/211014/bssPhr10/"></a><a data-anchor="/document/16/211014/dfasfnzby4/" data-dfa="dfasfnzby4"></a>При безвозмездном поступлении товаров их стоимость для отражения в бухучете определяйте на основании текущей стоимости. Текущая стоимость – это стоимость товаров по действующим рыночным ценам на дату принятия их к учету, то есть сумма денег, которая может быть получена от их продажи.</p><p><a data-anchor="/document/16/211014/bssPhr13/"></a><a data-anchor="/document/16/211014/dfasfyy73k/" data-dfa="dfasfyy73k"></a>Чтобы установить рыночную цену, ориентируйтесь на уровень цен, сложившийся на день получения товара. Сведения об уровне текущих рыночных цен должны быть подтверждены документально или путем проведения экспертизы.</p><p><a data-anchor="/document/16/211014/bssPhr14/"></a><a data-anchor="/document/16/211014/dfasdeb3vg/" data-dfa="dfasdeb3vg"></a>Это следует из <span num="30" target="_self" lnktype="intlnk" title='52. Для документального подтверждения текущей стоимости единицы товарно-материальных запасов, по усмотрению организации, могут быть использованы:&#xA;&#xA;Приказ, НСБУ Минфина РУз от 15.06.2006 № 3259&#xA;Об утверждении национального стандарта бухгалтерского учета Республики Узбекистан (НСБУ № 4) «Товарно-материальные запасы»&#xA;© Материал из ЭС &#34;ACTION: Главбух&#34;.&#xA;' class="doc">пункта 52</span> НСБУ № 4.</p><p><a data-anchor="/document/16/211014/bssPhr15/"></a><a data-anchor="/document/16/211014/dfasqzrl02/" data-dfa="dfasqzrl02"></a>В бухучете безвозмездное поступление товаров отразите проводкой:</p><p><a data-anchor="/document/16/211014/bssPhr16/"></a><a data-anchor="/document/16/211014/dfasflnwna/" data-dfa="dfasflnwna"></a><strong>Дебет 2900 Кредит 8530</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr17/"></a><a data-anchor="/document/16/211014/dfas3ggdxz/" data-dfa="dfas3ggdxz"></a>учтены товары, поступившие безвозмездно.</li></ul><p><a data-anchor="/document/16/211014/bssPhr18/"></a><a data-anchor="/document/16/211014/dfas9s68ms/" data-dfa="dfas9s68ms"></a>Такой порядок следует из <span num="94" target="_self" lnktype="intlnk" title="" class="doc">пункта 357</span> НСБУ № 21.</p><p><a data-anchor="/document/16/211014/bssPhr19/"></a><a data-anchor="/document/16/211014/dfassgi18u/" data-dfa="dfassgi18u"></a>Стоимость безвозмездно полученного имущества включается в резервный капитал. Она является источником формирования имущества организации (<span num="9" target="_self" lnktype="intlnk" title="Учет собственного капитала" class="doc">ст. 19</span> Закона о бухучете).</p><p><a data-anchor="/document/16/211014/bssPhr20/"></a><a data-anchor="/document/16/211014/dfaspu3q3u/" data-dfa="dfaspu3q3u"></a>Безвозмездно полученные товары увеличивают собственный капитал предприятия. Но при последующей реализации таких товаров, средства со счета <strong>8530 «Безвозмездно полученное имущество» </strong> не списывайте.</p><p><a data-anchor="/document/16/211014/bssPhr21/"></a><a data-anchor="/document/16/211014/dfascw4n9n/" data-dfa="dfascw4n9n"></a>Средства со счета <strong>8530 </strong> можно списать только при ликвидации предприятия. В этом случае сальдо по счету <strong>8530 </strong> подлежит распределению между участниками пропорционально их доле в уставном капитале организации.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211014/dfasruhr8w/" data-dfa="dfasruhr8w"></a><a data-anchor="/document/16/211014/bssPhr22/"></a>Как отразить в бухучете операции, связанные с безвозмездным поступлением товаров и их реализацией</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211014/bssPhr23/"></a><a data-anchor="/document/16/211014/dfassle52f/" data-dfa="dfassle52f"></a>В марте ООО «Альфа» безвозмездно получило товары, рыночная стоимость которых составляет 10 000 000 сумов. В апреле часть товаров стоимостью 6 000 000 сумов была продана за 7 840 000 сумов, в том числе НДС – 740 000 сумов. Оставшаяся часть товаров, стоимостью 4 000 000 сумов была продана в мае за 5 600 000 сумов, в том числе НДС – 600 000 сумов. «Альфа» учитывает товары на счете <strong>2910 </strong>по фактической себестоимости.</p><p><a data-anchor="/document/16/211014/bssPhr24/"></a><a data-anchor="/document/16/211014/dfas9ipc1i/" data-dfa="dfas9ipc1i"></a>Бухгалтер «Альфы» сделал в учете такие проводки.</p><p><a data-anchor="/document/16/211014/bssPhr25/"></a><a data-anchor="/document/16/211014/dfastofye5/" data-dfa="dfastofye5"></a>Март:<br><strong>Дебет 2910 Кредит 8530</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr26/"></a><a data-anchor="/document/16/211014/dfas8q1g31/" data-dfa="dfas8q1g31"></a>10 000 000 сумов – отражено поступление товаров по рыночной стоимости.</li></ul><p><a data-anchor="/document/16/211014/bssPhr27/"></a><a data-anchor="/document/16/211014/dfas7twbna/" data-dfa="dfas7twbna"></a>Апрель:<br><strong>Дебет 9120 Кредит 2910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr28/"></a><a data-anchor="/document/16/211014/dfasknuu1n/" data-dfa="dfasknuu1n"></a>6 000 000 сумов – списана себестоимость безвозмездно полученных товаров;</li></ul><p><a data-anchor="/document/16/211014/bssPhr29/"></a><a data-anchor="/document/16/211014/dfasfhz3gt/" data-dfa="dfasfhz3gt"></a><strong>Дебет 4010 Кредит 9020</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr30/"></a><a data-anchor="/document/16/211014/dfasuo8bk3/" data-dfa="dfasuo8bk3"></a>7 000 000 сумов – отражен доход от реализации товаров;</li></ul><p><a data-anchor="/document/16/211014/bssPhr31/"></a><a data-anchor="/document/16/211014/dfaspdhr49/" data-dfa="dfaspdhr49"></a><strong>Дебет 4010 Кредит 6410 «Расчеты по НДС»</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr32/"></a><a data-anchor="/document/16/211014/dfasf0s3a3/" data-dfa="dfasf0s3a3"></a>840 000 сумов–начислен НДС по реализованным товарам.</li></ul><p><a data-anchor="/document/16/211014/bssPhr33/"></a><a data-anchor="/document/16/211014/dfas37r2dg/" data-dfa="dfas37r2dg"></a>Май:<br><strong>Дебет 9120 Кредит 2910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr34/"></a><a data-anchor="/document/16/211014/dfas2cbley/" data-dfa="dfas2cbley"></a>4 000 000 сумов – списана себестоимость безвозмездно полученных товаров;</li></ul><p><a data-anchor="/document/16/211014/bssPhr35/"></a><a data-anchor="/document/16/211014/dfas4cu5oa/" data-dfa="dfas4cu5oa"></a><strong>Дебет 4010 Кредит 9020 </strong></p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr36/"></a><a data-anchor="/document/16/211014/dfasd7pflq/" data-dfa="dfasd7pflq"></a>5 000 000 сумов – отражен доход от реализации товаров;</li></ul><p><a data-anchor="/document/16/211014/bssPhr37/"></a><a data-anchor="/document/16/211014/dfas5q5zik/" data-dfa="dfas5q5zik"></a><strong>Дебет 4010 Кредит 6410 «Расчеты по НДС»</strong></p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr38/"></a><a data-anchor="/document/16/211014/dfas2qvusg/" data-dfa="dfas2qvusg"></a>600 000 сумов –начислен НДС по реализованным товарам.</li></ul></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как отразить в бухучете и расчете налога на прибыль безвозмездно полученные рекламные стенды&#160;</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr40/"></a><a data-anchor="/document/16/211014/dfase6rghg/" data-dfa="dfase6rghg"></a>ТМЗ, поступившие безвозмездно, по договору дарения&nbsp;подлежат включению в бухгалтерский баланс организации (<span num="81" target="_self" lnktype="intlnk" title="" class="doc">п. 11</span>&nbsp;НСБУ № 4).&nbsp; Организация должна принять ТМЗ на баланс в качестве актива, если:</p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr41/"></a><a data-anchor="/document/16/211014/dfaskpyoy1/" data-dfa="dfaskpyoy1"></a>существует уверенность поступления в организацию будущей экономической выгоды, связанной с активом;</li><li>стоимость актива может быть достоверно оценена;</li><li>перешло право собственности.&nbsp;</li></ul><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr42/"></a><a data-anchor="/document/16/211014/dfaswtz2nb/" data-dfa="dfaswtz2nb"></a>Такие условия предусмотрены <span num="82" target="_self" lnktype="intlnk" title="" class="doc">пунктом 8</span> НСБУ № 4.</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr43/"></a><a data-anchor="/document/16/211014/dfas26mwx5/" data-dfa="dfas26mwx5"></a>Момент перехода права собственности на ТМЗ, рисков и вознаграждений, связанных с ними, определяйте&nbsp;на основании договора поставки (купли-продажи) продукции (<span num="83" target="_self" lnktype="intlnk" title="" class="doc">п. 9</span> НСБУ №4).</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr44/"></a><a data-anchor="/document/16/211014/dfas2bcui6/" data-dfa="dfas2bcui6"></a>На дату перехода&nbsp;права собственности на товар&nbsp;организация&nbsp;должна принять на балансовый учет рекламные стенды. Расходы, понесенные&nbsp;в ходе&nbsp;таможенной очистки, следует&nbsp;включить в себестоимость стендов (<span num="84" target="_self" lnktype="intlnk" title="" class="doc">п. 15</span> НСБУ № 4).</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr45/"></a><a data-anchor="/document/16/211014/dfass08q6w/" data-dfa="dfass08q6w"></a>Стоимость безвозмездно полученного имущества включайте&nbsp;в состав совокупного дохода по рыночной стоимости (<span num="85" target="_self" lnktype="intlnk" title="" class="doc">п. 10</span> ст. 297 НК). Рыночную стоимость безвозмездно полученного имущества определяйте в соответствии со <span num="86" target="_self" lnktype="intlnk" title="" class="doc">статьей 299</span> НК.</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr46/"></a><a data-anchor="/document/16/211014/dfas4d0gws/" data-dfa="dfas4d0gws"></a>В расчете налога на прибыль сумму безвозмездно полученного имущества отражайте&nbsp;в<strong> Приложении № 1 по строке 070 «Безвозмездно полученное имущество (полученные услуги), финансовая помощь»</strong>. В связи с тем, что доход от получения имущества безвозмездно признают&nbsp;исключительно в налоговых целях, в бухучете доходы не признают.</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr47/"></a><a data-anchor="/document/16/211014/dfaslfs3g8/" data-dfa="dfaslfs3g8"></a>Отразите хозяйственные операции в&nbsp;бухучете проводками:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="94.91%"><tbody><tr><td rowspan="2" style="width:62.56%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr48/"></a><a data-anchor="/document/16/211014/dfas2lvosm/" data-dfa="dfas2lvosm"></a><strong>Содержание хозяйственной операции</strong></p></td><td colspan="2" style="width:20.9%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr49/"></a><a data-anchor="/document/16/211014/dfaso1bpv1/" data-dfa="dfaso1bpv1"></a><strong>Корреспонденция счетов</strong></p></td></tr><tr><td style="width:18.5%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr50/"></a><a data-anchor="/document/16/211014/dfas41z7bx/" data-dfa="dfas41z7bx"></a><strong>дебет</strong></p></td><td style="width:18.57%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr51/"></a><a data-anchor="/document/16/211014/dfasiuom4g/" data-dfa="dfasiuom4g"></a><strong>кредит</strong></p></td></tr><tr><td style="width:62.56%"><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr52/"></a><a data-anchor="/document/16/211014/dfasg3v781/" data-dfa="dfasg3v781"></a>Возникло&nbsp;право&nbsp;собственности на товар</p></td><td rowspan="2" style="width:18.5%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr53/"></a><a data-anchor="/document/16/211014/dfas2unktu/" data-dfa="dfas2unktu"></a>2970</p></td><td style="width:18.57%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr54/"></a><a data-anchor="/document/16/211014/dfasfyvgis/" data-dfa="dfasfyvgis"></a>8530</p></td></tr><tr><td style="width:62.56%"><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr55/"></a><a data-anchor="/document/16/211014/dfasdhnkvv/" data-dfa="dfasdhnkvv"></a>Отражена задолженность по таможенным расходам, услугам декларантов и прочие расходы</p></td><td style="width:18.57%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr56/"></a><a data-anchor="/document/16/211014/dfashwdl6r/" data-dfa="dfashwdl6r"></a>6990</p></td></tr><tr><td style="width:62.56%"><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr57/"></a><a data-anchor="/document/16/211014/dfasow45u7/" data-dfa="dfasow45u7"></a>Начислен НДС на импорт</p></td><td style="width:18.5%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr58/"></a><a data-anchor="/document/16/211014/dfasir4fma/" data-dfa="dfasir4fma"></a>4410</p></td><td style="width:18.57%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr59/"></a><a data-anchor="/document/16/211014/dfasrggb8e/" data-dfa="dfasrggb8e"></a>6990</p></td></tr><tr><td style="width:62.56%"><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr60/"></a><a data-anchor="/document/16/211014/dfaswx68hx/" data-dfa="dfaswx68hx"></a>Оплачены расходы</p></td><td style="width:18.5%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr61/"></a><a data-anchor="/document/16/211014/dfasbbyh3a/" data-dfa="dfasbbyh3a"></a>6990</p></td><td style="width:18.57%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr62/"></a><a data-anchor="/document/16/211014/dfasweh244/" data-dfa="dfasweh244"></a>5110</p></td></tr><tr><td style="width:62.56%"><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr63/"></a><a data-anchor="/document/16/211014/dfasrxy5hg/" data-dfa="dfasrxy5hg"></a>Переведены стенды в состав материалов или товаров</p></td><td style="width:18.5%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr64/"></a><a data-anchor="/document/16/211014/dfasgb4pcx/" data-dfa="dfasgb4pcx"></a>1000/2900</p></td><td style="width:18.57%"><p style="text-align:center"><a data-anchor="/document/16/211014/bssPhr65/"></a><a data-anchor="/document/16/211014/dfaszw2b66/" data-dfa="dfaszw2b66"></a>2970</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div></div></div><a data-anchor="/document/16/211014/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211014/bssPhr66/"></a><a data-anchor="/document/16/211014/dfas0i2yzo/" data-dfa="dfas0i2yzo"></a>Налоги&nbsp;&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211014/bssPhr68/"></a><a data-anchor="/document/16/211014/dfas7zkad7/" data-dfa="dfas7zkad7"></a><strong>НДС</strong></p><p><a data-anchor="/document/16/211014/bssPhr69/"></a><a data-anchor="/document/16/211014/dfasr9lv01/" data-dfa="dfasr9lv01"></a>Сумма НДС по безвозмездно полученным товарам не подлежит зачету (<span num="12" target="_self" lnktype="intlnk" title="" class="doc">п. 6</span> ч. 1 ст. 267 НК).</p><p><a data-anchor="/document/16/211014/bssPhr70/"></a><a data-anchor="/document/16/211014/dfaseze52n/" data-dfa="dfaseze52n"></a>Исключение – когда получатель уплатил НДС по таким товарам.</p><p><a data-anchor="/document/16/211014/bssPhr71/"></a><a data-anchor="/document/16/211014/dfasfhsnyr/" data-dfa="dfasfhsnyr"></a>С <strong>1 января 2023 года </strong> ставка НДС <strong>12</strong>% (<span num="65" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 258 НК в редакции <span num="66" target="_self" lnktype="intlnk" title="" class="doc">Закона</span> № ЗРУ-812 от 30.12.2022г.).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211014/dfas1pvly6/" data-dfa="dfas1pvly6"></a><a data-anchor="/document/16/211014/bssPhr72/"></a>С 1 января 2023 года в счетах-фактурах должна быть указана ставка НДС 12%, независимо от даты заключения договоров.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211014/bssPhr74/"></a><a data-anchor="/document/16/211014/dfasge3gwe/" data-dfa="dfasge3gwe"></a><strong>Налог на прибыль</strong></p><p><a data-anchor="/document/16/211014/bssPhr75/"></a><a data-anchor="/document/16/211014/dfask0hsqs/" data-dfa="dfask0hsqs"></a>Стоимость безвозмездно полученных товаров является доходом и включается в налоговую базу по налогу на прибыль (<span num="54" target="_self" lnktype="intlnk" title="" class="doc">п. 10</span> ч. 3 ст. 297 НК).</p><p><a data-anchor="/document/16/211014/bssPhr76/"></a><a data-anchor="/document/16/211014/dfas5l0vu7/" data-dfa="dfas5l0vu7"></a>В данном случае доходы получателя определяются по рыночной стоимости, подтвержденной документально или отчетом оценочной организации (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span>, <span num="20" target="_self" lnktype="intlnk" title="" class="doc">3</span> ст. 299 НК).</p><p><a data-anchor="/document/16/211014/bssPhr77/"></a><a data-anchor="/document/16/211014/dfaswbu3nx/" data-dfa="dfaswbu3nx"></a>Документальным подтверждением признаются:</p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr78/"></a><a data-anchor="/document/16/211014/dfaspwfuyc/" data-dfa="dfaspwfuyc"></a>документы на отгрузку, поставку или передачу;</li><li>ценовые данные поставщиков, прайс-листы;</li><li>данные из средств массовой информации;</li><li>биржевые сводки;</li><li>данные органов государственной статистики.</li></ul><p><a data-anchor="/document/16/211014/bssPhr79/"></a><a data-anchor="/document/16/211014/dfasf8dogg/" data-dfa="dfasf8dogg"></a><strong>Налог с оборота</strong></p><p><a data-anchor="/document/16/211014/bssPhr80/"></a><a data-anchor="/document/16/211014/dfaszw6nsx/" data-dfa="dfaszw6nsx"></a>С 1.01.2023 г. плательщики налога с оборота вправе выбрать порядок уплаты налога по установленным ставкам или в фиксированной сумме (<span num="67" target="_self" lnktype="intlnk" title="" class="doc">ст. 467</span> НК в редакции <span num="68" target="_self" lnktype="intlnk" title="" class="doc">Закона</span> № ЗРУ-812 от 30.12.2022г.).</p><p><a data-anchor="/document/16/211014/bssPhr81/"></a><a data-anchor="/document/16/211014/dfasvz51m0/" data-dfa="dfasvz51m0"></a>У плательщиков налога с оборота по установленным ставкам стоимость безвозмездно полученных товаров является доходом и включается в налоговую базу по налогу с оборота (<span num="55" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 463 НК).&nbsp;Доход облагается по налоговым ставкам, установленным для вида деятельности, по которому доля доходов в общем совокупном доходе является преобладающей по итогам отчетного (налогового) периода (<span num="69" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 468 НК).</p><p><a data-anchor="/document/16/211014/bssPhr82/"></a><a data-anchor="/document/16/211014/dfas9circk/" data-dfa="dfas9circk"></a><a data-anchor="/document/16/211014/dfasnecqgg/" data-dfa="dfasnecqgg"></a>Доходы определяются по рыночной стоимости, подтвержденной документально (<span num="56" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span>, <span num="57" target="_self" lnktype="intlnk" title="" class="doc">3</span> ст. 299 НК).&nbsp;</p><p><a data-anchor="/document/16/211014/bssPhr83/"></a><a data-anchor="/document/16/211014/dfasshrb1c/" data-dfa="dfasshrb1c"></a>Плательщики налога с оборота в фиксированной сумме по доходу в виде безвозмездно полученного имущества отдельно налог не уплачивают, но учитывают сумму такого дохода в совокупном доходе для определения ставки налога в соответствии с <span num="70" target="_self" lnktype="intlnk" title="" class="doc">частью 3</span> статьи 467 НК, <span num="71" target="_self" lnktype="intlnk" title="" class="doc">статьей 470-1</span> НК и определения порога для перехода на уплату НДС и налога на прибыль в соответствии с <span num="72" target="_self" lnktype="intlnk" title="" class="doc">частью 9</span> статьи 462 НК в редакции № <span num="73" target="_self" lnktype="intlnk" title="" class="doc">ЗРУ-812</span> от 30.12.2022г.</p><p><a data-anchor="/document/16/211014/bssPhr84/"></a><a data-anchor="/document/16/211014/dfaszy4itz/" data-dfa="dfaszy4itz"></a>Имущество, полученное безвозмездно на основании решения Президента или Кабинета Министров, а также в соответствии с международными договорами Республики Узбекистан не рассматриваются в качестве дохода при расчете налога на прибыль и налога с оборота по установленным ставкам (<span num="74" target="_self" lnktype="intlnk" title="" class="doc">п. 8</span> ст. 304 НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>На какую дату учитывать курс валюты при признании дохода от безвозмездно полученного импортного товара, если условие поставки CIP г. Ташкент, ИМ-40.</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr86/"></a><a data-anchor="/document/16/211014/dfasvch520/" data-dfa="dfasvch520"></a>Если договором дарения предусмотрен импорт товара на условиях поставки CIP г. Ташкент, то переход права собственности следует определять на таможенной границе, когда покупатель обязан принять товар сразу после его доставки в названном месте назначения. Соответственно право собственности переходит на таможенной границе, то есть при оформлении в режим ИМ 70 «Временное хранение». Именно на дату оформления ГТД в режим ИМ 70 принимайте курс валюты для отражения в бухгалтерском учете безвозмездно поученного импортного товара.</p><p><a data-anchor="/document/16/211014/bssPhr87/"></a><a data-anchor="/document/16/211014/dfasd6bm91/" data-dfa="dfasd6bm91"></a>Чтобы определить дату принятия к учету импортированных ТМЗ, учитывайте ряд положений.</p><p><a data-anchor="/document/16/211014/bssPhr88/"></a><a data-anchor="/document/16/211014/dfasv6dxs6/" data-dfa="dfasv6dxs6"></a>1. Товарно-материальные запасы признавайте в качестве актива, если:</p><ul class="c-list"><li><a data-anchor="/document/16/211014/bssPhr89/"></a><a data-anchor="/document/16/211014/dfasnnq77l/" data-dfa="dfasnnq77l"></a>существует уверенность поступления в организацию будущей экономической выгоды, связанной с активом;</li><li>стоимость актива может быть достоверно оценена;</li><li>перешло право собственности на него.</li></ul><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr90/"></a><a data-anchor="/document/16/211014/dfasu315t8/" data-dfa="dfasu315t8"></a>Такие условия содержит <span num="45" target="_self" lnktype="intlnk" title="" class="doc">пункт 8</span> НСБУ № 4.</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr91/"></a><a data-anchor="/document/16/211014/dfasknp2dl/" data-dfa="dfasknp2dl"></a>Момент перехода права собственности на ТМЗ, риски и вознаграждения, связанные с ними, определяйте на основании договора дарения, оговаривающего ее условия. Товарно-материальные запасы подлежат включению в бухгалтерский баланс организации в результате безвозмездного поступления по договору дарения (<span num="46" target="_self" lnktype="intlnk" title="" class="doc">п. 11</span> НСБУ № 4).</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr92/"></a><a data-anchor="/document/16/211014/dfas23oy2k/" data-dfa="dfas23oy2k"></a>2. Право собственности у приобретателя имущества по договору возникает с момента передачи вещи, если иное не предусмотрено законодательством или договором (<span num="47" target="_self" lnktype="intlnk" title="" class="doc">ст. 185 ГК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr93/"></a><a data-anchor="/document/16/211014/dfaszeilzg/" data-dfa="dfaszeilzg"></a>3. Основным фактором для определения даты поставки товара служат условия и термины Инкотермс, которые прописаны в договорах дарения импортируемых ТМЗ. То есть, в соответствии с Инкотермс можно определить момент фактической передачи товара в распоряжение получателя или его представителя, например, транспортной организации и соответственно определить дату поставки товара.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как определить рыночную стоимость полученного безвозмездно импортного товара</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr95/"></a><a data-anchor="/document/16/211014/dfask29mf8/" data-dfa="dfask29mf8"></a>Рыночной стоимостью безвозмездно полученного имущества может являться стоимость, указанная в инвойсе (документ на передачу имущества).</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr96/"></a><a data-anchor="/document/16/211014/dfas3pkgfr/" data-dfa="dfas3pkgfr"></a>В соответствии со ст. 299 НК имущество и (или) услуги, полученные налогоплательщиком безвозмездно, признаются доходом налогоплательщика.</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr97/"></a><a data-anchor="/document/16/211014/dfas4ce1xp/" data-dfa="dfas4ce1xp"></a>При получении имущества (услуг) на безвозмездной основе доходы получающего лица определяются исходя из рыночной стоимости этого имущества (услуги), если иное не предусмотрено частью четвертой настоящей статьи.</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr98/"></a><a data-anchor="/document/16/211014/dfaschsh34/" data-dfa="dfaschsh34"></a>Рыночная стоимость безвозмездно полученного имущества (полученной услуги) должна быть документально подтверждена. Такими документами могут быть, в частности:</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr99/"></a><a data-anchor="/document/16/211014/dfasfvddhm/" data-dfa="dfasfvddhm"></a>1) документы на отгрузку, поставку или передачу;</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr100/"></a><a data-anchor="/document/16/211014/dfas59kcam/" data-dfa="dfas59kcam"></a>2) ценовые данные поставщиков (прайс-листы);</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr101/"></a><a data-anchor="/document/16/211014/dfasbzf9yh/" data-dfa="dfasbzf9yh"></a>3) данные из средств массовой информации;</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr102/"></a><a data-anchor="/document/16/211014/dfasf82epd/" data-dfa="dfasf82epd"></a>4) биржевые сводки;</p><p style="text-align:left"><a data-anchor="/document/16/211014/bssPhr103/"></a><a data-anchor="/document/16/211014/dfas7pczho/" data-dfa="dfas7pczho"></a>5) данные органов государственной статистики.</p></div></div></div><p><a data-anchor="/document/16/211014/dfasqzc633/" data-dfa="dfasqzc633"></a><a data-anchor="/document/16/211014/bssPhr104/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882100" sourceId="1" fullSizeImageId="-41882099" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882100/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

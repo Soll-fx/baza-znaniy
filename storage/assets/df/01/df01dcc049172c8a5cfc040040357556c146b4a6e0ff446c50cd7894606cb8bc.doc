@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как суммировать отпуска</h2><div class="doc-snippet"><a data-anchor="/document/16/210988/dfasfkq3ic/" data-dfa="dfasfkq3ic"></a><a data-anchor="/document/16/210988/bssPhr2/"></a>При суммировании отпусков, установленных законодательством, их общая продолжительность не может превышать 56 календарных дней. Ограничение не затрагивает трудовые отпуска, установленные&nbsp;колсоглашениями&nbsp;и&nbsp;локальными актами работодателя. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210988/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210988/bssPhr3/"></a><a data-anchor="/document/16/210988/dfas1tored/" data-dfa="dfas1tored"></a>Порядок суммирования отпусков&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210988/bssPhr5/"></a><a data-anchor="/document/16/210988/dfas5ephqd/" data-dfa="dfas5ephqd"></a>При расчете общей продолжительности ежегодного трудового отпуска дополнительные отпуска суммируются с ежегодным основным минимальным отпуском или ежегодным основным удлиненным отпуском. (<span num="42" target="_self" lnktype="intlnk" title="" class="doc">ст. 222 ТК</span>) .</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210988/dfasgg3dy4/" data-dfa="dfasgg3dy4"></a><a data-anchor="/document/16/210988/bssPhr6/"></a>Продолжительность отпусков, установленных законодательством, при суммировании за один рабочий год не должна превышать 56 календарных дней</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/210988/bssPhr7/"></a><a data-anchor="/document/16/210988/dfasidxhwn/" data-dfa="dfasidxhwn"></a>(<span num="58" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 222 ТК).&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/210988/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210988/bssPhr8/"></a><a data-anchor="/document/16/210988/dfas3507vh/" data-dfa="dfas3507vh"></a>Дополнительный ежегодный отпуск</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210988/bssPhr10/"></a><a data-anchor="/document/16/210988/dfasfm9pg7/" data-dfa="dfasfm9pg7"></a>Согласно статьям <span num="43" target="_self" lnktype="intlnk" title="" class="doc">481</span> и <span num="44" target="_self" lnktype="intlnk" title="" class="doc">483</span> ТК дополнительные отпуска предоставляйте:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width:12.4%"><p style="text-align:center"><a data-anchor="/document/16/210988/bssPhr11/"></a><a data-anchor="/document/16/210988/dfasx1ocmi/" data-dfa="dfasx1ocmi"></a>№</p></td><td class="bdTopbdBottombdRight" style="width:57.87%"><p style="text-align:center"><a data-anchor="/document/16/210988/bssPhr12/"></a><a data-anchor="/document/16/210988/dfasad9t7c/" data-dfa="dfasad9t7c"></a><strong>Работникам</strong></p></td><td class="bdTopbdBottombdRight" style="width:31.12%"><p style="text-align:center"><a data-anchor="/document/16/210988/bssPhr13/"></a><a data-anchor="/document/16/210988/dfaszwst03/" data-dfa="dfaszwst03"></a><nobr><strong>Установлены</strong></nobr></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:12.4%"><p style="text-align:center"><a data-anchor="/document/16/210988/bssPhr14/"></a><a data-anchor="/document/16/210988/dfas28s47a/" data-dfa="dfas28s47a"></a>1</p></td><td class="bdBottombdRight" style="width:57.87%"><p><a data-anchor="/document/16/210988/bssPhr15/"></a><a data-anchor="/document/16/210988/dfas900gwb/" data-dfa="dfas900gwb"></a>Занятым на работах в неблагоприятных и особых условиях труда</p></td><td class="bdBottombdRight" rowspan="2" style="width:31.12%"><p style="text-align:center"><a data-anchor="/document/16/210988/bssPhr16/"></a><a data-anchor="/document/16/210988/dfasdw2myx/" data-dfa="dfasdw2myx"></a>минимальная продолжительность, условия и порядок предоставления определяет Кабмин</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:12.4%"><p style="text-align:center"><a data-anchor="/document/16/210988/bssPhr17/"></a><a data-anchor="/document/16/210988/dfas8gx1q0/" data-dfa="dfas8gx1q0"></a>2</p></td><td class="bdBottombdRight" style="width:57.87%"><p><a data-anchor="/document/16/210988/bssPhr18/"></a><a data-anchor="/document/16/210988/dfas5lc7hp/" data-dfa="dfas5lc7hp"></a>Исполняющим работу в тяжелых и неблагоприятных природно-климатических условиях</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:12.4%"><p style="text-align:center"><a data-anchor="/document/16/210988/bssPhr19/"></a><a data-anchor="/document/16/210988/dfasiqpdc7/" data-dfa="dfasiqpdc7"></a>3</p></td><td class="bdBottombdRight" style="width:57.87%"><p><a data-anchor="/document/16/210988/bssPhr20/"></a><a data-anchor="/document/16/210988/dfasyotq3i/" data-dfa="dfasyotq3i"></a>В других случаях</p></td><td class="bdBottombdRight" style="width:31.12%"><p style="text-align:center"><a data-anchor="/document/16/210988/bssPhr21/"></a><a data-anchor="/document/16/210988/dfasgyuz79/" data-dfa="dfasgyuz79"></a>законодательными и иными нормативными актами о труде, условиями трудового договора</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210988/bssPhr22/"></a><a data-anchor="/document/16/210988/dfas547zvh/" data-dfa="dfas547zvh"></a>Перечень районов с неблагоприятными природно-климатическими условиями и минимальная продолжительность ежегодного дополнительного отпуска, предоставляемого за работу в таких условиях, определяет Кабмин (<span num="33" target="_self" lnktype="intlnk" title="" class="doc">Постановление</span> Кабмина «О дополнительных мерах по регулированию трудовых отношений на рынке труда» № 743 от 06.09.2019).</p><p><a data-anchor="/document/16/210988/bssPhr23/"></a><a data-anchor="/document/16/210988/dfas9k7pw6/" data-dfa="dfas9k7pw6"></a>Дополнительные и удлиненные, по сравнению с законодательными актами, отпуска могут быть установлены иными нормативными актами, в том числе и договорного характера: колсоглашениями, колдоговорами, другими локальными актами, а также трудовыми договорами, которые заключают между собой работник и работодатель (<span num="45" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 483 ТК).</p><p><a data-anchor="/document/16/210988/bssPhr24/"></a><a data-anchor="/document/16/210988/dfasnxbqf7/" data-dfa="dfasnxbqf7"></a>Дополнительные отпуска суммируйте с ежегодным основным отпуском и оформляйте приказом (<span num="46" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 222 ТК).</p></div><a data-anchor="/document/16/210988/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210988/bssPhr25/"></a><a data-anchor="/document/16/210988/dfasy9hp5a/" data-dfa="dfasy9hp5a"></a>Ежегодный основной удлиненный отпуск</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210988/bssPhr27/"></a><a data-anchor="/document/16/210988/dfas0855hs/" data-dfa="dfas0855hs"></a>С учетом возраста и состояния здоровья ежегодный основной удлиненный отпуск предоставляется работникам:</p><ul class="c-list"><li><a data-anchor="/document/16/210988/bssPhr28/"></a><a data-anchor="/document/16/210988/dfasmix4pu/" data-dfa="dfasmix4pu"></a>в возрасте до 18 лет - тридцать календарных дней;</li><li>с инвалидностью I и II групп - тридцать календарных дней.</li><li><a data-anchor="/document/16/210988/dfas64v1hd/" data-dfa="dfas64v1hd"></a>органов государственной власти и управления – двадцать семь календарных дней;</li><li><a data-anchor="/document/16/210988/dfasb47gm0/" data-dfa="dfasb47gm0"></a>отдельных категорий, которым продолжительность ежегодного основного удлиненного отпуска, гарантированного законодательством.</li></ul><p><a data-anchor="/document/16/210988/bssPhr29/"></a><a data-anchor="/document/16/210988/dfasrzgibk/" data-dfa="dfasrzgibk"></a>Установлено <span num="48" target="_self" lnktype="intlnk" title="" class="doc">статьей 218</span> ТК, <span num="22" target="_self" lnktype="intlnk" title="" class="doc">статьей 53</span> «Закона об образовании» № ЗРУ-637 от 23.09.2020, <span num="23" target="_self" lnktype="intlnk" title="" class="doc">часть 5</span> статьи 42 «Закона о правах лиц с инвалидностью» № ЗРУ-641 от 15.10.2020, <span num="24" target="_self" lnktype="intlnk" title="" class="doc">статья 54</span> «Закона о госслужбе» № ЗРУ-788 от 08.08.2022.</p><p><a data-anchor="/document/16/210988/bssPhr30/"></a><a data-anchor="/document/16/210988/dfaso1gc41/" data-dfa="dfaso1gc41"></a>Предоставление ежегодных основных удлиненных отпусков, могут быть предусмотрены коллективными соглашениями, а также коллективным договором, локальными актами, трудовым договором (<span num="49" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 218 ТК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/210988/dfaskxrn4x/" data-dfa="dfaskxrn4x"></a><a data-anchor="/document/16/210988/bssPhr31/"></a>Расчет количества дней отпуска, если стаж работника на предприятии свыше 10 лет.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210988/bssPhr32/"></a><a data-anchor="/document/16/210988/dfasel00e4/" data-dfa="dfasel00e4"></a>Специалист производственно-технического отдела Ибрагимов О.Ю., согласно утвержденному на предприятии графику, оформляет трудовой отпуск с 12 октября 2022 года за период работы с 08.08.2022 г. по 07.08.2023 г. Сколько положено предоставить дней отдыха Ибрагимову О.Ю., при условии, что он работает на предприятии с 2009 г. и в колдоговоре установлена норма дополнительного отпуска за ненормированный труд в количестве 6 дней.</p><p><a data-anchor="/document/16/210988/bssPhr33/"></a><a data-anchor="/document/16/210988/dfasnhnxh2/" data-dfa="dfasnhnxh2"></a>Ибрагимову О.Ю. положено:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width:3.9%"><p><a data-anchor="/document/16/210988/bssPhr34/"></a><a data-anchor="/document/16/210988/dfasckbz5i/" data-dfa="dfasckbz5i"></a>№</p></td><td class="bdTopbdBottombdRight" style="width:41.9%"><p><a data-anchor="/document/16/210988/bssPhr35/"></a><a data-anchor="/document/16/210988/dfas5iseig/" data-dfa="dfas5iseig"></a>Отпуск</p></td><td class="bdTopbdBottombdRight" style="width:22.5%"><p><a data-anchor="/document/16/210988/bssPhr36/"></a><a data-anchor="/document/16/210988/dfasdszdt9/" data-dfa="dfasdszdt9"></a>Календарные дни</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:3.9%"><p><a data-anchor="/document/16/210988/bssPhr37/"></a><a data-anchor="/document/16/210988/dfasb2z08g/" data-dfa="dfasb2z08g"></a>1</p></td><td class="bdBottombdRight" style="width:41.9%"><p><a data-anchor="/document/16/210988/bssPhr38/"></a><a data-anchor="/document/16/210988/dfas7g0udn/" data-dfa="dfas7g0udn"></a>Основной по Трудовому договору (<span num="67" target="_self" lnktype="intlnk" title="" class="doc">ст. 217 ТК</span>)</p></td><td class="bdBottombdRight" style="width:22.5%"><p><a data-anchor="/document/16/210988/bssPhr39/"></a><a data-anchor="/document/16/210988/dfasmnbbia/" data-dfa="dfasmnbbia"></a>21</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:3.9%"><p><a data-anchor="/document/16/210988/bssPhr40/"></a><a data-anchor="/document/16/210988/dfasy4vxc3/" data-dfa="dfasy4vxc3"></a>2</p></td><td class="bdBottombdRight" style="width:41.9%"><p><a data-anchor="/document/16/210988/bssPhr41/"></a><a data-anchor="/document/16/210988/dfasiumlld/" data-dfa="dfasiumlld"></a>Дополнительный за ненормированный труд по Колдоговору (<span num="68" target="_self" lnktype="intlnk" title="" class="doc">абз. 5</span> ч. 1 ст. 219 ТК)</p></td><td class="bdBottombdRight" style="width:22.5%"><p><a data-anchor="/document/16/210988/bssPhr42/"></a><a data-anchor="/document/16/210988/dfass6qg7y/" data-dfa="dfass6qg7y"></a>6</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:3.9%"><p><a data-anchor="/document/16/210988/bssPhr43/"></a><a data-anchor="/document/16/210988/dfasn9zhh1/" data-dfa="dfasn9zhh1"></a>3</p></td><td class="bdBottombdRight" style="width:41.9%"><p><a data-anchor="/document/16/210988/bssPhr44/"></a><a data-anchor="/document/16/210988/dfasaw1xda/" data-dfa="dfasaw1xda"></a>Дополнительный за стаж работы в организации свыше 10 лет (<span num="69" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 220 ТК)</p></td><td class="bdBottombdRight" style="width:22.5%"><p><a data-anchor="/document/16/210988/bssPhr45/"></a><a data-anchor="/document/16/210988/dfashbqlch/" data-dfa="dfashbqlch"></a>4</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:3.9%"><a data-anchor="/document/16/210988/bssPhr46/"></a><a data-anchor="/document/16/210988/dfas3zzsq2/" data-dfa="dfas3zzsq2"></a>&nbsp;</td><td class="bdBottombdRight" style="width:41.9%"><p><a data-anchor="/document/16/210988/bssPhr47/"></a><a data-anchor="/document/16/210988/dfas34tgi9/" data-dfa="dfas34tgi9"></a>Итого:</p></td><td class="bdBottombdRight" style="width:22.5%"><p><a data-anchor="/document/16/210988/bssPhr48/"></a><a data-anchor="/document/16/210988/dfasafuoqm/" data-dfa="dfasafuoqm"></a>31</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210988/bssPhr49/"></a><a data-anchor="/document/16/210988/dfas4xid8a/" data-dfa="dfas4xid8a"></a>Ежегодный отпуск Ибрагимову О.Ю. оформляйте с 12 октября по 11 ноября 2023 года. Выход на работу 12 ноября 2023 года.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может ли предприятие устанавливать дополнительные дни отпуска</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210988/bssPhr51/"></a><a data-anchor="/document/16/210988/dfas8gwmnl/" data-dfa="dfas8gwmnl"></a>Да, может.</p><p><a data-anchor="/document/16/210988/bssPhr52/"></a><a data-anchor="/document/16/210988/dfas2hk9g6/" data-dfa="dfas2hk9g6"></a>Предприятие вправе установить дополнительные дни отпуска в колдоговоре или ином локальном акте, который принят по согласованию с представительным органом работников, либо прописать это в трудовом договоре работника (<span num="47" target="_self" lnktype="intlnk" title="" class="doc">абз. 5</span> ч. 1 ст. 219 ТК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может ли продолжительность отпуска быть больше 56 календарных дней</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210988/bssPhr54/"></a><a data-anchor="/document/16/210988/dfasnw0km1/" data-dfa="dfasnw0km1"></a>Да, может.</p><p><a data-anchor="/document/16/210988/bssPhr55/"></a><a data-anchor="/document/16/210988/dfas6gqrnu/" data-dfa="dfas6gqrnu"></a>Ограничение в 56 календарных дней не затрагивает трудовые отпуска, которые не предусмотрены законодательством.<br>Предприятие вправе установить колдоговором или локальными актами другие, дополнительные виды отпусков (ч. <span num="9" target="_self" lnktype="intlnk" title="" class="doc">2</span> и <span num="10" target="_self" lnktype="intlnk" title="" class="doc">3</span> ст. 222 ТК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли выплатить инвалиду компенсацию за часть удлиненного отпуска</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210988/bssPhr58/"></a><a data-anchor="/document/16/210988/dfasnqd977/" data-dfa="dfasnqd977"></a>Все виды социальных отпусков, ежегодные трудовые основные удлиненные отпуска, предоставляемые работникам в возрасте до восемнадцати лет, работникам с инвалидностью I и II групп, а также дополнительные отпуска используются в натуре и замена их денежной компенсацией в период работы не допускается (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 234 ТК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли заменить дополнительный отпуск денежной компенсацией</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210988/bssPhr60/"></a><a data-anchor="/document/16/210988/dfash9cwog/" data-dfa="dfash9cwog"></a>По общему правилу часть ежегодного оплачиваемого отпуска, превышающую 21 рабочих дней, можно заменить денежной компенсацией на основании заявления работника.</p><p><a data-anchor="/document/16/210988/bssPhr61/"></a><a data-anchor="/document/16/210988/dfasqurbnm/" data-dfa="dfasqurbnm"></a>Однако, все виды социальных отпусков, а также дополнительные отпуска. Ежегодный дополнительный отпуск за работу в неблагоприятных и в неблагоприятных природно-климатических условиях труда (ст. <span num="12" target="_self" lnktype="intlnk" title="" class="doc">481</span>, <span num="13" target="_self" lnktype="intlnk" title="" class="doc">483</span> ТК), имеющим продолжительный стаж работы в одной организации или отрасли (ст. 200 ТК) используются в натуре и замена их денежной компенсацией не допускается.</p></div></div></div><p><a data-anchor="/document/16/210988/dfask5xy5n/" data-dfa="dfask5xy5n"></a><a data-anchor="/document/16/210988/bssPhr62/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882144" sourceId="1" fullSizeImageId="-41882143" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882144/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

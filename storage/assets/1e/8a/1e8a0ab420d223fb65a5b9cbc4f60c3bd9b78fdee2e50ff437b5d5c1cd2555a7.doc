@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кто платит фиксированный налог</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203625/dfasgqq3rh/" data-dfa="dfasgqq3rh"></a><a data-anchor="/document/16/203625/bssPhr1/"></a>С 1 января 2019 года фиксированный налог платят только индивидуальные предприниматели. До этого платили и юрлица, например, за временное хранение автотранспортных средств, за исключением их временного хранения на автостоянках дехканских (продовольственных) рынков. Юрлица, которые оказывают услуги по детским игровым автоматам, с 2019 года платят общеустановленные налоги.</p><p><a data-anchor="/document/16/203625/dfasht73b2/" data-dfa="dfasht73b2"></a><a data-anchor="/document/16/203625/bssPhr2/"></a>Также изменен перечень видов деятельности, которыми могут заниматься индивидуальные предприниматели без образования юрлица:</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfasn36eqz/" data-dfa="dfasn36eqz"></a><a data-anchor="/document/16/203625/bssPhr3/"></a>розничная торговля продовольственными и непродовольственными товарами (за исключением реализации строительных материалов, цемента, шифера, лесоматериалов и древесины, алкогольной и табачной продукции, всех видов нефтепродуктов, изделий из драгоценных металлов и драгоценных камней либо изделий с применением таких материалов, аудиовизуальных произведений, фонограмм и программ для ЭВМ, новых импортных автомобилей, фармацевтических товаров)</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfas4rk0o2/" data-dfa="dfas4rk0o2"></a><a data-anchor="/document/16/203625/bssPhr4/"></a>импорт и розничная торговля товарами (за исключением реализации строительных материалов, цемента, шифера, лесоматериалов и древесины, растительного масла, алкогольной и табачной продукции, всех видов нефтепродуктов, изделий из драгоценных металлов и драгоценных камней либо изделий с применением таких материалов, аудиовизуальных произведений, фонограмм и программ для ЭВМ, новых импортных автомобилей, фармацевтических товаров) при условии, что стоимость ввозимых товаров не превышает 5000 долларов США в эквиваленте в месяц</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfas1qtdf0/" data-dfa="dfas1qtdf0"></a><a data-anchor="/document/16/203625/bssPhr5/"></a>смешанная розничная торговля в передвижных торговых объектах (дислоцированных на временной основе и носящих сезонный или целевой характер, а также требующих после завершения рабочего дня демонтажа и переноса объекта)</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfas7271ls/" data-dfa="dfas7271ls"></a><a data-anchor="/document/16/203625/bssPhr6/"></a>ремонт швейных, меховых, кожаных и трикотажных изделий, головных уборов и изделий из текстильной галантереи, пошив по индивидуальному заказу населения швейных и трикотажных изделий, головных уборов и изделий из текстильной галантереи, включая индивидуальный пошив занавесок и портьер, вышивание</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfasmzdxon/" data-dfa="dfasmzdxon"></a><a data-anchor="/document/16/203625/bssPhr7/"></a>пошив обуви по индивидуальным заказам населения, ремонт, окраска и чистка обуви</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfasqprw0a/" data-dfa="dfasqprw0a"></a><a data-anchor="/document/16/203625/bssPhr8/"></a>изготовление дверей, окон и других изделий из дерева (за исключением мебели)</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfas1x52pg/" data-dfa="dfas1x52pg"></a><a data-anchor="/document/16/203625/bssPhr9/"></a>сборка готовой мебели, ремонт и драпировка мебели</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfasuh83c6/" data-dfa="dfasuh83c6"></a><a data-anchor="/document/16/203625/bssPhr10/"></a>ремонт и техническое обслуживание транспортных средств, включая прочие виды услуг по техническому обслуживанию транспортных средств (ремонт и установка акустических систем и охранных сигнализаций, полирование, нанесение защитных и декоративных покрытий на кузов)</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfaskulg3g/" data-dfa="dfaskulg3g"></a><a data-anchor="/document/16/203625/bssPhr11/"></a>выращивание, сбор, заготовка и реализация лекарственного сырья растительного, животного и минерального происхождения</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfashx1oyn/" data-dfa="dfashx1oyn"></a><a data-anchor="/document/16/203625/bssPhr12/"></a>оказание услуг физическим и юридическим лицам с использованием специальной и сельскохозяйственной техники</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfaskfncle/" data-dfa="dfaskfncle"></a><a data-anchor="/document/16/203625/bssPhr13/"></a>услуги населению по ремонту жилья и нежилых помещений</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfaszwag2n/" data-dfa="dfaszwag2n"></a><a data-anchor="/document/16/203625/bssPhr14/"></a>изготовление и реализация национальных сладостей, кондитерских изделий, курта в домашних условиях, без использования упаковочного оборудования</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfaskh2phe/" data-dfa="dfaskh2phe"></a><a data-anchor="/document/16/203625/bssPhr15/"></a>изготовление и реализация национальных лепешек и патыра</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfaswd0xhv/" data-dfa="dfaswd0xhv"></a><a data-anchor="/document/16/203625/bssPhr16/"></a>изготовление и реализация попкорна, мороженого на фрезере и прохладительных напитков, айрана, гужа на розлив</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203625/dfasy74eyv/" data-dfa="dfasy74eyv"></a><a data-anchor="/document/16/203625/bssPhr17/"></a>изготовление и реализация салатов и солений, а также изготовление и реализация в домашних условиях отдельных видов штучных блюд без организации посадочных мест или в местах, специально отведенных решением органов государственной власти на местах</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><a data-anchor="/document/16/203625/dfas4qq166/" data-dfa="dfas4qq166"></a><a data-anchor="/document/16/203625/bssPhr18/"></a><a data-anchor="/document/16/203625/tit0/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Что такое предпринимательская деятельность</h2><p><a data-anchor="/document/16/203625/dfas4mwgzk/" data-dfa="dfas4mwgzk"></a><a data-anchor="/document/16/203625/bssPhr19/"></a>Предпринимательская деятельность – это инициативная деятельность субъектов предпринимательства с целью получения дохода (прибыли) на свой риск и под свою имущественную ответственность (<a data-anchor="/document/16/203625/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/3881/dfasxziifl/" class="link npd" title="Понятие предпринимательской деятельности" moduleId="90" documentId="3881" anchor="dfasxziifl">ст. 3</a> ЗРУ-69-II от 25.05.2000 г.).</p><p><a data-anchor="/document/16/203625/dfaso5u3t7/" data-dfa="dfaso5u3t7"></a><a data-anchor="/document/16/203625/bssPhr20/"></a>Права индивидуального предпринимателя: </p><p><a data-anchor="/document/16/203625/dfask6vkee/" data-dfa="dfask6vkee"></a><a data-anchor="/document/16/203625/bssPhr21/"></a>– владеть, пользоваться и распоряжаться принадлежащим ему имуществом в соответствии с законодательством; </p><p><a data-anchor="/document/16/203625/dfasdeu8wz/" data-dfa="dfasdeu8wz"></a><a data-anchor="/document/16/203625/bssPhr22/"></a>– самостоятельно формировать производственную программу, выбирать поставщиков и потребителей своей продукции (работ, услуг);</p><p><a data-anchor="/document/16/203625/dfaslghshx/" data-dfa="dfaslghshx"></a><a data-anchor="/document/16/203625/bssPhr23/"></a>– осуществлять в установленном порядке внешнеэкономическую деятельность.</p><p><a data-anchor="/document/16/203625/dfaszf4gly/" data-dfa="dfaszf4gly"></a><a data-anchor="/document/16/203625/bssPhr24/"></a>Чтобы легально заниматься предпринимательской деятельностью на территории Республики Узбекистан, без образования юрлица, физлицу необходимо пройти госрегистрацию в качестве индивидуального предпринимателя. С этого момента появляется право на осуществление деятельности (<a data-anchor="/document/16/203625/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/21650/dfas2e02cf/" class="link npd" title="Предпринимательская деятельность гражданина" moduleId="90" documentId="21650" anchor="dfas2e02cf">ст. 24</a> ГК). </p><p><a data-anchor="/document/16/203625/dfas1vr2qp/" data-dfa="dfas1vr2qp"></a><a data-anchor="/document/16/203625/bssPhr25/"></a>Работа в качестве индивидуального предпринимателя имеет ряд преимуществ:</p><p><a data-anchor="/document/16/203625/dfasrd8gcg/" data-dfa="dfasrd8gcg"></a><a data-anchor="/document/16/203625/bssPhr26/"></a>–&nbsp;процедура регистрации в качестве индивидуального предпринимателя несложна и не требует много времени и средств;</p><p><a data-anchor="/document/16/203625/dfaspsd1o3/" data-dfa="dfaspsd1o3"></a><a data-anchor="/document/16/203625/bssPhr27/"></a>–&nbsp;индивидуальный предприниматель применяет упрощенный (по сравнению с юрлицом) порядок ведения учета и отчетности;</p><p><a data-anchor="/document/16/203625/dfashhck5q/" data-dfa="dfashhck5q"></a><a data-anchor="/document/16/203625/bssPhr28/"></a>–&nbsp;с правовой точки зрения в сфере потребительского рынка и услуг индивидуальный предприниматель выступает на равных с юрлицами. Он имеет право на свой расчетный счет в банке, личную печать, заключение сделок и подписание договоров, получение банковского кредита (<a data-anchor="/document/16/203625/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/3881/dfaskil42p/" class="link npd" title="Гарантии свободного доступа субъектов предпринимательства на рынок ценных бумаг, рынки сырья, товаров и услуг" moduleId="90" documentId="3881" anchor="dfaskil42p">ст. 26</a> ЗРУ-69-II);</p><p><a data-anchor="/document/16/203625/dfasgvlieb/" data-dfa="dfasgvlieb"></a><a data-anchor="/document/16/203625/bssPhr29/"></a>–&nbsp;ставки налогообложения для индивидуальных предпринимателей фиксированы в зависимости от вида деятельности;</p><p><a data-anchor="/document/16/203625/dfas0wa6fv/" data-dfa="dfas0wa6fv"></a><a data-anchor="/document/16/203625/bssPhr30/"></a>–&nbsp;налоговую задолженность взыскивают только в судебном порядке.</p><p><a data-anchor="/document/16/203625/dfas3if5ki/" data-dfa="dfas3if5ki"></a><a data-anchor="/document/16/203625/bssPhr31/"></a>Если индивидуальный предприниматель приостанавливает деятельность на определенный срок, то он заранее подает заявление о временном приостановлении деятельности с одновременной сдачей свидетельства о госрегистрации. </p><p><a data-anchor="/document/16/203625/dfasdcue5g/" data-dfa="dfasdcue5g"></a><a data-anchor="/document/16/203625/bssPhr32/"></a><a data-anchor="/document/16/203625/ст373ч4/"></a>Центр госуслуг после получения заявления о временном приостановлении или возобновлении деятельности ИП, не позднее окончания следующего рабочего дня предоставляет информацию в налоговую службу по месту налогового учета о временном приостановлении или возобновлении деятельности ИП. Эта информация – основание для приостановления начисления фиксированного налога на тот период, в котором ИП не будет осуществлять свою деятельность.</p><p><a data-anchor="/document/16/203625/dfass1qodg/" data-dfa="dfass1qodg"></a><a data-anchor="/document/16/203625/bssPhr33/"></a>Если ИП имеет налогооблагаемое имущество и (или) земельный участок, то за ним сохраняются обязательства по уплате налога на имущество физических лиц и (или) земельного налога с физических лиц (гл. <a data-anchor="/document/16/203625/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasqomhrn/" class="link npd" title="Налог на имущество физических лиц" moduleId="90" documentId="20918" anchor="dfasqomhrn">48</a>, <a data-anchor="/document/16/203625/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas7922mf/" class="link npd" moduleId="90" documentId="20918" anchor="dfas7922mf">50</a> НК).</p><p><a data-anchor="/document/16/203625/dfasirv9yd/" data-dfa="dfasirv9yd"></a><a data-anchor="/document/16/203625/bssPhr34/"></a><a data-anchor="/document/16/203625/ст18ч2/"></a>На ИП возлагается обязанность по уплате ЕСП (<a data-anchor="/document/16/203625/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasgmtbne/" class="link npd" title="Особенности исчисления и уплаты единого социального платежа для отдельных категорий физических лиц" moduleId="90" documentId="20918" anchor="dfasgmtbne">ст. 311</a> НК).</p><a data-anchor="/document/16/203625/dfasggggml/" data-dfa="dfasggggml"></a><a data-anchor="/document/16/203625/bssPhr35/"></a><a data-anchor="/document/16/203625/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Кто не платит фиксированный налог</h2><p><a data-anchor="/document/16/203625/dfasgqpl9w/" data-dfa="dfasgqpl9w"></a><a data-anchor="/document/16/203625/bssPhr36/"></a>Индивидуальные предприниматели, которые:</p><p><a data-anchor="/document/16/203625/dfasih17ye/" data-dfa="dfasih17ye"></a><a data-anchor="/document/16/203625/bssPhr37/"></a>– экспортируют плодоовощную продукцию:</p><p><a data-anchor="/document/16/203625/dfaslhedcg/" data-dfa="dfaslhedcg"></a><a data-anchor="/document/16/203625/bssPhr38/"></a>– включены в Национальный реестр субъектов электронной коммерции.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

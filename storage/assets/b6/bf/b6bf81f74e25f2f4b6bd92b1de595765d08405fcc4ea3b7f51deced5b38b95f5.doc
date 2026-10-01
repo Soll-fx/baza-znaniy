@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как учесть возмещение материального ущерба, который сотрудник нанес организации</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/218821/dfascg11k6/" data-dfa="dfascg11k6"></a><a data-anchor="/document/16/218821/bssPhr3/"></a>В рекомендации –&nbsp;как отразить в бухучете&nbsp;недостачу и порчу товарно-материальных запасов, основных средств, нематериальных активов и взыскание ущерба с виновных лиц,&nbsp;удержание суммы ущерба из зарплаты сотрудника и&nbsp;возмещение сотрудником суммы ущерба без удержания из зарплаты. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/218821/bssPhr4/"></a><a data-anchor="/document/16/218821/dfasgg7457/" data-dfa="dfasgg7457"></a>Как отражать в&nbsp;бухучете удержание из&nbsp;зарплаты материального ущерба, нанесенного организации, определено в пунктах 202, 203 НСБУ <a data-anchor="/document/16/218821/backlinkanchor44/" type="backlink-anchor"></a><a href="#/document/90/15200" class="link npd" target="_self" title="" moduleId="90" documentId="15200">21</a> (рег. Минюст от 27.12.2024 № 3593)</p><a data-anchor="/document/16/218821/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218821/bssPhr5/"></a><a data-anchor="/document/16/218821/dfas4qcrh7/" data-dfa="dfas4qcrh7"></a>Бухучет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218821/bssPhr7/"></a><a data-anchor="/document/16/218821/dfasg6r3xv/" data-dfa="dfasg6r3xv"></a>Суммы недостачи и&nbsp;порчи товарно-материальных запасов, основных средств и&nbsp;нематериальных активов отражайте на <strong>счете 5910 «Недостачи и&nbsp;потери от&nbsp;порчи ценностей»</strong>.</p><p><a data-anchor="/document/16/218821/bssPhr8/"></a><a data-anchor="/document/16/218821/dfass9dawr/" data-dfa="dfass9dawr"></a>Суммы по&nbsp;возмещению материального ущерба при недостаче или порче имущества, подлежащие взысканию с&nbsp;виновных лиц, отражайте на <strong>счете 4730 «Задолженность персонала по&nbsp;возмещению материального ущерба» </strong> (<span num="4" target="_self" lnktype="intlnk" title="" class="doc">п. 202</span>&nbsp;Инструкции к&nbsp;плану счетов).</p><p><a data-anchor="/document/16/218821/bssPhr9/"></a><a data-anchor="/document/16/218821/dfas2wcwgr/" data-dfa="dfas2wcwgr"></a><a data-anchor="/document/16/218821/dfasaok6ra/" data-dfa="dfasaok6ra"></a>В&nbsp;бухучете списание недостающего или испорченного имущества и&nbsp;возмещение работником материального ущерба отразите проводками:</p><p><a data-anchor="/document/16/218821/bssPhr10/"></a><a data-anchor="/document/16/218821/dfasd8w6ni/" data-dfa="dfasd8w6ni"></a>При установлении недостачи основных средств:</p><p><a data-anchor="/document/16/218821/bssPhr11/"></a><a data-anchor="/document/16/218821/dfasggyq08/" data-dfa="dfasggyq08"></a><strong>Дебет 9210 Кредит 0100</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr12/"></a><a data-anchor="/document/16/218821/dfaseh11wp/" data-dfa="dfaseh11wp"></a>отражается списание первоначальной (восстановительной) стоимости недостающего ОС;</li></ul><p><a data-anchor="/document/16/218821/bssPhr13/"></a><a data-anchor="/document/16/218821/dfasn48tq5/" data-dfa="dfasn48tq5"></a><strong>Дебет 0200 Кредит 9210</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr14/"></a><a data-anchor="/document/16/218821/dfas3gg3gn/" data-dfa="dfas3gg3gn"></a>списание начисленной амортизации по&nbsp;недостающему ОС;</li></ul><p><a data-anchor="/document/16/218821/bssPhr15/"></a><a data-anchor="/document/16/218821/dfasbhnv2m/" data-dfa="dfasbhnv2m"></a><strong>Дебет 8510 Кредит 9210</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr16/"></a><a data-anchor="/document/16/218821/dfasvsfffu/" data-dfa="dfasvsfffu"></a>списано сальдо переоценки по&nbsp;недостающему ОС</li></ul><p><a data-anchor="/document/16/218821/bssPhr17/"></a><a data-anchor="/document/16/218821/dfaswgse78/" data-dfa="dfaswgse78"></a><strong>Дебет 5910 Кредит 9210</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr18/"></a><a data-anchor="/document/16/218821/dfas8obvqk/" data-dfa="dfas8obvqk"></a>отражена сумма убытка от&nbsp;выбытия недостающего ОС.</li></ul><p><a data-anchor="/document/16/218821/bssPhr19/"></a><a data-anchor="/document/16/218821/dfasuvl21g/" data-dfa="dfasuvl21g"></a>При установлении недостачи ТМЗ:</p><p><a data-anchor="/document/16/218821/bssPhr20/"></a><a data-anchor="/document/16/218821/dfasupq85g/" data-dfa="dfasupq85g"></a><strong>Дебет 5910 Кредит 1000-2900</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr21/"></a><a data-anchor="/document/16/218821/dfastwgv6k/" data-dfa="dfastwgv6k"></a>списание фактической (балансовой) стоимости недостающих ТМЗ.</li></ul><p><a data-anchor="/document/16/218821/bssPhr22/"></a><a data-anchor="/document/16/218821/dfas72pihs/" data-dfa="dfas72pihs"></a>При <strong>взыскании материального ущерба с&nbsp;виновного лица </strong>делайте проводки:</p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr23/"></a><a data-anchor="/document/16/218821/dfas61nsf8/" data-dfa="dfas61nsf8"></a>если рыночная стоимость (сумма взыскания с&nbsp;сотрудника) недостающего или испорченного имущества выше его балансовой стоимости, то:</li></ul><p><a data-anchor="/document/16/218821/bssPhr24/"></a><a data-anchor="/document/16/218821/dfas8mcvgc/" data-dfa="dfas8mcvgc"></a><strong>Дебет 4730 Кредит 5910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr25/"></a><a data-anchor="/document/16/218821/dfaskeb5sr/" data-dfa="dfaskeb5sr"></a>отнесена за&nbsp;счет сотрудника фактическая, балансовая стоимость недостающего имущества;</li></ul><p><a data-anchor="/document/16/218821/bssPhr26/"></a><a data-anchor="/document/16/218821/dfasr8gg5a/" data-dfa="dfasr8gg5a"></a><strong>Дебет 4730 Кредит 9320, 9310</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr27/"></a><a data-anchor="/document/16/218821/dfasvxwf62/" data-dfa="dfasvxwf62"></a>отражается разница между рыночной стоимостью недостающего или испорченного имущества, подлежащей взысканию с&nbsp;виновного сотрудника, и&nbsp;их&nbsp;балансовой стоимостью.</li></ul><p><a data-anchor="/document/16/218821/bssPhr28/"></a><a data-anchor="/document/16/218821/dfasaedxw4/" data-dfa="dfasaedxw4"></a>В&nbsp;этом случае полученный предприятием доход включайте в&nbsp;состав совокупного дохода и&nbsp;облагайте налогом на&nbsp;прибыль или налогом с&nbsp;оборота (<span num="5" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;6</span>&nbsp;ч.&nbsp;3&nbsp;ст.&nbsp;297&nbsp;НК, <span num="6" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;463&nbsp;НК, <span num="7" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;464&nbsp;НК).</p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr29/"></a><a data-anchor="/document/16/218821/dfasaluvxc/" data-dfa="dfasaluvxc"></a>если рыночная стоимость (сумма взыскания с&nbsp;сотрудника) недостающего или испорченного имущества ниже его балансовой стоимости, то:</li></ul><p><a data-anchor="/document/16/218821/bssPhr30/"></a><a data-anchor="/document/16/218821/dfasbzr378/" data-dfa="dfasbzr378"></a><strong>Дебет 4730 Кредит 5910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr31/"></a><a data-anchor="/document/16/218821/dfas3bknqq/" data-dfa="dfas3bknqq"></a>отнесена за&nbsp;счет сотрудника фактическая, балансовая стоимость недостающего имущества;</li></ul><p><a data-anchor="/document/16/218821/bssPhr32/"></a><a data-anchor="/document/16/218821/dfascebqiy/" data-dfa="dfascebqiy"></a><strong>Дебет 9430 Кредит 5910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr33/"></a><a data-anchor="/document/16/218821/dfas3ahbw6/" data-dfa="dfas3ahbw6"></a>отражена разница между рыночной стоимостью недостающего или испорченного имущества, подлежащей взысканию с&nbsp;виновного сотрудника, и&nbsp;его балансовой стоимостью.</li></ul><p><a data-anchor="/document/16/218821/bssPhr34/"></a><a data-anchor="/document/16/218821/dfasxfpgt8/" data-dfa="dfasxfpgt8"></a>В&nbsp;этом случае полученный убыток является невычитаемым расходом при расчете налога на&nbsp;прибыль (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;10</span>&nbsp;ст.&nbsp;317&nbsp;НК). При расчете налога с&nbsp;оборота убытки не&nbsp;учитывают.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как отразить в бухучете убытки от порчи перевозимого товара в результате ДТП</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218821/bssPhr36/"></a><a data-anchor="/document/16/218821/dfasrzrvng/" data-dfa="dfasrzrvng"></a>Прежде чем отразить все потери, полученные в результате ДТП, узнайте&nbsp;по чьей вине произошло ДТП. Также&nbsp;определите, кто будет возмещать предприятию полученный ущерб от испорченного товара.</p><p><a data-anchor="/document/16/218821/bssPhr37/"></a><a data-anchor="/document/16/218821/dfasaaso93/" data-dfa="dfasaaso93"></a>До того, как установите&nbsp;виновных лиц, потери от испорченного товара можно учесть по дебету <strong>счета 5910 «Недостачи и потери от порчи ценностей»</strong> (<span num="34" target="_self" lnktype="intlnk" title="" class="doc">п. 245</span> НСБУ № 21). Стоимость потерянного имущества, а также его количество&nbsp;определите путем осмотра имущества, а также сверкой с данными, указанными в сопроводительных документах на товар (транспортная накладная). По итогу осмотра составьте акт осмотра имущества, в акте обязательно укажите количество и стоимость испорченного имущества. Акт подписывает&nbsp;комиссия, производившая осмотр, и утверждает&nbsp;руководитель предприятия.</p><p><a data-anchor="/document/16/218821/bssPhr38/"></a><a data-anchor="/document/16/218821/dfasb19hzz/" data-dfa="dfasb19hzz"></a>Проводка в бухучете следующая:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="px"><tbody><tr><td class="bdAll" rowspan="2" style="width:69.28%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr39/"></a><a data-anchor="/document/16/218821/dfasd72bny/" data-dfa="dfasd72bny"></a><strong>Содержание хозяйственной операции</strong></p></td><td class="bdTopbdBottombdRight" colspan="2" style="width:23.6%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr40/"></a><a data-anchor="/document/16/218821/dfasg7ak6n/" data-dfa="dfasg7ak6n"></a><strong>Корреспондирующие счета</strong></p></td></tr><tr><td class="bdBottombdRight" style="width:18.54%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr41/"></a><a data-anchor="/document/16/218821/dfasu96wcw/" data-dfa="dfasu96wcw"></a><strong>Дебет</strong></p></td><td class="bdBottombdRight" style="width:11.8%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr42/"></a><a data-anchor="/document/16/218821/dfas4gnrse/" data-dfa="dfas4gnrse"></a><strong>Кредит</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:69.28%"><p><a data-anchor="/document/16/218821/bssPhr43/"></a><a data-anchor="/document/16/218821/dfasvr8cb6/" data-dfa="dfasvr8cb6"></a>Отражена сумма потери от порчи товара (акт осмотра имущества)</p></td><td class="bdBottombdRight" style="width:18.54%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr44/"></a><a data-anchor="/document/16/218821/dfaslphion/" data-dfa="dfaslphion"></a>5910</p></td><td class="bdBottombdRight" style="width:11.8%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr45/"></a><a data-anchor="/document/16/218821/dfassm6md3/" data-dfa="dfassm6md3"></a>2910</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218821/bssPhr46/"></a><a data-anchor="/document/16/218821/dfasrohno9/" data-dfa="dfasrohno9"></a>Также скорректируйте&nbsp;НДС, принятый в зачет&nbsp;по товарам, которые были испорчены в результате ДТП. Отразите в бухучете проводкой:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="px"><tbody><tr><td class="bdAll" rowspan="2" style="width:71.72%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr47/"></a><a data-anchor="/document/16/218821/dfasx9gc8m/" data-dfa="dfasx9gc8m"></a><strong>Содержание хозяйственной операции</strong></p></td><td class="bdTopbdBottombdRight" colspan="2" style="width:23.6%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr48/"></a><a data-anchor="/document/16/218821/dfast7ne6s/" data-dfa="dfast7ne6s"></a><strong>Корреспондирующие счета</strong></p></td></tr><tr><td class="bdBottombdRight" style="width:14.89%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr49/"></a><a data-anchor="/document/16/218821/dfasq0492h/" data-dfa="dfasq0492h"></a><strong>Дебет</strong></p></td><td class="bdBottombdRight" style="width:11.8%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr50/"></a><a data-anchor="/document/16/218821/dfasdrk7lf/" data-dfa="dfasdrk7lf"></a><strong>Кредит</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width:71.72%"><p><a data-anchor="/document/16/218821/bssPhr51/"></a><a data-anchor="/document/16/218821/dfasdy4p0h/" data-dfa="dfasdy4p0h"></a>Корректировка ранее принятого в зачет НДС</p></td><td class="bdBottombdRight" style="width:14.89%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr52/"></a><a data-anchor="/document/16/218821/dfasmatbgo/" data-dfa="dfasmatbgo"></a>5910</p></td><td class="bdBottombdRight" style="width:11.8%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr53/"></a><a data-anchor="/document/16/218821/dfask2hswh/" data-dfa="dfask2hswh"></a>4410</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/218821/bssPhr54/"></a><a data-anchor="/document/16/218821/dfas4o59hz/" data-dfa="dfas4o59hz"></a>После того как определите&nbsp;конкретных виновников ДТП, на них будет возложена обязанность возместить причиненный ущерб за порчу имущества. Обязанность по возмещению может быть на основании решения суда. После этого с кредита счета 5910 отражаете списание сумм в дебет счетов (<span num="35" target="_self" lnktype="intlnk" title="" class="doc">п. 247</span> НСБУ № 21):</p><p><a data-anchor="/document/16/218821/bssPhr55/"></a><a data-anchor="/document/16/218821/dfash29cuq/" data-dfa="dfash29cuq"></a>4730 «Задолженность персонала по возмещению материального ущерба»,&nbsp;если виновное лицо является работником&nbsp;вашего предприятия;</p><p><a data-anchor="/document/16/218821/bssPhr56/"></a><a data-anchor="/document/16/218821/dfaszz0ney/" data-dfa="dfaszz0ney"></a>4860 «Счета к получению по претензиям»,&nbsp;если виновное лицо не является работником предприятия.</p><p><a data-anchor="/document/16/218821/bssPhr57/"></a><a data-anchor="/document/16/218821/dfas9cket8/" data-dfa="dfas9cket8"></a>Если виновник недостачи установлен, сумму возмещения определяйте&nbsp;по рыночной стоимости недостающих материальных ценностей&nbsp;с учетом НДС (<span data-warm-notices="41556872" data-warm-notice-type="error" num="36" target="_self" lnktype="intlnk" title="" class="doc">п. 246 </span> НСБУ № 21).</p><p><a data-anchor="/document/16/218821/bssPhr58/"></a><a data-anchor="/document/16/218821/dfas2blpbn/" data-dfa="dfas2blpbn"></a>Проводка в бухгалтерском учете следующая:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="px"><tbody><tr><td class="bdAll" rowspan="2" style="width:67.38%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr59/"></a><a data-anchor="/document/16/218821/dfass7gquw/" data-dfa="dfass7gquw"></a><strong>Содержание хозяйственной операции</strong></p></td><td class="bdTopbdBottombdRight" colspan="2" style="width:23.6%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr60/"></a><a data-anchor="/document/16/218821/dfase2czlg/" data-dfa="dfase2czlg"></a><strong>Корреспондирующие счета</strong></p></td></tr><tr><td class="bdBottombdRight" style="width:20.44%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr61/"></a><a data-anchor="/document/16/218821/dfaszzacnp/" data-dfa="dfaszzacnp"></a><strong>Дебет</strong></p></td><td class="bdBottombdRight" style="width:11.8%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr62/"></a><a data-anchor="/document/16/218821/dfas3pnxkp/" data-dfa="dfas3pnxkp"></a><strong>Кредит</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft" rowspan="2" style="width:67.38%"><p><a data-anchor="/document/16/218821/bssPhr63/"></a><a data-anchor="/document/16/218821/dfasd4aqcl/" data-dfa="dfasd4aqcl"></a>Отражается задолженность, подлежащая взысканию с виновного лица (решение суда)</p></td><td class="bdBottombdRight" rowspan="2" style="width:20.44%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr64/"></a><a data-anchor="/document/16/218821/dfasv1vhlo/" data-dfa="dfasv1vhlo"></a>4730 или 4860</p></td><td class="bdBottombdRight" style="width:11.8%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr65/"></a><a data-anchor="/document/16/218821/dfas6fkb4x/" data-dfa="dfas6fkb4x"></a>5910</p></td></tr><tr><td class="bdBottombdRight" style="width:11.8%"><p style="text-align:center"><a data-anchor="/document/16/218821/bssPhr66/"></a><a data-anchor="/document/16/218821/dfas4ttr4u/" data-dfa="dfas4ttr4u"></a>6410</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218821/bssPhr71/"></a><a data-anchor="/document/16/218821/dfaszpspqi/" data-dfa="dfaszpspqi"></a>Сумму ущерба, которую организация компенсирует стороне, пострадавшей от&nbsp;действий своего сотрудника, с&nbsp;последующим её&nbsp;возмещением сотрудником, отразите проводками:</p><p><a data-anchor="/document/16/218821/bssPhr72/"></a><a data-anchor="/document/16/218821/dfasw7ng4h/" data-dfa="dfasw7ng4h"></a><strong>Дебет 4730 Кредит 6960</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr73/"></a><a data-anchor="/document/16/218821/dfaszfzmto/" data-dfa="dfaszfzmto"></a>отражена задолженность перед пострадавшей стороной, отнесенная на&nbsp;виновного сотрудника;</li></ul><p><a data-anchor="/document/16/218821/bssPhr74/"></a><a data-anchor="/document/16/218821/dfasvb5d48/" data-dfa="dfasvb5d48"></a><strong>Дебет 6710 Кредит 4730</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr75/"></a><a data-anchor="/document/16/218821/dfast0a9c3/" data-dfa="dfast0a9c3"></a>отражено удержание из&nbsp;зарплаты сотрудника суммы ущерба, которую организация компенсирует пострадавшей стороне;</li></ul><p><a data-anchor="/document/16/218821/bssPhr76/"></a><a data-anchor="/document/16/218821/dfaszgwypm/" data-dfa="dfaszgwypm"></a><strong>Дебет 6960 Кредит 5110</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr77/"></a><a data-anchor="/document/16/218821/dfasnfhcdt/" data-dfa="dfasnfhcdt"></a>отражено погашение задолженности перед пострадавшей стороной.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218821/dfasveifzi/" data-dfa="dfasveifzi"></a><a data-anchor="/document/16/218821/bssPhr78/"></a>Удержать денежные средства с&nbsp;сотрудника можно только после того, как он&nbsp;сможет ими распоряжаться, то&nbsp;есть только в&nbsp;день выплаты зарплаты.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/218821/bssPhr80/"></a><a data-anchor="/document/16/218821/dfas5i52fe/" data-dfa="dfas5i52fe"></a>На&nbsp;сумму удержанных из&nbsp;заработка сотрудника средств сделайте проводку:</p><p><a data-anchor="/document/16/218821/bssPhr81/"></a><a data-anchor="/document/16/218821/dfasz17733/" data-dfa="dfasz17733"></a><strong>Дебет 6710 Кредит 4730</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr82/"></a><a data-anchor="/document/16/218821/dfasyxgwbp/" data-dfa="dfasyxgwbp"></a>удержана из&nbsp;зарплаты сотрудника стоимость ущерба по&nbsp;приказу руководителя.</li></ul></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218821/bssPhr84/"></a><a data-anchor="/document/16/218821/dfasvx4b28/" data-dfa="dfasvx4b28"></a>Когда сотрудник возмещает суммы ущерба, внесением денежных средств в&nbsp;кассу или на&nbsp;расчетный счет организации отразите это так:</p><p><a data-anchor="/document/16/218821/bssPhr85/"></a><a data-anchor="/document/16/218821/dfasvco35e/" data-dfa="dfasvco35e"></a><strong>Дебет 5010, 5110 Кредит 4730</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr86/"></a><a data-anchor="/document/16/218821/dfas0oslr5/" data-dfa="dfas0oslr5"></a>возмещена сотрудником сумма ущерба.</li></ul><p><a data-anchor="/document/16/218821/bssPhr87/"></a><a data-anchor="/document/16/218821/dfas7g61d3/" data-dfa="dfas7g61d3"></a>Сумму ущерба, которую сотрудник не&nbsp;возмещает организации, если суд признал его невиновным, или руководитель решил полностью или частично не&nbsp;взыскивать ущерб с&nbsp;виновного сотрудника, списывайте за&nbsp;счет собственных средств и&nbsp;включайте в&nbsp;состав прочих операционных расходов:</p><p><a data-anchor="/document/16/218821/bssPhr88/"></a><a data-anchor="/document/16/218821/dfas1uvbqt/" data-dfa="dfas1uvbqt"></a><strong>Дебет 9430 Кредит 5910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr89/"></a><a data-anchor="/document/16/218821/dfask70sf2/" data-dfa="dfask70sf2"></a>списана на&nbsp;прочие операционные расходы стоимость ущерба (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.3.15.10</span> Положения о&nbsp;составе затрат).</li></ul><p><a data-anchor="/document/16/218821/bssPhr90/"></a><a data-anchor="/document/16/218821/dfas1fd6uv/" data-dfa="dfas1fd6uv"></a>В&nbsp;этом случае сумма убытка является невычитаемым расходом при расчете налога на&nbsp;прибыль (<span num="19" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;10</span>&nbsp;ст.&nbsp;317&nbsp;НК). При расчете налога с&nbsp;оборота убытки не&nbsp;учитывают.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218821/dfasgagv5k/" data-dfa="dfasgagv5k"></a><a data-anchor="/document/16/218821/bssPhr91/"></a>Как отразить в&nbsp;учете взыскание материального ущерба с&nbsp;сотрудника. Рыночная стоимость ущерба выше балансовой</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218821/bssPhr92/"></a><a data-anchor="/document/16/218821/dfas24mcr3/" data-dfa="dfas24mcr3"></a>При инвентаризации на&nbsp;складе ООО «Альфа» была обнаружена недостача материалов на&nbsp;сумму 3&nbsp;500&nbsp;000&nbsp;сумов. Виновником недостачи был признан завскладом Н.Н. Петров. Рыночная стоимость похищенных материалов составила&nbsp;— 5&nbsp;000&nbsp;000&nbsp;сумов. Руководитель издал приказ о&nbsp;взыскании рыночной стоимости похищенных материалов с&nbsp;заработной платы Н.Н. Петрова.</p><p><a data-anchor="/document/16/218821/bssPhr93/"></a><a data-anchor="/document/16/218821/dfasgg1gab/" data-dfa="dfasgg1gab"></a>Бухгалтер ООО «Альфа» в&nbsp;учете данную операцию отразил проводками:</p><p><a data-anchor="/document/16/218821/bssPhr94/"></a><a data-anchor="/document/16/218821/dfasaqncr1/" data-dfa="dfasaqncr1"></a><strong>Дебет 5910 Кредит 1010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr95/"></a><a data-anchor="/document/16/218821/dfasxpndgy/" data-dfa="dfasxpndgy"></a>3&nbsp;500&nbsp;000 сумов&nbsp;— списана балансовая стоимость похищенных материалов;</li></ul><p><a data-anchor="/document/16/218821/bssPhr96/"></a><a data-anchor="/document/16/218821/dfas2t1sou/" data-dfa="dfas2t1sou"></a><strong>Дебет 4730 Кредит 5910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr97/"></a><a data-anchor="/document/16/218821/dfas2bwl57/" data-dfa="dfas2bwl57"></a>3&nbsp;500&nbsp;000 сумов&nbsp;— отнесена за&nbsp;счет сотрудника сумма причиненного ущерба&nbsp;— балансовая стоимость недостающих материалов;</li></ul><p><a data-anchor="/document/16/218821/bssPhr98/"></a><a data-anchor="/document/16/218821/dfasxhzovc/" data-dfa="dfasxhzovc"></a><strong>Дебет 4730 Кредит 9320 </strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr99/"></a><a data-anchor="/document/16/218821/dfastf1ara/" data-dfa="dfastf1ara"></a>1&nbsp;500&nbsp;000 сумов&nbsp;— отражена разница между рыночной стоимостью недостающих материалов, подлежащей взысканию с&nbsp;виновного сотрудника, и&nbsp;их&nbsp;балансовой стоимостью;</li></ul><p><a data-anchor="/document/16/218821/bssPhr100/"></a><a data-anchor="/document/16/218821/dfas1s821u/" data-dfa="dfas1s821u"></a><strong>Дебет 6710 Кредит 4730</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr101/"></a><a data-anchor="/document/16/218821/dfasai6o71/" data-dfa="dfasai6o71"></a>5&nbsp;000&nbsp;000 сумов&nbsp;— отражено взыскание суммы недостачи с&nbsp;заработной платы Н.Н. Петрова.</li></ul></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218821/dfas4it6bg/" data-dfa="dfas4it6bg"></a><a data-anchor="/document/16/218821/bssPhr102/"></a>Как отразить в&nbsp;учете взыскание материального ущерба с&nbsp;сотрудника. Рыночная стоимость ущерба ниже балансовой</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218821/bssPhr103/"></a><a data-anchor="/document/16/218821/dfasg7p51l/" data-dfa="dfasg7p51l"></a>При инвентаризации на&nbsp;складе ООО «Сигма» была обнаружена недостача товаров на&nbsp;сумму 4&nbsp;000&nbsp;000&nbsp;сумов. Виновником недостачи была признана завскладом Л.Н. Смирнова. Рыночная стоимость похищенных товаров составила&nbsp;— 3&nbsp;000&nbsp;000&nbsp;сумов. Руководитель издал приказ о&nbsp;взыскании рыночной стоимости похищенных материалов с&nbsp;заработной платы Л.Н. Смирновой.</p><p><a data-anchor="/document/16/218821/bssPhr104/"></a><a data-anchor="/document/16/218821/dfasl77mu6/" data-dfa="dfasl77mu6"></a>Бухгалтер ООО «Сигма» в&nbsp;учете данную операцию отразил проводками:</p><p><a data-anchor="/document/16/218821/bssPhr105/"></a><a data-anchor="/document/16/218821/dfaso1imgh/" data-dfa="dfaso1imgh"></a><strong>Дебет 5910 Кредит 2910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr106/"></a><a data-anchor="/document/16/218821/dfas06ukwx/" data-dfa="dfas06ukwx"></a>4&nbsp;000&nbsp;000 сумов&nbsp;— списана балансовая стоимость похищенных товаров;</li></ul><p><a data-anchor="/document/16/218821/bssPhr107/"></a><a data-anchor="/document/16/218821/dfaseerqx8/" data-dfa="dfaseerqx8"></a><strong>Дебет 4730 Кредит 5910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr108/"></a><a data-anchor="/document/16/218821/dfaspfsr8n/" data-dfa="dfaspfsr8n"></a>3&nbsp;000&nbsp;000 сумов&nbsp;— отнесена за&nbsp;счет сотрудника сумма причиненного ущерба&nbsp;— рыночная стоимость недостающих товаров;</li></ul><p><a data-anchor="/document/16/218821/bssPhr109/"></a><a data-anchor="/document/16/218821/dfasb2egc1/" data-dfa="dfasb2egc1"></a><strong>Дебет 9430 Кредит 5910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr110/"></a><a data-anchor="/document/16/218821/dfas6c6prw/" data-dfa="dfas6c6prw"></a>1&nbsp;000&nbsp;000 сумов&nbsp;— отражена разница между рыночной стоимостью недостающих товаров, подлежащей взысканию с&nbsp;виновного сотрудника, и&nbsp;их&nbsp;балансовой стоимостью;</li></ul><p><a data-anchor="/document/16/218821/bssPhr111/"></a><a data-anchor="/document/16/218821/dfasug4sn1/" data-dfa="dfasug4sn1"></a><strong>Дебет 6710 Кредит 4730</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218821/bssPhr112/"></a><a data-anchor="/document/16/218821/dfascgu788/" data-dfa="dfascgu788"></a>3&nbsp;000&nbsp;000 сумов&nbsp;— отражено взыскание суммы недостачи с&nbsp;заработной платы Л.Н. Смирновой.</li></ul></div></div></div><p><a data-anchor="/document/16/218821/dfasobw5k3/" data-dfa="dfasobw5k3"></a><a data-anchor="/document/16/218821/bssPhr113/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882120" sourceId="1" fullSizeImageId="-41882119" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882120/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

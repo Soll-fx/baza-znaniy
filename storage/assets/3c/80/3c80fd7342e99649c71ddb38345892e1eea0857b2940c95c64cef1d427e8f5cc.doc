@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Когда можно удерживать из зарплаты по инициативе организации</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/211374/dfasmt2ud4/" data-dfa="dfasmt2ud4"></a><a data-anchor="/document/16/211374/bssPhr2/"></a>В&nbsp;рекомендации узнаете, какие суммы можно удерживать из&nbsp;зарплаты, а&nbsp;какие нельзя, какие документы для этого надо оформить и&nbsp;как удерживать по&nbsp;нескольким основаниям. </div><div id="documentBody" class="content-common"><list><item><a anchor="dfasv5qne3" icon="useful" itemid="_uoncqmb58" label="Полезно" text="Какие документы оформить при удержании">Какие документы оформить при удержании</a></item></list><a data-anchor="/document/16/211374/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211374/bssPhr8/"></a><a data-anchor="/document/16/211374/dfaskq0xyi/" data-dfa="dfaskq0xyi"></a>Суммы, которые можно удерживать из&nbsp;зарплаты</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211374/bssPhr10/"></a><a data-anchor="/document/16/211374/dfash3yyrv/" data-dfa="dfash3yyrv"></a>По&nbsp;общему правилу удержания из&nbsp;заработной платы можно производить с&nbsp;письменного согласия работника.</p><p><a data-anchor="/document/16/211374/bssPhr11/"></a><a data-anchor="/document/16/211374/dfasvhkfa3/" data-dfa="dfasvhkfa3"></a>По&nbsp;инициативе работодателя и&nbsp;независимо от&nbsp;согласия работника из&nbsp;его заработка можно удержать:</p><ul class="c-list"><li><a data-anchor="/document/16/211374/bssPhr12/"></a><a data-anchor="/document/16/211374/dfasksmo7w/" data-dfa="dfasksmo7w"></a>неотработанный аванс, выданный в&nbsp;счет зарплаты;</li><li>неизрасходованные и&nbsp;своевременно не&nbsp;возвращенные суммы, выданные под отчет, например, на&nbsp;служебные командировки, хозяйственные нужды или в&nbsp;связи с&nbsp;переводом на&nbsp;работу в&nbsp;другую местность;</li><li>излишне выданную зарплату и&nbsp;другие суммы, которые переплатили сотруднику в&nbsp;связи со&nbsp;счетной ошибкой;</li><li>суммы возмещения ущерба, причиненного работником, если размер ущерба не&nbsp;превышает среднюю месячную зарплату работника;</li><li>суммы за&nbsp;неотработанные дни отпуска при увольнении сотрудника до&nbsp;окончания рабочего года, в&nbsp;счет которого он&nbsp;получил отпуск;</li><li>суммы пособий, которые переплатили из-за счетной ошибки, например, при подсчете заработка за&nbsp;расчетный период или неправомерных действий сотрудника, допустим, сотрудник скрыл сведения, влияющие на&nbsp;размер пособия.</li></ul><p><a data-anchor="/document/16/211374/bssPhr13/"></a><a data-anchor="/document/16/211374/dfasm5pfkv/" data-dfa="dfasm5pfkv"></a>Случаи удержаний по&nbsp;инициативе администрации перечислены в <span num="135" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;269</span>&nbsp;ТК.</p><p><a data-anchor="/document/16/211374/bssPhr14/"></a><a data-anchor="/document/16/211374/dfas45cg0z/" data-dfa="dfas45cg0z"></a>При удержании материального ущерба взыскивайте только прямой действительный ущерб&nbsp;— те&nbsp;убытки, которые можно точно посчитать (<span num="136" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;337&nbsp;ТК</span>).</p><p><a data-anchor="/document/16/211374/bssPhr15/"></a><a data-anchor="/document/16/211374/dfas1ogfv2/" data-dfa="dfas1ogfv2"></a>Сотрудник не&nbsp;несет материальной ответственности, если имущество повреждено при стихийном бедствии, в&nbsp;результате непреодолимой силы, оправданного хозяйственного риска, крайней необходимости или необходимой обороны, а&nbsp;также в&nbsp;случае, если работодатель не&nbsp;обеспечил надлежащие условия для хранения имущества, вверенного работнику.</p><p><a data-anchor="/document/16/211374/bssPhr16/"></a><a data-anchor="/document/16/211374/dfasqyps03/" data-dfa="dfasqyps03"></a>Перечень таких ситуаций приведен в <span num="137" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;338</span>&nbsp;ТК.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="108" target="_self" lnktype="intlnk" title="" class="doc">Как удержать из&nbsp;зарплаты материальный ущерб, который сотрудник нанес работодателю</span></li><li class="incut-v4-more-about__item"><span num="109" target="_self" lnktype="intlnk" title="" class="doc">Как учесть возмещение материального ущерба, который сотрудник нанес организации</span></li></ul></div><div class="incut-v4__icon"></div></div></div><p><a data-anchor="/document/16/211374/bssPhr18/"></a><a data-anchor="/document/16/211374/dfasiizwaa/" data-dfa="dfasiizwaa"></a>Организация также вправе удержать с&nbsp;зарплаты работника штраф за&nbsp;нарушение трудовой дисциплины. Удержать можно штраф в&nbsp;размере не&nbsp;более 30&nbsp;процентов среднего месячного заработка сотрудника. Правилами внутреннего трудового распорядка организации могут быть предусмотрены случаи наложения на&nbsp;работника штрафа в&nbsp;размере не&nbsp;более 50&nbsp;процентов среднего месячного заработка (<span num="138" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;5</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="139" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;312&nbsp;ТК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Если сотрудник потратил с&#160;корпоративной карты деньги на&#160;личные нужды, можно ли удержать их&#160;с&#160;его зарплаты</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211374/bssPhr20/"></a><a data-anchor="/document/16/211374/dfasr1gqpr/" data-dfa="dfasr1gqpr"></a>Да, можно.</p><p><a data-anchor="/document/16/211374/bssPhr21/"></a><a data-anchor="/document/16/211374/dfasmrdqfg/" data-dfa="dfasmrdqfg"></a>Независимо от&nbsp;согласия работника производятся удержания для возмещения ущерба, причиненного работником работодателю, если размер ущерба не&nbsp;превышает среднего месячного заработка работника (<span num="125" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;269&nbsp;ТК). Работник обязан возместить работодателю причиненный ему прямой действительный ущерб. Под прямым действительным ущербом понимается реальное уменьшение или ухудшение наличного имущества работодателя (<span num="126" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;337&nbsp;ТК). Работник несет материальную ответственность в&nbsp;полном размере причиненного ущерба, в&nbsp;случаях, указанных в <span num="127" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;342</span>&nbsp;ТК.</p><p><a data-anchor="/document/16/211374/bssPhr22/"></a><a data-anchor="/document/16/211374/dfast7z6br/" data-dfa="dfast7z6br"></a>В&nbsp;данном случае, с&nbsp;работником, который оплачивает расходы предприятия с&nbsp;корпоративной карты, должен быть заключен письменный договор о&nbsp;полной материальной ответственности (<span num="128" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;343&nbsp;ТК</span>).</p></div></div><p><a data-anchor="/document/16/211374/bssPhr23/"></a><a data-anchor="/document/16/211374/dfase69tsp/" data-dfa="dfase69tsp"></a>Удерживать суммы по&nbsp;возмещению материального ущерба из&nbsp;зарплаты работника можно лишь в&nbsp;случаях, если:</p><ul class="c-list"><li><a data-anchor="/document/16/211374/bssPhr24/"></a><a data-anchor="/document/16/211374/dfasghx6ba/" data-dfa="dfasghx6ba"></a>вина работника доказана;</li><li>причинен прямой действительный ущерб;</li><li>установлено, что работник совершал неправомерные действия;</li><li>подтверждено, что ущерб возник именно по&nbsp;причине этих противоправных действий.</li></ul><p><a data-anchor="/document/16/211374/bssPhr25/"></a><a data-anchor="/document/16/211374/dfaswg50fq/" data-dfa="dfaswg50fq"></a>Для привлечения работника к&nbsp;ответственности, все эти условия должны иметь место в&nbsp;совокупности, а&nbsp;также работодатель должен доказать их&nbsp;наличие.</p></div><a data-anchor="/document/16/211374/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211374/bssPhr26/"></a><a data-anchor="/document/16/211374/dfaspb20r6/" data-dfa="dfaspb20r6"></a>Документальное оформление удержания из&nbsp;зарплаты</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211374/bssPhr28/"></a><a data-anchor="/document/16/211374/dfasv5qne3/" data-dfa="dfasv5qne3"></a>Чтобы удержать какую-либо сумму из&nbsp;зарплаты сотрудника, руководитель организации должен издать приказ.</p><p><a data-anchor="/document/16/211374/bssPhr30/"></a><a data-anchor="/document/16/211374/dfas30zd7b/" data-dfa="dfas30zd7b"></a>Все удержания по&nbsp;инициативе работодателя производите на&nbsp;основании приказа руководителя предприятия. Работника, из&nbsp;зарплаты которого должны удержать сумму, ознакомьте с&nbsp;приказом под подпись.</p><p><a data-anchor="/document/16/211374/bssPhr31/"></a><a data-anchor="/document/16/211374/dfase23uqz/" data-dfa="dfase23uqz"></a>Приказ надо издать в&nbsp;течение месяца со&nbsp;дня окончания срока, установленного для возврата аванса, погашения задолженности или неправильно рассчитанных выплат (<span num="140" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;269&nbsp;ТК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211374/bssPhr32/"></a><a data-anchor="/document/16/211374/dfas8p5pe7/" data-dfa="dfas8p5pe7"></a>Оформления&nbsp;удержаний из&nbsp;зарплаты сотрудника, производимых по&nbsp;инициативе администрации</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211374/bssPhr33/"></a><a data-anchor="/document/16/211374/dfasxqvfzr/" data-dfa="dfasxqvfzr"></a>Экономисту организации А.С. Кондратьеву начислена зарплата в&nbsp;размере 2&nbsp;700&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211374/bssPhr34/"></a><a data-anchor="/document/16/211374/dfas16uqql/" data-dfa="dfas16uqql"></a>Из&nbsp;этой суммы сотрудник должен оплатить:</p><ul class="c-list"><li><a data-anchor="/document/16/211374/bssPhr35/"></a><a data-anchor="/document/16/211374/dfasms6q77/" data-dfa="dfasms6q77"></a>членские взносы&nbsp;— 1&nbsp;000&nbsp;сумов;</li><li>своевременно не&nbsp;возвращенные подотчетные суммы (аванс на&nbsp;служебную командировку)&nbsp;— 100&nbsp;000&nbsp;сумов;</li><li>платежи в&nbsp;погашение кредита на&nbsp;покупку товаров&nbsp;— 50&nbsp;000&nbsp;сумов.</li></ul><p><a data-anchor="/document/16/211374/bssPhr36/"></a><a data-anchor="/document/16/211374/dfas2bcy58/" data-dfa="dfas2bcy58"></a>По&nbsp;инициативе администрации из&nbsp;зарплаты Кондратьева можно удержать только 100&nbsp;000 сумов задолженности по&nbsp;подотчетным суммам.</p><p><a data-anchor="/document/16/211374/bssPhr37/"></a><a data-anchor="/document/16/211374/dfasg4p0hm/" data-dfa="dfasg4p0hm"></a>Руководитель организации издал приказ об&nbsp;удержании задолженности по&nbsp;подотчетным суммам.</p><p><a data-anchor="/document/16/211374/bssPhr38/"></a><a data-anchor="/document/16/211374/dfasai5g6v/" data-dfa="dfasai5g6v"></a>Остальные удержания организация может произвести только по&nbsp;инициативе самого сотрудника, по&nbsp;его заявлению.</p><p><a data-anchor="/document/16/211374/bssPhr39/"></a><a data-anchor="/document/16/211374/dfaszeiph7/" data-dfa="dfaszeiph7"></a>Для удержания сумм в&nbsp;погашение причиненного материального ущерба, нанесенного организации, руководитель также должен издать приказ в&nbsp;месячный срок. Этот срок отсчитывается с&nbsp;того дня, когда комиссия установит факт и&nbsp;сумму материального ущерба (<span num="141" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;347&nbsp;ТК</span>).</p><p><a data-anchor="/document/16/211374/bssPhr40/"></a><a data-anchor="/document/16/211374/dfas7q8762/" data-dfa="dfas7q8762"></a>Если сотрудник не&nbsp;согласен с&nbsp;основаниями и&nbsp;размером удержания, то&nbsp;за&nbsp;взысканием недостающих сумм организация должна будет обратиться в&nbsp;суд. Подать исковое заявление в&nbsp;суд придется также, если в&nbsp;течение месяца с&nbsp;даты установления суммы ущерба руководитель не&nbsp;издал приказ об&nbsp;удержании (<span num="142" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;347&nbsp;ТК).</p></div></div></div><a data-anchor="/document/16/211374/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211374/bssPhr41/"></a><a data-anchor="/document/16/211374/dfaswo0nzb/" data-dfa="dfaswo0nzb"></a>Суммы, которые нельзя удерживать из&nbsp;зарплаты</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211374/bssPhr43/"></a><a data-anchor="/document/16/211374/dfasmg9aou/" data-dfa="dfasmg9aou"></a>Организация не&nbsp;может удержать сумму излишне выданных отпускных за&nbsp;неотработанные дни отпуска при увольнении сотрудника до&nbsp;окончания рабочего года, если трудовой договор с&nbsp;сотрудником прекращен в&nbsp;случаях:</p><ul class="c-list"><li><a data-anchor="/document/16/211374/bssPhr44/"></a><a data-anchor="/document/16/211374/dfas9b7zgq/" data-dfa="dfas9b7zgq"></a>отказа работника от&nbsp;продолжения работы в&nbsp;новых условиях труда (<span num="143" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="144" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;137&nbsp;ТК);</li><li>отказа работника о&nbsp;переводе на&nbsp;другую работу, не&nbsp;противопоказанную ему по&nbsp;состоянию здоровья, или отсутствия у&nbsp;работодателя соответствующей работы (<span num="145" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="146" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;143&nbsp;ТК);</li><li>отказа работника от&nbsp;переезда вместе с&nbsp;работодателем в&nbsp;другую местность (<span num="147" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="148" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>&nbsp;ст.&nbsp;146&nbsp;ТК);</li><li>изменения численности или штата работников при изменении технологии, организации производства и&nbsp;труда, сокращения объемов работ (<span num="149" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="150" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;161&nbsp;ТК);</li><li>ликвидации предприятия или его обособленного подразделения по&nbsp;решению его учредителей (<span num="151" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="152" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;161&nbsp;ТК);</li><li>несоответствия работника занимаемой должности или выполняемой работе из-за недостаточной квалификации (<span num="153" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="154" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ч.&nbsp;2&nbsp;ст.&nbsp;161&nbsp;ТК);</li><li>призыва работника на&nbsp;военную или альтернативную службу (<span num="155" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="156" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;168&nbsp;ТК);</li><li>восстановления на&nbsp;прежней работе работника, который ранее выполнял эту работу <span num="157" target="_self" lnktype="intlnk" title="" class="doc">(ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="158" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;168&nbsp;ТК);</li><li>ликвидации организации по&nbsp;решению суда (<span num="159" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="160" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;6</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;168&nbsp;ТК);</li><li>смерти работника, а&nbsp;также признании судом работника безвестно отсутствующим или объявление работника умершим (<span num="161" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="162" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;8</span>&nbsp;ч.&nbsp;1&nbsp;ст.&nbsp;168&nbsp;ТК);</li><li>поступления на&nbsp;учебу или ухода на&nbsp;пенсию (<span num="163" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;269&nbsp;ТК, <span num="164" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;8</span>&nbsp;ст.&nbsp;160&nbsp;ТК).</li></ul><p><a data-anchor="/document/16/211374/bssPhr45/"></a><a data-anchor="/document/16/211374/dfasb6sc94/" data-dfa="dfasb6sc94"></a>Организация не&nbsp;вправе удерживать из&nbsp;зарплаты сотрудника никакие иные суммы, кроме тех, которые предусмотрены&nbsp;ТК и&nbsp;другими законодательными актами. В&nbsp;частности, по&nbsp;инициативе организации нельзя удержать из&nbsp;зарплаты сотрудника денежные средства для погашения выданного ему займа. Такие суммы сотрудник может возместить только по&nbsp;собственной инициативе: внести деньги в&nbsp;кассу, на&nbsp;расчетный счет организации либо написать заявление с&nbsp;просьбой удерживать средства из&nbsp;его зарплаты.</p><p><a data-anchor="/document/16/211374/bssPhr46/"></a><a data-anchor="/document/16/211374/dfasat8hei/" data-dfa="dfasat8hei"></a>Также не&nbsp;может быть удержана заработная плата, излишне выплаченная работодателем в&nbsp;добровольном порядке, в&nbsp;том числе при неправильном применении закона (<span num="165" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;4</span>&nbsp;ст.&nbsp;269&nbsp;ТК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли удержать с&#160;сотрудников премии, которые были ранее выданы согласно приказу</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211374/bssPhr48/"></a><a data-anchor="/document/16/211374/dfascbyuzx/" data-dfa="dfascbyuzx"></a>Нет, нельзя.</p><p><a data-anchor="/document/16/211374/bssPhr49/"></a><a data-anchor="/document/16/211374/dfas4s10ac/" data-dfa="dfas4s10ac"></a>Руководитель предприятия не&nbsp;вправе удержать с&nbsp;работников выплаченную премию, если ее&nbsp;выплату документально оформили правильно, приказ подписан уполномоченным на&nbsp;это лицом.</p><p><a data-anchor="/document/16/211374/bssPhr50/"></a><a data-anchor="/document/16/211374/dfas7ypp0w/" data-dfa="dfas7ypp0w"></a>Если документально выплату премии оформили с&nbsp;нарушениями, то&nbsp;руководитель предприятия может привлечь к&nbsp;дисциплинарной ответственности виновное лицо. Но&nbsp;и&nbsp;в&nbsp;этом случае выплаченную премию нельзя удерживать с&nbsp;работников.</p><p><a data-anchor="/document/16/211374/bssPhr51/"></a><a data-anchor="/document/16/211374/dfas3aub4u/" data-dfa="dfas3aub4u"></a>Случаи удержаний по&nbsp;инициативе администрации перечислены в <span num="129" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;269</span>&nbsp;ТК.</p><p><a data-anchor="/document/16/211374/bssPhr52/"></a><a data-anchor="/document/16/211374/dfashgq4tw/" data-dfa="dfashgq4tw"></a>Выплаченная премия работника не&nbsp;входит в&nbsp;перечисленный перечень, поэтому руководитель не&nbsp;вправе удержать выплаченную сумму премии с&nbsp;работников.</p></div></div></div><a data-anchor="/document/16/211374/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211374/bssPhr53/"></a><a data-anchor="/document/16/211374/dfasdzensh/" data-dfa="dfasdzensh"></a>Суммы, которые организация обязана удерживать из&nbsp;зарплаты работников</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211374/bssPhr55/"></a><a data-anchor="/document/16/211374/dfasl89qyl/" data-dfa="dfasl89qyl"></a><a data-anchor="/document/16/211374/dfask4u5sd/" data-dfa="dfask4u5sd"></a>Организация без согласия работника обязана из&nbsp;его зарплаты удерживать:</p><ul class="c-list"><li><a data-anchor="/document/16/211374/bssPhr56/"></a><a data-anchor="/document/16/211374/dfasrh3ufs/" data-dfa="dfasrh3ufs"></a>налоги и&nbsp;сборы, установленные в&nbsp;Республике Узбекистан;</li><li>суммы для исполнения судебных решений и&nbsp;других исполнительных документов.</li></ul><p><a data-anchor="/document/16/211374/bssPhr57/"></a><a data-anchor="/document/16/211374/dfasw83bvg/" data-dfa="dfasw83bvg"></a>Случаи обязательных удержаний перечислены в&nbsp;пунктах <span num="130" target="_self" lnktype="intlnk" title="" class="doc">1</span>, <span num="131" target="_self" lnktype="intlnk" title="" class="doc">2</span>&nbsp;части&nbsp;2&nbsp;статьи&nbsp;269&nbsp;ТК.</p></div><a data-anchor="/document/16/211374/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211374/bssPhr58/"></a><a data-anchor="/document/16/211374/dfasz04xos/" data-dfa="dfasz04xos"></a>Максимальный размер удержания</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/211374/bssPhr60/"></a><a data-anchor="/document/16/211374/dfascnkdv3/" data-dfa="dfascnkdv3"></a>Из&nbsp;каждой зарплаты сотрудника можно удержать не&nbsp;более 50&nbsp;процентов</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211374/bssPhr61/"></a><a data-anchor="/document/16/211374/dfaspeind9/" data-dfa="dfaspeind9"></a>Это определено в <span num="215" target="_self" lnktype="intlnk" title="" class="doc">части 1</span> статьи 270 ТК. Если размер удержаний превышает 50 процентов, то оставшуюся сумму задолженности удерживайте в следующих месяцах.&nbsp;</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/211374/bssPhr62/"></a><a data-anchor="/document/16/211374/dfas3q3260/" data-dfa="dfas3q3260"></a>Это ограничение не&nbsp;распространяется на&nbsp;удержание алиментов у&nbsp;работников, которым назначено наказание в&nbsp;виде исправительных работ. В&nbsp;этом случае размер удержаний по&nbsp;наказанию и&nbsp;по&nbsp;алиментам не&nbsp;может превышать 70&nbsp;процентов (<span num="167" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;270&nbsp;ТК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>С какой суммы заработка &#8212; до или после удержания НДФЛ рассчитывать общий размер удержания</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211374/bssPhr64/"></a><a data-anchor="/document/16/211374/dfass2l3w0/" data-dfa="dfass2l3w0"></a>При каждой выплате заработной платы общий размер удержаний не&nbsp;может превышать&nbsp;50 процентов&nbsp;причитающейся работнику оплаты труда (<span num="132" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;270&nbsp;ТК).</p><p><a data-anchor="/document/16/211374/bssPhr65/"></a><a data-anchor="/document/16/211374/dfash5isvm/" data-dfa="dfash5isvm"></a>В&nbsp;общий размер удержаний входят налоги и&nbsp;сборы, удерживаемые из&nbsp;дохода работника.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211374/bssPhr66/"></a><a data-anchor="/document/16/211374/dfasvix6qf/" data-dfa="dfasvix6qf"></a>Расчета максимального размера удержаний из&nbsp;месячной зарплаты сотрудника</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211374/bssPhr67/"></a><a data-anchor="/document/16/211374/dfas4a6o5w/" data-dfa="dfas4a6o5w"></a>В&nbsp;апреле по&nbsp;вине сотрудника организации А.С. Кондратьева вышел из&nbsp;строя принтер. Договор о&nbsp;полной материальной ответственности с&nbsp;сотрудником не&nbsp;заключен.</p><p><a data-anchor="/document/16/211374/bssPhr68/"></a><a data-anchor="/document/16/211374/dfasgsuky4/" data-dfa="dfasgsuky4"></a>Размер материального ущерба оценен в&nbsp;1&nbsp;200&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211374/bssPhr69/"></a><a data-anchor="/document/16/211374/dfasksmlyl/" data-dfa="dfasksmlyl"></a>Должностной оклад Кондратьева&nbsp;— 2&nbsp;500&nbsp;000&nbsp;сумов. Его средний месячный заработок&nbsp;— 2&nbsp;600&nbsp;000&nbsp;сумов. Поэтому организация может взыскать с&nbsp;сотрудника всю сумму причиненного ущерба&nbsp;— 1&nbsp;200&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211374/bssPhr70/"></a><a data-anchor="/document/16/211374/dfascrbrb8/" data-dfa="dfascrbrb8"></a>Максимальный размер удержания за&nbsp;апрель составит 1&nbsp;250&nbsp;000 сумов (2&nbsp;500&nbsp;000 × 50&nbsp;%). Сумма НДФЛ за&nbsp;апрель составляет 300&nbsp;000 сумов (2&nbsp;500&nbsp;000 × 12&nbsp;%).</p><p><a data-anchor="/document/16/211374/bssPhr71/"></a><a data-anchor="/document/16/211374/dfasi2t7pw/" data-dfa="dfasi2t7pw"></a>Следовательно, сумма к&nbsp;удержанию за&nbsp;материальный ущерб в&nbsp;апреле составит 950&nbsp;000 сумов (1&nbsp;250&nbsp;000&nbsp;— 300&nbsp;000). Оставшиеся 250&nbsp;000 сумов (1&nbsp;200&nbsp;000&nbsp;— 950&nbsp;000) бухгалтерия удержит из&nbsp;зарплаты сотрудника в&nbsp;следующем месяце.</p></div></div></div><a data-anchor="/document/16/211374/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/211374/bssPhr72/"></a><a data-anchor="/document/16/211374/dfasmxp7fl/" data-dfa="dfasmxp7fl"></a>Удержание по&nbsp;нескольким основаниям</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211374/bssPhr74/"></a><a data-anchor="/document/16/211374/dfas2mq5m4/" data-dfa="dfas2mq5m4"></a>Организация, которой сотрудник задолжал какие-то деньги, имеет право до&nbsp;50&nbsp;процентов его зарплаты удерживать на&nbsp;погашение этого долга (<span num="133" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;269</span>&nbsp;ТК, <span num="134" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;270&nbsp;ТК). Максимальную сумму, которую можно удержать, определяют исходя из&nbsp;дохода сотрудника с&nbsp;учетом НДФЛ.</p><p><a data-anchor="/document/16/211374/bssPhr75/"></a><a data-anchor="/document/16/211374/dfas4916mp/" data-dfa="dfas4916mp"></a>Если на&nbsp;такого сотрудника пришел исполнительный лист, тогда первым делом надо удержать долг по&nbsp;этому листу. Максимальная сумма удержаний в&nbsp;этом случае также составляет&nbsp;— 50&nbsp;процентов.</p><p><a data-anchor="/document/16/211374/bssPhr76/"></a><a data-anchor="/document/16/211374/dfasru8xz5/" data-dfa="dfasru8xz5"></a>После того как удержаны суммы по&nbsp;исполнительным листам, можно взыскивать с&nbsp;сотрудника долг перед организацией. Но&nbsp;при этом все равно нужно соблюдать ограничение в&nbsp;50&nbsp;процентов. Если по&nbsp;исполнительному листу надо удержать, к&nbsp;примеру, 30&nbsp;процентов от&nbsp;зарплаты, удержание НДФЛ составляет 12&nbsp;процентов, то&nbsp;взыскать долг работника перед самой организацией в&nbsp;этом месяце можно только в&nbsp;размере 8&nbsp;процентов.</p><p><a data-anchor="/document/16/211374/bssPhr77/"></a><a data-anchor="/document/16/211374/dfas0ckpx3/" data-dfa="dfas0ckpx3"></a>В&nbsp;то&nbsp;же время законодательно не&nbsp;предусмотрено ограничение на&nbsp;удержания с&nbsp;зарплаты работника по&nbsp;его желанию. То&nbsp;есть по&nbsp;просьбе сотрудника организация вправе удерживать из&nbsp;его зарплаты любые суммы. Поэтому вы&nbsp;можете попросить сотрудника письменно выразить свое согласие на&nbsp;удержание его долга перед организацией. Если он&nbsp;на&nbsp;это согласится, то&nbsp;компания сможет и&nbsp;взыскать деньги по&nbsp;исполнительному листу, и&nbsp;удержать с&nbsp;работника его долг перед компанией.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211374/bssPhr78/"></a><a data-anchor="/document/16/211374/dfasv6871s/" data-dfa="dfasv6871s"></a>Расчета максимального размера удержаний из зарплаты сотрудника, если он одновременно погашает задолженность перед организацией и по исполнительному документу</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211374/bssPhr79/"></a><a data-anchor="/document/16/211374/dfasw87rxe/" data-dfa="dfasw87rxe"></a>В&nbsp;апреле в&nbsp;организацию поступил исполнительный лист на&nbsp;взыскание с&nbsp;сотрудника А.С. Кондратьева 600&nbsp;000 сумов в&nbsp;возмещение непогашенной ссуды. Кроме того, на&nbsp;начало апреля за&nbsp;сотрудником числился невозвращенный аванс, выданный на&nbsp;командировочные расходы, в&nbsp;сумме 400&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211374/bssPhr80/"></a><a data-anchor="/document/16/211374/dfas81t37f/" data-dfa="dfas81t37f"></a>Ежемесячная зарплата Кондратьева составляет 1&nbsp;800&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211374/bssPhr81/"></a><a data-anchor="/document/16/211374/dfasnbm3y7/" data-dfa="dfasnbm3y7"></a>Максимальный размер удержаний за&nbsp;апрель равен:<br>1&nbsp;800&nbsp;000 × 50&nbsp;% = 900&nbsp;000&nbsp;сумов. Сумма НДФЛ за&nbsp;апрель составляет 216&nbsp;000 сумов (1&nbsp;800&nbsp;000 × 12&nbsp;%). В&nbsp;возмещение непогашенной ссуды бухгалтер удержал из&nbsp;зарплаты Кондратьева 600&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211374/bssPhr82/"></a><a data-anchor="/document/16/211374/dfas8y8zt9/" data-dfa="dfas8y8zt9"></a>А&nbsp;вот невозвращенный аванс в&nbsp;полном размере (400&nbsp;000&nbsp;сумов) удержать нельзя, так как действует ограничение в&nbsp;50&nbsp;процентов от&nbsp;получаемой зарплаты. То&nbsp;есть максимум 900&nbsp;000&nbsp;сумов. Так как по&nbsp;исполнительному листу уже удержано 600&nbsp;000&nbsp;сумов, а&nbsp;также удержана сумма НДФЛ 216&nbsp;000&nbsp;сумов, то, невозвращенный аванс можно удержать только в&nbsp;размере 84&nbsp;000 сумов (900&nbsp;000&nbsp;— 216&nbsp;000&nbsp;— 600&nbsp;000). Оставшуюся часть невозвращенного аванса в&nbsp;размере 316&nbsp;000 сумов (400&nbsp;000&nbsp;— 84&nbsp;000) бухгалтер удержит из&nbsp;дохода сотрудника в&nbsp;следующем месяце.</p></div></div></div><a data-anchor="/document/16/211374/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/211374/bssPhr83/"></a><a data-anchor="/document/16/211374/dfasi1wdfk/" data-dfa="dfasi1wdfk"></a>Чем опасно неправомерное удержание</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211374/bssPhr85/"></a><a data-anchor="/document/16/211374/dfasbt0g4d/" data-dfa="dfasbt0g4d"></a>Если работодатель по&nbsp;своей инициативе удерживает с&nbsp;сотрудников суммы, которые не&nbsp;предусмотрены&nbsp;ТК, это будет расценено как нарушение законодательства о&nbsp;труде и&nbsp;влечет за&nbsp;собой ответственность по <span num="31" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;49</span>&nbsp;КоАО: наложение штрафа от&nbsp;5&nbsp;до&nbsp;10&nbsp;размеров БРВ.</p><p><a data-anchor="/document/16/211374/bssPhr86/"></a><a data-anchor="/document/16/211374/dfasbfcbu5/" data-dfa="dfasbfcbu5"></a>Наказать организацию, ее&nbsp;должностных лиц может трудовая инспекция. Инспекторы могут обнаружить нарушение в&nbsp;ходе проверки организации или узнать о&nbsp;нем из&nbsp;жалобы сотрудника.</p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

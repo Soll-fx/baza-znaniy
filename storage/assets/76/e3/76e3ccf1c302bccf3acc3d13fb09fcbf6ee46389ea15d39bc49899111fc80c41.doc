@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как учесть расходы по реализации</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/210285/dfas41xv6m/" data-dfa="dfas41xv6m"></a><a data-anchor="/document/16/210285/bssPhr2/"></a>Из&nbsp;рекомендации Системы Главбух узнаете, что относить к&nbsp;расходам по&nbsp;реализации и&nbsp;как их&nbsp;отразить в&nbsp;бухучете. Эксперты привели примеры основных типовых проводок по&nbsp;учету расходов по&nbsp;реализации. Узнайте, как расходы по&nbsp;реализации влияют на&nbsp;налогообложение. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210285/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210285/bssPhr3/"></a><a data-anchor="/document/16/210285/dfasqyc8fi/" data-dfa="dfasqyc8fi"></a>Состав расходов по&nbsp;реализации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:20pt"><a data-anchor="/document/16/210285/bssPhr7/"></a><a data-anchor="/document/16/210285/dfasy1ix02/" data-dfa="dfasy1ix02"></a>К&nbsp;расходам по&nbsp;реализации относите расходы, которые связаны со&nbsp;сбытом и&nbsp;реализацией продукции, товаров, выполнением работ, оказанием услуг.</p><p><a data-anchor="/document/16/210285/bssPhr10/"></a><a data-anchor="/document/16/210285/dfasdn05z6/" data-dfa="dfasdn05z6"></a>В состав расходов на реализацию входят расходы:</p><ul class="c-list"><li><a data-anchor="/document/16/210285/bssPhr11/"></a><a data-anchor="/document/16/210285/dfaspnro2m/" data-dfa="dfaspnro2m"></a>на организацию сбыта продукции, работ, услуг;</li><li>содержание помещений для хранения продукции в местах ее реализации;</li><li>рекламу, разработку и издание рекламных изделий, на световую и иную наружную рекламу, на изготовление стендов, оформление витрин, выставок-продаж, комнат образцов;</li><li>аренду, содержание и ремонт зданий, сооружений и помещений, используемых для торговых нужд;</li><li>оплату труда соответствующих служб, в функции которых входит маркетинг — изучение рынков сбыта, конкурентоспособности выпускаемой продукции и др., а также непосредственно продажа товаров, работ услуг покупателям — отделы продаж и сбыта и социальный налог, начисленный на ФОТ работников, связанных с реализацией товаров, работ, услуг;</li><li>погрузку и транспортировку продукции к покупателям;</li><li>прочие расходы по реализации продукции.</li></ul><p><a data-anchor="/document/16/210285/bssPhr12/"></a><a data-anchor="/document/16/210285/dfasicr0zt/" data-dfa="dfasicr0zt"></a>Подробный состав основных расходов по&nbsp;реализации смотрите в <span num="33" target="_self" lnktype="intlnk" title="" class="doc">разделе&nbsp;2.1</span> Положения о&nbsp;составе затрат.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как оформить и&#160;учесть расходы на&#160;участие в&#160;выставке</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210285/bssPhr14/"></a><a data-anchor="/document/16/210285/dfas2lo2g5/" data-dfa="dfas2lo2g5"></a>Затраты на&nbsp;участие предприятия в&nbsp;выставках относятся к&nbsp;рекламным расходам. К&nbsp;ним относите только те&nbsp;расходы, без которых участие в&nbsp;выставке невозможно. Например, регистрационный взнос, оплата выставочной площадки и&nbsp;стенда, расходы на&nbsp;оформление витрин, комнат образцов, изготовление каталогов, рекламных брошюр с&nbsp;информацией о&nbsp;производимых товарах, услугах.</p><p><a data-anchor="/document/16/210285/bssPhr15/"></a><a data-anchor="/document/16/210285/dfas0eyf2h/" data-dfa="dfas0eyf2h"></a>Решение об&nbsp;участии в&nbsp;выставке принимают собственники предприятия, также они утверждают бюджет расходов, смету расходов на&nbsp;выставку. Решение собственников оформляют протоколом.</p><p><a data-anchor="/document/16/210285/bssPhr16/"></a><a data-anchor="/document/16/210285/dfasb3979r/" data-dfa="dfasb3979r"></a>Обязательно издайте приказ по&nbsp;предприятию и&nbsp;назначьте ответственных лиц, которые будут контролировать процесс подготовки к&nbsp;выставке и&nbsp;расходы, установленные сметой.</p><p><a data-anchor="/document/16/210285/bssPhr17/"></a><a data-anchor="/document/16/210285/dfasuh5kge/" data-dfa="dfasuh5kge"></a>Примерный список документов, которые необходимы для оформления участия в&nbsp;выставке:</p><ul class="c-list"><li><a data-anchor="/document/16/210285/bssPhr18/"></a><a data-anchor="/document/16/210285/dfasi5wbhv/" data-dfa="dfasi5wbhv"></a>смета расходов на&nbsp;выставку;</li><li>протокол собрания собственников;</li><li>приказ руководителя предприятия;</li><li>заявка на&nbsp;участие в&nbsp;выставке и&nbsp;бронирование места;</li><li>договор с&nbsp;организатором выставки на&nbsp;аренду площади и&nbsp;стенда в&nbsp;выставочном зале, ЭСФ;</li><li>договор и&nbsp;ЭСФ на&nbsp;изготовление баннеров, буклетов и&nbsp;т.д.&nbsp;с&nbsp;логотипом предприятия и&nbsp;информацией о&nbsp;товарах, услугах;</li><li>акт передачи образцов, предназначенных для выставки;</li><li>акты на&nbsp;списание образцов.</li></ul><p><a data-anchor="/document/16/210285/bssPhr19/"></a><a data-anchor="/document/16/210285/dfasp58vzx/" data-dfa="dfasp58vzx"></a>Расходы, произведенные в&nbsp;рамках выставки, относите к&nbsp;расходам по&nbsp;реализации (<span num="50" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.1.3</span> Положения о&nbsp;составе затрат ПКМ от&nbsp;05.02.1999 №&nbsp;54) и&nbsp;учитывайте на <strong>счете 9410 «Расходы по&nbsp;реализации»</strong> (<span num="51" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;21</span>).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли относить к расходам по реализации расходы на проведение рекламных акций</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210285/bssPhr21/"></a><a data-anchor="/document/16/210285/dfasweyunt/" data-dfa="dfasweyunt"></a>Да, можно, если расходы на рекламную кампанию экономически обоснованы&nbsp;и документально подтверждены.</p><p><a data-anchor="/document/16/210285/bssPhr22/"></a><a data-anchor="/document/16/210285/dfasxeg72k/" data-dfa="dfasxeg72k"></a>Чтобы документально подтвердить расходы на проведение рекламных мероприятий и передачу товаров в рекламных целях оформите документы:</p><ul class="c-list"><li><a data-anchor="/document/16/210285/bssPhr23/"></a><a data-anchor="/document/16/210285/dfask20vmz/" data-dfa="dfask20vmz"></a>план мероприятий, который должен содержать описание целей, задач и сроков проведения акции; формат акции (скидки, розыгрыши, бонусы и т.д.); целевую аудиторию акции, если таковая есть; ожидаемые результаты – увеличение продаж, привлечение новых клиентов и т.п.;</li><li>смету расходов – расчет затрат на проведение акции, включая расходы на рекламу, призы, скидки, услуги подрядчиков и т. д.; источники финансирования акции – собственные средства компании или другие источники; оценка финансовых результатов – прогноз прироста выручки, возврата инвестиций;</li><li>официальные правила акции, которые должны быть утверждены и доступны участникам. Они могут включать описание механики акции, требования к участникам, призовой фонд, сроки проведения и порядок выбора победителей;</li><li>приказ руководителя об утверждении мероприятия и сметы, а также раздаче товара в целях рекламы;</li><li>документы, подтверждающие приобретение рекламной продукции – счета-фактуры, накладные;</li><li>договоры дарения с победителями акции,&nbsp;если акция предполагает раздачу призов или подарков;</li><li>документы о передаче со склада материально-ответственным лицам товаров;</li><li>ЭСФ,&nbsp;если передача экономически не обоснована и документально не подтверждена;</li><li>отчеты, акты списания&nbsp;товара, использованного&nbsp; в рекламных целях.</li></ul><p style="text-align:left"><a data-anchor="/document/16/210285/bssPhr24/"></a><a data-anchor="/document/16/210285/dfasq6xr6c/" data-dfa="dfasq6xr6c"></a>Расходы на проведение рекламной акции можно включить в маркетинговую политику предприятия, что также позволит обосновать их экономическую оправданность.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как документально оформить&#160;услуги&#160;Яндекс Такси Go для бизнеса,&#160; поездок сотрудников компании в служебных и производственных&#160;целях</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210285/bssPhr26/"></a><a data-anchor="/document/16/210285/dfasg7ngxh/" data-dfa="dfasg7ngxh"></a>Прежде всего предприятие должно заключить договор с Яндекс Такси Go.&nbsp;Чтобы определить порядок учета и отчетности сотрудников по данному виду расходов&nbsp;следует разработать внутренний документ, к примеру, Положение, регулирующие поездки сотрудников посредством Яндекс такси. Этот документ&nbsp;утвердите&nbsp;учетной политикой предприятия. В нем следует прописать порядок использования такси для служебных поездок, правила предоставления отчетов работников, методику учета расходов на такси.</p><p><a data-anchor="/document/16/210285/bssPhr27/"></a><a data-anchor="/document/16/210285/dfasmu52dt/" data-dfa="dfasmu52dt"></a>Форму отчетов сотрудников о поездках можно разработать самостоятельно. Форма должна содержать&nbsp;даты, маршруты поездок и их цели, стоимость поездок. Отчет подписывают руководитель предприятия и сотрудник, совершивший поездку. Также можно вести журнал поездок, его форму тоже можете разработать самостоятельно. Главное, все виды первичных документов, подтверждающих поездки сотрудников,&nbsp;утвердить во внутреннем документе.</p><p><a data-anchor="/document/16/210285/bssPhr28/"></a><a data-anchor="/document/16/210285/dfas73rbs8/" data-dfa="dfas73rbs8"></a>Методику расчета расходов определите в зависимости от целей разъездов. К примеру, если поездка связана с доставкой или рекламой продукции, то такие расходы можно относить на расходы по реализации. При разработке методики отнесения расходов на такси руководствуйтесь <span num="105" target="_blank" lnktype="intlnk" title="" class="doc">Положением</span> о составе затрат (ПКМ от 05.02.1999 № 54).</p></div></div></div><a data-anchor="/document/16/210285/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210285/bssPhr29/"></a><a data-anchor="/document/16/210285/dfasyue3yp/" data-dfa="dfasyue3yp"></a>Бухучет расходов по&nbsp;реализации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210285/bssPhr32/"></a><a data-anchor="/document/16/210285/dfas6gsxyv/" data-dfa="dfas6gsxyv"></a>В&nbsp;бухучете расходы по&nbsp;реализации отражайте на&nbsp;счете <strong>9410 «Расходы по&nbsp;реализации»</strong>.&nbsp;Суммы расходов в&nbsp;разрезе аналитики отражайте по <strong style="letter-spacing:0.01em">дебету счета 9410</strong>.&nbsp;Записи производите накопительно в&nbsp;течение отчетного периода.&nbsp;</p><p><a data-anchor="/document/16/210285/bssPhr33/"></a><a data-anchor="/document/16/210285/dfas8wcyk8/" data-dfa="dfas8wcyk8"></a>Примеры основных типовых проводок по&nbsp;счету <strong>9410 </strong>приведены в <span num="34" target="_self" lnktype="intlnk" title="" class="doc">п. 412</span>&nbsp;Инструкции к&nbsp;плану счетов.</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" rowspan="2"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr34/"></a><a data-anchor="/document/16/210285/dfasn247vo/" data-dfa="dfasn247vo"></a><strong>Содержание хозяйственной операции</strong></p></td><td class="bdTopbdBottombdRight" colspan="2"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr35/"></a><a data-anchor="/document/16/210285/dfasgbxmpx/" data-dfa="dfasgbxmpx"></a><strong>Корреспонденция счетов</strong></p></td></tr><tr><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr36/"></a><a data-anchor="/document/16/210285/dfasmfwlqs/" data-dfa="dfasmfwlqs"></a><strong>Дебет</strong></p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr37/"></a><a data-anchor="/document/16/210285/dfasozs1sz/" data-dfa="dfasozs1sz"></a><strong>Кредит</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/210285/bssPhr38/"></a><a data-anchor="/document/16/210285/dfas7ehufb/" data-dfa="dfas7ehufb"></a>Транспортные расходы по&nbsp;отгрузке продукции</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr39/"></a><a data-anchor="/document/16/210285/dfas7n5068/" data-dfa="dfas7n5068"></a>9410</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr40/"></a><a data-anchor="/document/16/210285/dfasrcec1o/" data-dfa="dfasrcec1o"></a>6990</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/210285/bssPhr41/"></a><a data-anchor="/document/16/210285/dfascik8b4/" data-dfa="dfascik8b4"></a>Рекламные и&nbsp;маркетинговые услуги со&nbsp;стороны</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr42/"></a><a data-anchor="/document/16/210285/dfasre1i27/" data-dfa="dfasre1i27"></a>9410</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr43/"></a><a data-anchor="/document/16/210285/dfasykiylo/" data-dfa="dfasykiylo"></a>6010</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/210285/bssPhr44/"></a><a data-anchor="/document/16/210285/dfasz6gcqn/" data-dfa="dfasz6gcqn"></a>Износ основных средств, используемых в&nbsp;торговом процессе</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr45/"></a><a data-anchor="/document/16/210285/dfas7ohuu3/" data-dfa="dfas7ohuu3"></a>9410</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr46/"></a><a data-anchor="/document/16/210285/dfas9bwcng/" data-dfa="dfas9bwcng"></a>0210-0299</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p><a data-anchor="/document/16/210285/bssPhr47/"></a><a data-anchor="/document/16/210285/dfaslfpve8/" data-dfa="dfaslfpve8"></a>Амортизация нематериальных активов, используемых в&nbsp;торговом процессе</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr48/"></a><a data-anchor="/document/16/210285/dfasg12b4a/" data-dfa="dfasg12b4a"></a>9410</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/210285/bssPhr49/"></a><a data-anchor="/document/16/210285/dfase2tkei/" data-dfa="dfase2tkei"></a>0510-0590</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/210285/bssPhr50/"></a><a data-anchor="/document/16/210285/dfasglhbvv/" data-dfa="dfasglhbvv"></a>По&nbsp;завершении отчетного периода все суммы расходов по&nbsp;реализации списывайте со&nbsp;счета <strong>9410 </strong>и&nbsp;закрывайте в&nbsp;корреспонденции со&nbsp;счетом <strong>9910 «Конечный финансовый результат»</strong>:</p><p><a data-anchor="/document/16/210285/bssPhr51/"></a><a data-anchor="/document/16/210285/dfastaxk9a/" data-dfa="dfastaxk9a"></a><strong>Дебет 9910 Кредит 9410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210285/bssPhr52/"></a><a data-anchor="/document/16/210285/dfas6wf4uz/" data-dfa="dfas6wf4uz"></a>списаны на&nbsp;финансовый результат расходы по&nbsp;реализации.</li></ul><p><a data-anchor="/document/16/210285/bssPhr53/"></a><a data-anchor="/document/16/210285/dfas1c1b3g/" data-dfa="dfas1c1b3g"></a>Данные о&nbsp;расходах по&nbsp;реализации отражайте в&nbsp;годовом отчете о&nbsp;прибылях и&nbsp;убытках <span num="35" target="_self" lnktype="intlnk" title="" class="doc">формы №&nbsp;2&nbsp;«Отчет о&nbsp;финансовых результатах»</span> в&nbsp;составе расходов периода вместе с <span num="36" target="_self" lnktype="intlnk" title="" class="doc">прочими операционными расходами</span> и <span num="37" target="_self" lnktype="intlnk" title="" class="doc">административными расходами</span>.</p><p><a data-anchor="/document/16/210285/bssPhr54/"></a><a data-anchor="/document/16/210285/dfasg0gshf/" data-dfa="dfasg0gshf"></a>Общую сумму расходов по&nbsp;реализации отражайте в&nbsp;строке 050 <span data-warm-notices="35402952" data-warm-notice-type="error" num="38" target="_self" lnktype="intlnk" title="" class="doc">«Отчета о&nbsp;финансовых результатах»</span>.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как отразить в&#160;бухучете оплату доставки товара собственного производства до&#160;заказчика через Яндекс такси по&#160;корпоративной карте</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210285/bssPhr56/"></a><a data-anchor="/document/16/210285/dfastkvkuk/" data-dfa="dfastkvkuk"></a>Доставка товара&nbsp;— это договорные отношения между поставщиком и&nbsp;покупателем. Доставить товар можно тем транспортом и&nbsp;на&nbsp;тех условиях, которые предусмотрены договором поставки. Если в&nbsp;договоре поставки они не&nbsp;определены, право выбора&nbsp;— за&nbsp;поставщиком (<span num="76" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;442</span>&nbsp;ГК).</p><p><a data-anchor="/document/16/210285/bssPhr57/"></a><a data-anchor="/document/16/210285/dfasoz52bh/" data-dfa="dfasoz52bh"></a>Договор поставки определяет условия, за&nbsp;чей счет доставляют товар&nbsp;— за&nbsp;счет поставщика или покупателя, от&nbsp;этого зависит бухучет расходов на&nbsp;доставку товаров, при привлечении услуг Яндекс такси.</p><p><a data-anchor="/document/16/210285/bssPhr58/"></a><a data-anchor="/document/16/210285/dfasec65oz/" data-dfa="dfasec65oz"></a>Если поставщик выставляет к&nbsp;оплате стоимость доставки сверх стоимости товаров, а&nbsp;покупатель оплачивает ее&nbsp;отдельно, то&nbsp;поставщик учитывает услуги по&nbsp;организации доставки как отдельный вид деятельности. А&nbsp;оплаченные услуги Яндекс такси относит на&nbsp;себестоимость услуг по&nbsp;доставке.</p><p><a data-anchor="/document/16/210285/bssPhr59/"></a><a data-anchor="/document/16/210285/dfas9pto87/" data-dfa="dfas9pto87"></a>Если доставку оплачивает поставщик, что прописано в&nbsp;условиях договора поставки, то&nbsp;расходы по&nbsp;доставке относят на&nbsp;расходы по&nbsp;реализации 9410 (<span num="77" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;407</span>&nbsp;НСБУ №&nbsp;21, <span data-warm-notices="41227539" data-warm-notice-type="error" num="78" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.1.1</span> Положения о&nbsp;составе затрат).</p><p><a data-anchor="/document/16/210285/bssPhr60/"></a><a data-anchor="/document/16/210285/dfasy0pn14/" data-dfa="dfasy0pn14"></a>В&nbsp;этом случае отразите в&nbsp;бухучете оплату доставки товара через Яндекс такси по&nbsp;корпоративной карте проводками:</p><p><a data-anchor="/document/16/210285/bssPhr61/"></a><a data-anchor="/document/16/210285/dfaslm44bu/" data-dfa="dfaslm44bu"></a><strong>Дебет 5530 Кредит 5110</strong></p><p><a data-anchor="/document/16/210285/bssPhr62/"></a><a data-anchor="/document/16/210285/dfasq8r30e/" data-dfa="dfasq8r30e"></a>—&nbsp;зачислены денежные средства на&nbsp;корпоративную карту;</p><p><a data-anchor="/document/16/210285/bssPhr63/"></a><a data-anchor="/document/16/210285/dfas8s2cqm/" data-dfa="dfas8s2cqm"></a><strong>Дебет 4230 или 4290 Кредит 5530</strong></p><p><a data-anchor="/document/16/210285/bssPhr64/"></a><a data-anchor="/document/16/210285/dfasgc53ty/" data-dfa="dfasgc53ty"></a>—&nbsp;оплачены услуги Яндекс такси;</p><p><a data-anchor="/document/16/210285/bssPhr65/"></a><a data-anchor="/document/16/210285/dfaslmg045/" data-dfa="dfaslmg045"></a><strong>Дебет 9410 Кредит 4230</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210285/bssPhr66/"></a><a data-anchor="/document/16/210285/dfasr3uhbq/" data-dfa="dfasr3uhbq"></a>списаны с&nbsp;подотчетного лица расходы, оплаченные с&nbsp;карты по&nbsp;представленным документам.</li></ul></div></div></div><a data-anchor="/document/16/210285/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210285/bssPhr67/"></a><a data-anchor="/document/16/210285/dfasc0o513/" data-dfa="dfasc0o513"></a>Налогообложение</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210285/bssPhr69/"></a><a data-anchor="/document/16/210285/dfasy1geey/" data-dfa="dfasy1geey"></a>В&nbsp;целях налогообложения расходы по&nbsp;реализации, учитываемые при расчете <span num="39" target="_self" lnktype="intlnk" title="" class="doc">налога на&nbsp;прибыль</span>, можно разделить на&nbsp;две группы.</p><ol class="c-list" style="counter-reset: item 0;" start="1"><li><a data-anchor="/document/16/210285/bssPhr70/"></a><a data-anchor="/document/16/210285/dfasafm31a/" data-dfa="dfasafm31a"></a>Вычитаемые&nbsp;— определены в <span num="40" target="_self" lnktype="intlnk" title="" class="doc">статьях&nbsp;305</span>-<span num="41" target="_self" lnktype="intlnk" title="" class="doc">316</span>&nbsp;НК. К&nbsp;таким расходам относите, например, расходы на&nbsp;транспортные перевозки товаров, расходы на&nbsp;оплату труда и&nbsp;социальный налог работников, связанных с&nbsp;реализацией.</li></ol><ol class="c-list" style="counter-reset: item 1;" start="2"><li><a data-anchor="/document/16/210285/bssPhr71/"></a><a data-anchor="/document/16/210285/dfas0wiv1v/" data-dfa="dfas0wiv1v"></a>Невычитаемые&nbsp;— определены в <span num="42" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;317</span>&nbsp;НК. Например, потери сверх норм естественной убыли товаров, продуктов при перевозке, хранении и&nbsp;реализации относите к&nbsp;невычитаемым расходам.</li></ol><p><a data-anchor="/document/16/210285/bssPhr72/"></a><a data-anchor="/document/16/210285/dfaso2hmop/" data-dfa="dfaso2hmop"></a>Все расходы подтверждайте первичными документами. НДС, выделенный поставщиком товаров (услуг), можно принять к&nbsp;зачету при соответствии условиям статьи&nbsp;<span num="90" target="_self" lnktype="intlnk" title="" class="doc">266</span>&nbsp;НК.</p><p><a data-anchor="/document/16/210285/bssPhr73/"></a><a data-anchor="/document/16/210285/dfasflpoo7/" data-dfa="dfasflpoo7"></a>При расчете налога с&nbsp;оборота расходы по&nbsp;реализации не&nbsp;учитываются (ст.&nbsp;<span num="91" target="_self" lnktype="intlnk" title="" class="doc">463</span>&nbsp;НК, ст.&nbsp;<span num="92" target="_self" lnktype="intlnk" title="" class="doc">464</span>&nbsp;НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Уплачивать&#160;ли НДС при отправке за&#160;границу некоммерческой поставки образцов товара с&#160;оформлением ГТД</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210285/bssPhr75/"></a><a data-anchor="/document/16/210285/dfasc4wxln/" data-dfa="dfasc4wxln"></a>Отправку за&nbsp;границу образцов товара потенциальному покупателю с&nbsp;оформлением ГТД рекомендуем списать на&nbsp;расходы по&nbsp;реализации.</p><p style="text-align:left"><a data-anchor="/document/16/210285/bssPhr76/"></a><a data-anchor="/document/16/210285/dfasxfoivx/" data-dfa="dfasxfoivx"></a>Затраты по&nbsp;изучению рынков сбыта предприятия и&nbsp;организации относят на&nbsp;расходы по&nbsp;реализации (<span num="60" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.1.3</span>. Положения о&nbsp;составе затрат по&nbsp;производству и&nbsp;реализации продукции, работ, услуг и&nbsp;о&nbsp;порядке формирования финансовых результатов, приложение к&nbsp;ПКМ от&nbsp;05.02.1999 №&nbsp;54).</p><p style="text-align:left"><a data-anchor="/document/16/210285/bssPhr77/"></a><a data-anchor="/document/16/210285/dfaslem8br/" data-dfa="dfaslem8br"></a>Безвозмездная передача товаров&nbsp;— это оборот по&nbsp;реализации, который подлежит обложению НДС. Исключение составляют случаи, когда такая передача экономически оправдана (<span num="61" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2&nbsp;ч.&nbsp;1</span>&nbsp;ст.&nbsp;239&nbsp;НК). Условия признания безвозмездной передачи товаров экономически оправданной установлены в <span num="62" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;3</span>&nbsp;статьи&nbsp;239&nbsp;НК.</p><p style="text-align:left"><a data-anchor="/document/16/210285/bssPhr78/"></a><a data-anchor="/document/16/210285/dfasu57ggc/" data-dfa="dfasu57ggc"></a>При реализации товаров юридические лица обязаны выставлять ЭСФ (<span num="63" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;47</span>&nbsp;НК). Оформлять ЭСФ с&nbsp;НДС или без НДС зависит от&nbsp;того, сможет&nbsp;ли организация обосновать экономическую оправданность передачи товаров.</p><p style="text-align:left"><a data-anchor="/document/16/210285/bssPhr79/"></a><a data-anchor="/document/16/210285/dfas88ubup/" data-dfa="dfas88ubup"></a>Если организация обоснует экономическую оправданность безвозмездной отправки товаров, то&nbsp;ее&nbsp;не&nbsp;считают оборотом по&nbsp;реализации. НДС в&nbsp;этом случае не&nbsp;начисляют, ЭСФ выставляют без НДС. Оказание услуг оформляют актом выполненных работ или иным документом, который подтверждает оказание услуг. Также в&nbsp;этом случае организация не&nbsp;может зачесть входящий НДС, относящийся к&nbsp;данному обороту по&nbsp;реализации товаров (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;267</span>&nbsp;НК). Если организация не&nbsp;станет обосновывать экономическую оправданность безвозмездной отправки товаров, ЭСФ выставляют с&nbsp;НДС. Тогда организация вправе зачесть входящий НДС, относящийся к&nbsp;данному обороту по&nbsp;реализации товаров (<span num="65" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;266&nbsp;НК).</p><p style="text-align:left"><a data-anchor="/document/16/210285/bssPhr80/"></a><a data-anchor="/document/16/210285/dfasiri2pc/" data-dfa="dfasiri2pc"></a>Если организация сможет обосновать, что расходы по&nbsp;передаче образцов готовой продукции для изучения экономически оправданы, то&nbsp;можно вычесть эти расходы при исчислении налоговой базы по&nbsp;налогу на&nbsp;прибыль. Условия экономической оправданности затрат в&nbsp;целях обложения налогом на&nbsp;прибыль установлены в <span num="66" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;4</span>&nbsp;статьи&nbsp;305&nbsp;НК.</p></div></div></div><p><a data-anchor="/document/16/210285/dfasucpdtx/" data-dfa="dfasucpdtx"></a><a data-anchor="/document/16/210285/bssPhr81/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882124" sourceId="1" fullSizeImageId="-41882123" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882124/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

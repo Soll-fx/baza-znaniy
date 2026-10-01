@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как определить валовую прибыль от реализации товаров, продукции, работ, услуг</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/211459/dfase44rma/" data-dfa="dfase44rma"></a><a data-anchor="/document/16/211459/bssPhr2/"></a>В&nbsp;рекомендации Системы Главбух найдете пример с&nbsp;условными цифрами, как определить валовую прибыль от&nbsp;реализации товаров, продукции, работ, услуг. Также эксперты дали проводки, которыми отразить в&nbsp;бухучете выручку от&nbsp;реализации товаров, работ, услуг и&nbsp;себестоимость товаров, работ, услуг. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211459/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211459/bssPhr3/"></a><a data-anchor="/document/16/211459/dfastow65d/" data-dfa="dfastow65d"></a>Выручка от&nbsp;реализации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211459/bssPhr5/"></a><a data-anchor="/document/16/211459/dfasrzn3g4/" data-dfa="dfasrzn3g4"></a>Чтобы определить <span num="29" target="_self" lnktype="intlnk" title="" class="doc">валовую прибыль</span> сначала определите в&nbsp;бухучете выручку от&nbsp;реализации и&nbsp;расходы, которые связаны с&nbsp;приобретением или производством реализуемых товаров, работ, услуг.</p><p><a data-anchor="/document/16/211459/bssPhr6/"></a><a data-anchor="/document/16/211459/dfasw8cfb4/" data-dfa="dfasw8cfb4"></a>Выручка от&nbsp;реализации товаров, работ, услуг&nbsp;— это сумма, которую предприятие получило или должно получить за&nbsp;реализованную продукцию или товары, выполненную работу, оказанные услуги, включая стоимость имущества, поступающего в&nbsp;счет оплаты или погашения задолженности за&nbsp;реализованные товары, работы, услуги.</p><p><a data-anchor="/document/16/211459/bssPhr7/"></a><a data-anchor="/document/16/211459/dfasuotvc3/" data-dfa="dfasuotvc3"></a>Сумму выручки от&nbsp;реализации, а&nbsp;также дату отражения выручки в&nbsp;бухучете определяйте на&nbsp;основании документов, которые подтверждают факт отгрузки товара, выполнения работы, оказания услуги:</p><ul class="c-list"><li><a data-anchor="/document/16/211459/bssPhr8/"></a><a data-anchor="/document/16/211459/dfas3t2n6o/" data-dfa="dfas3t2n6o"></a>счетов-фактур, выставленных в&nbsp;электронной форме;</li><li>чеков контрольно-кассовой техники или виртуальной кассы, при реализации товаров, оказании услуг за&nbsp;наличный расчет или посредством пластиковых карт;</li><li>квитанций установленной формы, являющихся бланками строгой отчетности, которые оформляют при денежных расчетах с&nbsp;населением. Квитанции применяют после их&nbsp;регистрации в&nbsp;налоговых органах и&nbsp;только в&nbsp;случае передачи ККТ на&nbsp;ремонт или временного отсутствия электроэнергии в&nbsp;торговой точке или месте оказания услуг;</li><li>грузовых таможенных деклараций (ГТД) по&nbsp;экспорту товаров;</li><li>выписок из&nbsp;лицевого счета клиента при оформлении банковских операций;</li><li>проездных билетов, в&nbsp;том числе электронных, выдаваемых при перевозке пассажиров любым видом транспортных средств.</li></ul><p><a data-anchor="/document/16/211459/bssPhr10/"></a><a data-anchor="/document/16/211459/dfas7dnrzx/" data-dfa="dfas7dnrzx"></a>Выручку предприятия отражайте на&nbsp;счетах <strong>9000 «Счета учета доходов от&nbsp;основной (операционной) деятельности» </strong>(п. <span num="30" target="_self" lnktype="intlnk" title="" class="doc">379</span>, <span num="31" target="_self" lnktype="intlnk" title="" class="doc">380</span> Инструкции к&nbsp;плану счетов НСБУ №&nbsp;21). При реализации продукции сумму выручки от&nbsp;продаж отражайте на&nbsp;счете <strong>9010 «Доходы от&nbsp;реализации готовой продукции»</strong>, при реализации товаров&nbsp;— на&nbsp;счете <strong>9020 «Доходы от&nbsp;реализации товаров»</strong>, при выполнении работ и&nbsp;оказании услуг&nbsp;— на&nbsp;счете <strong>9030 «Доходы от&nbsp;выполнения работ и&nbsp;оказания услуг»</strong>. Отразите в бухучете <a href="https://1gb.uz/#/document/16/211459/dfas6fiat1/">проводки</a>.</p><p><a data-anchor="/document/16/211459/bssPhr11/"></a><a data-anchor="/document/16/211459/dfaslt9roc/" data-dfa="dfaslt9roc"></a>Сделайте проводки:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" rowspan="2"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr12/"></a><a data-anchor="/document/16/211459/dfasrir5m8/" data-dfa="dfasrir5m8"></a><strong>№</strong></p></td><td class="bdTopbdBottombdRight" rowspan="2"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr13/"></a><a data-anchor="/document/16/211459/dfas6fiat1/" data-dfa="dfas6fiat1"></a><strong>Содержание хозяйственных операций</strong></p></td><td class="bdTopbdBottombdRight" colspan="2"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr14/"></a><a data-anchor="/document/16/211459/dfas6z75ua/" data-dfa="dfas6z75ua"></a><strong>Корреспонденция счетов</strong></p></td></tr><tr><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr15/"></a><a data-anchor="/document/16/211459/dfasv2x5dh/" data-dfa="dfasv2x5dh"></a><strong>Дебет</strong></p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr16/"></a><a data-anchor="/document/16/211459/dfasdqyp76/" data-dfa="dfasdqyp76"></a><strong>Кредит</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr17/"></a><a data-anchor="/document/16/211459/dfasntkld6/" data-dfa="dfasntkld6"></a>1</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr18/"></a><a data-anchor="/document/16/211459/dfas9iyadu/" data-dfa="dfas9iyadu"></a>Сумма в&nbsp;расчетных документах, предоставленных покупателям за&nbsp;отгруженные продукцию, товары, выполненные работы и&nbsp;оказанные услуги (без НДС и&nbsp;акциза)</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr19/"></a><a data-anchor="/document/16/211459/dfasa4q6wg/" data-dfa="dfasa4q6wg"></a>4010<br>«Счета к&nbsp;получению от&nbsp;покупателей и&nbsp;заказчиков»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr20/"></a><a data-anchor="/document/16/211459/dfaszro0cu/" data-dfa="dfaszro0cu"></a>9010, 9020,<br>9030</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr21/"></a><a data-anchor="/document/16/211459/dfas94ng5q/" data-dfa="dfas94ng5q"></a>2</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr22/"></a><a data-anchor="/document/16/211459/dfas0tr283/" data-dfa="dfas0tr283"></a>Начислены суммы НДС и&nbsp;акцизов при реализации готовой продукции, товаров, выполненных работ и&nbsp;оказанных услуг</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr23/"></a><a data-anchor="/document/16/211459/dfasva4w2n/" data-dfa="dfasva4w2n"></a>4010<br>«Счета к&nbsp;получению от&nbsp;покупателей и&nbsp;заказчиков»</p></td><td class="bdBottombdRight"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr24/"></a><a data-anchor="/document/16/211459/dfasbttq0d/" data-dfa="dfasbttq0d"></a>6410<br>«Задолженность по&nbsp;платежам в&nbsp;бюджет (по&nbsp;видам)»</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/211459/bssPhr25/"></a><a data-anchor="/document/16/211459/dfas6pghp9/" data-dfa="dfas6pghp9"></a>Реализацию продукции, товаров, работ и&nbsp;услуг дочерним или зависимым хозяйственным обществам отразите в&nbsp;бухучете проводками:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" rowspan="2"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr26/"></a><a data-anchor="/document/16/211459/dfast00z74/" data-dfa="dfast00z74"></a><strong>№</strong></p></td><td class="bdTopbdBottombdRight" rowspan="2" style="width: 44%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr27/"></a><a data-anchor="/document/16/211459/dfassap8g5/" data-dfa="dfassap8g5"></a><strong>Содержание хозяйственных операций</strong></p></td><td class="bdTopbdBottombdRight" colspan="2"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr28/"></a><a data-anchor="/document/16/211459/dfasvsapa5/" data-dfa="dfasvsapa5"></a><strong>Корреспонденция счетов</strong></p></td></tr><tr><td class="bdBottombdRight" style="width: 27%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr29/"></a><a data-anchor="/document/16/211459/dfas8xf1zi/" data-dfa="dfas8xf1zi"></a><strong>Дебет</strong></p></td><td class="bdBottombdRight" style="width: 18%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr30/"></a><a data-anchor="/document/16/211459/dfasgbls4p/" data-dfa="dfasgbls4p"></a><strong>Кредит</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr31/"></a><a data-anchor="/document/16/211459/dfasy6seau/" data-dfa="dfasy6seau"></a>1</p></td><td class="bdBottombdRight" style="width: 44%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr32/"></a><a data-anchor="/document/16/211459/dfast85myw/" data-dfa="dfast85myw"></a>Реализованы продукция, товары, работы и&nbsp;услуги дочерним и&nbsp;зависимым хозяйственным обществам</p></td><td class="bdBottombdRight" style="width: 27%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr33/"></a><a data-anchor="/document/16/211459/dfas5w2yyd/" data-dfa="dfas5w2yyd"></a>4120<br>«Счета к&nbsp;получению от&nbsp;дочерних и&nbsp;зависимых хозяйственных обществ»</p></td><td class="bdBottombdRight" style="width: 18%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr34/"></a><a data-anchor="/document/16/211459/dfas88uziq/" data-dfa="dfas88uziq"></a>9010, 9020,<br>9030</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr35/"></a><a data-anchor="/document/16/211459/dfas6zfpg2/" data-dfa="dfas6zfpg2"></a>2</p></td><td class="bdBottombdRight" style="width: 44%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr36/"></a><a data-anchor="/document/16/211459/dfasogau8t/" data-dfa="dfasogau8t"></a>Начислены суммы НДС и&nbsp;акцизов при реализации готовой продукции, товаров, выполненных работ и&nbsp;оказанных услуг</p></td><td class="bdBottombdRight" style="width: 27%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr37/"></a><a data-anchor="/document/16/211459/dfas98zzol/" data-dfa="dfas98zzol"></a>4120<br>«Счета к&nbsp;получению от&nbsp;дочерних и&nbsp;зависимых хозяйственных обществ»</p></td><td class="bdBottombdRight" style="width: 18%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr38/"></a><a data-anchor="/document/16/211459/dfaspkgqn8/" data-dfa="dfaspkgqn8"></a>6410</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><a data-anchor="/document/16/211459/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211459/bssPhr39/"></a><a data-anchor="/document/16/211459/dfasqwd50h/" data-dfa="dfasqwd50h"></a>Себестоимость товаров, работ, услуг</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:start"><a data-anchor="/document/16/211459/bssPhr42/"></a><a data-anchor="/document/16/211459/dfas12gfdc/" data-dfa="dfas12gfdc"></a>Совокупность всех расходов на производство продукции, приобретение товаров, оказание услуг и выполнение работ образует их себестоимость. В себестоимость включайте:</p><ul class="c-list"><li><a data-anchor="/document/16/211459/bssPhr43/"></a><a data-anchor="/document/16/211459/dfasv92pgz/" data-dfa="dfasv92pgz"></a>прямые и косвенные материальные затраты;</li><li>прямые и косвенные затраты на труд;</li><li>прочие прямые и косвенные затраты, включая накладные расходы производственного характера.</li></ul><p style="text-align:start"><a data-anchor="/document/16/211459/bssPhr44/"></a><a data-anchor="/document/16/211459/dfasp9v4mg/" data-dfa="dfasp9v4mg"></a>Информацию о себестоимости выполненных работ и оказанных услуг отражайте на счете <strong>9100 </strong>(<span num="66" target="_self" lnktype="intlnk" title="" class="doc">п. 384 –&nbsp;390</span> НСБУ № 21).</p><p style="text-align:start"><a data-anchor="/document/16/211459/dfasy8tqb1/" data-dfa="dfasy8tqb1"></a><a data-anchor="/document/16/211459/bssPhr45/"></a>При реализации готовой продукции ее себестоимость отражайте по дебету счета <strong>9110 «Себестоимость реализованной готовой продукции»</strong>, при реализации товаров — по дебету счета <strong>9120 «Себестоимость реализованных товаров»</strong>, при выполнении работ и оказании услуг — по дебету счета <strong>9130 «Себестоимость выполненных работ и оказанных услуг» </strong>в корреспонденции со счетами учета готовой продукции (<strong>2800</strong>), товаров (<strong>2900</strong>), основного и вспомогательного производства (<strong>2000, 2300</strong>). Отразите себестоимость в бухучете проводками:</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" rowspan="2"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr46/"></a><a data-anchor="/document/16/211459/dfas8a4fa7/" data-dfa="dfas8a4fa7"></a><strong>№</strong></p></td><td class="bdTopbdBottombdRight" rowspan="2" style="width: 52.5%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr47/"></a><a data-anchor="/document/16/211459/dfasfvk2xm/" data-dfa="dfasfvk2xm"></a><strong>Содержание хозяйственных операций</strong></p></td><td class="bdTopbdBottombdRight" colspan="2"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr48/"></a><a data-anchor="/document/16/211459/dfasvgan6v/" data-dfa="dfasvgan6v"></a><strong>Корреспонденция счетов</strong></p></td></tr><tr><td class="bdBottombdRight" style="width: 21.9%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr49/"></a><a data-anchor="/document/16/211459/dfasmdf90g/" data-dfa="dfasmdf90g"></a><strong>Дебет</strong></p></td><td class="bdBottombdRight" style="width: 20.4%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr50/"></a><a data-anchor="/document/16/211459/dfasbxxog2/" data-dfa="dfasbxxog2"></a><strong>Кредит</strong></p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr51/"></a><a data-anchor="/document/16/211459/dfasifosy2/" data-dfa="dfasifosy2"></a>1</p></td><td class="bdBottombdRight" style="width: 52.5%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr52/"></a><a data-anchor="/document/16/211459/dfas7x06ge/" data-dfa="dfas7x06ge"></a>Себестоимость реализованной готовой продукции</p></td><td class="bdBottombdRight" style="width: 21.9%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr53/"></a><a data-anchor="/document/16/211459/dfasg3g2cq/" data-dfa="dfasg3g2cq"></a>9110</p></td><td class="bdBottombdRight" style="width: 20.4%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr54/"></a><a data-anchor="/document/16/211459/dfas3xx920/" data-dfa="dfas3xx920"></a>2810-2830</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr55/"></a><a data-anchor="/document/16/211459/dfasgueeld/" data-dfa="dfasgueeld"></a>2</p></td><td class="bdBottombdRight" style="width: 52.5%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr56/"></a><a data-anchor="/document/16/211459/dfas22i6gc/" data-dfa="dfas22i6gc"></a>Себестоимость выбывающих животных</p></td><td class="bdBottombdRight" style="width: 21.9%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr57/"></a><a data-anchor="/document/16/211459/dfaschsy91/" data-dfa="dfaschsy91"></a>9110</p></td><td class="bdBottombdRight" style="width: 20.4%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr58/"></a><a data-anchor="/document/16/211459/dfasc6lv6m/" data-dfa="dfasc6lv6m"></a>1110, 1120</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr59/"></a><a data-anchor="/document/16/211459/dfasueg446/" data-dfa="dfasueg446"></a>3</p></td><td class="bdBottombdRight" style="width: 52.5%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr60/"></a><a data-anchor="/document/16/211459/dfas2n8wug/" data-dfa="dfas2n8wug"></a>Себестоимость реализованных полуфабрикатов собственного производства</p></td><td class="bdBottombdRight" style="width: 21.9%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr61/"></a><a data-anchor="/document/16/211459/dfasvy6haw/" data-dfa="dfasvy6haw"></a>9110</p></td><td class="bdBottombdRight" style="width: 20.4%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr62/"></a><a data-anchor="/document/16/211459/dfasax0zsa/" data-dfa="dfasax0zsa"></a>2110</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr63/"></a><a data-anchor="/document/16/211459/dfas40qln6/" data-dfa="dfas40qln6"></a>4</p></td><td class="bdBottombdRight" style="width: 52.5%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr64/"></a><a data-anchor="/document/16/211459/dfascc1dgw/" data-dfa="dfascc1dgw"></a>Себестоимость реализованных товаров</p></td><td class="bdBottombdRight" style="width: 21.9%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr65/"></a><a data-anchor="/document/16/211459/dfas7yq99k/" data-dfa="dfas7yq99k"></a>9120</p></td><td class="bdBottombdRight" style="width: 20.4%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr66/"></a><a data-anchor="/document/16/211459/dfashkr5gn/" data-dfa="dfashkr5gn"></a>2910-2990</p></td></tr><tr><td class="bdBottombdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr67/"></a><a data-anchor="/document/16/211459/dfas24e7xx/" data-dfa="dfas24e7xx"></a>5</p></td><td class="bdBottombdRight" style="width: 52.5%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr68/"></a><a data-anchor="/document/16/211459/dfasryy1sg/" data-dfa="dfasryy1sg"></a>Себестоимость выполненных работ и оказанных услуг основного, вспомогательного производства и обслуживающих хозяйств</p></td><td class="bdBottombdRight" style="width: 21.9%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr69/"></a><a data-anchor="/document/16/211459/dfasq3z34x/" data-dfa="dfasq3z34x"></a>9130</p></td><td class="bdBottombdRight" style="width: 20.4%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr70/"></a><a data-anchor="/document/16/211459/dfasg7xbmb/" data-dfa="dfasg7xbmb"></a>2010, 2310, 2710</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211459/bssPhr71/"></a><a data-anchor="/document/16/211459/dfasmz059x/" data-dfa="dfasmz059x"></a>Как определить&nbsp;валовую прибыль от реализации продукции</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211459/bssPhr72/"></a><a data-anchor="/document/16/211459/dfasg2tgci/" data-dfa="dfasg2tgci"></a>На предприятии себестоимость произведенной продукции составила 4 000 000 сумов. Предприятие реализовало данную продукцию за 5 600 000 сумов с учетом НДС –&nbsp;12 %. В бухучете бухгалтер сделал проводки и определил валовую прибыль:</p><div class="scroller__container"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><tbody><tr><td style="width: 70.8%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr73/"></a><a data-anchor="/document/16/211459/dfasclb3dq/" data-dfa="dfasclb3dq"></a><strong>Содержание хозяйственных операций</strong></p></td><td style="width: 12.4%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr74/"></a><a data-anchor="/document/16/211459/dfasp6u1xq/" data-dfa="dfasp6u1xq"></a><strong>Дебет</strong></p></td><td style="width: 10.8%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr75/"></a><a data-anchor="/document/16/211459/dfasm33r09/" data-dfa="dfasm33r09"></a><strong>Кредит</strong></p></td></tr><tr><td style="width: 70.8%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr76/"></a><a data-anchor="/document/16/211459/dfask6itrb/" data-dfa="dfask6itrb"></a>Списана себестоимость реализованной готовой продукции, 4 000 000 сумов</p></td><td style="width: 12.4%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr77/"></a><a data-anchor="/document/16/211459/dfasysh6yb/" data-dfa="dfasysh6yb"></a>9110</p></td><td style="width: 10.8%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr78/"></a><a data-anchor="/document/16/211459/dfast0dhow/" data-dfa="dfast0dhow"></a>2810</p></td></tr><tr><td style="width: 70.8%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr79/"></a><a data-anchor="/document/16/211459/dfasghan9d/" data-dfa="dfasghan9d"></a>Отражена выручка от реализации готовой продукции (без НДС), 5 000 000 сумов</p></td><td style="width: 12.4%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr80/"></a><a data-anchor="/document/16/211459/dfasxxr060/" data-dfa="dfasxxr060"></a>4010</p></td><td style="width: 10.8%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr81/"></a><a data-anchor="/document/16/211459/dfasesx9z7/" data-dfa="dfasesx9z7"></a>9010</p></td></tr><tr><td style="width: 70.8%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr82/"></a><a data-anchor="/document/16/211459/dfas2vvk1o/" data-dfa="dfas2vvk1o"></a>Отражена сумма начисленного НДС по реализованной готовой продукции, 600 000 сумов</p></td><td style="width: 12.4%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr83/"></a><a data-anchor="/document/16/211459/dfasx4gdmk/" data-dfa="dfasx4gdmk"></a>4010</p></td><td style="width: 10.8%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr84/"></a><a data-anchor="/document/16/211459/dfasyfmsnz/" data-dfa="dfasyfmsnz"></a>6410</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><div class="scroller__container"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 32%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr85/"></a><a data-anchor="/document/16/211459/dfasm5dw3t/" data-dfa="dfasm5dw3t"></a>Валовая прибыль</p></td><td class="bdRightbdLeft" style="width: 10.3%;"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr86/"></a><a data-anchor="/document/16/211459/dfasovfno3/" data-dfa="dfasovfno3"></a>=</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr87/"></a><a data-anchor="/document/16/211459/dfast7l1tv/" data-dfa="dfast7l1tv"></a>Сумма реализованной готовой продукции без НДС</p></td><td class="bdRightbdLeft"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr88/"></a><a data-anchor="/document/16/211459/dfas3if45p/" data-dfa="dfas3if45p"></a>—</p></td><td class="bdAll"><p style="text-align:center"><a data-anchor="/document/16/211459/bssPhr89/"></a><a data-anchor="/document/16/211459/dfas97he7y/" data-dfa="dfas97he7y"></a>Себестоимость реализованной готовой продукции</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/211459/bssPhr90/"></a><a data-anchor="/document/16/211459/dfasy7mhf6/" data-dfa="dfasy7mhf6"></a>Валовая прибыль предприятия от реализации этой продукции составила 1 000 000 сумов и бухгалтер отразил ее в приложении № 2 к Положению о сроках предоставления финансовых отчетов, а также их структуре и содержании&nbsp;по <strong>строке 030</strong>.</p><p style="text-align:start"><a data-anchor="/document/16/211459/bssPhr91/"></a><a data-anchor="/document/16/211459/dfasrsic3g/" data-dfa="dfasrsic3g"></a>При условии, что в отчетном периоде предприятие реализовало только вышеуказанный товар, бухгалтер заполнил форму № 2 следующим образом:</p><ul class="c-list"><li><a data-anchor="/document/16/211459/bssPhr92/"></a><a data-anchor="/document/16/211459/dfasqltnm8/" data-dfa="dfasqltnm8"></a><strong>строка 010 </strong>— чистая выручка от реализации продукции, товаров, работ и услуг — 5 000 000 сумов;</li><li><strong>строка 020 </strong>— себестоимость продукции, товаров, работ и услуг — 4 000 000 сумов;</li><li><strong>строка 030 графа 6</strong> — валовая прибыль или убыток от реализации продукции, товаров, работ и услуг — 1 000 000 сумов (прибыль).</li></ul></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как определить себестоимость сырья для производства кирпича и отобразить поступление сырья в бухучете&#160;</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/211459/bssPhr94/"></a><a data-anchor="/document/16/211459/dfas8d088y/" data-dfa="dfas8d088y"></a>Себестоимость&nbsp;сырья&nbsp;формируете из&nbsp;расходов, которые компания несет&nbsp;при добыче сырья, таких как зарплата водителей бульдозера, самосвала, ГСМ, амортизация, ремонт, затраты на электроэнергию, воду и прочие производственные накладные расходы.</p><p style="text-align:left"><a data-anchor="/document/16/211459/bssPhr95/"></a><a data-anchor="/document/16/211459/dfasmonhgs/" data-dfa="dfasmonhgs"></a>Проводка выглядит так:</p><p style="text-align:left"><a data-anchor="/document/16/211459/bssPhr96/"></a><a data-anchor="/document/16/211459/dfasle4ql8/" data-dfa="dfasle4ql8"></a><strong>Дебет 2010 «Производство» Кредит 1000 «Материалы», 6710, 6520, 0200</strong></p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/211459/bssPhr97/"></a><a data-anchor="/document/16/211459/dfasemxspg/" data-dfa="dfasemxspg"></a>оприходовано сырье.</li></ul></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Куда отнести затраты, связанные с оформлением в ГАИ автомобиля, который&#160;импортировали для продажи, на каком счете его учитывать&#160;</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211459/bssPhr99/"></a><a data-anchor="/document/16/211459/dfascaczgc/" data-dfa="dfascaczgc"></a>Так как автомобиль импортировали для продажи,&nbsp;то логичнее его оприходовать на <strong>счет 2910 «Товары на складах».</strong>&nbsp;Учитывая приобретенный автомобиль в качестве товара, затраты, связанные с его оформлением в ГАИ, можно отнести на его себестоимость.</p><p><a data-anchor="/document/16/211459/bssPhr100/"></a><a data-anchor="/document/16/211459/dfash9c8ss/" data-dfa="dfash9c8ss"></a>Бухучет и отражение хозяйственных операций с товарами&nbsp;ведите в соответствии с <span num="48" target="_self" lnktype="intlnk" title="" class="doc">НСБУ № 4</span> и пунктами <span num="74" target="_self" lnktype="intlnk" title="" class="doc">142 –&nbsp;154</span> НСБУ № 21.</p><p><a data-anchor="/document/16/211459/bssPhr101/"></a><a data-anchor="/document/16/211459/dfasl78uts/" data-dfa="dfasl78uts"></a>Товарно-материальные запасы подлежат включению в бухгалтерский баланс организации по себестоимости, которая включает в себя стоимость приобретения (суммы, уплачиваемые поставщику) и все затраты, связанные с их приобретением (<span num="50" target="_self" lnktype="intlnk" title="" class="doc">п. 14</span> НСБУ № 4).</p><p style="text-align:left"><a data-anchor="/document/16/211459/bssPhr102/"></a><a data-anchor="/document/16/211459/dfaslqfzqp/" data-dfa="dfaslqfzqp"></a>Затраты, связанные с приобретением ТМЗ и включаемые в их себестоимость, перечислены в <span num="58" target="_self" lnktype="intlnk" title="" class="doc">пункте&nbsp;15</span> НСБУ № 4.</p></div></div></div><p><a data-anchor="/document/16/211459/dfask1tpww/" data-dfa="dfask1tpww"></a><a data-anchor="/document/16/211459/bssPhr103/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

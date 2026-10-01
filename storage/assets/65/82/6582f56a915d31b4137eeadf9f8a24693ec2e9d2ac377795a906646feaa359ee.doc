@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие виды таможенных платежей платят налогоплательщики</h2><div class="doc-snippet"><a data-anchor="/document/16/203178/dfas3714l1/" data-dfa="dfas3714l1"></a><a data-anchor="/document/16/203178/bssPhr2/"></a>В рекомендации Системы Главбух – перечень плательщиков таможенных платежей. Эксперты дали ответы на вопросы: что входит в состав таможенных платежей, что такое таможенная стоимость товара и каким методом ее определить. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203178/bssPhr3/"></a><a data-anchor="/document/16/203178/dfas1rg1ox/" data-dfa="dfas1rg1ox"></a>Таможенные платежи уплачиваются при перемещении товаров и транспортных средств через таможенную границу Узбекистана и в других случаях, установленных законодательством.</p><p><a data-anchor="/document/16/203178/bssPhr4/"></a><a data-anchor="/document/16/203178/dfashqxw6e/" data-dfa="dfashqxw6e"></a>Обязательство по уплате таможенных платежей возникает при помещении товара под таможенный режим, в котором предусмотрена уплата таможенных платежей, если не предусмотрены льготы по завозимым товарам.</p><p><a data-anchor="/document/16/203178/bssPhr5/"></a><a data-anchor="/document/16/203178/dfas0pbl68/" data-dfa="dfas0pbl68"></a>В состав таможенных платежей включаются:</p><p><a data-anchor="/document/16/203178/bssPhr6/"></a><a data-anchor="/document/16/203178/dfassnumox/" data-dfa="dfassnumox"></a>– таможенная пошлина;</p><p><a data-anchor="/document/16/203178/bssPhr7/"></a><a data-anchor="/document/16/203178/dfas3eagt6/" data-dfa="dfas3eagt6"></a>– налог на добавленную стоимость;</p><p><a data-anchor="/document/16/203178/bssPhr8/"></a><a data-anchor="/document/16/203178/dfaskvi78x/" data-dfa="dfaskvi78x"></a>– акцизный налог;</p><p><a data-anchor="/document/16/203178/bssPhr9/"></a><a data-anchor="/document/16/203178/dfasy1m1k5/" data-dfa="dfasy1m1k5"></a>– таможенные сборы (<a data-anchor="/document/16/203178/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasodtc93/" class="link npd" target="_self" title="" moduleId="90" documentId="20918" anchor="dfasodtc93">ст. 344</a> НК).</p><a data-anchor="/document/16/203178/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/203178/bssPhr10/"></a><a data-anchor="/document/16/203178/dfase3ges9/" data-dfa="dfase3ges9"></a>Как определяется таможенная стоимость товара</h2><p><a data-anchor="/document/16/203178/bssPhr11/"></a><a data-anchor="/document/16/203178/dfasekgzoa/" data-dfa="dfasekgzoa"></a>Таможенной стоимость товара – это стоимость товара, используемая в целях начисления таможенных платежей.</p><p><a data-anchor="/document/16/203178/bssPhr12/"></a><a data-anchor="/document/16/203178/dfasp2way6/" data-dfa="dfasp2way6"></a>Определение таможенной стоимости ввозимого товара производится путем применения следующих методов:</p><p><a data-anchor="/document/16/203178/bssPhr13/"></a><a data-anchor="/document/16/203178/dfas53wxfg/" data-dfa="dfas53wxfg"></a>– по стоимости сделки с ввозимым товаром;</p><p><a data-anchor="/document/16/203178/bssPhr14/"></a><a data-anchor="/document/16/203178/dfasoz6v8v/" data-dfa="dfasoz6v8v"></a>– по стоимости сделки с идентичным товаром;</p><p><a data-anchor="/document/16/203178/bssPhr15/"></a><a data-anchor="/document/16/203178/dfasruz9hg/" data-dfa="dfasruz9hg"></a>– по стоимости сделки с аналогичным товаром;</p><p><a data-anchor="/document/16/203178/bssPhr16/"></a><a data-anchor="/document/16/203178/dfas85cocy/" data-dfa="dfas85cocy"></a>– на основе вычитания стоимостей;</p><p><a data-anchor="/document/16/203178/bssPhr17/"></a><a data-anchor="/document/16/203178/dfasbh4kyq/" data-dfa="dfasbh4kyq"></a>– на основе сложения стоимостей;</p><p><a data-anchor="/document/16/203178/bssPhr18/"></a><a data-anchor="/document/16/203178/dfascagyrr/" data-dfa="dfascagyrr"></a>– резервного.</p><p><a data-anchor="/document/16/203178/bssPhr19/"></a><a data-anchor="/document/16/203178/dfasdgl6w2/" data-dfa="dfasdgl6w2"></a>Основным методом определения таможенной стоимости является метод по стоимости сделки с ввозимым товаром.</p><p><a data-anchor="/document/16/203178/bssPhr20/"></a><a data-anchor="/document/16/203178/dfasdogb3e/" data-dfa="dfasdogb3e"></a>В случае, если основной метод определения таможенной стоимости не может быть применен, то последовательно применяются другие методы.</p><p><a data-anchor="/document/16/203178/bssPhr21/"></a><a data-anchor="/document/16/203178/dfasehkup5/" data-dfa="dfasehkup5"></a>Порядок применения методов определения таможенной стоимости товара предусмотрен в статьях <a data-anchor="/document/16/203178/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/3868/dfasa5c7k7/" class="link npd" title="" moduleId="90" documentId="3868" anchor="dfasa5c7k7">303</a>, <a data-anchor="/document/16/203178/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/3868/dfasyv9ac5/" class="link npd" title="" moduleId="90" documentId="3868" anchor="dfasyv9ac5">309</a>, <a data-anchor="/document/16/203178/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/3868/dfas3hv1yv/" class="link npd" title="" moduleId="90" documentId="3868" anchor="dfas3hv1yv">310</a>, <a data-anchor="/document/16/203178/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/3868/dfase4r4gm/" class="link npd" title="" moduleId="90" documentId="3868" anchor="dfase4r4gm">311</a>, <a data-anchor="/document/16/203178/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/3868/dfas6pxuot/" class="link npd" title="" moduleId="90" documentId="3868" anchor="dfas6pxuot">312</a> Таможенного кодекса.</p><p><a data-anchor="/document/16/203178/bssPhr22/"></a><a data-anchor="/document/16/203178/dfasxhpr0s/" data-dfa="dfasxhpr0s"></a>&nbsp;</p><p><a data-anchor="/document/16/203178/bssPhr23/"></a><a data-anchor="/document/16/203178/dfasgg213a/" data-dfa="dfasgg213a"></a>Основой для исчисления таможенных пошлины, акцизного налога и таможенных сборов является таможенная стоимость товара и применяемые ставки.</p><p><a data-anchor="/document/16/203178/bssPhr24/"></a><a data-anchor="/document/16/203178/dfask9fixd/" data-dfa="dfask9fixd"></a>Основой для исчисления НДС является таможенная стоимость товара, к которой добавляется сумма таможенной пошлины, подлежащая уплате, а по подакцизному товару также и сумма акцизного налога, подлежащая уплате.</p><a data-anchor="/document/16/203178/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/203178/bssPhr25/"></a><a data-anchor="/document/16/203178/dfaskr6a0x/" data-dfa="dfaskr6a0x"></a>Кто платит таможенные платежи</h2><p><a data-anchor="/document/16/203178/bssPhr26/"></a><a data-anchor="/document/16/203178/dfas2pwfoy/" data-dfa="dfas2pwfoy"></a>Плательщиками таможенных платежей являются:</p><p><a data-anchor="/document/16/203178/bssPhr27/"></a><a data-anchor="/document/16/203178/dfas49uygz/" data-dfa="dfas49uygz"></a>– декларант;</p><p><a data-anchor="/document/16/203178/bssPhr28/"></a><a data-anchor="/document/16/203178/dfas6e1ztd/" data-dfa="dfas6e1ztd"></a>– таможенный брокер, если это предусмотрено в договоре с декларантом;</p><p><a data-anchor="/document/16/203178/bssPhr29/"></a><a data-anchor="/document/16/203178/dfass5gkvx/" data-dfa="dfass5gkvx"></a>– владелец таможенного склада, свободного склада, магазина беспошлинной торговли, перевозчик – если первые не соблюдают требования и условия применения таможенных режимов;</p><p><a data-anchor="/document/16/203178/bssPhr30/"></a><a data-anchor="/document/16/203178/dfasp78mq5/" data-dfa="dfasp78mq5"></a>Исчисление таможенных платежей производится в национальной валюте. Уплата осуществляется до принятия или одновременно с принятием таможенной декларации.</p><p><a data-anchor="/document/16/203178/bssPhr31/"></a><a data-anchor="/document/16/203178/dfasnotsal/" data-dfa="dfasnotsal"></a>Порядок исчисления и уплаты акцизного налога и налога на добавленную стоимость при ввозе товаров на таможенную территорию Республики Узбекистан, а также льготы по данным налогам определяются Налоговым кодексом (разделы <a data-anchor="/document/16/203178/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/3864/dfasu3bgy0/" class="link npd" title="" moduleId="90" documentId="3864" anchor="dfasu3bgy0">VII</a> и <a data-anchor="/document/16/203178/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/90/3864/dfasuu7dsi/" class="link npd" title="" moduleId="90" documentId="3864" anchor="dfasuu7dsi">VIII</a> НК).</p><p><a data-anchor="/document/16/203178/bssPhr32/"></a><a data-anchor="/document/16/203178/dfassebyg2/" data-dfa="dfassebyg2"></a>Плательщики, порядок исчисления, уплаты таможенной пошлины и таможенных сборов, определяется таможенным законодательством.</p><p><a data-anchor="/document/16/203178/dfasai5g6n/" data-dfa="dfasai5g6n"></a><a data-anchor="/document/16/203178/bssPhr33/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

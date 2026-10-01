@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кто может платить единый налоговый платеж</h2><div id="documentBody" class="content-common"><a data-anchor="/document/16/203173/bssPhr1/"></a><a data-anchor="/document/16/203173/tit0/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203173/dfas8lzrvn/" data-dfa="dfas8lzrvn"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Кто является плательщиком ЕНП</h2><p><a data-anchor="/document/16/203173/bssPhr2/"></a><a data-anchor="/document/16/203173/dfas818aku/" data-dfa="dfas818aku"></a>Теперь плательщиков ЕНП определяет не численность работников, а сумма выручки за налоговый период. Даже организаторам лотерейных игр, предприятиям торговли или общественного питания не дается безусловное право выбрать упрощенку. Один млрд сумов – это предел выручки, превышая который, вы уже не являетесь плательщиком ЕНП. </p><p><a data-anchor="/document/16/203173/bssPhr3/"></a><a data-anchor="/document/16/203173/dfast4ubxl/" data-dfa="dfast4ubxl"></a>Если ваша выручка до конца 2019 года не превысит 1 млрд сумов, то вы плательщик ЕНП. Если ожидаемая выручка больше 1 млрд хотя бы на один сум, то вы становитесь плательщиком общеустановленных налогов. </p><p><a data-anchor="/document/16/203173/bssPhr4/"></a><a data-anchor="/document/16/203173/dfasgl8hdo/" data-dfa="dfasgl8hdo"></a>Согласно <a data-anchor="/document/16/203173/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/18678" class="link npd" title="Плательщиками единого налогового платежа являются:" moduleId="90" documentId="18678">статье 350</a> НК плательщики ЕНП – это:</p><p><a data-anchor="/document/16/203173/bssPhr5/"></a><a data-anchor="/document/16/203173/dfase09b9u/" data-dfa="dfase09b9u"></a>1) юрлица, валовая выручка которых за налоговый период не превышает 1 млрд сумов;</p><p><a data-anchor="/document/16/203173/bssPhr6/"></a><a data-anchor="/document/16/203173/dfasm2s9wh/" data-dfa="dfasm2s9wh"></a>2) товарищ (участник) – индивидуальный предприниматель, на которого возложено ведение дел простого товарищества (доверенное лицо), валовая выручка которого от деятельности простого товарищества за налоговый период не превышает 1 млрд сумов;</p><p><a data-anchor="/document/16/203173/bssPhr7/"></a><a data-anchor="/document/16/203173/dfasw8ld6r/" data-dfa="dfasw8ld6r"></a>3) индивидуальные предприниматели, выручка которых от реализации товаров (работ, услуг) за налоговый период превышает 100 млн сумов, но не более 1 млрд сумов;</p><p><a data-anchor="/document/16/203173/bssPhr8/"></a><a data-anchor="/document/16/203173/dfas9zmh2l/" data-dfa="dfas9zmh2l"></a>4) индивидуальные предприниматели, выручка которых от реализации товаров (работ, услуг) за налоговый период не превышает 1 млрд сумов:</p><p><a data-anchor="/document/16/203173/bssPhr9/"></a><a data-anchor="/document/16/203173/dfascaufhz/" data-dfa="dfascaufhz"></a>– осуществляющие экспорт плодоовощной продукции;</p><p><a data-anchor="/document/16/203173/bssPhr10/"></a><a data-anchor="/document/16/203173/dfass2f2k7/" data-dfa="dfass2f2k7"></a>– включенные в Национальный реестр субъектов электронной коммерции.</p><p><a data-anchor="/document/16/203173/bssPhr11/"></a><a data-anchor="/document/16/203173/dfasg4zrhr/" data-dfa="dfasg4zrhr"></a>5) семейные предприятия, валовая выручка которых за налоговый период не превышает 1 млрд сумов;</p><p><a data-anchor="/document/16/203173/bssPhr12/"></a><a data-anchor="/document/16/203173/dfasp7lswx/" data-dfa="dfasp7lswx"></a>6) некоммерческие организации в части доходов, полученных ими от предпринимательской деятельности, при условии, что доходы от предпринимательской деятельности за налоговый период не превышают 1 млрд сумов.</p><p><a data-anchor="/document/16/203173/bssPhr13/"></a><a data-anchor="/document/16/203173/dfasebyxux/" data-dfa="dfasebyxux"></a>С 1 января 2019 года в Налоговом кодексе обновлен список плательщиков ЕНП. К ним относятся семейные предприятия. Индивидуальные предприниматели теперь по всем видам деятельности уплачивают данный налог.</p><p><a data-anchor="/document/16/203173/bssPhr14/"></a><a data-anchor="/document/16/203173/dfastvhigo/" data-dfa="dfastvhigo"></a>Причем индивидуальные предприниматели и семейные предприятия, если они соответствуют установленным критериям, являются плательщиками ЕНП без права выбора другой системы налогообложения.</p><p><a data-anchor="/document/16/203173/bssPhr15/"></a><a data-anchor="/document/16/203173/dfasc2zeee/" data-dfa="dfasc2zeee"></a>Предприятия, оказывающие посреднические услуги по договору комиссии, поручения и другим договорам, размер годовой выручки исчисляют исходя из суммы сделки (<a data-anchor="/document/16/203173/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas8rymq5/" class="link npd" title="Юридические лица, оказывающие посреднические услуги по договору комиссии, поручения и другим договорам по оказанию посреднических услуг, установленный предельный размер годового оборота..." moduleId="90" documentId="20918" anchor="dfas8rymq5">ч. 2</a> ст. 350 НК).</p><p><a data-anchor="/document/16/203173/bssPhr16/"></a><a data-anchor="/document/16/203173/dfas8m503e/" data-dfa="dfas8m503e"></a>Предприятия торговли и общественного питания с 1 января 2019 года могут уплачивать ЕНП, только если их валовая выручка за налоговый период не превысит 1 млрд сумов.</p><a data-anchor="/document/16/203173/bssPhr17/"></a><a data-anchor="/document/16/203173/tit1/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203173/dfasgqaaw7/" data-dfa="dfasgqaaw7"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Кто не платит ЕНП</h2><p><a data-anchor="/document/16/203173/bssPhr18/"></a><a data-anchor="/document/16/203173/dfas0a2q2h/" data-dfa="dfas0a2q2h"></a>ЕНП не уплачивают налогоплательщики:</p><p><a data-anchor="/document/16/203173/bssPhr19/"></a><a data-anchor="/document/16/203173/dfasg1c4z6/" data-dfa="dfasg1c4z6"></a>– осуществляющие производство подакцизной продукции;</p><p><a data-anchor="/document/16/203173/bssPhr20/"></a><a data-anchor="/document/16/203173/dfasmgba9y/" data-dfa="dfasmgba9y"></a>– осуществляющие добычу полезных ископаемых, облагаемых налогом за пользование недрами;</p><p><a data-anchor="/document/16/203173/bssPhr21/"></a><a data-anchor="/document/16/203173/dfas4v027b/" data-dfa="dfas4v027b"></a>– оказывающие подакцизные услуги мобильной связи;</p><p><a data-anchor="/document/16/203173/bssPhr22/"></a><a data-anchor="/document/16/203173/dfasto0igt/" data-dfa="dfasto0igt"></a>– в рамках осуществляемой деятельности, по которой предусмотрена уплата единого земельного налога;</p><p><a data-anchor="/document/16/203173/bssPhr23/"></a><a data-anchor="/document/16/203173/dfas4ssk8e/" data-dfa="dfas4ssk8e"></a>– участники соглашений о разделе продукции.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Что делать, если выручка достигла 1 млрд сумов</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203173/bssPhr37/"></a><a data-anchor="/document/16/203173/dfas7025lg/" data-dfa="dfas7025lg"></a>Если выручка в течение налогового периода превысила 1 млрд сумов, то с начала следующего месяца, в котором произошло превышение, переходите на общеустановленные налоги. То есть, если в июне 2019 года выручка превысила 1 млрд сумов, то с июля 2019 года необходимо перейти на общеустановленный порядок налогообложения (<span title="Плательщики единого налогового платежа, валовая выручка которых в течение налогового периода превысила один миллиард сум, переходят на уплату общеустановленных налогов начиная с начала..." num="5" lnktype="intlnk" class="doc">ч. 5</span> ст. 351 НК).</p></div></div><a data-anchor="/document/16/203173/bssPhr24/"></a><a data-anchor="/document/16/203173/tit2/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203173/dfasv6mqrp/" data-dfa="dfasv6mqrp"></a><h2 class="main__title-section title toc" toc-anchor="tit2">Какие налоги введены для плательщиков ЕНП</h2><p><a data-anchor="/document/16/203173/bssPhr25/"></a><a data-anchor="/document/16/203173/dfasd4z0a5/" data-dfa="dfasd4z0a5"></a><a data-anchor="/document/16/203173/backlinkanchor8/" type="backlink-anchor"></a><a href="#/document/90/3864/titb662l/" class="link npd" title="Статья 349. Обязательства по уплате отдельных общеустановленных налогов при применении упрощенного порядка налогообложения" moduleId="90" documentId="3864" anchor="titb662l">Статья 349</a> НК изложена в новой редакции. В список налогов, которые плательщики обязаны платить помимо ЕНП, добавили НДС по объектам, которые строят за счет централизованных источников финансирования. Следующие налоги теперь платят все плательщики ЕНП без исключения:</p><p><a data-anchor="/document/16/203173/bssPhr26/"></a><a data-anchor="/document/16/203173/dfasyeggqh/" data-dfa="dfasyeggqh"></a>1) налог за пользование водными ресурсами;</p><p><a data-anchor="/document/16/203173/bssPhr27/"></a><a data-anchor="/document/16/203173/dfasoqpwmt/" data-dfa="dfasoqpwmt"></a>2) земельный налог с юридических лиц;</p><p><a data-anchor="/document/16/203173/bssPhr28/"></a><a data-anchor="/document/16/203173/dfass6lyqq/" data-dfa="dfass6lyqq"></a>3) налог на имущество юридических лиц.</p><p><a data-anchor="/document/16/203173/bssPhr29/"></a><a data-anchor="/document/16/203173/dfasqki0kw/" data-dfa="dfasqki0kw"></a>Ставки ЕНП на 2019 год установлены в <a data-anchor="/document/16/203173/backlinkanchor10/" type="backlink-anchor"></a><a href="#/document/90/18678" class="link npd" moduleId="90" documentId="18678">постановлении</a> Президента от 26.12.2018 № ПП-4086. </p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

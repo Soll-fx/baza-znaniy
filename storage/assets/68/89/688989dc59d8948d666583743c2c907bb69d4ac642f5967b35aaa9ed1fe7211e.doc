@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Постановление Кабмина РУЗ от 14.04.2021 № 216</div><h2 class="auth__title">Об утверждении Положения о порядке списания безнадежной задолженности с единой электронной информационной системы внешнеторговых операций</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/17617/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/17617/dfasror0rb/"></a>&#160;Постановление<br>Кабинета Министров Республики Узбекистан</p><p style="text-align:center"><a data-anchor="/document/90/17617/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/17617/dfastuuxho/"></a><strong>Об утверждении Положения о порядке списания безнадежной задолженности с единой электронной информационной системы внешнеторговых операций</strong></p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/17617/dfas0t4mn8/"></a>Текст акта приводится на <a data-anchor="/document/90/17617/backlinkanchor1/" data-role="backlink-anchor"></a><a class="npd" title="" href="https://1gb.uz/#/document/90/7219/">узбекском языке</a>.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/17617/dfas0vzvra/"></a><a anchor="#dfasulw5qh" attachid="" attachname="" docid="null" followid="1" href="https://1gb.uz/#/document/90/17617/dfasulw5qh/" lnkdate="2021-05-31" modid="null" rubricatorid="null" rubricid="null" title="" class="anc npd">Приложение № 1</a></p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/17617/dfasrcn5zy/"></a><a data-anchor="/document/90/17617/backlinkanchor3/" data-role="backlink-anchor"></a><a class="npd" title="" href="https://1gb.uz/#/document/90/7219/dfasaz93ih/">Приложение № 2</a></p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/17617/dfase6hdq7/"></a><a data-anchor="/document/90/17617/backlinkanchor4/" data-role="backlink-anchor"></a><a class="npd" title="" href="https://1gb.uz/#/document/90/7219/dfas4eft9u/">Приложение № 3</a></p><p style="text-align:right"><a data-anchor="/document/90/17617/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/17617/dfascko2q4/"></a><strong>Премьер-министр Республики Узбекистан А. АРИПОВ</strong></p><p style="text-align:center"><a data-anchor="/document/90/17617/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/17617/dfas9v11k6/"></a>г. Ташкент,<br>14 апреля 2021 г.,<br>№ 216</p><p style="text-align:center"><a data-anchor="/document/90/17617/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/17617/dfasgvks4b/"></a>&#160;</p><div class="doc__untyped doc-start" data-type="untyped" data-level="5"><a data-role="toc" data-anchor="/document/90/17617/tit1/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/17617/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/17617/dfasulw5qh/"></a>ПРИЛОЖЕНИЕ № 1<br>к постановлению Кабинета Министров от 14 апреля 2021 года № 216</span></div><p style="text-align:center"><a data-anchor="/document/90/17617/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/17617/dfasuyv352/"></a>ПОЛОЖЕНИЕ</p><p style="text-align:center"><a data-anchor="/document/90/17617/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/17617/dfasffqb7p/"></a><strong>о порядке списания безнадежной задолженности из Единой электронной информационной системы внешнеторговых операций </strong></p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/17617/tit2/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/17617/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/17617/dfaswp6b74/"></a>Глава 1. </span><span class="doc__chapter-name">Общие положения</span></div><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/17617/dfas8pi0hb/"></a>1. Настоящее Положение определяет порядок списания просроченной безнадежной дебиторской и кредиторской задолженности хозяйствующих субъектов по внешнеторговым договорам (далее &#8212; задолженность) из Единой электронной информационной системы внешнеторговых операций (далее &#8212; ЕЭИСВО).</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/17617/dfas6ikotx/"></a>2. В настоящем Положении используются следующие основные понятия:</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/17617/dfas3uvgqx/"></a><strong>безнадежная задолженность</strong> &#8212; задолженность, образовавшаяся в ЕЭИСВО, но которая не может быть погашена вследствие прекращения обязательств сторон внешнеторговых контрактов на основании судебного решения или в связи с банкротством, ликвидацией, смертью должника или истечением срока исковой давности, а также образовавшаяся в ЕЭИСВО, но которая фактически не существует между сторонами внешнеторговых соглашений, пришедшая в негодность по причинам, не зависящим от сторон в процессе транспортировки и хранения товаров, или конфискованная или уничтоженная государственным органом, в том числе возникшая в результате скидки, предоставленного на основании кредита-ноты;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/17617/dfasvb6q6u/"></a><strong>обоснованная дебиторская задолженность</strong> &#8212; задолженность в рамках экспортных контрактов, проблема взыскания с иностранного предприятия которой юридически обоснована соответствующими документами;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/17617/dfas3lpmqt/"></a><strong>кредит-нота</strong> &#8212; расчетный документ о предоставлении одной из сторон, указанных во внешнеторговых договорах, другой стороне скидки на определенную сумму от суммы контракта.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/17617/tit3/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/17617/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/17617/dfas5pybk3/"></a>Глава 2. </span><span class="doc__chapter-name">Выявление задолженностей и документы, их обосновывающие</span></div><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/17617/dfas17kn5y/"></a>3. Задолженность по внешнеторговым контрактам формируется и списывается в ЕЭИСВО.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/17617/dfasv8z8b0/"></a>4. Задолженность формируется в ЕЭИСВО на основе данных хозяйствующих субъектов, органов государственной таможенной службы, товарно-сырьевой биржи и выставок-ярмарок, а также коммерческих банков.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/17617/dfascxk5bp/"></a>5. В качестве безнадежных задолженностей в ЕЭИСВО признаются:</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/17617/dfaspg35ib/"></a>прекращение обязательств хозяйствующих субъектов в соответствии с решением суда;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/17617/dfas6e4kym/"></a>смерть индивидуального предпринимателя, выход из гражданства Республики Узбекистан и выезд на постоянное место жительства в другое государство;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/17617/dfasx8d4la/"></a>истечение общего срока исковой давности;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/17617/dfas7our33/"></a>списание задолженности хозяйствующих субъектов на основании постановления Правительства;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/17617/dfask2psub/"></a>задолженность фактически полностью рассчитана, а также все штрафы, наложенные за просроченную дебиторскую задолженность, взысканы в полном объеме;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/17617/dfas7dghb4/"></a>неправильное формирование задолженности по техническим и другим причинам;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/17617/dfasw48z1g/"></a>задолженность образовалась за счет предоставления скидки на основании кредит-ноты;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/17617/dfasdca1gl/"></a>прекращение обязательства нерезидента путем учета встречных требований одного вида или замена существующего первоначального обязательства нерезидента между сторонами другим обязательством, предусматривающим иной предмет или способ исполнения между теми же лицами</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/17617/dfaspv8548/"></a>товары, пришедшие в негодность по причинам, не зависящим от сторон договора, в процессе транспортировки и хранения, а также в результате уничтожения или конфискации государственными органами;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/17617/dfast6gb1f/"></a>покрытая часть задолженности в обмен на комиссию страховой компании при поступлении страхового возмещения в связи с неисполнением обязательств.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/17617/dfaskr9m01/"></a>Исключение хозяйствующих субъектов из Единого государственного реестра субъектов предпринимательства в результате их банкротства или ликвидации считается безнадежной задолженностью и автоматически списывается с ЕЭИСВО.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/17617/dfas9klglf/"></a>6. Безнадежная задолженность подтверждается следующими документами:</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/17617/dfascbm8fc/"></a>решение суда о прекращении обязательств хозяйствующего субъекта, прекращении дела о банкротстве и невозможности удовлетворения обязательств;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/17617/dfasxi4egm/"></a>свидетельство о смерти индивидуального предпринимателя;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/17617/dfasvm73cx/"></a>справка отдела миграции и оформления гражданства управлений (отделов) внутренних дел о выходе индивидуального предпринимателя из гражданства Республики Узбекистан и выезде на постоянное место жительства в другое государство;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/17617/dfasa73wmw/"></a>справка хозяйствующего субъекта о принятии задолженности в доход (расход) в результате истечения общего срока исковой давности;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/17617/dfasr8pte8/"></a>постановление Правительства о списании задолженности хозяйствующих субъектов;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/17617/dfasgvy7kp/"></a>представленное официальное письмо и справка хозяйствующего субъекта о том, что задолженность действительно полностью погашена или неправильно сформирована по техническим и другим причинам;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/17617/dfasgd23qv/"></a>документы, подтверждающие полное взыскание хозяйствующими субъектами всех штрафов, наложенных за просроченную дебиторскую задолженность по договору;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/17617/dfasx6rdw6/"></a>кредитная нота одной из указанных в договоре сторон о предоставлении другой стороне скидки по уменьшению суммы договора до 5 %;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/17617/dfas272ofe/"></a>официальное письмо и справка хозяйствующего субъекта, подтверждающие, что обязательство нерезидента прекращено путем учета встречных требований одного вида или заменено другим обязательством, предусматривающим иной предмет или способ исполнения;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/17617/dfas5icrgo/"></a>документ, подтверждающий, что товар пришел в негодность в процессе транспортировки и хранения по причинам, не зависящим от сторон договора, либо уничтожен или конфискован соответствующим государственным органом;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/17617/dfasgap29x/"></a>документ, обосновывающий поступление страхового возмещения от страховой компании в связи с неисполнением обязательств.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/17617/tit4/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/17617/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/17617/dfaswg1bol/"></a>Глава 3. </span><span class="doc__chapter-name">Порядок списания задолженности</span></div><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/17617/dfask0t4n5/"></a>7. Списание задолженностей с ЕЭИСВО производится по схеме, приведенной в приложении к настоящему Положению.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/17617/dfasu7fmex/"></a>8. Центральный банк Республики Узбекистан до 10 числа каждого месяца вносит в Правительственную комиссию по вопросам развития экспорта и инвестиций (далее &#8211; Правительственная комиссия) и Территориальные комиссии по вопросам развития экспорта и инвестиций (далее &#8212; территориальные комиссии) сведения о задолженности по внешнеторговым контрактам.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/17617/dfaspefg67/"></a>9. Территориальные комиссии до 20 числа каждого месяца:</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/17617/dfastbo8lv/"></a>а) тщательно и адресно изучает информацию о задолженностях в разрезе хозяйствующих субъектов, в том числе проверяет ее обоснованность, анализирует правовые основания возникновения задолженности.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/17617/dfasa5mwz0/"></a>При этом вносит в Министерство иностранных дел сведения о дебиторской задолженности в полном объеме вместе с соответствующими документами;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/17617/dfasvgmpia/"></a>б) представляет в Государственный налоговый комитет принятые заключения по списанию с ЕЭИСВО задолженности хозяйствующих субъектов, предусмотренной пунктом 5 настоящего Положения (за исключением информации, изучаемой Министерством иностранных дел).</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/17617/dfasbgaoxr/"></a>10. Министерство иностранных дел до 1 числа каждого месяца:</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/17617/dfas27u26x/"></a>а) доводит информацию об обоснованной дебиторской задолженности до компетентных органов зарубежных стран через соответствующие дипломатические представительства (посольства и консульские учреждения) Узбекистана за рубежом и принимает меры по оказанию практической помощи;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/17617/dfasgggor4/"></a>б) оказывает содействие в предоставлении соответствующими уполномоченными органами за рубежом хозяйствующим субъектам необходимых документов на товары, пришедшие в негодность по причинам, не зависящим от предприятия за рубежом, или конфискованные государственным органом-импортером, или уничтоженные под таможенным контролем;</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/17617/dfas3yyw37/"></a>в) представляет информацию о проделанной работе в соответствующую территориальную комиссию.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/17617/dfasz7kvr6/"></a>11. Территориальные комиссии до 5 числа каждого месяца представляют в Государственный налоговый комитет полученные заключения по представленной Министерством иностранных дел информации.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/17617/dfasxoq6ei/"></a>12. Государственный налоговый комитет до 10 числа каждого месяца разрабатывает предложения по списанию задолженностей с ЕЭИСВО и представляет их в Правительственную комиссию для принятия соответствующего решения.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/17617/dfask7z1xp/"></a>13. Правительственная комиссия один раз в месяц:</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/17617/dfasfb62rp/"></a>а) на основании предложений Государственного налогового комитета принимает решение о списании задолженности с ЕЭИСВО.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/17617/dfaskikhgc/"></a>б) направляет в Государственный налоговый комитет для обеспечения исполнения принятых решений.</p><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/17617/dfasa1gxgm/"></a>14. В течение 5 календарных дней после принятия решения Государственный налоговый комитет доводит решение Правительственной комиссии до сведения соответствующих коммерческих банков. Коммерческие банки в течение одного рабочего дня со дня получения решения Правительственной комиссии списывают с ЕЭИСВО задолженность.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/17617/tit5/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/17617/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/17617/dfas3vc31n/"></a>Глава 4. </span><span class="doc__chapter-name">Заключительное правило</span></div><p style="text-align:left"><a data-anchor="/document/90/17617/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/17617/dfasftk1x0/"></a>15. Лица, виновные в нарушении требований настоящего Положения, несут ответственность в соответствии с законодательством.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

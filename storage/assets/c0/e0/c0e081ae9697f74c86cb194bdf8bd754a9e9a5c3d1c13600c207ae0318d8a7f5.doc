@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Что учесть бухгалтеру при автоматическом формировании налоговой отчетности</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/221065/dfashwly9u/" data-dfa="dfashwly9u"></a><a data-anchor="/document/16/221065/bssPhr3/"></a>Автоматически заполненные формы не освобождают бухгалтера от проверки и ответственности за показатели. В рекомендации разберем, какие данные система рассчитывает формально, где возникают ошибки и что необходимо проверить перед подтверждением отчетности. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/221065/bssPhr4/"></a><a data-anchor="/document/16/221065/dfasax9stb/" data-dfa="dfasax9stb"></a>Схема поможет быстро ориентироваться по рекомендации. Нажмите на нужный пункт схемы, чтобы перейти к соответствующему блоку и ознакомиться с требованиями.</p><img iid="-41918507" lnktype="img" class="inimg" forprint="true" id="-41918507" sourceId="1" width="610" height="585.1544943820224" src="https://1gb.uz/system/content/image/297/1/-41918507/"><svg data-role="idiagram" content='<mxfile modified=&#34;2026-02-11T05:39:08.244Z&#34; host=&#34;web-arm.aservices.tech&#34; agent=&#34;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&#34; etag=&#34;QuIFvPqHOhAFkcrP4LG4&#34; version=&#34;10.5.9&#34; type=&#34;device&#34;&gt;<diagram name=&#34;Page-1&#34; id=&#34;dd472eb7-4b8b-5cd9-a60b-b15522922e76&#34;&gt;7VnJkpswEP0ajkkJCWF89Jpccpqq5CyDWCqAPFiOl6+PhARuxlCelIlnDp6pkltPQkv7vZYaO2RRHL9VbJv+EBHPHYyio0OWDsYu8abqQyMng0yIb4CkyiLb6QK8ZGdu+1lwn0V81+knhchltu2CoShLHsoOxqpKHLrdYpF3J92yhF8BLyHLr9FfWSTTZhPogn/nWZLamTFCtmXDwt9JJfalnc/BJK7/THPBmrFs/13KInEAEFk5ZFEJIY1VHBc8165tvGaeWw+0tuuueCnf8wCZeJx4foB5RIjL+Rc7wh+W760vnCVypkiXc2W7TlAj81VdLuoSATyo7Ult09p2a3sGnqKOXpafqyXON5V2gzxZ1/uve733eSxK+WVX82KmOmCyVdyaX9qVldSfegavGVvZCKwrAMiq2YFZryqXTZ+xV9SuBV/5AoOZV413gO8MKdq5sfq2FOdVZX5IM8lftizULQelOoWlsshVzVVmzTmuv1Wkai2tdCViu7RtCUWRhdbWO1qzIsu1SH/yKmIls7BVJCa2vhC5qOolkcUCaborPMtzgMdU/+vJZSV+874nTEujqGbsF7vdHvI2bOSV5EcAWTJ/46LgsjqpLraVNBK1cccNbP1wkbHXiDUFEm5BZkNH0o59kY8yrIL61eRRTPyY0djbBHzqsj41WZLpjb+LZkjR7JpjdhSmd1HxuDNCKqUOkzO9bLx2k83X/bm2iSojEe4L7V/VokLyWrkI+VQ3xGx3OroBR8PT7basvGPRinQzF4jRCMMbluQ/6XFwzhtibHWvnGA22N30XdOP5Lg2igZXMYOCeGfcOr2xIQWzHswwsoE/WRxquj0iDqER4pBHu3HIuw5Drt8Thlpw1DCEB8PQyAGEioTK134ZTtcDpzEF+Kwrybulfx1clvVsRlO0XxJP7o/Kfep/KPnJo8gvT2yfyTHIb6pr2xkjcACswVM+OBI8cHLOuufnk9wjknvidslN0IeS23sUuU8xZ0nf1VCTewXuI5DW+Oq2Au8sS1C+yYVUuXiTkYGgbroRG8I1QkCYn3cvR6260FMP/0EPru/e1kMwfZQe6K2EK2y9dGEyCcPaX49KsyQ9n8/FQIKEAJUnDd3B243L4dAyOwApAO05Z573/ofJAQdv3j+QDz0e/EE53JmR/h9hvNK0JMmwMNqoP+keHSbpReCEge8ovabpdjLACk3rcrPb3s6Xu6n1Uzd36cbHn0o3k0ddq6JTxJkYuFYF4BBoo3vLXWiDl9jPrPdzMNibfCiDg4cxeOdH03g46wVhuD9JMDT1AXEHmN2fDLz/5e6T66Pdcuj0NtcDdxyuq+rl99C6DfzmTFZ/AQ==</diagram&gt;</mxfile&gt;' height="683px" style="background-color: rgb(255, 255, 255);" version="1.1" viewbox="-0.5 -0.5 712 683" width="712px"><defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"></defs><g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><ellipse cx="370" cy="341" fill="#f5f5f5" pointer-events="none" rx="200" ry="200" stroke="#cc0000" stroke-width="3"></ellipse><g transform="translate(260.5,299.5)"><switch><foreignobject height="81" pointer-events="all" requiredfeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;" width="216"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 23px; font-family: Verdana; color: rgb(204, 0, 0); line-height: 1.2; vertical-align: top; width: 217px; white-space: nowrap; overflow-wrap: normal; font-weight: bold; text-align: center;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;"><a xmlns="" data-anchor="/document/16/221065/dfas2o31eo/" data-dfa="dfas2o31eo"></a><a xmlns="" data-anchor="/document/16/221065/bssPhr5/"></a>Автоматическое<br xmlns="">формирование<br xmlns="">отчетности</div></div></foreignobject><text fill="#CC0000" font-family="Verdana" font-size="23px" font-weight="bold" text-anchor="middle" x="108" y="52">[Not supported by viewer]</text></switch></g><ellipse cx="370" cy="81" fill="#f5f5f5" pointer-events="none" rx="80" ry="80" stroke="#cc0000" stroke-width="3"></ellipse><g transform="translate(319.5,44.5)"><switch><foreignobject height="70" pointer-events="all" requiredfeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;" width="99"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Verdana; color: rgb(204, 0, 0); line-height: 1.2; vertical-align: top; width: 100px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;"><font style="font-size: 20px"><a href="https://1gb.uz/#/document/16/221065/dfasyx18e0"><a xmlns="" data-anchor="/document/16/221065/dfas1rzoi9/" data-dfa="dfas1rzoi9"></a><a xmlns="" data-anchor="/document/16/221065/bssPhr6/"></a>Создание<br xmlns="">отчета<br xmlns="">системой</a></font></div></div></foreignobject><text fill="#CC0000" font-family="Verdana" font-size="20px" text-anchor="middle" x="50" y="45">[Not supported by viewer]</text></switch></g><ellipse cx="370" cy="601" fill="#f5f5f5" pointer-events="none" rx="80" ry="80" stroke="#cc0000" stroke-width="3"></ellipse><g transform="translate(318.5,576.5)"><switch><foreignobject height="46" pointer-events="all" requiredfeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;" width="100"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Verdana; color: rgb(204, 0, 0); line-height: 1.2; vertical-align: top; width: 101px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;"><a xmlns="" data-anchor="/document/16/221065/dfasyzcpyy/" data-dfa="dfasyzcpyy"></a><a xmlns="" data-anchor="/document/16/221065/bssPhr7/"></a><a href="https://1gb.uz/#/document/16/221065/dfas5og5tq">Проверка<br xmlns="">данных</a></div></div></foreignobject><text fill="#CC0000" font-family="Verdana" font-size="20px" text-anchor="middle" x="50" y="33">[Not supported by viewer]</text></switch></g><ellipse cx="630" cy="341" fill="#f5f5f5" pointer-events="none" rx="80" ry="80" stroke="#cc0000" stroke-width="3"></ellipse><g transform="translate(551.5,316.5)"><switch><foreignobject height="46" pointer-events="all" requiredfeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;" width="154"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Verdana; color: rgb(204, 0, 0); line-height: 1.2; vertical-align: top; width: 154px; white-space: normal; overflow-wrap: normal; text-align: center;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;"><a xmlns="" data-anchor="/document/16/221065/dfasvtg31e/" data-dfa="dfasvtg31e"></a><a xmlns="" data-anchor="/document/16/221065/bssPhr8/"></a><a href="https://1gb.uz/#/document/16/221065/dfastyauit">Проверка по специфике</a></div></div></foreignobject><text fill="#CC0000" font-family="Verdana" font-size="20px" text-anchor="middle" x="77" y="33">[Not supported by viewer]</text></switch></g><ellipse cx="96" cy="341" fill="#f5f5f5" pointer-events="none" rx="94.5" ry="80" stroke="#cc0000" stroke-width="3"></ellipse><g transform="translate(7.5,316.5)"><switch><foreignobject height="46" pointer-events="all" requiredfeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;" width="173"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Verdana; color: rgb(204, 0, 0); line-height: 1.2; vertical-align: top; width: 174px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;"><a xmlns="" data-anchor="/document/16/221065/dfas1c74rv/" data-dfa="dfas1c74rv"></a><a xmlns="" data-anchor="/document/16/221065/bssPhr9/"></a><a href="https://1gb.uz/#/document/16/221065/dfasyfeag0">Ответственность<br xmlns="">бухгалтера</a></div></div></foreignobject><text fill="#CC0000" font-family="Verdana" font-size="20px" text-anchor="middle" x="87" y="33">[Not supported by viewer]</text></switch></g><ellipse cx="200" cy="171" fill="#f5f5f5" pointer-events="none" rx="80" ry="80" stroke="#cc0000" stroke-width="3"></ellipse><g transform="translate(121.5,146.5)"><switch><foreignobject height="46" pointer-events="all" requiredfeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;" width="154"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Verdana; color: rgb(204, 0, 0); line-height: 1.2; vertical-align: top; width: 154px; white-space: normal; overflow-wrap: normal; text-align: center;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;"><a xmlns="" data-anchor="/document/16/221065/dfasout3g6/" data-dfa="dfasout3g6"></a><a xmlns="" data-anchor="/document/16/221065/bssPhr10/"></a><font color="#cc0000"><a href="https://1gb.uz/#/document/16/221065/dfast5zzzm">Разбор примеров</a></font></div></div></foreignobject><text fill="#CC0000" font-family="Verdana" font-size="20px" text-anchor="middle" x="77" y="33">[Not supported by viewer]</text></switch></g><ellipse cx="540" cy="171" fill="#f5f5f5" pointer-events="none" rx="80" ry="80" stroke="#cc0000" stroke-width="3"></ellipse><g transform="translate(461.5,146.5)"><switch><foreignobject height="46" pointer-events="all" requiredfeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;" width="154"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Verdana; color: rgb(204, 0, 0); line-height: 1.2; vertical-align: top; width: 154px; white-space: normal; overflow-wrap: normal; text-align: center;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;"><a xmlns="" data-anchor="/document/16/221065/dfas39c6zg/" data-dfa="dfas39c6zg"></a><a xmlns="" data-anchor="/document/16/221065/bssPhr11/"></a><a href="https://1gb.uz/#/document/16/221065/dfasq5hn3g">Ручной ввод данных&nbsp;</a></div></div></foreignobject><text fill="#CC0000" font-family="Verdana" font-size="20px" text-anchor="middle" x="77" y="33">[Not supported by viewer]</text></switch></g><ellipse cx="540" cy="511" fill="#f5f5f5" pointer-events="none" rx="80" ry="80" stroke="#cc0000" stroke-width="3"></ellipse><g transform="translate(461.5,486.5)"><switch><foreignobject height="46" pointer-events="all" requiredfeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;" width="154"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Verdana; color: rgb(204, 0, 0); line-height: 1.2; vertical-align: top; width: 154px; white-space: normal; overflow-wrap: normal; text-align: center;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;"><a xmlns="" data-anchor="/document/16/221065/dfas7dvtss/" data-dfa="dfas7dvtss"></a><a xmlns="" data-anchor="/document/16/221065/bssPhr12/"></a><a href="https://1gb.uz/#/document/16/221065/dfasdydeao">Изменение данных</a></div></div></foreignobject><text fill="#CC0000" font-family="Verdana" font-size="20px" text-anchor="middle" x="77" y="33">[Not supported by viewer]</text></switch></g><ellipse cx="190" cy="511" fill="#f5f5f5" pointer-events="none" rx="90.5" ry="80" stroke="#cc0000" stroke-width="3"></ellipse><g transform="translate(106.5,486.5)"><switch><foreignobject height="46" pointer-events="all" requiredfeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;" width="164"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Verdana; color: rgb(204, 0, 0); line-height: 1.2; vertical-align: top; width: 165px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;"><a xmlns="" data-anchor="/document/16/221065/dfasy62ykn/" data-dfa="dfasy62ykn"></a><a xmlns="" data-anchor="/document/16/221065/bssPhr13/"></a><a href="https://1gb.uz/#/document/16/221065/dfasds6d9f">Подтверждение<br xmlns="">отчета</a></div></div></foreignobject><text fill="#CC0000" font-family="Verdana" font-size="20px" text-anchor="middle" x="82" y="33">[Not supported by viewer]</text></switch></g></g></svg><a data-anchor="/document/16/221065/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221065/bssPhr14/"></a><a data-anchor="/document/16/221065/dfasyx18e0/" data-dfa="dfasyx18e0"></a>Как работает&nbsp;автоматическая отчетность</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/221065/bssPhr16/"></a><a data-anchor="/document/16/221065/dfas3qfls1/" data-dfa="dfas3qfls1"></a>С 2026 года по отдельным налогам вводится механизм автоматического формирования отчетности через информационные системы налоговых органов. В первую очередь речь идет об отчетах по земельному налогу и налогу на имущество. Налоговые органы формируют электронные формы отчетов на основании данных государственных реестров и сведений, которые налогоплательщик предварительно вносит в специальные сервисы.</p><p><a data-anchor="/document/16/221065/bssPhr17/"></a><a data-anchor="/document/16/221065/dfast49ctm/" data-dfa="dfast49ctm"></a>Для бухгалтера это означает изменение подхода к отчетности. Объем ручного заполнения форм действительно сокращается, однако ответственность за достоверность показателей, своевременность представления и корректность расчетов по‑прежнему полностью лежит на налогоплательщике.</p><p><a data-anchor="/document/16/221065/bssPhr18/"></a><a data-anchor="/document/16/221065/dfasrqlndy/" data-dfa="dfasrqlndy"></a><a data-anchor="/document/16/221065/dfasmyx5qb/" data-dfa="dfasmyx5qb"></a>Автоматически сформированная отчетность не является «готовым решением». Это предварительный расчет, который требует профессиональной проверки, анализа и при необходимости корректировки.</p><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/e1d7fb83-a978-4f23-997b-87931f1009d0/index.html" data-itype="memo" data-moduleId="53" data-id="751" style="min-height:400px" width="100%"></iframe></div><p><a data-anchor="/document/16/221065/bssPhr19/"></a><a data-anchor="/document/16/221065/dfash196za/" data-dfa="dfash196za"></a>Важно учитывать, что система не формирует отчет «с нуля». Система как основу расчета&nbsp;использует данные, которые&nbsp;ввел сам налогоплательщик.</p><p><a data-anchor="/document/16/221065/bssPhr20/"></a><a data-anchor="/document/16/221065/dfasgiiokt/" data-dfa="dfasgiiokt"></a>Отчеты по НДФЛ и соцналогу тоже станут автоматизированными. В разделе «Общая информация» персонального кабинета на my3.soliq.uz уже появилась новая вкладка «Сотрудники». Данные туда попадают автоматически из ваших отчетов.</p></div><a data-anchor="/document/16/221065/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221065/bssPhr21/"></a><a data-anchor="/document/16/221065/dfasq5hn3g/" data-dfa="dfasq5hn3g"></a>Большая часть данных вводится вручную</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/221065/bssPhr23/"></a><a data-anchor="/document/16/221065/dfasg18v3x/" data-dfa="dfasg18v3x"></a>Несмотря на заявленную автоматизацию, у налоговых органов недостаточно информации для полного и самостоятельного заполнения отчетов. Значительная часть показателей – площадь объектов, сведения об использовании имущества, данные о льготах, корректирующие коэффициенты – вводится налогоплательщиком вручную.</p><p><a data-anchor="/document/16/221065/bssPhr24/"></a><a data-anchor="/document/16/221065/dfas4qur8a/" data-dfa="dfas4qur8a"></a>Если на этом этапе допущена ошибка (опечатка, неверный показатель, устаревшие данные), система сформирует отчет на основании некорректных сведений. Внешне отчет будет выглядеть правильно: все строки заполнены, контрольные соотношения соблюдены. Однако фактически расчет окажется ошибочным.</p><p><a data-anchor="/document/16/221065/bssPhr25/"></a><a data-anchor="/document/16/221065/dfasetp8is/" data-dfa="dfasetp8is"></a>Автоматизация в данном случае не снижает риск ошибки, а лишь переносит ее из этапа заполнения формы на этап проверки.</p></div><a data-anchor="/document/16/221065/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/221065/bssPhr26/"></a><a data-anchor="/document/16/221065/dfastyauit/" data-dfa="dfastyauit"></a>Алгоритм не учитывает специфику деятельности</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221065/bssPhr28/"></a><a data-anchor="/document/16/221065/dfasdc66s6/" data-dfa="dfasdc66s6"></a>Программный алгоритм рассчитывает налог строго по заданным формулам и данным, которые в него загружены. Он не анализирует экономическую суть операций и не учитывает индивидуальные особенности деятельности компании.</p><p><a data-anchor="/document/16/221065/bssPhr29/"></a><a data-anchor="/document/16/221065/dfasok2ywl/" data-dfa="dfasok2ywl"></a>Система не способна самостоятельно распознать:</p><ul class="c-list"><li><a data-anchor="/document/16/221065/bssPhr30/"></a><a data-anchor="/document/16/221065/dfasevw2wg/" data-dfa="dfasevw2wg"></a>ограничения на использование земельных участков;</li><li>частичное использование имущества;</li><li>временный вывод объектов из эксплуатации;</li><li>иные нестандартные ситуации, влияющие на налоговую базу.</li></ul><p><a data-anchor="/document/16/221065/bssPhr31/"></a><a data-anchor="/document/16/221065/dfasb5ox47/" data-dfa="dfasb5ox47"></a>В результате налог может быть рассчитан корректно с точки зрения формулы, но без учета фактических обстоятельств. Такие расхождения чаще всего выявляются при камеральной проверке и требуют дополнительных пояснений.</p></div><a data-anchor="/document/16/221065/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/221065/bssPhr32/"></a><a data-anchor="/document/16/221065/dfasdydeao/" data-dfa="dfasdydeao"></a>Отсутствует прозрачность источников данных</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/221065/bssPhr34/"></a><a data-anchor="/document/16/221065/dfaso5ax1k/" data-dfa="dfaso5ax1k"></a>В автоматически заполненном отчете бухгалтер видит итоговые суммы, но не всегда может определить:</p><ul class="c-list"><li><a data-anchor="/document/16/221065/bssPhr35/"></a><a data-anchor="/document/16/221065/dfassmkbpw/" data-dfa="dfassmkbpw"></a>из каких источников получены данные;</li><li>за какой период они актуальны;</li><li>какие изменения в реестрах повлияли на расчет.</li></ul><p><a data-anchor="/document/16/221065/bssPhr36/"></a><a data-anchor="/document/16/221065/dfas5375xn/" data-dfa="dfas5375xn"></a>Отсутствие прозрачности усложняет контроль расчетов. Бухгалтеру фактически приходится сначала восстановить логику расчета системы, а уже затем оценивать его корректность.</p></div><a data-anchor="/document/16/221065/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/221065/bssPhr37/"></a><a data-anchor="/document/16/221065/dfas5og5tq/" data-dfa="dfas5og5tq"></a>Исходные сведения могут быть некорректными</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221065/bssPhr39/"></a><a data-anchor="/document/16/221065/dfasghg5zf/" data-dfa="dfasghg5zf"></a>Данные, получаемые из государственных реестров, не всегда своевременно обновляются. На практике встречаются ситуации, когда:</p><ul class="c-list"><li><a data-anchor="/document/16/221065/bssPhr40/"></a><a data-anchor="/document/16/221065/dfascudzey/" data-dfa="dfascudzey"></a>в реестре указана старая площадь объекта недвижимости;</li><li>не отражены изменения после реконструкции или перепланировки;</li><li>отсутствуют актуальные налоговые ставки или коэффициенты по региону;</li><li>сведения по объекту вообще не загружены в систему.</li></ul><p><a data-anchor="/document/16/221065/bssPhr41/"></a><a data-anchor="/document/16/221065/dfas8d38mk/" data-dfa="dfas8d38mk"></a>В таких случаях отчет формируется с неверными показателями, либо не формируется вовсе и требует ручной корректировки.</p></div><a data-anchor="/document/16/221065/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/221065/bssPhr42/"></a><a data-anchor="/document/16/221065/dfasds6d9f/" data-dfa="dfasds6d9f"></a>Ответственность остается за налогоплательщиком</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221065/bssPhr44/"></a><a data-anchor="/document/16/221065/dfasan164h/" data-dfa="dfasan164h"></a>Несмотря на то что отчет формируется системой налоговых органов, юридическую силу он приобретает только после подтверждения налогоплательщиком.</p><p><a data-anchor="/document/16/221065/bssPhr45/"></a><a data-anchor="/document/16/221065/dfasq6w1gm/" data-dfa="dfasq6w1gm"></a>Подтверждение отчета означает согласие со всеми отраженными в нем показателями. При выявлении ошибок налоговые органы не принимают аргумент «так посчитала система». Ответственность за недостоверные сведения возлагается на налогоплательщика.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221065/bssPhr46/"></a><a data-anchor="/document/16/221065/dfas8c8y54/" data-dfa="dfas8c8y54"></a>Если отчет не подтвержден до установленного срока, он может быть направлен в налоговый орган автоматически</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221065/bssPhr47/"></a><a data-anchor="/document/16/221065/dfasw6le34/" data-dfa="dfasw6le34"></a>Это не освобождает от ответственности за допущенные ошибки.</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/221065/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/221065/bssPhr48/"></a><a data-anchor="/document/16/221065/dfasyfeag0/" data-dfa="dfasyfeag0"></a>Роль бухгалтера при автоматической отчетности</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/221065/bssPhr50/"></a><a data-anchor="/document/16/221065/dfasz27yxa/" data-dfa="dfasz27yxa"></a>Автоматическое формирование отчетности не исключает участие бухгалтера. Его роль меняется и усложняется.</p><p data-end="656" data-start="297"><a data-anchor="/document/16/221065/bssPhr51/"></a><a data-anchor="/document/16/221065/dfasiewbuv/" data-dfa="dfasiewbuv"></a>Сформированная системой форма – это исходный вариант, а не готовый результат. Она не отражает особенности деятельности налогоплательщика, управленческие решения и специфику хозяйственных операций. Использование отчета без проверки создает риск ошибок, несмотря на корректный внешний вид документа.</p><p data-end="656" data-start="297"><a data-anchor="/document/16/221065/bssPhr52/"></a><a data-anchor="/document/16/221065/dfas85a0li/" data-dfa="dfas85a0li"></a>После подтверждения отчет приобретает статус официального документа. Ответственность за содержащиеся в нем данные несет налогоплательщик вне зависимости от способа формирования показателей.</p><p data-end="656" data-start="297"><a data-anchor="/document/16/221065/bssPhr53/"></a><a data-anchor="/document/16/221065/dfastbhlp9/" data-dfa="dfastbhlp9"></a>Снижается объем ручного ввода данных и возрастает значение аналитической работы и профессионального суждения. Автоматизация не заменяет бухгалтера, а предъявляет повышенные требования к его внимательности и компетенции.</p><p data-end="656" data-start="297"><a data-anchor="/document/16/221065/bssPhr54/"></a><a data-anchor="/document/16/221065/dfasirtxqe/" data-dfa="dfasirtxqe"></a><strong>Памятка. Что делать бухгалтеру.&nbsp;</strong></p><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/b336c27c-21f7-4fe7-a572-fdb425de9608/index.html" data-itype="memo" data-moduleId="53" data-id="750" style="min-height:400px" width="100%"></iframe></div></div><a data-anchor="/document/16/221065/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/221065/bssPhr55/"></a><a data-anchor="/document/16/221065/dfasv7rgu2/" data-dfa="dfasv7rgu2"></a>Чек-лист проверки отчетности&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221065/bssPhr57/"></a><a data-anchor="/document/16/221065/dfaseuf78c/" data-dfa="dfaseuf78c"></a>Перед подтверждением отчета бухгалтеру нужно последовательно проверить:</p><p><a data-anchor="/document/16/221065/bssPhr58/"></a><a data-anchor="/document/16/221065/dfaskqlywu/" data-dfa="dfaskqlywu"></a><strong>1. Данные об объектах.</strong> Имущество, земля – совпадает ли перечень с реальностью именно этого периода, а не с тем, что когда‑то числилось в реестрах.</p><p><a data-anchor="/document/16/221065/bssPhr59/"></a><a data-anchor="/document/16/221065/dfast72sse/" data-dfa="dfast72sse"></a><strong>2. Ставки и коэффициенты.</strong> Региональные, льготные, по видам деятельности. Из-за ошибок возможно не только занижение, но и завышение налога.</p><p><a data-anchor="/document/16/221065/bssPhr60/"></a><a data-anchor="/document/16/221065/dfasvqwtp3/" data-dfa="dfasvqwtp3"></a><strong>3. Резкие отклонения от прошлого периода</strong>. Даже если причина объективная, убедитесь, что сможете в будущем пояснить налоговикам их же цифры.</p><p><a data-anchor="/document/16/221065/bssPhr61/"></a><a data-anchor="/document/16/221065/dfasltfro8/" data-dfa="dfasltfro8"></a><strong>4. Разовые и нетипичные операции</strong>. Алгоритм не различает регулярное и разовое.</p><p><a data-anchor="/document/16/221065/bssPhr62/"></a><a data-anchor="/document/16/221065/dfasvg0gdm/" data-dfa="dfasvg0gdm"></a><strong>5. Ручные поля</strong>. Некоторые поля, даже заполненные автоматически, требуют ручной корректировки.</p><p><a data-anchor="/document/16/221065/bssPhr63/"></a><a data-anchor="/document/16/221065/dfasiffggf/" data-dfa="dfasiffggf"></a><strong>6. Пустые показатели и нули</strong>. Ноль – это тоже значение. Проверьте, что он появился осознанно, а не из‑за отсутствия данных.</p><p><a data-anchor="/document/16/221065/bssPhr64/"></a><a data-anchor="/document/16/221065/dfas170wgv/" data-dfa="dfas170wgv"></a><strong>7. Итоги и контрольные соотношения</strong>. Логическую связность показателей никто, кроме бухгалтера, не оценит.</p><p><a data-anchor="/document/16/221065/bssPhr65/"></a><a data-anchor="/document/16/221065/dfas045z40/" data-dfa="dfas045z40"></a><strong>8. Источник крупных цифр</strong>. Проанализируйте, понимаете ли вы, откуда взялась каждая значимая сумма. Если нет – лучше разобраться до подтверждения отчета.</p><p><a data-anchor="/document/16/221065/bssPhr66/"></a><a data-anchor="/document/16/221065/dfasx6k65g/" data-dfa="dfasx6k65g"></a><strong>9. Словестные пояснения.</strong> Сможете ли вы спокойно объяснить цифры без фразы «так посчитала система».</p></div><a data-anchor="/document/16/221065/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/221065/bssPhr67/"></a><a data-anchor="/document/16/221065/dfast5zzzm/" data-dfa="dfast5zzzm"></a>Примеры из практики при отправке отчетности</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221065/bssPhr69/"></a><a data-anchor="/document/16/221065/dfasxawiuu/" data-dfa="dfasxawiuu"></a>В таблице привели&nbsp;типовые ситуации, с которыми бухгалтеры могут сталкнуться&nbsp;при работе с автоматически сформированной налоговой отчетностью. Примеры показывают, как корректные расчеты системы могут привести к ошибкам, если не проверить исходные данные, источники сведений и применяемые ставки.&nbsp;</p><div align="left"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td class="bdTopbdBottombdRight" style="text-align: left; vertical-align: middle; width: 25.81%;"><p><a data-anchor="/document/16/221065/bssPhr71/"></a><a data-anchor="/document/16/221065/dfas95akrx/" data-dfa="dfas95akrx"></a>Автоматический отчет заполнился не до конца</p></td><td class="bdTopbdBottombdLeft" style="text-align: left; vertical-align: middle; width: 74.04%;"><p style="text-align:left"><a data-anchor="/document/16/221065/bssPhr72/"></a><a data-anchor="/document/16/221065/dfasbuaati/" data-dfa="dfasbuaati"></a>Бухгалтер опечатался, когда вносил данные в сервис налоговиков. Программа налоговиков корректно сформировала отчет, но на основе ошибочных сведений. Формально отчет выглядел безупречно, фактически – требовал исправлений.</p></td></tr><tr><td class="bdTopbdBottombdRight" style="text-align: left; vertical-align: middle; width: 25.81%;"><p><a data-anchor="/document/16/221065/bssPhr73/"></a><a data-anchor="/document/16/221065/dfasqcfxna/" data-dfa="dfasqcfxna"></a>В отчет попали земли, которых там быть не должно</p></td><td class="bdTopbdBottombdLeft" style="text-align: left; vertical-align: middle; width: 74.04%;"><p style="text-align:left"><a data-anchor="/document/16/221065/bssPhr74/"></a><a data-anchor="/document/16/221065/dfascrqd2b/" data-dfa="dfascrqd2b"></a>Компания владеет земельным участком, часть которого находится в зоне ограниченного использования. В отчете по земельному налогу система автоматически рассчитала налог со всей площади участка. Формально данные из реестра верны, но фактически часть земли не может использоваться в хозяйственной деятельности. Бухгалтеру пришлось дополнительно подтверждать и пояснять расчеты, чтобы избежать претензий налоговиков.</p></td></tr><tr><td class="bdTopbdBottombdRight" style="text-align: left; vertical-align: middle; width: 25.81%;"><p><a data-anchor="/document/16/221065/bssPhr75/"></a><a data-anchor="/document/16/221065/dfasl0yumv/" data-dfa="dfasl0yumv"></a>В отчете отразились сведения, о которых не знал даже бухгалтер</p></td><td class="bdTopbdBottombdLeft" style="text-align: left; vertical-align: middle; width: 74.04%;"><p style="text-align:left"><a data-anchor="/document/16/221065/bssPhr76/"></a><a data-anchor="/document/16/221065/dfasqzqtbg/" data-dfa="dfasqzqtbg"></a>В автоматически сформированном отчете по земельному налогу сумма оказалась выше, чем в прошлом году. При проверке выяснилось, что система подтянула обновленные данные о площади участка из реестра, но бухгалтер об этом изменении не знал. Разобраться в расхождении удалось только после дополнительного запроса и сверки данных с кадастровыми сведениями.</p></td></tr><tr><td class="bdTopbdBottombdRight" style="text-align: left; vertical-align: middle; width: 25.81%;"><p><a data-anchor="/document/16/221065/bssPhr77/"></a><a data-anchor="/document/16/221065/dfasxagz8b/" data-dfa="dfasxagz8b"></a>В отчет попали некорректные сведения</p></td><td class="bdTopbdBottombdLeft" style="text-align: left; vertical-align: middle; width: 74.04%;"><p><a data-anchor="/document/16/221065/bssPhr78/"></a><a data-anchor="/document/16/221065/dfas9kdwzc/" data-dfa="dfas9kdwzc"></a>В госреестре по объекту недвижимости числилась старая площадь здания. Система автоматически сформировала отчет исходя из этих данных. Фактически площадь была меньше после реконструкции, но изменения в реестр вовремя не внесли. В результате бухгалтеру пришлось вручную корректировать отчет.</p></td></tr><tr><td class="bdTopbdBottombdRight" style="text-align: left; vertical-align: middle; width: 25.81%;"><p><a data-anchor="/document/16/221065/bssPhr79/"></a><a data-anchor="/document/16/221065/dfas7kqu3r/" data-dfa="dfas7kqu3r"></a>Ошибка в отчете стала проблемой бухгалтера</p></td><td class="bdTopbdBottombdLeft" style="text-align: left; vertical-align: middle; width: 74.04%;"><p><a data-anchor="/document/16/221065/bssPhr80/"></a><a data-anchor="/document/16/221065/dfasrke3fr/" data-dfa="dfasrke3fr"></a>Бухгалтер забыл подтвердить отчет по налогу на имущество, и он автоматически отправился в налоговую инспекцию. При этом оказалось, что в отчете стояла льготная ставка налога, на которую у компании не было права. При проверке налоговики указали на расхождение. Несмотря на то что расчет выполнила система, ответственность за неверные данные возложили на бухгалтера.</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

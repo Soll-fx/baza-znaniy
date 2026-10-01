@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Постановление Кабмина РУЗ от 27.02.2017 № 105</div><h2 class="auth__title">Об утверждении Положения о порядке уплаты налогов по обособленным подразделениям юридического лица (утратил силу)</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/8969/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/8969/dfasb5fy9p/"></a><a data-anchor="/document/90/8969/dfastlk4a8/"></a>КАБИНЕТА МИНИСТРОВ РЕСПУБЛИКИ УЗБЕКИСТАН<br>ПОСТАНОВЛЕНИЕ</p><p style="text-align:center"><a data-anchor="/document/90/8969/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/8969/dfascs0f4g/"></a><strong>Об утверждении Положения о порядке уплаты налогов по обособленным подразделениям юридического лица</strong></p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/8969/dfasckmdv1/"></a>Во исполнение постановления Президента Республики Узбекистан от 27 декабря 2016 года № ПП-2699 &#171;О прогнозе основных макроэкономических показателей и параметрах Государственного бюджета Республики Узбекистан на 2017 год&#187; Кабинет Министров постановляет:</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/8969/dfasmf893t/"></a>1. Утвердить Положение о порядке уплаты налогов по обособленным подразделениям юридического лица (далее &#8212; Положение) согласно приложению.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/8969/dfas80tixz/"></a>2. Государственному налоговому комитету совместно с Министерством финансов Республики Узбекистан в недельный срок утвердить перечень юридических лиц, имеющих обособленные подразделения, на которые будет распространяться действие настоящего Положения.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/8969/dfas3pzra6/"></a>3. Возложить на Председателя Совета Министров Республики Каракалпакстан, хокимов областей и г. Ташкента проведение, совместно с территориальными финансовыми органами и органами государственной налоговой службы, на системной основе инвентаризации на предмет выявления юридических лиц, имеющих обособленные подразделения, соответствующие установленным критериям для уплаты налогов по месту нахождения обособленного подразделения.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/8969/dfasoepbez/"></a>По итогам инвентаризации ежегодно до 1 июня вносить в Государственный налоговый комитет и Министерство финансов Республики Узбекистан предложения о расширении или сокращении круга юридических лиц, на которых будет распространяться утвержденное Положение.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/8969/dfas2nmgq1/"></a>4. Контроль за исполнением настоящего постановления возложить на заместителя Премьер-министра Республики Узбекистан Р.С. Азимова.</p><p style="text-align:right"><a data-anchor="/document/90/8969/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/8969/dfasv4mk8q/"></a><strong>Премьер-министр<br>Республики Узбекистан<br>А. Арипов</strong></p><p><a data-anchor="/document/90/8969/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/8969/dfasqsmwg9/"></a>г. Ташкент,<br>27 февраля 2017 г.,<br>№ 105</p><div class="doc__untyped doc-start" data-type="untyped" data-level="5"><a data-role="toc" data-anchor="/document/90/8969/tit1/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/8969/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/8969/dfas2ekz1u/"></a>ПРИЛОЖЕНИЕ<br>к постановлению Кабинета Министров<br>от 27 февраля 2017 года № 105</span></div><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/8969/tit2/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/8969/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/8969/dfassx3poi/"></a>ПОЛОЖЕНИЕ<br>о порядке уплаты налогов по обособленным подразделениям юридического лица</span></div><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/8969/tit3/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/8969/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/8969/dfas4i2ogy/"></a>Глава 1. </span><span class="doc__chapter-name">Общие положения</span></div><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/8969/dfas0g64kf/"></a>1. Настоящее Положение в соответствии с Налоговым кодексом Республики Узбекистан и постановлением Президента Республики Узбекистан от 27 декабря 2016 года № ПП-2699 &#171;О прогнозе основных макроэкономических показателей и параметрах Государственного бюджета Республики Узбекистан на 2017 год&#187; определяет порядок исчисления и уплаты налогов по обособленным подразделениям юридического лица.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/8969/dfas8n0a3w/"></a>Действие настоящего Положения не распространяется на обособленные подразделения юридических лиц, которые в соответствии с Налоговым кодексом Республики Узбекистан являются самостоятельными налогоплательщиками.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/8969/dfask69qtg/"></a>2. Действие настоящего Положения распространяется на обособленные подразделения юридических лиц, на которых осуществляются завершающие этапы технологического процесса производства с выпуском готовой продукции. При этом готовой продукцией считается любая продукция, реализуемая юридическим лицом.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/8969/dfas1gpnpe/"></a>Под обособленным подразделением юридического лица в целях применения настоящего Положения признается территориально обособленное подразделение, по месту нахождения которого оборудованы стационарные рабочие места, с выполнением части функций юридического лица. Рабочее место считается стационарным, если оно создано на срок более одного месяца.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/8969/dfaspzcbg7/"></a>Перечень юридических лиц, имеющих обособленные подразделения, на которые распространяется настоящее Положение, ежегодно утверждается Государственным налоговым комитетом и Министерством финансов Республики Узбекистан не позднее одного месяца до начала следующего налогового периода. Юридические лица, включенные в данный перечень, в пятидневный срок уведомляются органами государственной налоговой службы по месту налогового учета.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/8969/dfashdqtn9/"></a>3. Налоговые обязательства юридического лица по его обособленному подразделению, исполняются самим юридическим лицом, с перечислением приходящейся на данное обособленное подразделение доли налогов по месту его нахождения.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/8969/dfash1tiey/"></a>4. По месту нахождения обособленного подразделения юридического лица перечисляются следующие налоги:</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/8969/dfas53klvg/"></a>налог на прибыль юридических лиц;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/8969/dfastlvk5g/"></a>налог на доходы физических лиц;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/8969/dfastzaeik/"></a>налог на добавленную стоимость;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/8969/dfasbgg4s4/"></a>акцизный налог;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/8969/dfas2ko9za/"></a>налог за пользование недрами;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/8969/dfas0z5saz/"></a>единый налоговый платеж.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/8969/dfasu4kndf/"></a>5. Независимо от действия настоящего Положения, налог за пользование водными ресурсами, налог на имущество и земельный налог уплачиваются по месту нахождения объекта налогообложения в порядке, установленном статьей 81 Налогового кодекса Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/8969/dfasdybe6s/"></a>6. Передача имущества, выполнение работ, оказание услуг внутри юридического лица, в том числе между его обособленными подразделениями, не рассматривается как реализация. При этом для обособленных подразделений юридического лица, которые в соответствии с Налоговым кодексом Республики Узбекистан являются самостоятельными налогоплательщиками, такая передача признается оборотом по реализации товаров (работ, услуг) для целей исчисления налога на добавленную стоимость.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/8969/tit4/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/8969/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/8969/dfash7t6hr/"></a>Глава 2. </span><span class="doc__chapter-name">Особенности исчисления и уплаты налогов юридическим лицом, имеющим обособленные подразделения</span></div><div class="doc__paragraph" data-type="paragraph" data-level="5"><a data-role="toc" data-anchor="/document/90/8969/tit5/"></a><span class="doc__paragraph-number" style="text-align:left"><a data-anchor="/document/90/8969/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/8969/dfast271ce/"></a>&#167; 1. </span><span class="doc__paragraph-name">Налог на прибыль юридических лиц, единый налоговый платеж</span></div><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/8969/dfasn8zi6a/"></a>7. Уплата налога на прибыль юридических лиц с учетом уплаты текущих платежей, а также единого налогового платежа, производится юридическим лицом по месту налогового учета и по месту нахождения каждого его обособленного подразделения, исходя из доли налогов, приходящейся на это обособленное подразделение. Доля налогов, приходящаяся на обособленное подразделение юридического лица, определяется как средняя арифметическая величина удельного веса расходов на оплату труда и удельного веса первоначальной (восстановительной) стоимости основных средств этого обособленного подразделения, соответственно, в расходах на оплату труда и в первоначальной (восстановительной) стоимости основных средств в целом по юридическому лицу, и исчисляется по следующей формуле:</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/8969/dfasczys32/"></a><strong>ОП</strong> &#8212; обособленное подразделение юридического лица;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/8969/dfasah08cm/"></a><strong>ФОТ <sub>оп</sub></strong> &#8212; расходы на оплату труда, приходящиеся на обособленное подразделение юридического лица;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/8969/dfasa5ydso/"></a><strong>ФОТ <sub>общ</sub></strong> &#8212; расходы на оплату труда в целом по юридическому лицу;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/8969/dfaswrvhvu/"></a><strong>ОС<sub> оп</sub></strong> &#8212; первоначальная (восстановительная) стоимость основных средств, приходящаяся на обособленное подразделение юридического лица;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/8969/dfas5p5oay/"></a><strong>ОС <sub>общ</sub></strong> &#8212; первоначальная (восстановительная) стоимость основных средств в целом по юридическому лицу.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/8969/dfas9dgdvk/"></a>Исходя из доли налогов, приходящейся на обособленное подразделение юридического лица, определяется сумма налогов, подлежащая уплате в бюджет по месту нахождения данного обособленного подразделения юридического лица, исчисляемая по формуле:</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/8969/dfas8fq4t4/"></a><strong>Сумма налога ОП = Сумма налога (всего) х Доля налога ОП (в %)/100,</strong> где:</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/8969/dfasib59qg/"></a><strong>Сумма налога (всего)</strong> &#8212; сумма налога, подлежащая уплате в бюджет в целом по юридическому лицу.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/8969/dfas38siqy/"></a>Сумма налога, подлежащая уплате в бюджет по месту налогового учета юридического лица, определяется исходя из суммы налога, подлежащей уплате в бюджет юридическим лицом в целом, за вычетом сумм налогов, подлежащих уплате в бюджеты по месту нахождения обособленных подразделений этого юридического лица.</p><div class="doc__paragraph" data-type="paragraph" data-level="5"><a data-role="toc" data-anchor="/document/90/8969/tit6/"></a><span class="doc__paragraph-number" style="text-align:left"><a data-anchor="/document/90/8969/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/8969/dfasdp85zw/"></a>&#167; 2. </span><span class="doc__paragraph-name">Налог на доходы физических лиц</span></div><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/8969/dfas9ubdqz/"></a>8. Сумма налога на доходы физических лиц, подлежащая уплате в бюджет по месту нахождения обособленного подразделения юридического лица, определяется в порядке, предусмотренном законодательством, исходя из суммы дохода, подлежащего налогообложению, начисляемого и выплачиваемого работникам, занятым на данном обособленном подразделении юридического лица.</p><div class="doc__paragraph" data-type="paragraph" data-level="5"><a data-role="toc" data-anchor="/document/90/8969/tit7/"></a><span class="doc__paragraph-number" style="text-align:left"><a data-anchor="/document/90/8969/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/8969/dfas3kaza7/"></a>&#167; 3. </span><span class="doc__paragraph-name">Налог на добавленную стоимость</span></div><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/8969/dfasikv9xs/"></a>9. Сумма налога на добавленную стоимость, подлежащая уплате в бюджет по месту нахождения каждого обособленного подразделения юридического лица, производится юридическим лицом исходя из доли налога, приходящейся на каждое из этих обособленных подразделений. Доля налога на добавленную стоимость, приходящаяся на обособленное подразделение юридического лица, определяется как средняя арифметическая величина удельного веса облагаемого оборота по реализации товаров (работ, услуг) и удельного веса материальных затрат этого обособленного подразделения юридического лица, соответственно, в облагаемом обороте по реализации товаров (работ, услуг) и материальных затрат по юридическому лицу в целом по следующей формуле:</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/8969/dfasx61lgd/"></a><strong>ОП</strong> &#8212; обособленное подразделение юридического лица;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/8969/dfash6k4gz/"></a><strong>ОР <sub>оп</sub></strong> &#8212; облагаемый оборот по реализации товаров (работ, услуг) по обособленному подразделению юридического лица;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/8969/dfas9ozb0t/"></a><strong>ОР<sub>общ</sub></strong> &#8212; облагаемый оборот по реализации товаров (работ, услуг) по юридическому лицу в целом;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/8969/dfasco0ade/"></a><strong>МЗ <sub>оп</sub></strong> &#8212; материальные затраты по обособленному подразделению юридического лица;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/8969/dfasw2yzw9/"></a><strong>МЗ <sub>общ</sub></strong> &#8212; материальные затраты по юридическому лицу в целом.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/8969/dfas7xozru/"></a>Исходя из доли налога на добавленную стоимость, приходящейся на каждое обособленное подразделение юридического лица, определяется сумма налога на добавленную стоимость, подлежащая уплате в бюджет по месту нахождения обособленного подразделения юридического лица, исчисляемая по формуле:</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/8969/dfas6artua/"></a><strong>Сумма налога на добавленную стоимость ОП = Сумма налога на добавленную стоимость (всего) х Доля налога на добавленную стоимость ОП (в %) / 100,</strong> где:</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/8969/dfasg25w16/"></a><strong>Сумма налога на добавленную стоимость (всего)</strong> &#8212; сумма налога на добавленную стоимость, подлежащая уплате в бюджет юридическим лицом в целом.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/8969/dfasx949k6/"></a>Сумма налога на добавленную стоимость, подлежащая уплате в бюджет по месту налогового учета юридического лица, определяется исходя из суммы налога на добавленную стоимость, подлежащей уплате в бюджет юридическим лицом в целом, за вычетом сумм налога на добавленную стоимость, подлежащих уплате в бюджет по месту нахождения обособленных подразделений этого юридического лица.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/8969/dfaskuo5av/"></a>9<sup>1</sup>. В случае, если юридическое лицо ведет раздельный учет доходов и расходов по обособленному подразделению, то оно имеет право определять сумму налога на добавленную стоимость исходя из облагаемого оборота по реализации товаров (работ, услуг) и налога на добавленную стоимость, принимаемого к зачету по каждому обособленному подразделению отдельно.</p><div class="doc__paragraph" data-type="paragraph" data-level="5"><a data-role="toc" data-anchor="/document/90/8969/tit8/"></a><span class="doc__paragraph-number" style="text-align:left"><a data-anchor="/document/90/8969/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/8969/dfaszin76p/"></a>&#167; 4. </span><span class="doc__paragraph-name">Акцизный налог</span></div><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/8969/dfassgf58c/"></a>10. Сумма акцизного налога, подлежащая уплате в бюджет по месту нахождения обособленного подразделения, определяется в порядке, предусмотренном законодательством, исходя из налогооблагаемой базы, приходящейся на обособленное подразделение.</p><div class="doc__paragraph" data-type="paragraph" data-level="5"><a data-role="toc" data-anchor="/document/90/8969/tit9/"></a><span class="doc__paragraph-number" style="text-align:left"><a data-anchor="/document/90/8969/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/8969/dfas51bs77/"></a>&#167; 5. </span><span class="doc__paragraph-name">Налог за пользование недрами</span></div><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/8969/dfask6yflz/"></a>11. Сумма налога за пользование недрами, подлежащая уплате в бюджет по месту нахождения обособленного подразделения юридического лица, определяется в порядке, предусмотренном законодательством, исходя из объема добычи готового продукта в данном обособленном подразделении юридического лица.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/8969/tit10/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/8969/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/8969/dfasq5zd51/"></a>Глава 3. </span><span class="doc__chapter-name">Постановка на налоговый учет юридических лиц, имеющих обособленные подразделения, и порядок выполнения ими налоговых обязательств по обособленным подразделениям</span></div><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/8969/dfasc0389g/"></a>12. Юридическое лицо, на которое распространяется действие настоящего Положения, наряду с постановкой на учет в органах государственной налоговой службы по месту налогового учета, также обязано встать на учет в качестве налогоплательщика по месту нахождения обособленных подразделений не позднее 10 дней со дня получения уведомления о включении их в перечень юридических лиц, имеющих обособленные подразделения.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/8969/dfas4geyau/"></a>13. В органы государственной налоговой службы по месту нахождения обособленного подразделения юридического лица представляется следующая налоговая отчетность:</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/8969/dfasyzkcui/"></a>а) расчеты сумм налога на прибыль юридических лиц, единого налогового платежа и налога на добавленную стоимость, приходящихся на обособленное подразделение юридического лица, по формам налоговой отчетности, утверждаемым Министерством финансов и Государственным налоговым комитетом Республики Узбекистан. Данные расчеты составляются на основании расчетов по соответствующим налогам, предусмотренных в формах налоговой отчетности, представляемых в органы государственной налоговой службы по месту налогового учета юридического лица, и в которых отдельной строкой выделяются суммы налогов в разрезе каждого обособленного подразделения юридического лица. При этом при представлении расчетов в органы государственной налоговой службы по месту налогового учета юридического лица к ним прилагаются копии расчетов сумм налогов, приходящихся на каждое его обособленное подразделение;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/8969/dfasi4lzcx/"></a>б) сведения о суммах начисленных и фактически выплаченных доходов и суммах удержанного налога на доходы физических лиц в части работников, занятых на соответствующем обособленном подразделении юридического лица &#8212; по налогу на доходы физических лиц. При этом копии данных сведений одновременно направляются юридическим лицом по месту его налогового учета;</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/8969/dfasc3kodr/"></a>в) расчеты по установленной форме налоговой отчетности &#8212; по акцизному налогу и налогу за пользование недрами. При этом по месту налогового учета юридического лица представляются копии данных расчетов.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/8969/dfasoguq5t/"></a>14. В случаях нахождения обособленных подразделений юридического лица в одном районе, то по этим обособленным подразделениям составляется сводная соответствующая налоговая отчетность.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/8969/dfas593u5g/"></a>15. Уплата налогов по обособленным подразделениям юридического лица осуществляется в сроки, установленные Налоговым кодексом Республики Узбекистан.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/8969/tit11/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/8969/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/8969/dfass2z1pi/"></a>Глава 4. </span><span class="doc__chapter-name">Ответственность налогоплательщиков и контроль органов государственной налоговой службы</span></div><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/8969/dfaswdyfga/"></a>16. Юридические лица в соответствии с законодательством несут ответственность за правильность исчисления и уплаты налогов по своим обособленным подразделениям. За непредставление или несвоевременное представление юридическим лицом налоговой отчетности, указанной в пункте 13 настоящего Положения, предусматривается ответственность, как за нарушение порядка представления налоговой отчетности.</p><p style="text-align:left"><a data-anchor="/document/90/8969/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/8969/dfasdzkxzu/"></a>17. Органы государственной налоговой службы осуществляют контроль за правильностью исчисления и уплаты налогов, а также постановкой на налоговый учет юридических лиц в соответствии с настоящим Положением.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

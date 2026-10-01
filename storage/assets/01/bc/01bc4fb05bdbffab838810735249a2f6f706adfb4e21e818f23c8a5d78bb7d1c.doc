@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие документы нужно запросить у контрагента перед тем, как подписывать с ним договор</h2><div class="doc-snippet"><a data-anchor="/document/16/203219/dfas35360c/" data-dfa="dfas35360c"></a><a data-anchor="/document/16/203219/bssPhr2/"></a>Из рекомендации узнаете, какие документы запросить у контрагента перед тем, как подписывать с ним договор и что делать, если потенциальный контрагент отказывается представлять отдельные документы. Эксперты подготовили перечни документов, которые нужно запросить перед подписанием договоров у организации без участия иностранного капитала, у иностранной организации, у индивидуального предпринимателя. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203219/bssPhr3/"></a><a data-anchor="/document/16/203219/dfasg8qlxe/" data-dfa="dfasg8qlxe"></a>Набор документов, которые надо запросить у контрагента после того, как его <a data-anchor="/document/16/203219/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/16/203091" title="" moduleId="16" documentId="203091" class="link ">проверили по открытым источникам информации</a>, зависит от того, кто именно выступает контрагентом. Перечень документов будет разный:</p><ul class="c-list"><li><a data-anchor="/document/16/203219/bssPhr4/"></a><a data-anchor="/document/16/203219/dfas8kp1si/" data-dfa="dfas8kp1si"></a>для организации без участия иностранного капитала;</li><li>иностранной организации;</li><li>индивидуального предпринимателя.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203219/dfase9enay/" data-dfa="dfase9enay"></a><a data-anchor="/document/16/203219/bssPhr5/"></a>Все документы запросите в копиях, заверенных нотариально или подписью директора и печатью. Это требование уменьшит риск получить недействительные или устаревшие документы.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/203219/bssPhr7/"></a><a data-anchor="/document/16/203219/dfas9v64zx/" data-dfa="dfas9v64zx"></a>Фиксируйте факт получения документов от контрагента с помощью описей или актов в бумажной либо электронной форме.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Что делать, если потенциальный контрагент отказывается представлять отдельные документы?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203219/bssPhr9/"></a><a data-anchor="/document/16/203219/dfas1y6xke/" data-dfa="dfas1y6xke"></a>– Здесь возможны две ситуации.</p><p><a data-anchor="/document/16/203219/bssPhr10/"></a><a data-anchor="/document/16/203219/dfasw1fx1g/" data-dfa="dfasw1fx1g"></a>1. По итогам проверки юрист пришел к выводу, что контрагент:</p><ul class="c-list"><li><a data-anchor="/document/16/203219/bssPhr11/"></a><a data-anchor="/document/16/203219/dfasm3rl2n/" data-dfa="dfasm3rl2n"></a>зарегистрирован недавно;</li><li>похож на фирму-однодневку (например, у него массовый адрес);</li><li>имеет задолженность по налогам или запись о недостоверности сведений в ЕГРПО;</li><li>не сдает отчетность в налоговую инспекцию.</li></ul><p><a data-anchor="/document/16/203219/bssPhr12/"></a><a data-anchor="/document/16/203219/dfas0s7alp/" data-dfa="dfas0s7alp"></a>Если есть хотя бы один из признаков, выясните причины. И если сомнения не исчезли, донесите эту информацию до руководства компании. Дело в том, что вопрос о целесообразности заключать сделку с таким контрагентом решает директор. А юрист обязан обозначить риски.</p><p><a data-anchor="/document/16/203219/bssPhr13/"></a><a data-anchor="/document/16/203219/dfassqnam4/" data-dfa="dfassqnam4"></a>2. Если по результатам проверки юрист не обнаружил негативных сведений, то отчитайтесь об этом перед руководством компании. Но даже в этом случае риски будут больше, чем если бы контрагент представил документы.</p><p><a data-anchor="/document/16/203219/bssPhr14/"></a><a data-anchor="/document/16/203219/dfaslmyw6v/" data-dfa="dfaslmyw6v"></a>Чтобы уменьшить налоговые риски, сохраните письменный запрос документов, который контрагент оставил без ответа. В случае спора с налоговой инспекцией запрос поможет доказать, что компания проявила должную осмотрительность.</p><p><a data-anchor="/document/16/203219/bssPhr15/"></a><a data-anchor="/document/16/203219/dfaslnfcmk/" data-dfa="dfaslnfcmk"></a>Чтобы уменьшить риски неисполнения договора, предложите потенциальному контрагенту, который отказывается представить документы, обеспечить исполнение договора. Например, представить банковскую гарантию, поручительство, залог.</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203219/dfasimy4hx/" data-dfa="dfasimy4hx"></a><a data-anchor="/document/16/203219/bssPhr16/"></a>Пункт о необходимости запрашивать документы включите в Положение о договорной работе.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/203219/bssPhr18/"></a><a data-anchor="/document/16/203219/dfas41rk9y/" data-dfa="dfas41rk9y"></a>Юрист вправе ввести правило, что с потенциальным контрагентом, который не предоставил пакет документов, договор не заключают. А если предполагаемый контрагент поинтересуется, почему у него запрашивают документы, покажите Положение о договорной работе.</p><a data-anchor="/document/16/203219/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/203219/bssPhr19/"></a><a data-anchor="/document/16/203219/dfasgn4df9/" data-dfa="dfasgn4df9"></a>Какие документы нужно запросить у организации без участия иностранного капитала</h2><p><a data-anchor="/document/16/203219/bssPhr20/"></a><a data-anchor="/document/16/203219/dfasyrbsqd/" data-dfa="dfasyrbsqd"></a>У юрлица нужно запросить:</p><ul class="c-list"><li><a data-anchor="/document/16/203219/bssPhr21/"></a><a data-anchor="/document/16/203219/dfasuuwklt/" data-dfa="dfasuuwklt"></a>учредительные документы;</li><li>свидетельство о регистрации юридического лица в ЕГРПО</li><li>полномочия лица, которое будет подписывать договор;</li><li>лицензию (если это лицензируемый вид деятельности);</li><li>правоустанавливающие документы на имущество – предмет сделки;</li><li>копию паспорта лица, которое будет подписывать договор.</li></ul><p><a data-anchor="/document/16/203219/bssPhr22/"></a><a data-anchor="/document/16/203219/dfas4b10lg/" data-dfa="dfas4b10lg"></a>1. Учредительные документы.</p><p><a data-anchor="/document/16/203219/bssPhr23/"></a><a data-anchor="/document/16/203219/dfas5kagfn/" data-dfa="dfas5kagfn"></a>Запросите их у контрагента полностью. Нет смысла запрашивать выписки из учредительных документов, первые и последние страницы устава.</p><p><a data-anchor="/document/16/203219/bssPhr24/"></a><a data-anchor="/document/16/203219/dfasmbo3bf/" data-dfa="dfasmbo3bf"></a>Учредительные документы запрашивайте у контрагента в актуальной редакции. Проверьте, последнюю ли версию уставных документов представил контрагент. Для этого сравните состав учредителей и их доли в уставном фонде по выписке из <a href="https://stat.uz/ru/uslugi-1/svedeniya-iz-egrpo" title="">ЕГРПО</a> либо сведений из <a href="https://fo.birdarcha.uz/pub/search" title="">реестра Центра госуслуг</a> с предоставленными вам документами. Если будут сомнения в их достоверности представленных документов, истребуйте у контрагента предыдущие редакции учредительных документов.</p><p><a data-anchor="/document/16/203219/bssPhr25/"></a><a data-anchor="/document/16/203219/dfasof74du/" data-dfa="dfasof74du"></a>2. Свидетельство о регистрации юрлица в ЕГРПО.</p><p><a data-anchor="/document/16/203219/bssPhr26/"></a><a data-anchor="/document/16/203219/dfasgnamtu/" data-dfa="dfasgnamtu"></a>Данные о регистрации юрлица и присвоении ИНН вы можете самостоятельно проверить в <a href="https://stat.uz/ru/uslugi-1/svedeniya-iz-egrpo" title="">ЕГРПО</a>.</p><p><a data-anchor="/document/16/203219/bssPhr27/"></a><a data-anchor="/document/16/203219/dfasnsgptf/" data-dfa="dfasnsgptf"></a>3. Полномочия лица, которое будет подписывать договор.</p><p><a data-anchor="/document/16/203219/bssPhr28/"></a><a data-anchor="/document/16/203219/dfaskfl6qa/" data-dfa="dfaskfl6qa"></a>Если договор будет подписывать генеральный директор, запросите у контрагента либо решение о назначении генерального директора, либо протокол об избрании генерального директора коллегиальным органом юрлица.</p><p><a data-anchor="/document/16/203219/bssPhr29/"></a><a data-anchor="/document/16/203219/dfasyxrqtq/" data-dfa="dfasyxrqtq"></a>Также сведения о руководителе контрагента вы можете получить из выписки ЕГРПО, где в графе «Общие сведения» будут указаны имя руководителя и его ИНН.</p><p><a data-anchor="/document/16/203219/bssPhr30/"></a><a data-anchor="/document/16/203219/dfasbss15s/" data-dfa="dfasbss15s"></a>Обратите внимание на полномочия директора, закрепленные в уставе организации. Например, его полномочия заключать хозяйственные либо гражданско-правовые сделки могут быть ограничены определенной суммой. Тогда сделки, совершенные с нарушением такого ограничения, могут признать недействительными (<a data-anchor="/document/16/203219/backlinkanchor4/" type="backlink-anchor"></a><a href="#/document/90/21650/titvw42l/" class="link npd" title="Статья 126. Последствия ограничения полномочий на совершение сделки" moduleId="90" documentId="21650" anchor="titvw42l">ст.&nbsp;126 ГК</a>).</p><p><a data-anchor="/document/16/203219/bssPhr31/"></a><a data-anchor="/document/16/203219/dfasl6umf3/" data-dfa="dfasl6umf3"></a>В уставе компании чаще всего указывают срок, на который избирают или назначают директора. Поэтому проверьте, чтобы представленные контрагентом решение о назначении либо протокол об избрании директора не были просрочены.</p><p><a data-anchor="/document/16/203219/bssPhr32/"></a><a data-anchor="/document/16/203219/dfasckeby5/" data-dfa="dfasckeby5"></a>Если договор будет подписывать не директор, а иное лицо, то запросите еще и копию доверенности такого лица. В ней должна стоять дата ее выдачи. Без такой даты доверенность недействительна (<a data-anchor="/document/16/203219/backlinkanchor6/" type="backlink-anchor"></a><a href="#/document/90/21650/dfas6cltmp/" class="link npd" title="Доверенность, в которой не указана дата ее выдачи, недействительна." moduleId="90" documentId="21650" anchor="dfas6cltmp">ч.&nbsp;2 ст.&nbsp;139 ГК</a>).</p><p><a data-anchor="/document/16/203219/bssPhr33/"></a><a data-anchor="/document/16/203219/dfastc01kp/" data-dfa="dfastc01kp"></a>Если в доверенности не указан срок действия, то она действительна в течение года со дня ее совершения (<a data-anchor="/document/16/203219/backlinkanchor8/" type="backlink-anchor"></a><a href="#/document/90/21650/dfasdb8tbs/" class="link npd" title="Доверенность может быть выдана на срок не более трех лет. Если срок в доверенности не указан, она сохраняет силу в течение одного года со дня ее выдачи." moduleId="90" documentId="21650" anchor="dfasdb8tbs">ч.&nbsp;1 ст.&nbsp;139 ГК</a>).</p><p><a data-anchor="/document/16/203219/bssPhr34/"></a><a data-anchor="/document/16/203219/dfasmwdfpz/" data-dfa="dfasmwdfpz"></a>Доверенность от юрлица должна быть удостоверена подписью руководителя или иным уполномоченным сотрудником. Поэтому проверьте полномочия такого лица на момент выдачи доверенности. Они должны вытекать либо из уставных документов, либо из выданной ему доверенности с правом передоверия. Если доверенность выдана в порядке передоверия, то она должна быть удостоверена лицом уполномоченного на это доверенностью (<a data-anchor="/document/16/203219/backlinkanchor10/" type="backlink-anchor"></a><a href="#/document/90/21650/titlx42l/" class="link npd" title="Статья 140. Передача полномочий по доверенности другому лицу (передоверие)" moduleId="90" documentId="21650" anchor="titlx42l">ст.140 ГК</a>).</p><p><a data-anchor="/document/16/203219/bssPhr35/"></a><a data-anchor="/document/16/203219/dfasag107b/" data-dfa="dfasag107b"></a>Если сделки от имени юрлица подписывает сотрудник на основании передоверия, контрагент должен проверить основную доверенность и доверенность по передоверию.</p><p><a data-anchor="/document/16/203219/bssPhr36/"></a><a data-anchor="/document/16/203219/dfas3gidxv/" data-dfa="dfas3gidxv"></a>Полномочий представителя должно быть достаточно, чтобы подписывать договор.</p><p><a data-anchor="/document/16/203219/bssPhr37/"></a><a data-anchor="/document/16/203219/dfasg0ant9/" data-dfa="dfasg0ant9"></a>5.&nbsp;Лицензия на ведение деятельности, если требуется ее получение.</p><p><a data-anchor="/document/16/203219/bssPhr38/"></a><a data-anchor="/document/16/203219/dfasqpiydd/" data-dfa="dfasqpiydd"></a>К лицензии прилагают перечень конкретных видов деятельности, которые выполняет организация. Поэтому запросите у контрагента этот перечень вместе с лицензией.</p><p><a data-anchor="/document/16/203219/bssPhr39/"></a><a data-anchor="/document/16/203219/dfas9ycrg0/" data-dfa="dfas9ycrg0"></a>Если в лицензии содержится срок ее действия, то необходимо проверить, не истек ли он.</p><p><a data-anchor="/document/16/203219/bssPhr40/"></a><a data-anchor="/document/16/203219/dfast0ckgs/" data-dfa="dfast0ckgs"></a>6. Правоустанавливающие документы на имущество, которое выступает предметом сделки.</p><p><a data-anchor="/document/16/203219/bssPhr41/"></a><a data-anchor="/document/16/203219/dfasnzs12c/" data-dfa="dfasnzs12c"></a>Если предмет договора&nbsp;– недвижимость, то запросите у контрагента правоустанавливающие документы на имущество. Также запросить у контрагента справку об отсутствии ареста/запрета и иных обременений, полученную в нотариальной конторе через автоматизированную информационную систему «Нотариус».</p><p><a data-anchor="/document/16/203219/bssPhr42/"></a><a data-anchor="/document/16/203219/dfasrfn62c/" data-dfa="dfasrfn62c"></a>7. Копию паспорта лица, которое будет подписывать договор.</p><p><a data-anchor="/document/16/203219/bssPhr43/"></a><a data-anchor="/document/16/203219/dfasg6eep9/" data-dfa="dfasg6eep9"></a>Лицо, которое будет подписывать договор, вправе отказаться представлять копии страниц паспорта, поскольку в них содержатся персональные данные. В таком случае проверьте личность подписанта в тот момент, когда он подписывает договор.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Имеет ли право организация запрашивать копиисправок, уставных и прочих документов у контрагента?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203219/bssPhr45/"></a><a data-anchor="/document/16/203219/dfast68lrz/" data-dfa="dfast68lrz"></a>– Да, имеет.</p><p><a data-anchor="/document/16/203219/bssPhr46/"></a><a data-anchor="/document/16/203219/dfascozggx/" data-dfa="dfascozggx"></a>Стороны хозяйственного договора в установленном порядке имеют право:</p><p><a data-anchor="/document/16/203219/bssPhr47/"></a><a data-anchor="/document/16/203219/dfas6s2hb3/" data-dfa="dfas6s2hb3"></a>– запрашивать и получать справки и иные документы, необходимые в связи с заключением, исполнением, изменением и расторжением хозяйственных договоров;</p><p><a data-anchor="/document/16/203219/bssPhr48/"></a><a data-anchor="/document/16/203219/dfasvvmlwz/" data-dfa="dfasvvmlwz"></a>– запрашивать и получать письменные заключения экспертов, консультироваться у специалистов по вопросам, связанным с заключением, исполнением, изменением и расторжением хозяйственных договоров;</p><p><a data-anchor="/document/16/203219/bssPhr49/"></a><a data-anchor="/document/16/203219/dfas66qemp/" data-dfa="dfas66qemp"></a>– заявлять ходатайства и подавать жалобы государственным и иным органам, должностным лицам и получать от них письменные мотивированные ответы;</p><p><a data-anchor="/document/16/203219/bssPhr50/"></a><a data-anchor="/document/16/203219/dfasb4opbg/" data-dfa="dfasb4opbg"></a>– собирать сведения по экономическому состоянию, репутации и деловых качеств другой стороны;</p><p><a data-anchor="/document/16/203219/bssPhr51/"></a><a data-anchor="/document/16/203219/dfasiw0b43/" data-dfa="dfasiw0b43"></a>– применять средства и способы защиты прав и законных интересов хозяйствующих субъектов (<span num="12" target="_self" lnktype="intlnk" title="Статья 6. Права сторон хозяйственного договора" class="doc">ст. 6</span> ЗРУ №670-I от 29.08.1998 г.).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно ли запрашивать у контрагента выписку из ЕГРПО?</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203219/bssPhr53/"></a><a data-anchor="/document/16/203219/dfasvktgpb/" data-dfa="dfasvktgpb"></a>– Нет, не нужно.</p><p><a data-anchor="/document/16/203219/bssPhr54/"></a><a data-anchor="/document/16/203219/dfas04195m/" data-dfa="dfas04195m"></a>Сведения из ЕГРПО можно узнать через интернет. Для этого используйте сервис на сайте <a href="https://stat.uz/ru/uslugi-1/svedeniya-iz-egrpo" title="">stat.uz</a> либо на сайте <a href="https://fo.birdarcha.uz/pub/search" title="">Центра госуслуг</a>. Просто введите ИНН контрагента. Такие сведения доступны любому пользователю.</p><p><a data-anchor="/document/16/203219/bssPhr55/"></a><a data-anchor="/document/16/203219/dfasu74c48/" data-dfa="dfasu74c48"></a>Поэтому стоит получить сведения из ЕГРПО самостоятельно. Если даже контрагент представит выписку из ЕГРПО, ее все равно придется сверить с теми сведениями, которые содержатся на сайте.</p></div></div><a data-anchor="/document/16/203219/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/203219/bssPhr56/"></a><a data-anchor="/document/16/203219/dfasdl4gcz/" data-dfa="dfasdl4gcz"></a>Какие документы нужно запросить у иностранной организации</h2><p><a data-anchor="/document/16/203219/bssPhr57/"></a><a data-anchor="/document/16/203219/dfasoxxio2/" data-dfa="dfasoxxio2"></a>При запросе документов у иностранной организации учитывайте 2 особенности.</p><p><a data-anchor="/document/16/203219/bssPhr58/"></a><a data-anchor="/document/16/203219/dfasibuxpu/" data-dfa="dfasibuxpu"></a>1. Документы, подтверждающие правовой статус иностранной организации (устав, учредительный договор, сертификат об инкорпорации), нужно сначала перевести на государственный язык и легализовать, если в законе нет возможности удостоверить их с помощью апостиля.</p><p><a data-anchor="/document/16/203219/bssPhr59/"></a><a data-anchor="/document/16/203219/dfasg8d4s1/" data-dfa="dfasg8d4s1"></a>Перечень документов, для представления которых необходим апостиль, содержится в статье&nbsp;1 Гаагской конвенции, отменяющей требование легализации иностранных официальных документов, участником которой является Узбекистан. Если страна происхождения контрагента не участник этой конвенции, то все ее официальные документы нужно легализовывать.</p><p><a data-anchor="/document/16/203219/bssPhr60/"></a><a data-anchor="/document/16/203219/dfasby5yv9/" data-dfa="dfasby5yv9"></a>Эти же требования распространяются на доверенность лица, которое будет подписывать договор, а также на другие официальные документы.</p><p><a data-anchor="/document/16/203219/bssPhr61/"></a><a data-anchor="/document/16/203219/dfaswyamim/" data-dfa="dfaswyamim"></a>2. У иностранной компании запросите выписку из торгового реестра ее страны. В этой выписке компания должна значиться как «действующая». Если контрагент не представит такую выписку или в выписке будет указан текущий статус компании&nbsp;– «прекращено», то договор заключать не стоит.</p><p><a data-anchor="/document/16/203219/bssPhr62/"></a><a data-anchor="/document/16/203219/dfas63vwlc/" data-dfa="dfas63vwlc"></a>Если в иностранном государстве не ведется торговый реестр (например, в Великобритании), то вместо выписки из торгового реестра нужно запросить документ, который подтверждает благополучное состояние компании. Его нужно получить в стране, в которой зарегистрирована компания.</p><a data-anchor="/document/16/203219/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/203219/bssPhr63/"></a><a data-anchor="/document/16/203219/dfasbtfk5b/" data-dfa="dfasbtfk5b"></a>Какие документы нужно запросить у индивидуального предпринимателя</h2><p><a data-anchor="/document/16/203219/bssPhr64/"></a><a data-anchor="/document/16/203219/dfaslvgwgo/" data-dfa="dfaslvgwgo"></a>Документы, которые нужно запросить у индивидуального предпринимателя, отличаются от аналогичного списка для организаций.</p><p><a data-anchor="/document/16/203219/bssPhr65/"></a><a data-anchor="/document/16/203219/dfas0z4o09/" data-dfa="dfas0z4o09"></a>Шаг 1. Запросите свидетельство о госрегистрации индивидуального предпринимателя (свидетельство ЕГРПО). Проверить ее на сайте <a href="http://www.stat.uz/" title="">www.stat.uz</a> либо на сайте <a href="https://fo.birdarcha.uz/pub/search" title="">Госуслуг</a>.</p><p><a data-anchor="/document/16/203219/bssPhr66/"></a><a data-anchor="/document/16/203219/dfasov4hqz/" data-dfa="dfasov4hqz"></a>Шаг 2. Запросите копию паспорта гражданина, чтобы узнать место жительства лица. Эта информация пригодится, если дело дойдет до суда и необходимо будет предъявить иск.</p><p><a data-anchor="/document/16/203219/bssPhr67/"></a><a data-anchor="/document/16/203219/dfas6uzzkw/" data-dfa="dfas6uzzkw"></a>В остальном действуют те же требования, что и для юрлиц.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

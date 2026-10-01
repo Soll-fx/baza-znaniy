@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как получить и оформить товар через почтовые и курьерские службы</h2><div class="doc-snippet"><a data-anchor="/document/16/206288/dfasfwxn9v/" data-dfa="dfasfwxn9v"></a><a data-anchor="/document/16/206288/bssPhr2/"></a>Из рекомендации Системы Главбух узнаете, что входит в услуги почтовой связи и какие законодательные акты их регулируют, что можно пересылать в почтовых отправлениях и что относится к курьерским отправлениям. Эксперты пояснили, как оплачивать услуги почтовой связи, как проводят таможенный контроль и какие таможенные платежи предусмотрены при почтовых отправлениях. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206288/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206288/bssPhr3/"></a><a data-anchor="/document/16/206288/dfasczu62x/" data-dfa="dfasczu62x"></a>Услуги почтовой связи</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206288/bssPhr5/"></a><a data-anchor="/document/16/206288/dfasogwzgm/" data-dfa="dfasogwzgm"></a>Услуги почтовой связи оказывают операторы и провайдеры почтовой связи в виде почтовых и курьерских услуг.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr6/"></a><a data-anchor="/document/16/206288/dfasw8q5l7/" data-dfa="dfasw8q5l7"></a>Почтовые услуги:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206288/bssPhr7/"></a><a data-anchor="/document/16/206288/dfastryt7t/" data-dfa="dfastryt7t"></a>пересылка и доставка, вручение <span num="7" lnktype="intlnk" title="" class="doc">почтовых отправлений</span>, в том числе международных;</li><li style="text-align:left">пересылка и доставка, вручение почтовых переводов денежных средств, в том числе международных;</li><li style="text-align:left">пересылка и доставка, вручение почтовых отправлений, в том числе международных, в режиме ускоренной почты.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr8/"></a><a data-anchor="/document/16/206288/dfasdtxz5t/" data-dfa="dfasdtxz5t"></a>Курьерские услуги: пересылка и доставка, вручение <span num="8" lnktype="intlnk" title="" class="doc">курьерских отправлений</span>, в том числе международных.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr9/"></a><a data-anchor="/document/16/206288/dfaswsydz2/" data-dfa="dfaswsydz2"></a>Услуги почтовой связи регулируют:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206288/bssPhr10/"></a><a data-anchor="/document/16/206288/dfaszmyaxw/" data-dfa="dfaszmyaxw"></a><span num="9" lnktype="intlnk" title="ТАМОЖЕННЫЙ КОДЕКС РЕСПУБЛИКИ УЗБЕКИСТАН" class="doc">Таможенный Кодекс</span>;</li><li style="text-align:left"><span num="10" lnktype="intlnk" title="ЗАКОН РЕСПУБЛИКИ УЗБЕКИСТАН&#xA;&#xA;О почтовой связи" class="doc">Закон «О почтовой связи»</span>;</li><li style="text-align:left"><span num="11" lnktype="intlnk" title='ПРЕЗИДЕНТ РЕСПУБЛИКИ УЗБЕКИСТАН&#xA;ПОСТАНОВЛЕНИЕ&#xA;от 6 февраля 2018 года № ПП-3512&#xA;О мерах по дальнейшему упорядочению перемещения товаров физическими лицами через таможенную границу&#xA;&#xA;&#xA;Постановление Президента РУз от 06.02.2018 № ПП-3512&#xA;О мерах по дальнейшему упорядочению перемещения товаров физическими лицами через таможенную границу&#xA;© Материал из ЭС &#34;ACTION: Главбух&#34;.&#xA;' class="doc">Постановление Президента Республики Узбекистан от 06.02.2018 № ПП-3512 «О мерах по дальнейшему упорядочению перемещения товаров физическими лицами через таможенную границу</span>;</li><li style="text-align:left"><span num="12" lnktype="intlnk" title="Правила&#xA;&#xA;Таможенного контроля за международными почтовыми и курьерскими отправлениями" class="doc">Правила таможенного контроля за международными почтовыми и курьерскими отправлениями</span> (рег. № 896 от 11.02.2000);</li><li style="text-align:left"><span num="13" target="_self" lnktype="intlnk" title="Правила&#xA;оказания услуг почтовой связи" class="doc">Правила оказания услуг почтовой связи</span> (рег. № 2219 от 18.04.2011).</li></ul></div><a data-anchor="/document/16/206288/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206288/bssPhr11/"></a><a data-anchor="/document/16/206288/dfasx64zpw/" data-dfa="dfasx64zpw"></a>Организация почтовых отправлений</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206288/bssPhr13/"></a><a data-anchor="/document/16/206288/dfasd4gvni/" data-dfa="dfasd4gvni"></a>Почтовые и курьерские отправления осуществляют операторы и провайдеры почтовой связи. Национальный оператор почтовой связи Государственная почтовая служба АО «Узбекистон почтаси» оказывает универсальные услуги на всей территории Республики Узбекистан. Также АО «Узбекистон почтаси» имеет исключительные права пересылки простых писем и почтовых карточек.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr14/"></a><a data-anchor="/document/16/206288/dfasodkhml/" data-dfa="dfasodkhml"></a>Объекты операторов и провайдеров почтовой связи предоставляют физическим и юридическим лицам информацию об индексе, адресе данного объекта почтовой связи, перечне оказываемых услуг, о порядке адресования почтовых отправлений, в том числе денежных, сроках доставки и порядке оплаты услуг и т.д.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr15/"></a><a data-anchor="/document/16/206288/dfasrg5nd0/" data-dfa="dfasrg5nd0"></a>Для внутренних почтовых отправлений установлены предельные размеры и вес в соответствии с <span data-warm-notices="11406613" data-warm-notice-type="error" num="14" target="_self" lnktype="intlnk" title='ПРИЛОЖЕНИЕ 1&#xA;к Правилам оказания услуг почтовой связи&#xA;&#xA;Предельные размеры и вес внутренних почтовых отправлений&#xA;&#xA;&#xA;Приказ УзАСИ от 22.02.2011 № 1-ю&#xA;Об утверждении Правил оказания услуг почтовой связи&#xA;© Материал из ЭС &#34;ACTION: Главбух&#34;.&#xA;' class="doc">приложением №1 </span>к «Правилам оказания услуг почтовой связи» (рег. № 2219 от 18.04.2011).</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr16/"></a><a data-anchor="/document/16/206288/dfaspxfa9m/" data-dfa="dfaspxfa9m"></a>Во внутренних простых и заказных письмах можно пересылать письменные сообщения, деловые бумаги, фотографии, художественные открытки, схемы и другую бумажную продукцию.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr17/"></a><a data-anchor="/document/16/206288/dfasyru2kg/" data-dfa="dfasyru2kg"></a>Во внутренних письмах с объявленной ценностью пересылают предметы и документы, ценные бумаги, дипломы, паспорта, водительские удостоверения, пенсионные дела, представляющие для пользователя определенную ценность.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr18/"></a><a data-anchor="/document/16/206288/dfas920vd7/" data-dfa="dfas920vd7"></a>Во внутренних посылках пересылают промышленные товары, продукты питания длительного хранения, товары культурно-бытового назначения, печатные издания, растения, живых пчел, медикаменты, медицинские препараты и др.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr19/"></a><a data-anchor="/document/16/206288/dfas5znl6p/" data-dfa="dfas5znl6p"></a>Во внутренних простых мелких пакетах пересылают лекарственные травы, семена, сувенирную продукцию (брелоки, магниты и др.).</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr20/"></a><a data-anchor="/document/16/206288/dfasc78qpg/" data-dfa="dfasc78qpg"></a>Во внутренних заказных мелких пакетах пересылают мелкие небьющиеся предметы или единичные образцы товаров, не представляющие для отправителя определенной ценности.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr21/"></a><a data-anchor="/document/16/206288/dfasslu6xa/" data-dfa="dfasslu6xa"></a>Во внутренние простые и заказные мелкие пакеты разрешено вкладывать любой документ, имеющий характер текущей или личной переписки при условии, что эти документы направляет адресату отправитель мелкого пакета.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr22/"></a><a data-anchor="/document/16/206288/dfas3p0zdk/" data-dfa="dfas3p0zdk"></a>К международным почтовым отправлениям относятся письма, почтовые карточки, мешки, секограммы, мелкие пакеты, посылки, отправления ускоренной почты, печатные издания в соответствующей упаковке. Пересылка и доставка, вручение международных почтовых отправлений осуществляется в соответствии с актами Всемирного почтового союза.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr23/"></a><a data-anchor="/document/16/206288/dfaswcks7k/" data-dfa="dfaswcks7k"></a>Международные почтовые отправления пересылают и доставляют, вручают в пределах Республики Узбекистан в сроки, определенные для внутренних почтовых отправлений. Для исходящих международных почтовых отправлений установлены предельные размеры и вес в соответствии с <span num="15" target="_self" lnktype="intlnk" title='ПРИЛОЖЕНИЕ 2&#xA;к Правилам оказания услуг почтовой связи&#xA;&#xA;Предельные размеры и вес международных почтовых отправлений&#xA;&#xA;&#xA;Приказ УзАСИ от 22.02.2011 № 1-ю&#xA;Об утверждении Правил оказания услуг почтовой связи&#xA;© Материал из ЭС &#34;ACTION: Главбух&#34;.&#xA;' class="doc">приложением № 2</span> к «Правилам оказания услуг почтовой связи» (рег. № 2219 от 18.04.2011).</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr24/"></a><a data-anchor="/document/16/206288/dfaseywqou/" data-dfa="dfaseywqou"></a>В простых и заказных международных письмах пересылают письменные сообщения, деловые бумаги, квитанции различного рода, счет-фактуры, фотографии.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr25/"></a><a data-anchor="/document/16/206288/dfasgw3e61/" data-dfa="dfasgw3e61"></a>В международных письмах с объявленной ценностью пересылают документы, свидетельства о рождении, дипломы, деловые бумаги, рукописи, копии документов и справок, ценные бумаги и др.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr26/"></a><a data-anchor="/document/16/206288/dfasx870og/" data-dfa="dfasx870og"></a>В мешках пересылают газеты, периодические издания, книги и иную печатную продукцию, в том числе гравюры, рисунки, рукописи, географические карты, выкройки, каталоги и др.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr27/"></a><a data-anchor="/document/16/206288/dfasecgpx7/" data-dfa="dfasecgpx7"></a>В международных мелких пакетах пересылают мелкие небьющиеся предметы или единичные образцы товаров.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr28/"></a><a data-anchor="/document/16/206288/dfas4t5iel/" data-dfa="dfas4t5iel"></a>В международных посылках пересылают промышленные товары, продукты питания длительного хранения, товары культурно-бытового назначения, разрешенные в соответствии с законодательством для отправления за границу и не запрещенные для ввоза в стране назначения.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr29/"></a><a data-anchor="/document/16/206288/dfasrh2g10/" data-dfa="dfasrh2g10"></a>Во внутренних и международных секограммах пересылают письменные сообщения и издания с выпуклым шрифтом для слепых, подаваемых открыто, и клише со знаками секографии, а также звуковые записи и специальную бумагу, предназначенные для слепых, если их отправляет организация для слепых или они адресованы такой организации.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr30/"></a><a data-anchor="/document/16/206288/dfasxy4xor/" data-dfa="dfasxy4xor"></a>В качестве печатных изданий в соответствующей упаковке пересылают периодические печатные издания, газеты, журналы, экспедируемые по адресной системе.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr31/"></a><a data-anchor="/document/16/206288/dfas4ufkw7/" data-dfa="dfas4ufkw7"></a>Во внутренних и международных почтовых отправлениях запрещены и ограничены к пересылке предметы и вещества, запрещение и ограничение которых предусмотрено законодательством Республики Узбекистан, актами Всемирного почтового союза и <span num="16" target="_self" lnktype="intlnk" title='ПРИЛОЖЕНИЕ 3&#xA;к Правилам оказания услуг почтовой связи&#xA;&#xA;Перечень&#xA;предметов и веществ, запрещенных и ограниченных к пересылке&#xA;&#xA;&#xA;Приказ УзАСИ от 22.02.2011 № 1-ю&#xA;Об утверждении Правил оказания услуг почтовой связи&#xA;© Материал из ЭС &#34;ACTION: Главбух&#34;.&#xA;' class="doc">приложением № 3</span> к «Правилам оказания услуг почтовой связи» (рег. № 2219 от 18.04.2011).</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr32/"></a><a data-anchor="/document/16/206288/dfasp64fmo/" data-dfa="dfasp64fmo"></a>Во внутренних и международных отправлениях ускоренной почты с документами пересылают письменные сообщения, деловые бумаги, квитанции различного рода, счета-фактуры, фотографии, печатные издания, рукописи, фотографии, альбомы, тетради, художественную литературу, литературу по изобразительному искусству, документы и ценные бумаги, промышленные товары, продукты питания длительного хранения, товары культурно-бытового назначения и др. Пересылка паспортов в международных отправлениях ускоренной почты с документами разрешена только в те страны, в которые не запрещен их ввоз.</p></div><a data-anchor="/document/16/206288/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206288/bssPhr33/"></a><a data-anchor="/document/16/206288/dfasqpwqog/" data-dfa="dfasqpwqog"></a>Организация курьерских отправлений</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206288/bssPhr35/"></a><a data-anchor="/document/16/206288/dfas5l0949/" data-dfa="dfas5l0949"></a>Разделяют внутренние и международные курьерские отправления.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr36/"></a><a data-anchor="/document/16/206288/dfas38davb/" data-dfa="dfas38davb"></a>К внутренним курьерским отправлениям относятся почтовые карточки, письма, бандероли, посылки, печатные издания в соответствующей упаковке.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr37/"></a><a data-anchor="/document/16/206288/dfas3zi342/" data-dfa="dfas3zi342"></a>К международным курьерским отправлениям относятся почтовые карточки, письма, посылки, печатные издания в соответствующей упаковке.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr38/"></a><a data-anchor="/document/16/206288/dfastsk88u/" data-dfa="dfastsk88u"></a>Внутренние курьерские отправления пересылают в кратчайшие сроки. Сроки устанавливают операторы почтовой связи, которые оказывают курьерские услуги, доставляют и вручают из рук в руки.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr39/"></a><a data-anchor="/document/16/206288/dfaswcslye/" data-dfa="dfaswcslye"></a>Международные курьерские отправления пересылают и доставляют, вручают в сроки, установленные двусторонними соглашениями.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr40/"></a><a data-anchor="/document/16/206288/dfas2ndxau/" data-dfa="dfas2ndxau"></a>Порядок адресования внутренних и международных курьерских отправлений устанавливают операторы почтовой связи и двусторонние соглашения.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr41/"></a><a data-anchor="/document/16/206288/dfash3v5nt/" data-dfa="dfash3v5nt"></a>Предельные размеры и вес внутренних и международных курьерских отправлений устанавливают операторы почтовой связи в соответствии с <span num="17" target="_self" lnktype="intlnk" title='ПРИЛОЖЕНИЕ 4&#xA;к Правилам оказания услуг почтовой связи&#xA;&#xA;Предельные размеры и вес внутренних курьерских отправлений&#xA;&#xA;&#xA;Приказ УзАСИ от 22.02.2011 № 1-ю&#xA;Об утверждении Правил оказания услуг почтовой связи&#xA;© Материал из ЭС &#34;ACTION: Главбух&#34;.&#xA;' class="doc">приложениями №4</span> и <span num="18" target="_self" lnktype="intlnk" title='ПРИЛОЖЕНИЕ 5&#xA;к Правилам оказания услуг почтовой связи&#xA;&#xA;Предельные размеры и вес международных курьерских отправлений&#xA;&#xA;&#xA;Приказ УзАСИ от 22.02.2011 № 1-ю&#xA;Об утверждении Правил оказания услуг почтовой связи&#xA;© Материал из ЭС &#34;ACTION: Главбух&#34;.&#xA;' class="doc">5</span> к «Правилам оказания услуг почтовой связи» (рег. № 2219 от 18.04.2011).</p></div><a data-anchor="/document/16/206288/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206288/bssPhr42/"></a><a data-anchor="/document/16/206288/dfasvrpm2g/" data-dfa="dfasvrpm2g"></a><a data-anchor="/document/16/206288/dfasgpx0w3/" data-dfa="dfasgpx0w3"></a>Оплата за услуги почтовой связи&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr44/"></a><a data-anchor="/document/16/206288/dfaslnelqe/" data-dfa="dfaslnelqe"></a>Плата за услуги почтовой связи, за исключением универсальных услуг, определена тарифами, которые устанавливает оператор или провайдер почтовой связи на договорной основе. Плата за универсальные услуги почтовой связи определяется на основании тарифов, которые утверждает Министерство по развитию информационных технологий и коммуникаций Республики Узбекистан по согласованию с органом ценового регулирования.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr45/"></a><a data-anchor="/document/16/206288/dfas4bp2uz/" data-dfa="dfas4bp2uz"></a>Почтовые услуги можно оплачивать государственными знаками почтовой оплаты, наличными денежными средствами или путем безналичных расчетов, в том числе по пластиковым карточкам с использованием терминалов. Курьерские услуги оплачиваются наличными денежными средствами или путем безналичных расчетов, в том числе по пластиковым карточкам с использованием терминалов.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr46/"></a><a data-anchor="/document/16/206288/dfas79hnv6/" data-dfa="dfas79hnv6"></a>В оплату международных простых и заказных писем, почтовых карточек могут приниматься международные ответные купоны, выпускаемые Международным бюро Всемирного почтового союза.</p></div><a data-anchor="/document/16/206288/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206288/bssPhr47/"></a><a data-anchor="/document/16/206288/dfasaitot4/" data-dfa="dfasaitot4"></a>Таможенный контроль</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206288/bssPhr49/"></a><a data-anchor="/document/16/206288/dfas0y5677/" data-dfa="dfas0y5677"></a>Товары, пересылаемые в международных почтовых отправлениях (МПО) и в международных курьерских отправлениях (МКО), перемещаемые через таможенную границу, подлежат таможенному контролю (<span num="19" lnktype="intlnk" title='Статья 166. Таможенный контроль и таможенное оформление международных почтовых и курьерских отправлений&#xA;&#xA;&#xA;Таможенный кодекс Республики Узбекистан&#xA;© Материал из ЭС &#34;ACTION: Главбух&#34;.&#xA;' class="doc">ст. 166</span> Таможенного Кодекса).</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr50/"></a><a data-anchor="/document/16/206288/dfasvyz5w6/" data-dfa="dfasvyz5w6"></a>В качестве таможенной декларации рассматривают:</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr51/"></a><a data-anchor="/document/16/206288/dfaszqrfof/" data-dfa="dfaszqrfof"></a>а) документы, предусмотренные актами Всемирного почтового союза, – для товаров, пересылаемых в международных почтовых отправлениях в адрес физических лиц для некоммерческих целей, а также в адрес юридических лиц, стоимостью до 10 БРВ;</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr52/"></a><a data-anchor="/document/16/206288/dfas8gwq7m/" data-dfa="dfas8gwq7m"></a>б) коммерческие документы – для товаров, пересылаемых в международных курьерских отправлениях в адрес физических лиц для некоммерческих целей, а также в адрес юридических лиц, стоимостью до 10 БРВ.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr53/"></a><a data-anchor="/document/16/206288/dfasg5zymc/" data-dfa="dfasg5zymc"></a>Такие правила установлены <span num="20" lnktype="intlnk" title="Статья 167. Декларирование товаров, пересылаемых в международных почтовых и курьерских отправлениях" class="doc">статьей 167</span> Таможенного Кодекса.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr54/"></a><a data-anchor="/document/16/206288/dfaslccl3g/" data-dfa="dfaslccl3g"></a>Операторы и провайдеры почтовой связи представляют таможенным органам МПО и МКО для проведения таможенного осмотра и таможенного досмотра. При расхождении в количестве, несоответствии вложений и в других случаях нарушения таможенного законодательства, выявленных при таможенном досмотре МПО и МКО, работник почтовой связи совместно с должностным лицом таможенного органа подписывает акт таможенного досмотра (<span num="21" lnktype="intlnk" title="Статья 168. Таможенный осмотр и таможенный досмотр международных почтовых и курьерских отправлений" class="doc">ст. 168</span> Таможенного Кодекса).</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr55/"></a><a data-anchor="/document/16/206288/dfasmu6eof/" data-dfa="dfasmu6eof"></a>Таможенный осмотр проводит должностное лицо таможенного органа путем внешнего визуального осмотра международных почтовых отправлений без вскрытия упаковки товаров, демонтажа и нарушения целостности осматриваемых объектов и их частей иными способами.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr56/"></a><a data-anchor="/document/16/206288/dfas4f4lmy/" data-dfa="dfas4f4lmy"></a>Его проводят для подтверждения сведений о товарах, наличия на них печатей и других наложенных средств таможенной идентификации (<span num="22" lnktype="intlnk" title="Статья 193. Таможенный осмотр" class="doc">ст. 193</span> Таможенного Кодекса).</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr57/"></a><a data-anchor="/document/16/206288/dfas7a8pod/" data-dfa="dfas7a8pod"></a>Существенное число МОП и МКО проверяют с помощью средств технического контроля. А документальный контроль проводят по сопроводительным документам, где есть опись вложения, указаны стоимость товара, его вес, имена и адреса отправителя и получателя. Если у таможенника нет претензий к оформленным документам и не выявлены запрещенные, а также незадекларированные товары, то их не вскрывают.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr58/"></a><a data-anchor="/document/16/206288/dfasb2a4r5/" data-dfa="dfasb2a4r5"></a>Таможенное оформление МПО и МКО, вложение которых подлежит контролю других государственных органов, и завершается после решения вопроса о выпуске этими органами, о чем в сопроводительных документах делают соответствующую отметку.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr59/"></a><a data-anchor="/document/16/206288/dfas1ky81c/" data-dfa="dfas1ky81c"></a>Если установлен факт недостоверного декларирования, то проводят таможенный досмотр, который предусматривает вскрытие упаковки товаров, емкостей, контейнеров и иных мест, где находятся или могут находиться товары с повреждением наложенных на них пломб, печатей либо иных средств таможенной идентификации, разборкой, демонтажем или повреждением целостности обследуемых объектов и их частей другими способами (<span num="23" lnktype="intlnk" title="Статья 195. Таможенный досмотр" class="doc">ст. 195</span> Таможенного кодекса).</p></div><a data-anchor="/document/16/206288/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/206288/bssPhr60/"></a><a data-anchor="/document/16/206288/dfass6hqy9/" data-dfa="dfass6hqy9"></a>Таможенные платежи</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206288/bssPhr62/"></a><a data-anchor="/document/16/206288/dfasvl5pe3/" data-dfa="dfasvl5pe3"></a>Товары, пересылаемые в МПО и МКО для некоммерческих целей физических лиц, стоимость или количество которых превышает предельные нормы ввоза в республику товаров, не подлежащих обложению таможенными платежами, облагаются таможенными платежами в части такого превышения.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr63/"></a><a data-anchor="/document/16/206288/dfas833pkl/" data-dfa="dfas833pkl"></a>МПО и МКО, содержащие товары, на которые таможенные органы начислили таможенные платежи, выдают уполномоченному лицу после уплаты таможенных платежей.</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr64/"></a><a data-anchor="/document/16/206288/dfas41s0az/" data-dfa="dfas41s0az"></a>Предельные нормы ввоза в республику физическим лицом товаров, не подлежащих обложению таможенными платежами, в размере 1000 (одна тысяча) долларов США в течение одного календарного квартала – для товаров, поступающих в адрес физического лица в международных курьерских отправлениях. Стоимость товаров, поступающих в адрес физических лиц в международных почтовых отправлениях, не подлежащих обложению таможенными платежами, составляет 100 долл. США (<span num="24" lnktype="intlnk" title="1. Установить:" class="doc">п. 1</span> ПП-3512).</p><p style="text-align:left"><a data-anchor="/document/16/206288/bssPhr65/"></a><a data-anchor="/document/16/206288/dfashaaudi/" data-dfa="dfashaaudi"></a>Товары, пересылаемые в МПО и МКО сверх указанных норм, облагаются следующими таможенными платежами:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206288/bssPhr66/"></a><a data-anchor="/document/16/206288/dfaslcztkg/" data-dfa="dfaslcztkg"></a>импортная таможенная (ставки указаны в <span num="25" target="_self" lnktype="intlnk" title="СТАВКИ&#xA;импортных таможенных пошлин" class="doc">приложение № 1</span> к ПП-3818);</li><li style="text-align:left">налог на добавленную стоимость в размере 15 процентов от облагаемой базы (<span num="26" target="_self" lnktype="intlnk" title="Статья 258. Налоговые ставки" class="doc">ст. 258</span> НК);</li><li style="text-align:left">таможенные сборы – 0,2 процента от таможенной стоимости ввозимых товаров, но не менее 25 и не более 3 000 долл. США (Ставки утверждены ПКМ <span num="27" lnktype="intlnk" title="Постановление&#xA;Кабинета Министров Республики Узбекистан&#xA;О ставках таможенных сборов" class="doc">№ 204</span> от 30.04.1999).</li></ul></div><p><a data-anchor="/document/16/206288/dfas7kaxip/" data-dfa="dfas7kaxip"></a><a data-anchor="/document/16/206288/bssPhr67/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p><p><a data-anchor="/document/16/206288/dfasbobakb/" data-dfa="dfasbobakb"></a><a data-anchor="/document/16/206288/bssPhr68/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

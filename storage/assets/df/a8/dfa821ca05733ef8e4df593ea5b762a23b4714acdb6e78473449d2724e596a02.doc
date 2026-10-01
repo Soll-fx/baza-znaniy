@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Все проводки по договору комиссии</h2><div id="documentBody" class="content-common"><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209349/bssPhr3/"></a><a data-anchor="/document/16/209349/dfasoco5vz/" data-dfa="dfasoco5vz"></a>Если по <span num="3" lnktype="intlnk" title="Договор комиссии на реализацию товаров" class="doc">договору комиссии</span> товар реализуют без участия <span num="4" lnktype="intlnk" title="" class="doc">комиссионера</span> в расчетах, то деньги от продажи покупатель перечисляет на расчетный счет, либо в кассу комитента. При этом <span num="5" lnktype="intlnk" title="" class="doc">комитент</span> перечисляет причитающееся вознаграждение комиссионеру.</p><p><a data-anchor="/document/16/209349/bssPhr4/"></a><a data-anchor="/document/16/209349/dfaspmde04/" data-dfa="dfaspmde04"></a>Комитент такой вариант расчетов отражает проводками:</p><p><a data-anchor="/document/16/209349/bssPhr5/"></a><a data-anchor="/document/16/209349/dfascflsbw/" data-dfa="dfascflsbw"></a><strong>Дебет 2960 «Товары, переданные на комиссию» Кредит 2910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr6/"></a><a data-anchor="/document/16/209349/dfasb73cgm/" data-dfa="dfasb73cgm"></a>переданы товары комиссионеру;</li></ul><p><a data-anchor="/document/16/209349/bssPhr7/"></a><a data-anchor="/document/16/209349/dfasu52dd3/" data-dfa="dfasu52dd3"></a><strong>Дебет 4010 Кредит 9020</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr8/"></a><a data-anchor="/document/16/209349/dfaskc1q8e/" data-dfa="dfaskc1q8e"></a>признан доход от реализации после получения отчета от комиссионера;</li></ul><p><a data-anchor="/document/16/209349/bssPhr9/"></a><a data-anchor="/document/16/209349/dfasssogp6/" data-dfa="dfasssogp6"></a><strong>Дебет 4010 Кредит 6400 «Задолженность по платежам в бюджет – НДС»</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr10/"></a><a data-anchor="/document/16/209349/dfas81xapt/" data-dfa="dfas81xapt"></a>начислен НДС по проданным товарам у плательщиков налога;</li></ul><p><a data-anchor="/document/16/209349/bssPhr11/"></a><a data-anchor="/document/16/209349/dfasycgv9w/" data-dfa="dfasycgv9w"></a><strong>Дебет 9120 Кредит 2960</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr12/"></a><a data-anchor="/document/16/209349/dfasdfv2io/" data-dfa="dfasdfv2io"></a>списана себестоимость проданных товаров;</li></ul><p><a data-anchor="/document/16/209349/bssPhr13/"></a><a data-anchor="/document/16/209349/dfastaaxqt/" data-dfa="dfastaaxqt"></a><strong>Дебет 9410 Кредит 6990</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr14/"></a><a data-anchor="/document/16/209349/dfascn1vy2/" data-dfa="dfascn1vy2"></a>начислено вознаграждение комиссионеру;</li></ul><p><a data-anchor="/document/16/209349/bssPhr15/"></a><a data-anchor="/document/16/209349/dfaswll8bc/" data-dfa="dfaswll8bc"></a><strong>Дебет 4400 </strong>«Авансовые платежи по налогам и другим обязательным платежам в бюджет – НДС» <strong>Кредит 6990</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr16/"></a><a data-anchor="/document/16/209349/dfasr86g96/" data-dfa="dfasr86g96"></a>зачтен НДС по комиссионному вознаграждению у плательщиков налога.</li></ul><p><a data-anchor="/document/16/209349/bssPhr17/"></a><a data-anchor="/document/16/209349/dfassedqd8/" data-dfa="dfassedqd8"></a><strong>Дебе</strong><strong><strong>т</strong> 6990 Кредит 5110</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr18/"></a><a data-anchor="/document/16/209349/dfas842bg8/" data-dfa="dfas842bg8"></a>перечислено комиссионное вознаграждение комиссионеру;</li></ul><p><a data-anchor="/document/16/209349/bssPhr19/"></a><a data-anchor="/document/16/209349/dfasr5xv8s/" data-dfa="dfasr5xv8s"></a><strong>Дебет 5110 Кредит 4010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr20/"></a><a data-anchor="/document/16/209349/dfasz42p21/" data-dfa="dfasz42p21"></a>поступили деньги от покупателя товаров.</li></ul></div><p><a data-anchor="/document/16/209349/bssPhr21/"></a><a data-anchor="/document/16/209349/dfasmw9hwh/" data-dfa="dfasmw9hwh"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209349/bssPhr23/"></a><a data-anchor="/document/16/209349/dfasob11ht/" data-dfa="dfasob11ht"></a>Если товар реализуют с полным участием комиссионера в расчетах, то деньги от продажи покупатель перечисляет на расчетный счет, либо в кассу комиссионера. Но эти средства – собственность комитента, и комиссионер обязан перечислить их комитенту в сроки, установленные в <span num="6" lnktype="intlnk" title="Договор комиссии на реализацию товаров" class="doc">договоре комиссии</span>. При этом комиссионер сам удерживает сумму комиссионного вознаграждения из средств, поступивших от покупателя товаров.</p><p><a data-anchor="/document/16/209349/bssPhr24/"></a><a data-anchor="/document/16/209349/dfas2wpg01/" data-dfa="dfas2wpg01"></a>Комитент такой вариант расчетов отражает проводками:</p><p><a data-anchor="/document/16/209349/bssPhr25/"></a><a data-anchor="/document/16/209349/dfasqlgx0l/" data-dfa="dfasqlgx0l"></a><strong>Дебет 2960 Кредит 2910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr26/"></a><a data-anchor="/document/16/209349/dfas69969k/" data-dfa="dfas69969k"></a>передан товар комиссионеру для реализации;</li></ul><p><a data-anchor="/document/16/209349/bssPhr27/"></a><a data-anchor="/document/16/209349/dfasw6i1vr/" data-dfa="dfasw6i1vr"></a><strong>Дебет 4010 Кредит 9020</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr28/"></a><a data-anchor="/document/16/209349/dfaspzmu4z/" data-dfa="dfaspzmu4z"></a>признан доход от реализации после получения отчета комиссионера;</li></ul><p><a data-anchor="/document/16/209349/bssPhr29/"></a><a data-anchor="/document/16/209349/dfasmhhasm/" data-dfa="dfasmhhasm"></a><strong>Дебет 4010 Кредит 6400 «Задолженность по платежам в бюджет – НДС»</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr30/"></a><a data-anchor="/document/16/209349/dfas6qo8q9/" data-dfa="dfas6qo8q9"></a>начислен НДС по проданным товарам у плательщиков налога;</li></ul><p><a data-anchor="/document/16/209349/bssPhr31/"></a><a data-anchor="/document/16/209349/dfase05add/" data-dfa="dfase05add"></a><strong>Дебет 9120 Кредит 2960</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr32/"></a><a data-anchor="/document/16/209349/dfasf0npng/" data-dfa="dfasf0npng"></a>списана себестоимость проданных товаров;</li></ul><p><a data-anchor="/document/16/209349/bssPhr33/"></a><a data-anchor="/document/16/209349/dfastci7eg/" data-dfa="dfastci7eg"></a><strong>Дебет 9410 Кредит 6990</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr34/"></a><a data-anchor="/document/16/209349/dfas6vp51l/" data-dfa="dfas6vp51l"></a>начислено вознаграждение комиссионеру;</li></ul><p><a data-anchor="/document/16/209349/bssPhr35/"></a><a data-anchor="/document/16/209349/dfas00cu4u/" data-dfa="dfas00cu4u"></a><strong>Дебет 4400 «Авансовые платежи по налогам и другим обязательным платежам в бюджет – НДС» Кредит 4010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr36/"></a><a data-anchor="/document/16/209349/dfasg6w2ot/" data-dfa="dfasg6w2ot"></a>зачтен НДС по комиссионному вознаграждению у плательщиков налога;</li></ul><p><a data-anchor="/document/16/209349/bssPhr37/"></a><a data-anchor="/document/16/209349/dfasw4rbwd/" data-dfa="dfasw4rbwd"></a><strong>Дебет 6990 Кредит 4010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr38/"></a><a data-anchor="/document/16/209349/dfasm6waca/" data-dfa="dfasm6waca"></a>зачтена сумма комиссионного вознаграждения;</li></ul><p><a data-anchor="/document/16/209349/bssPhr39/"></a><a data-anchor="/document/16/209349/dfasxvoxl7/" data-dfa="dfasxvoxl7"></a><strong>Дебет 5110 Кредит 4010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr40/"></a><a data-anchor="/document/16/209349/dfasgkfvug/" data-dfa="dfasgkfvug"></a>поступили деньги от комиссионера за минусом вознаграждения;</li></ul><p><a data-anchor="/document/16/209349/bssPhr41/"></a><a data-anchor="/document/16/209349/dfas36q81x/" data-dfa="dfas36q81x"></a>Если комиссионер участвует в расчетах частично, то в этом случае покупатель перечисляет комиссионеру сумму комиссионного вознаграждения, а комитенту – его выручку за вычетом комиссионного вознаграждения.</p></div><p><a data-anchor="/document/16/209349/bssPhr42/"></a><a data-anchor="/document/16/209349/dfasd6ce9x/" data-dfa="dfasd6ce9x"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209349/bssPhr44/"></a><a data-anchor="/document/16/209349/dfastovd66/" data-dfa="dfastovd66"></a>Если по <span num="17" lnktype="intlnk" title="" class="doc">договору комисси</span>и товар реализуют без участия комиссионера в расчетах, то деньги от продажи покупатель перечисляет на расчетный счет или в кассу комитента. В этом случае комитент перечисляет вознаграждение комиссионеру.</p><p><a data-anchor="/document/16/209349/bssPhr45/"></a><a data-anchor="/document/16/209349/dfaswmhdri/" data-dfa="dfaswmhdri"></a>Комиссионер такой вариант расчетов отражает проводками:</p><p><a data-anchor="/document/16/209349/bssPhr46/"></a><a data-anchor="/document/16/209349/dfasha04m2/" data-dfa="dfasha04m2"></a><strong>Дебет 004 Кредит</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr47/"></a><a data-anchor="/document/16/209349/dfassgglcd/" data-dfa="dfassgglcd"></a>поступили товары на комиссию;</li></ul><p><a data-anchor="/document/16/209349/bssPhr48/"></a><a data-anchor="/document/16/209349/dfassfcm03/" data-dfa="dfassfcm03"></a><strong>Дебет 4010 Кредит 9030</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr49/"></a><a data-anchor="/document/16/209349/dfas28qo1a/" data-dfa="dfas28qo1a"></a>отражена сумма комиссионного вознаграждения, доход;</li></ul><p><a data-anchor="/document/16/209349/bssPhr50/"></a><a data-anchor="/document/16/209349/dfas34lfkn/" data-dfa="dfas34lfkn"></a><strong>Дебет 4010 Кредит 6400 «Задолженность по платежам в бюджет по НДС»</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr51/"></a><a data-anchor="/document/16/209349/dfasm4z2yk/" data-dfa="dfasm4z2yk"></a>начислен НДС на сумму комиссионного вознаграждения у плательщиков НДС;</li></ul><p><a data-anchor="/document/16/209349/bssPhr52/"></a><a data-anchor="/document/16/209349/dfas8ggn6w/" data-dfa="dfas8ggn6w"></a><strong>Дебет Кредит 004</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr53/"></a><a data-anchor="/document/16/209349/dfas3qx0gw/" data-dfa="dfas3qx0gw"></a><a data-anchor="/document/16/209349/dfas3oqd4f/" data-dfa="dfas3oqd4f"></a>списан реализованный товар, принятый на комиссию.</li></ul></div><p><a data-anchor="/document/16/209349/bssPhr54/"></a><a data-anchor="/document/16/209349/dfaskagc1e/" data-dfa="dfaskagc1e"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209349/bssPhr56/"></a><a data-anchor="/document/16/209349/dfassfah87/" data-dfa="dfassfah87"></a>Если товары реализуют с полным участием комиссионера в расчетах, то деньги от продажи покупатель перечисляет на расчетный счет или в кассу комиссионера. Но эти средства будут собственностью комитента, и комиссионер обязан перечислить их комитенту в сроки, установленные в <span num="22" lnktype="intlnk" title="" class="doc">договоре комиссии</span>. При этом комиссионер сам удерживает сумму комиссионного вознаграждения.</p><p><a data-anchor="/document/16/209349/bssPhr57/"></a><a data-anchor="/document/16/209349/dfasgthroo/" data-dfa="dfasgthroo"></a>Комиссионер такой вариант расчетов отражает проводками:</p><p><a data-anchor="/document/16/209349/bssPhr58/"></a><a data-anchor="/document/16/209349/dfasl0grzw/" data-dfa="dfasl0grzw"></a><strong>Дебет 004 Кредит</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr59/"></a><a data-anchor="/document/16/209349/dfasilm03g/" data-dfa="dfasilm03g"></a>поступили товары на комиссию;</li></ul><p><a data-anchor="/document/16/209349/bssPhr60/"></a><a data-anchor="/document/16/209349/dfash5wcc8/" data-dfa="dfash5wcc8"></a><strong>Дебет 4010 Кредит 6990</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr61/"></a><a data-anchor="/document/16/209349/dfas4uaa51/" data-dfa="dfas4uaa51"></a>отражена задолженность покупателя и задолженность перед комитентом за реализованные товары;</li></ul><p><a data-anchor="/document/16/209349/bssPhr62/"></a><a data-anchor="/document/16/209349/dfasfgv5x4/" data-dfa="dfasfgv5x4"></a><strong>Дебет 5110,5010 Кредит 4010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr63/"></a><a data-anchor="/document/16/209349/dfasf14esz/" data-dfa="dfasf14esz"></a>поступили деньги от покупателя;</li></ul><p><a data-anchor="/document/16/209349/bssPhr64/"></a><a data-anchor="/document/16/209349/dfaspn830v/" data-dfa="dfaspn830v"></a><strong>Дебет 4010 Кредит 9030</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr65/"></a><a data-anchor="/document/16/209349/dfasdt7wec/" data-dfa="dfasdt7wec"></a>отражена сумма комиссионного вознаграждения, доход;</li></ul><p><a data-anchor="/document/16/209349/bssPhr66/"></a><a data-anchor="/document/16/209349/dfasqnpehg/" data-dfa="dfasqnpehg"></a><strong>Дебет 4010 Кредит 6400 «Задолженность по платежам в бюджет по НДС»</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr67/"></a><a data-anchor="/document/16/209349/dfasumfctm/" data-dfa="dfasumfctm"></a>начислен НДС на сумму вознаграждения, у плательщиков НДС;</li></ul><p><a data-anchor="/document/16/209349/bssPhr68/"></a><a data-anchor="/document/16/209349/dfash4m0uu/" data-dfa="dfash4m0uu"></a><strong>Дебет 6990 Кредит 4010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr69/"></a><a data-anchor="/document/16/209349/dfashoryyi/" data-dfa="dfashoryyi"></a>удержано комиссионное вознаграждение из средств, поступивших от покупателей;</li></ul><p><a data-anchor="/document/16/209349/bssPhr70/"></a><a data-anchor="/document/16/209349/dfashd1fe3/" data-dfa="dfashd1fe3"></a><strong>Дебет 6990 Кредит 5110</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr71/"></a><a data-anchor="/document/16/209349/dfasggz1dg/" data-dfa="dfasggz1dg"></a>перечислены комитенту деньги, поступившие от покупателей, за минусом комиссионного вознаграждения;</li></ul><p><a data-anchor="/document/16/209349/bssPhr72/"></a><a data-anchor="/document/16/209349/dfasisatw5/" data-dfa="dfasisatw5"></a><strong>Дебет Кредит 004</strong></p><ul class="c-list"><li><a data-anchor="/document/16/209349/bssPhr73/"></a><a data-anchor="/document/16/209349/dfasgpd68v/" data-dfa="dfasgpd68v"></a>списаны товары, принятые на комиссию.</li></ul><p><a data-anchor="/document/16/209349/bssPhr74/"></a><a data-anchor="/document/16/209349/dfasonmrp0/" data-dfa="dfasonmrp0"></a>Если условиями договора предусмотрено частичное участие комиссионера в расчетах, то покупатель перечисляет комиссионеру сумму комиссионного вознаграждения, а комитенту его выручку за вычетом комиссионного вознаграждения.</p><p><a data-anchor="/document/16/209349/bssPhr75/"></a><a data-anchor="/document/16/209349/dfasfymx2m/" data-dfa="dfasfymx2m"></a>Для удобства учета в рабочий план счетов введите отдельный счет для отражения расчетов с комитентом, например, <strong>4010 «Счета к получению от заказчиков-комитент»</strong>.</p></div><p><a data-anchor="/document/16/209349/bssPhr76/"></a><a data-anchor="/document/16/209349/dfas3v35mi/" data-dfa="dfas3v35mi"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

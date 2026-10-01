@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как заполнить строки Отчета о финансовых результатах</h2><div class="doc-snippet"><a data-anchor="/document/16/210242/dfas912u6w/" data-dfa="dfas912u6w"></a><a data-anchor="/document/16/210242/bssPhr2/"></a>Рекомендация Системы Главбух содержит пошаговую инструкцию «Как заполнить строки Отчета о&nbsp;финансовых результатах», а&nbsp;также примеры заполнения форм отчета о&nbsp;финансовых результатах: <span num="227" target="_self" lnktype="intlnk" title="" class="doc">Отчет о&nbsp;финансовых результатах&nbsp;— форма №&nbsp;2</span>; Справка о&nbsp;платежах в&nbsp;бюджет. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210242/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210242/bssPhr8/"></a><a data-anchor="/document/16/210242/dfas4mr5u0/" data-dfa="dfas4mr5u0"></a><a data-anchor="/document/16/210242/dfasy5bfwc/" data-dfa="dfasy5bfwc"></a>Строка 010 «Чистая выручка от&nbsp;реализации продукции, (товаров, работ и&nbsp;услуг)»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr10/"></a><a data-anchor="/document/16/210242/dfasab98be/" data-dfa="dfasab98be"></a>В&nbsp;строке <strong>010 </strong>отразите выручку от&nbsp;реализации без НДС и&nbsp;акцизов, собранную на&nbsp;счетах учета доходов <strong>9000</strong>. У&nbsp;производственной компании это доходы от&nbsp;продажи продукции; у&nbsp;торговой&nbsp;— доходы от&nbsp;продажи товаров; у&nbsp;компании, которая постоянно сдает имущество в&nbsp;аренду и&nbsp;получает от&nbsp;этого основные доходы&nbsp;— арендная плата. Величину выручки определяйте исходя из&nbsp;стоимости, указанной в&nbsp;исходящем <span num="50" lnktype="intlnk" title="" class="doc">счете-фактуре</span>, с&nbsp;учетом всех скидок и&nbsp;возврата товара. Выручку уменьшайте на&nbsp;сумму скидок, предоставленных покупателям, заказчикам и&nbsp;на&nbsp;сумму возврата проданных товаров.</p><p><a data-anchor="/document/16/210242/bssPhr11/"></a><a data-anchor="/document/16/210242/dfasc1vn2c/" data-dfa="dfasc1vn2c"></a>Компании, у&nbsp;которых вложение средств с&nbsp;целью получения процентов относится к&nbsp;обычным видам деятельности, по&nbsp;строке <strong>010 </strong>отражают все проценты по&nbsp;любым видам долговых обязательств: займам, векселям и&nbsp;облигациям, депозитам. Например, к&nbsp;таким компаниям относятся ломбарды.</p></div><a data-anchor="/document/16/210242/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210242/bssPhr12/"></a><a data-anchor="/document/16/210242/dfaskly69x/" data-dfa="dfaskly69x"></a><a data-anchor="/document/16/210242/dfas1yd6bn/" data-dfa="dfas1yd6bn"></a>Строка 020 «Себестоимость продаж»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr14/"></a><a data-anchor="/document/16/210242/dfashrlpvk/" data-dfa="dfashrlpvk"></a>В&nbsp;строке <strong>020 </strong>отразите расходы по&nbsp;обычным видам деятельности, которые формируют себестоимость, учтенную на&nbsp;счетах учета себестоимости реализованной продукции, товаров, работ, услуг <strong>9100. </strong>Состав затрат, включаемых в&nbsp;производственную себестоимость продукции, работ, услуг определен в "<span num="104" target="_self" lnktype="intlnk" title="" class="doc">Положении</span> о&nbsp;составе затрат по&nbsp;производству и&nbsp;реализации продукции (работ, услуг) и&nbsp;о&nbsp;порядке формирования финансовых результатов", приложение к&nbsp;ПКМ №&nbsp;54&nbsp;от&nbsp;05.02.1999&nbsp;г.</p><p><a data-anchor="/document/16/210242/bssPhr15/"></a><a data-anchor="/document/16/210242/dfas2na8bg/" data-dfa="dfas2na8bg"></a>Торговые предприятия по&nbsp;этой строке отражают покупную стоимость реализованных товаров.</p></div><a data-anchor="/document/16/210242/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210242/bssPhr16/"></a><a data-anchor="/document/16/210242/dfas1wo7e5/" data-dfa="dfas1wo7e5"></a><a data-anchor="/document/16/210242/dfasyz9cra/" data-dfa="dfasyz9cra"></a>Строка 030 «Валовая прибыль (убыток)»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr18/"></a><a data-anchor="/document/16/210242/dfasge1kue/" data-dfa="dfasge1kue"></a>В&nbsp;строке <strong>030 </strong>рассчитывается автоматически валовая прибыль или убыток от&nbsp;реализации, как разница между чистой выручкой от&nbsp;реализации продукции, товаров, работ, услуг и&nbsp;себестоимостью реализованной продукции, товаров, работ и&nbsp;услуг: строка <strong>010&nbsp;</strong>— строка <strong>020</strong>.</p></div><a data-anchor="/document/16/210242/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/210242/bssPhr19/"></a><a data-anchor="/document/16/210242/dfasgimhu0/" data-dfa="dfasgimhu0"></a><a data-anchor="/document/16/210242/dfasw1sewa/" data-dfa="dfasw1sewa"></a><a data-anchor="/document/16/210242/dfasz6v1v5/" data-dfa="dfasz6v1v5"></a>Строка 050 «Расходы по&nbsp;реализации»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr21/"></a><a data-anchor="/document/16/210242/dfasqeh514/" data-dfa="dfasqeh514"></a>В&nbsp;строке <strong>050 </strong>отразите сумму расходов по&nbsp;обычным видам деятельности, которые связаны с&nbsp;продажей товаров, работ, услуг, учтенную на&nbsp;счете <strong>9410</strong>. К&nbsp;таким расходам производственные организации относят затраты, связанные со&nbsp;сбытом продукции, работ, услуг. Торговые организации&nbsp;— издержки обращения.</p><p><a data-anchor="/document/16/210242/bssPhr22/"></a><a data-anchor="/document/16/210242/dfasng7wxe/" data-dfa="dfasng7wxe"></a>Состав расходов по&nbsp;реализации определен в <span num="105" target="_self" lnktype="intlnk" title="" class="doc">Положении</span>, приложение к&nbsp;ПКМ №&nbsp;54&nbsp;от&nbsp;05.02.1999&nbsp;г.</p><p><a data-anchor="/document/16/210242/bssPhr23/"></a><a data-anchor="/document/16/210242/dfasv898n8/" data-dfa="dfasv898n8"></a>Организация может включить в&nbsp;состав расходов по&nbsp;реализации, расходы:</p><ul class="c-list"><li><a data-anchor="/document/16/210242/bssPhr24/"></a><a data-anchor="/document/16/210242/dfaswpyuhz/" data-dfa="dfaswpyuhz"></a>на&nbsp;оплату труда в&nbsp;торговых организациях;</li><li>аренду торговых помещений и&nbsp;складов готовой продукции;</li><li>упаковку товаров, продукции;</li><li>доставку продукции, погрузку в&nbsp;вагоны, суда, автомобили и&nbsp;другие транспортные средства;</li><li>комиссионные вознаграждения, уплачиваемые сбытовым и&nbsp;другим посредническим организациям;</li><li>содержание помещений для хранения продукции в&nbsp;местах ее&nbsp;продажи;</li><li>рекламу;</li><li>представительские расходы;</li><li>заготовку, доставку и&nbsp;перевозку товаров;</li><li>содержание торговых помещений и&nbsp;складов готовой продукции;</li><li>хранение и&nbsp;подработку товаров;</li><li>страхование отгруженных товаров, продукции и&nbsp;коммерческих рисков;</li><li>покрытие недостачи товаров, продукции в&nbsp;пределах норм естественной убыли;</li><li>содержание заготовительных и&nbsp;приемных пунктов;</li><li>содержание скота и&nbsp;птицы на&nbsp;приемных пунктах и&nbsp;базах;</li><li>суммы начисленного торгового сбора;</li><li>экологический сбор;</li><li>другие аналогичные по&nbsp;назначению расходы.</li></ul></div><a data-anchor="/document/16/210242/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/210242/bssPhr25/"></a><a data-anchor="/document/16/210242/dfasvy1brd/" data-dfa="dfasvy1brd"></a><a data-anchor="/document/16/210242/dfasx4p82n/" data-dfa="dfasx4p82n"></a>Строка 060 «Административные расходы»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr27/"></a><a data-anchor="/document/16/210242/dfasq3y5l5/" data-dfa="dfasq3y5l5"></a>В&nbsp;строке <strong>060 </strong>отразите сумму расходов по&nbsp;обычным видам деятельности, которые связаны с&nbsp;управлением организацией, учтенную на&nbsp;счете <strong>9420</strong>.</p><p><a data-anchor="/document/16/210242/bssPhr28/"></a><a data-anchor="/document/16/210242/dfasb88fbs/" data-dfa="dfasb88fbs"></a>Состав административных расходов определен в <span num="106" target="_self" lnktype="intlnk" title="" class="doc">Положении</span>, приложение к&nbsp;ПКМ №&nbsp;54&nbsp;от&nbsp;05.02.1999&nbsp;г.</p><p><a data-anchor="/document/16/210242/bssPhr29/"></a><a data-anchor="/document/16/210242/dfaskzeigz/" data-dfa="dfaskzeigz"></a>В&nbsp;состав административных расходов могут быть включены:</p><ul class="c-list"><li><a data-anchor="/document/16/210242/bssPhr30/"></a><a data-anchor="/document/16/210242/dfasl9gak6/" data-dfa="dfasl9gak6"></a>расходы на&nbsp;содержание административно-управленческого, общехозяйственного персонала, не&nbsp;связанного с&nbsp;производственным процессом;</li><li>арендная плата за&nbsp;помещения для административно-управленческих нужд;</li><li>амортизационные отчисления и&nbsp;расходы на&nbsp;ремонт основных средств управленческого и&nbsp;общехозяйственного назначения;</li><li>другие аналогичные по&nbsp;назначению расходы, которые возникают в&nbsp;процессе управления компанией.</li></ul></div><a data-anchor="/document/16/210242/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/210242/bssPhr31/"></a><a data-anchor="/document/16/210242/dfashxqopf/" data-dfa="dfashxqopf"></a><a data-anchor="/document/16/210242/dfas6v8mfk/" data-dfa="dfas6v8mfk"></a>Строка 070 «Прочие операционные расходы»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr33/"></a><a data-anchor="/document/16/210242/dfas3a26em/" data-dfa="dfas3a26em"></a>В&nbsp;строке <strong>070 </strong>отразите сумму прочих операционных расходов по&nbsp;обычным видам деятельности, которые связаны с&nbsp;текущей деятельностью организации, учтенную на&nbsp;счете <strong>9430</strong>.</p><p><a data-anchor="/document/16/210242/bssPhr34/"></a><a data-anchor="/document/16/210242/dfas8tmind/" data-dfa="dfas8tmind"></a>Состав прочих операционных расходов определен в <span num="107" target="_self" lnktype="intlnk" title="" class="doc">Положении</span>, приложение к&nbsp;ПКМ №&nbsp;54&nbsp;от&nbsp;05.02.1999&nbsp;г.</p><p><a data-anchor="/document/16/210242/bssPhr35/"></a><a data-anchor="/document/16/210242/dfasgzx7us/" data-dfa="dfasgzx7us"></a>В&nbsp;состав прочих операционных расходов могут быть включены:</p><ul class="c-list"><li><a data-anchor="/document/16/210242/bssPhr36/"></a><a data-anchor="/document/16/210242/dfasdckbk0/" data-dfa="dfasdckbk0"></a>расходы на&nbsp;консультационные, аудиторские услуги;</li><li>выплаты компенсирующего и&nbsp;стимулирующего характера;</li><li>выплаты и&nbsp;расходы, не&nbsp;учитываемые при начислении заработной платы: надбавки, пособия, материальная помощь и&nbsp;другие;</li><li>оплата услуг банка;</li><li>обязательные платежи в&nbsp;бюджет, налоги, сборы, отчисления в&nbsp;государственные целевые фонды;</li><li>убытки, штрафы, пени;</li><li>затраты на&nbsp;содержание основных средств, переданных в&nbsp;аренду;</li><li>расходы, связанные с&nbsp;набором рабочей силы и&nbsp;подготовкой кадров для работы на&nbsp;вновь вводимых в&nbsp;действие предприятиях;</li><li>прочие операционные расходы.</li></ul></div><a data-anchor="/document/16/210242/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/210242/bssPhr37/"></a><a data-anchor="/document/16/210242/dfasgni5um/" data-dfa="dfasgni5um"></a><a data-anchor="/document/16/210242/dfasra5ekb/" data-dfa="dfasra5ekb"></a>Строка 040 «Расходы периода всего»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr39/"></a><a data-anchor="/document/16/210242/dfasui0gq9/" data-dfa="dfasui0gq9"></a>После заполнения <strong>строк 050, 060, 070 </strong> общая сумма расходов периода автоматически просчитается в <strong>строке </strong><strong>040: стр.&nbsp;050 + стр.&nbsp;060 + стр.&nbsp;070.</strong></p></div><a data-anchor="/document/16/210242/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/210242/bssPhr40/"></a><a data-anchor="/document/16/210242/dfasbkyknn/" data-dfa="dfasbkyknn"></a>Строка 090 «Прочие доходы от&nbsp;основной деятельности»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr42/"></a><a data-anchor="/document/16/210242/dfastkpe6f/" data-dfa="dfastkpe6f"></a>В&nbsp;строке <strong>090 </strong>отразите прибыль от&nbsp;выбытия основных средств и&nbsp;прочих активов, взысканные штрафы и&nbsp;пени, прибыли прошлых лет, доходы от&nbsp;оперативной аренды, доходы от&nbsp;списания кредиторской и&nbsp;депонентской задолженности, доходы обслуживающих хозяйств, безвозмездную финансовую помощь и&nbsp;прочие операционные доходы, учитываемые на&nbsp;счетах группы <strong>9300</strong>.</p></div><a data-anchor="/document/16/210242/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/210242/bssPhr43/"></a><a data-anchor="/document/16/210242/dfasbunryd/" data-dfa="dfasbunryd"></a><a data-anchor="/document/16/210242/dfaspexcie/" data-dfa="dfaspexcie"></a>Строка 100 «Прибыль (убыток) от&nbsp;основной деятельности»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr45/"></a><a data-anchor="/document/16/210242/dfascws9lf/" data-dfa="dfascws9lf"></a>В&nbsp;строке <strong>100 автоматически рассчитывается </strong>прибыль или убыток от&nbsp;основной деятельности, путем вычитания из&nbsp;валовой прибыли, убытка от&nbsp;реализации продукции, товаров, работ, услуг суммы расходов периода и&nbsp;прибавления суммы прочих доходов от&nbsp;основной деятельности: строка <strong>030&nbsp;</strong>— строка <strong>040 </strong>+ строка <strong>090</strong>.</p><p><a data-anchor="/document/16/210242/bssPhr46/"></a><a data-anchor="/document/16/210242/dfasdzzbr8/" data-dfa="dfasdzzbr8"></a>Если получается отрицательная величина&nbsp;— убыток, то&nbsp;он&nbsp;отразится в&nbsp;отчете в&nbsp;столбце 6.</p><p><a data-anchor="/document/16/210242/bssPhr47/"></a><a data-anchor="/document/16/210242/dfasklgvd3/" data-dfa="dfasklgvd3"></a>После вычисления прибыли, убытка от&nbsp;основной деятельности, нужно внести данные о&nbsp;доходах от&nbsp;финансовой деятельности (<strong>9500 «Счета учета доходов от&nbsp;финансовой деятельности»</strong>), в&nbsp;том числе, доходы в&nbsp;виде дивидендов, процентов, доходов от&nbsp;финансовой аренды, валютных курсовых разниц и&nbsp;прочих. Их&nbsp;укажите в <strong>строках 120</strong>-<strong>160 </strong> отчета о&nbsp;финансовых результатах.</p></div><a data-anchor="/document/16/210242/tit10/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit10"><a data-anchor="/document/16/210242/bssPhr48/"></a><a data-anchor="/document/16/210242/dfasabttu0/" data-dfa="dfasabttu0"></a><a data-anchor="/document/16/210242/dfasbgsviz/" data-dfa="dfasbgsviz"></a>Строка 120 «Доходы в&nbsp;виде дивидендов»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr50/"></a><a data-anchor="/document/16/210242/dfasqq7smc/" data-dfa="dfasqq7smc"></a>В&nbsp;строке <strong>120 </strong>отразите полученные дивиденды, а&nbsp;также стоимость имущества, которое получила организация при выходе из&nbsp;общества или при его ликвидации.</p><p><a data-anchor="/document/16/210242/bssPhr51/"></a><a data-anchor="/document/16/210242/dfasnulm16/" data-dfa="dfasnulm16"></a>Какие доходы признаются дивидендами определено в <span num="108" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;41</span>&nbsp;НК.</p><p><a data-anchor="/document/16/210242/bssPhr52/"></a><a data-anchor="/document/16/210242/dfastdho4x/" data-dfa="dfastdho4x"></a>Порядок отражения полученных дивидендов: в&nbsp;полном объеме или за&nbsp;минусом налога, законодательно не&nbsp;определен. Но&nbsp;учитывая принцип начисления, рекомендуем отражать всю начисленную сумму дивидендов с&nbsp;учетом налога.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210242/dfas9iu3ny/" data-dfa="dfas9iu3ny"></a><a data-anchor="/document/16/210242/bssPhr53/"></a>Дивиденды, выданные учредителям организации, в&nbsp;Отчете о&nbsp;финансовых результатах не&nbsp;отражайте.</p><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/210242/tit11/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit11"><a data-anchor="/document/16/210242/bssPhr55/"></a><a data-anchor="/document/16/210242/dfastwbynp/" data-dfa="dfastwbynp"></a><a data-anchor="/document/16/210242/dfaskbneos/" data-dfa="dfaskbneos"></a>Строка 130 «Доходы в&nbsp;виде процентов»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr57/"></a><a data-anchor="/document/16/210242/dfas4wh5d0/" data-dfa="dfas4wh5d0"></a>В&nbsp;строке <strong>130 </strong>отразите информацию о&nbsp;доходах в&nbsp;виде процентов, причитающихся к&nbsp;получению организации, если получение процентов не&nbsp;является основной деятельностью компании. В&nbsp;частности, это проценты:</p><ul class="c-list"><li><a data-anchor="/document/16/210242/bssPhr58/"></a><a data-anchor="/document/16/210242/dfaswxg365/" data-dfa="dfaswxg365"></a>по&nbsp;выданным займам;</li><li>ценным бумагам, например, по&nbsp;облигациям, векселям;</li><li>коммерческим кредитам, предоставленным путем перечисления аванса, предварительной оплаты, задатка;</li><li>выплачиваемые банком за&nbsp;пользование деньгами на&nbsp;расчетном счете компании.</li></ul><p><a data-anchor="/document/16/210242/bssPhr59/"></a><a data-anchor="/document/16/210242/dfaspxv23h/" data-dfa="dfaspxv23h"></a>Данные для заполнения этой строки в&nbsp;Отчете о&nbsp;финансовых результатах берите со&nbsp;счета <strong>9530 «Доходы в&nbsp;виде процентов»</strong>. Доходы в&nbsp;виде процентов по&nbsp;долгосрочным и&nbsp;текущим инвестициям отражайте по&nbsp;кредиту счета <strong>9530 «Доходы в&nbsp;виде процентов» </strong>в&nbsp;корреспонденции со&nbsp;счетом <strong>4830 «Проценты к&nbsp;получению» </strong>или счетами учета денежных средств.</p></div><a data-anchor="/document/16/210242/tit12/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit12"><a data-anchor="/document/16/210242/bssPhr60/"></a><a data-anchor="/document/16/210242/dfasiocr7r/" data-dfa="dfasiocr7r"></a>Строка 140 «Доходы от&nbsp;финансовой аренды»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr62/"></a><a data-anchor="/document/16/210242/dfassg9e1v/" data-dfa="dfassg9e1v"></a>В&nbsp;строке <strong>140 </strong>отразите суммы доходов от&nbsp;сдачи имущества в&nbsp;финансовую аренду, учет которых ведется на&nbsp;счете <strong>9550 «Доходы от&nbsp;финансовой аренды»</strong>. Данную строку заполняют организации, у&nbsp;которых деятельность по&nbsp;предоставлению финансовой аренды не&nbsp;является основной.</p></div><a data-anchor="/document/16/210242/tit13/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit13"><a data-anchor="/document/16/210242/bssPhr63/"></a><a data-anchor="/document/16/210242/dfaso7mr9x/" data-dfa="dfaso7mr9x"></a>Строка 150 «Доходы от&nbsp;валютных курсовых разниц»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr65/"></a><a data-anchor="/document/16/210242/dfasteou29/" data-dfa="dfasteou29"></a>В&nbsp;строке <strong>150 </strong>отражайте доходы от&nbsp;положительных курсовых разниц по&nbsp;валютным операциям, в&nbsp;том числе от&nbsp;переоценки валютных статей баланса на&nbsp;дату составления баланса, учет которых ведете на&nbsp;счете <strong>9540 «Доходы от&nbsp;валютных курсовых разниц»</strong>.</p></div><a data-anchor="/document/16/210242/tit14/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit14"><a data-anchor="/document/16/210242/bssPhr66/"></a><a data-anchor="/document/16/210242/dfasohg69z/" data-dfa="dfasohg69z"></a>Строка 160 «Прочие доходы от&nbsp;финансовой деятельности»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr68/"></a><a data-anchor="/document/16/210242/dfas1poz46/" data-dfa="dfas1poz46"></a>В&nbsp;строке <strong>160 </strong>отразите доходы от&nbsp;проведения переоценок ценных бумаг, доходы в&nbsp;виде роялти и&nbsp;прочие доходы от&nbsp;финансовой деятельности, учет которых ведете на&nbsp;счетах: <strong>9510 «Доходы в&nbsp;виде роялти»</strong>, <strong>9560 «Доходы от&nbsp;переоценки ценных бумаг»</strong>, <strong>9590 «Прочие доходы от&nbsp;финансовой деятельности»</strong>.</p></div><a data-anchor="/document/16/210242/tit15/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit15"><a data-anchor="/document/16/210242/bssPhr69/"></a><a data-anchor="/document/16/210242/dfas0h5dhd/" data-dfa="dfas0h5dhd"></a>Строка 110 «Доходы от&nbsp;финансовой деятельности»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr71/"></a><a data-anchor="/document/16/210242/dfasv0yako/" data-dfa="dfasv0yako"></a>После заполнения <strong>строк 120, 130, 140, 150, 160 </strong> общая сумма доходов от&nbsp;финансовой деятельности автоматически просчитается в <strong>строке </strong><strong>110: стр.&nbsp;120 + стр.130 + стр.&nbsp;140 + стр.&nbsp;150 + стр.&nbsp;160.</strong></p></div><a data-anchor="/document/16/210242/tit16/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit16"><a data-anchor="/document/16/210242/bssPhr72/"></a><a data-anchor="/document/16/210242/dfas13udmv/" data-dfa="dfas13udmv"></a>Строка 170 «Расходы по&nbsp;финансовой деятельности, всего»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr74/"></a><a data-anchor="/document/16/210242/dfasa0gil8/" data-dfa="dfasa0gil8"></a>В&nbsp;строке <strong>170 автоматически </strong>отразится вся сумма расходов по&nbsp;финансовой деятельности, как сумма строк <strong>180, 190, 200, 210</strong>.</p></div><a data-anchor="/document/16/210242/tit17/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit17"><a data-anchor="/document/16/210242/bssPhr75/"></a><a data-anchor="/document/16/210242/dfasd9kc39/" data-dfa="dfasd9kc39"></a>Строка 180 «Расходы в&nbsp;виде процентов»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr77/"></a><a data-anchor="/document/16/210242/dfaslp5b4p/" data-dfa="dfaslp5b4p"></a>В&nbsp;строке <strong>180 </strong>отразите расходы на&nbsp;оплату процентов по&nbsp;кредитам банков и&nbsp;займам, учет которых ведется на&nbsp;счете <strong>9610 «Расходы в&nbsp;виде процентов»</strong>.</p></div><a data-anchor="/document/16/210242/tit18/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit18"><a data-anchor="/document/16/210242/bssPhr78/"></a><a data-anchor="/document/16/210242/dfas6ketr7/" data-dfa="dfas6ketr7"></a>Строка 190 «Расходы в&nbsp;виде процентов по&nbsp;финансовой аренде»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr80/"></a><a data-anchor="/document/16/210242/dfas2vpr1x/" data-dfa="dfas2vpr1x"></a>В&nbsp;строке <strong>190 </strong>отражайте расходы на&nbsp;оплату процентов по&nbsp;финансовой аренде, учет которых ведется на&nbsp;счете <strong>9610 «Расходы в&nbsp;виде процентов»</strong>.</p></div><a data-anchor="/document/16/210242/tit19/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit19"><a data-anchor="/document/16/210242/bssPhr81/"></a><a data-anchor="/document/16/210242/dfass4to3e/" data-dfa="dfass4to3e"></a>Строка 200 «Убытки от&nbsp;валютных курсовых разниц»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr83/"></a><a data-anchor="/document/16/210242/dfasp0o0fl/" data-dfa="dfasp0o0fl"></a>В&nbsp;строке <strong>200 </strong>отражайте отрицательные курсовые разницы по&nbsp;валютным операциям и&nbsp;от&nbsp;переоценки валютных статей баланса на&nbsp;дату составления баланса, учет которых ведется на&nbsp;счете <strong>9620 «Убытки от&nbsp;валютных курсовых разниц»</strong>.</p></div><a data-anchor="/document/16/210242/tit20/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit20"><a data-anchor="/document/16/210242/bssPhr84/"></a><a data-anchor="/document/16/210242/dfasuhhc6b/" data-dfa="dfasuhhc6b"></a>Строка 210 «Прочие расходы по&nbsp;финансовой деятельности»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr86/"></a><a data-anchor="/document/16/210242/dfasygxoae/" data-dfa="dfasygxoae"></a>В&nbsp;строке <strong>210 </strong>отражайте расходы, связанные с&nbsp;выпуском и&nbsp;распространением ценных бумаг, и&nbsp;прочие расходы по&nbsp;финансовой деятельности, учет которых ведется на&nbsp;счетах <strong>9630 «Расходы по&nbsp;выпуску и&nbsp;распространению ценных бумаг» </strong>и <strong>9690 «Прочие расходы по&nbsp;финансовой деятельности»</strong>.</p></div><a data-anchor="/document/16/210242/tit21/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit21"><a data-anchor="/document/16/210242/bssPhr87/"></a><a data-anchor="/document/16/210242/dfassq5pna/" data-dfa="dfassq5pna"></a>Строка 220 «Прибыль (убыток) от&nbsp;общехозяйственной деятельности»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr89/"></a><a data-anchor="/document/16/210242/dfastlc0rz/" data-dfa="dfastlc0rz"></a>В&nbsp;строке <strong>220 </strong>автоматически рассчитается финансовый результат от&nbsp;общехозяйственной деятельности предприятия, который определяется, путем прибавления к&nbsp;сумме прибыли или убытка от&nbsp;основной деятельности (строка <strong>100</strong>) суммы доходов от&nbsp;финансовой деятельности (строка <strong>110</strong>) и&nbsp;вычитания суммы расходов по&nbsp;финансовой деятельности (строка <strong>170</strong>): строка <strong>100 </strong>+ строка <strong>110&nbsp;</strong>— строка <strong>170</strong>.</p></div><a data-anchor="/document/16/210242/tit22/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit22"><a data-anchor="/document/16/210242/bssPhr90/"></a><a data-anchor="/document/16/210242/dfasiy2iwt/" data-dfa="dfasiy2iwt"></a>Строка 230 «Чрезвычайные прибыли и&nbsp;убытки»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr92/"></a><a data-anchor="/document/16/210242/dfasdsz98n/" data-dfa="dfasdsz98n"></a>В&nbsp;строке <strong>230 </strong>отразите результаты чрезвычайных событий, графу «Доходы (прибыль)» заполняйте по&nbsp;данным счета <strong>9710 «Чрезвычайные прибыли»</strong>, а&nbsp;графу «Расходы (убытки)»&nbsp;— по&nbsp;данным счета <strong>9720 «Чрезвычайные убытки»</strong>.</p></div><a data-anchor="/document/16/210242/tit23/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit23"><a data-anchor="/document/16/210242/bssPhr93/"></a><a data-anchor="/document/16/210242/dfas8l88vq/" data-dfa="dfas8l88vq"></a><a data-anchor="/document/16/210242/dfassidxzq/" data-dfa="dfassidxzq"></a>Строка 240 «Прибыль (убыток) до&nbsp;уплаты налога на&nbsp;прибыль»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr95/"></a><a data-anchor="/document/16/210242/dfasc5v6ee/" data-dfa="dfasc5v6ee"></a>В&nbsp;строке <strong>240 автоматически </strong>отразятся результаты суммирования строк 220 и&nbsp;230, с&nbsp;учетом знака +/—.</p></div><a data-anchor="/document/16/210242/tit24/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit24"><a data-anchor="/document/16/210242/bssPhr96/"></a><a data-anchor="/document/16/210242/dfastx3gyh/" data-dfa="dfastx3gyh"></a><a data-anchor="/document/16/210242/dfasrmps24/" data-dfa="dfasrmps24"></a><a data-anchor="/document/16/210242/dfastt37ox/" data-dfa="dfastt37ox"></a>Строка 250 «Налог на&nbsp;прибыль»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr98/"></a><a data-anchor="/document/16/210242/dfaso1wbzg/" data-dfa="dfaso1wbzg"></a>В&nbsp;строке <strong>250 </strong>отражайте сумму налога на&nbsp;прибыль, начисленного с&nbsp;начала отчетного периода, учтенную на&nbsp;счете <strong>9810 «Расходы по&nbsp;налогу на&nbsp;прибыль»</strong>.</p></div><a data-anchor="/document/16/210242/tit25/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit25"><a data-anchor="/document/16/210242/bssPhr99/"></a><a data-anchor="/document/16/210242/dfasy1nqbk/" data-dfa="dfasy1nqbk"></a><a data-anchor="/document/16/210242/dfasowbb1g/" data-dfa="dfasowbb1g"></a>Строка 260 «Прочие налоги и&nbsp;другие обязательные платежи»</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr101/"></a><a data-anchor="/document/16/210242/dfasw2ym5r/" data-dfa="dfasw2ym5r"></a>В&nbsp;строке <strong>260 </strong>отражайте сумму начисленных с&nbsp;начала года налогов и&nbsp;других обязательных платежей, уплачиваемых организацией за&nbsp;счет прибыли, в&nbsp;соответствии с&nbsp;законодательством.</p><p><a data-anchor="/document/16/210242/bssPhr102/"></a><a data-anchor="/document/16/210242/dfasrpbb2r/" data-dfa="dfasrpbb2r"></a>Плательщики налога с&nbsp;оборота указывают сумму налога в <strong>строке 260</strong>.</p><p><a data-anchor="/document/16/210242/bssPhr103/"></a><a data-anchor="/document/16/210242/dfas0te1hc/" data-dfa="dfas0te1hc"></a>Если в&nbsp;течение отчетного периода применяли две системы налогообложения, впишите в&nbsp;строку <strong>«Налог на&nbsp;прибыль» </strong>сумму налога на&nbsp;прибыль, а&nbsp;в&nbsp;строке <strong>260 «Прочие налоги и&nbsp;другие обязательные платежи» </strong>отразите сумму налога, который начислили по&nbsp;упрощенному порядку налогообложения.</p><p><a data-anchor="/document/16/210242/bssPhr104/"></a><a data-anchor="/document/16/210242/dfasvz8cut/" data-dfa="dfasvz8cut"></a>Применяйте такой порядок, если, например, в&nbsp;середине года утратили право на&nbsp;налог с&nbsp;оборота и&nbsp;начали платить <span num="25" lnktype="intlnk" title="Как рассчитать налог на прибыль коммерческой организации" class="doc">налог на&nbsp;прибыль</span>. В&nbsp;этом случае одновременно есть налог с&nbsp;оборота и&nbsp;налог на&nbsp;прибыль.</p><p><a data-anchor="/document/16/210242/bssPhr105/"></a><a data-anchor="/document/16/210242/dfasilamsg/" data-dfa="dfasilamsg"></a>Данную ситуацию отразите в&nbsp;пояснительной записке при сдаче финансовой отчетности.</p></div><a data-anchor="/document/16/210242/tit26/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit26"><a data-anchor="/document/16/210242/bssPhr106/"></a><a data-anchor="/document/16/210242/dfas5rs3v5/" data-dfa="dfas5rs3v5"></a><a data-anchor="/document/16/210242/dfas4p98al/" data-dfa="dfas4p98al"></a>Строка 270"Чистая прибыль (убыток) отчетного периода"</h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210242/bssPhr108/"></a><a data-anchor="/document/16/210242/dfas5iv2r9/" data-dfa="dfas5iv2r9"></a>В&nbsp;строке <strong>270 автоматически </strong>рассчитывается конечный финансовый результат отчетного периода, определенный как разница строк: строка 240&nbsp;— строка 250&nbsp;— строка 260.</p></div><p><a data-anchor="/document/16/210242/bssPhr109/"></a><a data-anchor="/document/16/210242/dfasy2fvsd/" data-dfa="dfasy2fvsd"></a>Ознакомьтесь с&nbsp;примером заполненных форм отчета о&nbsp;финансовых результатах:</p><p><a data-anchor="/document/16/210242/bssPhr110/"></a><a data-anchor="/document/16/210242/dfasalccfx/" data-dfa="dfasalccfx"></a><a data-anchor="/document/16/210242/backlinkanchor75/" type="backlink-anchor"></a><a href="#/document/118/203300" title="" moduleId="118" documentId="203300" class="link ">Отчет о&nbsp;финансовых результатах&nbsp;— форма №&nbsp;2</a>;</p><p><a data-anchor="/document/16/210242/bssPhr111/"></a><a data-anchor="/document/16/210242/dfasuyn1tk/" data-dfa="dfasuyn1tk"></a><a data-anchor="/document/16/210242/backlinkanchor76/" type="backlink-anchor"></a><a href="#/document/118/202663" title="" moduleId="118" documentId="202663" class="link ">Справка о&nbsp;платежах в&nbsp;бюджет</a>.</p><p><a data-anchor="/document/16/210242/dfasekh0a6/" data-dfa="dfasekh0a6"></a><a data-anchor="/document/16/210242/bssPhr112/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882124" sourceId="1" fullSizeImageId="-41882123" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882124/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

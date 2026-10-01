@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как прекратить трудовой договор в связи с ликвидацией </h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулчехра&nbsp;Юсупханова,&nbsp;Главный редактор Системы Кадры, юрист</p></td></tr></table><div class="doc-snippet"><p><a data-anchor="/document/16/207018/dfasgdequ9/" data-dfa="dfasgdequ9"></a><a data-anchor="/document/16/207018/bssPhr3/"></a>Чтобы оформить прекращение трудового договора в связи с ликвидацией:&nbsp;предупредите работников&nbsp;на основании решения о ликвидации организации, оформите&nbsp;приказ и внесите записи в трудовую книжку. При прекращении трудового договора по такому основанию выплатите работникам выходное пособие и сохраните заработок на время поиска новой работы.</p></div><div id="documentBody" class="content-common"><a data-anchor="/document/16/207018/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/207018/bssPhr4/"></a><a data-anchor="/document/16/207018/dfastdsbvn/" data-dfa="dfastdsbvn"></a>Решение о ликвидации организации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207018/bssPhr6/"></a><a data-anchor="/document/16/207018/dfas1npzad/" data-dfa="dfas1npzad"></a>Организация может быть ликвидирована в добровольном или в судебном, то есть принудительном, порядке.</p><p><a data-anchor="/document/16/207018/bssPhr7/"></a><a data-anchor="/document/16/207018/dfasvq1hld/" data-dfa="dfasvq1hld"></a>Суд принимает решение о ликвидации организации:</p><ul class="c-list"><li><a data-anchor="/document/16/207018/bssPhr8/"></a><a data-anchor="/document/16/207018/dfasyblqd2/" data-dfa="dfasyblqd2"></a>за грубые нарушения законодательства при ее создании, если нарушения носят неустранимый характер;</li><li><a data-anchor="/document/16/207018/dfas85ekh6/" data-dfa="dfas85ekh6"></a>за ведение запрещенной деятельности;</li><li><a data-anchor="/document/16/207018/dfasszuaqk/" data-dfa="dfasszuaqk"></a>за ведение деятельности без разрешений или лицензий либо с нарушением законодательства;</li><li><a data-anchor="/document/16/207018/dfasu4spyy/" data-dfa="dfasu4spyy"></a>в случае невосстановления деятельности после трех лет бездействия.</li></ul><p><a data-anchor="/document/16/207018/bssPhr9/"></a><a data-anchor="/document/16/207018/dfasowp07w/" data-dfa="dfasowp07w"></a>Об этом сказано в <span num="8" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 53 ГК.</p><p><a data-anchor="/document/16/207018/bssPhr10/"></a><a data-anchor="/document/16/207018/dfasbfksvw/" data-dfa="dfasbfksvw"></a>Организацию признают ликвидированной в добровольном порядке, если решение о ликвидации приняли ее учредители, участники или акционеры (<span num="185" target="_self" lnktype="intlnk" title="" class="doc">п. 5</span> Положения (приложение 1 к ПКМ № 704 от 21.08.2019)).</p><p><a data-anchor="/document/16/207018/bssPhr11/"></a><a data-anchor="/document/16/207018/dfassl0agg/" data-dfa="dfassl0agg"></a>Коммерческая организация также может быть ликвидирована, если ее признают банкротом (<span num="10" lnktype="intlnk" title="" class="doc">ст. 57 ГК</span>). Причем объявление организации банкротом не будет достаточным основанием для прекращения трудовых отношений с работниками организации в связи с ликвидацией.</p><p><a data-anchor="/document/16/207018/bssPhr12/"></a><a data-anchor="/document/16/207018/dfasvllvnw/" data-dfa="dfasvllvnw"></a>Согласие профсоюзного комитета или иного представительного органа работников в связи с ликвидацией организации Трудовой кодекс не требует (<span num="85" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 164 ТК)</p><p><a data-anchor="/document/16/207018/bssPhr13/"></a><a data-anchor="/document/16/207018/dfas5f5dui/" data-dfa="dfas5f5dui"></a>О прекращении трудового договора в связи с&nbsp;ликвидацией&nbsp;работодатель обязан <span data-warm-notices="19415577" data-warm-notice-type="error" num="112" target="_self" lnktype="intlnk" title="" class="doc">предупредить </span>работников не менее чем за два месяца под роспись. В течение срока предупреждения работник вправе не выходить на работу не менее одного дня в неделю для поиска работы. При этом за работником сохраняйте зарплату (<span num="113" target="_self" lnktype="intlnk" title="" class="doc">ч. 4</span> ст. 165 ТК).</p><p><a data-anchor="/document/16/207018/bssPhr14/"></a><a data-anchor="/document/16/207018/dfash2lofw/" data-dfa="dfash2lofw"></a>Трудовые договоры с работниками работодатель вправе прекратить и до истечения двухмесячного срока предупреждения. В этом случае работодатель выплачивает работнику денежную компенсацию, соразмерную сроку предупреждения (<span num="114" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 165 ТК).</p><p><a data-anchor="/document/16/207018/bssPhr15/"></a><a data-anchor="/document/16/207018/dfas9vqguk/" data-dfa="dfas9vqguk"></a>Основание для увольнения – решение о ликвидации организации, которое приняли в законном порядке. Доказательством будет распоряжение о ликвидации, документы о создании ликвидационной комиссии, иные документы.</p><p><a data-anchor="/document/16/207018/bssPhr16/"></a><a data-anchor="/document/16/207018/dfas02oivb/" data-dfa="dfas02oivb"></a>Оформите увольнение в срок, который указан в предупреждении о ликвидации. Этот день&nbsp;– последний день работы организации.</p><p><a data-anchor="/document/16/207018/bssPhr17/"></a><a data-anchor="/document/16/207018/dfasv07qcq/" data-dfa="dfasv07qcq"></a>В день, который указан в предупреждении, издайте <span data-warm-notices="19415578" data-warm-notice-type="error" num="115" target="_self" lnktype="intlnk" title="" class="doc">приказ </span>о прекращении трудового договора и выплатите работникам окончательный расчет (<span num="88" target="_self" lnktype="intlnk" title="" class="doc">ст. 172 ТК</span>).</p><p><a data-anchor="/document/16/207018/bssPhr18/"></a><a data-anchor="/document/16/207018/dfasgnlho8/" data-dfa="dfasgnlho8"></a>Прекращение трудового договора в связи с ликвидацией возможно, как во время болезни, так и в период отпусков работников, в том числе отпусков по беременности и родам или по уходу за ребенком (<span num="89" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span> ст.&nbsp;163, <span num="90" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 408&nbsp;ТК).</p><p><a data-anchor="/document/16/207018/bssPhr19/"></a><a data-anchor="/document/16/207018/dfasmngs4x/" data-dfa="dfasmngs4x"></a>Запись об увольнении внесите в трудовую книжку, <span num="57" lnktype="intlnk" title="" class="doc">ЕНСТ</span> и в личную карточку работника.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли уволить работника в связи с ликвидацией организации, если организация признана банкротом</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207018/bssPhr21/"></a><a data-anchor="/document/16/207018/dfasau7r21/" data-dfa="dfasau7r21"></a>Нет, нельзя.</p><p><a data-anchor="/document/16/207018/bssPhr22/"></a><a data-anchor="/document/16/207018/dfasx6f7v0/" data-dfa="dfasx6f7v0"></a>Основанием для прекращения трудового договора с работником по <span num="98" target="_self" lnktype="intlnk" title="" class="doc">пункту&nbsp;1</span> части&nbsp;2 статьи&nbsp;161 ТК может служить решение о ликвидации юридического лица, то есть решение о прекращении его деятельности без перехода прав и обязанностей в порядке правопреемства к другим лицам и при этом не имеет значения, кто и на каком основании ликвидирует юридическое лицо, которое выступает работодателем: сами учредители в добровольном порядке или принудительно по решению суда. Важен сам факт ликвидации организации.</p><p><a data-anchor="/document/16/207018/bssPhr23/"></a><a data-anchor="/document/16/207018/dfasvteo0w/" data-dfa="dfasvteo0w"></a>Ликвидацию юридического лица признают завершенной, а юридическое лицо – прекратившим существование после внесения об этом записи в Единый государственный реестр юридических лиц (<span num="20" lnktype="intlnk" title="" class="doc">ч. 12</span> ст. 55 ГК). Основанием для внесения записи в Единый государственный реестр юридических лиц будет определение экономического суда о завершении ликвидационного производства&nbsp;(<span num="209" target="_self" lnktype="intlnk" title="" class="doc">ст. 160</span>&nbsp;Закона «О неплатежеспособности» от 12.04.2022 № ЗРУ-763).</p><p><a data-anchor="/document/16/207018/bssPhr24/"></a><a data-anchor="/document/16/207018/dfas1qkzeg/" data-dfa="dfas1qkzeg"></a>При этом следует учитывать, что признание в установленном порядке или объявление лица банкротом не означает автоматическую ликвидацию организации-работодателя, а может лишь повлечь начало процесса ликвидации (<span num="222" target="_self" lnktype="intlnk" title="" class="doc">ст. 52</span>&nbsp;Закона «О неплатежеспособности» от 12.04.2022 № ЗРУ-763).</p><p><a data-anchor="/document/16/207018/bssPhr25/"></a><a data-anchor="/document/16/207018/dfasfipsck/" data-dfa="dfasfipsck"></a>Таким образом, прекращение трудовых договоров с работниками в связи с ликвидацией на момент признания организации банкротом без решения суда о завершении ликвидационного производства признают неправомерным.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли уволить работника, если судом организация признана банкротом</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207018/bssPhr27/"></a><a data-anchor="/document/16/207018/dfasveph6p/" data-dfa="dfasveph6p"></a>Да, можно, если есть определение экономического суда.</p><p><a data-anchor="/document/16/207018/bssPhr28/"></a><a data-anchor="/document/16/207018/dfashi1egn/" data-dfa="dfashi1egn"></a>Ликвидацию юридического лица признают завершенной, а юридическое лицо – прекратившим существование после внесения об этом записи в Единый государственный реестр юридических лиц (<span num="23" lnktype="intlnk" title="" class="doc">ч. 12</span> ст. 55 ГК). Основанием для внесения записи в Единый государственный реестр юридических лиц будет определение экономического суда о завершении ликвидационного производства&nbsp;(<span num="223" target="_self" lnktype="intlnk" title="" class="doc">ст. 160</span> Закона «О неплатежеспособности» от 12.04.2022 № ЗРУ-763).</p><p><a data-anchor="/document/16/207018/bssPhr29/"></a><a data-anchor="/document/16/207018/dfasg5nbvb/" data-dfa="dfasg5nbvb"></a>При этом следует учитывать, что признание в установленном порядке или объявление лица банкротом не означает автоматическую ликвидацию организации-работодателя, а может лишь повлечь начало процесса ликвидации&nbsp;(<span num="224" target="_self" lnktype="intlnk" title="" class="doc">ст. 52</span> Закона «О неплатежеспособности» от 12.04.2022 № ЗРУ-763).</p><p><a data-anchor="/document/16/207018/bssPhr30/"></a><a data-anchor="/document/16/207018/dfaswr2k3u/" data-dfa="dfaswr2k3u"></a>Если экономическим судом вынесено определение о завершении ликвидационного производства, а предприятие признано банкротом, временный управляющий имеет право прекратить трудовые отношения с работниками <span num="65" lnktype="intlnk" title="" class="doc">по обстоятельствам независящим от воли сторон</span>, а именно на основании <span num="250" target="_blank" lnktype="intlnk" title="" class="doc">п. 3</span>&nbsp;ч. 1 ст. 168&nbsp;ТК – ликвидация организации.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли прекратить трудовые отношения с работниками, если предприятие-банкрот продано</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207018/bssPhr32/"></a><a data-anchor="/document/16/207018/dfasevmeuz/" data-dfa="dfasevmeuz"></a>Нет, нельзя.</p><p><a data-anchor="/document/16/207018/bssPhr33/"></a><a data-anchor="/document/16/207018/dfascpmdqr/" data-dfa="dfascpmdqr"></a>Для того, чтобы выплатить долги законом предусмотрена продажа предприятия, признанного банкротом. В этом случае трудовые договоры, которые действительны на момент продажи предприятия, сохраняют силу (<span num="237" target="_self" lnktype="intlnk" title="" class="doc">ст. 126</span>&nbsp;Закона «О неплатежеспособности» от 12.04.2022 № ЗРУ-763). Прекращение трудовых отношений в этом случае законодательством не предусмотрено.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли провести процедуру сокращения штата работников перед ликвидацией организации</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207018/bssPhr35/"></a><a data-anchor="/document/16/207018/dfaspmolb5/" data-dfa="dfaspmolb5"></a>Да, можно.</p><p><a data-anchor="/document/16/207018/bssPhr36/"></a><a data-anchor="/document/16/207018/dfas4i42q0/" data-dfa="dfas4i42q0"></a>Штатную численность работников организации определяет ее руководитель в соответствии со структурой организации, ее функциями и уровнями управления. По общему правилу работодатель сам определяет штатный состав по должностям и профессиям, а также численность работников, которые выполняют ту или иную трудовую функцию. Поэтому решение об изменении структуры, штатного расписания, численного состава работников организации относят к компетенции работодателя, который вправе прекратить трудовой договор с работником в связи с сокращением численности или штата работников организации. Поэтому организация вправе в период проведения процедуры ликвидации принять решение о сокращении штата.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно ли уволить работника при ликвидации предприятия, если он на больничном по уходу за ребенком</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/207018/bssPhr38/"></a><a data-anchor="/document/16/207018/dfasu572u0/" data-dfa="dfasu572u0"></a>Да, можно.</p><p><a data-anchor="/document/16/207018/bssPhr39/"></a><a data-anchor="/document/16/207018/dfasld0l11/" data-dfa="dfasld0l11"></a>Увольнение в связи с ликвидацией возможно, как во время болезни, так и в период отпусков работников, в том числе отпусков по беременности и родам или по уходу за ребенком (<span num="99" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 163, <span num="100" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 408 ТК). Листок нетрудоспособности по уходу за больным членом семьи не станет ограничением при увольнении, поэтому работодатель может уволить работника при ликвидации предприятия и во время больничного по уходу за ребенком.</p></div></div></div><a data-anchor="/document/16/207018/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/207018/bssPhr40/"></a><a data-anchor="/document/16/207018/dfasbuoy2l/" data-dfa="dfasbuoy2l"></a>Выплаты при ликвидации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207018/bssPhr42/"></a><a data-anchor="/document/16/207018/dfassgl8ln/" data-dfa="dfassgl8ln"></a>При прекращении трудового договора в связи с ликвидацией организации выплатите работнику:</p><ul class="c-list"><li><a data-anchor="/document/16/207018/bssPhr43/"></a><a data-anchor="/document/16/207018/dfasii92gc/" data-dfa="dfasii92gc"></a>недополученную&nbsp;заработную плату;</li><li>компенсации за неиспользованный трудовой отпуск;</li><li>выходное пособие.</li></ul><p><a data-anchor="/document/16/207018/bssPhr44/"></a><a data-anchor="/document/16/207018/dfasnait9e/" data-dfa="dfasnait9e"></a>Размер выходного пособия, установлен&nbsp; <span num="101" target="_self" lnktype="intlnk" title="" class="doc">ст. 173 ТК</span> и зависит от стажа работы у данного работодателя.</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tbody><tr><td class="bdAll" style="width: 29px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr45/"></a><a data-anchor="/document/16/207018/dfasgftcns/" data-dfa="dfasgftcns"></a>№</p></td><td class="bdTopbdBottombdRight" style="width: 150px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr46/"></a><a data-anchor="/document/16/207018/dfasfop6ra/" data-dfa="dfasfop6ra"></a>Стаж работы</p></td><td class="bdTopbdBottombdRight" style="width: 283px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr47/"></a><a data-anchor="/document/16/207018/dfasp8gzwm/" data-dfa="dfasp8gzwm"></a>Процент от среднего месячного заработка</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 29px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr48/"></a><a data-anchor="/document/16/207018/dfasupnppg/" data-dfa="dfasupnppg"></a>1</p></td><td class="bdBottombdRight" style="width: 150px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr49/"></a><a data-anchor="/document/16/207018/dfas4ro3co/" data-dfa="dfas4ro3co"></a>до 3-х лет</p></td><td class="bdBottombdRight" style="width: 283px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr50/"></a><a data-anchor="/document/16/207018/dfasg1g9hg/" data-dfa="dfasg1g9hg"></a>50 %</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 29px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr51/"></a><a data-anchor="/document/16/207018/dfasgnifq3/" data-dfa="dfasgnifq3"></a>2</p></td><td class="bdBottombdRight" style="width: 150px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr52/"></a><a data-anchor="/document/16/207018/dfas16y0yg/" data-dfa="dfas16y0yg"></a>от 3-х до 5-ти лет</p></td><td class="bdBottombdRight" style="width: 283px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr53/"></a><a data-anchor="/document/16/207018/dfasp4acqe/" data-dfa="dfasp4acqe"></a>75 %</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 29px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr54/"></a><a data-anchor="/document/16/207018/dfas1gv7a9/" data-dfa="dfas1gv7a9"></a>3</p></td><td class="bdBottombdRight" style="width: 150px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr55/"></a><a data-anchor="/document/16/207018/dfasrw9vtw/" data-dfa="dfasrw9vtw"></a>от 5-ти до 10-ти лет</p></td><td class="bdBottombdRight" style="width: 283px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr56/"></a><a data-anchor="/document/16/207018/dfasdwetwv/" data-dfa="dfasdwetwv"></a>100 %</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 29px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr57/"></a><a data-anchor="/document/16/207018/dfasf9tuly/" data-dfa="dfasf9tuly"></a>4</p></td><td class="bdBottombdRight" style="width: 150px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr58/"></a><a data-anchor="/document/16/207018/dfasc512ey/" data-dfa="dfasc512ey"></a>от 10-ти до 15-ти лет</p></td><td class="bdBottombdRight" style="width: 283px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr59/"></a><a data-anchor="/document/16/207018/dfasn4vf8z/" data-dfa="dfasn4vf8z"></a>150 %</p></td></tr><tr><td class="bdBottombdRightbdLeft" style="width: 29px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr60/"></a><a data-anchor="/document/16/207018/dfasu5q943/" data-dfa="dfasu5q943"></a>5</p></td><td class="bdBottombdRight" style="width: 150px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr61/"></a><a data-anchor="/document/16/207018/dfassdx95h/" data-dfa="dfassdx95h"></a>свыше 15-ти лет</p></td><td class="bdBottombdRight" style="width: 283px;"><p style="text-align:center"><a data-anchor="/document/16/207018/bssPhr62/"></a><a data-anchor="/document/16/207018/dfaszo5y5v/" data-dfa="dfaszo5y5v"></a>200 %</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/207018/bssPhr63/"></a><a data-anchor="/document/16/207018/dfast3eg88/" data-dfa="dfast3eg88"></a>Кроме того, за работниками сохраняйте средний заработок на период трудоустройства, но не свыше двух месяцев со дня увольнения. В исключительных случаях средний месячный заработок сохраняют за уволенным работником в течение третьего месяца со дня прекращения трудового договора по решению органа службы занятости населения и при условии, если в течение 30 дней после увольнения в связи с ликвидацией работник прошел регистрацию&nbsp;в службе занятости и не был трудоустроен (<span num="102" target="_self" lnktype="intlnk" title="" class="doc">ст. 100 ТК</span>,&nbsp;<span num="49" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span>&nbsp;ст. 49 ЗРУ- 642 от 28.04.2020 Закона «О занятости населения» ).</p><p><a data-anchor="/document/16/207018/bssPhr64/"></a><a data-anchor="/document/16/207018/dfas9u6z2o/" data-dfa="dfas9u6z2o"></a>Сведения о работниках, которые будут высвобождены, работодатель обязан подать в местный орган по труду через МАПК «ЕНСТ» не позднее чем за два месяца до предполагаемой даты ликвидации. В сведения внесите данные каждого высвобождаемого работника: Ф.И.О., профессия, специальность, квалификация и размер оплаты труда. Это регламентировано <span num="103" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 166&nbsp;ТК.</p></div><a data-anchor="/document/16/207018/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/207018/bssPhr65/"></a><a data-anchor="/document/16/207018/dfasasnv52/" data-dfa="dfasasnv52"></a>Оформление</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/207018/bssPhr67/"></a><a data-anchor="/document/16/207018/dfasqiuozr/" data-dfa="dfasqiuozr"></a>Прекращение трудового договора в связи с ликвидацией оформите в следующем порядке:</p><p style="text-align:start"><a data-anchor="/document/16/207018/bssPhr68/"></a><a data-anchor="/document/16/207018/dfasu1ko1n/" data-dfa="dfasu1ko1n"></a><strong>Шаг 1.</strong> Оформите&nbsp;решение о ликвидации организации (<span num="196" target="_self" lnktype="intlnk" title="" class="doc">п. 5</span> Положения (приложение 1 к ПКМ № 704 от 21.08.2019)).</p><p style="text-align:start"><a data-anchor="/document/16/207018/bssPhr69/"></a><a data-anchor="/document/16/207018/dfasoim18d/" data-dfa="dfasoim18d"></a><strong>Шаг 2. </strong><span data-warm-notices="19415579" data-warm-notice-type="error" num="125" target="_self" lnktype="intlnk" title="" class="doc">Предупредите </span>работников о прекращении трудового договора в связи с ликвидацией.</p><p style="text-align:start"><a data-anchor="/document/16/207018/bssPhr70/"></a><a data-anchor="/document/16/207018/dfas6eossg/" data-dfa="dfas6eossg"></a><strong>Шаг 3.&nbsp;</strong>Издайте <span num="126" target="_self" lnktype="intlnk" title="" class="doc">приказ</span>.</p><p style="text-align:start"><a data-anchor="/document/16/207018/bssPhr71/"></a><a data-anchor="/document/16/207018/dfas4innqz/" data-dfa="dfas4innqz"></a><strong>Шаг 4.&nbsp;</strong>Внесите запись об прекращении трудовых отношений в систему МАПК «ЕНСТ», закройте его личную карточку Т-2.</p><p style="text-align:start"><a data-anchor="/document/16/207018/bssPhr72/"></a><a data-anchor="/document/16/207018/dfasz33uaq/" data-dfa="dfasz33uaq"></a><a data-anchor="/document/16/207018/dfasm41a4w/" data-dfa="dfasm41a4w"></a><strong>Шаг 5.</strong> Выдайте трудовую книжку или выписку из электронной трудовой, копию приказа о прекращении трудового договора и произведите <a href="https://1gb.uz/#/document/16/207018/dfassgl8ln/">окончательный расчет</a>.&nbsp;</p><p style="text-align:start"><a data-anchor="/document/16/207018/bssPhr73/"></a><a data-anchor="/document/16/207018/dfaschie8b/" data-dfa="dfaschie8b"></a>На <a href="https://1gb.uz/#/document/16/207018/dfastta5s0/">видео</a> Зарнигор Абдурахманова, начальник отдела Дирекции по управлению МАПК ЕНСТ, разъяснила, как прекратить трудовые отношения при ликвидации организации.</p><p style="text-align:start"><a data-anchor="/document/16/207018/bssPhr74/"></a><a data-anchor="/document/16/207018/dfastta5s0/" data-dfa="dfastta5s0"></a><strong>Видео. Как прекратить ТД при ликвидации организации</strong></p><div class="iframe"><iframe width="1349" height="759" src="https://www.youtube.com/embed/i0ms2BjVIII" title="Как прекратить ТД при ликвидации организации" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div class="doc-columns doc-columns_type_forms"><table class="" style="width:92%"><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297///" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr></table></div><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="138" target="_self" lnktype="intlnk" title="" class="doc">Какие документы выдать работнику при увольнении</span></li><li class="incut-v4-more-about__item"><span num="149" target="_self" lnktype="intlnk" title="" class="doc">Как посчитать дни, за которые можно выплатить компенсацию за неиспользованный отпуск при увольнении</span></li><li class="incut-v4-more-about__item"><span num="160" target="_self" lnktype="intlnk" title="" class="doc">Как уволить работников при ликвидации предприятия и какой документ будет основанием для ликвидации предприятия</span></li></ul></div><div class="incut-v4__icon"></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

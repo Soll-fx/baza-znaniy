@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие льготы действуют по налогу за пользование водными ресурсами</h2><div class="doc-snippet"><a data-anchor="/document/16/221472/dfasp215de/" data-dfa="dfasp215de"></a><a data-anchor="/document/16/221472/bssPhr2/"></a>Из рекомендации узнаете, какие льготы действуют по налогу за пользование водными ресурсами, а также кто освобожден от уплаты налога на постоянной основе. Какие категории налогоплательщиков и на какой срок освобождены от уплаты налога за пользование водными ресурсами, а кто может уплачивать налог по сниженной ставке, помогут разобраться таблицы, составленные экспертами. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/221472/bssPhr7/"></a><a data-anchor="/document/16/221472/dfasod2caq/" data-dfa="dfasod2caq"></a>Льготы, предоставленные нормативно-правовыми актами, принятыми до 1 января 2020 года, действуют до истечения срока их действия (<a data-anchor="/document/16/221472/backlinkanchor61/" type="backlink-anchor"></a><a href="#/document/90/9796/dfas9ozsgb/" class="link npd" target="_self" title="" moduleId="90" documentId="9796" anchor="dfas9ozsgb">ст. 4</a>&nbsp;Закона Республики Узбекистан от 30.12.2019 № ЗРУ-599).</p><p><a data-anchor="/document/16/221472/bssPhr8/"></a><a data-anchor="/document/16/221472/dfasdcccuh/" data-dfa="dfasdcccuh"></a>Льготы по налогу предусмотрены в виде:</p><ul class="c-list"><li><a data-anchor="/document/16/221472/bssPhr9/"></a><a data-anchor="/document/16/221472/dfasnwv9h9/" data-dfa="dfasnwv9h9"></a>освобождения от уплаты налога отдельных предприятий <strong>на постоянной основе</strong>;</li><li>освобождения от уплаты налога отдельных предприятий <strong>на определенный срок</strong>;</li><li>снижения ставки налога.</li></ul><a data-anchor="/document/16/221472/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221472/bssPhr10/"></a><a data-anchor="/document/16/221472/dfas9e0s0g/" data-dfa="dfas9e0s0g"></a>Освобождение от налога&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221472/bssPhr12/"></a><a data-anchor="/document/16/221472/dfaspq0z54/" data-dfa="dfaspq0z54"></a>Льготы по налогу за пользование водными ресурсами могут быть в виде освобождения от налога на постоянной основе и на определенный срок.</p><p><a data-anchor="/document/16/221472/bssPhr13/"></a><a data-anchor="/document/16/221472/dfasgwa2gr/" data-dfa="dfasgwa2gr"></a>От уплаты налога за пользование водными ресурсами <strong>на постоянной основе </strong>освобождены юридические лица:</p><ul class="c-list"><li><a data-anchor="/document/16/221472/bssPhr14/"></a><a data-anchor="/document/16/221472/dfase1ssv5/" data-dfa="dfase1ssv5"></a>Фонд&nbsp;финансирования&nbsp;науки&nbsp;и&nbsp;поддержки&nbsp;инноваций&nbsp;(<span num="128" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;8</span>&nbsp;постановления&nbsp;Президента от 30.11.2017 № ПП-3416, <span num="46" target="_self" lnktype="intlnk" title="" class="doc">п. 5</span>&nbsp;указа Президента от 01.04.2021 № УП-6198);</li><li><a data-anchor="/document/16/221472/dfas2m58q2/" data-dfa="dfas2m58q2"></a>Фонд реконструкции и развития Республики Узбекистан (<span num="47" target="_self" lnktype="intlnk" title="" class="doc">п. 8</span>&nbsp;указа Президента от 11.05.2006 № УП-3751);</li><li><a data-anchor="/document/16/221472/dfasl95y0y/" data-dfa="dfasl95y0y"></a>Фонд государственной поддержки сельского хозяйства при Министерстве финансов РУз (<span num="209" target="_self" lnktype="intlnk" title="" class="doc">Указ</span> Президента от 03.05.2018 № <span num="48" target="_self" lnktype="intlnk" title="" class="doc">УП-5428</span>);</li><li><a data-anchor="/document/16/221472/dfas53t1mv/" data-dfa="dfas53t1mv"></a>ООО «Консорциум» по поддержке надомного труда» (<span num="49" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span>&nbsp;постановления Президента Рот 24.05.2017 № ПП-2996);</li><li><a data-anchor="/document/16/221472/dfas6ixa58/" data-dfa="dfas6ixa58"></a>Международный благотворительный общественный фонд «Эзгу максад» (<span num="50" target="_self" lnktype="intlnk" title="" class="doc">п. 6</span>&nbsp;постановления&nbsp;Президента от 14.07.2017 № ПП-3135);</li><li><a data-anchor="/document/16/221472/dfasp1on9r/" data-dfa="dfasp1on9r"></a>Фонд развития культуры и искусства при Министерстве культуры Республики Узбекистан (<span num="52" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span>&nbsp;постановления&nbsp;Президента от 16.10.2017 № ПП-3325);</li><li><a data-anchor="/document/16/221472/dfasx9qn8b/" data-dfa="dfasx9qn8b"></a>Агентство по управлению государственными активами (<span num="107" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span>&nbsp; постановления Президента от 27.02.2018 № ПП-3570&nbsp;в редакции Указа Президента от 08.04.2022 № <span num="53" target="_self" lnktype="intlnk" title="" class="doc">УП-101</span>);</li><li><a data-anchor="/document/16/221472/dfas5waq17/" data-dfa="dfas5waq17"></a>Фонд поддержки фермерских, дехканских хозяйств и владельцев приусадебных земель при Совете фермерских, дехканских хозяйств и владельцев приусадебных земель Узбекистана (<span num="54" target="_self" lnktype="intlnk" title="" class="doc">п. 13</span>&nbsp;постановления Президента от 26.04.2018 № ПП-3680);</li><li><a data-anchor="/document/16/221472/dfaszg89rv/" data-dfa="dfaszg89rv"></a>негосударственные учреждения культуры и искусства, созданные на условиях государственно-частного партнерства,&nbsp;– по основному виду деятельности, у которых доля чистой выручки от оказания услуг в сфере культуры и искусства в общем объеме реализации составляет не менее 80% по итогам отчетного (налогового) периода (<span num="55" target="_self" lnktype="intlnk" title="" class="doc">п. 8</span>&nbsp;постановления Президента от 01.08.2018 № ПП-3892);</li><li>Детский общественный фонд (<span num="59" target="_self" lnktype="intlnk" title="" class="doc">п. 6</span>&nbsp;постановления Президента от 04.10.2021 № ПП-5255).</li><li>дирекции по строительству и эксплуатации объектов на территории центров «Business city» (<span num="56" target="_self" lnktype="intlnk" title="" class="doc">п. 9</span>&nbsp;постановления Президента от 02.08.2018 № ПП-3895)</li><li>дирекция Международного делового центра «Tashkent city» (<span num="57" target="_self" lnktype="intlnk" title="" class="doc">п. 10</span> постановления Президента № ПП-3895);</li><li>дирекция многофункционального комплекса «Asaka сity» (<span num="58" target="_self" lnktype="intlnk" title="" class="doc">п. 3</span>&nbsp;постановления Президента от 02.04.2021 № ПП-5049);</li><li>дирекция по строительству и эксплуатации бизнес-центра «Yangi O`zbekiston ko`chasi»&nbsp;(<span num="222" target="_blank" lnktype="intlnk" title="" class="doc">п. 3</span> постановления Президента от 30.06.2022 №&nbsp;ПП-301).</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Имеет ли сельскохозяйственное предприятие, которое внедрило систему капельного орошения, какие-то льготы по налогу за пользование водными ресурсами</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/221472/bssPhr16/"></a><a data-anchor="/document/16/221472/dfasgwlxdp/" data-dfa="dfasgwlxdp"></a>Нет, не имеет.</p><p><a data-anchor="/document/16/221472/bssPhr17/"></a><a data-anchor="/document/16/221472/dfask6qkls/" data-dfa="dfask6qkls"></a>Льготы по налогу за пользование водными ресурсами для сельскохозяйственных предприятий, внедривших капельное орошение, Налоговый кодекс не предусматривает.</p></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221472/bssPhr19/"></a><a data-anchor="/document/16/221472/dfasugez0k/" data-dfa="dfasugez0k"></a>От уплаты налога за пользование водными ресурсами <strong>на определенный срок</strong> освобождены юридические лица:&nbsp;</p><div><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><caption></caption><tbody><tr><td style="width: 31%; vertical-align: middle;"><p style="text-align:center"><a data-anchor="/document/16/221472/bssPhr21/"></a><a data-anchor="/document/16/221472/dfas9udwzu/" data-dfa="dfas9udwzu"></a><strong>Юридические лица</strong></p></td><td style="width: 30.13%; vertical-align: middle;"><p style="text-align:center"><a data-anchor="/document/16/221472/bssPhr22/"></a><a data-anchor="/document/16/221472/dfas9pl5so/" data-dfa="dfas9pl5so"></a><strong>Срок действия льготы</strong></p></td><td style="width: 38.73%; vertical-align: middle;"><p style="text-align:center"><a data-anchor="/document/16/221472/bssPhr23/"></a><a data-anchor="/document/16/221472/dfaskt30vp/" data-dfa="dfaskt30vp"></a><strong>Основание</strong></p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr24/"></a><a data-anchor="/document/16/221472/dfascpdf9w/" data-dfa="dfascpdf9w"></a>иностранные компании, осуществляющие поисковые и разведочные работы на нефть и газ, а также привлекаемые ими иностранные подрядные и субподрядные организации</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr25/"></a><a data-anchor="/document/16/221472/dfasagqfxw/" data-dfa="dfasagqfxw"></a>на период проведения геолого-разведочных работ</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr26/"></a><a data-anchor="/document/16/221472/dfasnsl0x2/" data-dfa="dfasnsl0x2"></a><span num="121" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span> указа Президента от 28.04.2000 № УП-2598</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr27/"></a><a data-anchor="/document/16/221472/dfasmp4yzo/" data-dfa="dfasmp4yzo"></a>АО «Дженерал Моторс Пауэртрейн – Узбекистан»</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr28/"></a><a data-anchor="/document/16/221472/dfas73dosk/" data-dfa="dfas73dosk"></a>на период строительства, а также сроком на 10 лет с даты начала серийного производства силовых агрегатов</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr29/"></a><a data-anchor="/document/16/221472/dfas8gowmb/" data-dfa="dfas8gowmb"></a><span num="178" target="_self" lnktype="intlnk" title="" class="doc">п. 3</span>&nbsp;постановления Президента от 16.12.2008 № ПП-1020</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr30/"></a><a data-anchor="/document/16/221472/dfaswb7ow2/" data-dfa="dfaswb7ow2"></a>компания «Чегара Продакшн Лимитед» и привлекаемые ею иностранные подрядные и субподрядные организации, осуществляющие нефтегазовые операции в рамках реализации контракта об увеличении добычи жидких углеводородов, заключенного АК «Узнефтегаздобыча», АК «Узнефтепродукт» и компанией «Чегара Продакшн Лимитед»</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr31/"></a><a data-anchor="/document/16/221472/dfas5zosa8/" data-dfa="dfas5zosa8"></a>на период действия контракта</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr32/"></a><a data-anchor="/document/16/221472/dfasohd82m/" data-dfa="dfasohd82m"></a><span num="180" target="_self" lnktype="intlnk" title="" class="doc">п. 3</span>&nbsp;постановления&nbsp;Президента от 19.08.2013 № ПП-2025&nbsp;</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr33/"></a><a data-anchor="/document/16/221472/dfasx3f1nz/" data-dfa="dfasx3f1nz"></a>дирекции всех действующих и новых создаваемых специальных экономических зон</p><p><a data-anchor="/document/16/221472/bssPhr34/"></a><a data-anchor="/document/16/221472/dfasd4ryes/" data-dfa="dfasd4ryes"></a>Льгота также распространяется на дирекции технологических кластеров "Навоийский химический технопарк", "Ферганский химический технопарк" и "Каракалпакстанский химический технопарк</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr35/"></a><a data-anchor="/document/16/221472/dfas6owyqf/" data-dfa="dfas6owyqf"></a>на период функционирования свободных экономических зон</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr36/"></a><a data-anchor="/document/16/221472/dfasqhelq0/" data-dfa="dfasqhelq0"></a><span num="134" target="_self" lnktype="intlnk" title="" class="doc">п. 9</span> постановления Президента от 25.10.2017 № ПП-3356 в редакции указа&nbsp;Президента от 20.12.2021 № <span num="135" target="_self" lnktype="intlnk" title="" class="doc">УП-36</span>, <span num="136" target="_self" lnktype="intlnk" title="" class="doc">п. 8</span> указа Президента от 12.01.2017 № УП-4931</p><p><a data-anchor="/document/16/221472/bssPhr37/"></a><a data-anchor="/document/16/221472/dfas0r6s9c/" data-dfa="dfas0r6s9c"></a>п. <span num="220" target="_blank" lnktype="intlnk" title="" class="doc">4 “а</span>” постановления Президента от 10.10.2022 г. ПП № 388</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr38/"></a><a data-anchor="/document/16/221472/dfasmgpego/" data-dfa="dfasmgpego"></a>ООО «Uzbekistan Peugeot Citroen Automotive»</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr39/"></a><a data-anchor="/document/16/221472/dfasmecfvp/" data-dfa="dfasmecfvp"></a>на 10 лет с даты ввода в эксплуатацию объекта по производству легких коммерческих автомобилей</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr40/"></a><a data-anchor="/document/16/221472/dfas9d1y7x/" data-dfa="dfas9d1y7x"></a><span num="137" target="_self" lnktype="intlnk" title="" class="doc">п. 12</span> постановления Президента от 13.06.2017 № ПП-3053</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr41/"></a><a data-anchor="/document/16/221472/dfasqniy3v/" data-dfa="dfasqniy3v"></a>резиденты Технологического парка программных продуктов и информационных технологий, а также;</p><ul class="c-list"><li><a data-anchor="/document/16/221472/bssPhr42/"></a><a data-anchor="/document/16/221472/dfasnbtm3p/" data-dfa="dfasnbtm3p"></a>участников Специального режима применения технологий искусственного интеллекта в рамках реализации пилотных проектов, реализуемых в 2021-2022 годах;</li><li>с 1 августа 2022 года&nbsp;–&nbsp;на ООО «Inno texnopark»&nbsp;и его резидентов. Льгота распространяется только на виды деятельности, указанные в заявке на получение статуса резидента.</li></ul><p><a data-anchor="/document/16/221472/bssPhr43/"></a><a data-anchor="/document/16/221472/dfas4otfkv/" data-dfa="dfas4otfkv"></a>Для резидентов IT-парка, соответствующих&nbsp;критериям части 63 статьи 483 Налогового кодекса, действие льготы продлевается с 1-ого января 2028 года по&nbsp;1-ое&nbsp;января 2040 года</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr44/"></a><a data-anchor="/document/16/221472/dfasggbegh/" data-dfa="dfasggbegh"></a>до 1 января 2028 года</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr45/"></a><a data-anchor="/document/16/221472/dfasn2x0cf/" data-dfa="dfasn2x0cf"></a><span num="138" target="_self" lnktype="intlnk" title="" class="doc">п. 5</span>&nbsp;постановления Кабмина № 17 от 10.01.2019, <span num="139" target="_self" lnktype="intlnk" title="" class="doc">п. 5</span>&nbsp;указа Президента от 30.06.2017 № УП-5099&nbsp;в редакции&nbsp;указа Президента от 24.07.2021&nbsp;№ <span num="140" target="_self" lnktype="intlnk" title="" class="doc">УП-6268</span></p><p><a data-anchor="/document/16/221472/bssPhr46/"></a><a data-anchor="/document/16/221472/dfasrx75ed/" data-dfa="dfasrx75ed"></a><span num="221" target="_blank" lnktype="intlnk" title="" class="doc">п. 2 «г»</span>&nbsp;постановления Президента от 26.08.2021 №&nbsp;ПП-5234</p><p><a data-anchor="/document/16/221472/bssPhr47/"></a><a data-anchor="/document/16/221472/dfasl7wt07/" data-dfa="dfasl7wt07"></a><span num="232" target="_blank" lnktype="intlnk" title="" class="doc">п. 6</span> постановления Президента от 06.07.2022 №&nbsp;ПП-307,</p><p><a data-anchor="/document/16/221472/bssPhr48/"></a><a data-anchor="/document/16/221472/dfasgkqe9n/" data-dfa="dfasgkqe9n"></a>ч. 62, 63 ст. 483 НК</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr49/"></a><a data-anchor="/document/16/221472/dfasc4c32x/" data-dfa="dfasc4c32x"></a>юридические лица, занимающиеся деятельностью по оказанию негосударственных образовательных услуг в сфере дошкольного и общего среднего образования,&nbsp;а также с 17.04.2026&nbsp;- субъекты предпринимательства, оказывающие услуги дневного ухода за детьми с инвалидностью в возрасте от трех до восемнадцати лет на основе государственно-частного партнерства.</p><p><a data-anchor="/document/16/221472/bssPhr50/"></a><a data-anchor="/document/16/221472/dfaszd189q/" data-dfa="dfaszd189q"></a>Льгота предусматривает целевое направление&nbsp;высвобождаемых средств на оснащение негосударственных дошкольных и общих средних образовательных организаций современными учебными пособиями, приобретение необходимых товаров и оборудования, реконструкцию и капитальный ремонт зданий и сооружений, а также предоставление бесплатных образовательных услуг социально уязвимым слоям населения</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr51/"></a><a data-anchor="/document/16/221472/dfasogvnu0/" data-dfa="dfasogvnu0"></a>до 1 января 2030&nbsp;года</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr52/"></a><a data-anchor="/document/16/221472/dfas55gume/" data-dfa="dfas55gume"></a><span num="141" target="_self" lnktype="intlnk" title="" class="doc">п. 8</span> постановления Президента от 14.09.2017 № ПП-3276, <span num="142" target="_self" lnktype="intlnk" title="" class="doc">п. 13</span> постановления Президента от 05.09.2018 № ПП-3931, ч. 64, 65 НК, ст. 3 Закона от 17.04.2026 № ЗРУ-1129</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr53/"></a><a data-anchor="/document/16/221472/dfasr6ng0a/" data-dfa="dfasr6ng0a"></a>ООО «Томоркахизмати» в рамках основной деятельности</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr54/"></a><a data-anchor="/document/16/221472/dfasq639zw/" data-dfa="dfasq639zw"></a>на 3 года после государственной регистрации и внесения в реестр Совета фермерских, дехканских хозяйств и владельцев приусадебных земель Узбекистана</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr55/"></a><a data-anchor="/document/16/221472/dfasyrqf4h/" data-dfa="dfasyrqf4h"></a><span num="149" target="_self" lnktype="intlnk" title="" class="doc">п. 13</span> постановления Президента от 26.04.2018 № ПП-3680&nbsp; в редакции указа&nbsp;Президента от 30.04.2021 № <span num="150" target="_self" lnktype="intlnk" title="" class="doc">УП-6217</span></p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr56/"></a><a data-anchor="/document/16/221472/dfasi9w672/" data-dfa="dfasi9w672"></a>негосударственные дошкольные образовательные учреждения, созданные на условиях государственно-частного партнерства, при условии что доля чистой выручки от оказания услуг в сфере дошкольного образования в общем объеме реализации составляет не менее 80 процентов&nbsp;по итогам отчетного (налогового) периода</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr57/"></a><a data-anchor="/document/16/221472/dfasw94dvf/" data-dfa="dfasw94dvf"></a>в течение 10 лет с начала осуществления деятельности негосударственного дошкольного образовательного учреждения</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr58/"></a><a data-anchor="/document/16/221472/dfaslq93wv/" data-dfa="dfaslq93wv"></a><span num="151" target="_self" lnktype="intlnk" title="" class="doc">п. 9</span> постановления Президента от 05.04.2018 № ПП-3651</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr59/"></a><a data-anchor="/document/16/221472/dfasbyismr/" data-dfa="dfasbyismr"></a>создаваемые на условиях государственно-частного партнерства центры инновационных идей, разработок и технологий в Республике Каракалпакстан, областях и городе Ташкент, осуществляющие разработку, апробацию и освоение инновационных проектов-стартапов, трансфер и коммерциализацию результатов инновационной деятельности</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr60/"></a><a data-anchor="/document/16/221472/dfas253g40/" data-dfa="dfas253g40"></a>на 5 лет с момента создания</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr61/"></a><a data-anchor="/document/16/221472/dfase1o8sa/" data-dfa="dfase1o8sa"></a><span num="155" target="_self" lnktype="intlnk" title="" class="doc">п. 1</span> постановления Президента от 05.05.2018 № ПП-3697</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr62/"></a><a data-anchor="/document/16/221472/dfaslri9nm/" data-dfa="dfaslri9nm"></a>юридические лица, заключившие договоры о государственно-частном партнерстве в сфере водоснабжения и канализации</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr63/"></a><a data-anchor="/document/16/221472/dfasvxpx19/" data-dfa="dfasvxpx19"></a>на 3 года с даты подписания договора</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr64/"></a><a data-anchor="/document/16/221472/dfas7ls6so/" data-dfa="dfas7ls6so"></a><span num="157" target="_self" lnktype="intlnk" title="" class="doc">п. 11</span> постановления Президента от 30.11.2018 № ПП-4040</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr65/"></a><a data-anchor="/document/16/221472/dfas19v5tz/" data-dfa="dfas19v5tz"></a>участники химико-индустриального технопарка «Чирчик» в Ташкентской области</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr66/"></a><a data-anchor="/document/16/221472/dfasb5x114/" data-dfa="dfasb5x114"></a>на 10 лет</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr67/"></a><a data-anchor="/document/16/221472/dfasvhfkly/" data-dfa="dfasvhfkly"></a><span num="158" target="_self" lnktype="intlnk" title="" class="doc">ст. 473</span> НК, <span num="159" target="_self" lnktype="intlnk" title="" class="doc">п. 4</span> постановления Президента от 03.02.2022 № ПП-116</p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr68/"></a><a data-anchor="/document/16/221472/dfas9c1l8g/" data-dfa="dfas9c1l8g"></a>Юридические лица, внедряющие технологии в сфере оборота крипто-активов, – участники Специального режима</p></td><td style="width: 30.13%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr69/"></a><a data-anchor="/document/16/221472/dfasf9cl88/" data-dfa="dfasf9cl88"></a>в рамках реализации пилотных проектов в Специальном режиме регулирования в сфере оборота крипто-активов</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr70/"></a><a data-anchor="/document/16/221472/dfasla3lqi/" data-dfa="dfasla3lqi"></a><span num="160" target="_self" lnktype="intlnk" title="" class="doc">п. 3 и</span>) постановления Президента от 27.07.2017 № ПП-3150 в редакции указа&nbsp;Президента от 27.04.2022 № <span num="161" target="_self" lnktype="intlnk" title="" class="doc">УП-121</span></p></td></tr><tr><td style="width: 31%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr71/"></a><a data-anchor="/document/16/221472/dfas1shr0v/" data-dfa="dfas1shr0v"></a>Дирекции по строительству и эксплуатации объектов на территории центров "Business city".</p><p><a data-anchor="/document/16/221472/bssPhr72/"></a><a data-anchor="/document/16/221472/dfas4g0utg/" data-dfa="dfas4g0utg"></a>Перечень центров "Business city" приведен в приложении №&nbsp;3 к постановлению Кабмина от 05.06.2019 № 461.<br>Льгота также распространяется на дирекцию многофункционального комплекса "Asaka сity"</p></td><td style="width: 30.13%; vertical-align: middle;"><p style="text-align:center"><a data-anchor="/document/16/221472/bssPhr73/"></a><a data-anchor="/document/16/221472/dfaskxzs8c/" data-dfa="dfaskxzs8c"></a>на весь период функционирования центров "Business city"</p></td><td style="width: 38.73%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr74/"></a><a data-anchor="/document/16/221472/dfas4evhdg/" data-dfa="dfas4evhdg"></a>п. 9 постановления Президента от 02.08.2018 № ПП-3895,&nbsp;</p><p><a data-anchor="/document/16/221472/bssPhr75/"></a><a data-anchor="/document/16/221472/dfasxd6zr0/" data-dfa="dfasxd6zr0"></a>п. 3 постановления Президента от 02.04.2021 № ПП-5049</p></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><a data-anchor="/document/16/221472/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221472/bssPhr76/"></a><a data-anchor="/document/16/221472/dfasd51tbc/" data-dfa="dfasd51tbc"></a>Пониженная ставка&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221472/bssPhr78/"></a><a data-anchor="/document/16/221472/dfas16k42e/" data-dfa="dfas16k42e"></a>Сниженная&nbsp;ставка&nbsp;налога за пользование водными ресурсами предоставляется:</p><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%" class="bdAll"><caption></caption><tbody><tr><td style="width: 29%; vertical-align: middle;"><p style="text-align:center"><a data-anchor="/document/16/221472/bssPhr80/"></a><a data-anchor="/document/16/221472/dfas8fsx6z/" data-dfa="dfas8fsx6z"></a><strong>Кому предоставлена льгота</strong></p></td><td style="width: 22%; vertical-align: middle;"><p style="text-align:center"><a data-anchor="/document/16/221472/bssPhr81/"></a><a data-anchor="/document/16/221472/dfastbpq6g/" data-dfa="dfastbpq6g"></a><strong>Льготная ставка</strong></p></td><td style="width: 22.74%; vertical-align: middle;"><p style="text-align:center"><a data-anchor="/document/16/221472/bssPhr82/"></a><a data-anchor="/document/16/221472/dfasqdezx7/" data-dfa="dfasqdezx7"></a><strong>Срок действия льготы</strong></p></td><td style="width: 25.34%; vertical-align: middle;"><p style="text-align:center"><a data-anchor="/document/16/221472/bssPhr83/"></a><a data-anchor="/document/16/221472/dfasamy7p4/" data-dfa="dfasamy7p4"></a><strong>Основание </strong></p></td></tr><tr><td style="width: 29%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr84/"></a><a data-anchor="/document/16/221472/dfasgnd00p/" data-dfa="dfasgnd00p"></a>Субъекты племенного дела по основному виду деятельности</p></td><td style="width: 22%; vertical-align: middle;"><a data-anchor="/document/16/221472/bssPhr85/"></a><a data-anchor="/document/16/221472/dfas75hqhm/" data-dfa="dfas75hqhm"></a>Ставка налога снижается на 50%</td><td style="width: 22.74%; vertical-align: middle;"><a data-anchor="/document/16/221472/bssPhr86/"></a><a data-anchor="/document/16/221472/dfasug0333/" data-dfa="dfasug0333"></a>До 1 января 2028 года</td><td style="width: 25.34%; vertical-align: middle;"><a data-anchor="/document/16/221472/bssPhr87/"></a><a data-anchor="/document/16/221472/dfasigsqmf/" data-dfa="dfasigsqmf"></a><span num="235" target="_blank" lnktype="intlnk" title="" class="doc">П. 2</span> постановления&nbsp;Президента Республики Узбекистан от 30.01.2025<br>№ ПП-34</td></tr><tr><td style="width: 29%; vertical-align: middle;"><p><a data-anchor="/document/16/221472/bssPhr88/"></a><a data-anchor="/document/16/221472/dfaskyfcw1/" data-dfa="dfaskyfcw1"></a>Субъекты предпринимательства высокого и среднего рейтинга устойчивости, заключившие прямые договоры о налаживании производства промышленной продукции с владельцами брендов, включенными в перечень известных международных брендов, производящие не менее 30% продукции под известным международным брендом</p></td><td style="width: 22%; vertical-align: middle;"><a data-anchor="/document/16/221472/bssPhr89/"></a><a data-anchor="/document/16/221472/dfas4gpxdk/" data-dfa="dfas4gpxdk"></a>Ставка налога снижается на 50%</td><td style="width: 22.74%; vertical-align: middle;"><a data-anchor="/document/16/221472/bssPhr90/"></a><a data-anchor="/document/16/221472/dfas5obznp/" data-dfa="dfas5obznp"></a>С 1 сентября 2024 года до 1 января 2027 года</td><td style="width: 25.34%; vertical-align: middle;"><a data-anchor="/document/16/221472/bssPhr91/"></a><a data-anchor="/document/16/221472/dfasu8kldh/" data-dfa="dfasu8kldh"></a><span num="236" target="_blank" lnktype="intlnk" title="" class="doc">П. 7</span> постановления Президента Республики Узбекистан от 07.08.2024<br>№ ПП-286</td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><p><a data-anchor="/document/16/221472/dfasrsgagh/" data-dfa="dfasrsgagh"></a><a data-anchor="/document/16/221472/bssPhr92/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

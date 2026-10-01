@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Каким методом определять НДС, относимый в зачет</h2><div class="doc-snippet"><a data-anchor="/document/16/210667/dfasd6uiga/" data-dfa="dfasd6uiga"></a><a data-anchor="/document/16/210667/bssPhr2/"></a>Как выбрать метод определения НДС, относимого в зачет, узнаете из рекомендации экспертов Системы Главбух. В рекомендации найдете примеры, как рассчитать сумму НДС, относимого в зачет, применяя раздельный и пропорциональный методы. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210667/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210667/bssPhr3/"></a><a data-anchor="/document/16/210667/dfas01qawg/" data-dfa="dfas01qawg"></a>Методы определения НДС, относимого в зачет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210667/bssPhr5/"></a><a data-anchor="/document/16/210667/dfasl254mx/" data-dfa="dfasl254mx"></a>Если у налогоплательщика есть обороты, которые подлежат налогообложению и освобождены от налогообложения, то к зачету следует принимать сумму НДС, приходящуюся на оборот, подлежащий налогообложению.</p><p><a data-anchor="/document/16/210667/bssPhr6/"></a><a data-anchor="/document/16/210667/dfasapxv51/" data-dfa="dfasapxv51"></a>В этих условиях «входной» НДС по полученным счетам-фактурам нужно распределить, между облагаемым и необлагаемым оборотами, так как к зачету принимается сумма налога, приходящаяся на облагаемый оборот, включая оборот по «нулевой ставке».</p><p><a data-anchor="/document/16/210667/bssPhr8/"></a><a data-anchor="/document/16/210667/dfas4io037/" data-dfa="dfas4io037"></a>Метод определения суммы НДС, подлежащей зачету определите самостоятельно: <a href="https://1gb.uz/#/document/16/210667/dfas2lgsi5/">раздельный</a> или <a href="https://1gb.uz/#/document/16/210667/dfas4v0dbw/">пропорциональный</a> метод (<span num="20" target="_self" lnktype="intlnk" title="" class="doc">ст. 268</span> НК). Выбранный метод определения НДС, относимого в зачет, закрепите в учетной политике.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210667/bssPhr9/"></a><a data-anchor="/document/16/210667/dfasbscdq3/" data-dfa="dfasbscdq3"></a>Выбранный метод определения НДС, относимого в зачет, не подлежит изменению в течение календарного года.</p><div class="incut-v4__icon"></div></div><p style="text-align:left"><a data-anchor="/document/16/210667/bssPhr11/"></a><a data-anchor="/document/16/210667/dfasgzh14c/" data-dfa="dfasgzh14c"></a>Отличия методов в том, что при пропорциональном методе НДС, относимый в зачет, определяют исходя из удельного веса, облагаемого оборота, в общей сумме оборота без учета НДС, определяемого нарастающим итогом в течение текущего календарного года.</p><p style="text-align:left"><a data-anchor="/document/16/210667/bssPhr12/"></a><a data-anchor="/document/16/210667/dfash0gx72/" data-dfa="dfash0gx72"></a>При раздельном методе следует вести раздельный учет по расходам и суммам НДС по полученным товарам, услугам, используемым для оборотов, подлежащих налогообложению и освобожденных от налогообложения. При этом по общим затратам, по которым невозможно вести раздельный учет, разделение затрат производят пропорциональным методом.</p><p><a data-anchor="/document/16/210667/bssPhr13/"></a><a data-anchor="/document/16/210667/dfasezvefd/" data-dfa="dfasezvefd"></a>Когда необлагаемый оборот существенный, постоянный, имеет смысл выбрать раздельный метод.</p></div><a data-anchor="/document/16/210667/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210667/bssPhr14/"></a><a data-anchor="/document/16/210667/dfas2lgsi5/" data-dfa="dfas2lgsi5"></a>Применение раздельного метода определения НДС, относимого в зачет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210667/bssPhr17/"></a><a data-anchor="/document/16/210667/dfas6e1pre/" data-dfa="dfas6e1pre"></a>Если можете заранее определить, с какими оборотами – облагаемыми или освобожденными, будет связано использование полученных товаров и услуг, применяйте раздельный метод. При этом методе ведите раздельный учет по расходам и суммам НДС по полученным товарам, услугам, используемым для оборотов, подлежащих налогообложению и освобожденных от налогообложения.</p><p><a data-anchor="/document/16/210667/bssPhr18/"></a><a data-anchor="/document/16/210667/dfasprhgex/" data-dfa="dfasprhgex"></a>По общим затратам, которые невозможно разделить, применяйте пропорциональный метод. Как правило, это расходы, относящиеся к деятельности предприятия в целом.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Предприятие применяет раздельный метод определения суммы НДС, относимой в зачет</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210667/bssPhr20/"></a><a data-anchor="/document/16/210667/dfas6l9k5e/" data-dfa="dfas6l9k5e"></a>Предприятие приобрело сырье и материалы в рамках осуществляемой деятельности на 33 600 тыс. сумов, в том числе НДС – 3 600 тыс. сумов, которые были использованы:</p><ul class="c-list"><li><a data-anchor="/document/16/210667/bssPhr21/"></a><a data-anchor="/document/16/210667/dfaslo6ecf/" data-dfa="dfaslo6ecf"></a>для облагаемого оборота – 26 880 тыс. сумов (в том числе НДС- 2 880 тыс. сумов);</li><li>для оборота, освобожденного от НДС – 6 720 тыс. сумов (в том числе НДС 720 тыс. сумов).</li></ul><p><a data-anchor="/document/16/210667/bssPhr22/"></a><a data-anchor="/document/16/210667/dfasnv5zgy/" data-dfa="dfasnv5zgy"></a>Расходы на электроэнергию, коммунальные услуги, услуги связи составили 4 480 тыс. сумов, в том числе НДС – 480 тыс. сумов. По данным расходам, используемым одновременно для целей облагаемых оборотов и оборотов, освобождаемых от НДС, сумму НДС налогоплательщик имеет право разделить, применяя пропорциональный метод, т.е. по удельному весу облагаемого оборота в общей сумме оборота без учета НДС, определяемого нарастающим итогом в течение текущего календарного года.</p><p><a data-anchor="/document/16/210667/bssPhr23/"></a><a data-anchor="/document/16/210667/dfasp6c9g7/" data-dfa="dfasp6c9g7"></a>Доля&nbsp;облагаемого НДС, оборота в общем обороте с начала года составила 80 %, освобожденного – 20%. Следовательно, предприятие может отнести в зачет НДС по расходам на электроэнергию, коммунальные услуги, услуги связи в размере 384 тыс. сумов (480 тыс. сумов х 80 %).</p><p><a data-anchor="/document/16/210667/bssPhr24/"></a><a data-anchor="/document/16/210667/dfashp4uyy/" data-dfa="dfashp4uyy"></a>Всего к зачету принимается 2 664 тыс. сумов:</p><ul class="c-list"><li><a data-anchor="/document/16/210667/bssPhr25/"></a><a data-anchor="/document/16/210667/dfas18uyi8/" data-dfa="dfas18uyi8"></a>2 280 тыс. сумов – по сырью и материалам, используемым для облагаемого оборота;</li><li>384 тыс. сумов – по общим затратам.</li></ul><p><a data-anchor="/document/16/210667/bssPhr26/"></a><a data-anchor="/document/16/210667/dfasdmhwlo/" data-dfa="dfasdmhwlo"></a>НДС, не принятый к зачету при использовании пропорционального метода, отнесите на расходы, вычитаемые при исчислении налога на прибыль – 96 тыс. сумов (480 – 384)</p><p><a data-anchor="/document/16/210667/bssPhr27/"></a><a data-anchor="/document/16/210667/dfask8w1tf/" data-dfa="dfask8w1tf"></a>Сумму НДС по товарам, приобретенным для оборота, освобожденного от НДС – 720 тыс. сумов, включите в стоимость этих товаров.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как корректировать НДС при смешанном товарообороте, если&#160;нет возможности корректировать налог по каждому ЭСФ отдельно</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210667/bssPhr29/"></a><a data-anchor="/document/16/210667/dfasv0h5z3/" data-dfa="dfasv0h5z3"></a>Если предприятие ведет раздельный метод учета НДС, то входящий НДС принимается к зачету либо относится на расходы исходя из прямой принадлежности к облагаемым или необлагаемым оборотам.&nbsp;Но если нет возможности корректировать НДС по каждому ЭСФ, то предприятию не подходит раздельный метод учета, и стоит воспользоваться пропорциональным.</p><p><a data-anchor="/document/16/210667/bssPhr30/"></a><a data-anchor="/document/16/210667/dfasxesn27/" data-dfa="dfasxesn27"></a>Но учтите&nbsp;тот факт, что если предприятие ведет раздельный учет по облагаемым и необлагаемым НДС оборотам, то порядок зачета входящего НДС определяется выбранным методом учета и не подлежит изменению в течение календарного года.</p></div></div></div><a data-anchor="/document/16/210667/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210667/bssPhr31/"></a><a data-anchor="/document/16/210667/dfas4v0dbw/" data-dfa="dfas4v0dbw"></a>Применение пропорционального метода определения НДС, относимого в зачет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210667/bssPhr34/"></a><a data-anchor="/document/16/210667/dfas3ngb6l/" data-dfa="dfas3ngb6l"></a>Если не можете точно определить, в каком объеме полученные товары и услуги будут использованы в деятельности, связанной с облагаемыми и освобожденными от НДС оборотами, применяйте пропорциональный метод распределения «входного» НДС по всем приобретенным товарам и услугам. Как правило, пропорциональный метод также выбирают, если необлагаемый оборот незначительный.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Предприятие применяет пропорциональный метод определения суммы НДС, относимой в зачет</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210667/bssPhr36/"></a><a data-anchor="/document/16/210667/dfasstspz1/" data-dfa="dfasstspz1"></a>Общая чистая выручка от реализации товаров с начала года составила 65 000 тыс. сумов, в том числе:</p><ul class="c-list"><li><a data-anchor="/document/16/210667/bssPhr37/"></a><a data-anchor="/document/16/210667/dfasf23qb7/" data-dfa="dfasf23qb7"></a>облагаемый оборот - 45 000 тыс. сумов;</li><li>необлагаемый оборот - 20 000 тыс. сумов</li></ul><p><a data-anchor="/document/16/210667/bssPhr38/"></a><a data-anchor="/document/16/210667/dfassmsxw6/" data-dfa="dfassmsxw6"></a>НДС, начисленный на оборот по реализации: 45 000 х 12% = 5 400 тыс. сумов</p><p><a data-anchor="/document/16/210667/bssPhr39/"></a><a data-anchor="/document/16/210667/dfas1th3tr/" data-dfa="dfas1th3tr"></a>Предприятие приобрело сырье и материалы на 44 800 тыс. сумов, в том числе НДС – 4 800 тыс. сумов.</p><p><a data-anchor="/document/16/210667/bssPhr40/"></a><a data-anchor="/document/16/210667/dfasnlt6fx/" data-dfa="dfasnlt6fx"></a>Налогоплательщик не имеет право взять в зачет всю сумму НДС 4 800 тыс. сумов, так как не вся его реализация облагается НДС. Для зачета необходимо определить удельный вес облагаемого оборота в общем обороте, в процентах:</p><p><a data-anchor="/document/16/210667/bssPhr41/"></a><a data-anchor="/document/16/210667/dfasmznli5/" data-dfa="dfasmznli5"></a>Удельный вес 45 000÷65 000×100=69,2%.</p><p><a data-anchor="/document/16/210667/bssPhr42/"></a><a data-anchor="/document/16/210667/dfassoacpn/" data-dfa="dfassoacpn"></a>НДС, подлежащий зачету: 4 800 х 69,2% = 3 322 тыс. сумов.</p><p style="text-align:left"><a data-anchor="/document/16/210667/bssPhr43/"></a><a data-anchor="/document/16/210667/dfasm3zig5/" data-dfa="dfasm3zig5"></a>НДС, не принятый к зачету: 1 478 тыс. сумов (4 800 – 3 322) учитывайте в составе расходов, вычитаемых при исчислении налога на прибыль (<span num="10" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 268 НК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может ли предприятие&#160;при пропорциональном методе учета корректировать НДС не по каждому ЭСФ, а общей суммой</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210667/bssPhr45/"></a><a data-anchor="/document/16/210667/dfasl4zx15/" data-dfa="dfasl4zx15"></a>Да, может.</p><p><a data-anchor="/document/16/210667/bssPhr46/"></a><a data-anchor="/document/16/210667/dfass6y0e8/" data-dfa="dfass6y0e8"></a>При пропорциональном методе учета процент&nbsp;зачета НДС рассчитывается автоматически в Расчете НДС. Например, если по итогам отчетного периода программа определяет, что к зачету принимается 40 процентов входящего НДС, то 40&nbsp;процентов суммы НДС принимается к зачету, а оставшиеся 60&nbsp;процентов НДС списываются в соответствии со <span num="46" target="_blank" lnktype="intlnk" title="" class="doc">статьями 268</span> и <span num="47" target="_blank" lnktype="intlnk" title="" class="doc">269</span> НК.</p><p><a data-anchor="/document/16/210667/bssPhr47/"></a><a data-anchor="/document/16/210667/dfasygfqww/" data-dfa="dfasygfqww"></a>При этом корректировать НДС можно не по каждому ЭСФ отдельно, а общей суммой по итогам месяца.</p><p><a data-anchor="/document/16/210667/bssPhr48/"></a><a data-anchor="/document/16/210667/dfass3n0bu/" data-dfa="dfass3n0bu"></a>Не включаемый в зачет НДС относится на расходы периода в соответствии со <span num="48" target="_blank" lnktype="intlnk" title="" class="doc">статьями 268</span> и <span num="49" target="_blank" lnktype="intlnk" title="" class="doc">269</span> НК, и не включается в себестоимость товаров, материалов или основных средств.</p><p><a data-anchor="/document/16/210667/bssPhr49/"></a><a data-anchor="/document/16/210667/dfas92dn9u/" data-dfa="dfas92dn9u"></a>В бухучете отразите это проводками:</p><p><a data-anchor="/document/16/210667/bssPhr50/"></a><a data-anchor="/document/16/210667/dfasrngsoy/" data-dfa="dfasrngsoy"></a><strong>Дебет 6410&nbsp;Кредит 4410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210667/bssPhr51/"></a><a data-anchor="/document/16/210667/dfaseiswt8/" data-dfa="dfaseiswt8"></a>на сумму НДС, принимаемую к зачету;</li></ul><p><a data-anchor="/document/16/210667/bssPhr52/"></a><a data-anchor="/document/16/210667/dfasu2g8yq/" data-dfa="dfasu2g8yq"></a><strong>Дебет 9400 Кредит 4410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210667/bssPhr53/"></a><a data-anchor="/document/16/210667/dfasl77fgq/" data-dfa="dfasl77fgq"></a>на сумму НДС, не принимаемую к зачету.</li></ul></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210667/bssPhr54/"></a><a data-anchor="/document/16/210667/dfasolh8gf/" data-dfa="dfasolh8gf"></a>Налогоплательщик вправе в текущем налоговом периоде полностью отнести на стоимость приобретенных товаров (услуг) сумму НДС,</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210667/bssPhr55/"></a><a data-anchor="/document/16/210667/dfascb6rl8/" data-dfa="dfascb6rl8"></a>по фактически полученным товарам (услугам), в том числе по долгосрочным активам, если в этом текущем налоговом периоде доля оборотов, подлежащих налогообложению, не превышает 5 процентов от общей суммы оборота</p><p style="text-align:right"><a data-anchor="/document/16/210667/bssPhr56/"></a><a data-anchor="/document/16/210667/dfasc53dm6/" data-dfa="dfasc53dm6"></a>(<span num="32" target="_self" lnktype="intlnk" title="" class="doc">ч. 6</span> ст. 268 НК).</p></div><div class="incut-v4__icon"></div></div></div><p><a data-anchor="/document/16/210667/dfas7hozqe/" data-dfa="dfas7hozqe"></a><a data-anchor="/document/16/210667/bssPhr57/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

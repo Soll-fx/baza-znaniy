@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">НСБУ Минфина РУз от 03.12.1998 №№ 64, НСБУ № 11</div><h2 class="auth__title">Национальный стандарт бухгалтерского учета Республики Узбекистан (НСБУ № 11) Затраты на научно-исследовательские и опытно-конструкторские разработки</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/90/3995/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/3995/dfas5a7hoh/"></a><a data-anchor="/document/90/3995/tito5xsn/"></a>Зарегистрирован<br>Министерством юстиции Республики Узбекистан<br>от 28 декабря 1998 г.<br>Регистрационный № 581</p><p style="text-align:right"><a data-anchor="/document/90/3995/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/3995/dfas6afvcx/"></a>&#171;УТВЕРЖДЕН&#187;<br>Министерство финансов<br>Республики Узбекистан<br>Заместитель министра<br>Э.Ф. ГАДОЕВ<br>3 декабря 1998 года № 64</p><p style="text-align:center"><a data-anchor="/document/90/3995/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/3995/dfasx8xf7d/"></a><strong>НАЦИОНАЛЬНЫЙ СТАНДАРТ<br>бухгалтерского учета Республики Узбекистан (НСБУ № 11) Затраты на научно-исследовательские и опытно-конструкторские разработки</strong></p><div class="doc__untyped doc-start" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3995/tit1/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3995/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/3995/dfas3fqinb/"></a>ОБЩИЕ ПОЛОЖЕНИЯ</span></div><p><a data-anchor="/document/90/3995/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/3995/dfaspp793f/"></a>1. Настоящий Национальный стандарт бухгалтерского учета (НСБУ) разработан на основе&#160;Закона&#160;Республики Узбекистан &#171;О бухгалтерском учете&#187; и является элементом системы нормативного регулирования бухгалтерского учета в Республике Узбекистан.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3995/tit2/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3995/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/3995/dfas06t1xe/"></a>ЦЕЛЬ</span></div><p><a data-anchor="/document/90/3995/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/3995/dfas02g9pz/"></a>2. Целью настоящего стандарта является определение метода бухгалтерского учета затрат на научно-исследовательские и опытно-конструкторские разработки. Основной вопрос учета затрат на научно-исследовательские и опытно-конструкторские разработки состоит в признании таких затрат в качестве актива или расхода. Критерии признания определены в Концептуальной основе подготовки и представления финансовой отчетности.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3995/tit3/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3995/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/3995/dfasqagwig/"></a>СФЕРА ДЕЙСТВИЯ</span></div><p><a data-anchor="/document/90/3995/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/3995/dfasw76gva/"></a>3. Настоящий стандарт применяется при учете затрат на научно-исследовательские и опытно-конструкторские разработки.</p><p><a data-anchor="/document/90/3995/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/3995/dfasncs0fv/"></a>4. Настоящий стандарт не применяется к затратам по разведке и разработке нефтяных, газовых и минеральных месторождений в добывающих отраслях. Однако он применяется к затратам на другие исследования и разработки в этих отраслях.</p><p><a data-anchor="/document/90/3995/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/3995/dfas7x1936/"></a>5. Хозяйствующий субъект может вести исследования и разработки по контракту для другого хозяйствующего субъекта. Когда по условиям контракта все риски и выгоды, связанные с исследованиями и разработками, переносятся или будут переноситься на другой субъект, хозяйствующий субъект, осуществляющий эту деятельность, ведет учет затрат в соответствии с&#160;НСБУ&#160;&#171;<a data-anchor="/document/90/3995/backlinkanchor1/" data-role="backlink-anchor"></a><a class="npd" title="" href="https://1gb.uz/#/document/90/4006/">Товарно-материальные запасы</a>&#187; или&#160;НСБУ&#160;&#171;<a data-anchor="/document/90/3995/backlinkanchor2/" data-role="backlink-anchor"></a><a class="npd" title="" href="https://1gb.uz/#/document/90/4000/">Договоры подряда на капитальное строительство</a>&#187;. Хозяйствующий субъект, несущий риски и получающий выгоды от этой деятельности, учитывает эти затраты в соответствии с данным стандартом.</p><p><a data-anchor="/document/90/3995/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/3995/dfaseg1gry/"></a>6. Если по условиям контракта с другим хозяйствующим субъектом риски и выгоды, связанные с научно-исследовательскими и опытно-конструкторскими разработками, не переносятся или не будут переноситься на другой хозяйствующий субъект, то хозяйствующий субъект, занимающийся научно-исследовательскими и опытно-конструкторскими разработками, учитывает свои затраты в соответствии с этим стандартом.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3995/tit4/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3995/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/3995/dfasw31exa/"></a>ОПРЕДЕЛЕНИЯ</span></div><p><a data-anchor="/document/90/3995/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/3995/dfasrwi059/"></a>7. Термины, используемые в этом стандарте:</p><p><a data-anchor="/document/90/3995/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/3995/dfaskpngxr/"></a>Научно-исследовательские работы &#8211; это оригинальные и плановые изыскания, предпринятые с целью получения новых научных или технических знаний и идей.</p><p><a data-anchor="/document/90/3995/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/3995/dfasmg5zq3/"></a>Опытно-конструкторские работы &#8211; это применение результатов научно-исследовательских работ или других знаний для планирования или проектирования новых или существенно улучшенных материалов, механизмов, продуктов, технологий, систем или услуг до начала их производства или использования в коммерческих целях.</p><p><a data-anchor="/document/90/3995/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/3995/dfasyn8vf1/"></a>8. К научно-исследовательской деятельности относятся:</p><p><a data-anchor="/document/90/3995/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/3995/dfasxh4cva/"></a>8.1. Деятельность, нацеленная на получение новых знаний;</p><p><a data-anchor="/document/90/3995/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/3995/dfassuoo20/"></a>8.2. Поиск применения результатов научных исследований или других знаний;</p><p><a data-anchor="/document/90/3995/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/3995/dfasxnqp71/"></a>8.3. Поиск альтернативных технологий или продуктов;</p><p><a data-anchor="/document/90/3995/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/3995/dfaselo3md/"></a>8.4. Разработка нового или улучшенного продукта или альтернативной технологии;</p><p><a data-anchor="/document/90/3995/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/3995/dfash0sf9p/"></a>8.5. И другие.</p><p><a data-anchor="/document/90/3995/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/3995/dfas9mav4g/"></a>9. К опытно-конструкторской деятельности относятся:</p><p><a data-anchor="/document/90/3995/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/3995/dfasln8ft2/"></a>9.1. Оценка альтернативных технологий или продуктов;</p><p><a data-anchor="/document/90/3995/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/3995/dfasmhclsl/"></a>9.2. Проектирование, конструирование и испытание опытных образцов и моделей;</p><p><a data-anchor="/document/90/3995/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/3995/dfastcxylr/"></a>9.3. Разработка инструментов, зажимных приспособлений, литейных форм и матриц с применением новой технологии;</p><p><a data-anchor="/document/90/3995/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/3995/dfasfl8tzt/"></a>9.4. Проектирование, конструирование и испытание экспериментальных установок по своим масштабам не для коммерческого производства;</p><p><a data-anchor="/document/90/3995/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/3995/dfasrc72hc/"></a>9.5. И другие.</p><p><a data-anchor="/document/90/3995/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/3995/dfasak4s8v/"></a>10. Виды деятельности, тесно связанные с научно-исследовательской и опытно-конструкторской, но не относящиеся к ним:</p><p><a data-anchor="/document/90/3995/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/3995/dfas9k2k0o/"></a>10.1. Инженерная поддержка на начальном этапе производства;</p><p><a data-anchor="/document/90/3995/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/3995/dfasm76a4x/"></a>10.2. Контроль качества в процессе производства, включая повседневное тестирование продукции;</p><p><a data-anchor="/document/90/3995/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/3995/dfase5sooy/"></a>10.3. Устранение неисправностей, возникающих в процессе производства;</p><p><a data-anchor="/document/90/3995/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/3995/dfasq67t3g/"></a>10.4. Повседневные усилия, направленные на обновление, расширение или другое улучшение качества существующего продукта;</p><p><a data-anchor="/document/90/3995/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/3995/dfaspkh2hw/"></a>10.5. И другие.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3995/tit5/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3995/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/3995/dfasqvo100/"></a>СОСТАВ ЗАТРАТ НА НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЕ И ОПЫТНО-КОНСТРУКТОРСКИЕ РАЗРАБОТКИ</span></div><p><a data-anchor="/document/90/3995/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/3995/dfasb2mdkk/"></a>11. В затраты на научно-исследовательские и опытно-конструкторские разработки включаются все затраты, непосредственно связанные с научно-исследовательской и опытно-конструкторской деятельностью или которые могут быть обоснованно отнесены к этим видам деятельности.</p><p><a data-anchor="/document/90/3995/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/3995/dfasxqd3bf/"></a>12. На научно-исследовательские и опытно-конструкторские разработки включаются следующие затраты:</p><p><a data-anchor="/document/90/3995/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/3995/dfaslr6gqf/"></a>12.1. Затраты на заработную плату и прочие выплаты работникам, занятым в научно-исследовательских и опытно-конструкторских разработках;</p><p><a data-anchor="/document/90/3995/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/3995/dfasuang0t/"></a>12.2. Стоимость материалов и услуг, используемых в ходе научно-исследовательских и опытно-конструкторских разработок;</p><p><a data-anchor="/document/90/3995/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/3995/dfas1og7zn/"></a>12.3. Износ основных средств по мере использования этих активов в научно-исследовательских и опытно-конструкторских разработках;</p><p><a data-anchor="/document/90/3995/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/3995/dfaskx3gxv/"></a>12.4. Накладные расходы, непосредственно связанные с научно-исследовательскими и опытно-конструкторскими разработками;</p><p><a data-anchor="/document/90/3995/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/3995/dfasc3hfa5/"></a>12.5. Прочие расходы, такие как амортизация патентов и лицензий в той степени, в какой эти активы используются в научно-исследовательских и опытно-конструкторских разработках.</p><p><a data-anchor="/document/90/3995/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/3995/dfasuwmgbp/"></a>13. Расходы на реализацию не включаются в затраты на научно-исследовательские и опытно-конструкторские разработки.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3995/tit6/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3995/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/3995/dfasp65qu1/"></a>ПРИЗНАНИЕ ЗАТРАТ НА НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЕ И ОПЫТНО-КОНСТРУКТОРСКИЕ РАЗРАБОТКИ</span></div><p><a data-anchor="/document/90/3995/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/3995/dfasi81t20/"></a>14. Затраты на научно-исследовательские разработки признаются в качестве расхода в том отчетном периоде, когда они были понесены, и не должны признаваться активом в последующем периоде.</p><p><a data-anchor="/document/90/3995/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/3995/dfas4udupu/"></a>15. Затраты на опытно-конструкторские разработки признаются в качестве расхода в том отчетном периоде, когда они были понесены, если они не удовлетворяют критериям признания актива, указанным в&#160;<a href="https://1gb.uz/#/document/90/3995/h1/" title="16. Затраты на опытно-конструкторские разработки признаются активом, когда они соответствуют следующим критериям:" class="anc npd" anchor="#h1">параграфе 16</a>.</p><p><a data-anchor="/document/90/3995/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/3995/dfasaha84i/"></a>Затраты на опытно-конструкторские разработки, первоначально признанные в качестве расходов, не следует признавать в качестве активов в последующие отчетные периоды.</p><p><a data-anchor="/document/90/3995/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/3995/dfasgc26iv/"></a><a data-anchor="/document/90/3995/h1/"></a>16. Затраты на опытно-конструкторские разработки признаются активом, когда они соответствуют следующим критериям:</p><p><a data-anchor="/document/90/3995/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/3995/dfasa3824i/"></a>16.1. Продукт или процесс четко определен, а затраты, относящиеся к продукту или процессу, могут быть отдельно установлены и надежно измерены;</p><p><a data-anchor="/document/90/3995/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/3995/dfas86blw0/"></a>16.2. Техническая осуществимость продукта или процесса может быть продемонстрирована;</p><p><a data-anchor="/document/90/3995/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/3995/dfasv4zcw8/"></a>16.3. Хозяйствующий субъект намеревается производить, продавать или использовать продукт или технологию;</p><p><a data-anchor="/document/90/3995/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/3995/dfasw9ok5z/"></a>16.4. Наличие рынка для продукта или технологии, или в случае использования его внутри субъекта вместо его продажи, его польза для субъекта может быть продемонстрирована;</p><p><a data-anchor="/document/90/3995/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/3995/dfasguuwyv/"></a>16.5. Наличие достаточных ресурсов или возможность продемонстрировать их доступность для завершения проекта и поставки на рынок, или применение продукта или технологии.</p><p><a data-anchor="/document/90/3995/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/3995/dfaskgbr3b/"></a><a data-anchor="/document/90/3995/h4/"></a>17. Затраты на опытно-конструкторские работы, признанные как актив, не должны превышать сумму, которая может быть возмещена за счет соответствующих будущих доходов после вычета:</p><p><a data-anchor="/document/90/3995/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/3995/dfas35nzxw/"></a>дальнейших затрат на опытно-конструкторские работы;</p><p><a data-anchor="/document/90/3995/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/3995/dfasykocp1/"></a>соответствующих производственных затрат;</p><p><a data-anchor="/document/90/3995/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/3995/dfas7xeain/"></a>административных расходов и расходов на реализацию, понесенных непосредственно при реализации продукта.</p><p><a data-anchor="/document/90/3995/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/3995/dfaslvz9nl/"></a>18. Так как затраты на опытно-конструкторскую разработку проекта могут отвечать определению актива, эти затраты могут не соответствовать критериям признания актива из-за недостаточной определенности того, что хозяйствующий субъект получит в результате этих затрат будущие экономические выгоды. В таких условиях затраты на опытно-конструкторские разработки признаются расходом в периоде, когда они были понесены, и не признаются активом в последующем периоде.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3995/tit7/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3995/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/3995/dfasq8n74z/"></a>АМОРТИЗАЦИЯ ЗАТРАТ НА ОПЫТНО-КОНСТРУКТОРСКИЕ РАБОТЫ</span></div><p><a data-anchor="/document/90/3995/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/3995/dfas5mklsy/"></a><a data-anchor="/document/90/3995/h2/"></a>19. Сумма затрат на опытно-конструкторские работы, признанная как актив, должна амортизироваться и признаваться в качестве расхода на систематической основе. При этом субъект ссылается на:</p><p><a data-anchor="/document/90/3995/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/3995/dfasvvvh8u/"></a>19.1. Доходы или прочие выгоды от продажи или использования продукта или технологии;</p><p><a data-anchor="/document/90/3995/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/3995/dfasg0mgix/"></a>19.2. Период времени, в течение которого предполагается продажа или использование продукта или технологии.</p><p><a data-anchor="/document/90/3995/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/3995/dfasq0ldku/"></a>Амортизация начинается с момента готовности продукта или технологии к продаже или использованию.</p><p><a data-anchor="/document/90/3995/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/3995/dfasxwe94v/"></a>20. Амортизируемую сумму затрат на опытно-конструкторские работы, признанную как актив, следует распределять на систематической основе в течение наиболее короткого из следующих сроков:</p><p><a data-anchor="/document/90/3995/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/3995/dfasafvzl7/"></a>20.1. Срока службы актива;</p><p><a data-anchor="/document/90/3995/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/3995/dfas22ivpi/"></a>20.2. В течение пяти лет с даты его первоначального признания.</p><p><a data-anchor="/document/90/3995/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/3995/dfasxg3zxo/"></a>21. В некоторых случаях экономические выгоды, полученные в результате затрат на опытно-конструкторские работы, поглощаются хозяйствующим субъектом при производстве других активов и не признаются в качестве расходов. В этом случае амортизация этих затрат составляет часть стоимости другого актива и включается в балансовую стоимость. Например, затраты на опытно-конструкторские работы, ранее признанные активом, могут быть включены в стоимость производственных ТМЗ (<a data-anchor="/document/90/3995/backlinkanchor4/" data-role="backlink-anchor"></a><a class="npd" title="" href="https://1gb.uz/#/document/90/4006/">НСБУ № 4</a> &#171;Товарно-материальные запасы&#187;). Затраты на опытно-конструкторские работы, включенные в балансовые стоимости других активов, таким образом признаются расходом в то же время, что и прочие затраты этих активов.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3995/tit8/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3995/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/3995/dfasgtumpo/"></a>УМЕНЬШЕНИЕ ЗАТРАТ НА ОПЫТНО-КОНСТРУКТОРСКИЕ РАБОТЫ</span></div><p><a data-anchor="/document/90/3995/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/3995/dfasbb48eg/"></a><a data-anchor="/document/90/3995/h5/"></a>22. Сумму затрат на опытно-конструкторские работы по проекту следует уменьшать до величины несамортизированного остатка с учетом дальнейших затрат на опытно-конструкторские работы, соответствующих производственным затратам, административным расходам и расходам на реализацию, понесенным непосредственно при реализации продукта или технологии, которые не могут быть покрыты за счет будущих доходов.</p><p><a data-anchor="/document/90/3995/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/3995/dfasixagnh/"></a>Несамортизированный остаток затрат на опытно-конструкторские работы подлежит списанию, если эти затраты не отвечают любому из критериев признания их активом, приведенному в&#160;<a href="https://1gb.uz/#/document/90/3995/h1/" title="16. Затраты на опытно-конструкторские разработки признаются активом, когда они соответствуют следующим критериям:" class="anc npd" anchor="#h1">пункте 16</a>. Сумму полного или частичного списания следует признать как расход в том периоде, когда произошло такое частичное или полное списание.</p><p><a data-anchor="/document/90/3995/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/3995/dfasy216oy/"></a><a data-anchor="/document/90/3995/h3/"></a>23. Частично или полностью списанную в соответствии с&#160;<a href="https://1gb.uz/#/document/90/3995/h5/" title="22. Сумму затрат на опытно-конструкторские работы по проекту следует уменьшать до величины несамортизированного остатка с учетом дальнейших затрат на опытно-конструкторские работы,.." class="anc npd" anchor="#h5">параграфом 22</a>&#160;сумму затрат на опытно-конструкторские работы следует восстановить в тех случаях, когда события и обстоятельства, приведшие к полному или частичному списанию, перестают существовать и существует убедительное свидетельство того, что новые события и обстоятельства будут существовать в обозримом будущем. Восстановленную сумму следует уменьшить на сумму, которая была бы признана как амортизация в соответствии с&#160;<a href="https://1gb.uz/#/document/90/3995/h4/" title="17. Затраты на опытно-конструкторские работы, признанные как актив, не должны превышать сумму, которая может быть возмещена за счет соответствующих будущих доходов после вычета:" class="anc npd" anchor="#h4">параграфом 17</a>, если не было полного или частичного списания. Восстановленную сумму следует признавать как уменьшение суммы затрат на опытно-конструкторские работы, признанные как расходы периода.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3995/tit9/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3995/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/3995/dfasn6bmzv/"></a>РАСКРЫТИЕ</span></div><p><a data-anchor="/document/90/3995/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/3995/dfasdhr64q/"></a>24. Финансовые отчеты должны раскрывать:</p><p><a data-anchor="/document/90/3995/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/3995/dfas1fircn/"></a>24.1. Учетную политику, принятую для затрат на научно-исследовательские и опытно-конструкторские разработки;</p><p><a data-anchor="/document/90/3995/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/3995/dfasn0wikg/"></a>24.2. Сумму затрат на научно-исследовательские и опытно-конструкторские разработки, признанные как расход в отчетном периоде;</p><p><a data-anchor="/document/90/3995/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/3995/dfasbsgymi/"></a>24.3. Используемые методы амортизации;</p><p><a data-anchor="/document/90/3995/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/3995/dfaswdg67a/"></a>24.4. Принятые сроки полезной службы или нормы амортизации;</p><p><a data-anchor="/document/90/3995/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/3995/dfasuqeeks/"></a>24.5. Остаток несамортизированных затрат на опытно-конструкторские работы в начале и в конце отчетного периода, указывая:</p><p><a data-anchor="/document/90/3995/bssPhr79/" data-role="phrase-anchor" data-phrase-id="79" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr79"></a><a data-anchor="/document/90/3995/dfasdpgw0b/"></a>24.5.1. Затраты на опытно-конструкторские работы, признанные активом в соответствии с&#160;<a href="https://1gb.uz/#/document/90/3995/h1/" title="16. Затраты на опытно-конструкторские разработки признаются активом, когда они соответствуют следующим критериям:" class="anc npd" anchor="#h1">пунктом 16</a>;</p><p><a data-anchor="/document/90/3995/bssPhr80/" data-role="phrase-anchor" data-phrase-id="80" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr80"></a><a data-anchor="/document/90/3995/dfassw80c1/"></a>24.5.2. Затраты на опытно-конструкторские работы, признанные расходом в соответствии с&#160;пунктами <a href="https://1gb.uz/#/document/90/3995/h2/" title="19. Сумма затрат на опытно-конструкторские работы, признанная как актив, должна амортизироваться и признаваться в качестве расхода на систематической основе. При этом субъект ссылается на:" class="anc npd" anchor="#h2">19</a>&#160;и&#160;<a href="https://1gb.uz/#/document/90/3995/h5/" title="22. Сумму затрат на опытно-конструкторские работы по проекту следует уменьшать до величины несамортизированного остатка с учетом дальнейших затрат на опытно-конструкторские работы,.." class="anc npd" anchor="#h5">22</a>;</p><p><a data-anchor="/document/90/3995/bssPhr81/" data-role="phrase-anchor" data-phrase-id="81" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr81"></a><a data-anchor="/document/90/3995/dfast5w0qi/"></a>24.5.3. Затраты на опытно-конструкторские работы, отнесенные на счета других активов;</p><p><a data-anchor="/document/90/3995/bssPhr82/" data-role="phrase-anchor" data-phrase-id="82" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr82"></a><a data-anchor="/document/90/3995/dfas8igxq8/"></a>24.5.4. Затраты на опытно-конструкторские работы, восстановленные в соответствии с&#160;<a href="https://1gb.uz/#/document/90/3995/h3/" title="23. Частично или полностью списанную в соответствии с параграфом 22 сумму затрат на опытно-конструкторские работы следует восстановить в тех случаях, когда события и обстоятельства,.." class="anc npd" anchor="#h3">пунктом 23</a>.</p><div class="doc__untyped" data-type="untyped" data-level="1"><a data-role="toc" data-anchor="/document/90/3995/tit10/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/3995/bssPhr83/" data-role="phrase-anchor" data-phrase-id="83" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr83"></a><a data-anchor="/document/90/3995/dfasqg89m3/"></a>ПЕРЕХОДНЫЕ ПОЛОЖЕНИЯ</span></div><p><a data-anchor="/document/90/3995/bssPhr84/" data-role="phrase-anchor" data-phrase-id="84" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr84"></a><a data-anchor="/document/90/3995/dfasbn2hm5/"></a>25. В тех случаях, когда принятие этого стандарта влечет за собой изменение в учетной политике, хозяйствующему субъекту следует скорректировать свою финансовую отчетность в соответствии с&#160;<a data-anchor="/document/90/3995/backlinkanchor12/" data-role="backlink-anchor"></a><a class="npd" title="" href="https://1gb.uz/#/document/90/4005/">НСБУ № 3</a>&#160;&#171;Отчет о финансовых результатах&#187;. Вместе с тем хозяйствующий субъект должен отражать в виде актива только те затраты на опытно-конструкторские работы, которые были понесены после даты вступления в силу этого стандарта и при удовлетворении критериям, перечисленным в&#160;<a href="https://1gb.uz/#/document/90/3995/h1/" title="16. Затраты на опытно-конструкторские разработки признаются активом, когда они соответствуют следующим критериям:" class="anc npd" anchor="#h1">пункте 16</a>.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

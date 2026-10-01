@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как пользоваться персональным кабинетом налогоплательщика</h2><div class="doc-snippet"><a data-anchor="/document/16/210438/dfasqkhcpl/" data-dfa="dfasqkhcpl"></a><a data-anchor="/document/16/210438/bssPhr2/"></a><strong>.</strong> </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210438/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210438/bssPhr3/"></a><a data-anchor="/document/16/210438/dfaskqdcvr/" data-dfa="dfaskqdcvr"></a>Персональный кабинет налогоплательщика</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210438/bssPhr5/"></a><a data-anchor="/document/16/210438/dfasx0go6q/" data-dfa="dfasx0go6q"></a>Персональный кабинет налогоплательщика – это удобный инструмент для тех, кто платит налоги и другие обязательные платежи. Он позволяет экономить время, пользоваться госуслугами на расстоянии, создает удобства в правоотношениях с налоговой инспекцией.</p><p><a data-anchor="/document/16/210438/bssPhr6/"></a><a data-anchor="/document/16/210438/dfas22c1gl/" data-dfa="dfas22c1gl"></a>Персональный кабинет налогоплательщика создают в течение трех дней с момента постановки на учет в налоговой инспекции каждого налогоплательщика – физлица, юрлица, индивидуального предпринимателя.</p><p><a data-anchor="/document/16/210438/bssPhr7/"></a><a data-anchor="/document/16/210438/dfasur2nyc/" data-dfa="dfasur2nyc"></a>Персональный кабинет доступен на официальном <a href="http://my.soliq.uz" data-warm-notices="18013397" data-warm-notice-type="error" target="_self" title="">сайте </a>ГНК&nbsp;(<span num="1" target="_self" lnktype="intlnk" title="Шахсий кабинет жисмоний шахс, якка тартибдаги тадбиркор ёки юридик шахс солиқ тўловчи сифатида давлат солиқ хизмати органларида ҳисобга қўйилган кундан бошлаб уч иш куни ичида Ўзбекистон..." class="doc">п. 4</span> Положения о порядке пользования персональным кабинетом налогоплательщика, рег. № 2926 от 05.09.2017). Налогоплательщик может иметь только один персональный кабинет вне зависимости от места постановки на учет (<span num="3" target="_self" lnktype="intlnk" title="Солиқ тўловчи фақат битта шахсий кабинетга эга бўлиши мумкин. Солиқ тўловчини ҳисобга олиш жойидан қатъи назар, унинг давлат солиқ хизмати органлари билан ўзаро муносабатлари битта..." class="doc">п. 5</span> Положения № 2926).</p><p><a data-anchor="/document/16/210438/bssPhr8/"></a><a data-anchor="/document/16/210438/dfasg0zi0m/" data-dfa="dfasg0zi0m"></a>Чтобы начать пользоваться персональным кабинетом, нужно:</p><ol class="c-list"><li><a data-anchor="/document/16/210438/bssPhr9/"></a><a data-anchor="/document/16/210438/dfasxobqgt/" data-dfa="dfasxobqgt"></a>войти в персональный кабинет;</li><li><a data-anchor="/document/16/210438/bssPhr10/"></a><a data-anchor="/document/16/210438/dfasbptxqw/" data-dfa="dfasbptxqw"></a>активировать его.</li></ol></div><a data-anchor="/document/16/210438/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210438/bssPhr11/"></a><a data-anchor="/document/16/210438/dsertfyg6/"></a><a data-anchor="/document/16/210438/dfass6i5ri/" data-dfa="dfass6i5ri"></a><a data-anchor="/document/16/210438/dfasxgu0hd/" data-dfa="dfasxgu0hd"></a><a data-anchor="/document/16/210438/dfasmhkimk/" data-dfa="dfasmhkimk"></a>Вход в персональный кабинет налогоплательщика</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210438/bssPhr13/"></a><a data-anchor="/document/16/210438/dfasve1a3p/" data-dfa="dfasve1a3p"></a>Для входа в персональный кабинет нужна ЭЦП налогоплательщика (<span num="5" target="_self" lnktype="intlnk" title="Шахсий кабинетга кириш солиқ тўловчининг электрон рақамли имзоси қўлланилган ҳолда ягона идентификация қилиш тизими орқали амалга оширилади. Бунда:" class="doc">п. 8</span> Положения № 2926). Если физлицо состоит на учете в налоговых органах в качестве руководителя юрлица, то физлицо с помощью своей ЭЦП может войти в кабинет юрлица (<span num="7" target="_self" lnktype="intlnk" title="Агар жисмоний шахс давлат солиқ хизмати органларида юридик шахснинг раҳбари сифатида ҳисобда турган бўлса, ушбу жисмоний шахс ўз электрон рақамли имзоси калити билан юридик шахснинг..." class="doc">п. 9</span> Положения № 2926). О том, как получить ЭЦП, можете прочитать <span num="9" lnktype="intlnk" title="" class="doc">здесь</span>. Чтобы войти в персональный кабинет с сайта my.soliq.uz, перейдите на Портал электронных госуслуг налоговых органов. В левой стороне окна найдите колонку «Персональные кабинеты», которая разделена на три категории: для физлиц (зеленый цвет), юрлиц (синий цвет) и ИП (фиолетовый цвет). Нажмите на кнопку «Вход в кабинет» в соответствующей категории:</p><img alt="" hideborder="false" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr14/"></a><a data-anchor="/document/16/210438/dfasd2ewrh/" data-dfa="dfasd2ewrh"></a>Для входа в кабинет на компьютере должен быть установлен модуль E-IMZO. Если он не установлен, система автоматически предложит загрузить его и установить. О том, как это сделать, читайте <span num="12" lnktype="intlnk" title="Как получить электронную цифровую подпись (ЭЦП)..." class="doc">здесь</span>.</p><p><a data-anchor="/document/16/210438/bssPhr15/"></a><a data-anchor="/document/16/210438/dfasd08f6a/" data-dfa="dfasd08f6a"></a>После установки модуля в появившемся окне нажмите на стрелку вниз для выбора своей ЭЦП из выпадающего списка. Нажмите на кнопку «Войти»:</p><img alt="" hideborder="false" class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr16/"></a><a data-anchor="/document/16/210438/dfaswggf0x/" data-dfa="dfaswggf0x"></a>В появившемся окне наберите пароль от ЭЦП. Если часто используете персональный кабинет налогоплательщика, поставьте галочку перед надписью «Запомнить на 6 час». Это означает, что в течение последующих 6 часов при входе в персональный кабинет пароль от ЭЦП не будут запрашивать. После нажмите на кнопку «ОК».</p><img alt="" hideborder="false" class="inimg" num="3" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr17/"></a><a data-anchor="/document/16/210438/dfasg4ewut/" data-dfa="dfasg4ewut"></a>Система войдет в персональный кабинет. Он содержит 6 основных разделов:</p><ol class="c-list"><li><a data-anchor="/document/16/210438/bssPhr18/"></a><a data-anchor="/document/16/210438/dfasllpl67/" data-dfa="dfasllpl67"></a>Строка состояния и переходов:</li></ol><img alt="" hideborder="false" class="inimg" num="4" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ol class="c-list" style="counter-reset: item 1;" start="2"><li><a data-anchor="/document/16/210438/bssPhr19/"></a><a data-anchor="/document/16/210438/dfasiq1ear/" data-dfa="dfasiq1ear"></a>Услуги:</li></ol><img alt="" hideborder="false" class="inimg" num="5" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ol class="c-list" style="counter-reset: item 2;" start="3"><li><a data-anchor="/document/16/210438/bssPhr20/"></a><a data-anchor="/document/16/210438/dfasusil3e/" data-dfa="dfasusil3e"></a>Управление информацией о налогоплательщике:</li></ol><img alt="" hideborder="false" class="inimg" num="6" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ol class="c-list" style="counter-reset: item 3;" start="4"><li><a data-anchor="/document/16/210438/bssPhr21/"></a><a data-anchor="/document/16/210438/dfas9nbsgw/" data-dfa="dfas9nbsgw"></a>Текущее состояние расчетов:</li></ol><img alt="" hideborder="false" class="inimg" num="7" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ol class="c-list" style="counter-reset: item 4;" start="5"><li><a data-anchor="/document/16/210438/bssPhr22/"></a><a data-anchor="/document/16/210438/dfasim79f6/" data-dfa="dfasim79f6"></a>Переписка с налоговыми органами:</li></ol><img alt="" hideborder="false" class="inimg" num="8" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><ol class="c-list" style="counter-reset: item 5;" start="6"><li><a data-anchor="/document/16/210438/bssPhr23/"></a><a data-anchor="/document/16/210438/dfasaxfxzu/" data-dfa="dfasaxfxzu"></a>Полезная информация:</li></ol><img alt="" hideborder="false" class="inimg" num="9" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div><a data-anchor="/document/16/210438/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210438/bssPhr24/"></a><a data-anchor="/document/16/210438/dsertfyg12/"></a><a data-anchor="/document/16/210438/dfasnd7mch/" data-dfa="dfasnd7mch"></a><a data-anchor="/document/16/210438/dfasw1vv7f/" data-dfa="dfasw1vv7f"></a>Активация персонального кабинета налогоплательщика</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210438/bssPhr26/"></a><a data-anchor="/document/16/210438/dfastv90t9/" data-dfa="dfastv90t9"></a>Для полноценного пользования персональным кабинетом, кроме входа нужна еще и активация. Активация означает согласие налогоплательщика на взаимодействие с налоговым органом в электронной форме, в том числе относительно соблюдения прав и обязанностей каждой из сторон, предусмотренных налоговым законодательством. Налогоплательщик активирует персональный кабинет самостоятельно и добровольно (<span num="22" target="_self" lnktype="intlnk" title="Шахсий кабинетни активлаштириш ёки амал қилишини тўхтатиб туриш солиқ тўловчи томонидан ихтиёрий равишда амалга оширилади." class="doc">п. 6</span> Положения № 2926). Чтобы активировать кабинет, можно подать заявление:</p><ol class="c-list"><li><a data-anchor="/document/16/210438/bssPhr27/"></a><a data-anchor="/document/16/210438/dfas460eli/" data-dfa="dfas460eli"></a>в налоговую инспекцию по месту постановки на учет;</li><li><a data-anchor="/document/16/210438/bssPhr28/"></a><a data-anchor="/document/16/210438/dfasratrux/" data-dfa="dfasratrux"></a>онлайн на официальном веб-сайте ГНК (<span num="24" target="_self" lnktype="intlnk" title="Шахсий кабинетни активлаштириш ёки амал қилишини тўхтатиб туриш учун солиқ тўловчи томонидан тегишлича ушбу Низомнинг 1, 2 ва 3-иловаларида келтирилган шакл бўйича бевосита ҳисобга..." class="doc">абз. 1</span> п. 7 Положения № 2926).</li></ol><p><a data-anchor="/document/16/210438/bssPhr29/"></a><a data-anchor="/document/16/210438/dfasfst191/" data-dfa="dfasfst191"></a>Подача заявления в электронной форме сэкономит время и позволит активировать персональный кабинет в считанные минуты.</p><p><a data-anchor="/document/16/210438/bssPhr30/"></a><a data-anchor="/document/16/210438/dfaserp2ip/" data-dfa="dfaserp2ip"></a>Для подачи онлайн-заявления об активации на главной странице нажмите кнопку «Услуги» и найдите услугу «Активация персонального кабинета», затем нажмите на «Заявление для активации персонального кабинета»:</p><img alt="" hideborder="false" class="inimg" num="10" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr31/"></a><a data-anchor="/document/16/210438/dfascy1hci/" data-dfa="dfascy1hci"></a>В появившемся окне выйдет онлайн-анкета, в которой поставьте «галочку» перед словом «активировать», укажите номер телефона, на который будут приходить СМС-уведомления о новых документах (<span num="27" target="_self" lnktype="intlnk" title="Шахсий кабинетга янги ҳужжат келиб тушганда солиқ тўловчининг аризасида кўрсатилган мобиль телефони рақамига автомат тарзда СМС хабарнома юборилади." class="doc">п. 13</span> Положения № 2926), и нажмите на зеленую кнопку «Отправить».</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210438/dfasntu725/" data-dfa="dfasntu725"></a><a data-anchor="/document/16/210438/bssPhr32/"></a>Персональный кабинет считается активированным со дня подачи заявления.</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/210438/bssPhr33/"></a><a data-anchor="/document/16/210438/dfaslpxmdg/" data-dfa="dfaslpxmdg"></a><span num="55" target="_self" lnktype="intlnk" title="" class="doc">абз. 2</span> п. 7 Положения № 2926</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/210438/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/210438/bssPhr34/"></a><a data-anchor="/document/16/210438/dsertfyg11/"></a><a data-anchor="/document/16/210438/dfaszimswv/" data-dfa="dfaszimswv"></a><a data-anchor="/document/16/210438/dfas045c5t/" data-dfa="dfas045c5t"></a>Документы, которые можно отправлять через персональный кабинет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210438/bssPhr36/"></a><a data-anchor="/document/16/210438/dfasm2ci24/" data-dfa="dfasm2ci24"></a>Через персональный кабинет можно отправлять:</p><ol class="c-list"><li><a data-anchor="/document/16/210438/bssPhr37/"></a><a data-anchor="/document/16/210438/dfasdzqbw1/" data-dfa="dfasdzqbw1"></a>Заявление об исполнении, отказе от исполнения взаимоотношений с налоговым органом в электронной форме.</li><li><a data-anchor="/document/16/210438/bssPhr38/"></a><a data-anchor="/document/16/210438/dfas8mv562/" data-dfa="dfas8mv562"></a>Документы, возможность отправки которых через персональный кабинет предусмотрена НК – налоговые отчеты, ЭСФ.</li><li><a data-anchor="/document/16/210438/bssPhr39/"></a><a data-anchor="/document/16/210438/dfas77e5wy/" data-dfa="dfas77e5wy"></a>Другие документы, в том числе и обращения в налоговые органы (<span num="31" target="_self" lnktype="intlnk" title="Солиқ тўловчи шахсий кабинет орқали давлат солиқ хизмати органларига:" class="doc">абз. 1</span> п. 10 Положения № 2926).</li></ol><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210438/dfascdhmu1/" data-dfa="dfascdhmu1"></a><a data-anchor="/document/16/210438/bssPhr40/"></a>При отправке через активированный персональный кабинет налогоплательщика документов, подпадающих под три вышеуказанные категории, отправлять их в бумажной форме не нужно.</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/210438/bssPhr41/"></a><a data-anchor="/document/16/210438/dfaswt6f1d/" data-dfa="dfaswt6f1d"></a>&nbsp;<span num="56" target="_self" lnktype="intlnk" title="" class="doc">п. 12</span> Положения № 2926</p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/210438/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/210438/bssPhr42/"></a><a data-anchor="/document/16/210438/dsertfyg10/"></a><a data-anchor="/document/16/210438/dfas2i2a5q/" data-dfa="dfas2i2a5q"></a>Документы, которые могут быть получены через персональный кабинет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210438/bssPhr44/"></a><a data-anchor="/document/16/210438/dfas2x56di/" data-dfa="dfas2x56di"></a><a data-anchor="/document/16/210438/dfas1qf8qt/" data-dfa="dfas1qf8qt"></a>Через персональный кабинет налоговые органы могут отправлять налогоплательщику:</p><ol class="c-list"><li><a data-anchor="/document/16/210438/bssPhr45/"></a><a data-anchor="/document/16/210438/dfas4ku470/" data-dfa="dfas4ku470"></a>Документы, возможность отправки которых через персональный кабинет предусмотрена НК.</li><li><a data-anchor="/document/16/210438/bssPhr46/"></a><a data-anchor="/document/16/210438/dfas6qrci1/" data-dfa="dfas6qrci1"></a>Оповещение об отказе в выдаче карточки регистрации ККТ, выдаваемой налогоплательщику.</li><li><a data-anchor="/document/16/210438/bssPhr47/"></a><a data-anchor="/document/16/210438/dfasydgq32/" data-dfa="dfasydgq32"></a>Карточку регистрации ККТ, выдаваемую налогоплательщику.</li><li><a data-anchor="/document/16/210438/bssPhr48/"></a><a data-anchor="/document/16/210438/dfasuuzo22/" data-dfa="dfasuuzo22"></a>Другие документы, в том числе и ответные письма на обращения налогоплательщиков в налоговые органы&nbsp;(<span num="35" target="_self" lnktype="intlnk" title="Давлат солиқ хизмати органлари шахсий кабинет орқали солиқ тўловчиларга:" class="doc">абз. 1</span> п. 16 Положения № 2926).</li></ol><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210438/dfasebzfud/" data-dfa="dfasebzfud"></a><a data-anchor="/document/16/210438/bssPhr49/"></a>Налоговый орган при отправке через активированный персональный кабинет налогоплательщика документов не обязан одновременно отправлять их налогоплательщику в бумажной форме.</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/210438/bssPhr50/"></a><a data-anchor="/document/16/210438/dfasa1q00g/" data-dfa="dfasa1q00g"></a>&nbsp;<span num="57" target="_self" lnktype="intlnk" title="" class="doc">п. 17</span> Положения № 2926</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/210438/bssPhr51/"></a><a data-anchor="/document/16/210438/dfasm406f1/" data-dfa="dfasm406f1"></a>Документы должны быть повторно отправлены налогоплательщику в бумажной форме, если налоговый орган отправил налогоплательщику документы в электронной форме через персональный кабинет, а в день отправки:</p><ul class="c-list"><li><a data-anchor="/document/16/210438/bssPhr52/"></a><a data-anchor="/document/16/210438/dfasohhz8p/" data-dfa="dfasohhz8p"></a>налогоплательщик подал заявление о приостановлении действия персонального кабинета;</li><li>истек срок действия сертификата ключа ЭЦП;</li><li>сертификат аннулирован.</li></ul><p><a data-anchor="/document/16/210438/bssPhr53/"></a><a data-anchor="/document/16/210438/dfasgm5hsy/" data-dfa="dfasgm5hsy"></a>Отправленные в электронной форме документы должны быть повторно отправлены в бумажной форме в течение трех дней (<span num="39" target="_self" lnktype="intlnk" title="Давлат солиқ хизмати органлари томонидан шахсий кабинет орқали солиқ тўловчига электрон ҳужжатлар юборилган куни солиқ тўловчи томонидан шахсий кабинетнинг амал қилишини тўхтатиб..." class="doc">п. 19</span> Положения № 2926).</p></div><a data-anchor="/document/16/210438/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/210438/bssPhr54/"></a><a data-anchor="/document/16/210438/dsertfyg9/"></a><a data-anchor="/document/16/210438/dfaso7w82g/" data-dfa="dfaso7w82g"></a><a data-anchor="/document/16/210438/dfasvq7dz3/" data-dfa="dfasvq7dz3"></a>Срок отправки документов, переданных через персональный кабинет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210438/bssPhr56/"></a><a data-anchor="/document/16/210438/dfasqok116/" data-dfa="dfasqok116"></a>Документы, которые налогоплательщик передал налоговой инспекции через персональный кабинет, считаются отправленными с момента, когда налоговая их получила (<span num="41" target="_self" lnktype="intlnk" title="Шахсий кабинет орқали юборилган электрон ҳужжатнинг жўнатиш вақти электрон ҳужжат давлат солиқ хизмати органлари томонидан қабул қилиб олинган вақт деб ҳисобланади." class="doc">п. 11</span> Положения № 2926).</p><p><a data-anchor="/document/16/210438/bssPhr57/"></a><a data-anchor="/document/16/210438/dfas27u5s5/" data-dfa="dfas27u5s5"></a>Документы, которые налоговая инспекция передала налогоплательщику через персональный кабинет, считаются полученными со следующего рабочего дня после передачи (<span num="43" target="_self" lnktype="intlnk" title="Давлат солиқ хизмати органлари томонидан шахсий кабинет орқали солиқ тўловчига электрон ҳужжатлар юборилган кундан кейинги иш куни ушбу ҳужжатлар солиқ тўловчи томонидан қабул қилиб..." class="doc">п. 18</span> Положения № 2926). К примеру, если налоговая отправила документ в субботу, то считается, что он доставлен на следующий рабочий день, то есть в понедельник. Именно с понедельника начинается исчисление сроков, указанных в документе.</p></div><a data-anchor="/document/16/210438/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/210438/bssPhr58/"></a><a data-anchor="/document/16/210438/dsertfyg8/"></a><a data-anchor="/document/16/210438/dfas4h4ngy/" data-dfa="dfas4h4ngy"></a><a data-anchor="/document/16/210438/dfasxduvmc/" data-dfa="dfasxduvmc"></a>Услуги, доступные для пользования через персональный кабинет</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210438/bssPhr60/"></a><a data-anchor="/document/16/210438/dfasbwr94u/" data-dfa="dfasbwr94u"></a>Перечень услуг, доступных в персональном кабинете налогоплательщика, часто расширяется. Поэтому актуальный перечень услуг на дату пользования кабинетом можно посмотреть на главной странице персонального кабинета в разделе «Услуги», нажав на кнопку «Показать все».</p><img alt="" hideborder="false" class="inimg" num="16" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr61/"></a><a data-anchor="/document/16/210438/dfaskyic75/" data-dfa="dfaskyic75"></a>Чтобы воспользоваться услугой, кликните один раз на требуемую услугу левой кнопкой мыши. У каждой услуги есть кнопка для получения инструкции по пользованию, которая находится в самой нижней части сайта. При нажатии на кнопку скачивается файл формата pdf с инструкцией.</p><p><a data-anchor="/document/16/210438/bssPhr62/"></a><a data-anchor="/document/16/210438/dfasdadow8/" data-dfa="dfasdadow8"></a>Для примера рассмотрим услугу «Отправка отчетности юрлиц». Для того, чтобы воспользоваться этой услугой, в персональном кабинете юрлица нажмите на кнопку «Услуги», расположенную в перечне:</p><img alt="" hideborder="false" class="inimg" num="17" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/dfasm8dfmc/" data-dfa="dfasm8dfmc"></a></p><p><a data-anchor="/document/16/210438/bssPhr63/"></a><a data-anchor="/document/16/210438/dfas7hgd6m/" data-dfa="dfas7hgd6m"></a>Откроется окно с доступными видами электронной отчетности, разделенными на четыре группы:</p><ul class="c-list"><li><a data-anchor="/document/16/210438/bssPhr64/"></a><a data-anchor="/document/16/210438/dfastnt6dl/" data-dfa="dfastnt6dl"></a>налоговые отчеты (коричневый цвет);</li><li>финансовая отчетность (синий цвет);</li><li>отчетность во внебюджетные фонды (зеленый цвет);</li><li>прочие отчетности (красный цвет).</li></ul><p><a data-anchor="/document/16/210438/bssPhr65/"></a><a data-anchor="/document/16/210438/dfasxr1f2l/" data-dfa="dfasxr1f2l"></a>Для просмотра содержания (вид отчетности с кодом) каждой из этих групп кликните на их название, как показано на рисунках ниже:</p><p style="text-align:center"><a data-anchor="/document/16/210438/bssPhr66/"></a><a data-anchor="/document/16/210438/dfasmvne20/" data-dfa="dfasmvne20"></a>Налоговые отчеты</p><img alt="" hideborder="false" class="inimg" num="18" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:center"><a data-anchor="/document/16/210438/bssPhr67/"></a><a data-anchor="/document/16/210438/dfasvprvoh/" data-dfa="dfasvprvoh"></a>Финансовая отчетность</p><img alt="" hideborder="false" class="inimg" num="19" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:center"><a data-anchor="/document/16/210438/bssPhr68/"></a><a data-anchor="/document/16/210438/dfasolz341/" data-dfa="dfasolz341"></a>Отчетность во внебюджетные фонды</p><img alt="" hideborder="false" class="inimg" num="20" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p style="text-align:center"><a data-anchor="/document/16/210438/bssPhr69/"></a><a data-anchor="/document/16/210438/dfasxbmh17/" data-dfa="dfasxbmh17"></a>Прочие отчетности</p><img alt="" hideborder="false" class="inimg" num="21" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr70/"></a><a data-anchor="/document/16/210438/dfasrnglkb/" data-dfa="dfasrnglkb"></a>Чтобы заполнить необходимую отчетность, перейдите в нужную вкладку: «Налоговые отчеты», «Финансовая отчетность», «Отчетность во внебюджетные фонды», «Прочие» и выберите необходимый отчет.</p><img alt="" hideborder="false" class="inimg" num="22" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr71/"></a><a data-anchor="/document/16/210438/dfasqtm7gg/" data-dfa="dfasqtm7gg"></a>В появившемся окне в хронологическом порядке будут отображены все формы отчетности по видам налогов. Выберите последнюю форму отчетности по нужному налогу.</p><img alt="" hideborder="false" class="inimg" num="23" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr72/"></a><a data-anchor="/document/16/210438/dfasaqipaq/" data-dfa="dfasaqipaq"></a>Далее откроется окно, в котором нужно заполнить поля:</p><ol class="c-list"><li><a data-anchor="/document/16/210438/bssPhr73/"></a><a data-anchor="/document/16/210438/dfas3mt81v/" data-dfa="dfas3mt81v"></a>указать вид налога;</li><li><a data-anchor="/document/16/210438/bssPhr74/"></a><a data-anchor="/document/16/210438/dfas4gxopf/" data-dfa="dfas4gxopf"></a>выбрать, является ли это первичным расчетом или перерасчетом;</li><li><a data-anchor="/document/16/210438/bssPhr75/"></a><a data-anchor="/document/16/210438/dfasartba3/" data-dfa="dfasartba3"></a>выбрать отчетный год и месяц;</li><li><a data-anchor="/document/16/210438/bssPhr76/"></a><a data-anchor="/document/16/210438/dfashyn1uz/" data-dfa="dfashyn1uz"></a>местонахождение юрлица заполнится автоматически;</li><li><a data-anchor="/document/16/210438/bssPhr77/"></a><a data-anchor="/document/16/210438/dfasgpg6p4/" data-dfa="dfasgpg6p4"></a>в строке на третьей линии есть «страницы» заполнения. Поэтому нужно выбирать поочередно каждый пункт из выпадающего списка и заполнять его:</li></ol><img alt="" hideborder="false" class="inimg" num="24" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210438/dfastdxfki/" data-dfa="dfastdxfki"></a><a data-anchor="/document/16/210438/bssPhr78/"></a>Чтобы скачать инструкцию по заполнению отчетности, нажмите на кнопку голубого цвета «Инструкция».</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210438/bssPhr79/"></a><a data-anchor="/document/16/210438/dfasz6eerf/" data-dfa="dfasz6eerf"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/210438/bssPhr80/"></a><a data-anchor="/document/16/210438/dfaso4ympr/" data-dfa="dfaso4ympr"></a>«Страницы» заполнения отчетности будут отображаться ниже уровня кнопок «Сохранить», «Отправить», «Инструкция»:</p><img alt="" hideborder="false" class="inimg" num="25" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr81/"></a><a data-anchor="/document/16/210438/dfasf4904s/" data-dfa="dfasf4904s"></a>На каждой странице есть строки для заполнения, которые могут быть выделены желтым, как на рисунке выше, и голубым цветами.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210438/dfasoldcrn/" data-dfa="dfasoldcrn"></a><a data-anchor="/document/16/210438/bssPhr82/"></a>Строки, выделенные желтым цветом, система заполняет автоматически, налогоплательщик не меняет их. Строки, выделенные голубым цветом, должен заполнить налогоплательщик.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210438/bssPhr83/"></a><a data-anchor="/document/16/210438/dfas2ggmxg/" data-dfa="dfas2ggmxg"></a>У каждой строки есть свой код (например: 010, 020, 030…). Этот код пригодится при заполнении отчетности, когда нужно будет вычислять некоторые значения.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/210438/bssPhr84/"></a><a data-anchor="/document/16/210438/dfasynzwgq/" data-dfa="dfasynzwgq"></a>После заполнения нажмите на кнопку «Отправить».</p><p><a data-anchor="/document/16/210438/bssPhr85/"></a><a data-anchor="/document/16/210438/dfasinf9q8/" data-dfa="dfasinf9q8"></a>Если не закончили заполнять и хотите сохранить уже заполненные значения либо закончили, но хотите отправить позже или перепроверить, то нажмите на кнопку «Сохранить». Сохраненную отчетность можно найти в черновиках и продолжить заполнять.</p><p><a data-anchor="/document/16/210438/bssPhr86/"></a><a data-anchor="/document/16/210438/dfasd170qe/" data-dfa="dfasd170qe"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как оплатить налоги через Портал электронных государственных услуг налоговых органов?</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210438/bssPhr88/"></a><a data-anchor="/document/16/210438/dfasriey45/" data-dfa="dfasriey45"></a>Для удобства юридических лиц совместно с ЦБ налажена система уплаты налогов и других обязательных платежей в персональном кабинете налогоплательщика на <a href="http://my.soliq.uz" target="_self" title="">Портале</a> электронных государственных услуг налоговых органов.</p><ol class="c-list"><li><a data-anchor="/document/16/210438/bssPhr89/"></a><a data-anchor="/document/16/210438/dfaslfddk8/" data-dfa="dfaslfddk8"></a>Зайдите в персональный кабинет налогоплательщика. В разделе «Услуги» выберите опцию «Оплата налогов юридических лиц».</li><li><a data-anchor="/document/16/210438/bssPhr90/"></a><a data-anchor="/document/16/210438/dfas1g961o/" data-dfa="dfas1g961o"></a>Затем в разделе «Оплата налогов юридических лиц» выберите опцию «Формирование платежного поручения».</li><li><a data-anchor="/document/16/210438/bssPhr91/"></a><a data-anchor="/document/16/210438/dfast9ir0o/" data-dfa="dfast9ir0o"></a>После того как выбрали вид налога, сайт автоматически выдает полные реквизиты для проведения налоговых платежей, включая казначейский лицевой счет.</li><li><a data-anchor="/document/16/210438/bssPhr92/"></a><a data-anchor="/document/16/210438/dfasf5lf5i/" data-dfa="dfasf5lf5i"></a>Если не отображается вид налога, то нажмите «Обновить виды налогов». Если и в этом случае не отобразился требуемый вид налога, то обратитесь в ГНИ по месту налогового учета для внесения его в перечень видов налогов и сборов.</li></ol></div></div></div><a data-anchor="/document/16/210438/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/210438/bssPhr93/"></a><a data-anchor="/document/16/210438/dsertfyg7/"></a><a data-anchor="/document/16/210438/dfaso4kuqs/" data-dfa="dfaso4kuqs"></a><a data-anchor="/document/16/210438/dfashcn4fg/" data-dfa="dfashcn4fg"></a>Журнал расчетов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210438/bssPhr95/"></a><a data-anchor="/document/16/210438/dfasghug3c/" data-dfa="dfasghug3c"></a>Для перехода к журналу расчетов нажмите на кнопку «Журнал» в верхней части окна:</p><img alt="" hideborder="false" class="inimg" num="11" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr96/"></a><a data-anchor="/document/16/210438/dfasnn33gl/" data-dfa="dfasnn33gl"></a>Журнал расчетов состоит из следующих частей:</p><p><a data-anchor="/document/16/210438/bssPhr97/"></a><a data-anchor="/document/16/210438/dfaslrif8n/" data-dfa="dfaslrif8n"></a>1. Список последних расчетов:</p><img alt="" hideborder="false" class="inimg" num="12" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr98/"></a><a data-anchor="/document/16/210438/dfasv8kd3f/" data-dfa="dfasv8kd3f"></a>2. Строка фильтра расчетов, можно отсортировать расчеты по году или номеру. После ввода значения сортировки, например, только год, нажмите на синий значок «круговых стрелок»:</p><img alt="" hideborder="false" class="inimg" num="13" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr99/"></a><a data-anchor="/document/16/210438/dfasquqkxs/" data-dfa="dfasquqkxs"></a>3. Список всех расчетов, распределенных по группам «В обработке», «С ошибками», «Принятые», «Отправленные», «Отказанные», «Черновики»:</p><img alt="" hideborder="false" class="inimg" num="14" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/210438/bssPhr100/"></a><a data-anchor="/document/16/210438/dfasnp0npr/" data-dfa="dfasnp0npr"></a>Для показа расчетов по одной конкретной группе нажмите на название группы этого расчета, например, «Черновики». В списке отобразятся все расчеты этой группы. Рисунок внизу показывает, что в группе «Черновики» нет ни одного расчета:</p><img alt="" hideborder="false" class="inimg" num="15" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/210438/dfasq4bqnb/" data-dfa="dfasq4bqnb"></a><a data-anchor="/document/16/210438/bssPhr101/"></a>После отправки отчетности распечатайте ее. Для этого нажмите на соответствующую кнопку в первом столбце «Действие» этого расчета.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/210438/bssPhr102/"></a><a data-anchor="/document/16/210438/dfasn8ixiq/" data-dfa="dfasn8ixiq"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div></div><p><a data-anchor="/document/16/210438/dfasnevzbu/" data-dfa="dfasnevzbu"></a><a data-anchor="/document/16/210438/bssPhr103/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/210438/dfasp3cf5v/" data-dfa="dfasp3cf5v"></a><a data-anchor="/document/16/210438/bssPhr104/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

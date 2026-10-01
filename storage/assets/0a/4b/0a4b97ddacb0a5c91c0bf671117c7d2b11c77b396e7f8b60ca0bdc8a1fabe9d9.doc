@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как заключать мировое соглашение при процедуре банкротства</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206233/dfasxdcgrf/" data-dfa="dfasxdcgrf"></a><a data-anchor="/document/16/206233/bssPhr2/"></a>Из рекомендации узнаете, в каком порядке и какой форме заключают мировое соглашение в процедуре банкротства, что оно должно содержать и при каких условиях экономический суд его утверждает. Также узнаете, какие последствия влечет утверждение мирового соглашения и в каких случаях экономический суд отказывает в его утверждении, а в каких может признать недействительным. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206233/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206233/bssPhr3/"></a><a data-anchor="/document/16/206233/dfas7uuqsh/" data-dfa="dfas7uuqsh"></a>Мировое соглашение в процедуре банкротства</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206233/bssPhr5/"></a><a data-anchor="/document/16/206233/dfas57ay9c/" data-dfa="dfas57ay9c"></a>Мировое соглашение – соглашение сторон о прекращении судебного спора на основе взаимных уступок (<span num="9" lnktype="intlnk" title="" class="doc">Закон</span> о банкротстве). Должник и кредитор могут заключить мировое соглашение в любой момент, пока экономический суд рассматривает дело о банротстве. Собрание кредиторов принимает решение о заключении мирового соглашения от имени кредиторов. Данное решение принимают большинством голосов от общего числа кредиторов. Решение принято, если за него проголосовали все кредиторы по обязательствам, обеспеченным залогом имущества должника. Полномочие по голосованию о вопросе заключения мирового соглашения должно быть предусмотрено в доверенности представителя кредитора. Решение о заключении мирового соглашения от имени должника принимает:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206233/bssPhr6/"></a><a data-anchor="/document/16/206233/dfasuwya7t/" data-dfa="dfasuwya7t"></a>должник – индивидуальный предприниматель или физлицо, утратившее статус ИП;</li><li style="text-align:left">руководитель должника;</li><li style="text-align:left">внешний управляющий или ликвидационный управляющий.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr7/"></a><a data-anchor="/document/16/206233/dfasp3mnr2/" data-dfa="dfasp3mnr2"></a>Об этом сказано в <span num="10" lnktype="intlnk" title="" class="doc">статье 145</span> Закона о банкротстве.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr8/"></a><a data-anchor="/document/16/206233/dfash9a7te/" data-dfa="dfash9a7te"></a>В мировом соглашении могут участвовать третьи лица, которые принимают на себя права и обязанности, предусмотренные мировым соглашением.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr9/"></a><a data-anchor="/document/16/206233/dfasn6eva9/" data-dfa="dfasn6eva9"></a>Мировое соглашение утверждает экономический суд, о чем выносит определение и прекращает производство по делу о банкротстве. Если мировое соглашение заключают в процессе ликвидационного производства, экономический суд выносит определение об утверждении мирового соглашения. В нем указывает, что решение о признании должника банкротом и открытии ликвидационного производства не подлежит исполнению (<span num="11" lnktype="intlnk" title="" class="doc">ст. 145</span> Закона о банкротстве).</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr10/"></a><a data-anchor="/document/16/206233/dfas5xs79b/" data-dfa="dfas5xs79b"></a>Мировое соглашение обязательно для должника, кредиторов, а также третьих лиц, участвующих со дня, когда его утверждает экономический суд. Не допустим односторонний отказ от исполнения вступившего в силу мирового соглашения.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr11/"></a><a data-anchor="/document/16/206233/dfasb4mbai/" data-dfa="dfasb4mbai"></a>Кредитор, голосовавший за заключение мирового соглашения, учредители, участники или собственник имущества должника вправе исполнить денежные обязательства или обязанности по обязательным платежам должника перед кредиторами, голосовавшими против заключения мирового соглашения или не принимавшими участия в голосовании. В этом случае кредитор обязан принять исполнение, предложенное за должника, а к лицу, исполнившему обязательства должника, переходят права кредитора по обязательству.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr12/"></a><a data-anchor="/document/16/206233/dfasrcs58g/" data-dfa="dfasrcs58g"></a>Третьи лица вправе представить поручительства или гарантии, что должник выполнит денежные обязательства или уплатит обязательные платежи по мировому соглашению. Если по условиям мирового соглашения имущество должника переходит к третьему лицу, то оно может быть заключено только если указанное имущество третье лицо предоставит в залог, обеспечивающий погашение требований кредиторов.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr13/"></a><a data-anchor="/document/16/206233/dfasedo5v2/" data-dfa="dfasedo5v2"></a>Руководитель должника принимает решение о заключении мирового соглашения со стороны должника при наблюдении и судебной санации, а в случае отстранения его от исполнения обязанностей – судебный управляющий. Если мировое соглашение для должника – сделка, которая совершается по решению, одобрению органов управления должника, решение о заключении мирового соглашения от имени должника может быть принято после решения, одобрения. Если мировое соглашение заключают в процедурах внешнего управления и ликвидационного производства такого решения, одобрения не требуется.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr14/"></a><a data-anchor="/document/16/206233/dfasck8qk0/" data-dfa="dfasck8qk0"></a>Мировое соглашение можно заключать с участием заинтересованных третьих лиц. В этом случае в документе указывают, что характер заинтересованности. Мировое соглашение распространяется на требования кредиторов, срок исполнения которых наступил на дату введения соответствующей процедуры банкротства. Исключение – обязательства, которые возникли после возбуждения дела о банкротстве (<span num="12" lnktype="intlnk" title="" class="doc">ст. 146</span> Закона о банкротстве).</p></div><a data-anchor="/document/16/206233/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206233/bssPhr15/"></a><a data-anchor="/document/16/206233/dfashck715/" data-dfa="dfashck715"></a>Форма мирового соглашения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206233/bssPhr17/"></a><a data-anchor="/document/16/206233/dfas38of81/" data-dfa="dfas38of81"></a>Мировое соглашение заключают в письменной форме.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr18/"></a><a data-anchor="/document/16/206233/dfascgwyyh/" data-dfa="dfascgwyyh"></a>От имени должника мировое соглашение подписывает:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206233/bssPhr19/"></a><a data-anchor="/document/16/206233/dfasdwymg6/" data-dfa="dfasdwymg6"></a>должник – индивидуальный предприниматель или физлицо, утратившее статус ИП;</li><li style="text-align:left">руководитель должника;</li><li style="text-align:left">внешний управляющий или ликвидационный управляющий.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr20/"></a><a data-anchor="/document/16/206233/dfasnfg5vt/" data-dfa="dfasnfg5vt"></a>Об этом сказано в <span num="13" lnktype="intlnk" title="" class="doc">статье 147</span> Закона о банкротстве.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr21/"></a><a data-anchor="/document/16/206233/dfas6ifc54/" data-dfa="dfas6ifc54"></a>От имени кредиторов мировое соглашение подписывает лицо, уполномоченное собранием кредиторов. От имени третьих лиц подписывают эти лица или их представители.</p></div><a data-anchor="/document/16/206233/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206233/bssPhr22/"></a><a data-anchor="/document/16/206233/dfaskb9pc8/" data-dfa="dfaskb9pc8"></a>Содержание мирового соглашения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206233/bssPhr24/"></a><a data-anchor="/document/16/206233/dfasqtd36h/" data-dfa="dfasqtd36h"></a>Мировое соглашение должно содержать положения о размерах, порядке и сроках исполнения денежных обязательств должника или о прекращении денежных обязательств должника предоставлением взамен отступного, новацией обязательства, путем прощения долга либо иными способами, предусмотренными законодательством (ст. 148 Закона о банкротстве). Кроме вышеперечисленного, мировое соглашение может содержать условия:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206233/bssPhr25/"></a><a data-anchor="/document/16/206233/dfask3xsgp/" data-dfa="dfask3xsgp"></a>об отсрочке или рассрочке исполнения денежных обязательств;</li><li style="text-align:left">уступке прав требования должника;</li><li style="text-align:left">исполнении денежных обязательств должника третьими лицами;</li><li style="text-align:left">скидке с долга;</li><li style="text-align:left">изменении сроков и порядка уплаты обязательных платежей в соответствии с законодательством;</li><li style="text-align:left">удовлетворении требований кредиторов иными способами, не противоречащими законодательству.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr26/"></a><a data-anchor="/document/16/206233/dfaso3nqwi/" data-dfa="dfaso3nqwi"></a>Условия мирового соглашения для кредиторов, не принимавших участия в голосовании по вопросу о заключении мирового соглашения, а также голосовавших против его заключения, не могут быть хуже, чем для кредиторов той же очереди, голосовавших за его заключение (<span num="14" lnktype="intlnk" title="" class="doc">ст. 148</span> Закона о банкротстве).</p></div><a data-anchor="/document/16/206233/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206233/bssPhr27/"></a><a data-anchor="/document/16/206233/dfasghp3nz/" data-dfa="dfasghp3nz"></a>Условия утверждения мирового соглашения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206233/bssPhr29/"></a><a data-anchor="/document/16/206233/dfasov73x7/" data-dfa="dfasov73x7"></a>Экономический суд может утвердить мировое соглашение только после погашения расходов и удовлетворения требований, предусмотренных законом, и требований по платежным документам, предусматривающим выдачу денежных средств на выплату заработной платы (<span num="15" lnktype="intlnk" title="" class="doc">ст. 149</span> Закона о банкротстве). Должник, внешний управляющий или ликвидационный управляющий в течение 5 дней с момента подписания мирового соглашения должен представить экономическому суду заявление об утверждении мирового соглашения. К заявлению об утверждении мирового соглашения должны быть приложены:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206233/bssPhr30/"></a><a data-anchor="/document/16/206233/dfas0novu5/" data-dfa="dfas0novu5"></a>текст мирового соглашения;</li><li style="text-align:left">протокол собрания кредиторов, принявшего решение о заключении мирового соглашения;</li><li style="text-align:left">реестр требований кредиторов должника;</li><li style="text-align:left">документы, подтверждающие погашение расходов и удовлетворение требований, указанных в Законе;</li><li style="text-align:left">письменные возражения кредиторов, которые не принимали участия в голосовании по вопросу о заключении мирового соглашения или голосовали против заключения мирового соглашения;</li><li style="text-align:left">иные документы в соответствии с законодательством.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr31/"></a><a data-anchor="/document/16/206233/dfasyy1hrn/" data-dfa="dfasyy1hrn"></a>О дате рассмотрения мирового соглашения экономический суд извещает заинтересованные стороны. Неявка извещенных лиц не препятствует рассмотрению дела о банкротстве (<span num="16" lnktype="intlnk" title="" class="doc">ст. 149</span> Закона о банкротстве).</p></div><a data-anchor="/document/16/206233/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206233/bssPhr32/"></a><a data-anchor="/document/16/206233/dfasmvwrnt/" data-dfa="dfasmvwrnt"></a>Последствия утверждения мирового соглашения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206233/bssPhr34/"></a><a data-anchor="/document/16/206233/dfashe2x3i/" data-dfa="dfashe2x3i"></a>Если экономический суд утвердил мировое соглашение в процессе наблюдения, судебной санации, внешнего управления и ликвидационного производства, то дело о банкротстве прекращается. С момента, когда суд утверждает мировое соглашение, прекращаются полномочия судебных управляющих. Внешний управляющий и ликвидационный управляющий должника-юрлица продолжают исполнять свои полномочия до момента избрания, назначения руководителя должника.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr35/"></a><a data-anchor="/document/16/206233/dfashwc0tg/" data-dfa="dfashwc0tg"></a>Должник – индивидуальный предприниматель или физлицо, утратившее статус ИП, либо руководитель должника, внешний управляющий или ликвидационный управляющий либо третье лицо приступают к погашению задолженности перед кредиторами с момента утверждения мирового соглашения.</p></div><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr36/"></a><a data-anchor="/document/16/206233/dfasq10gl9/" data-dfa="dfasq10gl9"></a>&nbsp;</p><a data-anchor="/document/16/206233/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/206233/bssPhr37/"></a><a data-anchor="/document/16/206233/dfasqqpe3n/" data-dfa="dfasqqpe3n"></a>Отказ в утверждении мирового соглашения и его последствия</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206233/bssPhr39/"></a><a data-anchor="/document/16/206233/dfasdcx0wn/" data-dfa="dfasdcx0wn"></a>Экономический суд отказывает в утверждении мирового соглашения в случае неисполнения обязанности по погашению расходов и удовлетворения требований, указанных в Законе (<span data-warm-notices="29043990" data-warm-notice-type="error" num="17" lnktype="intlnk" title="" class="doc">ст. 151 </span>Закона о банкротстве). Кроме этого, отказ возможен в случаях:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206233/bssPhr40/"></a><a data-anchor="/document/16/206233/dfasxb60cz/" data-dfa="dfasxb60cz"></a>нарушения порядка заключения мирового соглашения, установленного Законом;</li><li style="text-align:left">несоблюдения формы мирового соглашения;</li><li style="text-align:left">нарушения прав третьих лиц;</li><li style="text-align:left">противоречия условий мирового соглашения законодательству.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr41/"></a><a data-anchor="/document/16/206233/dfasctml2m/" data-dfa="dfasctml2m"></a>Об отказе в утверждении мирового соглашения экономический суд выносит определение, которое может быть обжаловано, опротестовано (<span num="18" lnktype="intlnk" title="" class="doc">ст. 151</span> Закона о банкротстве).</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr42/"></a><a data-anchor="/document/16/206233/dfas9xannp/" data-dfa="dfas9xannp"></a>Последствием отказа в утверждении мирового соглашения является то, что оно считается незаключенным. Однако, вынесение экономическим судом определения об отказе в утверждении мирового соглашения не препятствует заключению нового мирового соглашения.</p></div><a data-anchor="/document/16/206233/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/206233/bssPhr43/"></a><a data-anchor="/document/16/206233/dfasskxsr4/" data-dfa="dfasskxsr4"></a>Признание мирового соглашения недействительным и последствия такого признания</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206233/bssPhr45/"></a><a data-anchor="/document/16/206233/dfasxb1e6b/" data-dfa="dfasxb1e6b"></a>По заявлению должника, кредитора, прокурора, а также лиц, права и законные интересы которых нарушены, экономический суд может признать мировое соглашение недействительным, если оно содержит условия, предусматривающие преимущества для отдельных кредиторов или ущемление прав и законных интересов отдельных кредиторов.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr46/"></a><a data-anchor="/document/16/206233/dfasbfmysi/" data-dfa="dfasbfmysi"></a>А также есть иные основания недействительности сделок, предусмотренные законодательством (<span num="19" lnktype="intlnk" title="" class="doc">ст. 153</span> Закона о банкротстве). В этом случае суд возобновляет дело о банкротстве. Определение экономического суда может быть обжаловано, опротестовано (<span num="20" lnktype="intlnk" title="" class="doc">ст. 154</span> Закона о банкротстве). В этом случае требования кредиторов, по которым была отсрочка или рассрочка причитающихся им платежей или скидка с долгов, восстанавливаются в неудовлетворенной их части.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr47/"></a><a data-anchor="/document/16/206233/dfasr6wfe0/" data-dfa="dfasr6wfe0"></a>Признание мирового соглашения недействительным не влечет обязанности возвращения должнику погашенных расходов и удовлетворения требований, предусмотренных законом «О банкротстве». Также, если мировое соглашение признали недействительным, экономический суд публикует в официальном издании сообщение о дела о банкротстве должника за счет имущества должника. Требования кредиторов, с которыми произведены расчеты на условиях мирового соглашения считаются погашенными. Кредиторы, чьи требования были удовлетворены согласно условиям мирового соглашения, предусматривающими их преимущества или ущемление прав и законных интересов других кредиторов, обязаны возвратить все полученное в порядке исполнения мирового соглашения. При этом указанные требования восстанавливаются в реестре требований кредиторов.</p></div><a data-anchor="/document/16/206233/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/206233/bssPhr48/"></a><a data-anchor="/document/16/206233/dfaskpambn/" data-dfa="dfaskpambn"></a>Последствия неисполнения мирового соглашения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206233/bssPhr50/"></a><a data-anchor="/document/16/206233/dfasp3sadg/" data-dfa="dfasp3sadg"></a>Последствия неисполнения мирового соглашения закреплены в <span num="21" lnktype="intlnk" title="" class="doc">статье 155</span> Закона «О банкротстве». Если должник не исполнил мировое соглашение, кредиторы вправе предъявить требования в объеме, предусмотренном мировым соглашением.</p><p style="text-align:left"><a data-anchor="/document/16/206233/bssPhr51/"></a><a data-anchor="/document/16/206233/dfas24i5mq/" data-dfa="dfas24i5mq"></a>Суд может возбудить новое дело о банкротстве. В этом случае объем требований кредиторов, в отношении которых заключено мировое соглашение, определяется условиями мирового соглашения.</p></div><p><a data-anchor="/document/16/206233/dfasw2imwb/" data-dfa="dfasw2imwb"></a><a data-anchor="/document/16/206233/bssPhr52/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882134" sourceId="1" fullSizeImageId="-41882133" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882134/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

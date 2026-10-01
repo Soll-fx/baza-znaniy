@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Приказ, НСБУ Минфина РУз от 06.04.2009 №№ 41, НСБУ № 6</div><h2 class="auth__title">Об утверждении национального стандарта бухгалтерского учета Республики Узбекистан (НСБУ № 6) «Учет аренды»</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/4019/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/4019/dfas15o7du/"></a>Приказ<br>Министра финансов Республики Узбекистан</p><p style="text-align:center"><a data-anchor="/document/90/4019/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/4019/dfas5e8wt0/"></a><strong>ОБ УТВЕРЖДЕНИИ НАЦИОНАЛЬНОГО СТАНДАРТА БУХГАЛТЕРСКОГО УЧЕТА РЕСПУБЛИКИ УЗБЕКИСТАН (НСБУ № 6) &#171;УЧЕТ АРЕНДЫ&#187;</strong></p><p style="text-align:center"><a data-anchor="/document/90/4019/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/4019/dfasg8lc7h/"></a><strong>[Зарегистрирован Министерством юстиции Республики Узбекистан от 24 апреля 2009 г. Регистрационный № 1946]</strong></p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/4019/dfasaae3gq/"></a>В соответствии с Законом Республики Узбекистан &#171;О бухгалтерском учете&#187; и Положением о Министерстве финансов Республики Узбекистан, утвержденным постановлением Президента Республики Узбекистан от 18 марта 2017 года № ПП-2847, приказываю:</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/4019/dfasoe9rez/"></a>1. Утвердить прилагаемый Национальный стандарт бухгалтерского учета Республики Узбекистан (НСБУ № 6) &#171;Учет аренды&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/4019/dfas19egwg/"></a>2. Признать утратившим силу приказ министра финансов Республики Узбекистан от 12 мая 2004 года № 75 &#171;Об утверждении Национального стандарта бухгалтерского учета Республики Узбекистан (НСБУ № 6) &#171;Учет аренды&#187; (рег. № 1374 от 22.06.2004 г. &#8211; Собрание законодательства Республики Узбекистан, 2004 г., № 25, ст. 292).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/4019/dfas7g5pxo/"></a>3. Настоящий приказ вступает в силу по истечении десяти дней со дня его государственной регистрации в Министерстве юстиции Республики Узбекистан.</p><p style="text-align:right"><a data-anchor="/document/90/4019/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/4019/dfaskcf7w7/"></a><strong>Министр финансов Р. АЗИМОВ</strong></p><p style="text-align:center"><a data-anchor="/document/90/4019/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/4019/dfas2a1v8n/"></a>г. Ташкент,<br>6 апреля 2009 г.,<br>№ 41</p><p style="text-align:center"><a data-anchor="/document/90/4019/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/4019/dfas7h3wm4/"></a>УТВЕРЖДЕНО<br>приказом министра финансов Республики Узбекистан от 6 апреля 2009 года № 41</p><p style="text-align:center"><a data-anchor="/document/90/4019/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/4019/dfascxtwcl/"></a><strong>Национальный стандарт бухгалтерского учета Республики Узбекистан (НСБУ № 6) &#171;учет аренды&#187;</strong></p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/4019/dfaspk7awm/"></a>Настоящий Национальный стандарт бухгалтерского учета (НСБУ) разработан на основе законов Республики Узбекистан &#171;О бухгалтерском учете&#187;, &#171;О лизинге&#187;, Налогового кодекса Республики Узбекистан и является элементом системы нормативного регулирования бухгалтерского учета в Республике Узбекистан.</p><div class="doc__paragraph doc-start" data-type="paragraph" data-level="5"><a data-role="toc" data-anchor="/document/90/4019/tit2/"></a><span class="doc__paragraph-number" style="text-align:left"><a data-anchor="/document/90/4019/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/4019/dfasuxioxf/"></a>&#167; 1. </span><span class="doc__paragraph-name">Общие положения</span></div><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/4019/dfas4wtg5n/"></a>1. Целью настоящего НСБУ является определение единых методологических основ бухгалтерского учета и отражения в финансовой отчетности арендных операций.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/4019/dfas8t173t/"></a>2. Настоящий НСБУ не применяется к следующим объектам и операциям:</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/4019/dfas1utyht/"></a>а) арендные соглашения, связанные с разведкой и использованием природных ресурсов, таких как нефть, природный газ и другие невосстанавливаемые ресурсы;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/4019/dfassb3e7s/"></a>б) лицензионные соглашения по объектам интеллектуальной собственности.</p><div class="doc__paragraph" data-type="paragraph" data-level="5"><a data-role="toc" data-anchor="/document/90/4019/tit3/"></a><span class="doc__paragraph-number" style="text-align:left"><a data-anchor="/document/90/4019/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/4019/dfasdlgvor/"></a>&#167; 2. </span><span class="doc__paragraph-name">Основные термины, используемые в настоящем НСБУ</span></div><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/4019/dfasz305hr/"></a>3. Аренда &#8212; соглашение, по которому одна сторона (арендодатель) передает другой стороне (арендатору) за плату право временного владения и пользования или право пользования имуществом в течение согласованного срока.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/4019/dfasaphhg1/"></a>4. Субъектами аренды являются:</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/4019/dfassmnasf/"></a>а) арендодатель &#8212; собственник имущества или лица, уполномоченные законодательством или собственником сдавать имущество в аренду;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/4019/dfas2s6ux9/"></a>б) арендатор &#8212; юридические и физические лица, которые получают имущество в аренду в соответствии с договором аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/4019/dfas4wycew/"></a>5. В целях настоящего НСБУ аренда подразделяется на:</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/4019/dfas01p0rt/"></a>а) финансовую аренду (включая лизинг);</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/4019/dfasx7g2uc/"></a>б) оперативную аренду.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/4019/dfas45m9pw/"></a>6. Финансовая аренда &#8212; арендные отношения, возникающие при передаче имущества (объекта финансовой аренды) по договору во владение и пользование на срок, превышающий двенадцать месяцев. При этом договор финансовой аренды должен отвечать одному из следующих требований:</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/4019/dfaslrmagc/"></a>по окончании срока договора финансовой аренды объект финансовой аренды переходит в собственность арендатора;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/4019/dfasrlhqk3/"></a>срок договора финансовой аренды превышает 80 процентов срока службы объекта финансовой аренды, или остаточная стоимость объекта финансовой аренды по окончании договора финансовой аренды составляет менее 20 процентов его первоначальной стоимости;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/4019/dfasrixb4g/"></a>по окончании срока договора финансовой аренды арендатор обладает правом выкупа объекта финансовой аренды по цене значительно ниже его рыночной стоимости на дату реализации этого права, а в начале срока аренды существует обоснованная уверенность в том, что это право будет реализовано;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/4019/dfas0zfkx5/"></a>текущая дисконтированная стоимость арендных платежей за период действия договора финансовой аренды превышает девяносто процентов текущей стоимости объекта финансовой аренды на момент передачи в аренду.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/4019/dfasveu13g/"></a>7. Оперативная аренда &#8212; предоставление имущества во временное владение и пользование или в пользование по договору имущественного найма (аренды), который не является договором финансовой аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/4019/dfasgtwh19/"></a>8. Лизинг &#8212; особый вид финансовой аренды, при котором одна сторона (лизингодатель) по поручению другой стороны (лизингополучателя) приобретает у третьей стороны (продавца) в собственность обусловленное договором лизинга имущество (объект лизинга) и предоставляет его лизингополучателю за плату на определенных таким договором условиях во владение и пользование на срок, превышающий двенадцать месяцев. При этом договор лизинга должен отвечать одному из требований, указанных в пункте 6 настоящего НСБУ.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/4019/dfas2lx7r9/"></a>9. Субъектами лизинга являются:</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/4019/dfasmm7rce/"></a>а) лизингодатель &#8212; лицо, приобретающее объект лизинга в собственность в целях его последующей передачи лизингополучателю по договору лизинга;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/4019/dfasyxgpg9/"></a>б) лизингополучатель &#8212; лицо, приобретающее объект лизинга в свое владение и пользование;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/4019/dfas9uigt3/"></a>в) продавец &#8212; лицо, у которого лизингодатель приобретает объект лизинга.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/4019/dfaslvggqy/"></a>10. Объекты аренды (лизинга) &#8212; любые непотребляемые вещи, включая предприятия, комплексы имущества, отдельные здания, сооружения, оборудование, транспортные средства, другое движимое и недвижимое имущество (кроме имущества, изъятого из оборота, или оборотоспособность которого ограничена).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/4019/dfas4ek7ge/"></a>11. Субаренда (сублизинг) &#8212; договорные отношения, при которых арендатор (лизингополучатель) вправе с согласия арендодателя (лизингодателя) сдавать арендованное имущество (объект аренды (лизинга)) другому лицу в субаренду (сублизинг), оставаясь перед арендодателем (лизингодателем) ответственным по договору аренды (лизинга).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/4019/dfasvuk9e2/"></a>12. Начало срока аренды (лизинга) &#8212; дата, с которой арендатор (лизингополучатель) начинает осуществлять право владения и пользования или пользования объектом аренды (лизинга) в соответствии с условиям договора аренды (лизинга). Это дата первоначального признания аренды (лизинга) (т. е. признания соответствующих активов и обязательств в результате осуществления аренды (лизинга)).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/4019/dfas85348p/"></a>13. Срок аренды (лизинга) &#8212; период действия неотменяемого арендного (лизингового) соглашения, а также любые последующие периоды, в течение которых возможно продление данного соглашения со стороны арендатора (лизингополучателя), оговоренное при заключении договора аренды (лизинга).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/4019/dfasaomggu/"></a>14. Арендный (лизинговый) платеж &#8212; сумма, уплачиваемая арендодателю (лизингодателю) арендатором (лизингополучателем) на основании заключенного договора аренды (лизинга).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/4019/dfasb63rgg/"></a>15. Процентный доход арендодателя (лизингодателя) &#8212; часть арендного (лизингового) платежа, определяемая в виде разницы между суммой арендного (лизингового) платежа и суммой возмещения стоимости объекта аренды (лизинга).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/4019/dfasye9k2x/"></a>16. Текущая стоимость объектов аренды (лизинга) &#8212; стоимость объекта аренды (лизинга) по действующим рыночным ценам на определенную дату или сумма, достаточная для приобретения данного объекта аренды (лизинга) или исполнения обязательства при совершении сделки между осведомленными, желающими совершить такую сделку, независимыми друг от друга сторонами.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/4019/dfaslexkt9/"></a>17. Гарантированная остаточная стоимость &#8212; часть стоимости объекта аренды (лизинга), определенной в начале срока аренды (лизинга), которая гарантируется (закреплена обязательством) арендатором (лизингополучателем) или связанной с ним третьей стороной.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/4019/dfas4xdno1/"></a>18. Негарантированная остаточная стоимость &#8212; часть стоимости объекта аренды (лизинга) (определенная в начале срока аренды (лизинга)), реализацию которой арендодатель (лизингодатель) не гарантирует, или она гарантирована только стороной, связанной с арендодателем (лизингодателем).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/4019/dfas2gh3v5/"></a>19. Минимальные арендные (лизинговые) платежи &#8212; сумма арендных (лизинговых) платежей на протяжение срока аренды, уплачиваемых арендатором (лизингополучателем), и гарантированная остаточная стоимость объекта аренды (лизинга).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/4019/dfas1u2ulr/"></a>20. Дисконтирование &#8212; определение текущего эквивалента денежных средств, ожидаемых к получению в определенный момент в будущем.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/4019/dfassfy6bp/"></a>21. Дисконтная ставка &#8212; ставка, используемая для приведения к одному моменту денежных сумм, относящихся к различным моментам времени.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/4019/dfaswqb0tc/"></a>22. Дисконтированная стоимость минимальных арендных (лизинговых) платежей &#8212; текущая стоимость минимальных арендных (лизинговых) платежей на начало срока аренды (лизинга), скорректированная по дисконтной ставке, равной предусмотренной в договоре аренды (лизинга) процентной ставке или приростной процентной ставке на заемный капитал.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/4019/dfasiycp47/"></a>23. Процентная ставка, предусмотренная в договоре аренды (лизинга) &#8212; дисконтная ставка, которая на начало срока аренды (лизинга) обеспечивает равенство текущей стоимости объекта аренды (лизинга) и дисконтированной стоимости суммы следующих величин: минимальных арендных (лизинговых) платежей и негарантированной остаточной стоимости.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/4019/dfasfisxo3/"></a>24. Приростная процентная ставка на заемный капитал &#8212; процентная ставка, которую пришлось бы заплатить арендатору (лизингополучателю) по подобному договору аренды (лизинга), или (если этот показатель определить невозможно) ставка на начало срока аренды (лизинга), которую принял бы арендатор (лизингополучатель) при займе необходимых для покупки имущества средств (на такой же срок и с подобным обеспечением), или, если таковых определить невозможно, официальная ставка рефинансирования Центрального банка Республики Узбекистан на начало срока аренды (лизинга).</p><div class="doc__paragraph" data-type="paragraph" data-level="5"><a data-role="toc" data-anchor="/document/90/4019/tit4/"></a><span class="doc__paragraph-number" style="text-align:left"><a data-anchor="/document/90/4019/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/4019/dfasvr80uw/"></a>&#167; 3. </span><span class="doc__paragraph-name">Учет финансовой аренды</span></div><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/4019/dfasoeyc0i/"></a>25. При финансовой аренде все риски, связанные с правом владения и пользования объектом финансовой аренды, передаются арендатору (лизингополучателю). При этом, риск случайной гибели или случайной порчи арендованного по лизингу имущества переходит к лизингополучателю в момент передачи ему этого имущества, если иное не предусмотрено договором лизинга. В бухгалтерском учете арендатора (лизингополучателя) финансовая аренда должна быть признана в качестве актива и обязательства по сумме, равной на начало срока финансовой аренды либо текущей стоимости объекта финансовой аренды, либо дисконтированной стоимости минимальных арендных (лизинговых) платежей, если она ниже.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/4019/dfasuccdlv/"></a>26. В случае, если арендатор (лизингополучатель) намерен купить объект аренды (лизинга) по цене ниже его текущей стоимости на дату приобретения, минимальные арендные (лизинговые) платежи состоят из арендных (лизинговых) платежей за весь срок аренды (лизинга) и суммы выкупа объекта аренды (лизинга), предусмотренной в договоре аренды (лизинга).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/4019/dfas0b63o7/"></a>27. При расчете дисконтированной стоимости минимальных арендных (лизинговых) платежей дисконтирующим фактором является процентная ставка, предусмотренная договором финансовой аренды, если есть возможность ее определить, в противном же случае используется приростная процентная ставка на заемный капитал арендатора (лизингополучателя).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/4019/dfasdt2pmu/"></a>28. При финансовой аренде арендные (лизинговые) платежи представляют собой возмещение арендатором (лизингополучателем) арендодателю (лизингодателю) стоимости объекта финансовой аренды, а также процентный доход арендодателя (лизингодателя).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/4019/dfasbsgupe/"></a>29. На момент начала срока аренды арендатор (лизингополучатель) и арендодатель (лизингодатель) согласовывают график (порядок) уплаты арендных (лизинговых) платежей, в котором отражаются сумма процентного дохода арендодателя (лизингодателя), обязательства по возмещению стоимости объекта финансовой аренды и распределение их в течение срока финансовой аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/4019/dfassg6lpy/"></a>30. Проценты по финансовой аренде должны быть разбиты по периодам в течение срока договора финансовой аренды и отражены в графике (порядке) уплаты арендных (лизинговых) платежей с целью установления постоянной процентной ставки к остатку непогашенного обязательства за каждый период.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/4019/dfasmc4azn/"></a>31. Затраты, осуществленные арендатором (лизингополучателем), связанные с приобретением, поставкой или приведением объекта финансовой аренды в состояние, пригодное для использования по назначению, включаются в стоимость объекта финансовой аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/4019/dfastiwsyc/"></a>32. Затраты арендатора (лизингополучателя) на улучшение объекта финансовой аренды (благоустройство, достройка, дооборудование, реконструкция, модернизация, техническое перевооружение и т. п.) отражаются как капитальные вложения, увеличивающие стоимость объекта финансовой аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/4019/dfasps2fqh/"></a>Арендатор предприятия имеет право на возмещение ему стоимости неотделимых улучшений арендованного имущества независимо от разрешения арендодателя на такие улучшения, если иное не предусмотрено договором аренды предприятия.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/4019/dfasq8x9mv/"></a>Если объект финансовой аренды улучшен с разрешения арендодателя (лизингодателя), то по истечении срока договора или при расторжении его арендатор (лизингополучатель) имеет право потребовать возмещения всех произведенных с этой целью расходов, если иное не предусмотрено договором финансовой аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/4019/dfas23r52x/"></a>Средства, вложенные на улучшение объекта финансовой аренды, произведенное без разрешения арендодателя (лизингодателя) и неотделимое от объекта финансовой аренды без причинения ему ущерба, по истечении срока договора финансовой аренды или при расторжении его безвозмездно переходят к арендодателю (лизингодателю), если иное не предусмотрено договором финансовой аренды. Однако, если это улучшение отделимо без причинения ущерба объекту финансовой аренды, то арендатор (лизингополучатель) может его изъять, если арендодатель (лизингодатель) не согласен возместить его стоимость.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/4019/dfasclvlls/"></a>33. При финансовой аренде возникают такие затраты, как амортизационные отчисления на объект финансовой аренды за каждый отчетный период. Начисление амортизации по объектам финансовой аренды осуществляется арендатором (лизингополучателем) в соответствии с Национальным стандартом бухгалтерского учета Республики Узбекистан (НСБУ № 5) &#171;Основные средства&#187; (рег. № 1299 от 20 января 2004 года).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/4019/dfasldg5sx/"></a>34. При отсутствии уверенности в том, что арендатор (лизингополучатель) получит право собственности на объект финансовой аренды по истечении срока договора финансовой аренды, он может быть полностью амортизирован по меньшему из сроков: либо в течение срока договора финансовой аренды, либо в течение срока службы объекта финансовой аренды &#8212; в зависимости от того, который из них короче.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/4019/dfas2d7oll/"></a>35. Сумма амортизационных отчислений по объекту финансовой аренды и финансовые расходы (проценты по финансовой аренде) арендатора (лизингополучателя) за конкретный период могут быть не равны сумме арендных (лизинговых) платежей, подлежащих выплате за этот период.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/4019/dfasw8gden/"></a>36. Ежегодная переоценка объектов финансовой аренды производится арендатором (лизингополучателем) в установленном законодательством порядке.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/4019/dfaswwpkzh/"></a>37. Списание с баланса в связи с возвратом объектов финансовой аренды арендатором (лизингополучателем) при прекращении договора финансовой аренды осуществляется по сумме невозмещенной стоимости объекта финансовой аренды на дату прекращения финансовой аренды согласно договору финансовой аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/4019/dfasg9g4yo/"></a>Финансовый результат (прибыль или убыток) от выбытия объекта финансовой аренды определяется как разница между остаточной (балансовой) стоимостью объекта финансовой аренды и оставшейся задолженностью по графику (порядку) уплаты арендных (лизинговых) платежей, скорректированная на сумму расходов, связанных с выбытием объекта финансовой аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/4019/dfas88s1k0/"></a>При определении финансового результата (прибыли или убытка) от выбытия объекта финансовой аренды сумма дооценки объекта финансовой аренды, который ранее был переоценен, превышение сумм предыдущих дооценок над суммой предыдущих уценок этого объекта финансовой аренды включается в состав дохода от выбытия объектов финансовой аренды с одновременным уменьшением резервного капитала по счету &#171;Корректировки по переоценке имущества&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/4019/dfasq9mp14/"></a>38. В бухгалтерском учете арендодателя (лизингодателя) финансовая аренда должна быть признана в качестве актива (как дебиторская задолженность) по суммам, равным на начало срока финансовой аренды либо текущей стоимости объекта финансовой аренды, либо дисконтированной стоимости минимальных арендных (лизинговых) платежей, если она ниже.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/4019/dfasx6shxo/"></a>39. Процентный доход арендодателя (лизингодателя) должен быть разбит по периодам в течение срока договора финансовой аренды и отражен в графике (порядке) уплаты арендных (лизинговых) платежей с целью установления постоянного процентного дохода на остаток непогашенного обязательства за каждый период договора финансовой аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/4019/dfasu5g71f/"></a>40. Затраты, осуществленные арендодателем (лизингодателем), связанные с поставкой объекта финансовой аренды и приведением его в состояние, пригодное для использования, возмещаемые арендатором (лизингополучателем), согласно договору финансовой аренды, включаются в стоимость объекта финансовой аренды. При этом, если согласно договору финансовой аренды указанные затраты не возмещаются арендатором (лизингополучателем), то они признаются в качестве расходов соответствующего отчетного периода, в котором они возникли.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/4019/dfas176agb/"></a>41. В момент передачи (получения) объекта в финансовую аренду процентный доход арендодателя (расходы по процентам финансовой аренды арендатора (лизингополучателя)) в бухгалтерском учете не отражается.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/4019/dfas9a5a7g/"></a>При этом процентный доход арендодателя (лизингодателя) и расходы по процентам финансовой аренды арендатора (лизингополучателя) начисляются в соответствующих отчетных периодах согласно графику (порядку) уплаты арендных (лизинговых) платежей, независимо от времени оплаты и даты поступления денег.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/4019/dfasqqtsl9/"></a>42. При передаче объектов финансовой аренды разница между стоимостью, признаваемой в бухгалтерском учете арендодателя (лизингодателя) в качестве актива (как дебиторская задолженность), и первоначальной (если передаваемый объект не эксплуатировался) или остаточной (если объект до передачи находился в эксплуатации) стоимостью объектов финансовой аренды, скорректированная на результаты переоценки объектов финансовой аренды, учитываемые на резервном капитале по счету &#171;Корректировки по переоценке имущества&#187;, т. е. превышение сумм предыдущих дооценок над суммой предыдущих уценок этого объекта финансовой аренды, отражается как отсроченные доходы (расходы) и по мере начисления арендного (лизингового) платежа равномерно (ежемесячно) относится на прочие доходы от основной деятельности (прочие операционные расходы).</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/4019/dfasdo7g5l/"></a>43. Оприходование объектов финансовой аренды арендодателем при прекращении договора финансовой аренды осуществляется по сумме задолженности (дебиторской задолженности) на дату прекращения финансовой аренды согласно договору финансовой аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/4019/dfasssb2uw/"></a>44. В отношении конкретного объекта лизинга не допускается совмещение в одном лице кредитора лизингодателя и лизингополучателя в случае, когда объект лизинга приобретается за счет кредита (займа) лизингополучателя.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr79/" data-role="phrase-anchor" data-phrase-id="79" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr79"></a><a data-anchor="/document/90/4019/dfas6dmnd2/"></a>45. В случае, когда арендодатель приобретает объект аренды (лизинга) у будущего пользователя для последующей сдачи его в аренду (лизингу) этому же лицу, допускается совмещение арендатора и продавца в одном лице.</p><div class="doc__paragraph" data-type="paragraph" data-level="5"><a data-role="toc" data-anchor="/document/90/4019/tit5/"></a><span class="doc__paragraph-number" style="text-align:left"><a data-anchor="/document/90/4019/bssPhr80/" data-role="phrase-anchor" data-phrase-id="80" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr80"></a><a data-anchor="/document/90/4019/dfasrxopg9/"></a>&#167; 4. </span><span class="doc__paragraph-name">Учет оперативной аренды</span></div><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr81/" data-role="phrase-anchor" data-phrase-id="81" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr81"></a><a data-anchor="/document/90/4019/dfasdluoef/"></a>46. При оперативной аренде все риски, связанные с владением объектом аренды, не переходят к арендатору, и таким образом объект аренды, полученный по договору оперативной аренды, не должен учитываться на балансе арендатора.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr82/" data-role="phrase-anchor" data-phrase-id="82" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr82"></a><a data-anchor="/document/90/4019/dfas3lydex/"></a>47. Объект оперативной аренды учитывается арендатором на забалансовом счете по стоимости, указанной в договоре оперативной аренды, а у арендодателя &#8212; на балансовых счетах в составе основных средств.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr83/" data-role="phrase-anchor" data-phrase-id="83" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr83"></a><a data-anchor="/document/90/4019/dfas44f000/"></a>48. Начисленные арендные платежи при оперативной аренде, подлежащие к уплате арендатором, относятся к производственной себестоимости продукции (работ, услуг) и (или) расходам периода &#8212; в зависимости от их назначения.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr84/" data-role="phrase-anchor" data-phrase-id="84" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr84"></a><a data-anchor="/document/90/4019/dfasguuw9l/"></a>49. Расходы арендодателя, связанные с содержанием объектов оперативной аренды (расходы по амортизационным отчислениям, страхованию, капитальному и текущему ремонту, налогам, связанные с объектом оперативной аренды, и другие) признаются в качестве текущих расходов в том отчетном периоде, в котором они возникают.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr85/" data-role="phrase-anchor" data-phrase-id="85" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr85"></a><a data-anchor="/document/90/4019/dfasvrxwic/"></a>50. Начисленные арендные поступления при оперативной аренде, подлежащие к получению арендодателем, признаются в качестве дохода.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr86/" data-role="phrase-anchor" data-phrase-id="86" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr86"></a><a data-anchor="/document/90/4019/dfas2kbw6u/"></a>51. В договоре оперативной аренды может быть предусмотрено, что объект оперативной аренды переходит в собственность арендатора по истечении срока оперативной аренды или до его истечения при условии внесения арендатором всей обусловленной договором выкупной цены.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr87/" data-role="phrase-anchor" data-phrase-id="87" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr87"></a><a data-anchor="/document/90/4019/dfas4o8eb1/"></a>Если условие о выкупе объекта оперативной аренды не предусмотрено в договоре, оно может быть установлено дополнительным соглашением сторон, которые при этом вправе договориться о зачете ранее выплаченной платы за пользование объектом оперативной аренды в выкупную цену.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr88/" data-role="phrase-anchor" data-phrase-id="88" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr88"></a><a data-anchor="/document/90/4019/dfasigv4go/"></a>По истечении срока оперативной аренды или до его истечения, при условии внесения арендатором всей обусловленной договором выкупной цены и перехода прав собственности на объект оперативной аренды, он должен учитываться в бухгалтерском учете как имущество арендатора.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr89/" data-role="phrase-anchor" data-phrase-id="89" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr89"></a><a data-anchor="/document/90/4019/dfaswkbyxg/"></a>52. Затраты арендатора на улучшение объекта оперативной аренды (благоустройство, достройка, дооборудование, реконструкция, модернизация, техническое перевооружение и т. п.), отражаются как капитальные вложения, увеличивающие стоимость объекта оперативной аренды.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr90/" data-role="phrase-anchor" data-phrase-id="90" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr90"></a><a data-anchor="/document/90/4019/dfasuer93o/"></a>Если объект оперативной аренды улучшен с разрешения арендодателя, то по истечении срока договора оперативной аренды или при расторжении его арендатор имеет право потребовать возмещения всех произведенных с этой целью затрат.</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr91/" data-role="phrase-anchor" data-phrase-id="91" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr91"></a><a data-anchor="/document/90/4019/dfas8c9vdz/"></a>Затраты на улучшения, произведенные без разрешения арендодателя и не отделимые от объекта оперативной аренды без причинения ему ущерба, по истечении срока договора оперативной аренды или при расторжении его безвозмездно переходят к арендодателю, если иное не предусмотрено договором оперативной аренды. Однако, если эти улучшения отделимы без причинения ущерба объекту оперативной аренды, то арендатор может изъять их, если арендодатель не согласен возместить их стоимость.</p><div class="doc__paragraph" data-type="paragraph" data-level="5"><a data-role="toc" data-anchor="/document/90/4019/tit6/"></a><span class="doc__paragraph-number" style="text-align:left"><a data-anchor="/document/90/4019/bssPhr92/" data-role="phrase-anchor" data-phrase-id="92" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr92"></a><a data-anchor="/document/90/4019/dfasi3c2wy/"></a>&#167; 5. </span><span class="doc__paragraph-name">Раскрытие информации</span></div><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr93/" data-role="phrase-anchor" data-phrase-id="93" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr93"></a><a data-anchor="/document/90/4019/dfasrcq6u0/"></a>53. В финансовых отчетах и пояснениях к ним должны быть раскрыты:</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr94/" data-role="phrase-anchor" data-phrase-id="94" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr94"></a><a data-anchor="/document/90/4019/dfascmyqqz/"></a>а) информация о стоимости активов, являющихся объектами аренды (лизинга) на дату представления финансовой отчетности. Задолженности (дебиторская или кредиторская), связанные с данным арендованным имуществом, должны признаваться отдельно от других задолженностей, путем дифференциации на финансовые и оперативные;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr95/" data-role="phrase-anchor" data-phrase-id="95" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr95"></a><a data-anchor="/document/90/4019/dfassnbzsi/"></a>б) обязательства, касающиеся арендных (лизинговых) платежей по финансовой аренде в обобщенной форме, с представлением информации о суммах и периодах их выплаты;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr96/" data-role="phrase-anchor" data-phrase-id="96" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr96"></a><a data-anchor="/document/90/4019/dfasupyg68/"></a>в) информация по значительным финансовым ограничениям, правам возобновления финансовой аренды, приобретения объектов финансовой аренды и другим непредвиденным обстоятельствам, связанным с финансовой арендой;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr97/" data-role="phrase-anchor" data-phrase-id="97" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr97"></a><a data-anchor="/document/90/4019/dfasgcmwns/"></a>г) остаток суммы арендных (лизинговых) платежей и дохода арендодателя (лизингодателя), а также гарантированная остаточная стоимость объекта финансовой аренды на каждую дату составления финансовой отчетности;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr98/" data-role="phrase-anchor" data-phrase-id="98" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr98"></a><a data-anchor="/document/90/4019/dfasw3n9qf/"></a>д) метод, используемый при распределении дохода арендодателя (лизингодателя) (процентов по финансовой аренде) для получения постоянной процентной ставки к остатку непогашенного обязательства за период финансовой аренды;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr99/" data-role="phrase-anchor" data-phrase-id="99" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr99"></a><a data-anchor="/document/90/4019/dfas9aopam/"></a>е) информация о сумме ожидаемых будущих арендных (лизинговых) платежей по субаренде (сублизингу) на дату составления финансовой отчетности;</p><p style="text-align:left"><a data-anchor="/document/90/4019/bssPhr100/" data-role="phrase-anchor" data-phrase-id="100" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr100"></a><a data-anchor="/document/90/4019/dfascug8cq/"></a>ж) общее описание существенных условий договоров аренды.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

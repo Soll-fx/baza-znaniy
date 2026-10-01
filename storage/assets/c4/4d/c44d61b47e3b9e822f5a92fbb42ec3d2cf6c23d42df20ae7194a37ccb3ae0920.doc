@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как провести преобразование предприятия</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/218488/dfase1hf3l/" data-dfa="dfase1hf3l"></a><a data-anchor="/document/16/218488/bssPhr3/"></a>Из&nbsp;рекомендации Системы Главбух узнаете, что служит основанием для реорганизации предприятия в&nbsp;форме преобразования и&nbsp;когда уведомить кредиторов о&nbsp;преобразовании, а&nbsp;также какие правовые последствия возникают при реорганизации в&nbsp;форме преобразования. Эксперты пояснили, как провести государственную регистрацию и&nbsp;сформировать показатели финансовой отчетности при реорганизации в&nbsp;форме преобразования. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218488/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218488/bssPhr4/"></a><a data-anchor="/document/16/218488/dfas1qilvg/" data-dfa="dfas1qilvg"></a>Порядок действий при преобразовании</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218488/bssPhr6/"></a><a data-anchor="/document/16/218488/dfasf47obn/" data-dfa="dfasf47obn"></a>Последовательность действий при преобразовании, следующая:</p><ol class="c-list"><li><a data-anchor="/document/16/218488/bssPhr7/"></a><a data-anchor="/document/16/218488/dfasp18nax/" data-dfa="dfasp18nax"></a>Собственники предприятия принимают решение о&nbsp;преобразовании;</li><li><a data-anchor="/document/16/218488/bssPhr8/"></a><a data-anchor="/document/16/218488/dfastmm210/" data-dfa="dfastmm210"></a>Лица, назначенные собственниками, уведомляют заинтересованных лиц о&nbsp;начале реорганизации и&nbsp;размещают на&nbsp;ЕПИГУ сообщение об&nbsp;этом;</li><li><a data-anchor="/document/16/218488/bssPhr9/"></a><a data-anchor="/document/16/218488/dfasmktd3d/" data-dfa="dfasmktd3d"></a>Реорганизуемое предприятие проводит инвентаризацию имущества и&nbsp;обязательств;</li><li><a data-anchor="/document/16/218488/bssPhr10/"></a><a data-anchor="/document/16/218488/dfasp79f3k/" data-dfa="dfasp79f3k"></a>Реорганизуемое предприятие составляет заключительную финансовую отчетность и&nbsp;передаточный акт;</li><li><a data-anchor="/document/16/218488/bssPhr11/"></a><a data-anchor="/document/16/218488/dfaskpwi1p/" data-dfa="dfaskpwi1p"></a>Лица, назначенные собственниками, составляют новые учредительные документы;</li><li><a data-anchor="/document/16/218488/bssPhr12/"></a><a data-anchor="/document/16/218488/dfascil35c/" data-dfa="dfascil35c"></a>Учредители проводят совместное собрание, на&nbsp;котором утверждают передаточные; акты, новые учредительные документы и&nbsp;избирают исполнительный орган;</li><li><a data-anchor="/document/16/218488/bssPhr13/"></a><a data-anchor="/document/16/218488/dfaslc7hmi/" data-dfa="dfaslc7hmi"></a>Лица, назначенные собственниками, проводят регистрацию нового предприятия;</li><li><a data-anchor="/document/16/218488/bssPhr14/"></a><a data-anchor="/document/16/218488/dfas57qk7q/" data-dfa="dfas57qk7q"></a>8. Бухгалтерия нового предприятия формирует вступительную финансовую отчетность.</li></ol></div><a data-anchor="/document/16/218488/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218488/bssPhr15/"></a><a data-anchor="/document/16/218488/dfasy45cuh/" data-dfa="dfasy45cuh"></a>Процедура реорганизации в&nbsp;форме преобразования</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:59pt"><a data-anchor="/document/16/218488/bssPhr17/"></a><a data-anchor="/document/16/218488/dfasmakgmx/" data-dfa="dfasmakgmx"></a>Если вы&nbsp;хотите преобразовать одну организацию в&nbsp;другую, чтобы изменить организационно-правовую форму, то&nbsp;проведите <span num="1" lnktype="intlnk" title="" class="doc">преобразование</span>.</p><p><a data-anchor="/document/16/218488/bssPhr18/"></a><a data-anchor="/document/16/218488/dfaslomix5/" data-dfa="dfaslomix5"></a>При преобразовании формируются новые устав и&nbsp;учредительные документы, при этом новая организация полностью принимает на&nbsp;себя все обязательства предыдущей организации. Главное отличие реорганизации в&nbsp;форме преобразования от&nbsp;других видов реорганизации это&nbsp;то, что в&nbsp;процедуре участвует только одно юрлицо и&nbsp;после завершения реорганизации остается только одно юрлицо. Поэтому при преобразовании не&nbsp;заключают договор о&nbsp;реорганизации.</p><p><a data-anchor="/document/16/218488/bssPhr19/"></a><a data-anchor="/document/16/218488/dfas6bpgki/" data-dfa="dfas6bpgki"></a>Основанием для начала процедуры преобразования служит решение общего собрания участников.</p><p><a data-anchor="/document/16/218488/bssPhr20/"></a><a data-anchor="/document/16/218488/dfas095p08/" data-dfa="dfas095p08"></a>Прежде чем начать процедуру преобразования, проведите общее собрание участников, на&nbsp;котором рассмотрите вопросы:</p><ul class="c-list"><li><a data-anchor="/document/16/218488/bssPhr21/"></a><a data-anchor="/document/16/218488/dfas9uv6dp/" data-dfa="dfas9uv6dp"></a>о&nbsp;порядке и&nbsp;условиях преобразования;</li><li>порядке обмена долей участников на&nbsp;акции, паи;</li><li>утверждении учредительных документов предприятия, создаваемого вследствие преобразования, и&nbsp;передаточного акта.</li></ul><p style="margin-right:59pt"><a data-anchor="/document/16/218488/bssPhr22/"></a><a data-anchor="/document/16/218488/dfasy2vcgf/" data-dfa="dfasy2vcgf"></a>Выступления участников по&nbsp;каждому вопросу вносите в <span num="3" lnktype="intlnk" title="" class="doc">протокол общего собрания</span>.</p><p style="margin-right:59pt"><a data-anchor="/document/16/218488/bssPhr23/"></a><a data-anchor="/document/16/218488/dfasir8ywg/" data-dfa="dfasir8ywg"></a>После согласования всех условий и&nbsp;вопросов, общее собрание принимает решение о&nbsp;преобразовании. В&nbsp;решении общего собрания о&nbsp;преобразовании отразите:</p><ul class="c-list"><li><a data-anchor="/document/16/218488/bssPhr24/"></a><a data-anchor="/document/16/218488/dfasa1aexl/" data-dfa="dfasa1aexl"></a>порядок и&nbsp;условия преобразования;</li><li>сроки проведения инвентаризации;</li><li>способ оценки передаваемых активов и&nbsp;обязательств;</li><li>порядок распределения чистой прибыли;</li><li>порядок обмена долей участников на&nbsp;акции юрлица, создаваемого в&nbsp;результате преобразования;</li><li>формирование и&nbsp;величину уставного капитала нового предприятия;</li><li>утверждение учредительных документов нового юрлица и <span num="5" lnktype="intlnk" title="" class="doc">передаточного акта</span>.</li></ul><p><a data-anchor="/document/16/218488/dfasxfl9sr/" data-dfa="dfasxfl9sr"></a></p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно&#160;ли менять размер уставного фонда в&#160;процессе преобразования</name></p><div class="incut-v4__content" data-incut-content=""><p style="margin-right:59pt"><a data-anchor="/document/16/218488/bssPhr26/"></a><a data-anchor="/document/16/218488/dfasgbmadb/" data-dfa="dfasgbmadb"></a>Да, можно.</p><p style="margin-right:59pt"><a data-anchor="/document/16/218488/bssPhr27/"></a><a data-anchor="/document/16/218488/dfasa3vb67/" data-dfa="dfasa3vb67"></a>Реорганизация в&nbsp;форме преобразования не&nbsp;предполагает изменения размера уставного фонда. Однако увеличить или уменьшить размер уставного фонда можно как отдельно от&nbsp;процедуры преобразования, так и&nbsp;в&nbsp;процессе преобразования. Изменения отразите в <span num="7" lnktype="intlnk" title="" class="doc">решении общего собрания участников</span>.</p></div></div></div><a data-anchor="/document/16/218488/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218488/bssPhr28/"></a><a data-anchor="/document/16/218488/dfas55uyc1/" data-dfa="dfas55uyc1"></a>Уведомление контрагентов о&nbsp;преобразовании</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:59pt"><a data-anchor="/document/16/218488/bssPhr30/"></a><a data-anchor="/document/16/218488/dfas4gv6al/" data-dfa="dfas4gv6al"></a>Если общее собрание участников приняло решение о&nbsp;преобразовании, письменно уведомите об&nbsp;этом кредиторов в&nbsp;течение 30&nbsp;дней с&nbsp;даты принятия решения. Сообщение о&nbsp;начале преобразования разместите на <a href="https://my.gov.uz/ru" target="_self" title="">ЕПИГУ</a> для ознакомления кредиторов. Публикация сообщения в&nbsp;печатных СМИ не&nbsp;нужна.</p><p><a data-anchor="/document/16/218488/bssPhr31/"></a><a data-anchor="/document/16/218488/dfase970ci/" data-dfa="dfase970ci"></a>Кредиторы могут потребовать досрочного исполнения обязательства и&nbsp;возмещения убытков (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;52&nbsp;ГК</span>).</p></div><a data-anchor="/document/16/218488/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218488/bssPhr32/"></a><a data-anchor="/document/16/218488/dfas2qwybg/" data-dfa="dfas2qwybg"></a>Инвентаризация</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218488/bssPhr34/"></a><a data-anchor="/document/16/218488/dfas8660m6/" data-dfa="dfas8660m6"></a>Инвентаризацию проводят для того, чтобы определить активы и&nbsp;обязательства, которые будут переданы новому предприятию. Срок проведения инвентаризации определяют учредители в&nbsp;протоколе о&nbsp;реорганизации. Инвентаризацию проводите в&nbsp;соответствии с&nbsp;правилами <span num="81" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;19</span>.</p><p><a data-anchor="/document/16/218488/bssPhr35/"></a><a data-anchor="/document/16/218488/dfas7snnub/" data-dfa="dfas7snnub"></a>При инвентаризации проверьте:</p><ul class="c-list"><li><a data-anchor="/document/16/218488/bssPhr36/"></a><a data-anchor="/document/16/218488/dfas3nwzg1/" data-dfa="dfas3nwzg1"></a>все имущество;</li><li>дебиторскую и&nbsp;кредиторскую задолженности;</li><li>наличие документов, подтверждающих право собственности на&nbsp;объекты недвижимости и&nbsp;на&nbsp;право пользования нематериальными активами.</li></ul><p><a data-anchor="/document/16/218488/bssPhr37/"></a><a data-anchor="/document/16/218488/dfasawauns/" data-dfa="dfasawauns"></a>Если обнаружены расхождения между данными бухучета и&nbsp;данными инвентаризации, внесите корректировки в&nbsp;бухучет (глава&nbsp;<span num="82" target="_self" lnktype="intlnk" title="" class="doc">5</span>&nbsp;НСБУ №&nbsp;19).</p><p><a data-anchor="/document/16/218488/bssPhr38/"></a><a data-anchor="/document/16/218488/dfas0gdknh/" data-dfa="dfas0gdknh"></a>Описи и&nbsp;акты инвентаризации по&nbsp;передаваемому имуществу и&nbsp;обязательствам, приложите к&nbsp;передаточному акту.</p></div><a data-anchor="/document/16/218488/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218488/bssPhr39/"></a><a data-anchor="/document/16/218488/dfaslflmma/" data-dfa="dfaslflmma"></a>Заключительная финансовая отчетность</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218488/bssPhr41/"></a><a data-anchor="/document/16/218488/dfashxew8d/" data-dfa="dfashxew8d"></a>Реорганизуемое предприятие продолжает вести свою деятельность и&nbsp;учет операций в&nbsp;обычном порядке до&nbsp;внесения в&nbsp;Единый государственный реестр юрлиц записи о&nbsp;регистрации нового предприятия (п.&nbsp;<span num="97" target="_self" lnktype="intlnk" title="" class="doc">20</span>&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218488/bssPhr42/"></a><a data-anchor="/document/16/218488/dfasfz1wbr/" data-dfa="dfasfz1wbr"></a>Все эти операции учитываются при составлении заключительной отчетности.</p><p><a data-anchor="/document/16/218488/bssPhr43/"></a><a data-anchor="/document/16/218488/dfas4n2clf/" data-dfa="dfas4n2clf"></a>При подготовке финансовой отчетности нужно определить в&nbsp;какой оценке будут передаваться активы и&nbsp;обязательства правопреемнику-новому предприятию. Способ оценки определяют учредители в&nbsp;протоколе о&nbsp;реорганизации. Виды, применяемых оценок имущества, определены в&nbsp;приложении к&nbsp;<span num="83" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>.</p><p><a data-anchor="/document/16/218488/bssPhr44/"></a><a data-anchor="/document/16/218488/dfasvwdgw3/" data-dfa="dfasvwdgw3"></a>Если при оценке активов возникли отклонения, их&nbsp;реорганизуемое предприятие отражает на&nbsp;счетах учета прочих доходов или расходов (абз.&nbsp;<span num="98" target="_self" lnktype="intlnk" title="" class="doc">2</span> п.&nbsp;26&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218488/bssPhr45/"></a><a data-anchor="/document/16/218488/dfask27wcd/" data-dfa="dfask27wcd"></a>Обязательства реорганизуемого&nbsp;предприятия&nbsp;отражает в&nbsp;финансовой отчетности в&nbsp;сумме, которая получилась по&nbsp;результатам инвентаризации (абз.&nbsp;1 п.&nbsp;<span num="99" target="_self" lnktype="intlnk" title="" class="doc">18</span>&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218488/bssPhr46/"></a><a data-anchor="/document/16/218488/dfasnmvlht/" data-dfa="dfasnmvlht"></a>До&nbsp;составления заключительной финансовой отчетности закройте счета учета доходов и&nbsp;расходов. Направьте или распределите суммы чистой прибыли преобразуемого предприятия на&nbsp;цели, определенные решением участников общего собрания о&nbsp;преобразовании (п.&nbsp;<span num="100" target="_self" lnktype="intlnk" title="" class="doc">59</span>&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218488/bssPhr47/"></a><a data-anchor="/document/16/218488/dfasfkqfo4/" data-dfa="dfasfkqfo4"></a>Заключительная финансовая отчетность состоит&nbsp;из:</p><ul class="c-list"><li><a data-anchor="/document/16/218488/bssPhr48/"></a><a data-anchor="/document/16/218488/dfas58i9c1/" data-dfa="dfas58i9c1"></a>Бухгалтерского баланса&nbsp;— <span num="39" target="_self" lnktype="intlnk" title="" class="doc">форма №&nbsp;1</span>;</li><li>Отчета о&nbsp;финансовых результатах&nbsp;— <span num="40" target="_self" lnktype="intlnk" title="" class="doc">форма №&nbsp;2</span>;</li><li>Отчета о&nbsp;денежных потоках&nbsp;— <span num="41" target="_self" lnktype="intlnk" title="" class="doc">форма №&nbsp;4</span>;</li><li>Отчета о&nbsp;собственном капитале&nbsp;— <span num="42" target="_self" lnktype="intlnk" title="" class="doc">форма №&nbsp;5</span>.</li></ul><p><a data-anchor="/document/16/218488/bssPhr49/"></a><a data-anchor="/document/16/218488/dfastox43t/" data-dfa="dfastox43t"></a>Заключительная финансовая отчетность малых предприятий и&nbsp;микрофирм состоит только из&nbsp;Бухгалтерского баланса&nbsp;— форма №&nbsp;1&nbsp;и&nbsp;Отчета о&nbsp;финансовых результатах&nbsp;— форма №&nbsp;2.</p><p><a data-anchor="/document/16/218488/bssPhr50/"></a><a data-anchor="/document/16/218488/dfasr66pc1/" data-dfa="dfasr66pc1"></a>То&nbsp;есть, это те&nbsp;формы, которые предусмотрены для годовой финансовой отчетности (<span num="43" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>, <span num="44" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>, <span num="45" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;5</span>&nbsp;Правил, рег. МЮ №&nbsp;1209 от&nbsp;24.01.2003г.).</p><p><a data-anchor="/document/16/218488/bssPhr51/"></a><a data-anchor="/document/16/218488/dfasy4lh08/" data-dfa="dfasy4lh08"></a>К&nbsp;финансовой отчетности приложите пояснительную записку, в&nbsp;которой укажите:</p><ul class="c-list"><li><a data-anchor="/document/16/218488/bssPhr52/"></a><a data-anchor="/document/16/218488/dfasqogths/" data-dfa="dfasqogths"></a>основания для проведения реорганизации;</li><li>данные о&nbsp;правопреемнике;</li><li>сумму расходов, связанных с&nbsp;реорганизацией;</li><li>другие данные, связанные с&nbsp;реорганизацией.</li></ul><p><a data-anchor="/document/16/218488/bssPhr53/"></a><a data-anchor="/document/16/218488/dfas4p26fx/" data-dfa="dfas4p26fx"></a>Финансовую отчетность составляйте с&nbsp;начала отчетного года и&nbsp;до&nbsp;даты внесения в&nbsp;ЕГРСП записи о&nbsp;регистрации нового предприятия.</p><p><a data-anchor="/document/16/218488/bssPhr54/"></a><a data-anchor="/document/16/218488/dfasvpuye1/" data-dfa="dfasvpuye1"></a>Если, с&nbsp;даты составления заключительной финансовой отчетности и&nbsp;до&nbsp;даты внесения в&nbsp;ЕГРСП записи о&nbsp;регистрации нового предприятия осуществлялись еще операции, то&nbsp;их&nbsp;также отражайте в&nbsp;учете, а&nbsp;информацию о&nbsp;них укажите в&nbsp;пояснительной записке, которую приложите к&nbsp;заключительной финансовой отчетности.</p></div><a data-anchor="/document/16/218488/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/218488/bssPhr55/"></a><a data-anchor="/document/16/218488/dfas85qeds/" data-dfa="dfas85qeds"></a>Передаточный акт</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218488/bssPhr57/"></a><a data-anchor="/document/16/218488/dfashvlmxy/" data-dfa="dfashvlmxy"></a>Реорганизуемое предприятие должно передать правопреемнику-новому предприятию все учетные документы, по&nbsp;которым не&nbsp;истек срок хранения. Обязательства по&nbsp;дальнейшему хранению этих документов возлагаются на&nbsp;новое предприятие (<span num="46" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;79&nbsp;НК).</p><p><a data-anchor="/document/16/218488/bssPhr58/"></a><a data-anchor="/document/16/218488/dfasfrvtgh/" data-dfa="dfasfrvtgh"></a>В&nbsp;передаточном акте реорганизуемые предприятия отражают не&nbsp;просто данные по&nbsp;счетам бухучета, а&nbsp;полную информацию о&nbsp;своих правах и&nbsp;обязанностях, обязательства всех кредиторов и&nbsp;дебиторов, в&nbsp;том числе и&nbsp;оспариваемые (п.&nbsp;<span num="101" target="_self" lnktype="intlnk" title="" class="doc">11</span>&nbsp;НСБУ №&nbsp;23, <span num="66" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;51</span>&nbsp;ГК).</p><p><a data-anchor="/document/16/218488/bssPhr59/"></a><a data-anchor="/document/16/218488/dfaseuxzwl/" data-dfa="dfaseuxzwl"></a>Передаточный акт должен содержать:</p><ul class="c-list"><li><a data-anchor="/document/16/218488/bssPhr60/"></a><a data-anchor="/document/16/218488/dfaspz1n81/" data-dfa="dfaspz1n81"></a>перечень документов, передаваемых правопреемнику;</li><li>данные по&nbsp;финансовой отчетности;</li><li>утверждение о&nbsp;передаче прав и&nbsp;обязательств правопреемнику.</li></ul><p><a data-anchor="/document/16/218488/bssPhr61/"></a><a data-anchor="/document/16/218488/dfasv2ab5w/" data-dfa="dfasv2ab5w"></a>В&nbsp;передаточный<strong> акт включайте </strong>(п.&nbsp;<span num="102" target="_self" lnktype="intlnk" title="" class="doc">11</span> и п.&nbsp;<span num="103" target="_self" lnktype="intlnk" title="" class="doc">12</span>&nbsp;НСБУ №&nbsp;23):</p><ul class="c-list"><li><a data-anchor="/document/16/218488/bssPhr62/"></a><a data-anchor="/document/16/218488/dfasqmk1hs/" data-dfa="dfasqmk1hs"></a>финансовую отчетность с&nbsp;отражением активов и&nbsp;обязательств в&nbsp;оценке на&nbsp;последнюю отчетную дату перед их&nbsp;передачей;</li><li>акты, описи инвентаризации активов и&nbsp;обязательств реорганизуемого предприятия;</li><li>первичные документы по&nbsp;материальным и&nbsp;нематериальным активам, акты, накладные приема-передачи основных средств, нематериальных активов, товарно-материальных запасов и&nbsp;др., перечни, описи иных активов, подлежащих приему-передаче при реорганизации;</li><li>расшифровки кредиторской и&nbsp;дебиторской задолженностей;</li><li>информацию о&nbsp;письменном уведомлении кредиторов и&nbsp;дебиторов о&nbsp;переходе имущества и&nbsp;обязательств по&nbsp;договорам к&nbsp;правопреемнику;</li><li>расчеты с&nbsp;бюджетом, государственными целевыми фондами и&nbsp;др.</li></ul><p><a data-anchor="/document/16/218488/bssPhr63/"></a><a data-anchor="/document/16/218488/dfas8tfc7k/" data-dfa="dfas8tfc7k"></a>Передаточный акт утверждают учредители на&nbsp;общем собрании.</p></div><a data-anchor="/document/16/218488/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/218488/bssPhr64/"></a><a data-anchor="/document/16/218488/dfasuygg6c/" data-dfa="dfasuygg6c"></a>Порядок госрегистрации при преобразовании</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:59pt"><a data-anchor="/document/16/218488/bssPhr66/"></a><a data-anchor="/document/16/218488/dfaswv3o41/" data-dfa="dfaswv3o41"></a>Завершающий этап процедуры преобразования&nbsp;— регистрация в&nbsp;течение 30&nbsp;дней нового предприятия в&nbsp;Центре госуслуг (<span num="14" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;1</span>&nbsp;к ПКМ от&nbsp;09.02.2017 №&nbsp;66).</p><p><a data-anchor="/document/16/218488/bssPhr67/"></a><a data-anchor="/document/16/218488/dfastzbfva/" data-dfa="dfastzbfva"></a>Госрегистрацию проводите через интернет на&nbsp;ЕПИГУ или в&nbsp;явочном порядке, через Центр госуслуг.</p><p><a data-anchor="/document/16/218488/bssPhr68/"></a><a data-anchor="/document/16/218488/dfaslrug5l/" data-dfa="dfaslrug5l"></a>Для проведения госрегистрации представите документы:</p><ul class="c-list"><li><a data-anchor="/document/16/218488/bssPhr69/"></a><a data-anchor="/document/16/218488/dfaso7l9ow/" data-dfa="dfaso7l9ow"></a>заявление о&nbsp;постановке на&nbsp;государственный учет нового предприятия;</li><li><span num="16" lnktype="intlnk" title="" class="doc">решение общего собрания участников</span> о&nbsp;преобразовании;</li><li>устав нового юрлица, созданного путем преобразования;</li><li><span num="18" lnktype="intlnk" title="" class="doc">передаточный акт</span> с&nbsp;положением о&nbsp;правопреемстве, то&nbsp;есть о&nbsp;переходе всех обязательств перед кредиторами и&nbsp;должниками, включая обязательства, оспариваемые перед кредиторами и&nbsp;должниками, включая обязательства, оспариваемые сторонами, к&nbsp;новому предприятию (<span num="49" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;51&nbsp;ГК</span>);— копию банковского платежного документа об&nbsp;уплате госпошлины.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218488/dfas4ziker/" data-dfa="dfas4ziker"></a><a data-anchor="/document/16/218488/bssPhr70/"></a>В&nbsp;явочном порядке документы на&nbsp;госрегистрацию подавайте в&nbsp;Центр госуслуг по&nbsp;месту нахождения реорганизуемого юрлица.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218488/dfasd8750r/" data-dfa="dfasd8750r"></a></p></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/218488/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/218488/bssPhr71/"></a><a data-anchor="/document/16/218488/dfasiceg3t/" data-dfa="dfasiceg3t"></a>Вступительная финансовая отчетность нового предприятия</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218488/bssPhr73/"></a><a data-anchor="/document/16/218488/dfas5xsgfb/" data-dfa="dfas5xsgfb"></a>Новое предприятие начинает формировать вступительную финансовую отчетность с&nbsp;даты гос. регистрации на&nbsp;основании передаточного акта и&nbsp;заключительной финансовой отчетности реорганизуемого предприятия. Для этого перенесите все показатели заключительной финансовой отчетности реорганизуемого предприятия (п.&nbsp;<span num="104" target="_self" lnktype="intlnk" title="" class="doc">60</span>&nbsp;НСБУ №&nbsp;23).</p></div><a data-anchor="/document/16/218488/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/218488/bssPhr74/"></a><a data-anchor="/document/16/218488/dfas9azftr/" data-dfa="dfas9azftr"></a>Уставный фонд отражается в&nbsp;учете у&nbsp;нового предприятия в&nbsp;порядке и&nbsp;сумме определенном в&nbsp;решении собственников. Правовые последствия преобразования</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:59pt"><a data-anchor="/document/16/218488/bssPhr76/"></a><a data-anchor="/document/16/218488/dfasxevoe7/" data-dfa="dfasxevoe7"></a>При реорганизации юрлица в&nbsp;форме преобразования права реорганизуемого юрлица в&nbsp;порядке универсального правопреемства переходят к&nbsp;вновь образованному. Право требования и&nbsp;договорные обязательства перед контрагентами переходят к&nbsp;правопреемнику.</p><p><a data-anchor="/document/16/218488/bssPhr77/"></a><a data-anchor="/document/16/218488/dfashud0kc/" data-dfa="dfashud0kc"></a>При преобразовании одного юрлица в&nbsp;другое правопреемником в&nbsp;части исполнения налогового обязательства признается вновь возникшее юрлицо (<span num="51" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;92&nbsp;НК</span>). При преобразовании трудовые отношения с&nbsp;согласия работников продолжаются (<span num="52" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;156&nbsp;ТК</span>). К&nbsp;трудовым договорам оформите дополнительные соглашения, в&nbsp;трудовых книжках сделайте записи о&nbsp;реорганизации, внесите изменения в&nbsp;системе ЕНСТ.</p><p><a data-anchor="/document/16/218488/bssPhr78/"></a><a data-anchor="/document/16/218488/dfasbt6g3k/" data-dfa="dfasbt6g3k"></a>Имущество и&nbsp;обязательства переходят к&nbsp;вновь образованной организации, она наследует все права и&nbsp;обязанности старой. Лицензии при преобразовании не&nbsp;прекращают действие в&nbsp;случае, если возникшая организация будет осуществлять тот&nbsp;же вид лицензируемой деятельности (<span num="53" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;23</span>&nbsp;Закона о&nbsp;лицензировании отдельных видов деятельности).</p></div><p><a data-anchor="/document/16/218488/dfask1b4t2/" data-dfa="dfask1b4t2"></a><a data-anchor="/document/16/218488/bssPhr79/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882132" sourceId="1" fullSizeImageId="-41882131" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882132/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

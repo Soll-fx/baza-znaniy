@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">НДС в строительстве: как платить и оптимизировать</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203166/dfasxtkla9/" data-dfa="dfasxtkla9"></a><a data-anchor="/document/16/203166/bssPhr1/"></a>В связи с реформами в налоговой сфере выросло число строительных предприятий, которые перешли на общеустановленные налоги. Дело в том, что их выручка за 2018 год либо в текущем 2019 году превысила 1 млрд сумов и они потеряли право платить ЕНП <i><span class="xx-small">(см. пункт 1 части первой статьи 350 НК)</span></i>.</p><p><a data-anchor="/document/16/203166/dfasythdn3/" data-dfa="dfasythdn3"></a><a data-anchor="/document/16/203166/bssPhr2/"></a>Налог на добавленную стоимость, являясь общеустановленным налогом, начал оказывать большее влияние на цены в строительстве. Поэтому перед началом работ предприятию следует задуматься, как снизить их себестоимость через оптимизацию НДС или хотя бы правильно спрогнозировать предстоящие расходы с учетом данного налога.</p><p><a data-anchor="/document/16/203166/dfas09pphd/" data-dfa="dfas09pphd"></a><a data-anchor="/document/16/203166/bssPhr3/"></a>Расчет НДС в строительстве усложняет ряд факторов. В одних случаях стройматериалы покупают заказчики, в других – подрядчики. Стороны могут быть плательщиками либо неплательщиками НДС. Кроме того, в строительстве часто участвуют субподрядчики. В ситуациях, когда эти факторы комбинируются в различных сочетаниях, возникают сложные экономические схемы, в которых действуют свои особенности уплаты НДС.</p><p><a data-anchor="/document/16/203166/dfasy5wsel/" data-dfa="dfasy5wsel"></a><a data-anchor="/document/16/203166/bssPhr4/"></a>Рассмотрим несколько типовых ситуаций в отношениях между участниками строительства, а также ответим на вопрос, кто и как платит в них налог на добавленную стоимость. Кроме того, обсудим ценообразование в строительстве.</p><a data-anchor="/document/16/203166/dfasby8ezf/" data-dfa="dfasby8ezf"></a><a data-anchor="/document/16/203166/bssPhr5/"></a><a data-anchor="/document/16/203166/tit0/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Как взаимодействуют по НДС заказчики и строительные компании</h2><p><a data-anchor="/document/16/203166/dfasrzaiot/" data-dfa="dfasrzaiot"></a><a data-anchor="/document/16/203166/bssPhr6/"></a><b><i>Случай 1. Заказчик и подрядчик не платят НДС</i></b></p><p><a data-anchor="/document/16/203166/dfas7yf7yw/" data-dfa="dfas7yf7yw"></a><a data-anchor="/document/16/203166/bssPhr7/"></a>Заказчику, который применяет упрощенный порядок налогообложения, выгодно сотрудничать со строительными компаниями – неплательщиками НДС.  Стоимость выполненных таким подрядчиком работ и оказанных услуг не будет обременена НДС, который заказчик все равно не сможет принять в зачет <i><span class="xx-small">(часть первая статьи 118, часть первая статьи 218 НК)</span></i>.</p><p><a data-anchor="/document/16/203166/dfast6qi8f/" data-dfa="dfast6qi8f"></a><a data-anchor="/document/16/203166/bssPhr8/"></a>Но есть одно обстоятельство: при покупке подрядчиком стройматериалов с НДС этот налог войдет в общую стоимость строительства в составе стоимости материалов. Так подрядчик компенсирует свои расходы по налогообложению. Но при этом налог станет высокой надбавкой к стоимости материалов, что не соответствует экономическим интересам Заказчика.</p><p><a data-anchor="/document/16/203166/dfasb6r7ms/" data-dfa="dfasb6r7ms"></a><a data-anchor="/document/16/203166/bssPhr9/"></a>Когда нет гарантий, что подрядчик приобретет стройматериалы без НДС, для удешевления строительных работ рекомендуем указать в договоре строительного подряда, что заказчик самостоятельно обеспечивает работы материалами <i><span class="xx-small">(см. статью 672 ГК)</span></i>. Заказчикам выгоднее самим проконтролировать поиск поставщиков, которые не платят НДС, и закупить строительные материалы именно у них.</p><p><a data-anchor="/document/16/203166/dfasysagps/" data-dfa="dfasysagps"></a><a data-anchor="/document/16/203166/bssPhr10/"></a>Передача материалов от заказчика к подрядчику не будет облагаться ЕНП при условии, что право собственности на материалы сохранится по договору за заказчиком. Материалы останутся на балансе заказчика, а их стоимость попросту не войдет в валовую выручку подрядчика <i><span class="xx-small">(абзац третий пункта 1 части второй статьи 355 НК)</span></i>. Поэтому обязательно отразите в договоре сохранение права собственности на передаваемые материалы за заказчиком.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203166/dfasfk94oe/" data-dfa="dfasfk94oe"></a><a data-anchor="/document/16/203166/bssPhr11/"></a>Если объект строится с привлечением средств централизованных источников, плательщики ЕНП обязаны платить по нему НДС в общем порядке <i><span class="xx-small">(абзац четвертый статьи 349 НК)</span></i>.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/203166/dfasnri543/" data-dfa="dfasnri543"></a><a data-anchor="/document/16/203166/bssPhr12/"></a><b><i>Случай 2. Заказчик и подрядчик – плательщики НДС</i></b></p><p><a data-anchor="/document/16/203166/dfasmimz9e/" data-dfa="dfasmimz9e"></a><a data-anchor="/document/16/203166/bssPhr13/"></a>В отличие от предыдущей ситуации, здесь обе стороны заинтересованы, чтобы стройматериалы закупались с НДС. Ведь заказчик вправе зачесть сумму налога, которая уплачена как за выполненную работу, так и за строительные материалы. Подрядчик тоже зачтет НДС по стройматериалам, которые приобрел с этим налогом. При этом в зависимости от стороны – закупщика материалов механизм зачета может иметь 3 варианта.</p><p><a data-anchor="/document/16/203166/dfas0gowyb/" data-dfa="dfas0gowyb"></a><a data-anchor="/document/16/203166/bssPhr14/"></a>Вариант 1 – материалы приобрел подрядчик. Строительная компания выставляет заказчику НДС со стоимости выполненных и подтвержденных работ <i><span class="xx-small">(часть пятая статьи 204 НК)</span></i>. Туда войдет также НДС,  который «сидит» в стоимости приобретенных подрядчиком материалов. Заказчик затем примет в зачет весь входящий НДС по работам и материалам. </p><p><a data-anchor="/document/16/203166/dfasn13196/" data-dfa="dfasn13196"></a><a data-anchor="/document/16/203166/bssPhr15/"></a>Вариант 2 – материалы приобрел заказчик и передал их подрядчику <u>без сохранения права собственности</u> за собой. Это выгодно для заказчика с точки зрения минимизация риска случайной гибели или случайной порчи материалов <i><span class="xx-small">(см. статью 633 ГК)</span></i>. Риски перейдут к подрядчику, как к новому собственнику материалов.</p><p><a data-anchor="/document/16/203166/dfasx4gvuy/" data-dfa="dfasx4gvuy"></a><a data-anchor="/document/16/203166/bssPhr16/"></a>В данном случае считается, что заказчик реализовал подрядчику материалы и должен начислить и уплатить НДС в общем порядке <i><span class="xx-small">(см. пункт 1 части первой статьи 199 НК)</span></i>. При этом заказчик вправе зачесть входящий НДС по купленным у третьих лиц материалам при их реализации подрядчику.</p><p><a data-anchor="/document/16/203166/dfas4qu0hd/" data-dfa="dfas4qu0hd"></a><a data-anchor="/document/16/203166/bssPhr17/"></a>В свою очередь подрядчик должен оприходовать стройматериалы, и затем начислить НДС со стоимости выполненных и подтвержденных работ с включением в нее стоимости как самостоятельно приобретенных материалов, так и материалов, полученных от заказчика. Таким образом, НДС, который ранее был для заказчика исходящим, подрядчик выставит ему обратно при оформлении справки-счета-фактуры по выполненным строительным работам.</p><p><a data-anchor="/document/16/203166/dfasnhsvne/" data-dfa="dfasnhsvne"></a><a data-anchor="/document/16/203166/bssPhr18/"></a>Вариант 3 – материалы приобрел заказчик и передал их подрядчику, оставив право собственности за собой. Здесь при передаче материалов подрядчику не возникнет оборота по реализации <i><span class="xx-small">(см. пункт 9 части второй статьи 199 НК)</span></i>. Подрядчик выставит заказчику НДС по стоимости выполненных и подтвержденных работ без включения в нее стоимости материалов заказчика <i><span class="xx-small">(часть пятая статьи 204 НК)</span></i>.</p><p><a data-anchor="/document/16/203166/dfas0do2ww/" data-dfa="dfas0do2ww"></a><a data-anchor="/document/16/203166/bssPhr19/"></a>Во всех трех вариантах экономический эффект, в конечном итоге, одинаковый. Возможностей для оптимизации НДС путем самостоятельной закупки заказчиком материалов здесь нет. </p><p><a data-anchor="/document/16/203166/dfas07zk3a/" data-dfa="dfas07zk3a"></a><a data-anchor="/document/16/203166/bssPhr20/"></a><b><i>Ситуация 3. Заказчик и подрядчик применяют разные системы налогообложения</i></b></p><p><a data-anchor="/document/16/203166/dfasp0mqgv/" data-dfa="dfasp0mqgv"></a><a data-anchor="/document/16/203166/bssPhr21/"></a>Это самая рискованная с финансовой точки зрения ситуация. Здесь возможны максимальные налоговые потери.</p><p><a data-anchor="/document/16/203166/dfas713mxx/" data-dfa="dfas713mxx"></a><a data-anchor="/document/16/203166/bssPhr22/"></a><b>Вариант 1. </b>Заказчик не платит НДС, а подрядчик, наоборот, платит и сам закупает материалы.</p><p><a data-anchor="/document/16/203166/dfastwggac/" data-dfa="dfastwggac"></a><a data-anchor="/document/16/203166/bssPhr23/"></a>Тут строительная компания начисляет налог на всю выполненную работу, включая стройматериалы <i><span class="xx-small">(часть пятая статьи 204 НК)</span></i>. Заказчик не вправе принять НДС в зачет и налог становится надбавкой к цене работы и стройматериалов.</p><p><a data-anchor="/document/16/203166/dfasf8g7zl/" data-dfa="dfasf8g7zl"></a><a data-anchor="/document/16/203166/bssPhr24/"></a>В этой ситуации заказчику снова выгоднее закупать материалы самому без НДС, передавая их подрядчику с сохранением права собственности за собой. Если по договору обязанность по обеспечению материалами несет заказчик, то при сохранении права собственности на эти материалы за заказчиком, налогооблагаемая база по НДС – стоимость выполненных и подтвержденных работ без включения в нее стоимости материалов заказчика <i><span class="xx-small">(часть пятая статьи 204 НК)</span></i>. Это позволит существенно сэкономить.</p><p><a data-anchor="/document/16/203166/dfas0r4zsv/" data-dfa="dfas0r4zsv"></a><a data-anchor="/document/16/203166/bssPhr25/"></a><b>Вариант 2.</b> Заказчик платит НДС, а подрядчик – нет. </p><p><a data-anchor="/document/16/203166/dfashi8g87/" data-dfa="dfashi8g87"></a><a data-anchor="/document/16/203166/bssPhr26/"></a>Здесь подрядчик не сможет выставить НДС. Поскольку заказчику важен входящий налог, самостоятельная закупка материалов уже с НДС может помочь заказчику сэкономить на налоговых расходах.</p><a data-anchor="/document/16/203166/dfasi9fymg/" data-dfa="dfasi9fymg"></a><a data-anchor="/document/16/203166/bssPhr27/"></a><a data-anchor="/document/16/203166/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Как взаимодействуют по НДС генеральный подрядчик и субподрядчики</h2><p><a data-anchor="/document/16/203166/dfas0qnwxm/" data-dfa="dfas0qnwxm"></a><a data-anchor="/document/16/203166/bssPhr28/"></a>Теперь рассмотрим случаи, когда строительные работы выполняются подрядчиками с привлечением субподрядных организаций. Рассмотрим для начала взаимоотношения по цепочке НДС между всеми тремя субъектами – заказчиком, генподрядчиком и субподрядчиками.</p><p><a data-anchor="/document/16/203166/dfaszke097/" data-dfa="dfaszke097"></a><a data-anchor="/document/16/203166/bssPhr29/"></a>НДС начисляется у каждого звена:</p><p><a data-anchor="/document/16/203166/dfasmxnc5m/" data-dfa="dfasmxnc5m"></a><a data-anchor="/document/16/203166/bssPhr30/"></a>Этап 1. Субподрядные организации начисляют НДС с объема выполненных и подтвержденных генподрядчиком работ;</p><p><a data-anchor="/document/16/203166/dfas02b1fx/" data-dfa="dfas02b1fx"></a><a data-anchor="/document/16/203166/bssPhr31/"></a>Этап 2. Генподрядчик включает в облагаемый оборот как выполненные своими силами работы, так и субподрядные работы.</p><p><a data-anchor="/document/16/203166/dfasgsduv4/" data-dfa="dfasgsduv4"></a><a data-anchor="/document/16/203166/bssPhr32/"></a>Но на практике преобладают случаи, когда заказчики, подрядчики или субподрядчики являются плательщиками разных систем налогообложения.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203166/dfasce9sgw/" data-dfa="dfasce9sgw"></a><a data-anchor="/document/16/203166/bssPhr33/"></a>Заказчик и субподрядчики платят НДС, а между ними действует генподрядчик, который применяет ЕНП. Процентовка по объемам выполненных работ выглядит следующим образом:</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203166/dfas1cqqsg/" data-dfa="dfas1cqqsg"></a><a data-anchor="/document/16/203166/bssPhr34/"></a>Субподрядчик представляет свою процентовку генеральному подрядчику и включает в нее сумму НДС, которую отдельно выделяет в счете-фактуре. Стоимость сырья, материалов, услуг и работ сторонних организаций субподрядчик оплачивает с НДС. Входящий по стройматериалам НДС не «садится» в себестоимость, а выставляется далее генподрядчику.<span class="fill"> </span>Сумму «входящего» НДС субподрядчик принимает к зачету при исчислении налога, который подлежит перечислению в бюджет.</p><p><a data-anchor="/document/16/203166/dfaslhwfgv/" data-dfa="dfaslhwfgv"></a><a data-anchor="/document/16/203166/bssPhr35/"></a>Генподрядчик – плательщик единого налога представляет заказчику свою процентовку с объема выполненных самостоятельно работ без включения в нее сумм налога на добавленную стоимость. Материальные затраты (стоимость сырья, материалов, услуг и работ сторонних организаций, в т.ч субподрядные работы) подрядчик оплачивает (принимает) с НДС и эти материальные затраты включает в объем выполненных работ с учетом НДС. Т.е. НДС войдет в себестоимость, но не будет отдельно выделен при выставлении Заказчику.</p><p><a data-anchor="/document/16/203166/dfas856zzx/" data-dfa="dfas856zzx"></a><a data-anchor="/document/16/203166/bssPhr36/"></a>Заказчик – плательщик НДС оплачивает объем выполненных работ, принятых у генподрядчика без НДС и отражает их у себя в учете без НДС. Принять налог в зачет заказчик не сможет.</p></div></div><p><a data-anchor="/document/16/203166/dfasmzm1rg/" data-dfa="dfasmzm1rg"></a><a data-anchor="/document/16/203166/bssPhr37/"></a>Как видно, заказчику снова выгодно самостоятельно обеспечивать работы материалами, которые он может купить с НДС и принять по ним налог в зачет. В этом случае заказчик не списывает материалы с баланса. А в договоре с подрядчиком указывается только сумма работ без включения в нее стоимости материалов заказчика.</p><p><a data-anchor="/document/16/203166/dfasewzu7q/" data-dfa="dfasewzu7q"></a><a data-anchor="/document/16/203166/bssPhr38/"></a>Теперь рассмотрим примеры начисления НДС в отношениях между генподрядчиком и несколькими субподрядчиками.</p><p><a data-anchor="/document/16/203166/dfashma34s/" data-dfa="dfashma34s"></a><a data-anchor="/document/16/203166/bssPhr39/"></a><b>Вариант 1.</b></p><p><a data-anchor="/document/16/203166/dfasm0zk9b/" data-dfa="dfasm0zk9b"></a><a data-anchor="/document/16/203166/bssPhr40/"></a>Генподрядчик – плательщик НДС;</p><p><a data-anchor="/document/16/203166/dfasp80hdd/" data-dfa="dfasp80hdd"></a><a data-anchor="/document/16/203166/bssPhr41/"></a>Субподрядчики – плательщики и неплательщики НДС.</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr valign="top"><td><p><a data-anchor="/document/16/203166/dfasvda8wb/" data-dfa="dfasvda8wb"></a><a data-anchor="/document/16/203166/bssPhr42/"></a><b>Пример 1. </b><i>Генподрядчик обеспечивает субподрядчиков строительными материалами. Право собственности на строительные материалы не переходит от генподрядчика к субподрядчикам.</i></p></td><td><p><a data-anchor="/document/16/203166/dfaslon4g5/" data-dfa="dfaslon4g5"></a><a data-anchor="/document/16/203166/bssPhr43/"></a><b>Пример 2. </b><i>Генподрядчик не обеспечивает субподрядчиков строительными материалами.</i></p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203166/dfasyc7pld/" data-dfa="dfasyc7pld"></a><a data-anchor="/document/16/203166/bssPhr44/"></a>Генподрядчик, независимо от того, приобрел ли он строительные материалы с НДС или без НДС, передает материалы субподрядчикам (плательщикам или неплательщикам НДС) без НДС <i><span class="xx-small">(статьи 197, 200, 222 НК)</span></i>.</p><p><a data-anchor="/document/16/203166/dfas7xbfrv/" data-dfa="dfas7xbfrv"></a><a data-anchor="/document/16/203166/bssPhr45/"></a>Субподрядчики стоимость строительных материалов учитывают за балансом и в процентовку (акт выполненных работ) не включают.</p><p><a data-anchor="/document/16/203166/dfas9tdgxg/" data-dfa="dfas9tdgxg"></a><a data-anchor="/document/16/203166/bssPhr46/"></a>Субподрядчики – плательщики НДС начисляют налог на объем выполненных работ без включения стройматериалов генподрядчика <i><span class="xx-small">(часть пятая статьи 204 НК)</span></i>.</p></td><td><p><a data-anchor="/document/16/203166/dfas9p0m9c/" data-dfa="dfas9p0m9c"></a><a data-anchor="/document/16/203166/bssPhr47/"></a>Стоимость выполненных работ определяется с учетом стоимости строительных материалов.</p><p><a data-anchor="/document/16/203166/dfas651uak/" data-dfa="dfas651uak"></a><a data-anchor="/document/16/203166/bssPhr48/"></a>Если субподрядчик – плательщик НДС, то он начисляет НДС на объем выполненных работ с включением приобретенных им материалов <i><span class="xx-small">(статья 204 НК)</span></i>. НДС в счет-фактуре выделяется отдельно и принимается к зачету генподрядчиком.</p><p><a data-anchor="/document/16/203166/dfasigqgbx/" data-dfa="dfasigqgbx"></a><a data-anchor="/document/16/203166/bssPhr49/"></a>Если субподрядчик – неплательщик НДС, то НДС на объем выполненных работ он не начисляет. Но НДС, который выставили субподрядчику поставщики материалов, войдет в себестоимость работ в составе стоимости материалов. Генподрядчик принять данные суммы налога в зачет не сможет. Это значит, что стройматериалы обойдутся заказчику дороже.</p><p><a data-anchor="/document/16/203166/dfasgx38sb/" data-dfa="dfasgx38sb"></a><a data-anchor="/document/16/203166/bssPhr50/"></a>В случаях, когда генподрядчик купил стройматериалы, а затем передал их субподрядчикам без сохранения права собственности за собой, это право автоматически переходит к субподрядчикам.</p><p><a data-anchor="/document/16/203166/dfasvfcei1/" data-dfa="dfasvfcei1"></a><a data-anchor="/document/16/203166/bssPhr51/"></a>Генподрядчик, независимо от того приобрел ли он строительные материалы с НДС или без НДС, передает (реализует) материалы субподрядчикам (плательщикам или неплательщикам НДС) с НДС. При этом те же субподрядчики стоимость строительных материалов учитывают на балансе и включают в процентовку (акт выполненных работ).</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><p><a data-anchor="/document/16/203166/dfas0iu28r/" data-dfa="dfas0iu28r"></a><a data-anchor="/document/16/203166/bssPhr52/"></a><b>Вариант 2.</b></p><p><a data-anchor="/document/16/203166/dfasqnfyb4/" data-dfa="dfasqnfyb4"></a><a data-anchor="/document/16/203166/bssPhr53/"></a>Генподрядчик – неплательщик НДС;</p><p><a data-anchor="/document/16/203166/dfascvgelq/" data-dfa="dfascvgelq"></a><a data-anchor="/document/16/203166/bssPhr54/"></a>Субподрядчики – плательщики и неплательщики НДС.</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr valign="top"><td><p><a data-anchor="/document/16/203166/dfasz5v62s/" data-dfa="dfasz5v62s"></a><a data-anchor="/document/16/203166/bssPhr55/"></a><b>Пример 1.</b> <i>Генподрядчик обеспечивает субподрядчиков стройматериалами. Право собственности на стройматериалы от Генподрядчика к субподрядчикам не переходит.</i></p></td><td><p><a data-anchor="/document/16/203166/dfasz1q8ml/" data-dfa="dfasz1q8ml"></a><a data-anchor="/document/16/203166/bssPhr56/"></a><a data-anchor="/document/16/203166/_GoBack/"></a><b>Пример 2. </b><i>Генподрядчик не обеспечивает субподрядчиков строительными материалами. </i></p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203166/dfasf7a4m1/" data-dfa="dfasf7a4m1"></a><a data-anchor="/document/16/203166/bssPhr57/"></a>Генподрядчик, независимо от того, приобрел ли он строительные материалы с НДС или без НДС, передает материалы субподрядчикам (плательщикам или неплательщикам НДС) без НДС <i><span class="xx-small">(статьи 197, 200, 222 НК)</span></i>.</p><p><a data-anchor="/document/16/203166/dfasubgsr1/" data-dfa="dfasubgsr1"></a><a data-anchor="/document/16/203166/bssPhr58/"></a>Субподрядчики стоимость строительных материалов учитывают за балансом и в процентовку (акт выполненных работ) не включают.</p><p><a data-anchor="/document/16/203166/dfas8n22vz/" data-dfa="dfas8n22vz"></a><a data-anchor="/document/16/203166/bssPhr59/"></a>Субподрядчики – плательщики НДС начисляют налог на объем выполненных работ без включения стройматериалов генподрядчика <i><span class="xx-small">(часть пятая статьи 204 НК)</span></i>.</p></td><td><p><a data-anchor="/document/16/203166/dfas3pa50h/" data-dfa="dfas3pa50h"></a><a data-anchor="/document/16/203166/bssPhr60/"></a>Стоимость выполненных работ определяется с учетом стоимости строительных материалов.</p><p><a data-anchor="/document/16/203166/dfasi04tbn/" data-dfa="dfasi04tbn"></a><a data-anchor="/document/16/203166/bssPhr61/"></a>Если субподрядчик – плательщик НДС, то он начисляет НДС на объем выполненных работ с включением приобретенных им материалов <i><span class="xx-small">(статья 204 НК)</span></i>. НДС в счет фактуре выделяется отдельно, но не может быть принят к зачету генподрядчиком. Это значит, что работы и стройматериалы обойдутся заказчику дороже.</p><p><a data-anchor="/document/16/203166/dfasgi2kbk/" data-dfa="dfasgi2kbk"></a><a data-anchor="/document/16/203166/bssPhr62/"></a>Если субподрядчик – неплательщик НДС, то НДС на объем выполненных работ он не начисляет. Но НДС, который выставили субподрядчику поставщики материалов, войдет в себестоимость работ в составе стоимости материалов. Генподрядчик принять данные суммы налога в зачет не сможет. Это значит, что стройматериалы обойдутся заказчику дороже.</p><p><a data-anchor="/document/16/203166/dfas4vms8h/" data-dfa="dfas4vms8h"></a><a data-anchor="/document/16/203166/bssPhr63/"></a>В случаях, когда генподрядчик купил стройматериалы, а затем передал их субподрядчикам без сохранения права собственности за собой, это право автоматически переходит к субподрядчикам.</p><p><a data-anchor="/document/16/203166/dfaszie5rf/" data-dfa="dfaszie5rf"></a><a data-anchor="/document/16/203166/bssPhr64/"></a>Генподрядчик, независимо от того приобрел ли он строительные материалы с НДС или без НДС, передает либо продает материалы субподрядчикам (плательщикам или неплательщикам НДС) без НДС.</p><p><a data-anchor="/document/16/203166/dfas8z8og5/" data-dfa="dfas8z8og5"></a><a data-anchor="/document/16/203166/bssPhr65/"></a>Те же субподрядчики стоимость строительных материалов учитывают на балансе и включают в процентовку (акт выполненных работ). При этом субподрядчики – плательщики НДС начисляют налог на объем выполненных работ с включением строительных материалов, приобретенных у генподрядчика.</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><a data-anchor="/document/16/203166/dfas915k3g/" data-dfa="dfas915k3g"></a><a data-anchor="/document/16/203166/bssPhr66/"></a><a data-anchor="/document/16/203166/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2">Как формируются цены в строительстве</h2><p><a data-anchor="/document/16/203166/dfaskngmyh/" data-dfa="dfaskngmyh"></a><a data-anchor="/document/16/203166/bssPhr67/"></a>Формирование цен в строительстве регулирует Временное положение о порядке определения стоимости строительства объектов в договорных текущих ценах <i><span class="xx-small">(приложение №1 к ПКМ № 261 от 11.06.2003 г.)</span></i>.</p><p><a data-anchor="/document/16/203166/dfasuf6ir8/" data-dfa="dfasuf6ir8"></a><a data-anchor="/document/16/203166/bssPhr68/"></a>Договорная стоимость работ и услуг по строительству объекта формируется в текущих ценах по результатам конкурсных торгов (тендера).</p><p><a data-anchor="/document/16/203166/dfasp91qsq/" data-dfa="dfasp91qsq"></a><a data-anchor="/document/16/203166/bssPhr69/"></a>Подрядные организации (претенденты), участвующие в конкурсных торгах (тендерах), самостоятельно определяют цену конкурсного предложения <i><span class="xx-small">(пункт 10 Временного положения)</span></i>. При этом учитывается конъюнктура рынка подрядных работ, включая возможность определения затрат на заработную плату, условий и формы оплаты труда, сложившихся на предприятии.</p><p><a data-anchor="/document/16/203166/dfasp56bkg/" data-dfa="dfasp56bkg"></a><a data-anchor="/document/16/203166/bssPhr70/"></a>Стоимость строительства объекта рассчитывается заказчиком по ресурсному методу, который основан на калькуляции затрат в прогнозируемых текущих ценах и тарифах на ресурсы. </p><p><a data-anchor="/document/16/203166/dfaslf43cp/" data-dfa="dfaslf43cp"></a><a data-anchor="/document/16/203166/bssPhr71/"></a>Стоимость объекта в текущих ценах при «ресурсном методе» определяется по формуле:</p><p><a data-anchor="/document/16/203166/dfas044fkw/" data-dfa="dfas044fkw"></a><a data-anchor="/document/16/203166/bssPhr72/"></a>С = (Со + См + Сзп + Сэм +Пп + Пз + Ср) х Кр, где:</p><p><a data-anchor="/document/16/203166/dfasg5r2sv/" data-dfa="dfasg5r2sv"></a><a data-anchor="/document/16/203166/bssPhr73/"></a>Со – затраты на оборудование, мебель и инвентарь; </p><p><a data-anchor="/document/16/203166/dfasonyrxu/" data-dfa="dfasonyrxu"></a><a data-anchor="/document/16/203166/bssPhr74/"></a>См – затраты на строительные материалы, изделия и конструкции;</p><p><a data-anchor="/document/16/203166/dfasl98c07/" data-dfa="dfasl98c07"></a><a data-anchor="/document/16/203166/bssPhr75/"></a>Сзп – затраты на основную заработную плату с учетом начислений на социальное страхование;</p><p><a data-anchor="/document/16/203166/dfas4wmstt/" data-dfa="dfas4wmstt"></a><a data-anchor="/document/16/203166/bssPhr76/"></a>Сэм – затраты на эксплуатацию машин и механизмов;</p><p><a data-anchor="/document/16/203166/dfasvnqsn2/" data-dfa="dfasvnqsn2"></a><a data-anchor="/document/16/203166/bssPhr77/"></a>Пп – прочие затраты и расходы подрядчика;</p><p><a data-anchor="/document/16/203166/dfas5tg3y8/" data-dfa="dfas5tg3y8"></a><a data-anchor="/document/16/203166/bssPhr78/"></a>Пз – прочие затраты и расходы заказчика;</p><p><a data-anchor="/document/16/203166/dfasiki2i0/" data-dfa="dfasiki2i0"></a><a data-anchor="/document/16/203166/bssPhr79/"></a>Ср – затраты на страхование строительства объектов;</p><p><a data-anchor="/document/16/203166/dfas070t5o/" data-dfa="dfas070t5o"></a><a data-anchor="/document/16/203166/bssPhr80/"></a>Кр – коэффициент риска, определяемый исходя из прогнозируемого индекса роста цен в строительстве на очередной год <i><span class="xx-small">(пункт 11 Временного положения)</span></i>. </p><p><a data-anchor="/document/16/203166/dfasi2h784/" data-dfa="dfasi2h784"></a><a data-anchor="/document/16/203166/bssPhr81/"></a>Таким образом, при обложении НДС в договорную стоимость строительства включаются как основные затраты, так и прочие затраты, налоги, включаемые в стоимость продукции.</p><a data-anchor="/document/16/203166/dfasmdodm6/" data-dfa="dfasmdodm6"></a><a data-anchor="/document/16/203166/bssPhr82/"></a><a data-anchor="/document/16/203166/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3">Немного о счете-фактуре в строительстве</h2><p><a data-anchor="/document/16/203166/dfasrh7pwz/" data-dfa="dfasrh7pwz"></a><a data-anchor="/document/16/203166/bssPhr83/"></a>При выполнении работ (услуг) строительные организации обязаны выписывать счет-фактуру.</p><p><a data-anchor="/document/16/203166/dfaspxk1q6/" data-dfa="dfaspxk1q6"></a><a data-anchor="/document/16/203166/bssPhr84/"></a>Подрядчики не выписывают дополнительно счет-фактуру, если:</p><p><a data-anchor="/document/16/203166/dfas0rl8wv/" data-dfa="dfas0rl8wv"></a><a data-anchor="/document/16/203166/bssPhr85/"></a>а) справка-счет-фактура для заказчика содержит обязательные реквизиты:</p><p><a data-anchor="/document/16/203166/dfas9tr8gf/" data-dfa="dfas9tr8gf"></a><a data-anchor="/document/16/203166/bssPhr86/"></a>– регистрационный номер и дата договора;</p><p><a data-anchor="/document/16/203166/dfasze85ta/" data-dfa="dfasze85ta"></a><a data-anchor="/document/16/203166/bssPhr87/"></a>– наименование;</p><p><a data-anchor="/document/16/203166/dfasat2o5f/" data-dfa="dfasat2o5f"></a><a data-anchor="/document/16/203166/bssPhr88/"></a>– адреса;</p><p><a data-anchor="/document/16/203166/dfasbh4tzx/" data-dfa="dfasbh4tzx"></a><a data-anchor="/document/16/203166/bssPhr89/"></a>– ИНН.</p><p><a data-anchor="/document/16/203166/dfasvpfh3g/" data-dfa="dfasvpfh3g"></a><a data-anchor="/document/16/203166/bssPhr90/"></a>б) отдельно выделены ставка и сумма НДС;</p><p><a data-anchor="/document/16/203166/dfas3855m6/" data-dfa="dfas3855m6"></a><a data-anchor="/document/16/203166/bssPhr91/"></a>в) по неплательщикам налога на добавленную стоимость есть отметка «без НДС».</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

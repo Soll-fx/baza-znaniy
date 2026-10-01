@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как подтвердить и учесть расходы в период карантина</h2><div class="doc-snippet"><a data-anchor="/document/16/205794/bssPhr2/"></a><a data-anchor="/document/16/205794/dfasc21vdg/" data-dfa="dfasc21vdg"></a>. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/205794/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205794/bssPhr3/"></a><a data-anchor="/document/16/205794/dfas90m7ip/" data-dfa="dfas90m7ip"></a>Дополнительные расходы на средства защиты от COVID-19</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205794/bssPhr5/"></a><a data-anchor="/document/16/205794/dfasrss44t/" data-dfa="dfasrss44t"></a>Во многих регионах предприятия постепенно возобновляют работу.</p><p><a data-anchor="/document/16/205794/bssPhr6/"></a><a data-anchor="/document/16/205794/dfas350vo6/" data-dfa="dfas350vo6"></a>При этом все должны неукоснительно соблюдать правила <span num="8" lnktype="intlnk" title="" class="doc">СанПиН № 0372-20</span> и требования <span num="9" lnktype="intlnk" title="" class="doc">постановления</span> Кабмина от 23.03.2020 № 176 «О дополнительных мерах по предотвращению распространения коронавирусной инфекции».</p><p><a data-anchor="/document/16/205794/bssPhr7/"></a><a data-anchor="/document/16/205794/dfast27ges/" data-dfa="dfast27ges"></a>Санитарные правила – нормативный документ и обязательны для всех организаций. Нарушение санитарных правил влечет дисциплинарную, административную и уголовную ответственность. Руководители организаций несут персональную ответственность за соблюдение санитарных правил.</p><p><a data-anchor="/document/16/205794/bssPhr8/"></a><a data-anchor="/document/16/205794/dfas5s2e95/" data-dfa="dfas5s2e95"></a>Чтобы организовать работу в офисе согласно требованиям и обезопасить сотрудников, предприятиям потребуются дополнительные расходы.</p><p><a data-anchor="/document/16/205794/bssPhr9/"></a><a data-anchor="/document/16/205794/dfashku3kg/" data-dfa="dfashku3kg"></a>Требования по охране труда работников обязательны и предусмотрены ТК. Работодатель обязан предоставить сотрудникам нормальные условия труда, отвечающие требованиям безопасности и гигиены (<span num="10" lnktype="intlnk" title="" data-warm-notices="39188860,39200893,39213016,39225002,39237110,39249283,39261427,39273440,39285419,39297437,39310834,39323638,39335804,39347840,39359921,39372013,39384153,39396373,39408650,39420749,39433063,39445235,39457359,39469453,39481553,39493592,39505694,39517702,39527821,39537693,39547527,39557404,39567227,39577020,39587051,39605610,39616252,39626933,39636404,39645793,39655233,39664672,39674284,39683701,39693081,39702412,39712095,39721535,39731044,39740465,39749921,39759319,39768771,39778205,39787648,39797083,39806600,39815999,39825425,39834846,39844289,39853707,39863122,39872502,39882096,39891726,39901287,39910907,39920639,39930137,39939727,39949595,39959273,39968777,39978246,39987914,39997445,40006950,40016428,40025925,40035392,40044833,40054325,40064348,40073882,40083344" data-warm-notice-type="error" class="doc">ст. 211 ТК</span>).</p><p><a data-anchor="/document/16/205794/bssPhr10/"></a><a data-anchor="/document/16/205794/dfasbd4riq/" data-dfa="dfasbd4riq"></a>В период пандемии коронавируса к обычному перечню мероприятий добавлены масочный режим и повышенные требования к дезинфекции.</p></div><a data-anchor="/document/16/205794/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205794/bssPhr11/"></a><a data-anchor="/document/16/205794/dfas2k8dwm/" data-dfa="dfas2k8dwm"></a>Маски и перчатки</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205794/bssPhr14/"></a><a data-anchor="/document/16/205794/dfasniqpm7/" data-dfa="dfasniqpm7"></a>Какие средства защиты и по каким нормам работодатель обязан выдать работнику рассказал эксперт Системы Главбух в <span num="73" target="_self" lnktype="intlnk" title="" class="doc">рекомендации</span></p><p><a data-anchor="/document/16/205794/bssPhr15/"></a><a data-anchor="/document/16/205794/dfasgsxvai/" data-dfa="dfasgsxvai"></a><span num="33" lnktype="intlnk" title="" class="doc">СанПиН&nbsp;№ 0372-20</span> установил&nbsp;требования по организации деятельности всех предприятий, организаций и субъектов предпринимательства в условиях ограничительных мер, связанных с коронавирусной инфекцией, а также определены рекомендации по профилактике распространения коронавирусной инфекции среди работников. В том числе они предполагают закупку и применение в организациях термометров, средств индивидуальной защиты органов дыхания: масок и респираторов, перчаток, а также одноразовой посуды для столовых.</p><p><a data-anchor="/document/16/205794/bssPhr16/"></a><a data-anchor="/document/16/205794/dfaspde3ci/" data-dfa="dfaspde3ci"></a>В частности, работодатель обязан выдать:</p><ul class="c-list"><li><a data-anchor="/document/16/205794/bssPhr17/"></a><a data-anchor="/document/16/205794/dfasie9zyt/" data-dfa="dfasie9zyt"></a>работникам торговых точек и торговых комплексов как продовольственных, так и не продовольственных товаров, объектов оптовой торговли и магазинов непродовольственных товаров, в том числе автозапчастей, одежды, ювелирных изделий, оптики, цветочных магазинов, ломбардов: маски и перчатки (<span num="34" lnktype="intlnk" title="" class="doc">п. 5.1.2.5</span> правил СанПиН № 0372-20);</li><li>работникам организаций общественного питания, по реализации и доставке готовой пищи, а также пунктам быстрого питания и доставки: маски, сетки для волос, перчатки, комбинезон и рабочую обувь (<span num="35" lnktype="intlnk" title="" class="doc">п. 5.1.7.19</span> правил СанПиН № 0372-20);</li><li>работникам гостиниц, осуществляющих туристические и экскурсионные услуги: маски, перчатки (<span num="36" lnktype="intlnk" title="" class="doc">п. 5.1.8.2</span> правил СанПиН № 0372-20);</li><li>водителям любых общественных транспортных средств, в том числе такси: маски (<span num="37" lnktype="intlnk" title="" class="doc">п. 7.3</span> правил СанПиН № 0372-20);</li><li>сотрудникам сферы услуг, которые контактируют с клиентами: медицинский халат или спецодежда, медицинская маска (респиратор М-95 или двойная обычная маска), щиток и медицинские перчатки (<span data-warm-notices="10790172" data-warm-notice-type="error" num="38" lnktype="intlnk" title="" class="doc">п. 6.1.7 </span>правил СанПиН № 0372-20);</li><li>сотрудникам аптек: медицинские маски (респираторы), перчатки (<span num="39" lnktype="intlnk" title="" class="doc">п. 5.1.1.2</span> правил СанПиН № 0372-20);</li><li>сотрудникам банков: маски, перчатки (<span num="40" lnktype="intlnk" title="" class="doc">п. 6.6.7</span> правил СанПиН № 0372-20).</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205794/dfasirvo6g/" data-dfa="dfasirvo6g"></a><a data-anchor="/document/16/205794/bssPhr18/"></a>Не допускайте повторное использование одноразовых масок, перчаток и других средств гигиены (п. 3.3.7 ч. 2 правил СанПиН № 0372-20).</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205794/bssPhr19/"></a><a data-anchor="/document/16/205794/dfas1uo6ck/" data-dfa="dfas1uo6ck"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>По каким нормам выдавать маски в период карантина</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205794/bssPhr21/"></a><a data-anchor="/document/16/205794/dfasxyy39g/" data-dfa="dfasxyy39g"></a>Менять маску надо не реже чем через каждые три часа. Предприятие должно обеспечить работников запасом одноразовых масок исходя из этой нормы и продолжительности рабочей смены. Общее количество масок на одного работника в смену должно быть не менее пяти штук (<span num="11" lnktype="intlnk" title="" class="doc">п. 3.3.7</span> ч. 1 правил СанПиН № 0372-20).</p><p><a data-anchor="/document/16/205794/bssPhr22/"></a><a data-anchor="/document/16/205794/dfascan6rh/" data-dfa="dfascan6rh"></a>Это значит, что при 40-часовой рабочей неделе сотруднику нужно минимум 15 масок из расчета 3 маски на каждый рабочий день. При другом графике работ минимальная норма может быть другой.</p><p><a data-anchor="/document/16/205794/bssPhr23/"></a><a data-anchor="/document/16/205794/dfashgkis7/" data-dfa="dfashgkis7"></a>Закупать маски нужно заранее, поскольку должен быть обеспечен не менее чем пятидневный запас масок, респираторов и перчаток (<span num="12" lnktype="intlnk" title="" class="doc">п. 3.3.10</span> правил СанПиН № 0372-20).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205794/dfasx4r6uh/" data-dfa="dfasx4r6uh"></a><a data-anchor="/document/16/205794/bssPhr24/"></a>Расчета количества масок</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205794/bssPhr25/"></a><a data-anchor="/document/16/205794/dfasadgc6d/" data-dfa="dfasadgc6d"></a>В ООО «Альфа» установлена 40-часовая рабочая неделя. Численность персонала на момент закупки – 23 человека. Администрация решила сделать запас на две недели. Таким образом, потребность ООО «Альфа» составила:</p><p><a data-anchor="/document/16/205794/bssPhr26/"></a><a data-anchor="/document/16/205794/dfasug9tem/" data-dfa="dfasug9tem"></a>23 чел. × 15 шт. × 2 нед. = 690 масок.</p></div></div></div><a data-anchor="/document/16/205794/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205794/bssPhr27/"></a><a data-anchor="/document/16/205794/dfasbxqg0s/" data-dfa="dfasbxqg0s"></a>Оформление выдачи СИЗ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205794/bssPhr29/"></a><a data-anchor="/document/16/205794/dfasx82end/" data-dfa="dfasx82end"></a>Расходы на медицинские и гигиенические средства можно учесть при налогообложении. Обязательное условие для учета затрат – эти средства обязательны к применению или рекомендованы законодательством. Обосновать их закупку можно распоряжениями Правительства, Минздрава, санэпиднадзора. Расходы на медицинские и гигиенические средства отразите в бухучете.</p><p><a data-anchor="/document/16/205794/bssPhr30/"></a><a data-anchor="/document/16/205794/dfas8ccu9f/" data-dfa="dfas8ccu9f"></a>Чтобы закупить медицинские маски на весь персонал, издайте приказ о закупке. В нем определите период, на который нужно сделать запас исходя из минимальных норм выдачи, установленных правилами <span num="13" lnktype="intlnk" title="" class="doc">СанПиН № 0372-20</span>. Далее издайте <span num="48" lnktype="intlnk" title="" class="doc">приказ о выдаче</span> работникам масок и других средств индивидуальной защиты. Факт выдачи зафиксируйте в <span num="49" lnktype="intlnk" title="" class="doc">журнале</span>.</p><p><a data-anchor="/document/16/205794/bssPhr31/"></a><a data-anchor="/document/16/205794/dfasoc7gtc/" data-dfa="dfasoc7gtc"></a>Утилизировать маски можно вместе с бытовым мусором, поэтому дополнительных расходов на их уничтожение не возникает. Для этого использованные маски нужно положить в два полиэтиленовых пакета и герметично закрыть (<span num="14" lnktype="intlnk" title="" class="doc">п. 8.4</span> правил СанПиН № 0372-20).</p></div><a data-anchor="/document/16/205794/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205794/bssPhr32/"></a><a data-anchor="/document/16/205794/dfas8r3o0d/" data-dfa="dfas8r3o0d"></a>Средства дезинфекции и антисептики</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205794/bssPhr34/"></a><a data-anchor="/document/16/205794/dfasx1mohv/" data-dfa="dfasx1mohv"></a>Расходы на дезинфекцию и антисептики можно учесть при налогообложении. Обязательное условие для учета затрат – эти средства обязательны к применению или рекомендованы законодательством. Обосновать их закупку можно распоряжениями Правительства, Минздрава, санэпиднадзора. Расходы на дезинфицирующие средства отразите в бухучете.</p><p><a data-anchor="/document/16/205794/bssPhr35/"></a><a data-anchor="/document/16/205794/dfasktfmv9/" data-dfa="dfasktfmv9"></a>Закупка и применение в организациях антисептиков и средств для дезинфекции предусмотрена в Правилах <span num="15" lnktype="intlnk" title="" class="doc">СанПиН № 0372-20</span>.</p><p><a data-anchor="/document/16/205794/bssPhr36/"></a><a data-anchor="/document/16/205794/dfasl6097a/" data-dfa="dfasl6097a"></a>Пункты <span num="16" lnktype="intlnk" title="" class="doc">3.3.7</span>, <span num="17" lnktype="intlnk" title="" class="doc">3.3.8</span>, <span num="18" lnktype="intlnk" title="" class="doc">3.3.9</span> Правил СанПиН № 0372-20 обязывают организации и предпринимателей проводить профилактическую дезинфекцию во всех рабочих и служебных помещениях. Дезинфекцию необходимо производить каждые 2-4 часа с обработкой контактных поверхностей: дверных ручек, выключателей, поручней, перил, поверхностей столов, спинок стульев, оргтехники.</p><p><a data-anchor="/document/16/205794/bssPhr37/"></a><a data-anchor="/document/16/205794/dfasmlhit3/" data-dfa="dfasmlhit3"></a>Также работники должны быть обеспечены дезинфицирующими салфетками, кожными антисептиками для обработки рук, другими дезинфицирующими средствами.</p><p><a data-anchor="/document/16/205794/bssPhr38/"></a><a data-anchor="/document/16/205794/dfasshulx0/" data-dfa="dfasshulx0"></a>Порядок регулярной дезинфекции пропишите в локальных актах организации. Прежде всего издайте <span num="50" lnktype="intlnk" title="" class="doc">приказ</span>, по которому сотрудники обязаны выполнять мероприятия по дезинфекции. В дополнение к приказу утвердите <span num="51" lnktype="intlnk" title="" class="doc">инструкцию</span> по проведению дезинфекционных мероприятий. В ней перечислите перечень этих мероприятий и пропишите требования к ним. Для контроля за исполнением мероприятий утвердите <span num="52" lnktype="intlnk" title="" class="doc">график</span> дезинфекции помещений и ведите <span num="53" lnktype="intlnk" title="" class="doc">журнал</span> дезинфекции помещений. Если выдаете всем сотрудникам антисептики для обработки рук, издайте об этом отдельный <span num="54" lnktype="intlnk" title="" class="doc">приказ</span> руководителя.</p></div><a data-anchor="/document/16/205794/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/205794/bssPhr39/"></a><a data-anchor="/document/16/205794/dfasfn4712/" data-dfa="dfasfn4712"></a>Бухучет и налоги при расходах на СИЗ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205794/bssPhr41/"></a><a data-anchor="/document/16/205794/dfasoidfld/" data-dfa="dfasoidfld"></a>Бухучет и проводки</p><p><a data-anchor="/document/16/205794/bssPhr42/"></a><a data-anchor="/document/16/205794/dfasfxpkn1/" data-dfa="dfasfxpkn1"></a>Одноразовые маски, перчатки, дезинфицирующие средства, посуду и прочие расходные материалы учитывайте как материалы; термометры, санитарные халаты, обувь, комбинезоны, сетки для волос, щитки – как хозяйственный инвентарь. Материалы отразите на счете <strong>1090 «Прочие материалы»</strong>, а инвентарь – на счете <strong>1080 «Инвентарь и хозяйственные принадлежности»</strong>. Проводки будут следующие:</p><p><a data-anchor="/document/16/205794/bssPhr43/"></a><a data-anchor="/document/16/205794/dfas6uigmg/" data-dfa="dfas6uigmg"></a><strong>Дебет 1090, 1080 Кредит 6010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/205794/bssPhr44/"></a><a data-anchor="/document/16/205794/dfasmig850/" data-dfa="dfasmig850"></a>отражено поступление материалов, инвентаря и хоз.принадлежностей;</li></ul><p><a data-anchor="/document/16/205794/bssPhr45/"></a><a data-anchor="/document/16/205794/dfasw3g86b/" data-dfa="dfasw3g86b"></a><strong>Дебет 4410 Кредит 6010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/205794/bssPhr46/"></a><a data-anchor="/document/16/205794/dfasgisa4i/" data-dfa="dfasgisa4i"></a>отражен входной НДС по поступившим материалам, инвентарю и хоз.принадлежностям, уплаченный поставщику;</li></ul><p><a data-anchor="/document/16/205794/bssPhr47/"></a><a data-anchor="/document/16/205794/dfasfi661b/" data-dfa="dfasfi661b"></a><strong>Дебет 6410 Кредит 4410</strong></p><ul class="c-list"><li><a data-anchor="/document/16/205794/bssPhr48/"></a><a data-anchor="/document/16/205794/dfasavgdl9/" data-dfa="dfasavgdl9"></a>входной НДС принят к зачету;</li></ul><p><a data-anchor="/document/16/205794/bssPhr49/"></a><a data-anchor="/document/16/205794/dfasdy8mdv/" data-dfa="dfasdy8mdv"></a><strong>Дебет 2000, 2500, 2700, 9420, 9410 Кредит 1090, 1080</strong></p><ul class="c-list"><li><a data-anchor="/document/16/205794/bssPhr50/"></a><a data-anchor="/document/16/205794/dfaste49m3/" data-dfa="dfaste49m3"></a>материалы, инвентарь и хоз.принадлежности выданы работникам.</li></ul><p><a data-anchor="/document/16/205794/bssPhr51/"></a><a data-anchor="/document/16/205794/dfaslbqvau/" data-dfa="dfaslbqvau"></a>Подробнее о том, по какой стоимости приходовать материалы, инвентарь и хозяйственные принадлежности и какие документы оформить, читайте в рекомендациях про поступление и отпуск материалов, инвентаря и хоз.принадлежностей.</p><p><a data-anchor="/document/16/205794/bssPhr52/"></a><a data-anchor="/document/16/205794/dfasz4yl3r/" data-dfa="dfasz4yl3r"></a><strong>Налог на прибыль</strong></p><p><a data-anchor="/document/16/205794/bssPhr53/"></a><a data-anchor="/document/16/205794/dfasuqidxz/" data-dfa="dfasuqidxz"></a>НК относит к вычитаемым расходам по налогу на прибыль экономически оправданные и документально подтвержденные расходы предприятия, которые соответствуют хотя бы одному из трех условий, предусмотренных в <span num="19" target="_self" lnktype="intlnk" title="" class="doc">части 4</span> статьи 305 НК.</p><p><a data-anchor="/document/16/205794/bssPhr54/"></a><a data-anchor="/document/16/205794/dfasg4gdkt/" data-dfa="dfasg4gdkt"></a>Расходы на мероприятия по охране здоровья, когда обязанность проведения таких мероприятий возложена на налогоплательщика законодательством, также относятся к вычитаемым расходами при расчете налога на прибыль (<span num="20" target="_self" lnktype="intlnk" title="" class="doc">п. 13</span> ст. 317 НК).</p><p><a data-anchor="/document/16/205794/bssPhr55/"></a><a data-anchor="/document/16/205794/dfaslkzsd9/" data-dfa="dfaslkzsd9"></a>Исходя из этого, расходы на приобретение медицинских масок, перчаток, термометров, дезинфицирующих средств, которые используете для защиты от коронавируса по требованию властей, отразите в составе вычитаемых расходов на обеспечение нормальных условий труда (<span num="21" lnktype="intlnk" title="" class="doc">п. 3</span> ч. 4 ст. 305 НК и <span num="22" target="_self" lnktype="intlnk" title="" class="doc">п. 13</span> ст. 317 НК).</p><p><a data-anchor="/document/16/205794/bssPhr56/"></a><a data-anchor="/document/16/205794/dfasa6rt6a/" data-dfa="dfasa6rt6a"></a><strong>НДС</strong></p><p><a data-anchor="/document/16/205794/bssPhr57/"></a><a data-anchor="/document/16/205794/dfasi3gngm/" data-dfa="dfasi3gngm"></a>Входной НДС по гигиеническим, медицинским и дезинфицирующим средствам примите к вычету в общем порядке в соответствии со <span num="23" target="_self" lnktype="intlnk" title="" class="doc">статьей 266</span> НК.</p><p><a data-anchor="/document/16/205794/bssPhr58/"></a><a data-anchor="/document/16/205794/dfasywdp92/" data-dfa="dfasywdp92"></a><strong>Налог с оборота</strong></p><p><a data-anchor="/document/16/205794/bssPhr59/"></a><a data-anchor="/document/16/205794/dfasxncwpe/" data-dfa="dfasxncwpe"></a>При исчислении налога с оборота не учитывайте расходы на любые медицинские или гигиенические средства (<span num="24" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 463 НК, <span num="25" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 464 НК).</p></div><a data-anchor="/document/16/205794/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/205794/bssPhr60/"></a><a data-anchor="/document/16/205794/dfasprnned/" data-dfa="dfasprnned"></a>Испорченные ТМЦ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205794/bssPhr62/"></a><a data-anchor="/document/16/205794/dfastdhmug/" data-dfa="dfastdhmug"></a>Из-за ограничения работы во время самоизоляции/карантина часть продукции могла испортиться. Чтобы выявить потери, проведите инвентаризацию после снятия ограничений и оформите документы на недостачи. О том, <span num="63" lnktype="intlnk" title="" class="doc">как провести инвентаризацию</span>, – в рекомендации.</p><p><a data-anchor="/document/16/205794/bssPhr63/"></a><a data-anchor="/document/16/205794/dfasf77qb3/" data-dfa="dfasf77qb3"></a>Выявленные расхождения фактического наличия ценностей против данных бухгалтерского учета регулируйте в следующем порядке:</p><ul class="c-list"><li><a data-anchor="/document/16/205794/bssPhr64/"></a><a data-anchor="/document/16/205794/dfasvz5wem/" data-dfa="dfasvz5wem"></a>убыль ценностей в пределах установленных норм списывайте по распоряжению руководителя предприятия на издержки производства и обращения. При отсутствии утвержденных норм убыль рассматривается как недостача сверх норм;</li><li>недостачу ценностей сверх норм убыли, а также потери от порчи ценностей относите на виновных лиц;</li><li>недостача ценностей сверх норм убыли и потери от порчи ценностей в случаях, когда конкретные виновники недостач и порчи не установлены, могут быть списаны предприятием на издержки производства и обращения в соответствии с <span num="26" target="_self" lnktype="intlnk" title="" class="doc">Положением</span> о составе затрат.</li></ul><p><a data-anchor="/document/16/205794/bssPhr65/"></a><a data-anchor="/document/16/205794/dfasqq57p3/" data-dfa="dfasqq57p3"></a>При этом в документах, представляемых для оформления списания недостач ценностей сверх норм убыли и потерь от порчи ценностей, укажите меры, принятые по предотвращению таких недостач и потерь.</p><p><a data-anchor="/document/16/205794/bssPhr66/"></a><a data-anchor="/document/16/205794/dfasi20ouf/" data-dfa="dfasi20ouf"></a>Если порча товара не связана с его естественной убылью, то дополнительно к инвентаризационным документам оформите акт на списание негодного товара. Акт с указанием причин порчи ТМЦ подписывает комиссия и утверждает руководитель предприятия.</p><p><a data-anchor="/document/16/205794/bssPhr67/"></a><a data-anchor="/document/16/205794/dfasaf3yb2/" data-dfa="dfasaf3yb2"></a><strong>Налог на прибыль</strong></p><p><a data-anchor="/document/16/205794/bssPhr68/"></a><a data-anchor="/document/16/205794/dfasetvzo1/" data-dfa="dfasetvzo1"></a>К расходам, не подлежащим вычету при определении налоговой базы, относите потери и порчу сверх норм <span num="55" lnktype="intlnk" title="" class="doc">естественной убыли</span>&nbsp;материальных ценностей (<span num="27" target="_self" lnktype="intlnk" title="" class="doc">п. 1</span>&nbsp;ст. 317 НК).</p><p><a data-anchor="/document/16/205794/bssPhr69/"></a><a data-anchor="/document/16/205794/dfaspsrc0n/" data-dfa="dfaspsrc0n"></a>Нормы естественной убыли применяют для определения допустимой величины потерь от недостачи или порчи товарно-материальных запасов. Эти нормы разрабатывают отраслевые министерства и ведомства, непосредственно связанные с производством конкретных видов материалов, с учетом технологических условий их хранения и транспортировки, климатического и сезонного факторов.</p><p><a data-anchor="/document/16/205794/bssPhr70/"></a><a data-anchor="/document/16/205794/dfasbmzpo6/" data-dfa="dfasbmzpo6"></a>Все остальные потери относите к потерям сверх норм естественной убыли.</p><p><a data-anchor="/document/16/205794/bssPhr71/"></a><a data-anchor="/document/16/205794/dfasd26uto/" data-dfa="dfasd26uto"></a>Убытки от списания ТМЦ по причине негодности: истечения сроков хранения, физического или морального устаревания и иных подобных причин, относите к невычитаемым расходам при расчете налога на прибыль (<span num="28" target="_self" lnktype="intlnk" title="" class="doc">п. 34</span> ст. 317 НК).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205794/dfasqyugk1/" data-dfa="dfasqyugk1"></a><a data-anchor="/document/16/205794/bssPhr72/"></a>Применяя принцип бухгалтерского учета – предусмотрительность (осторожность), потери и недостачи, выявленные в результате инвентаризации после снятия карантина, относите к невычитаемым расходам.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205794/bssPhr73/"></a><a data-anchor="/document/16/205794/dfasl5m2h5/" data-dfa="dfasl5m2h5"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/205794/bssPhr74/"></a><a data-anchor="/document/16/205794/dfas4zeglv/" data-dfa="dfas4zeglv"></a><strong>НДС</strong></p><p><a data-anchor="/document/16/205794/bssPhr75/"></a><a data-anchor="/document/16/205794/dfasvi6l8f/" data-dfa="dfasvi6l8f"></a>НДС, ранее отнесенный в зачет по имуществу, утраченному либо испорченному в период самоизоляции/ карантина подлежит исключению из зачета, корректировке в соответствии со статьей 269 НК (<span num="29" target="_self" lnktype="intlnk" title="" class="doc">п. 2</span> ст. 269 НК). НДС корректируйте в сумме, ранее принятой к зачету по такому имуществу.</p><p><a data-anchor="/document/16/205794/bssPhr76/"></a><a data-anchor="/document/16/205794/dfasrbgtws/" data-dfa="dfasrbgtws"></a>Корректируйте налог в том налоговом периоде, в котором списываете ТМЦ из-за потери, порчи или недостачи (<span num="30" target="_self" lnktype="intlnk" title="" class="doc">ч. 9</span> ст. 269 НК).</p><p><a data-anchor="/document/16/205794/bssPhr77/"></a><a data-anchor="/document/16/205794/dfasfpe0f8/" data-dfa="dfasfpe0f8"></a><strong>Налог с оборота</strong></p><p><a data-anchor="/document/16/205794/bssPhr78/"></a><a data-anchor="/document/16/205794/dfas47dkwg/" data-dfa="dfas47dkwg"></a>Убытки от списания ТМЦ в связи с истекшим сроком годности или порчей, не учитывайте при расчете налога с оборота (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 463 НК, <span num="32" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 464 НК).</p><p><a data-anchor="/document/16/205794/bssPhr79/"></a><a data-anchor="/document/16/205794/dfas2gfbki/" data-dfa="dfas2gfbki"></a><strong>Бухучет и проводки</strong></p><p><a data-anchor="/document/16/205794/bssPhr80/"></a><a data-anchor="/document/16/205794/dfas440bc5/" data-dfa="dfas440bc5"></a>По результатам инвентаризации испорченные товары отразите по дебету счета <strong>5910 «Недостачи и потери от порчи ценностей»</strong>. Далее спишите их на расходы на счет <strong>9430 «Прочие операционные расходы»</strong>. Проводки будут следующие:</p><p><a data-anchor="/document/16/205794/bssPhr81/"></a><a data-anchor="/document/16/205794/dfaspbdxmk/" data-dfa="dfaspbdxmk"></a><strong>Дебет 5910 Кредит 1000, 2900, 2810</strong></p><ul class="c-list"><li><a data-anchor="/document/16/205794/bssPhr82/"></a><a data-anchor="/document/16/205794/dfasbchgpt/" data-dfa="dfasbchgpt"></a>списана фактическая стоимость испорченных ТМЦ;</li></ul><p><a data-anchor="/document/16/205794/bssPhr83/"></a><a data-anchor="/document/16/205794/dfas40mfh2/" data-dfa="dfas40mfh2"></a><strong>Дебет 9430 Кредит 5910</strong></p><ul class="c-list"><li><a data-anchor="/document/16/205794/bssPhr84/"></a><a data-anchor="/document/16/205794/dfase48eak/" data-dfa="dfase48eak"></a>отражен убыток от порчи и недостачи ТМЦ.</li></ul></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

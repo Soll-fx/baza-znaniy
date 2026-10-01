@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассчитывать сумму налога на сверхприбыль</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/202732/bssPhr1/"></a><a data-anchor="/document/16/202732/dfasr1g3zg/" data-dfa="dfasr1g3zg"></a>Сумма налога на сверхприбыль исчисляется исходя из размера налогооблагаемой базы и установленной ставки (<a data-anchor="/document/16/202732/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/4030/dfas96ivbs/" class="link npd" title="10. Сумма налога на сверхприбыль исчисляется исходя из размера налогооблагаемой базы и установленной ставки." moduleId="90" documentId="4030" anchor="dfas96ivbs">п.10</a> Положения о порядке исчисления и уплаты в бюджет налога на сверхприбыль на природный газ, рег. МЮ № 1909 от 24.02.2009 г.).</p><p><a data-anchor="/document/16/202732/bssPhr2/"></a><a data-anchor="/document/16/202732/dfaswshqcd/" data-dfa="dfaswshqcd"></a>Ставки налогов на каждый год устанавливаются решением Президента. На 2019 год ставка налога на сверхприбыль установлена в размере 50% (Ставки налога на сверхприбыль по отдельным видам продукции, <a data-anchor="/document/16/202732/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/18678/dfasgthgk4/" class="link npd" moduleId="90" documentId="18678" anchor="dfasgthgk4">прил. № 13</a> к ПП-4086 от 26.12.2018 г.).</p><p><a data-anchor="/document/16/202732/bssPhr3/"></a><a data-anchor="/document/16/202732/dfasavwiu8/" data-dfa="dfasavwiu8"></a>Определяйте сумму сверхприбыли по каждому контракту отдельно (<a data-anchor="/document/16/202732/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/4030/dfasd90lt8/" class="link npd" title="5. Объектом обложения налогом на сверхприбыль является сверхприбыль налогоплательщика, определяемая по каждому контракту за отчетный период." moduleId="90" documentId="4030" anchor="dfasd90lt8">п. 5</a> Положения № 1909).</p><p><a data-anchor="/document/16/202732/bssPhr4/"></a><a data-anchor="/document/16/202732/dfasd92513/" data-dfa="dfasd92513"></a>Расчетная цена определяется каждый год решением Президента (<a data-anchor="/document/16/202732/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/4030/dfas4fbusa/" class="link npd" title="2. В настоящем Положении используются следующие понятия:" moduleId="90" documentId="4030" anchor="dfas4fbusa">п. 2</a> Положения № 1909). Расчетная цена на 2019 год – 160 долларов США за каждые 1000 куб. м. природного газа. </p><p><img class="inimg" lnktype="img" id="-469156" sourceId="1" width="610" height="275.0253292806484" src="https://1gb.uz/system/content/image/297/1/-469156/"></p><p><a data-anchor="/document/16/202732/bssPhr5/"></a><a data-anchor="/document/16/202732/dfaskcfexu/" data-dfa="dfaskcfexu"></a>Рассчитаем налог на сверприбыль на 1000 куб.м. реализованного на экспорт природного газа:</p><p><a data-anchor="/document/16/202732/bssPhr6/"></a><a data-anchor="/document/16/202732/dfasxed4d8/" data-dfa="dfasxed4d8"></a>1. Расчетная цена – 160 долларов США. </p><p><a data-anchor="/document/16/202732/bssPhr7/"></a><a data-anchor="/document/16/202732/dfaspiiu8u/" data-dfa="dfaspiiu8u"></a>2. Из «цены отсечения» вычитаем расчетную цену. Получаем сверхприбыль на тыс. куб. м.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/202732/bssPhr8/"></a><a data-anchor="/document/16/202732/dfasg5snow/" data-dfa="dfasg5snow"></a>«Цена отсечения» – это чистая выручка от реализации природного газа на экспорт за тыс. куб м. природного газа.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/202732/bssPhr9/"></a><a data-anchor="/document/16/202732/dfasorlfs1/" data-dfa="dfasorlfs1"></a>3. Из сверхприбыли вычитаем налог за пользование недрами в доле, приходящейся на сверхприбыль. Получаем чистую сверхприбыль. </p><p><a data-anchor="/document/16/202732/bssPhr10/"></a><a data-anchor="/document/16/202732/dfasdrr5em/" data-dfa="dfasdrr5em"></a>4. Умножаем чистую сверхприбыль на ставку налога на сверхприбыль – 50% и на объем реализованного природного газа на экспорт. Получаем сумму налога на сверхприбыль по природному газу. </p><p><a data-anchor="/document/16/202732/bssPhr11/"></a><a data-anchor="/document/16/202732/dfaspcgb5e/" data-dfa="dfaspcgb5e"></a>5. Сумовой эквивалент рассчитаем по курсу Центрального банка на дату реализации природного газа на экспорт. Курс валюты можно узнать онлайн на <a class="oir" target="_blank" href="http://cbu.uz/">сайте ЦБ</a>. </p><p><a data-anchor="/document/16/202732/bssPhr12/"></a><a data-anchor="/document/16/202732/dfasrz0e6f/" data-dfa="dfasrz0e6f"></a>Обменные курсы расположены в верхней части сайта:</p><p><img class="inimg" lnktype="img" id="-469157" sourceId="1" width="610" height="109.66292134831461" src="https://1gb.uz/system/content/image/297/1/-469157/"></p><p><a data-anchor="/document/16/202732/bssPhr13/"></a><a data-anchor="/document/16/202732/dfasbhzhb1/" data-dfa="dfasbhzhb1"></a>Кроме того, архив курсов обмена валют на любую дату, начиная с 1994 года, вы найдете онлайн по этой ссылке на официальном сайте ЦБ. В открывшемся окне выберите год, месяц и число в этом месяце. Ниже будет представлен курс обмена нескольких валют в отношении к узбекскому суму:</p><p><img class="inimg" lnktype="img" id="-469158" sourceId="1" width="610" height="665.8105939004815" src="https://1gb.uz/system/content/image/297/1/-469158/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

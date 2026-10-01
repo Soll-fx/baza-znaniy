@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отражать выплату вознаграждений и социальных пособий работникам в финансовой отчетности по МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206713/dfaswfc7ta/" data-dfa="dfaswfc7ta"></a><a data-anchor="/document/16/206713/bssPhr2/"></a>Из рекомендации узнаете, какие бывают виды вознаграждений работникам, какой МСФО регламентирует порядок отражения выплаты вознаграждений и социальных пособий работникам, а также какие бывают планы вознаграждений по окончании трудовой деятельности. Эксперты пояснили, как компании должны представлять информацию о пенсионном обеспечении и что раскрывать в примечаниях к финансовой отчетности по МСФО. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206713/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206713/bssPhr3/"></a><a data-anchor="/document/16/206713/dfasz9e0g8/" data-dfa="dfasz9e0g8"></a>Порядок отражения выплаты вознаграждений и социальных пособий работникам в финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr9/"></a><a data-anchor="/document/16/206713/dfaso36ol6/" data-dfa="dfaso36ol6"></a>Вознаграждения работникам компании – это все виды вознаграждений и выплат за проделанную ими работу.</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr10/"></a><a data-anchor="/document/16/206713/dfasi2op6o/" data-dfa="dfasi2op6o"></a>Компания в процессе финансово-хозяйственной деятельности привлекает на работу персонал и оплачивает его труд. При этом применяет различные формы оплаты труда: заработную плату, премии, пенсии, социальные пособия.</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr11/"></a><a data-anchor="/document/16/206713/dfasphvhwe/" data-dfa="dfasphvhwe"></a>Порядок отражения затрат компании на выплату вознаграждений и социальных пособий работникам регулирует МСФО (IAS) 19 «Вознаграждения работникам».</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr12/"></a><a data-anchor="/document/16/206713/dfas72m657/" data-dfa="dfas72m657"></a>Компания должна признавать:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr13/"></a><a data-anchor="/document/16/206713/dfas1tzxgf/" data-dfa="dfas1tzxgf"></a>обязательство по выплатам в случае, если работник выполнил свою работу, и в будущем необходимо будет выплатить компенсацию за проделанную работу;</li><li style="text-align:left">затраты на выплату вознаграждения в случае, если компания получит экономическую выгоду от работы наемного сотрудника.</li></ul></div><a data-anchor="/document/16/206713/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206713/bssPhr14/"></a><a data-anchor="/document/16/206713/dfasp3240l/" data-dfa="dfasp3240l"></a>Виды вознаграждений работникам</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr16/"></a><a data-anchor="/document/16/206713/dfasnuwt9p/" data-dfa="dfasnuwt9p"></a>В вознаграждения работникам входят:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr17/"></a><a data-anchor="/document/16/206713/dfasw4ylq5/" data-dfa="dfasw4ylq5"></a>текущие вознаграждения;</li><li style="text-align:left">вознаграждения по окончании трудовой деятельности;</li><li style="text-align:left">прочие долгосрочные вознаграждения.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr18/"></a><a data-anchor="/document/16/206713/dfasr6pfep/" data-dfa="dfasr6pfep"></a><strong>Текущие вознаграждения</strong> работникам – это вознаграждения, которые необходимо выплатить в полном объеме в течение 12 месяцев после окончания месяца, в котором работники выполнили свою работу.</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr19/"></a><a data-anchor="/document/16/206713/dfasoxd7go/" data-dfa="dfasoxd7go"></a>Текущие вознаграждения включают:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr20/"></a><a data-anchor="/document/16/206713/dfasm7m6o9/" data-dfa="dfasm7m6o9"></a>заработную плату;</li><li style="text-align:left">взносы на социальное страхование;</li><li style="text-align:left">ежегодный оплачиваемый отпуск;</li><li style="text-align:left">оплачиваемый отпуск по болезни;</li><li style="text-align:left">участие в развитии прибыльности компании;</li><li style="text-align:left">премии;</li><li style="text-align:left">вознаграждения в неденежной форме, например, медицинское страхование и обслуживание, обеспечение жильем, автотранспортом.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr21/"></a><a data-anchor="/document/16/206713/dfasmkrmh9/" data-dfa="dfasmkrmh9"></a>В текущие вознаграждения не включают выходные пособия и долевые компенсационные выплаты.</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr22/"></a><a data-anchor="/document/16/206713/dfasd1k3mn/" data-dfa="dfasd1k3mn"></a>Сумму текущего вознаграждения, которую необходимо выплатить работнику, следует признать в отчетном периоде в качестве:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr23/"></a><a data-anchor="/document/16/206713/dfas1putvg/" data-dfa="dfas1putvg"></a>обязательства, начисления по затратам и вычесть уже выплаченные суммы;</li><li style="text-align:left">затрат в случае, если другой МСФО не требует или не разрешает отнести такие расходы на вознаграждения на стоимость актива.&nbsp;</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206713/bssPhr24/"></a><a data-anchor="/document/16/206713/dfasruy0y1/" data-dfa="dfasruy0y1"></a>Текущие вознаграждения работникам необходимо учитывать по принципу начисления.</p><div class="incut-v4__icon"></div></div><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr26/"></a><a data-anchor="/document/16/206713/dfas45row6/" data-dfa="dfas45row6"></a><strong>Вознаграждения по окончании трудовой деятельности</strong> – это вид вознаграждений, которые работник получает после окончания своей трудовой деятельности в компании.</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr27/"></a><a data-anchor="/document/16/206713/dfasx8azii/" data-dfa="dfasx8azii"></a>Вознаграждения по окончании трудовой деятельности включают:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr28/"></a><a data-anchor="/document/16/206713/dfascgvh3q/" data-dfa="dfascgvh3q"></a>пенсии;</li><li style="text-align:left">прочие выплаты после выхода на пенсию;</li><li style="text-align:left">страхование жизни после выхода на пенсию;</li><li style="text-align:left">медицинское обслуживание после выхода на пенсию.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr29/"></a><a data-anchor="/document/16/206713/dfaslzwfgg/" data-dfa="dfaslzwfgg"></a>В вознаграждения по окончании трудовой деятельности также не входят выходные пособия и долевые компенсационные выплаты.</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr30/"></a><a data-anchor="/document/16/206713/dfasxg9d3w/" data-dfa="dfasxg9d3w"></a><strong>К прочим долгосрочным вознаграждениям</strong> относят:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr31/"></a><a data-anchor="/document/16/206713/dfas98ksz3/" data-dfa="dfas98ksz3"></a>оплачиваемый отпуск работникам с длительным стажем работы;</li><li style="text-align:left">оплачиваемый творческий отпуск;</li><li style="text-align:left">оплачиваемый учебный отпуск.</li><li style="text-align:left">выходные пособия;</li><li style="text-align:left">долевые компенсационные выплаты.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr32/"></a><a data-anchor="/document/16/206713/dfasndcrcx/" data-dfa="dfasndcrcx"></a>Выходные пособия выплачивают при расторжении компанией трудового договора с работником, если он находится в до пенсионном возрасте или при увольнении работника по собственному желанию, при сокращении штата компании.</p></div><a data-anchor="/document/16/206713/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206713/bssPhr33/"></a><a data-anchor="/document/16/206713/dfass8bfkp/" data-dfa="dfass8bfkp"></a>Планы вознаграждений по окончании трудовой деятельности</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr35/"></a><a data-anchor="/document/16/206713/dfasyw5ylf/" data-dfa="dfasyw5ylf"></a>Планы вознаграждений по окончании трудовой деятельности – это соглашения между компанией и работниками, на основании которых компания выплачивает одному или нескольким работникам вознаграждение по окончании трудовой деятельности.</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr36/"></a><a data-anchor="/document/16/206713/dfasqippg2/" data-dfa="dfasqippg2"></a>Планы вознаграждений по окончании трудовой деятельности подразделяют на пенсионные планы:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr37/"></a><a data-anchor="/document/16/206713/dfaslh6o3h/" data-dfa="dfaslh6o3h"></a>с установленными взносами;</li><li style="text-align:left">установленными выплатами;</li><li style="text-align:left">группы компаний-работодателей.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr38/"></a><a data-anchor="/document/16/206713/dfasf11a5l/" data-dfa="dfasf11a5l"></a><strong>Пенсионные планы с установленными взносами</strong> – это планы вознаграждений по окончании трудовой деятельности в виде фиксированных взносов компании в отдельный фонд. При этом, компания не имеет юридических обязательств по уплате дополнительных взносов, даже если у фонда не будет достаточных средств для выплаты всех вознаграждений работникам за работу, которую они выполнили в текущем и прошлых периодах.</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr39/"></a><a data-anchor="/document/16/206713/dfasrgta3l/" data-dfa="dfasrgta3l"></a>В данном случае обязательства компании ограничены только суммой, которую она согласна внести в фонд. Размер полученных работником вознаграждений по окончании трудовой деятельности будет зависеть от суммы взносов в пенсионный план, а также от дохода от инвестирования этих средств. Соответственно, все риски по размерам пенсионных выплат будут переложены на самого работника.</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr40/"></a><a data-anchor="/document/16/206713/dfasxbumr7/" data-dfa="dfasxbumr7"></a>В таком случае, учет пенсионных планов будет следующим:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr41/"></a><a data-anchor="/document/16/206713/dfas91r0gy/" data-dfa="dfas91r0gy"></a>Обязательства компании за каждый отчетный период будут равны сумме взносов, которые компания согласна перечислить в фонд.</li><li style="text-align:left">Подлежащие к уплате в течение периода взносы будут списаны в отчете о прибылях и убытках на затраты. В бухгалтерском балансе они будут признаны задолженностью или предоплатой.</li><li style="text-align:left">Суммы вознаграждений, которые компания признает в качестве затрат по пенсионным планам с установленными взносами, необходимо дополнительно раскрыть в примечаниях к финансовой отчетности.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr42/"></a><a data-anchor="/document/16/206713/dfase5mpio/" data-dfa="dfase5mpio"></a><strong>Пенсионные планы с установленными выплатами</strong> – это все остальные пенсионные планы, которые отличаются от планов с установленными взносами. Как правило, они находятся в доверительном, трастовом, инвестиционном управлении и компания-работодатель гарантирует их выплату работникам. В таком случае, все риски ложатся на работодателя.</p><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr43/"></a><a data-anchor="/document/16/206713/dfasqq36wq/" data-dfa="dfasqq36wq"></a><strong>Пенсионные планы группы компаний-работодателей</strong> – это пенсионные планы с установленными выплатами или взносами, за исключением государственных пенсионных планов. Пенсионные планы группы работодателей объединяют все активы, которые внесли несколько компаний, не находящихся под общим контролем, и используют эти активы для пенсионного обеспечения работников нескольких компаний.</p></div><a data-anchor="/document/16/206713/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206713/bssPhr44/"></a><a data-anchor="/document/16/206713/dfaslddrfd/" data-dfa="dfaslddrfd"></a>Информация о пенсионном обеспечении</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr46/"></a><a data-anchor="/document/16/206713/dfas7in40h/" data-dfa="dfas7in40h"></a>В активы плана входят:</p><ol class="c-list"><li><a data-anchor="/document/16/206713/bssPhr47/"></a><a data-anchor="/document/16/206713/dfastvz5cp/" data-dfa="dfastvz5cp"></a>активы фонда долгосрочных вознаграждений работникам;</li><li><a data-anchor="/document/16/206713/bssPhr48/"></a><a data-anchor="/document/16/206713/dfaskktgsg/" data-dfa="dfaskktgsg"></a>надлежащие договоры страхования.</li></ol><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr49/"></a><a data-anchor="/document/16/206713/dfasvg7mdl/" data-dfa="dfasvg7mdl"></a>В фонд долгосрочных вознаграждений работникам входят активы:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr50/"></a><a data-anchor="/document/16/206713/dfas4s1r7s/" data-dfa="dfas4s1r7s"></a>которыми владеет фонд, юридически отделенный от самой компании, и существующий исключительно с целью выплаты или финансирования вознаграждений работникам;</li><li style="text-align:left">которые используют только для выплаты вознаграждений работникам. Эти активы не могут быть взысканы кредиторами самой компании, даже при ее банкротстве. Также, такие активы нельзя вернуть обратно в пользование компании.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr51/"></a><a data-anchor="/document/16/206713/dfas4l35gu/" data-dfa="dfas4l35gu"></a>Надлежащий договор страхования – это договор, заключенный со страховщиком, который не связан с самой компанией, если страховые выплаты по договору:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr52/"></a><a data-anchor="/document/16/206713/dfas2g5mry/" data-dfa="dfas2g5mry"></a>можно использовать в рамках пенсионного плана с установленными выплатами только с целью выплаты вознаграждения работникам;</li><li style="text-align:left">не могут получить кредиторы компании в счет погашения ее задолженности.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr53/"></a><a data-anchor="/document/16/206713/dfasaq35p3/" data-dfa="dfasaq35p3"></a>Актив, относящийся к одному плану, может быть засчитан против обязательства, относящегося к другому плану. Это возможно, если компания имеет юридическое право использовать прирост активов одного плана для исполнения обязательств по другому плану и намеревается либо исполнить обязательства на основе сальдирования, либо реализовывать выгоду, которая была получена ввиду прироста активов одного плана, и исполнить свои обязательства по другому плану одновременно.</p></div><a data-anchor="/document/16/206713/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/206713/bssPhr54/"></a><a data-anchor="/document/16/206713/dfas5w2eyl/" data-dfa="dfas5w2eyl"></a>Примечания к финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr56/"></a><a data-anchor="/document/16/206713/dfasy1xis1/" data-dfa="dfasy1xis1"></a>В примечаниях к финансовой отчетности компании, в части, касающейся пенсионных планов с установленными выплатами, необходимо раскрывать:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr57/"></a><a data-anchor="/document/16/206713/dfasl36r6g/" data-dfa="dfasl36r6g"></a>учетную политику по признанию актуарных прибылей и убытков;</li><li style="text-align:left">полное описание типа выбранного плана;</li><li style="text-align:left">результаты сверки активов и обязательств, признанных в балансе.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr58/"></a><a data-anchor="/document/16/206713/dfasyggxho/" data-dfa="dfasyggxho"></a>Результаты сверки активов и обязательств показывают:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr59/"></a><a data-anchor="/document/16/206713/dfas6qxmdh/" data-dfa="dfas6qxmdh"></a>дисконтированную стоимость обязательств по плану с установленными выплатами, которые вообще не обеспечены ресурсами;</li><li style="text-align:left">дисконтированную стоимость обязательств по плану с установленными выплатами, которые обеспечены ресурсами полностью или частично;</li><li style="text-align:left">справедливую стоимость всех активов плана;</li><li style="text-align:left">чистые актуарные прибыли или убытки, которые не были признаны в балансе;</li><li style="text-align:left">величины, не признанные в качестве актива, ввиду ограничений по принципу существенности;</li><li style="text-align:left">величины, признанные в балансе в качестве активов.</li></ul><p style="text-align:left"><a data-anchor="/document/16/206713/bssPhr60/"></a><a data-anchor="/document/16/206713/dfasqop3dw/" data-dfa="dfasqop3dw"></a>Также в примечаниях к финансовой отчетности компании необходимо раскрывать результаты сверки, в которой отражены изменения признанных в балансе активов или чистых обязательств в течение отчетного периода:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/206713/bssPhr61/"></a><a data-anchor="/document/16/206713/dfasayfhss/" data-dfa="dfasayfhss"></a>суммарные расходы по каждой статье, признанные в отчете о прибылях и убытках;</li><li style="text-align:left">фактический доход на активы плана;</li><li style="text-align:left">актуарные допущения на отчетную дату.</li></ul><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/206713/bssPhr62/"></a><a data-anchor="/document/16/206713/dfascvkp9u/" data-dfa="dfascvkp9u"></a>Актуарные прибыли и убытки включают в себя:</p><div class="incut-v4__content" data-incut-content=""><ul class="c-list"><li><a data-anchor="/document/16/206713/bssPhr63/"></a><a data-anchor="/document/16/206713/dfas2tlgd3/" data-dfa="dfas2tlgd3"></a>корректировки, выраженные в результате различий между первоначальными актуарными допущениями в отношении будущих событий и тем, что в действительности произошло;</li><li>результаты изменений в актуарных допущениях.</li></ul></div><div class="incut-v4__icon"></div></div></div><p><a data-anchor="/document/16/206713/dfascz2psn/" data-dfa="dfascz2psn"></a><a data-anchor="/document/16/206713/bssPhr64/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

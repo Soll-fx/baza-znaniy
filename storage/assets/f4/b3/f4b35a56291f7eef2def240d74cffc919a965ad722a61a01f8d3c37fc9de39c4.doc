@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как принять работника на сезонные работы </h2><div class="doc-snippet"><a data-anchor="/document/16/218709/dfasln1wpi/" data-dfa="dfasln1wpi"></a><a data-anchor="/document/16/218709/bssPhr4/"></a>Чтобы принять работника на сезонные работы, <span num="178" target="_self" lnktype="intlnk" title="" class="doc">ознакомьте с локальными актами</span> организации. Затем заключите <span num="179" target="_self" lnktype="intlnk" title="" class="doc">трудовой договор</span> и издайте <span data-warm-notices="45828834" data-warm-notice-type="error" num="180" target="_self" lnktype="intlnk" title="" class="doc">приказ</span> о приеме на работу. Оформите личную карточку и внесите запись о приеме на работу в трудовую книжку сотрудника и МАПК ЕНСТ. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218709/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218709/bssPhr7/"></a><a data-anchor="/document/16/218709/dfaslaep7c/" data-dfa="dfaslaep7c"></a>Оформление&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218709/bssPhr9/"></a><a data-anchor="/document/16/218709/dfastywzqi/" data-dfa="dfastywzqi"></a>Сезонная работа&nbsp;— это работа, которая в&nbsp;силу природных условий проходит в&nbsp;течение соответствующего периода, то&nbsp;есть сезона. Продолжительность сезона, по общему правилу, не превышает шести месяцев.&nbsp;Однако для ряда работ предусмотрен сезон, который длится дольше шести месяцев. Перечень некоторых видов сезонных работ, могут осуществляться на период (сезон) более шести месяцев, и максимальную продолжительность таких отдельных сезонных работ&nbsp;(<span num="58" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;491</span>&nbsp;ТК и постановление Кабмина&nbsp;от 15.11.2024 <span num="148" target="_self" lnktype="intlnk" title="" class="doc">№ 758</span>).</p><p><a data-anchor="/document/16/218709/bssPhr10/"></a><a data-anchor="/document/16/218709/dfaswy1ihq/" data-dfa="dfaswy1ihq"></a>Для того, чтобы определить категории сезонных работ, руководствуйтесь Перечнем отраслей и&nbsp;видов деятельности, имеющих сезонный характер (<span num="41" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;1</span>&nbsp;к постановлению Кабмина &nbsp;11.12.2020 №&nbsp;776 «Об&nbsp;утверждении положения о&nbsp;порядке изменений сроков уплаты налога налогоплательщиками органами государственной власти на&nbsp;местах»). Согласно <span num="163" target="_self" lnktype="intlnk" title="" class="doc">Перечню</span>, к&nbsp;сезонным работам относят:</p><ul class="c-list"><li><a data-anchor="/document/16/218709/bssPhr11/"></a><a data-anchor="/document/16/218709/dfasog3xg6/" data-dfa="dfasog3xg6"></a>сельхозпроизводство;</li><li>лов и&nbsp;производство рыбной продукции;</li><li>производство стройматериалов;</li><li>производство сыров и&nbsp;молочной продукции;</li><li>производство пива и&nbsp;виноградного вина;</li><li>хлопкоочистительная промышленность;</li><li>производство удобрений и&nbsp;азотосодержащей продукции;</li><li>оказание услуг по&nbsp;обеспечению отдыха и&nbsp;оздоровления населения;</li><li>обеспечение ЖКХ теплом.</li></ul><p><a data-anchor="/document/16/218709/bssPhr12/"></a><a data-anchor="/document/16/218709/dfaspd2zte/" data-dfa="dfaspd2zte"></a>Руководствуйтесь также перечнями работ из <span num="149" target="_self" lnktype="intlnk" title="" class="doc">приложения&nbsp;№ 9</span> к постановлению Кабмина от 14.11.2024 № 758,&nbsp;&nbsp;<span num="19" target="_self" lnktype="intlnk" title="" class="doc">приложения №&nbsp;3</span>&nbsp;к постановлению Кабмина&nbsp;от&nbsp;05.10.2017 №&nbsp;799, <span num="164" target="_self" lnktype="intlnk" title="" class="doc">приложения&nbsp;№&nbsp;5</span>&nbsp;к постановлению Кабмина от&nbsp;13.10.2022 № <span num="134" target="_self" lnktype="intlnk" title="" class="doc">592</span>.</p><p><a data-anchor="/document/16/218709/bssPhr13/"></a><a data-anchor="/document/16/218709/dfas8wuyg5/" data-dfa="dfas8wuyg5"></a>Чтобы принять работника на&nbsp;сезонные работы, заключите с&nbsp;ним <span data-warm-notices="45820025" data-warm-notice-type="error" num="42" target="_self" lnktype="intlnk" title="" class="doc">срочный трудовой договор</span>. Оформите <span num="73" target="_self" lnktype="intlnk" title="" class="doc">срочный&nbsp;договор на&nbsp;сезонные работы</span> в&nbsp;общем порядке. При этом обязательно пропишите в&nbsp;нем срок действия и&nbsp;условие, что договор заключили на&nbsp;сезон (<span num="74" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;492</span>&nbsp;ТК и постановление&nbsp;от 15.11.2024 <span num="150" target="_self" lnktype="intlnk" title="" class="doc">№ 758</span>).</p><p><a data-anchor="/document/16/218709/bssPhr14/"></a><a data-anchor="/document/16/218709/dfaskqlovd/" data-dfa="dfaskqlovd"></a>Если невозможно установить точную дату окончания сезонных работ, вместо конкретной даты укажите событие или факт, при наступлении которого трудовой договор будет прекращен. Например, окончание сезона, выполнение конкретной работы. Если ряд факторов определяет наступление срока, то&nbsp;укажите эти причины в&nbsp;трудовом договоре.</p><p><a data-anchor="/document/16/218709/bssPhr15/"></a><a data-anchor="/document/16/218709/dfas466gu9/" data-dfa="dfas466gu9"></a>Работнику, которого приняли на&nbsp;сезонные работы, испытательный срок не&nbsp;устанавливайте (<span num="60" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;492&nbsp;ТК).&nbsp;</p><p><a data-anchor="/document/16/218709/bssPhr16/"></a><a data-anchor="/document/16/218709/dfash50q90/" data-dfa="dfash50q90"></a>На&nbsp;основании трудового договора издайте <span data-warm-notices="42154206" data-warm-notice-type="error" num="43" lnktype="intlnk" title="" class="doc">приказ о&nbsp;приеме на&nbsp;сезонные работы</span>. Приказ составьте в&nbsp;произвольной форме. При этом в&nbsp;приказе в&nbsp;качестве условия приема укажите, например, «для выполнения сезонных работ». Срок окончания трудового договора отразите либо конкретной датой, либо событием, например, «до&nbsp;подписания акта о&nbsp;приеме работ».</p><p><a data-anchor="/document/16/218709/bssPhr17/"></a><a data-anchor="/document/16/218709/dfasyqzihp/" data-dfa="dfasyqzihp"></a>Регистрацию в <span num="34" lnktype="intlnk" title="" class="doc">ЕНСТ</span> работника, которого принимаете на&nbsp;сезонные работы, проводите в&nbsp;общем порядке.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="95" target="_self" lnktype="intlnk" title="" class="doc">Срочный трудовой договор на&nbsp;выполнение сезонных работ</span></li><li class="incut-v4-more-about__item"><span num="96" target="_self" lnktype="intlnk" title="" class="doc">Как оформить прием на&nbsp;работу в&nbsp;ЕНСТ</span></li></ul></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно&#160;ли установить сезонному работнику режим гибкого рабочего времени</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218709/bssPhr20/"></a><a data-anchor="/document/16/218709/dfaschr81t/" data-dfa="dfaschr81t"></a>Да, можно.</p><p><a data-anchor="/document/16/218709/bssPhr21/"></a><a data-anchor="/document/16/218709/dfas8z9m1g/" data-dfa="dfas8z9m1g"></a>Режим гибкого времени&nbsp;— это способ организации рабочего времени, при котором по&nbsp;соглашению между работодателем и&nbsp;работником устанавливают начало, окончание или общую продолжительность дня. При этом работник, за&nbsp;учетный период, отрабатывает необходимое количество рабочих часов.</p><p><a data-anchor="/document/16/218709/bssPhr22/"></a><a data-anchor="/document/16/218709/dfast18f51/" data-dfa="dfast18f51"></a>Закон не&nbsp;запрещает установить сезонному работнику гибкий <span data-warm-notices="42154204" data-warm-notice-type="error" num="72" target="_self" lnktype="intlnk" title="" class="doc">режим гибкого рабочего времени</span>, если он&nbsp;работает полное количество рабочих часов.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Можно&#160;ли перевести сезонного работника в&#160;другое структурное подразделение</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218709/bssPhr24/"></a><a data-anchor="/document/16/218709/dfas2a776i/" data-dfa="dfas2a776i"></a>Нет, нельзя.</p><p><a data-anchor="/document/16/218709/bssPhr25/"></a><a data-anchor="/document/16/218709/dfasdf3dna/" data-dfa="dfasdf3dna"></a>Необходимо оформить увольнение с&nbsp;сезонной работы и&nbsp;прием на&nbsp;другую по&nbsp;новому трудовому договору.</p><p><a data-anchor="/document/16/218709/bssPhr26/"></a><a data-anchor="/document/16/218709/dfasoipo8q/" data-dfa="dfasoipo8q"></a>Работодатель заключает <span num="52" target="_self" lnktype="intlnk" title="" class="doc">срочный трудовой договор</span>, когда есть основания для этого, например, отсутствует основной работник, временные или сезонные работы и&nbsp;др. При этом трудовой договор заключают для работ по&nbsp;конкретной должности и&nbsp;трудовой функции.</p><p><a data-anchor="/document/16/218709/bssPhr27/"></a><a data-anchor="/document/16/218709/dfaszd1kgu/" data-dfa="dfaszd1kgu"></a>При постоянном переводе в&nbsp;другое структурное подразделение прежнее условие о&nbsp;временном характере работ утрачивает силу, так как на&nbsp;новой работе основания для срочного характера трудовых отношений уже не&nbsp;действуют.</p></div></div></div><a data-anchor="/document/16/218709/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218709/bssPhr28/"></a><a data-anchor="/document/16/218709/dfas7gbm9i/" data-dfa="dfas7gbm9i"></a>Время отдыха</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218709/bssPhr30/"></a><a data-anchor="/document/16/218709/dfasu36rki/" data-dfa="dfasu36rki"></a>Пропишите время отдыха в&nbsp;трудовом договоре или локальном нормативном акте.</p><p><a data-anchor="/document/16/218709/bssPhr31/"></a><a data-anchor="/document/16/218709/dfasam9654/" data-dfa="dfasam9654"></a>Режим рабочего времени и&nbsp;времени отдыха работника пропишите в&nbsp;трудовом договоре. В&nbsp;разделе трудового договора «Рабочее время и&nbsp;время отдыха» укажите продолжительность рабочей недели, выходные дни, время начала и&nbsp;окончания рабочего дня, время перерывов на&nbsp;обед. Исключений для сезонных работников в&nbsp;Законе не&nbsp;предусмотрено.</p></div><a data-anchor="/document/16/218709/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218709/bssPhr32/"></a><a data-anchor="/document/16/218709/dfashkxee6/" data-dfa="dfashkxee6"></a>Отпускные дни</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218709/bssPhr34/"></a><a data-anchor="/document/16/218709/dfasmlvsmg/" data-dfa="dfasmlvsmg"></a>Период сезонных работ, как правило, не&nbsp;превышает шести месяцев. Но&nbsp;некоторые сезонные работы проводят дольше шести месяцев (<span num="61" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;491</span>&nbsp;ТК и постановление Кабмина от 15.11.2024 <span num="151" target="_self" lnktype="intlnk" title="" class="doc">№ 758</span>). Сезонному работнику предоставляют оплачиваемый отпуск из&nbsp;расчета не&nbsp;менее двух календарных дней за&nbsp;каждый месяц работы (<span num="62" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;493</span>&nbsp;ТК). В <span num="63" target="_self" lnktype="intlnk" title="" class="doc">график отпусков</span> сезонных работников не&nbsp;включайте, так как в&nbsp;нем указывают <span num="84" target="_self" lnktype="intlnk" title="" class="doc">ежегодные отпуска</span> работников за&nbsp;второй и&nbsp;последующий год работы.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-more-about "><h3 class="incut-v4__tag" data-incut-toggle="">Ещё по теме</h3><p class="incut-v4__title" data-incut-toggle=""><name></name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-more-about__list"><li class="incut-v4-more-about__item"><span num="108" target="_self" lnktype="intlnk" title="" class="doc">Как составить и&nbsp;утвердить график отпусков</span></li><li class="incut-v4-more-about__item"><span num="109" target="_self" lnktype="intlnk" title="" class="doc">Как предоставить ежегодный отпуск</span></li></ul></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно&#160;ли включать в&#160;график отпусков сезонных работников</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218709/bssPhr37/"></a><a data-anchor="/document/16/218709/dfas5105mw/" data-dfa="dfas5105mw"></a>Если работника приняли на&nbsp;сезон до&nbsp;шести месяцев, то&nbsp;включать в <span num="53" target="_self" lnktype="intlnk" title="" class="doc">график отпусков</span> его не&nbsp;нужно. В&nbsp;ином случае включать сезонного работника в&nbsp;график отпусков или нет, будет зависеть от&nbsp;даты заключения договора и&nbsp;его срока.</p><p><a data-anchor="/document/16/218709/bssPhr38/"></a><a data-anchor="/document/16/218709/dfasui7aqc/" data-dfa="dfasui7aqc"></a>По&nbsp;общему правилу сезонные работы, как правило, не&nbsp;превышают шести месяцев. Но&nbsp;некоторые сезонные работы проводят в&nbsp;период дольше шести месяцев (<span num="54" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;491</span>&nbsp;ТК и постановление Кабмина от 15.11.2024 <span num="147" target="_self" lnktype="intlnk" title="" class="doc">№ 758</span>). Сезонным работникам предоставляют оплачиваемые отпуска из&nbsp;расчета не&nbsp;менее двух календарных дней за&nbsp;каждый месяц работы (<span num="55" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;493&nbsp;ТК).</p><p><a data-anchor="/document/16/218709/bssPhr39/"></a><a data-anchor="/document/16/218709/dfaslsyrzg/" data-dfa="dfaslsyrzg"></a>Следовательно, если работника приняли на&nbsp;сезон до&nbsp;шести месяцев, то&nbsp;в <span num="82" target="_self" lnktype="intlnk" title="" class="doc">график отпусков</span> не&nbsp;включайте. В&nbsp;этом случае сезонный работник пойдет в&nbsp;отпуск по&nbsp;заявлению с&nbsp;последующим прекращением трудового договора. В&nbsp;ином случае включать сезонного работника в&nbsp;график отпусков или нет, зависит от&nbsp;даты заключения договора и&nbsp;его срока.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Нужно&#160;ли ставить точную дату увольнения в&#160;трудовом договоре с&#160;сезонным работником</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218709/bssPhr41/"></a><a data-anchor="/document/16/218709/dfaspfa3yg/" data-dfa="dfaspfa3yg"></a>Нужно, если можно определить точную дату окончания. Если это невозможно, то&nbsp;срок окончания определите событием.<br>С&nbsp;сезонным работником заключают <span num="56" target="_self" lnktype="intlnk" title="" class="doc">срочный трудовой договор</span>. Срок&nbsp;— обязательное условие трудового договора. Если в&nbsp;договоре нет положения о&nbsp;сроке его действия, то&nbsp;он&nbsp;заключен на&nbsp;неопределенное время. Дату окончания <span data-warm-notices="45820024" data-warm-notice-type="error" num="83" target="_self" lnktype="intlnk" title="" class="doc">срочного трудового договора</span>&nbsp;можете указать конкретной датой или событием. Например, окончание сезона, выполнение конкретной работы. Когда событие наступает, срочный трудовой договор прекращает действие. Если наступление срока зависит от&nbsp;ряда факторов, то&nbsp;все их&nbsp;следует указать в&nbsp;трудовом договоре.<br>Таким образом, ставьте точную дату окончания срочного трудового договора в&nbsp;ситуации, когда это возможно. Если это невозможно, то&nbsp;срок окончания определите конкретным событием.</p></div></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

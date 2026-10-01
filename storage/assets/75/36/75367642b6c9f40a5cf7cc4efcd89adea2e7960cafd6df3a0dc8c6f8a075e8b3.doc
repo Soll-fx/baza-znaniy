@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как сдать декларацию по НДФЛ</h2><div class="doc-snippet"><a data-anchor="/document/16/209578/dfasqg2qxy/" data-dfa="dfasqg2qxy"></a><a data-anchor="/document/16/209578/bssPhr2/"></a>В рекомендации Системы Главбух найдете ответы на вопросы: как сдать декларацию по НДФЛ на бумаге лично, по почте или в электронной форме. Эксперты объяснили, как сдать уточненную декларацию по НДФЛ, если самостоятельно обнаружили ошибки в ранее сданной декларации или ошибку обнаружила налоговая. Узнаете, в каких случаях ГНИ может отказать в приеме декларации по НДФЛ. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/209578/bssPhr8/"></a><a data-anchor="/document/16/209578/dfaszy5fd0/" data-dfa="dfaszy5fd0"></a>Декларация – это один из документов налоговой отчетности, о доходах полученных физлицом-налогоплательщиком за год, и удержанных с этих доходов сумм НДФЛ. Поэтому сдавайте ее по правилам, предусмотренным <a data-anchor="/document/16/209578/backlinkanchor82/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasgd9xu9/" class="link npd" target="_self" title="" moduleId="90" documentId="20918" anchor="dfasgd9xu9">главой 8 НК</a>.&nbsp;Декларацию представляйте в налоговую инспекцию по месту жительства.</p><p><a data-anchor="/document/16/209578/bssPhr9/"></a><a data-anchor="/document/16/209578/dfasygeikl/" data-dfa="dfasygeikl"></a>Сдать налоговую декларацию по НДФЛ можно двумя способами:</p><ol class="c-list"><li><a data-anchor="/document/16/209578/bssPhr10/"></a><a data-anchor="/document/16/209578/dfas930dgv/" data-dfa="dfas930dgv"></a><a data-anchor="/document/16/209578/backlinkanchor83/" type="backlink-anchor"></a><a href="#/document/16/209578/dfaslcg0qg/" target="_self" title="" moduleId="16" documentId="209578" anchor="dfaslcg0qg" class="link ">на бумаге лично, через представителя или по почте</a>.</li><li><a data-anchor="/document/16/209578/bssPhr11/"></a><a data-anchor="/document/16/209578/dfasc5i34h/" data-dfa="dfasc5i34h"></a><a data-anchor="/document/16/209578/backlinkanchor84/" type="backlink-anchor"></a><a href="#/document/16/209578/dfasa2nuy2/" target="_self" title="" moduleId="16" documentId="209578" anchor="dfasa2nuy2" class="link ">в электронном виде</a> (<a data-anchor="/document/16/209578/backlinkanchor85/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas8hcdam/" class="link npd" target="_self" title="" moduleId="90" documentId="20918" anchor="dfas8hcdam">ч. 1</a> ст. 82&nbsp;НК).</li></ol><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209578/bssPhr13/"></a><a data-anchor="/document/16/209578/dfaslcg0qg/" data-dfa="dfaslcg0qg"></a><a data-anchor="/document/16/209578/p1/"></a>Декларацию на бумаге сдавайте лично или через своего представителя (<span num="62" target="_self" lnktype="intlnk" title="" class="doc">ч. 7</span> ст. 82 НК). Представитель может быть законным, например, родители несовершеннолетних детей, или уполномоченным, к примеру, юрист, нотариус. Законным представителям не нужна доверенность на представление отчетности. Законным представителем налогоплательщика признается лицо, которое выступает в качестве его представителя в соответствии с гражданским законодательством (<span num="63" target="_self" lnktype="intlnk" title="" class="doc">ч. 4</span> ст. 24 НК).</p><p><a data-anchor="/document/16/209578/bssPhr14/"></a><a data-anchor="/document/16/209578/dfasdknodp/" data-dfa="dfasdknodp"></a>Если декларацию подает уполномоченный представитель, то он обязан иметь при себе заключенный договор или доверенность, удостоверенную нотариально или в порядке, приравненном к нотариальному (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">ч. 7</span> ст. 24 НК). Перечень доверенностей, которые приравнивают к нотариально удостоверенным, предусмотрен <span num="65" target="_self" lnktype="intlnk" title="" class="doc">статьей 136 ГК</span>.</p><p><a data-anchor="/document/16/209578/bssPhr15/"></a><a data-anchor="/document/16/209578/dfastyv516/" data-dfa="dfastyv516"></a>При сдаче лично на бумажном носителе инспектор должен поставить на копии декларации личную подпись и отметку с указанием даты приема (<span num="66" target="_self" lnktype="intlnk" title="" class="doc">ч. 10</span> ст. 82 НК). В дальнейшем это поможет подтвердить, что отчетность была сдана своевременно.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209578/bssPhr17/"></a><a data-anchor="/document/16/209578/dfashe8rgk/" data-dfa="dfashe8rgk"></a>Если декларацию направили по почте, то датой ее подачи в налоговую инспекцию считают дату отправки. Чтобы доказать, что декларацию отправили вовремя, выберите оптимальный вид почтового отправления и храните все документы, подтверждающие ее отправку и доставку в инспекцию. Налоговую декларацию отправляйте заказным или ценным письмом с описью вложения (<span num="67" target="_self" lnktype="intlnk" title="" class="doc">ч. 7</span> ст. 82 НК). Заказные и ценные письма регистрируют на почте и выдают квитанцию их отправителю, а с адресата берут расписку в получении письма. Заказные и ценные письма можно пересылать с описью вложения и с уведомлением о вручении адресату. Дату подачи декларации определите по почтовому штемпелю.</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209578/bssPhr19/"></a><a data-anchor="/document/16/209578/dfasa2nuy2/" data-dfa="dfasa2nuy2"></a><a data-anchor="/document/16/209578/p2/"></a><a data-anchor="/document/16/209578/dfase42bm7/" data-dfa="dfase42bm7"></a>Сдать декларацию в электронной форме можно&nbsp;через персональный кабинет налогоплательщика на сайте ГНК <a href="https://soliq.uz/?lang=ru" target="_self" title="">my.soliq.uz</a>.</p><p><a data-anchor="/document/16/209578/bssPhr20/"></a><a data-anchor="/document/16/209578/dfasglzypn/" data-dfa="dfasglzypn"></a>Чтобы сформировать <span num="69" target="_self" lnktype="intlnk" title="" class="doc">персональный кабинет налогоплательщика</span> на портале электронных государственных услуг налоговых органов необходимо авторизоваться на сайте <a href="https://esi.uz/" target="_self" title="">www.esi.uz</a>. . Войти в персональный кабинет можно через единую систему идентификации при наличии <span num="71" target="_self" lnktype="intlnk" title="" class="doc">ЭЦП</span>, которую выдает по вашему заявлению Центр госуслуг на платной основе.</p><p><a data-anchor="/document/16/209578/bssPhr21/"></a><a data-anchor="/document/16/209578/dfasm2c25b/" data-dfa="dfasm2c25b"></a>После активации персонального кабинета вы можете отправлять в налоговые органы и получать от них отчеты, декларации и другие документы (<span num="72" target="_self" lnktype="intlnk" title="" class="doc">ст. 56 НК</span>).</p><p><a data-anchor="/document/16/209578/bssPhr22/"></a><a data-anchor="/document/16/209578/dfasenag1d/" data-dfa="dfasenag1d"></a>Если вы сдали декларацию через персональный кабинет датой представления отчетности в налоговую инспекцию считают дату ее отправки.</p><p><a data-anchor="/document/16/209578/bssPhr23/"></a><a data-anchor="/document/16/209578/dfasfh6cps/" data-dfa="dfasfh6cps"></a>На сайте ГНК soliq.uz размещена подробная <a href="https://soliq.uz/press-services/news/show/kak-podat-deklaratsiyu-o-sovokupnom-dohode-fizicheskogo-litsa-v-elektronnom-vide" target="_self" title="">инструкция</a> пользования услугой «Отправка налоговых деклараций».</p></div><a data-anchor="/document/16/209578/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/209578/bssPhr24/"></a><a data-anchor="/document/16/209578/dfasola7hl/" data-dfa="dfasola7hl"></a>Уточненная декларация</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209578/bssPhr26/"></a><a data-anchor="/document/16/209578/dfasbclgkh/" data-dfa="dfasbclgkh"></a>Подайте уточненную декларацию, если обнаружили в ранее сданной декларации по НДФЛ:</p><ul class="c-list"><li><a data-anchor="/document/16/209578/bssPhr27/"></a><a data-anchor="/document/16/209578/dfasg14sd9/" data-dfa="dfasg14sd9"></a>ошибку, которая привела к занижению налога;</li><li>недостоверные или неполные сведения (<span num="74" target="_self" lnktype="intlnk" title="" class="doc">ч. 1</span> ст. 83 НК).</li></ul><p><a data-anchor="/document/16/209578/bssPhr28/"></a><a data-anchor="/document/16/209578/dfaszmi2o5/" data-dfa="dfaszmi2o5"></a>Если из-за обнаруженной неточности налог не был занижен, то представлять уточненную декларацию не обязательно, но можно (<span num="75" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 83 НК).</p><p><a data-anchor="/document/16/209578/bssPhr29/"></a><a data-anchor="/document/16/209578/dfasucsht2/" data-dfa="dfasucsht2"></a>В первом случае нужно успеть сдать уточненную декларацию до истечения срока представления первоначальной декларации. Если успели и не нарушили срок, то никаких санкций инспекция не применит. В этом случае, днем предоставления декларации считается день представления уточненной декларации (<span num="76" target="_self" lnktype="intlnk" title="" class="doc">ч. 3</span> ст. 83 НК).</p><p><a data-anchor="/document/16/209578/bssPhr30/"></a><a data-anchor="/document/16/209578/dfasi2tflx/" data-dfa="dfasi2tflx"></a>Во втором случае уточненную декларацию можно сдать в любое время без каких-либо последствий. В этом случае, уточненная декларация, представленная после истечения установленного срока ее представления, не считается представленной с нарушением срока (<span num="77" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 83 НК).</p><p><a data-anchor="/document/16/209578/bssPhr31/"></a><a data-anchor="/document/16/209578/dfascpafc0/" data-dfa="dfascpafc0"></a>В уточненной декларации по НДФЛ отразите все изменения, связанные с пересчетом налога. Для этого укажите правильные данные, а не разницу между первичными и скорректированными показателями. Уточненную декларацию оформляйте так же, как и первичную, используйте те же формы, на которых подавалась первичная отчетность (<span num="78" target="_self" lnktype="intlnk" title="" class="doc">ч. 5</span> ст. 83 НК).</p></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209578/bssPhr33/"></a><a data-anchor="/document/16/209578/dfasgvn10u/" data-dfa="dfasgvn10u"></a>Если в сданной декларации налоговая обнаружила ошибки, которые привели к занижению суммы налога, подлежащего уплате, то налогоплательщику направляется уведомление об обнаруженной ошибке.</p><p><a data-anchor="/document/16/209578/bssPhr34/"></a><a data-anchor="/document/16/209578/dfaslslfe1/" data-dfa="dfaslslfe1"></a>Днем обнаружения ошибки считается день получения налогоплательщиком уведомления.</p><p><a data-anchor="/document/16/209578/bssPhr35/"></a><a data-anchor="/document/16/209578/dfas9vgznc/" data-dfa="dfas9vgznc"></a>В этом случае нужно внести изменения в декларацию в течение десяти дней со дня получения уведомления.</p><p><a data-anchor="/document/16/209578/bssPhr36/"></a><a data-anchor="/document/16/209578/dfashd9c99/" data-dfa="dfashd9c99"></a>Если измененная декларация подается до истечения срока уплаты налога, то налогоплательщик освобождается от ответственности, если измененная декларация подается после истечения срока уплаты налога, но до обнаружения ошибки налоговой инспекцией, то налогоплательщик освобождается от ответственности при условии уплаты причитающейся суммы налога и соответствующей ей пени.</p><p><a data-anchor="/document/16/209578/bssPhr37/"></a><a data-anchor="/document/16/209578/dfasr5pwzg/" data-dfa="dfasr5pwzg"></a>Все это определено в частях <span num="79" target="_self" lnktype="intlnk" title="" class="doc">4</span>-<span num="80" target="_self" lnktype="intlnk" title="" class="doc">8</span> статьи 396 НК.</p></div><a data-anchor="/document/16/209578/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/209578/bssPhr38/"></a><a data-anchor="/document/16/209578/dfasprdqdu/" data-dfa="dfasprdqdu"></a>Отказ в приеме декларации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/209578/bssPhr40/"></a><a data-anchor="/document/16/209578/dfas6zy4g5/" data-dfa="dfas6zy4g5"></a>Отказать в приеме декларации по НДФЛ инспекция может, если декларацию оформили не по установленной форме (<span num="81" target="_self" lnktype="intlnk" title="" class="doc">ч. 9</span> ст. 82 НК).</p><p><a data-anchor="/document/16/209578/bssPhr41/"></a><a data-anchor="/document/16/209578/dfasa6lcud/" data-dfa="dfasa6lcud"></a>Также могут отказать в приеме декларации, если вы не представите необходимые документы:</p><ul class="c-list"><li><a data-anchor="/document/16/209578/bssPhr42/"></a><a data-anchor="/document/16/209578/dfas8i098q/" data-dfa="dfas8i098q"></a>справку налогового агента о выплаченных доходах и удержанных суммах налога;</li><li>соответствующее заключение уполномоченного органа, при получении гранта;</li><li>документ, подтверждающий право на льготу.</li></ul></div><p><a data-anchor="/document/16/209578/dfas215bg9/" data-dfa="dfas215bg9"></a><a data-anchor="/document/16/209578/bssPhr43/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p><p><a data-anchor="/document/16/209578/dfas0kng6k/" data-dfa="dfas0kng6k"></a><a data-anchor="/document/16/209578/bssPhr44/"></a>&nbsp;</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

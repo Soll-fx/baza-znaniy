@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Закон от 27.07.2026 № ЗРУ-1161</div><h2 class="auth__title">О возмещении вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/90/20513/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/20513/dfasa1i5sg/"></a>Неофициальный перевод</p><p style="text-align:center"><a data-anchor="/document/90/20513/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/20513/dfassr385r/"></a><strong>РЕСПУБЛИКИ УЗБЕКИСТАН</strong></p><p style="text-align:center"><a data-anchor="/document/90/20513/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/20513/dfasugc0pc/"></a><strong>ЗАКОН</strong></p><p style="text-align:center"><a data-anchor="/document/90/20513/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/20513/dfaso6wceb/"></a><strong>О возмещении вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица</strong></p><p style="text-align:right"><a data-anchor="/document/90/20513/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/20513/dfasg2n6u4/"></a>Принят Законодательной палатой 19 августа 2025 года<br>Одобрен Сенатом 7 апреля 2026 года</p><div class="doc__article doc-start" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit1/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/20513/dfasmn8rzh/"></a>Статья 1. </span><span class="doc__article-name">Цель настоящего Закона</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/20513/dfash8gd7u/"></a>Целью настоящего Закона является регулирование отношений в сфере возмещения вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit2/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/20513/dfasds70xg/"></a>Статья 2. </span><span class="doc__article-name">Сфера применения настоящего Закона</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/20513/dfasr72s9v/"></a>Настоящий Закон применяется к отношениям, возникающим при возмещении вреда, причиненного незаконным решением, действием либо бездействием государственных органов, их структурных и территориальных подразделений или должностных лиц.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/20513/dfasar4z5t/"></a>Порядок возмещения вреда, причиненного незаконными действиями или бездействием сотрудников Национальной гвардии Республики Узбекистан, органов внутренних дел, таможенных органов и военнослужащих, а также нотариусами государственных нотариальных контор, порядок возмещения вреда лицам, пострадавшим в результате проведения контртеррористической операции, при устранении чрезвычайных ситуаций, в результате обстоятельств, послуживших основанием для введения чрезвычайного положения, либо в связи с применением мер по пресечению подобных обстоятельств или устранению их последствий, а также порядок возмещения вреда, причиненного в связи с изъятием земельных участков для общественных нужд с выплатой компенсации, устанавливаются отдельными законами.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit3/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/20513/dfasfqlaw9/"></a>Статья 3. </span><span class="doc__article-name">Законодательство о возмещении вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/20513/dfas4342g0/"></a>Законодательство о возмещении вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица, состоит из настоящего Закона и иных актов законодательства.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/20513/dfasstygtd/"></a>Если международным договором Республики Узбекистан установлены иные правила, чем те, которые предусмотрены законодательством Республики Узбекистан о возмещении вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица, применяются правила международного договора.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit4/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/20513/dfaswf5nod/"></a>Статья 4. </span><span class="doc__article-name">Основные понятия</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/20513/dfash1p1xk/"></a>В настоящем Законе применяются следующие основные понятия:</p><ul><li style="text-align: left;"><a data-anchor="/document/90/20513/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/20513/dfasl8hwl6/"></a><strong>возмещение вреда</strong> &#8212; возмещение материального и (или) морального вреда, причиненного физическим и юридическим лицам незаконным решением, действием либо бездействием государственного органа или его должностного лица и установленного вступившим в законную силу решением суда;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfashqbovt/"></a><strong>моральный вред</strong> &#8212; нравственные и физические страдания (унижение, физическая боль, ущерб, неудобства и др.), причиненные физическому лицу незаконным решением, действием либо бездействием государственного органа или его должностного лица;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasowy6hc/"></a><strong>материальный вред </strong>&#8212; расходы, которые лицо, чье право нарушено, произвело или должно будет произвести для восстановления нарушенного права, утрата или повреждение его имущества (реальный ущерб), а также неполученные доходы, которые это лицо получило бы при обычных условиях гражданского оборота, если бы его право не было нарушено (упущенная выгода);</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfashhgsvg/"></a><strong>взыскатель </strong>&#8212; физическое или юридическое лицо, в отношении которого вступившим в законную силу решением суда установлено причинение ему материального и (или) морального вреда вследствие незаконного решения, действия либо бездействия государственного органа или его должностного лица, их законные представители;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfaseyg88d/"></a><strong>территориальный компенсационный фонд </strong>&#8212; территориальные целевые фонды по возмещению вреда, причиненного физическим и юридическим лицам, создаваемые решениями Совета Министров Республики Каракалпакстан, хокимиятов областей и города Ташкента и действующие при них, не имеющие статуса юридического лица, возмещающие материальный и (или) моральный вред, причиненный физическим и юридическим лицам незаконным решением, действием либо бездействием государственного органа или его должностного лица и установленный вступившим в законную силу решением суда.</li></ul><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit5/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/20513/dfasms935b/"></a>Статья 5. </span><span class="doc__article-name">Основные принципы в сфере возмещения вреда</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/20513/dfasqvkgur/"></a>Основными принципами в сфере возмещения вреда являются:</p><ul><li style="text-align: left;"><a data-anchor="/document/90/20513/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/20513/dfas0nfshe/"></a>законность;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfastzkqs5/"></a>приоритет прав, свобод и законных интересов человека;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfas5krgts/"></a>недопущение конфликта интересов;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasb22r05/"></a>открытость и прозрачность.</li></ul><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit6/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/20513/dfasl3vpc8/"></a>Статья 6. </span><span class="doc__article-name">Формирование средств территориального компенсационного фонда</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/20513/dfasd9vwrx/"></a>Источниками формирования средств территориального компенсационного фонда являются:</p><ul><li style="text-align: left;"><a data-anchor="/document/90/20513/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/20513/dfaszoach8/"></a>средства в размере не менее пятнадцати процентов средств резервных фондов соответственно республиканского бюджета Республики Каракалпакстан, областных бюджетов областей и городского бюджета города Ташкента;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasos8uz6/"></a>средства из дополнительных источников республиканского бюджета Республики Каракалпакстан, областных бюджетов областей и городского бюджета города Ташкента;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfashbx2bg/"></a>средства, поступающие от реализации прав на земельные участки для осуществления предпринимательской и градостроительной деятельности на электронной торговой платформе, перечисляемые в качестве дополнительных источников на специальные казначейские счета бюджета Республики Каракалпакстан, местных бюджетов областей и города Ташкента;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfas3gpb4z/"></a>часть средств внебюджетных фондов республиканских органов исполнительной власти;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasng5gma/"></a>средства, предусмотренные в параметрах местных бюджетов для возмещения материального и морального вреда;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasbuzypg/"></a>средства, взысканные с государственного органа в порядке регресса;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfas5e950l/"></a>средства юридических и физических лиц, в том числе нерезидентов Республики Узбекистан, в виде спонсорской и благотворительной помощи;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfas32s7ms/"></a>средства, поступившие от реализации имущества, конфискованного в доход государства (часть, направляемая в территориальные компенсационные фонды);</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasuu48u3/"></a>иные поступления, не запрещенные законодательством.</li></ul><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/20513/dfaskoiodu/"></a>Средства, предусмотренные в параметрах местных бюджетов для возмещения материального и морального вреда, а также средства, поступившие от реализации имущества, конфискованного в доход государства (часть, направляемая в территориальные компенсационные фонды), направляются исключительно на возмещение материального и морального вреда.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/20513/dfas4f2sof/"></a>Средства, поступающие в территориальные компенсационные фонды, аккумулируются на лицевых казначейских счетах, открытых в соответствующих территориальных подразделениях Комитета казначейской службы при Министерстве экономики и финансов Республики Узбекистан.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit7/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/20513/dfaspbgamh/"></a>Статья 7. </span><span class="doc__article-name">Наблюдательные советы территориальных компенсационных фондов</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/20513/dfast4o7wa/"></a>Наблюдательные советы территориальных компенсационных фондов (далее &#8212; территориальные наблюдательные советы) являются коллегиальным высшим органом управления территориальных компенсационных фондов при Совете Министров Республики Каракалпакстан, хокимиятах областей и города Ташкента.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/20513/dfasro2izi/"></a>Порядок формирования и осуществления деятельности территориальных наблюдательных советов устанавливается Кабинетом Министров Республики Узбекистан.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit8/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-anchor="/document/90/20513/dfasszfmeg/"></a>Статья 8. </span><span class="doc__article-name">Полномочия территориальных наблюдательных советов</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/20513/dfasbhtply/"></a>Территориальные наблюдательные советы в пределах административно-территориальных единиц:</p><ul><li style="text-align: left;"><a data-anchor="/document/90/20513/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/20513/dfas62pq8w/"></a>принимают решения о выделении средств на возмещение вреда;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfas5daq3y/"></a>осуществляют контроль за поступлением средств в соответствующий фонд и рассматривают прогнозы использования средств фондов, а также утверждают прогнозы использования средств на следующий год;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfas342f0p/"></a>рассматривают бюджетный запрос на финансирование возмещения вреда;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasf5iwgr/"></a>обеспечивают стабильное формирование доходов соответствующего фонда, своевременное финансирование возмещения вреда, а также осуществляют регулярный мониторинг за выделением средств в полном объеме;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasiaz5nv/"></a>осуществляют в установленном порядке контроль за целевым и рациональным использованием средств соответствующего фонда.</li></ul><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/20513/dfaso74yfn/"></a>Территориальные наблюдательные советы могут осуществлять и иные полномочия в соответствии с законодательством.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/20513/dfastiu070/"></a>Решения, принятые территориальными наблюдательными советами в пределах своих полномочий, являются обязательными для исполнения государственными органами.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/20513/dfas1e47sa/"></a>Решения территориальных наблюдательных советов оформляются протоколом заседания наблюдательного совета.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit9/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/20513/dfaslkq2yy/"></a>Статья 9. </span><span class="doc__article-name">Рабочие органы территориальных наблюдательных советов и их полномочия</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/20513/dfas6rae2a/"></a>Территориальные подразделения Министерства экономики и финансов Республики Узбекистан (далее &#8212; территориальный рабочий орган) являются рабочими органами соответствующих территориальных наблюдательных советов.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/20513/dfasg7f0zl/"></a>Территориальный рабочий орган:</p><ul><li style="text-align: left;"><a data-anchor="/document/90/20513/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/20513/dfastf8v8y/"></a>осуществляет выплаты и принимает меры по возмещению вреда на основании решения территориального наблюдательного совета о выделении средств для возмещения вреда;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfas2dyqyn/"></a>подготавливает предложения по проектам соответствующих мер по возмещению вреда;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasbu1g7g/"></a>формирует бюджетный запрос по финансированию возмещения вреда в пределах административно-территориальной единицы.</li></ul><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/20513/dfastvf6us/"></a>Территориальный рабочий орган может осуществлять и иные полномочия в соответствии с законодательством.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit10/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/20513/dfas7pwpxc/"></a>Статья 10. </span><span class="doc__article-name">Определение размера средств, взыскиваемых для возмещения вреда</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/20513/dfasdgmowb/"></a>Размер средств, взыскиваемых для возмещения вреда, определяется на основании решения суда.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit11/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/20513/dfasof2wag/"></a>Статья 11. </span><span class="doc__article-name">Форма возмещения вреда</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/20513/dfasqwts7k/"></a>Материальный и (или) моральный вред, причиненный физическому или юридическому лицу и установленный вступившим в законную силу решением суда, возмещается из территориального компенсационного фонда в денежной форме.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit12/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/20513/dfas27inwo/"></a>Статья 12. </span><span class="doc__article-name">Основания возмещения вреда</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/20513/dfas2ph73k/"></a>Вред возмещается на основании исполнительного документа, выданного в соответствии с решением суда о возмещении вреда.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/20513/dfasszwuyf/"></a>Если конкретное лицо признано виновным вступившим в законную силу решением суда в причинении вреда, материальный и (или) моральный вред должен быть возмещен этим лицом. При этом причиненный вред первоначально возмещается за счет средств территориального компенсационного фонда в порядке, установленном настоящим Законом, а указанные средства впоследствии взыскиваются с виновного лица в порядке регресса через соответствующий государственный орган, за исключением случаев добровольного возмещения вреда виновным лицом до возмещения вреда территориальным компенсационным фондом.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit13/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/20513/dfaswamlda/"></a>Статья 13. </span><span class="doc__article-name">Порядок исполнения исполнительного документа о возмещении вреда</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/20513/dfasq98ud4/"></a>Юридическая служба Совета Министров Республики Каракалпакстан, хокимиятов областей и города Ташкента в течение пяти рабочих дней со дня поступления исполнительного документа рассматривает его и вносит в территориальный наблюдательный совет проект решения о выделении средств для возмещения вреда, указанного в данном исполнительном документе, с указанием банковского счета взыскателя.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/20513/dfasynwt5n/"></a>Территориальный наблюдательный совет в течение одного рабочего дня рассматривает проект решения и принимает решение о выделении средств для возмещения вреда, указанного в исполнительном документе, и незамедлительно направляет данное решение территориальному рабочему органу.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/20513/dfasn863k2/"></a>В соответствии с решением территориального наблюдательного совета территориальный рабочий орган в течение одного рабочего дня со дня поступления данного решения перечисляет на банковский счет или личную банковскую карту взыскателя соответствующие средства для возмещения вреда, указанного в исполнительном документе о возмещении вреда, в пределах имеющихся средств территориального компенсационного фонда.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/20513/dfas1nnx0c/"></a>Перечисление средств взыскателю осуществляется в порядке очередности регистрационных номеров решений территориального наблюдательного совета.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/20513/dfas6b39r9/"></a>В случае обжалования решения суда и приостановления исполнительного производства юридическая служба Совета Министров Республики Каракалпакстан, хокимиятов областей и города Ташкента направляет взыскателю в течение двух рабочих дней письмо с приложением соответствующего решения (определения) суда о приостановлении исполнительного производства. При этом все действия по исполнению исполнительного документа приостанавливаются в порядке, установленном законодательством.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit14/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/20513/dfaseiw4dg/"></a>Статья 14. </span><span class="doc__article-name">Добровольное возмещение вреда виновным лицом</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/20513/dfas7a20o4/"></a>Лицо, признанное виновным решением суда, вправе добровольно возместить взыскателю причиненный им вред в установленном порядке.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/20513/dfasv34amd/"></a>Возмещение вреда виновным лицом осуществляется путем внесения денежных средств на банковский счет или личную банковскую карту взыскателя.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/20513/dfasgtfeoy/"></a>Допускается возмещение вреда в иной форме в соответствии с письменным соглашением сторон в порядке, установленном законодательством.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit15/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/20513/dfas6qp9fw/"></a>Статья 15. </span><span class="doc__article-name">Право регресса в отношении лица, причинившего вред</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/20513/dfasygwc6p/"></a>В случае возмещения вреда за счет средств территориальных компенсационных фондов на основании решения суда и последующего возникновения в соответствии с законодательством права регресса в отношении виновного лица, причинившего вред, Совет Министров Республики Каракалпакстан, хокимияты областей и города Ташкента предъявляют претензию государственному органу, в котором виновное лицо осуществляет или ранее осуществляло деятельность.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/20513/dfasx649ti/"></a>Государственный орган, получивший претензию о возмещении вреда, в течение трех рабочих дней перечисляет средства в полном объеме в соответствующий компенсационный фонд за счет своего внебюджетного фонда и принимает меры по взысканию этих средств с виновного лица в порядке регресса.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/20513/dfasahr0z3/"></a>В случае недостаточности остатка внебюджетных средств государственного органа и средств, выделенных из бюджета по соответствующей статье сметы расходов, государственный орган вносит соответствующие изменения в смету расходов и перечисляет средства в установленный срок.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/20513/dfash79laq/"></a>В случае если средства, перечисленные для возмещения вреда, не возвращены виновным лицом добровольно, государственный орган взыскивает их с виновного лица в судебном порядке.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit16/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/20513/dfaswt1few/"></a>Статья 16. </span><span class="doc__article-name">Право регресса в отношении государственного органа</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/20513/dfas5860dc/"></a>Если решением суда установлено возмещение вреда, причиненного взыскателю, государственным органом, такой вред возмещается за счет средств соответствующего территориального компенсационного фонда. Впоследствии принимаются меры по взысканию данных средств с государственного органа в порядке регресса в полном объеме.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit17/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/20513/dfasc4kdmi/"></a>Статья 17. </span><span class="doc__article-name">Отчетность об использовании средств территориального компенсационного фонда</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/20513/dfas5go41f/"></a>Председатель Совета Министров Республики Каракалпакстан, хокимы областей и города Ташкента представляют отчет об использовании средств территориального компенсационного фонда соответственно Жокаргы Кенесу Республики Каракалпакстан, Кенгашам народных депутатов областей и города Ташкента один раз в год.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/20513/dfasp624si/"></a>Территориальный рабочий орган представляет в Министерство экономики и финансов Республики Узбекистан отчет о выплатах, произведенных за счет средств территориального компенсационного фонда, и об их взыскании в порядке регресса по итогам каждого квартала до десятого числа следующего месяца.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/20513/dfasct29um/"></a>Сведения об использовании средств территориальных компенсационных фондов отражаются в годовом отчете Кабинета Министров Республики Узбекистан об исполнении Государственного бюджета, представляемом Законодательной палате Олий Мажлиса Республики Узбекистан.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit18/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/20513/dfaspfu0gp/"></a>Статья 18. </span><span class="doc__article-name">Разрешение споров</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/20513/dfas5wt8z7/"></a>Споры, возникающие в сфере возмещения вреда, разрешаются в порядке, установленном законодательством.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/20513/dfasl9ak2w/"></a>Решения, действия или бездействие наблюдательных советов могут быть обжалованы в судебном порядке.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/20513/dfasbz4qye/"></a>Все противоречия и неясности в законодательстве, возникающие во взаимоотношениях физических и юридических лиц с государственными органами в сфере возмещения вреда, толкуются в пользу физических и юридических лиц.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit19/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/20513/dfasifx1bg/"></a>Статья 19. </span><span class="doc__article-name">Ответственность за нарушение законодательства о возмещении вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/20513/dfas12cssb/"></a>Лица, виновные в нарушении законодательства о возмещении вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица, несут ответственность в установленном порядке.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit20/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/20513/dfas5or629/"></a>Статья 20. </span><span class="doc__article-name">Внесение изменений в некоторые законодательные акты Республики Узбекистан</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/20513/dfasfafnuk/"></a>Внести изменения в следующие законодательные акты Республики Узбекистан:</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/20513/dfasp50qhd/"></a>1. Текст статьи 305 Уголовно-процессуального кодекса Республики Узбекистан, утвержденный Законом Республики Узбекистан от 22 сентября 1994 года № 2013-XII (Ведомости Верховного Совета Республики Узбекистан, 1995 г., № 2, ст. 5; Ведомости Олий Мажлиса Республики Узбекистан, 1995 г., № 12, ст. 269; 1997 г., № 2, ст. 56, № 9, ст. 241; 1998 г., № 5-6, ст. 102, № 9, ст. 181; 1999 г., № 1, ст. 20, № 5, ст. 124, № 9, ст. 229; 2000 г., № 5-6, ст. 153, № 7-8, ст. 217; 2001 г., № 1-2, ст. 11, 23, № 9-10, ст. 165, 182; 2002 г., № 9, ст. 165; 2003 г., № 5, ст. 67; 2004 г., № 1-2, ст. 18, № 9, ст. 171; Ведомости палат Олий Мажлиса Республики Узбекистан, 2005 г., № 12, ст. 418; 2006 г., № 6, ст. 261; 2007 г., № 4, ст. 166, № 6, ст. 248, 249, № 9, ст. 422, № 12, ст. 594, 595, 607; 2008 г., № 4, ст. 177, 187, № 9, ст. 482, 484, 487, № 12, ст. 636, 641; 2009 г., № 1, ст. 1, № 4, ст. 136, № 9, ст. 335, № 12, ст. 469, 470; 2010 г., № 6, ст. 231, № 9, ст. 334, 336, 337, 342, № 12, ст. 477; 2011 г., № 4, ст. 103, 104, № 9, ст. 252, № 12/2, ст. 363; 2012 г., № 1, ст. 3, № 9/2, ст. 244, № 12, ст. 336; 2014 г., № 9, ст. 244; 2015 г., № 8, ст. 310, 312, № 12, ст. 452; 2016 г., № 4, ст. 125, № 9, ст. 276, № 12, ст. 385; 2017 г., № 3, ст. 47, № 6, ст. 300, № 9, ст. 506, 510, № 10, ст. 605; 2018 г., № 1, ст. 1, 5, № 4, ст. 218, 224, № 7, ст. 430, 431, № 10, ст. 679; 2019 г., № 1, ст. 3, 5, № 2, ст. 47, № 3, ст. 161, № 5, ст. 259, 267, № 7, ст. 386, № 8, ст. 469, № 9, ст. 589, 592, № 10, ст. 671, № 11, ст. 787, 791, № 12, ст. 880, 881, 891; 2020 г., № 3, ст. 204, № 5, ст. 296, № 12, ст. 689; 2021 г., № 1, ст. 5, 11, 13, 14, № 2, ст. 142, 144, приложение к № 4, № 8, ст. 800, 803, № 9, ст. 903, № 10, ст. 973, № 12, ст. 1193; 2022 г., № 2, ст. 81, № 3, ст. 216, № 4, ст. 337, № 6, ст. 575; 2023 г., № 3, ст. 184, 185, № 4, ст. 265, 269, № 5, ст. 319, № 9, ст. 713; 2024 г., № 1, ст. 8, № 2, ст. 115, № 9, ст. 964, № 10, ст. 1070, 1073, 1077, 1083, № 12, ст. 1280, 1286, 1292; 2025 г., № 1, ст. 8, № 2, ст. 196, 201, № 3, ст. 376) изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/20513/dfasa2i017/"></a>&#171;Размер вреда, указанного в пунктах 1, 3, 4, 5 и 6 статьи 304 настоящего Кодекса, определяется на основании расчетов органов экономики и финансов, размер ущерба, указанного в пункте 2, &#8212; на основании расчетов отделов внебюджетного Пенсионного фонда при Министерстве экономики и финансов Республики Узбекистан, а возмещение данного вреда осуществляется за счет государственного бюджета в порядке, установленном законом&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/20513/dfassm3g8g/"></a>2. Часть первую статьи 15 Гражданского кодекса Республики Узбекистан, утвержденный законами Республики Узбекистан от 21 декабря 1995 года № 163-I и от 29 августа 1996 года № 256-I (Ведомости Олий Мажлиса Республики Узбекистан, 1996 г., приложение к № 2, № 11-12; 1997 г., № 2, ст. 56, № 9, ст. 241; 1998 г., № 5-6, ст. 102; 1999 г., № 1, ст. 20, № 9, ст. 229; 2001 г., № 1-2, ст. 23, № 9-10, ст. 182; 2002 г., № 1, ст. 20, № 9, ст. 165; 2003 г., № 1, ст. 8, № 5, ст. 67; 2004 г., № 1-2, ст. 18, № 5, ст. 90, № 9, ст. 171; Ведомости палат Олий Мажлиса Республики Узбекистан, 2006 г., № 4, ст. 154, № 9, ст. 494, 498; 2007 г., № 1, ст. 3, 5, № 4, ст. 156, 164, № 8, ст. 367, № 9, ст. 416, № 12, ст. 598, 608; 2008 г., № 4, ст. 192, № 12, ст. 640; 2009 г., № 9, ст. 337; 2010 г., № 9, ст. 335, 337, 340; 2011 г., № 12/2, ст. 363, 364, 365; 2012 г., № 4, ст. 106, 109, № 12, ст. 336; 2013 г., № 10, ст. 263; 2014 г., № 5, ст. 130, № 12, ст. 343; 2015 г., № 8, ст. 310, 312; 2016 г., № 4, ст. 125; 2017 г., № 4, ст. 137, № 9, ст. 510, № 12, ст. 773; 2018 г., № 1, ст. 4, № 4, ст. 224, № 7, ст. 433, № 10, ст. 673; 2019 г., № 3, ст. 161, 166, № 5, ст. 267, № 10, ст. 671, № 12, ст. 880, 886; 2020 г., № 1, ст. 3, 4, № 10, ст. 593; 2021 г., приложение к № 4, № 8, ст. 801, № 10, ст. 968; 2022 г., № 2, ст. 79, № 3, ст. 217, 218, № 4, ст. 340, № 5, ст. 464, № 6, ст. 570, 577, № 11, ст. 1061, 1062; 2023 г., № 10, ст. 795, № 11, ст. 921; 2024 г., № 2, ст. 111, 114, № 6, ст. 530, № 9, ст. 960, № 11, ст. 1193; 2025 г., № 2, ст. 188, 194, № 4, ст. 522, № 6, ст. 730) изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/20513/dfasi1lsrn/"></a>&#171;Убытки, причиненные гражданину или юридическому лицу в результате принятия акта, не соответствующего законодательству, государственным органом или органом самоуправления граждан, а также незаконных действий (бездействия) их должностных лиц, подлежат возмещению государством или органом самоуправления граждан. Такие убытки возмещаются за счет средств соответствующих целевых фондов, внебюджетных средств государственного органа или средств органа самоуправления граждан в порядке, установленном законом&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr79/" data-role="phrase-anchor" data-phrase-id="79" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr79"></a><a data-anchor="/document/90/20513/dfasnd35gr/"></a>3. Текст статьи 48<sup>7</sup> Закона Республики Узбекистан от 29 августа 2001 года № 258-II &#171;Об исполнении судебных актов и актов иных органов&#187; (Ведомости Олий Мажлиса Республики Узбекистан, 2001 г., № 9-10, ст. 169; Ведомости палат Олий Мажлиса Республики Узбекистан, 2007 г., № 8, ст. 367, № 12, ст. 598; 2008 г., № 4, ст. 184, 187; 2009 г., № 1, ст. 1; 2010 г., № 9, ст. 337, 340; 2012 г., № 12, ст. 336; 2014 г., № 5, ст. 130; 2015 г., № 8, ст. 312, № 12, ст. 452; 2016 г., № 9, ст. 276; 2017 г., № 9, ст. 510; 2018 г., № 1, ст. 1, 4, 5; 2019 г., № 2, ст. 47, № 5, ст. 267, № 7, ст. 389, № 8, ст. 469, № 10, ст. 671, № 12, ст. 880; 2021 г., приложение к № 4, № 8, ст. 800, 803; 2022 г., № 4, ст. 337, № 6, ст. 570; 2023 г., № 4, ст. 269; 2024 г., № 2, ст. 111, № 8, ст. 827, № 10, ст. 1073; 2025 г., № 4, ст. 522, № 6, ст. 729) изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr80/" data-role="phrase-anchor" data-phrase-id="80" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr80"></a><a data-anchor="/document/90/20513/dfasoqa488/"></a>&#171;Обращение взыскания на денежные средства Государственного бюджета Республики Узбекистан и бюджетных организаций осуществляется в соответствии с настоящим Законом, с учетом особенностей, установленных Законом Республики Узбекистан &#171;О возмещении вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица&#187;, а также Положением о порядке обращения взыскания по исполнительным документам на средства Государственного бюджета Республики Узбекистан, бюджетных организаций, утверждаемым Кабинетом Министров Республики Узбекистан.&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr81/" data-role="phrase-anchor" data-phrase-id="81" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr81"></a><a data-anchor="/document/90/20513/dfasm53uwv/"></a>4. Часть первую статьи 449 Гражданского процессуального кодекса Республики Узбекистан, утвержденный Законом Республики Узбекистан от 22 января 2018 года № ЗРУ-460 (Ведомости палат Олий Мажлиса Республики Узбекистан, 2018 г., приложение 1 к № 1, № 10, ст. 672; 2019 г., № 3, ст. 166, № 5, ст. 261, № 9, ст. 592, № 10, ст. 671, № 11, ст. 791, 792, № 12, ст. 880; 2020 г., № 1, ст. 1, 3, № 3, ст. 198, 199; 2021 г., № 1, ст. 8, приложение к № 4, № 8, ст. 803, № 9, ст. 903; 2022 г., № 3, ст. 216, № 8, ст. 787; 2023 г., № 4, ст. 269, № 12, ст. 1007; 2024 г., № 2, ст. 115, № 8, ст. 827, № 9, ст. 964, 969, № 11, ст. 1191, № 12, ст. 1280, 1286; 2025 г., № 1, ст. 8, № 3, ст. 373, № 6, ст. 729) изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr82/" data-role="phrase-anchor" data-phrase-id="82" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr82"></a><a data-anchor="/document/90/20513/dfasqrwcld/"></a>&#171;В случаях возмещения ущерба, причиненного преступлением, возмещения вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица, взыскания алиментов, взыскания возмещения вреда, причиненного увечьем или иным повреждением здоровья, а также смертью кормильца, взыскания денежных сумм с должностных лиц, виновных в незаконном прекращении трудового договора с работником либо незаконном переводе работника или в неисполнении решения суда о восстановлении на работе, взыскания денежных средств в доход государства суд по своей инициативе направляет исполнительный лист для исполнения&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr83/" data-role="phrase-anchor" data-phrase-id="83" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr83"></a><a data-anchor="/document/90/20513/dfas5b2bd3/"></a>5. Часть восьмую статьи 336 Экономического процессуального кодекса Республики Узбекистан, утвержденный Законом Республики Узбекистан от 24 января 2018 года № ЗРУ-461 (Ведомости палат Олий Мажлиса Республики Узбекистан, 2018 г., приложение 2 к № 1, № 7, ст. 433, № 10, ст. 672; 2019 г., № 3, ст. 166, № 5, ст. 261, 266, № 9, ст. 592, № 10, ст. 671, № 11, ст. 791, № 12, ст. 880; 2020 г., № 1, ст. 1, № 3, ст. 198, № 10, ст. 593; 2021 г., № 1, ст. 10, приложение к № 4, № 8, ст. 803, № 9, ст. 903; 2022 г., № 3, ст. 216, № 5, ст. 463, № 6, ст. 577, № 8, ст. 787; 2023 г., № 4, ст. 269, № 12, ст. 1008; 2024 г., № 2, ст. 111, № 9, ст. 964, 969, № 12, ст. 1280, 1286; 2025 г., № 3, ст. 373, № 6, ст. 729) изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr84/" data-role="phrase-anchor" data-phrase-id="84" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr84"></a><a data-anchor="/document/90/20513/dfaswtrbpk/"></a>&#171;Исполнительный лист на взыскание средств в бюджет, возмещение вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица, направляется государственному исполнителю по месту нахождения должника в течение пяти дней после вступления судебного акта в законную силу&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr85/" data-role="phrase-anchor" data-phrase-id="85" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr85"></a><a data-anchor="/document/90/20513/dfaswg10p1/"></a>6. Часть седьмую статьи 278 Кодекса Республики Узбекистан об административном судопроизводстве, утвержденный Законом Республики Узбекистан от 25 января 2018 года № ЗРУ-462 (Ведомости палат Олий Мажлиса Республики Узбекистан, 2018 г., приложение 3 к № 1, № 10, ст. 672; 2019 г., № 5, ст. 261, № 9, ст. 592, № 11, ст. 791, № 12, ст. 880; 2020 г., № 1, ст. 1, № 3, ст. 198; 2021 г., № 1, ст. 9, приложение к № 4, № 8, ст. 800, 803, № 9, ст. 903; 2022 г., № 8, ст. 787, № 12, ст. 1188; 2023 г., № 3, ст. 185, № 4, ст. 269, № 11, ст. 923, № 12, ст. 1009; 2024 г., № 2, ст. 115, № 9, ст. 964, 969, № 12, ст. 1286; 2025 г., № 3, ст. 373, № 6, ст. 729) изложить в следующей редакции:</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr86/" data-role="phrase-anchor" data-phrase-id="86" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr86"></a><a data-anchor="/document/90/20513/dfashy7tzd/"></a>&#171;Исполнительный лист на взыскание средств в бюджет, возмещение вреда, причиненного незаконным решением, действием либо бездействием государственного органа или его должностного лица, направляется государственному исполнителю по месту нахождения должника в течение пяти дней после вступления судебного акта в законную силу&#187;.</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr87/" data-role="phrase-anchor" data-phrase-id="87" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr87"></a><a data-anchor="/document/90/20513/dfas3z4k4s/"></a>7. В часть вторую статьи 7 Закона Республики Узбекистан от 2 декабря 2019 года № ЗРУ-781 &#171;О процедурах изъятия земельных участков для общественных нужд с компенсацией&#187; (Ведомости палат Олий Мажлиса Республики Узбекистан, 2022 г., № 6, ст. 576; 2024 г., № 8, ст. 830, № 10, ст. 1072) внести следующие изменения:</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr88/" data-role="phrase-anchor" data-phrase-id="88" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr88"></a><a data-anchor="/document/90/20513/dfaslyfdq7/"></a>абзацы второй и третий заменить абзацами вторым, третьим и четвертым следующего содержания:</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr89/" data-role="phrase-anchor" data-phrase-id="89" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr89"></a><a data-anchor="/document/90/20513/dfas6nawlx/"></a>&#171;средства в размере не менее пятнадцати процентов средств резервных фондов соответственно республиканского бюджета Республики Каракалпакстан, областных бюджетов областей и городского бюджета города Ташкента;</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr90/" data-role="phrase-anchor" data-phrase-id="90" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr90"></a><a data-anchor="/document/90/20513/dfasylluwg/"></a>средства дополнительных источников республиканского бюджета Республики Каракалпакстан, областных бюджетов областей и городского бюджета города Ташкента;</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr91/" data-role="phrase-anchor" data-phrase-id="91" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr91"></a><a data-anchor="/document/90/20513/dfase7bo27/"></a>средства, поступившие от реализации прав на земельные участки для осуществления предпринимательской и градостроительной деятельности на электронной торговой платформе, переводимые на специальные казначейские счета бюджета Республики Каракалпакстан, местных бюджетов областей и города Ташкента в качестве дополнительных источников&#187;;</p><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr92/" data-role="phrase-anchor" data-phrase-id="92" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr92"></a><a data-anchor="/document/90/20513/dfasox6gn8/"></a>абзацы четвертый и пятый считать соответственно абзацами пятым и шестым.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit21/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr93/" data-role="phrase-anchor" data-phrase-id="93" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr93"></a><a data-anchor="/document/90/20513/dfascg4hik/"></a>Статья 21. </span><span class="doc__article-name">Обеспечение исполнения, доведения, разъяснения сути и значения настоящего Закона</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr94/" data-role="phrase-anchor" data-phrase-id="94" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr94"></a><a data-anchor="/document/90/20513/dfas9cvc4s/"></a>Министерству юстиции Республики Узбекистан и другим заинтересованным организациям обеспечить исполнение настоящего Закона, доведение его до исполнителей, а также разъяснение его сути и значения среди населения.</p><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit22/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr95/" data-role="phrase-anchor" data-phrase-id="95" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr95"></a><a data-anchor="/document/90/20513/dfasmo0gs1/"></a>Статья 22. </span><span class="doc__article-name">Приведение законодательства в соответствие с настоящим Законом</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr96/" data-role="phrase-anchor" data-phrase-id="96" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr96"></a><a data-anchor="/document/90/20513/dfasia1zl5/"></a>Кабинету Министров Республики Узбекистан:</p><ul><li style="text-align: left;"><a data-anchor="/document/90/20513/bssPhr97/" data-role="phrase-anchor" data-phrase-id="97" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr97"></a><a data-anchor="/document/90/20513/dfasffof6z/"></a>привести постановления правительства в соответствие с настоящим Законом;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasgfqdst/"></a>утвердить в трехмесячный срок порядок формирования и осуществления деятельности территориальных наблюдательных советов;</li><li style="text-align: left;"><a data-anchor="/document/90/20513/dfasntoclc/"></a>обеспечить пересмотр и отмену республиканскими органами исполнительной власти своих нормативно-правовых актов, противоречащих настоящему Закону.</li></ul><div class="doc__article" data-type="article" data-level="7"><a data-role="toc" data-anchor="/document/90/20513/tit23/"></a><span class="doc__article-number" style="text-align:left"><a data-anchor="/document/90/20513/bssPhr98/" data-role="phrase-anchor" data-phrase-id="98" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr98"></a><a data-anchor="/document/90/20513/dfasgm3sal/"></a>Статья 23. </span><span class="doc__article-name">Вступление в силу настоящего Закона</span></div><p style="text-align:left"><a data-anchor="/document/90/20513/bssPhr99/" data-role="phrase-anchor" data-phrase-id="99" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr99"></a><a data-anchor="/document/90/20513/dfas98etk0/"></a>Настоящий Закон вступает в силу по истечении шести месяцев со дня его официального опубликования.</p><p style="text-align:right"><a data-anchor="/document/90/20513/bssPhr100/" data-role="phrase-anchor" data-phrase-id="100" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr100"></a><a data-anchor="/document/90/20513/dfasvmpwn6/"></a><strong>Президент Республики Узбекистан<br>Ш. Мирзиёев</strong></p><p><a data-anchor="/document/90/20513/bssPhr101/" data-role="phrase-anchor" data-phrase-id="101" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr101"></a><a data-anchor="/document/90/20513/dfasmovgd1/"></a><a data-anchor="/document/90/20513/dfasmgcnwx/"></a><a data-anchor="/document/90/20513/dfasink8cq/"></a>г. Ташкент,<br>27 июля 2026 г.,<br>№ ЗРУ-1161</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

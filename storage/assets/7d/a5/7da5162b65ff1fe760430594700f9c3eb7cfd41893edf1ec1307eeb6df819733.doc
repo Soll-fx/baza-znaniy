@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кто платит земельный налог</h2><div class="doc-snippet"><a data-anchor="/document/16/221167/dfasu4gbdc/" data-dfa="dfasu4gbdc"></a><a data-anchor="/document/16/221167/bssPhr2/"></a>В рекомендации — ответы на вопросы: кто и с какого момента должен платить земельный налог, нужно ли ставить земельный участок на учет в налоговых органах и кто платит земельный налог при совместном владении или пользовании участком </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/221167/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221167/bssPhr5/"></a><a data-anchor="/document/16/221167/dfasftl487/" data-dfa="dfasftl487"></a>Плательщики земельного налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221167/bssPhr9/"></a><a data-anchor="/document/16/221167/dfas9d78aq/" data-dfa="dfas9d78aq"></a>Земельный налог платят юрлица, в том числе нерезиденты, которые имеют налогооблагаемые земельным участком на праве собственности, владения, пользования или аренды (<span num="417" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;1 ст.&nbsp;425 НК</span>).</p><p><a data-anchor="/document/16/221167/bssPhr10/"></a><a data-anchor="/document/16/221167/dfaskcgu59/" data-dfa="dfaskcgu59"></a>Арендная плата, уплачиваемая за земельные участки, предоставленные на основании договора аренды земельного участка, заключенного с хокимом района (города), а также с государственными органами, учреждениями и организациями, обладающими правом постоянного пользования, и зарегистрированного в органах государственной регистрации прав на недвижимое имущество, приравнивается к земельному налогу. На юридических лиц, получивших земельные участки в аренду, распространяются налоговые ставки, налоговые льготы, порядок исчисления налога, представления налоговой отчетности и уплаты налога, установленные для налогоплательщиков земельного налога с юридических лиц. (<span num="418" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;2 ст.&nbsp;424 НК</span>).</p><p><a data-anchor="/document/16/221167/bssPhr11/"></a><a data-anchor="/document/16/221167/dfastkbnwu/" data-dfa="dfastkbnwu"></a>При оперативной аренде недвижимости плательщиком земельного налога по участку, где недвижимость расположена, признается арендодатель, а при финансовой аренде — арендатор, то есть лизингополучатель (<span num="419" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;2 ст.&nbsp;425 НК</span>). Если земельный участок совместно используется несколькими юрлицами, то каждое юрлицо платит земельный налог за свою долю используемой площади земельного участка.</p><p><a data-anchor="/document/16/221167/bssPhr12/"></a><a data-anchor="/document/16/221167/dfasyrpgwu/" data-dfa="dfasyrpgwu"></a>Иностранный инвестор, за исключением случаев, предусмотренных законодательством о соглашениях о разделе продукции, уплачивает земельный налог в течение срока действия соглашения о разделе продукции. Если в качестве инвестора выступает не имеющее статуса юридического лица объединение юридических лиц, то исполнителем налоговых обязательств выступает один из участников такого объединения или оператор по выполнению работ по соглашению о разделе продукции. Инвестор, получивший разрешение на право пользования участками недр, обязан в месячный срок письменно уведомить налоговый орган об участнике, выступающем исполнителем налогового обязательства от данного объединения (<span num="182" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;476 НК</span>).</p><p><a data-anchor="/document/16/221167/bssPhr13/"></a><a data-anchor="/document/16/221167/dfaslmqoab/" data-dfa="dfaslmqoab"></a>Земельные участки предоставляются:</p><ul class="c-list"><li><a data-anchor="/document/16/221167/bssPhr14/"></a><a data-anchor="/document/16/221167/dfaslz51vg/" data-dfa="dfaslz51vg"></a>частным лицам – на праве собственности или аренды;</li><li>государственным органам, учреждениям, предприятиям и органам самоуправления граждан (далее – государственные организации) – на праве постоянного пользования.</li></ul><p><a data-anchor="/document/16/221167/bssPhr15/"></a><a data-anchor="/document/16/221167/dfasz9awa6/" data-dfa="dfasz9awa6"></a>Земли сельскохозяйственного назначения предоставляются только в аренду по результатам электронных онлайн-аукционов. В таких аукционах могут участвовать производители любых видов сельскохозяйственной продукции.&nbsp;Земли несельскохозяйственного назначения предоставляются также через электронные онлайн-аукционы – на праве собственности или аренды.</p><p><a data-anchor="/document/16/221167/bssPhr16/"></a><a data-anchor="/document/16/221167/dfasaz7knh/" data-dfa="dfasaz7knh"></a>Земельные участки для общественных нужд предоставляются государственным организациям решением Совета Министров Республики Каракалпакстан, хокимов областей и города Ташкента на праве постоянного пользования.&nbsp;Во всех случаях земельные участки могут предоставляться <strong>только из свободных земель или земель запаса</strong>.</p><p><a data-anchor="/document/16/221167/bssPhr17/"></a><a data-anchor="/document/16/221167/dfas27fpsc/" data-dfa="dfas27fpsc"></a>При реализации проектов государственно-частного партнёрства и проектов социального значения земельные участки предоставляются государственным организациям на праве постоянного пользования.&nbsp;Эти участки могут передаваться в аренду частному партнёру, негосударственным некоммерческим организациям и другим институтам гражданского общества на срок действия соответствующего соглашения.</p><p><a data-anchor="/document/16/221167/bssPhr18/"></a><a data-anchor="/document/16/221167/dfasge6it5/" data-dfa="dfasge6it5"></a>Кабинет Министров вправе предоставлять земельные участки в аренду напрямую только в исключительных случаях:</p><ul class="c-list"><li><a data-anchor="/document/16/221167/bssPhr19/"></a><a data-anchor="/document/16/221167/dfasvl4oqp/" data-dfa="dfasvl4oqp"></a>государственным научно-исследовательским и образовательным учреждениям – для проведения научных исследований и опытных работ в сфере сельского хозяйства, по предложению Министерства сельского хозяйства;</li><li>агропромышленным кластерам – по предложению Министерства сельского хозяйства, Совета Министров Республики Каракалпакстан или хокимов областей, при внесении денежных средств в размере двойной нормативной стоимости земельного участка;</li><li>для реализации инвестиционных проектов в специальных экономических зонах, а также при предоставлении земли отечественным и иностранным инвесторам, включая предприятия с иностранным участием, иностранным юридическим и физическим лицам для реализации крупного инвестиционного проекта стоимостью не менее 10 миллионов долларов США.</li></ul><p><a data-anchor="/document/16/221167/bssPhr20/"></a><a data-anchor="/document/16/221167/dfasl7le52/" data-dfa="dfasl7le52"></a>Сведения о госрегистрации прав собственности и аренды на земельные участки вносятся в государственный земельный кадастр в соответствии с Административным регламентом оказания государственных услуг по государственной регистрации прав на недвижимое имущество, <span num="380" target="_blank" lnktype="intlnk" title="" class="doc">приложение № 2</span> к постановлению Кабмина от 02.09.2020 <span num="381" target="_blank" lnktype="intlnk" title="" class="doc">№ 535</span> и административным регламентом оказания композитной государственной услуги по оформлению договоров об отчуждении нежилого недвижимого имущества и государственной регистрации прав на него, <span num="382" target="_blank" lnktype="intlnk" title="" class="doc">приложение</span> к постановлению Кабмина от 29.11.2024 <span num="383" target="_blank" lnktype="intlnk" title="" class="doc">№ 795</span>. Порядок госрегистрации определен Законом «О государственной регистрации прав на недвижимое имущество» от 28.11.2022 <span num="384" target="_blank" lnktype="intlnk" title="" class="doc">№ ЗРУ-803</span>.</p><p style="text-align:start"><a data-anchor="/document/16/221167/bssPhr21/"></a><a data-anchor="/document/16/221167/dfas3o7yk7/" data-dfa="dfas3o7yk7"></a>Сведения о госрегистрации прав собственности и аренды на земельные участки вносятся в государственный земельный кадастр в соответствии с <span num="385" target="_blank" lnktype="intlnk" title="" class="doc">Положением</span> «О порядке ведения государственного земельного кадастра», утв. постановлением Кабмина от 22.06.2021 <span num="386" target="_blank" lnktype="intlnk" title="" class="doc">№ 389</span>.</p><p style="text-align:start"><a data-anchor="/document/16/221167/bssPhr22/"></a><a data-anchor="/document/16/221167/dfas0757xh/" data-dfa="dfas0757xh"></a>Решения, протоколы аукционов и тендеров, нотариально удостоверенные сделки и другие документы, предусматривающие возникновение, изменение, отчуждение, ограничение и прекращение прав на земельные участки, вступают в силу после государственной регистрации в Интеграционной информационной системе кадастра и регистрации недвижимости (UZKAD) (<span num="445" target="_blank" lnktype="intlnk" title="" class="doc">п.&nbsp;5 указа Президента Республики Узбекистан от 07.09.2020 № УП-6061</span>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должна ли платить земельный налог организация, которая построила оздоровительный пансионат на участке рекреационного значения</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr24/"></a><a data-anchor="/document/16/221167/dfas1gdaci/" data-dfa="dfas1gdaci"></a>Нет, не должна.</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr25/"></a><a data-anchor="/document/16/221167/dfasoweguv/" data-dfa="dfasoweguv"></a>Не являются объектами обложения земельным налогом земельные участки рекреационного назначения, к которым относятся участки, предоставленные учреждениям и организациям для организации массового отдыха и туризма населения (<span data-warm-notices="44622124" data-warm-notice-type="error" num="283" target="_self" lnktype="intlnk" title="" class="doc">п.</span><span data-warm-notices="44622123" data-warm-notice-type="error" num="407" target="_blank" lnktype="intlnk" title="" class="doc">&nbsp;7 ч.&nbsp;2 ст.&nbsp;426 НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr26/"></a><a data-anchor="/document/16/221167/dfasafs8n3/" data-dfa="dfasafs8n3"></a>Рекреационные зоны – охраняемые природные территории с географическими и климатическими условиями, пригодными для организации туризма и массового отдыха населения. Рекреационные зоны образуют по решениям органов государственной власти на местах по совместному представлению Государственного комитета РУз по развитию туризма, Совета Федерации профсоюзов Узбекистана и Министерства здравоохранения РУз (ст.&nbsp;38 Закона об охраняемых природных территориях).</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr27/"></a><a data-anchor="/document/16/221167/dfasq6zkt9/" data-dfa="dfasq6zkt9"></a>Государственные органы, юридические и физические лица, в ведении которых находятся охраняемые природные территории, составляют по каждой территории паспорт, в котором указывают сведения, характеризующие данную территорию, ее режим и управление (ст.&nbsp;15 Закона об охраняемых природных территориях).</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr28/"></a><a data-anchor="/document/16/221167/dfasooszo6/" data-dfa="dfasooszo6"></a>Если организация получила решение вышеназванных органов, что участок, выделенный под строительство пансионата, находится в рекреационной зоне, то в целях налогообложения может применять <span num="284" target="_self" lnktype="intlnk" title="" class="doc">пункт&nbsp;7</span> части&nbsp;2 статьи&nbsp;426 НК, согласно которому земли рекреационного значения не являются объектом обложения земельным налогом.</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr29/"></a><a data-anchor="/document/16/221167/dfas111xg1/" data-dfa="dfas111xg1"></a>Если такого решения нет, то оздоровительный пансионат подходит под определение санаторно-курортного объекта, который входит в объекты здравоохранения. Земельные участки, занятые объектами здравоохранения, за исключением земель, занятых санаторно-курортными объектами, расположенными в туристских зонах, не подлежат налогообложению (<span num="408" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;2 ст.&nbsp;428 НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr30/"></a><a data-anchor="/document/16/221167/dfasohu30h/" data-dfa="dfasohu30h"></a><a data-anchor="/document/16/221167/dfas2h5gf6/" data-dfa="dfas2h5gf6"></a>При этом следует учесть, что если применяете <span num="286" target="_self" lnktype="intlnk" title="" class="doc">пункт&nbsp;7</span> части&nbsp;2 статьи&nbsp;426 НК, то необходимо до 10 января представить Справку по земельным участкам юридических лиц, не являющимся объектом налогообложения по состоянию на 1 января текущего налогового периода.&nbsp;Для применения льготы по <span num="287" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;2</span> статьи&nbsp;428 НК воспользуйтесь услугой «Обращение по использованию налоговых льгот» через my3.soliq.uz.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязан&#160;ли плательщик&#160;налога с оборота платить налог на приватизированную землю&#160;или после приватизации платить c ее стоимости налог на имущество</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr32/"></a><a data-anchor="/document/16/221167/dfasg4txa5/" data-dfa="dfasg4txa5"></a>Да, обязан.</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr33/"></a><a data-anchor="/document/16/221167/dfaszxmeu4/" data-dfa="dfaszxmeu4"></a>После приватизации земельного участка, предприятие как собственник данного участке становится&nbsp;плательщиком земельного налога с юридически лиц.</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr34/"></a><a data-anchor="/document/16/221167/dfas6421gp/" data-dfa="dfas6421gp"></a>Плательщиками земельного налога с юридических лиц признаются юридические лица, включая нерезидентов Республики Узбекистан, имеющие земельные участки на правах собственности, владения, пользования или аренды (<span num="409" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;1 ст.&nbsp;425 НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr35/"></a><a data-anchor="/document/16/221167/dfasfrmbgi/" data-dfa="dfasfrmbgi"></a>Земельные участки не являются объектами обложения налогом на имущество юридических лиц (<span num="410" target="_blank" lnktype="intlnk" title="" class="doc">п.&nbsp;7 ч.&nbsp;3 ст.&nbsp;411 НК</span>).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должно ли предприятие, арендующее земельный участок через хокимият, платить и арендную плату, и земельный налог</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221167/bssPhr37/"></a><a data-anchor="/document/16/221167/dfaszv7myo/" data-dfa="dfaszv7myo"></a>Да, должно.</p><p data-end="449" data-start="234"><a data-anchor="/document/16/221167/bssPhr38/"></a><a data-anchor="/document/16/221167/dfasch6rbl/" data-dfa="dfasch6rbl"></a>Арендная плата, уплачиваемая за земельные участки, предоставленные на основании договора аренды земельного участка, заключенного с хокимом района (города), а также с государственными органами, учреждениями и организациями, обладающими правом постоянного пользования, и зарегистрированного в органах государственной регистрации прав на недвижимое имущество, приравнивается к земельному налогу (<span num="411" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;2 ст.&nbsp;424 НК</span>).</p><p data-end="750" data-start="451"><a data-anchor="/document/16/221167/bssPhr39/"></a><a data-anchor="/document/16/221167/dfasnxrr8r/" data-dfa="dfasnxrr8r"></a>В этом случае платеж по договору аренды – это не дополнительная оплата, а форма внесения земельного налога. Однако, если договором или законом предусмотрено иное, например, отдельная уплата налога в бюджет, предприятие обязано исполнять оба обязательства в установленном порядке (<span num="412" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;2 ст.&nbsp;424 НК</span>).</p></div></div></div><a data-anchor="/document/16/221167/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221167/bssPhr40/"></a><a data-anchor="/document/16/221167/dfasxrcg1v/" data-dfa="dfasxrcg1v"></a>Земельный налог с некоммерческих организаций</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221167/bssPhr42/"></a><a data-anchor="/document/16/221167/dfasqf957o/" data-dfa="dfasqf957o"></a>Некоммерческие организации являются плательщиками земельного налога. При этом земельные участки, которые некоммерческие организации используют в рамках некоммерческой деятельности, не являются объектом обложения земельным налогом (<span num="446" target="_blank" lnktype="intlnk" title="" class="doc">п.&nbsp;1&nbsp;ч.&nbsp;2 ст.&nbsp;426 НК</span>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Должна ли ННО &#8212; московский ВУЗ платить земельный налог</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221167/bssPhr44/"></a><a data-anchor="/document/16/221167/dfas1eqyw0/" data-dfa="dfas1eqyw0"></a>Не должна за земельные участки, которые использует в рамках некоммерческой деятельности.</p><p><a data-anchor="/document/16/221167/bssPhr45/"></a><a data-anchor="/document/16/221167/dfasnv1z1c/" data-dfa="dfasnv1z1c"></a>Земельные участки, которые некоммерческие организации используют в рамках некоммерческой деятельности, не являются объектом обложения земельным налогом (<span num="413" target="_blank" lnktype="intlnk" title="" class="doc">п.&nbsp;1 ч.&nbsp;2 ст.&nbsp;426 НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr46/"></a><a data-anchor="/document/16/221167/dfasf0vssc/" data-dfa="dfasf0vssc"></a>Некоммерческой организацией признают юридическое лицо, которое зарегистрировано в форме, установленной законодательством для некоммерческой организации, не имеет цели извлечения дохода и не распределяет доходы или имущество между участниками, членами (<span data-warm-notices="44622122" data-warm-notice-type="error" num="267" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;</span><span num="414" target="_blank" lnktype="intlnk" title="" class="doc">58 НК</span>).</p></div></div></div><a data-anchor="/document/16/221167/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/221167/bssPhr47/"></a><a data-anchor="/document/16/221167/dfas6t5wxd/" data-dfa="dfas6t5wxd"></a>Дата, когда возникает обязательство уплаты налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221167/bssPhr50/"></a><a data-anchor="/document/16/221167/dfaspgxfda/" data-dfa="dfaspgxfda"></a>Юрлицо становится плательщиком земельного налога с момента госрегистрации права на земельный участок, то есть когда информация о правах на землю введена в государственный реестр (<span num="13" target="_self" lnktype="intlnk" title="Права на имущество, подлежащие государственной регистрации, возникают с момента регистрации соответствующих прав на него, если иное не установлено законом" class="doc">ч.&nbsp;3</span> ст.&nbsp;8, <span num="15" target="_self" lnktype="intlnk" title="Право собственности и другие вещные права на недвижимость, возникновение, переход, ограничение и прекращение этих прав подлежат государственной регистрации" class="doc">ч.&nbsp;1</span> ст.&nbsp;84, <span num="17" target="_self" lnktype="intlnk" title="Порядок регистрации сделок с недвижимостью и ведения соответствующих реестров определяется законодательством" class="doc">ч.&nbsp;2</span> ст.&nbsp;111 ГК, <span num="19" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;31</span>, <span num="21" target="_self" lnktype="intlnk" title="Право на земельный участок приобретает силу после государственной регистрации права на него в установленном порядке" class="doc">ч.&nbsp;3</span> ст.&nbsp;33 ЗК). Налог начисляйте со следующего месяца после госрегистрации права на земельный участок (<span num="444" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;2 ст.&nbsp;427 НК</span>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Обязана ли организация платить земельный налог до регистрации права на землю</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221167/bssPhr52/"></a><a data-anchor="/document/16/221167/dfas5vk9eo/" data-dfa="dfas5vk9eo"></a>Нет, не должна.</p><p><a data-anchor="/document/16/221167/bssPhr53/"></a><a data-anchor="/document/16/221167/dfasz6lcl7/" data-dfa="dfasz6lcl7"></a>В общем случае до оформления свидетельства о регистрации права собственности платить налог не нужно.</p></div></div><p><a data-anchor="/document/16/221167/bssPhr54/"></a><a data-anchor="/document/16/221167/dfasn4uisn/" data-dfa="dfasn4uisn"></a>Платить земельный налог нужно с земельных участков, которые признают объектом налогообложения согласно <span num="26" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;426</span> НК. Право собственности и право постоянного пользования на землю подлежит госрегистрации (<span num="420" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;4 ст.&nbsp;20 ЗК</span>). Оно возникает с момента такой регистрации. Подтверждение госрегистрации прав на земельный участок является выписка из государственного реестра (<span num="447" target="_blank" lnktype="intlnk" title="" class="doc">ст.&nbsp;21 Закона «О государственной регистрации прав на недвижимое имущество» от 28.11.2022 № ЗРУ-803</span>).</p><p><a data-anchor="/document/16/221167/bssPhr55/"></a><a data-anchor="/document/16/221167/dfaslf2wa8/" data-dfa="dfaslf2wa8"></a>Сведения о госрегистрации прав собственности и аренды на земельные участки, а также сервитутов и других ограничений этих прав вносятся в государственный земельный кадастр в соответствии с Положением «О порядке ведения государственного земельного кадастра» (утв. <span num="185" target="_self" lnktype="intlnk" title="" class="doc">постановлением</span> Кабмина от 22.06.2021 № 389).</p><p><a data-anchor="/document/16/221167/bssPhr56/"></a><a data-anchor="/document/16/221167/dfase8o6su/" data-dfa="dfase8o6su"></a>За уклонение от регистрации прав на земельный участок предусмотрена административная ответственность. Размер штрафа составляет:</p><ul class="c-list"><li><a data-anchor="/document/16/221167/bssPhr57/"></a><a data-anchor="/document/16/221167/dfasgme63v/" data-dfa="dfasgme63v"></a>для должностных лиц, например, руководителя —15 БРВ;</li><li>для граждан —10 БРВ (<span num="143" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;68-1 КоАО</span>).</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>С какой даты начислять земельный налог на&#160;объект, выигранный&#160;ООО по результатам аукциона</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr59/"></a><a data-anchor="/document/16/221167/dfaslvxg4p/" data-dfa="dfaslvxg4p"></a>За земельные участки, на которые право собственности, владения, пользования или аренды перешло налогоплательщику в течение года, налоговую базу исчисляют&nbsp;начиная со следующего месяца после возникновения имущественного права на земельные участки (<span num="415" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;2 ст.&nbsp;427 НК</span>).</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr60/"></a><a data-anchor="/document/16/221167/dfasg613ai/" data-dfa="dfasg613ai"></a>Следовательно, налоговое обязательство по земельному налогу возникает с 1 числа месяца, следующего за датой подписания акта приема-передачи недвижимости. Налоговая отчетность по земельному налогу формируется автоматически на основании данных кадастровых органов.</p></div></div></div><a data-anchor="/document/16/221167/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/221167/bssPhr61/"></a><a data-anchor="/document/16/221167/dfaslfi18k/" data-dfa="dfaslfi18k"></a>Учет земельного участка в налоговых органах</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221167/bssPhr63/"></a><a data-anchor="/document/16/221167/dfas4enq1d/" data-dfa="dfas4enq1d"></a>Юрлицо обязано поставить земельный участок на пообъектный учет только в случае, если участок расположен не по месту госрегистрации самой организации (<span num="421" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;3 ст.&nbsp;128 НК</span>). Налогоплательщик уплачивает налог по местонахождению объекта в соответствующий налоговый орган. Исключение составляют случаи, когда предоставление таких сведений в налоговые органы является обязанностью органов, осуществляющих гос.регистрацию прав на недвижимое имущество (<span num="422" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;3 ст.&nbsp;131 НК</span>).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221167/bssPhr66/"></a><a data-anchor="/document/16/221167/dfasrra2ek/" data-dfa="dfasrra2ek"></a>Обратитесь в налоговую по месту нахождения участка для его постановки на пообъектный учет в течение 10 календарных дней со дня госрегистрации права на землю</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221167/bssPhr67/"></a><a data-anchor="/document/16/221167/dfasibuofs/" data-dfa="dfasibuofs"></a>Это предусмотрено в <span num="140" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;3</span> статьи&nbsp;128 НК. За опоздание предусмотрен штраф:</p><ul class="c-list"><li><a data-anchor="/document/16/221167/bssPhr68/"></a><a data-anchor="/document/16/221167/dfas8ve2qx/" data-dfa="dfas8ve2qx"></a>1 млн сумов, если опоздали не более чем на 30 дней;</li><li>2 млн сумов, если опоздали более чем на 30 дней (<span num="141" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;219 НК</span>).</li></ul></div><div class="incut-v4__icon"></div></div></div><a data-anchor="/document/16/221167/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/221167/bssPhr69/"></a><a data-anchor="/document/16/221167/dfashoxfbv/" data-dfa="dfashoxfbv"></a>Совместное владение или пользование участком</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/221167/bssPhr71/"></a><a data-anchor="/document/16/221167/dfaspthymv/" data-dfa="dfaspthymv"></a>Если в государственном реестре указано, что земельным участком владеют или пользуются несколько юрлиц (<span num="50" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;21 ЗК</span>), каждое платит земельный налог соразмерно занимаемой площади (<span num="423" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;3 ст.&nbsp;425 НК</span>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/221167/bssPhr72/"></a><a data-anchor="/document/16/221167/dfaskavvbo/" data-dfa="dfaskavvbo"></a>Как определить&nbsp;налогоплательщиков земельного налога при совместном пользовании участком</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221167/bssPhr73/"></a><a data-anchor="/document/16/221167/dfasm0wdq0/" data-dfa="dfasm0wdq0"></a>В трехэтажном здании на земельном участке площадью 0,9 га размещены три предприятия, на каждое из которых оформлено право пользования соразмерно занимаемой площади— по 0,3 га. Следовательно каждое из юрлиц платит земельный налог за часть участка площадью 0,3 га.</p></div></div><p><a data-anchor="/document/16/221167/bssPhr74/"></a><a data-anchor="/document/16/221167/dfas6n01sf/" data-dfa="dfas6n01sf"></a>Если в здании расположено несколько юрлиц, но право на землю оформлено на одно из них, то земельный налог за участок взимается с этого юрлица. Частный случай этого правила — оперативная аренда. При сдаче недвижимого имущества в оперативную аренду земельный налог платил арендодатель, а не арендатор (<span num="424" target="_blank" lnktype="intlnk" title="" class="doc">ч.&nbsp;2 ст.&nbsp;425 НК</span>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Может ли юрлицо, которое имеет земельный участок в постоянном пользовании, отдать часть в субаренду</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221167/bssPhr76/"></a><a data-anchor="/document/16/221167/dfas479hqv/" data-dfa="dfas479hqv"></a>Нет, не может.</p><p><a data-anchor="/document/16/221167/bssPhr77/"></a><a data-anchor="/document/16/221167/dfasfsog9p/" data-dfa="dfasfsog9p"></a>Земельный участок предоставлен организации в постоянное пользование, то есть не владение, поэтому сдача арендованного земельного участка или его части в субаренду запрещена (<span num="62" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;24 ЗК</span>). Исключение составляют случаи, предусмотренные <span num="63" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;24-2</span> ЗК.</p><p><a data-anchor="/document/16/221167/bssPhr78/"></a><a data-anchor="/document/16/221167/dfashtoci8/" data-dfa="dfashtoci8"></a>Земли сельскохозяйственного назначения можно предоставлять в субаренду юридическим и физическим лицам в целях выращивания сельскохозяйственной продукции, без права их передачи третьим лицам (<span num="64" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;24-2 ЗК</span>).</p><p><a data-anchor="/document/16/221167/bssPhr79/"></a><a data-anchor="/document/16/221167/dfascxlish/" data-dfa="dfascxlish"></a>Земельный участок сельскохозяйственного назначения можно предоставлять в субаренду на срок до одного года, за исключением случаев, предусмотренных частью третьей <span num="65" target="_self" lnktype="intlnk" title="" class="doc">статьи&nbsp;24-2</span> ЗК.</p><p><a data-anchor="/document/16/221167/bssPhr80/"></a><a data-anchor="/document/16/221167/dfaswnrqkc/" data-dfa="dfaswnrqkc"></a>Земельный участок сельскохозяйственного назначения, переданный в субаренду, не может быть объектом купли-продажи, залога, дарения, обмена.</p><p><a data-anchor="/document/16/221167/bssPhr81/"></a><a data-anchor="/document/16/221167/dfasnpd2eh/" data-dfa="dfasnpd2eh"></a>Договор субаренды земельного участка сельскохозяйственного назначения подлежит государственной регистрации в порядке, предусмотренном законодательством.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как оформить строительство зоны отдыха на части земли, которая получена в аренду для выращивания фруктовых деревьев</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221167/bssPhr83/"></a><a data-anchor="/document/16/221167/dfas0qinn0/" data-dfa="dfas0qinn0"></a>На земельном участке сельскохозяйственного назначения никто не вправе строить зону отдыха.</p><p><a data-anchor="/document/16/221167/bssPhr84/"></a><a data-anchor="/document/16/221167/dfasstfds0/" data-dfa="dfasstfds0"></a>Чтобы построить зону отдыха на части земли, которая получена в аренду для выращивания фруктовых деревьев, необходимо перевести земельный участок в категорию, позволяющую постройку зоны отдыха.</p><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr85/"></a><a data-anchor="/document/16/221167/dfas4me2si/" data-dfa="dfas4me2si"></a>На основании <span num="82" target="_self" lnktype="intlnk" title="" class="doc">статьи&nbsp;8</span> Земельного Кодекса, все земли Республики Узбекистан в соответствии с основным целевым назначением подразделяются на земли:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/221167/bssPhr86/"></a><a data-anchor="/document/16/221167/dfas91pcqh/" data-dfa="dfas91pcqh"></a>сельскохозяйственного назначения — земли, предоставленные для нужд сельского хозяйства или предназначенные для этих целей. Земли сельскохозяйственного назначения подразделены на орошаемые и неорошаемые (богарные) земли, пахотные земли, земли, занятые сенокосами, пастбищами, многолетними плодовыми насаждениями и виноградниками;</li><li>населенных пунктов: городов, поселков и сельских населенных пунктов — земли, находящиеся в пределах границ городов и поселков, а также сельских населенных пунктов;</li><li>промышленности, транспорта, связи, обороны и иного назначения — земли, предоставленные в пользование юридическим лицам для указанных целей;</li><li>природоохранного, оздоровительного и рекреационного назначения — земли, занятые охраняемыми природными территориями, имеющие приоритетное экологическое, научное, культурное, эстетическое, рекреационное и санитарно-оздоровительное значение;</li><li>историко-культурного назначения — земли, занятые объектами материального культурного наследия;</li><li>лесного фонда — земли, покрытые лесом, а также не покрытые лесом, но предоставленные для нужд лесного хозяйства;</li><li>водного фонда — земли, занятые водными объектами, водохозяйственными сооружениями и полосы отвода по берегам водных объектов;</li><li>запаса.</li></ul><p style="text-align:left"><a data-anchor="/document/16/221167/bssPhr87/"></a><a data-anchor="/document/16/221167/dfashrgnim/" data-dfa="dfashrgnim"></a>Нарушение установленного порядка перевода земель из одной категории в другую служит основанием для признания неправомерными фактов перевода и недействительными сделок с земельными участками, совершенными на их основании, а также отказа в государственной регистрации прав на земельные участки (<span num="181" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;9 ЗК</span>).</p></div></div></div><p><a data-anchor="/document/16/221167/dfasy3ausm/" data-dfa="dfasy3ausm"></a><a data-anchor="/document/16/221167/bssPhr88/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

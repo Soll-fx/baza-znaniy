@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Какие расходы можно вычесть из налогооблагаемой базы при расчете налога на прибыль</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203029/bssPhr1/"></a><a data-anchor="/document/16/203029/dfas30wvqe/" data-dfa="dfas30wvqe"></a>Налогоплательщик вправе признать расходами и вычесть из налогооблагаемой базы не все затраты. Для этого нужно провести их двухэтапный «отбор».</p><p><a data-anchor="/document/16/203029/bssPhr2/"></a><a data-anchor="/document/16/203029/dfasguwggs/" data-dfa="dfasguwggs"></a><b><i>Шаг 1.</i> </b>Проверьте, соответствуют ли траты и убытки критериям для признания расходами.</p><p><a data-anchor="/document/16/203029/bssPhr3/"></a><a data-anchor="/document/16/203029/dfas1be33n/" data-dfa="dfas1be33n"></a>Первый критерий – затраты и убытки должны быть документально подтверждены <span class="xx-small">(<a data-anchor="/document/16/203029/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaslqgwio/" class="link npd" title="Расходами налогоплательщика являются обоснованные и документально подтвержденные расходы, а в случаях, предусмотренных настоящим Кодексом, и убытки, оформленные в соответствии с законодательством..." moduleId="90" documentId="20918" anchor="dfaslqgwio">ч. 2</a> ст. 141 НК)</span>. Документ подтверждает расходы, если содержит дату, сумму, характер хозяйственной операции, а также позволяет идентифицировать ее участников <span class="xx-small">(<a data-anchor="/document/16/203029/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasbzv3pl/" class="link npd" title="документально подтвержденные расходы — расходы, подтвержденные документами, позволяющими определить дату, сумму, характер операции и идентифицировать ее участников." moduleId="90" documentId="20918" anchor="dfasbzv3pl">абз. 40</a> ст. 22 НК)</span>.</p><p><a data-anchor="/document/16/203029/bssPhr4/"></a><a data-anchor="/document/16/203029/dfass50h6x/" data-dfa="dfass50h6x"></a>Второй критерий – затраты должны быть обоснованными <span class="xx-small">(<a data-anchor="/document/16/203029/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaslqgwio/" class="link npd" title="Расходами налогоплательщика являются обоснованные и документально подтвержденные расходы, а в случаях, предусмотренных настоящим Кодексом, и убытки, оформленные в соответствии с законодательством..." moduleId="90" documentId="20918" anchor="dfaslqgwio">ч. 2</a></span> <span class="xx-small">ст. 141 НК)</span>. Речь идет об их экономической целесообразности, необходимости и оправданности для деятельности налогоплательщиков. Данный критерий важен при вычете прочих расходов, которые не вошли в открытый (неограниченный) список <a data-anchor="/document/16/203029/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaspcldrs/" class="link npd" title="К прочим расходам относятся..." moduleId="90" documentId="20918" anchor="dfaspcldrs">статьи 145</a> НК. В других случаях налогоплательщику, в принципе, не нужно обосновывать расходы из-за того, что они прямо прописаны в НК как вычитаемые.</p><p><a data-anchor="/document/16/203029/bssPhr5/"></a><a data-anchor="/document/16/203029/dfasudoi5r/" data-dfa="dfasudoi5r"></a>Однако законодательство не содержит конкретных правил о том, как определять обоснованность затрат. На практике в этом может помочь анализ их целей. Когда налогоплательщик произвел затраты, чтобы получить доход, другую выгоду либо уменьшить убыток, то они однозначно обоснованы.</p><p><a data-anchor="/document/16/203029/bssPhr6/"></a><a data-anchor="/document/16/203029/dfasvotbnh/" data-dfa="dfasvotbnh"></a><b><i>Шаг 2.</i></b> Определите, к какому виду принадлежат расходы: к вычитаемым или невычитаемым. Вычитаемые расходы налогоплательщик вправе исключить (вычесть) из совокупного дохода, а невычитаемые – не вправе <span class="xx-small">(<a data-anchor="/document/16/203029/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasu5gc5p/" class="link npd" title="Расходы налогоплательщика подлежат вычету при определении налогооблагаемой прибыли, за исключением тех, которые не подлежат вычету в соответствии с настоящим Кодексом." moduleId="90" documentId="20918" anchor="dfasu5gc5p">ч. 1</a> ст. 141 НК)</span>.</p><p><a data-anchor="/document/16/203029/bssPhr7/"></a><a data-anchor="/document/16/203029/dfasa10nuw/" data-dfa="dfasa10nuw"></a>НК содержит перечни вычитаемых и невычитаемых расходов. Списки составлены по следующим принципам:</p><p><a data-anchor="/document/16/203029/bssPhr8/"></a><a data-anchor="/document/16/203029/dfasuka9gp/" data-dfa="dfasuka9gp"></a>а) из совокупного дохода подлежат вычету расходы, которые необходимы для коммерческой деятельности предприятия, то есть получения прибыли, в том числе административные расходы;</p><p><a data-anchor="/document/16/203029/bssPhr9/"></a><a data-anchor="/document/16/203029/dfaslgmx5c/" data-dfa="dfaslgmx5c"></a>б) не подлежат вычету расходы, которые явно не были направлены на получение прибыли, а также расходы по потере и порче сверх норм естественной убыли материальных ценностей.</p><p><a data-anchor="/document/16/203029/bssPhr10/"></a><a data-anchor="/document/16/203029/dfasivecrd/" data-dfa="dfasivecrd"></a>Структура перечней расходов выглядит следующим образом:</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><tr valign="top"><td><p><a data-anchor="/document/16/203029/bssPhr11/"></a><a data-anchor="/document/16/203029/dfas57vgka/" data-dfa="dfas57vgka"></a>&nbsp;</p></td><td colspan="2"><p><a data-anchor="/document/16/203029/bssPhr12/"></a><a data-anchor="/document/16/203029/dfasbzqg7c/" data-dfa="dfasbzqg7c"></a>&nbsp;</p></td><td class="bdRight"><p><a data-anchor="/document/16/203029/bssPhr13/"></a><a data-anchor="/document/16/203029/dfasyoo14l/" data-dfa="dfasyoo14l"></a>&nbsp;</p></td><td colspan="8" align="center" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr14/"></a><a data-anchor="/document/16/203029/dfasecoxe0/" data-dfa="dfasecoxe0"></a>РАСХОДЫ</p><p align="center"><a data-anchor="/document/16/203029/bssPhr15/"></a><a data-anchor="/document/16/203029/dfas12w15w/" data-dfa="dfas12w15w"></a>(гл. <a data-anchor="/document/16/203029/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaso4muwi/" class="link npd" title="Расходы налогоплательщика подлежат вычету при определении налогооблагаемой прибыли, за исключением тех, которые не подлежат вычету в соответствии с настоящим Кодексом..." moduleId="90" documentId="20918" anchor="dfaso4muwi">21–24</a> НК)</p></td><td colspan="2" class="bdLeft"><p><a data-anchor="/document/16/203029/bssPhr16/"></a><a data-anchor="/document/16/203029/dfaszcx5le/" data-dfa="dfaszcx5le"></a>&nbsp;</p></td><td align="center"><p align="center"><a data-anchor="/document/16/203029/bssPhr17/"></a><a data-anchor="/document/16/203029/dfasudkr7h/" data-dfa="dfasudkr7h"></a>&nbsp;</p></td><td colspan="2" align="center"><p align="center"><a data-anchor="/document/16/203029/bssPhr18/"></a><a data-anchor="/document/16/203029/dfasig16dl/" data-dfa="dfasig16dl"></a>&nbsp;</p></td><td colspan="4" align="center"><p align="center"><a data-anchor="/document/16/203029/bssPhr19/"></a><a data-anchor="/document/16/203029/dfasl1v29m/" data-dfa="dfasl1v29m"></a>&nbsp;</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203029/bssPhr20/"></a><a data-anchor="/document/16/203029/dfasci6p0t/" data-dfa="dfasci6p0t"></a><a data-anchor="/document/16/203029/dfasf2zkwh/" data-dfa="dfasf2zkwh"></a><a data-anchor="/document/16/203029/dfas86epg5/" data-dfa="dfas86epg5"></a><a data-anchor="/document/16/203029/dfas7v4iy2/" data-dfa="dfas7v4iy2"></a><a data-anchor="/document/16/203029/dfasa0xlzg/" data-dfa="dfasa0xlzg"></a>&nbsp;</p></td><td colspan="2"><p><a data-anchor="/document/16/203029/bssPhr21/"></a><a data-anchor="/document/16/203029/dfas93md51/" data-dfa="dfas93md51"></a>&nbsp;</p></td><td class="bdRightbdBottom"><p><a data-anchor="/document/16/203029/bssPhr22/"></a><a data-anchor="/document/16/203029/dfasmcnh2e/" data-dfa="dfasmcnh2e"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdTopbdLeftbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr23/"></a><a data-anchor="/document/16/203029/dfasylvrkg/" data-dfa="dfasylvrkg"></a>&nbsp;</p></td><td align="center" class="bdTop"><p align="center"><a data-anchor="/document/16/203029/bssPhr24/"></a><a data-anchor="/document/16/203029/dfas2yq63p/" data-dfa="dfas2yq63p"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdTop"><p align="center"><a data-anchor="/document/16/203029/bssPhr25/"></a><a data-anchor="/document/16/203029/dfashl9tvu/" data-dfa="dfashl9tvu"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdTopbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr26/"></a><a data-anchor="/document/16/203029/dfasuwsbyq/" data-dfa="dfasuwsbyq"></a>&nbsp;</p></td><td colspan="3" class="bdLeftbdBottom"><p><a data-anchor="/document/16/203029/bssPhr27/"></a><a data-anchor="/document/16/203029/dfasvl4r26/" data-dfa="dfasvl4r26"></a>&nbsp;</p></td><td colspan="2" align="center"><p align="center"><a data-anchor="/document/16/203029/bssPhr28/"></a><a data-anchor="/document/16/203029/dfas673q9n/" data-dfa="dfas673q9n"></a>&nbsp;</p></td><td colspan="2" align="center"><p align="center"><a data-anchor="/document/16/203029/bssPhr29/"></a><a data-anchor="/document/16/203029/dfashlfs4e/" data-dfa="dfashlfs4e"></a>&nbsp;</p></td><td colspan="4" align="center"><p align="center"><a data-anchor="/document/16/203029/bssPhr30/"></a><a data-anchor="/document/16/203029/dfas14gzlu/" data-dfa="dfas14gzlu"></a>&nbsp;</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203029/bssPhr31/"></a><a data-anchor="/document/16/203029/dfas28e5f3/" data-dfa="dfas28e5f3"></a><a data-anchor="/document/16/203029/dfasw31mue/" data-dfa="dfasw31mue"></a><a data-anchor="/document/16/203029/dfasorg71k/" data-dfa="dfasorg71k"></a><a data-anchor="/document/16/203029/dfas013hsf/" data-dfa="dfas013hsf"></a><a data-anchor="/document/16/203029/dfasu7ugm3/" data-dfa="dfasu7ugm3"></a><a data-anchor="/document/16/203029/dfasvu5vop/" data-dfa="dfasvu5vop"></a><a data-anchor="/document/16/203029/dfas78pu55/" data-dfa="dfas78pu55"></a><a data-anchor="/document/16/203029/dfasnzu7b0/" data-dfa="dfasnzu7b0"></a><a data-anchor="/document/16/203029/dfasgeus69/" data-dfa="dfasgeus69"></a>&nbsp;</p></td><td class="bdRight"><p><a data-anchor="/document/16/203029/bssPhr32/"></a><a data-anchor="/document/16/203029/dfasepauw7/" data-dfa="dfasepauw7"></a>&nbsp;</p></td><td colspan="4" align="center" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr33/"></a><a data-anchor="/document/16/203029/dfasd8g8sr/" data-dfa="dfasd8g8sr"></a>Вычитаемые</p><p align="center"><a data-anchor="/document/16/203029/bssPhr34/"></a><a data-anchor="/document/16/203029/dfase0mb3g/" data-dfa="dfase0mb3g"></a>(гл. <a data-anchor="/document/16/203029/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaso4muwi/" class="link npd" title="Расходы налогоплательщика подлежат вычету при определении налогооблагаемой прибыли, за исключением тех, которые не подлежат вычету в соответствии с настоящим Кодексом..." moduleId="90" documentId="20918" anchor="dfaso4muwi">21–24</a> НК)</p></td><td align="center" class="bdLeft"><p align="center"><a data-anchor="/document/16/203029/bssPhr35/"></a><a data-anchor="/document/16/203029/dfaspifiwu/" data-dfa="dfaspifiwu"></a>&nbsp;</p></td><td align="center" class="bdRight"><p align="center"><a data-anchor="/document/16/203029/bssPhr36/"></a><a data-anchor="/document/16/203029/dfas8dgbok/" data-dfa="dfas8dgbok"></a>&nbsp;</p></td><td colspan="6" align="center" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr37/"></a><a data-anchor="/document/16/203029/dfasw376bt/" data-dfa="dfasw376bt"></a><a data-anchor="/document/16/203029/dfas4e3ndn/" data-dfa="dfas4e3ndn"></a><a data-anchor="/document/16/203029/dfasalw3x1/" data-dfa="dfasalw3x1"></a>Невычитаемые</p><p align="center"><a data-anchor="/document/16/203029/bssPhr38/"></a><a data-anchor="/document/16/203029/dfassghsu8/" data-dfa="dfassghsu8"></a>(<a data-anchor="/document/16/203029/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas6a8bzr/" class="link npd" title="К расходам, не подлежащим вычету при определении налогооблагаемой прибыли, относятся..." moduleId="90" documentId="20918" anchor="dfas6a8bzr">ст. 147</a> НК)</p></td><td class="bdLeft"><p><a data-anchor="/document/16/203029/bssPhr39/"></a><a data-anchor="/document/16/203029/dfas5trha8/" data-dfa="dfas5trha8"></a>&nbsp;</p></td><td colspan="2" align="center"><p align="center"><a data-anchor="/document/16/203029/bssPhr40/"></a><a data-anchor="/document/16/203029/dfas6uepv0/" data-dfa="dfas6uepv0"></a>&nbsp;</p></td><td colspan="4" align="center"><p align="center"><a data-anchor="/document/16/203029/bssPhr41/"></a><a data-anchor="/document/16/203029/dfaszqgamk/" data-dfa="dfaszqgamk"></a>&nbsp;</p></td><td><p><a data-anchor="/document/16/203029/bssPhr42/"></a><a data-anchor="/document/16/203029/dfasvksri1/" data-dfa="dfasvksri1"></a>&nbsp;</p></td></tr><tr valign="top"><td><p><a data-anchor="/document/16/203029/bssPhr43/"></a><a data-anchor="/document/16/203029/dfas27nun4/" data-dfa="dfas27nun4"></a><a data-anchor="/document/16/203029/dfast0y4ht/" data-dfa="dfast0y4ht"></a><a data-anchor="/document/16/203029/dfas6a78cu/" data-dfa="dfas6a78cu"></a><a data-anchor="/document/16/203029/dfasunuvgq/" data-dfa="dfasunuvgq"></a>&nbsp;</p></td><td colspan="2"><p><a data-anchor="/document/16/203029/bssPhr44/"></a><a data-anchor="/document/16/203029/dfaso43wr6/" data-dfa="dfaso43wr6"></a>&nbsp;</p></td><td class="bdRightbdBottom"><p><a data-anchor="/document/16/203029/bssPhr45/"></a><a data-anchor="/document/16/203029/dfas5830r9/" data-dfa="dfas5830r9"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdLeftbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr46/"></a><a data-anchor="/document/16/203029/dfas9xr8nt/" data-dfa="dfas9xr8nt"></a>&nbsp;</p></td><td align="center" class="bdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr47/"></a><a data-anchor="/document/16/203029/dfas0ih4x8/" data-dfa="dfas0ih4x8"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr48/"></a><a data-anchor="/document/16/203029/dfasxb2gzl/" data-dfa="dfasxb2gzl"></a>&nbsp;</p></td><td colspan="2" class="bdBottom"><p><a data-anchor="/document/16/203029/bssPhr49/"></a><a data-anchor="/document/16/203029/dfas3seckw/" data-dfa="dfas3seckw"></a>&nbsp;</p></td><td colspan="3" class="bdBottom"><p><a data-anchor="/document/16/203029/bssPhr50/"></a><a data-anchor="/document/16/203029/dfasxggnys/" data-dfa="dfasxggnys"></a>&nbsp;</p></td><td colspan="2" class="bdBottom"><p><a data-anchor="/document/16/203029/bssPhr51/"></a><a data-anchor="/document/16/203029/dfas92xglx/" data-dfa="dfas92xglx"></a>&nbsp;</p></td><td colspan="2"><p><a data-anchor="/document/16/203029/bssPhr52/"></a><a data-anchor="/document/16/203029/dfasotkghp/" data-dfa="dfasotkghp"></a>&nbsp;</p></td><td colspan="4"><p><a data-anchor="/document/16/203029/bssPhr53/"></a><a data-anchor="/document/16/203029/dfasv8ad04/" data-dfa="dfasv8ad04"></a>&nbsp;</p></td></tr><tr valign="top"><td class="bdRightbdBottom"><p><a data-anchor="/document/16/203029/bssPhr54/"></a><a data-anchor="/document/16/203029/dfasg9fsga/" data-dfa="dfasg9fsga"></a><a data-anchor="/document/16/203029/dfasegc0y8/" data-dfa="dfasegc0y8"></a><a data-anchor="/document/16/203029/dfas393ayb/" data-dfa="dfas393ayb"></a><a data-anchor="/document/16/203029/dfastqbidx/" data-dfa="dfastqbidx"></a><a data-anchor="/document/16/203029/dfasggqe6e/" data-dfa="dfasggqe6e"></a><a data-anchor="/document/16/203029/dfas62dc10/" data-dfa="dfas62dc10"></a><a data-anchor="/document/16/203029/dfaskxe229/" data-dfa="dfaskxe229"></a><a data-anchor="/document/16/203029/dfasl6k1zf/" data-dfa="dfasl6k1zf"></a><a data-anchor="/document/16/203029/dfas97qg1r/" data-dfa="dfas97qg1r"></a>&nbsp;</p></td><td colspan="2" class="bdTopbdLeftbdBottom"><p><a data-anchor="/document/16/203029/bssPhr55/"></a><a data-anchor="/document/16/203029/dfascghc81/" data-dfa="dfascghc81"></a>&nbsp;</p></td><td class="bdTop"><p><a data-anchor="/document/16/203029/bssPhr56/"></a><a data-anchor="/document/16/203029/dfasprvw9v/" data-dfa="dfasprvw9v"></a>&nbsp;</p></td><td align="center" class="bdTopbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr57/"></a><a data-anchor="/document/16/203029/dfascugcrb/" data-dfa="dfascugcrb"></a>&nbsp;</p></td><td align="center" class="bdTopbdLeft"><p align="center"><a data-anchor="/document/16/203029/bssPhr58/"></a><a data-anchor="/document/16/203029/dfasqzy9mi/" data-dfa="dfasqzy9mi"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdTop"><p align="center"><a data-anchor="/document/16/203029/bssPhr59/"></a><a data-anchor="/document/16/203029/dfasvt1lbz/" data-dfa="dfasvt1lbz"></a>&nbsp;</p></td><td align="center" class="bdTopbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr60/"></a><a data-anchor="/document/16/203029/dfas0sgask/" data-dfa="dfas0sgask"></a>&nbsp;</p></td><td colspan="5" align="center" class="bdTopbdLeft"><p align="center"><a data-anchor="/document/16/203029/bssPhr61/"></a><a data-anchor="/document/16/203029/dfasmzvt4d/" data-dfa="dfasmzvt4d"></a>&nbsp;</p></td><td align="center"><p align="center"><a data-anchor="/document/16/203029/bssPhr62/"></a><a data-anchor="/document/16/203029/dfasldminp/" data-dfa="dfasldminp"></a>&nbsp;</p></td><td colspan="4" align="center" class="bdTopbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr63/"></a><a data-anchor="/document/16/203029/dfascdbsov/" data-dfa="dfascdbsov"></a>&nbsp;</p></td><td colspan="2" class="bdLeftbdBottom"><p><a data-anchor="/document/16/203029/bssPhr64/"></a><a data-anchor="/document/16/203029/dfasps66o6/" data-dfa="dfasps66o6"></a>&nbsp;</p></td><td><p><a data-anchor="/document/16/203029/bssPhr65/"></a><a data-anchor="/document/16/203029/dfaspdx9gy/" data-dfa="dfaspdx9gy"></a>&nbsp;</p></td></tr><tr align="center"><td colspan="3" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr66/"></a><a data-anchor="/document/16/203029/dfasymukl8/" data-dfa="dfasymukl8"></a><a data-anchor="/document/16/203029/dfasf30bpe/" data-dfa="dfasf30bpe"></a><a data-anchor="/document/16/203029/dfask96fcr/" data-dfa="dfask96fcr"></a><a data-anchor="/document/16/203029/dfasbr81ao/" data-dfa="dfasbr81ao"></a><a data-anchor="/document/16/203029/dfas8sswqc/" data-dfa="dfas8sswqc"></a><a data-anchor="/document/16/203029/dfasv6kxa2/" data-dfa="dfasv6kxa2"></a><a data-anchor="/document/16/203029/dfasnmt51x/" data-dfa="dfasnmt51x"></a><a data-anchor="/document/16/203029/dfas7pc1gs/" data-dfa="dfas7pc1gs"></a><a data-anchor="/document/16/203029/dfasqygoy9/" data-dfa="dfasqygoy9"></a>Список</p><p align="center"><a data-anchor="/document/16/203029/bssPhr67/"></a><a data-anchor="/document/16/203029/dfasqw9glk/" data-dfa="dfasqw9glk"></a>для всех плательщиков</p><p align="center"><a data-anchor="/document/16/203029/bssPhr68/"></a><a data-anchor="/document/16/203029/dfas0svzxc/" data-dfa="dfas0svzxc"></a>(ст. <a data-anchor="/document/16/203029/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaszgkgp3/" class="link npd" title="К материальным расходам относятся..." moduleId="90" documentId="20918" anchor="dfaszgkgp3">142–146</a> НК)</p></td><td valign="top" align="left" class="bdLeftbdRight"><p><a data-anchor="/document/16/203029/bssPhr69/"></a><a data-anchor="/document/16/203029/dfas70glov/" data-dfa="dfas70glov"></a>&nbsp;</p></td><td colspan="3" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr70/"></a><a data-anchor="/document/16/203029/dfastyb0bc/" data-dfa="dfastyb0bc"></a>Допсписок</p><p align="center"><a data-anchor="/document/16/203029/bssPhr71/"></a><a data-anchor="/document/16/203029/dfase113q8/" data-dfa="dfase113q8"></a>для кредитных организаций</p><p align="center"><a data-anchor="/document/16/203029/bssPhr72/"></a><a data-anchor="/document/16/203029/dfas7x3n2g/" data-dfa="dfas7x3n2g"></a>(<a data-anchor="/document/16/203029/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaso2noq3/" class="link npd" title="К вычитаемым расходам кредитных организаций, кроме расходов, предусмотренных статьями 142—146 настоящего Кодекса, относятся..." moduleId="90" documentId="20918" anchor="dfaso2noq3">ст. 149</a> НК)</p></td><td valign="top" class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203029/bssPhr73/"></a><a data-anchor="/document/16/203029/dfasb6mbuk/" data-dfa="dfasb6mbuk"></a>&nbsp;</p></td><td colspan="2" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr74/"></a><a data-anchor="/document/16/203029/dfasppx0d4/" data-dfa="dfasppx0d4"></a><a data-anchor="/document/16/203029/dfasn6zox0/" data-dfa="dfasn6zox0"></a>Допсписок</p><p align="center"><a data-anchor="/document/16/203029/bssPhr75/"></a><a data-anchor="/document/16/203029/dfasntu39o/" data-dfa="dfasntu39o"></a>для страховых организаций</p><p align="center"><a data-anchor="/document/16/203029/bssPhr76/"></a><a data-anchor="/document/16/203029/dfasi12ltx/" data-dfa="dfasi12ltx"></a>(<a data-anchor="/document/16/203029/backlinkanchor21/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaspoo4ak/" class="link npd" title="К вычитаемым расходам страховых организаций, кроме расходов, предусмотренных статьями 142—146 настоящего Кодекса, относятся..." moduleId="90" documentId="20918" anchor="dfaspoo4ak">ст. 151</a> НК)</p></td><td colspan="2" valign="top" class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203029/bssPhr77/"></a><a data-anchor="/document/16/203029/dfaszfiv/" data-dfa="dfaszfiv"></a>&nbsp;</p></td><td colspan="9" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr78/"></a><a data-anchor="/document/16/203029/dfasg68sr7/" data-dfa="dfasg68sr7"></a><a data-anchor="/document/16/203029/dfassrhvsa/" data-dfa="dfassrhvsa"></a>Допсписок для профессиональных участников рынка</p><p align="center"><a data-anchor="/document/16/203029/bssPhr79/"></a><a data-anchor="/document/16/203029/dfas8htuki/" data-dfa="dfas8htuki"></a>ценных бумаг</p><p align="center"><a data-anchor="/document/16/203029/bssPhr80/"></a><a data-anchor="/document/16/203029/dfasnf01oa/" data-dfa="dfasnf01oa"></a>(<a data-anchor="/document/16/203029/backlinkanchor23/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas8nioqg/" class="link npd" title="К вычитаемым расходам профессиональных участников рынка ценных бумаг, кроме расходов, предусмотренных статьями 142—146 настоящего Кодекса, относятся..." moduleId="90" documentId="20918" anchor="dfas8nioqg">ст. 153</a> НК)</p></td><td align="left"><p><a data-anchor="/document/16/203029/bssPhr81/"></a><a data-anchor="/document/16/203029/dfaswixcxo/" data-dfa="dfaswixcxo"></a>&nbsp;</p></td></tr><tr valign="top"><td class="bdTopbdRight"><p><a data-anchor="/document/16/203029/bssPhr82/"></a><a data-anchor="/document/16/203029/dfasn1d1ki/" data-dfa="dfasn1d1ki"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdTopbdLeftbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr83/"></a><a data-anchor="/document/16/203029/dfas5x6fym/" data-dfa="dfas5x6fym"></a>&nbsp;</p></td><td class="bdBottom"><p><a data-anchor="/document/16/203029/bssPhr84/"></a><a data-anchor="/document/16/203029/dfasl703vp/" data-dfa="dfasl703vp"></a><a data-anchor="/document/16/203029/dfaswcf3f0/" data-dfa="dfaswcf3f0"></a>&nbsp;</p></td><td align="center" class="bdTopbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr85/"></a><a data-anchor="/document/16/203029/dfasrbvx8g/" data-dfa="dfasrbvx8g"></a>&nbsp;</p></td><td align="center" class="bdTopbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr86/"></a><a data-anchor="/document/16/203029/dfasn1wbc3/" data-dfa="dfasn1wbc3"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr87/"></a><a data-anchor="/document/16/203029/dfastcgngm/" data-dfa="dfastcgngm"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdTopbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr88/"></a><a data-anchor="/document/16/203029/dfassknenq/" data-dfa="dfassknenq"></a>&nbsp;</p></td><td colspan="4" align="center" class="bdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr89/"></a><a data-anchor="/document/16/203029/dfasxtce5g/" data-dfa="dfasxtce5g"></a>&nbsp;</p></td><td align="center" class="bdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr90/"></a><a data-anchor="/document/16/203029/dfaslqyowl/" data-dfa="dfaslqyowl"></a>&nbsp;</p></td><td colspan="4" align="center" class="bdTopbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr91/"></a><a data-anchor="/document/16/203029/dfasmsumhm/" data-dfa="dfasmsumhm"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdTop"><p align="center"><a data-anchor="/document/16/203029/bssPhr92/"></a><a data-anchor="/document/16/203029/dfas6y8ndv/" data-dfa="dfas6y8ndv"></a>&nbsp;</p></td><td><p><a data-anchor="/document/16/203029/bssPhr93/"></a><a data-anchor="/document/16/203029/dfastoqog0/" data-dfa="dfastoqog0"></a>&nbsp;</p></td></tr><tr valign="top"><td class="bdRightbdBottom"><p><a data-anchor="/document/16/203029/bssPhr94/"></a><a data-anchor="/document/16/203029/dfasuwmp91/" data-dfa="dfasuwmp91"></a><a data-anchor="/document/16/203029/dfaszi1o3x/" data-dfa="dfaszi1o3x"></a><a data-anchor="/document/16/203029/dfasbzc6uz/" data-dfa="dfasbzc6uz"></a><a data-anchor="/document/16/203029/dfas7p4bn7/" data-dfa="dfas7p4bn7"></a><a data-anchor="/document/16/203029/dfasxzcfr4/" data-dfa="dfasxzcfr4"></a><a data-anchor="/document/16/203029/dfas337l6c/" data-dfa="dfas337l6c"></a><a data-anchor="/document/16/203029/dfas5aizyx/" data-dfa="dfas5aizyx"></a><a data-anchor="/document/16/203029/dfasqsndwa/" data-dfa="dfasqsndwa"></a><a data-anchor="/document/16/203029/dfasxerhvc/" data-dfa="dfasxerhvc"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdTopbdLeft"><p align="center"><a data-anchor="/document/16/203029/bssPhr95/"></a><a data-anchor="/document/16/203029/dfas5yg06p/" data-dfa="dfas5yg06p"></a>&nbsp;</p></td><td class="bdBottom"><p><a data-anchor="/document/16/203029/bssPhr96/"></a><a data-anchor="/document/16/203029/dfasirobk5/" data-dfa="dfasirobk5"></a><a data-anchor="/document/16/203029/dfas6y0w34/" data-dfa="dfas6y0w34"></a>&nbsp;</p></td><td align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr97/"></a><a data-anchor="/document/16/203029/dfasb4w3q6/" data-dfa="dfasb4w3q6"></a>&nbsp;</p></td><td align="center" class="bdLeftbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr98/"></a><a data-anchor="/document/16/203029/dfasoang51/" data-dfa="dfasoang51"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdRight"><p align="center"><a data-anchor="/document/16/203029/bssPhr99/"></a><a data-anchor="/document/16/203029/dfas4s7xhx/" data-dfa="dfas4s7xhx"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdLeft"><p align="center"><a data-anchor="/document/16/203029/bssPhr100/"></a><a data-anchor="/document/16/203029/dfasygpqda/" data-dfa="dfasygpqda"></a>&nbsp;</p></td><td colspan="3" align="center" class="bdRightbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr101/"></a><a data-anchor="/document/16/203029/dfas1bqxeq/" data-dfa="dfas1bqxeq"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdLeft"><p align="center"><a data-anchor="/document/16/203029/bssPhr102/"></a><a data-anchor="/document/16/203029/dfasro81hf/" data-dfa="dfasro81hf"></a>&nbsp;</p></td><td colspan="2" align="center" class="bdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr103/"></a><a data-anchor="/document/16/203029/dfas6ts3bs/" data-dfa="dfas6ts3bs"></a>&nbsp;</p></td><td colspan="3" align="center" class="bdTopbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr104/"></a><a data-anchor="/document/16/203029/dfas63degz/" data-dfa="dfas63degz"></a>&nbsp;</p></td><td align="center" class="bdLeftbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr105/"></a><a data-anchor="/document/16/203029/dfasgqd02x/" data-dfa="dfasgqd02x"></a>&nbsp;</p></td><td><p><a data-anchor="/document/16/203029/bssPhr106/"></a><a data-anchor="/document/16/203029/dfas7hlw27/" data-dfa="dfas7hlw27"></a>&nbsp;</p></td></tr><tr align="center"><td colspan="2" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr107/"></a><a data-anchor="/document/16/203029/dfas08cc17/" data-dfa="dfas08cc17"></a><a data-anchor="/document/16/203029/dfasnfeqlu/" data-dfa="dfasnfeqlu"></a><a data-anchor="/document/16/203029/dfasip5qdp/" data-dfa="dfasip5qdp"></a><a data-anchor="/document/16/203029/dfaspm4tgz/" data-dfa="dfaspm4tgz"></a><a data-anchor="/document/16/203029/dfaszrgmg8/" data-dfa="dfaszrgmg8"></a><a data-anchor="/document/16/203029/dfasxexs8z/" data-dfa="dfasxexs8z"></a><a data-anchor="/document/16/203029/dfasg11yfc/" data-dfa="dfasg11yfc"></a><a data-anchor="/document/16/203029/dfas5t8gcg/" data-dfa="dfas5t8gcg"></a><a data-anchor="/document/16/203029/dfasv4b9zn/" data-dfa="dfasv4b9zn"></a><a data-anchor="/document/16/203029/dfas6g64tg/" data-dfa="dfas6g64tg"></a>Материальные расходы</p><p align="center"><a data-anchor="/document/16/203029/bssPhr108/"></a><a data-anchor="/document/16/203029/dfas2bmik2/" data-dfa="dfas2bmik2"></a>(<a data-anchor="/document/16/203029/backlinkanchor25/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaszgkgp3/" class="link npd" title="К материальным расходам относятся..." moduleId="90" documentId="20918" anchor="dfaszgkgp3">ст. 142</a> НК)</p></td><td valign="top" class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203029/bssPhr109/"></a><a data-anchor="/document/16/203029/dfasdnuoul/" data-dfa="dfasdnuoul"></a>&nbsp;</p></td><td colspan="3" class="bdLeftbdRightbdBottom"><p align="center"><a data-anchor="/document/16/203029/bssPhr110/"></a><a data-anchor="/document/16/203029/dfasful3p6/" data-dfa="dfasful3p6"></a><a data-anchor="/document/16/203029/dfasmvw0d5/" data-dfa="dfasmvw0d5"></a>Расходы на оплату труда (<a data-anchor="/document/16/203029/backlinkanchor27/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasyqopio/" class="link npd" title="К расходам на оплату труда относятся..." moduleId="90" documentId="20918" anchor="dfasyqopio">ст. 143</a> НК)</p></td><td valign="top" class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203029/bssPhr111/"></a><a data-anchor="/document/16/203029/dfas0ek4mo/" data-dfa="dfas0ek4mo"></a>&nbsp;</p></td><td colspan="2" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr112/"></a><a data-anchor="/document/16/203029/dfas1zr6yt/" data-dfa="dfas1zr6yt"></a><a data-anchor="/document/16/203029/dfasnugkuh/" data-dfa="dfasnugkuh"></a>Расходы на амортизацию</p><p align="center"><a data-anchor="/document/16/203029/bssPhr113/"></a><a data-anchor="/document/16/203029/dfas8hng0m/" data-dfa="dfas8hng0m"></a>(<a data-anchor="/document/16/203029/backlinkanchor29/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas1ltmff/" class="link npd" title="Амортизируемым имуществом в целях применения настоящей статьи признаются основные средства и нематериальные активы, учитываемые налогоплательщиком в соответствии с законодательством..." moduleId="90" documentId="20918" anchor="dfas1ltmff">ст. 144</a> НК)</p></td><td valign="top" class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203029/bssPhr114/"></a><a data-anchor="/document/16/203029/dfas0vkuim/" data-dfa="dfas0vkuim"></a>&nbsp;</p></td><td colspan="4" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr115/"></a><a data-anchor="/document/16/203029/dfasivwdsy/" data-dfa="dfasivwdsy"></a><a data-anchor="/document/16/203029/dfasu19qp1/" data-dfa="dfasu19qp1"></a>Прочие доходы</p><p align="center"><a data-anchor="/document/16/203029/bssPhr116/"></a><a data-anchor="/document/16/203029/dfasrq03n1/" data-dfa="dfasrq03n1"></a>(<a data-anchor="/document/16/203029/backlinkanchor31/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaspcldrs/" class="link npd" title="К прочим расходам относятся..." moduleId="90" documentId="20918" anchor="dfaspcldrs">ст. 145</a> НК)</p></td><td valign="top" class="bdLeftbdRight"><p align="center"><a data-anchor="/document/16/203029/bssPhr117/"></a><a data-anchor="/document/16/203029/dfas8c1zw1/" data-dfa="dfas8c1zw1"></a>&nbsp;</p></td><td colspan="6" class="bdAll"><p align="center"><a data-anchor="/document/16/203029/bssPhr118/"></a><a data-anchor="/document/16/203029/dfasavperp/" data-dfa="dfasavperp"></a><a data-anchor="/document/16/203029/dfastkm94r/" data-dfa="dfastkm94r"></a>Расходы, вычитаемые из прибыли в будущем</p><p align="center"><a data-anchor="/document/16/203029/bssPhr119/"></a><a data-anchor="/document/16/203029/dfas93f44b/" data-dfa="dfas93f44b"></a>(<a data-anchor="/document/16/203029/backlinkanchor33/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasf6xqud/" class="link npd" title="Расходы, приведенные в настоящей статье если иное не предусмотрено частью второй настоящей статьи, не вычитаются при исчислении налогооблагаемой прибыли в момент их возникновения..." moduleId="90" documentId="20918" anchor="dfasf6xqud">ст. 146</a> НК)</p></td><td align="left"><p><a data-anchor="/document/16/203029/bssPhr120/"></a><a data-anchor="/document/16/203029/dfas52xrkw/" data-dfa="dfas52xrkw"></a>&nbsp;</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203029/bssPhr121/"></a><a data-anchor="/document/16/203029/dfasxv124w/" data-dfa="dfasxv124w"></a>с 1 января 2019 года действует простое правило для разграничения вычитаемых и невычитаемых расходов. Если вид расхода не указан в <a data-anchor="/document/16/203029/backlinkanchor35/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas6a8bzr/" class="link npd" title="К расходам, не подлежащим вычету при определении налогооблагаемой прибыли, относятся..." moduleId="90" documentId="20918" anchor="dfas6a8bzr">статье 147</a> НК, то его можно вычесть из совокупного дохода при расчете налогооблагаемой базы. И наоборот, когда расход указан в <a data-anchor="/document/16/203029/backlinkanchor37/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas6a8bzr/" class="link npd" title="К расходам, не подлежащим вычету при определении налогооблагаемой прибыли, относятся..." moduleId="90" documentId="20918" anchor="dfas6a8bzr">статье 147</a> НК, вычет запрещен. Это правило следует использовать с осторожностью. Нельзя забывать, что не все затраты признаются расходами. Поэтому вычитаемые расходы должны отвечать сразу двум требованиям: <br>– быть обоснованными и документально подтвержденными <span class="xx-small">(<a data-anchor="/document/16/203029/backlinkanchor39/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaslqgwio/" class="link npd" title="Расходами налогоплательщика являются обоснованные и документально подтвержденные расходы, а в случаях, предусмотренных настоящим Кодексом, и убытки, оформленные в соответствии с законодательством..." moduleId="90" documentId="20918" anchor="dfaslqgwio">ч. 2</a> ст. 141 НК)</span>; <br>– не содержаться в <a data-anchor="/document/16/203029/backlinkanchor41/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas6a8bzr/" class="link npd" title="К расходам, не подлежащим вычету при определении налогооблагаемой прибыли, относятся..." moduleId="90" documentId="20918" anchor="dfas6a8bzr">статье 147</a> НК.</p><div class="incut-v4__icon"></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

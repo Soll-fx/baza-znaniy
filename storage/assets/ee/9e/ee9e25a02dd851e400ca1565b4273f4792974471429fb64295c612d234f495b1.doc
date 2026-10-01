@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Новая Справочная система Финансовый директор </h2><div class="doc-snippet"><a data-anchor="/document/16/221157/dfas2afymq/" data-dfa="dfas2afymq"></a><a data-anchor="/document/16/221157/bssPhr2/"></a>Внимание всем, кто отвечает за&nbsp;финансы в&nbsp;своей компании! Впервые в&nbsp;Узбекистане вышел продукт, который закрывает типовые задачи финслужбы&nbsp;— управленческий учет, бюджетирование, ДДС, МСФО, ВЭД. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/221157/bssPhr3/"></a><a data-anchor="/document/16/221157/dfase0ecvu/" data-dfa="dfase0ecvu"></a>Справочная система «<a href="https://1fd.uz/" target="_blank" title="">Финансовый директор</a>» это:<br>—&nbsp;500+ готовых решений от&nbsp;практиков<br>—&nbsp;300+ Excel-моделей с&nbsp;формулами<br>—&nbsp;Пошаговые инструкции<br>—&nbsp;Образцы регламентов и&nbsp;документов<br>—&nbsp;Правовая база Узбекистана<br>—&nbsp;Экспертная поддержка 24/7</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/221157/bssPhr4/"></a><a data-anchor="/document/16/221157/dfas2obwf9/" data-dfa="dfas2obwf9"></a>Подписчики Справочной Системы Главбух могут подписаться на&nbsp;Систему «Финансовый директор» на&nbsp;особых условиях</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/221157/bssPhr5/"></a><a data-anchor="/document/16/221157/dfaskptarg/" data-dfa="dfaskptarg"></a>Оставляйте заявку на&nbsp;Систему «Финансовый директор». С&nbsp;Вами свяжется оператор, который расскажет подробности.</p><p style="text-align:center"><a data-anchor="/document/16/221157/bssPhr6/"></a><a data-anchor="/document/16/221157/dfasuirskc/" data-dfa="dfasuirskc"></a><a href="https://promo.action-mcfr.uz/findir/" target="_blank" title=""><strong>&lt;&lt;&lt;ОСТАВИТЬ ЗАЯВКУ НА&nbsp;СИСТЕМУ&gt;&gt;&gt;</strong></a></p></div><div class="incut-v4__icon"></div></div><a data-anchor="/document/16/221157/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/221157/bssPhr7/"></a><a data-anchor="/document/16/221157/dfasp1qcfg/" data-dfa="dfasp1qcfg"></a>Кому необходима Система «Финансовый директор»</h2><p><a data-anchor="/document/16/221157/bssPhr8/"></a><a data-anchor="/document/16/221157/dfask0vm0d/" data-dfa="dfask0vm0d"></a>Система «<a href="https://1fd.uz/" target="_blank" title="">Финансовый директор</a>»&nbsp;— идеальное решение для владельцев бизнеса, генеральных, финансовых или коммерческих директоров, заместителей директора.</p><ul class="c-list"><li><a data-anchor="/document/16/221157/bssPhr9/"></a><a data-anchor="/document/16/221157/dfasikmxcg/" data-dfa="dfasikmxcg"></a>Все актуальные документы собраны в&nbsp;виде шаблонов и&nbsp;заполненных образцов.</li><li>Рутинные расчеты теперь можно делать быстро и&nbsp;удобно&nbsp;— в&nbsp;системе есть профессиональные расчетчики.</li><li>В&nbsp;системе собрали всю нормативно-правовую базу, которая обновляется ежедневно и&nbsp;содержит самые свежие редакции.</li></ul><p><a data-anchor="/document/16/221157/bssPhr10/"></a><a data-anchor="/document/16/221157/dfascg6v8f/" data-dfa="dfascg6v8f"></a>Наши эксперты&nbsp;— сотрудники профильных ведомств, поэтому у&nbsp;нас лучшая экспертиза в&nbsp;любых профессиональных вопросах.</p><a data-anchor="/document/16/221157/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/221157/bssPhr11/"></a><a data-anchor="/document/16/221157/dfasqldbk4/" data-dfa="dfasqldbk4"></a>Что входит в&nbsp;состав Системы «Финансовый директор»</h2><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="100%"><caption></caption><tbody><tr><td style="text-align: center; vertical-align: middle; width: 38.44%;"><a data-anchor="/document/16/221157/bssPhr13/"></a><a data-anchor="/document/16/221157/dfas8nk4v2/" data-dfa="dfas8nk4v2"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41919169" sourceId="1" fullSizeImageId="-41919168" width="610" height="298.35149863760216" src="https://1gb.uz/system/content/image/297/1/-41919169/"></td><td style="vertical-align: middle; width: 61.43%;"><a data-anchor="/document/16/221157/bssPhr14/"></a><a data-anchor="/document/16/221157/dfasiewacg/" data-dfa="dfasiewacg"></a><a href="https://1fd.uz/#/recommendations/" target="_blank" title="">Решения</a>. Подробные рекомендации от&nbsp;финансовых директоров.</td></tr><tr><td style="text-align: center; vertical-align: middle; width: 38.44%;"><a data-anchor="/document/16/221157/bssPhr15/"></a><a data-anchor="/document/16/221157/dfas3kzv4y/" data-dfa="dfas3kzv4y"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41919173" sourceId="1" fullSizeImageId="-41919172" width="610" height="269.26430517711174" src="https://1gb.uz/system/content/image/297/1/-41919173/"></td><td style="vertical-align: middle; width: 61.43%;"><a data-anchor="/document/16/221157/bssPhr16/"></a><a data-anchor="/document/16/221157/dfaste3kaz/" data-dfa="dfaste3kaz"></a><a href="https://1fd.uz/#/forms/" target="_blank" title="">Положения и&nbsp;регламенты</a>. Уникальные рабочие документы.</td></tr><tr><td style="text-align: center; vertical-align: middle; width: 38.44%;"><a data-anchor="/document/16/221157/bssPhr17/"></a><a data-anchor="/document/16/221157/dfasbbx70z/" data-dfa="dfasbbx70z"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41919175" sourceId="1" fullSizeImageId="-41919174" width="610" height="284.2234332425068" src="https://1gb.uz/system/content/image/297/1/-41919175/"></td><td style="vertical-align: middle; width: 61.43%;"><a data-anchor="/document/16/221157/bssPhr18/"></a><a data-anchor="/document/16/221157/dfassiwue4/" data-dfa="dfassiwue4"></a><a href="https://1fd.uz/#/law/" target="_blank" title="">Правовая база</a>. Кодексы, законы, письма, постановления.</td></tr><tr><td style="text-align: center; vertical-align: middle; width: 38.44%;"><a data-anchor="/document/16/221157/bssPhr19/"></a><a data-anchor="/document/16/221157/dfasb3etmc/" data-dfa="dfasb3etmc"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41919181" sourceId="1" fullSizeImageId="-41919180" width="610" height="264.27792915531336" src="https://1gb.uz/system/content/image/297/1/-41919181/"></td><td style="vertical-align: middle; width: 61.43%;"><a data-anchor="/document/16/221157/bssPhr20/"></a><a data-anchor="/document/16/221157/dfasnb4mw0/" data-dfa="dfasnb4mw0"></a><a href="https://1fd.uz/#/handbook/" target="_blank" title="">Справочник</a>. Ставки налогов, курсы валют, координаты ведомств.</td></tr><tr><td style="text-align: center; vertical-align: middle; width: 38.44%;"><a data-anchor="/document/16/221157/bssPhr21/"></a><a data-anchor="/document/16/221157/dfas3v4t6c/" data-dfa="dfas3v4t6c"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41919179" sourceId="1" fullSizeImageId="-41919178" width="610" height="291.7029972752044" src="https://1gb.uz/system/content/image/297/1/-41919179/"></td><td style="vertical-align: middle; width: 61.43%;"><a data-anchor="/document/16/221157/bssPhr22/"></a><a data-anchor="/document/16/221157/dfas0tyn69/" data-dfa="dfas0tyn69"></a><a href="https://1fd.uz/#/services/" target="_blank" title="">Сервисы</a>. Мгновенный анализ финансового состояния компании.</td></tr><tr><td style="text-align: center; vertical-align: middle; width: 38.44%;"><a data-anchor="/document/16/221157/bssPhr23/"></a><a data-anchor="/document/16/221157/dfasl79xba/" data-dfa="dfasl79xba"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41919183" sourceId="1" fullSizeImageId="-41919182" width="610" height="231.866485013624" src="https://1gb.uz/system/content/image/297/1/-41919183/"></td><td style="vertical-align: middle; width: 61.43%;"><a data-anchor="/document/16/221157/bssPhr24/"></a><a data-anchor="/document/16/221157/dfasqco2yt/" data-dfa="dfasqco2yt"></a><a href="https://1fd.uz/#/videos/" target="_blank" title="">Видео</a>. Записи выступлений финансистов-практиков.</td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/221157/bssPhr25/"></a><a data-anchor="/document/16/221157/dfasa6hmvi/" data-dfa="dfasa6hmvi"></a>►Если вы&nbsp;не&nbsp;нашли ответ на&nbsp;свой вопрос, то&nbsp;мы&nbsp;с&nbsp;радостью ответим на&nbsp;него персонально&nbsp;— оставляйте заявку на&nbsp;справочную систему и&nbsp;с&nbsp;вами свяжется оператор, который расскажет подробности.</p><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="50%"><caption></caption><tbody><tr><td style="text-align: center; vertical-align: middle;"><a data-anchor="/document/16/221157/bssPhr27/"></a><a data-anchor="/document/16/221157/dfas9rz7gw/" data-dfa="dfas9rz7gw"></a><a href="https://promo.action-mcfr.uz/findir/" data-warm-notices="" data-warm-notice-type="" target="_blank" title=""><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41919166" sourceId="1" width="609" height="110" src="https://1gb.uz/system/content/image/297/1/-41919166/"></a></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><a data-anchor="/document/16/221157/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/221157/bssPhr28/"></a><a data-anchor="/document/16/221157/dfas99o80g/" data-dfa="dfas99o80g"></a>Актуальное в&nbsp;Системе «Финансовый директор»</h2><p><a data-anchor="/document/16/221157/bssPhr29/"></a><a data-anchor="/document/16/221157/dfasdwsgcn/" data-dfa="dfasdwsgcn"></a>Изучите <a href="https://1fd.uz/#/rubric/1/407/927" target="_blank" title="">новые рекомендации</a>. Вам в&nbsp;помощь&nbsp;— опыт коллег, полезные отчеты, сводные справочники, автоматические расчетчики, видеолекции&nbsp;— готовые решения для финансовых задач.</p><div class="doc-columns doc-columns_type_lead"><table style="width:92%"><tr><td width="10%"><span class="media" style="display:block;width:80px;height:80px;"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/285293/" style="width:"></span></td><td width="90%"><a class="doc-columns__item-title link" href="https://1gb.uz//#/document/"></a><div class="doc-columns__item-text"></div></td></tr><tr><td width="10%"><span class="media" style="display:block;width:80px;height:80px;"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/285258/" style="width:"></span></td><td width="90%"><a class="doc-columns__item-title link" href="https://1gb.uz//#/document/"></a><div class="doc-columns__item-text"></div></td></tr><tr><td width="10%"><span class="media" style="display:block;width:80px;height:80px;"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/285252/" style="width:"></span></td><td width="90%"><a class="doc-columns__item-title link" href="https://1gb.uz//#/document/"></a><div class="doc-columns__item-text"></div></td></tr><tr><td width="10%"><span class="media" style="display:block;width:80px;height:80px;"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/285266/" style="width:"></span></td><td width="90%"><a class="doc-columns__item-title link" href="https://1gb.uz//#/document/"></a><div class="doc-columns__item-text"></div></td></tr><tr><td width="10%"><span class="media" style="display:block;width:80px;height:80px;"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/285299/" style="width:"></span></td><td width="90%"><a class="doc-columns__item-title link" href="https://1gb.uz//#/document/"></a><div class="doc-columns__item-text"></div></td></tr></table></div><a data-anchor="/document/16/221157/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/221157/bssPhr40/"></a><a data-anchor="/document/16/221157/dfassiax1s/" data-dfa="dfassiax1s"></a>Скачайте формы отчетов и&nbsp;образцы документов в&nbsp;Системе «Финансовый директор»</h2><div class="doc-columns doc-columns_type_forms"><table class="" style="width:92%"><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/-41919167/" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/-41919167/" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr><tr><td style="vertical-align:top; padding: 0 30px 20px 0;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/-41919167/" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td><td style="vertical-align:top;"><div class="doc-columns__item"><span class="media"><img class="media__imgage" src="https://1gb.uz/system/content/image/297/1/-41919167/" style="width:"></span><div class="doc-columns__item-title"></div><a class="doc-columns__item-text link npd" href="https://1gb.uz//#/document/"></a></div></td></tr></table></div><div align="center"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table width="50%"><caption></caption><tbody><tr><td style="text-align: center; vertical-align: middle;"><a data-anchor="/document/16/221157/bssPhr42/"></a><a data-anchor="/document/16/221157/dfasmfthv2/" data-dfa="dfasmfthv2"></a><a href="https://promo.action-mcfr.uz/findir/" data-warm-notices="" data-warm-notice-type="" target="_blank" title=""><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41919166" sourceId="1" width="609" height="110" src="https://1gb.uz/system/content/image/297/1/-41919166/"></a></td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><a data-anchor="/document/16/221157/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/221157/bssPhr43/"></a><a data-anchor="/document/16/221157/dfasimhwzr/" data-dfa="dfasimhwzr"></a>Авторы Системы «Финансовый директор»</h2><p style="text-align:left"><a data-anchor="/document/16/221157/bssPhr44/"></a><a data-anchor="/document/16/221157/dfasktcmcw/" data-dfa="dfasktcmcw"></a>Авторы системы&nbsp;— опытные финансовые директора с&nbsp;международным опытом работы. В&nbsp;их&nbsp;профессиональном портфеле&nbsp;— финансы и&nbsp;управленческий контроль в&nbsp;крупных компаниях, таких как Burger King, Skyeng, VITEK, Maxwell и&nbsp;TFN. Это практики, которые выстраивали финансовые системы в&nbsp;динамичном международном бизнесе и&nbsp;знают, как внедрять эффективные решения в&nbsp;реальной работе.</p><p style="text-align:center"><a data-anchor="/document/16/221157/bssPhr45/"></a><a data-anchor="/document/16/221157/dfasssvsaf/" data-dfa="dfasssvsaf"></a><strong><a href="https://promo.action-mcfr.uz/findir/" target="_blank" title="">&lt;&lt;&lt;БОЛЬШЕ О&nbsp;СИСТЕМЕ И&nbsp;ЕЕ&nbsp;АВТОРАХ&gt;&gt;&gt;</a></strong></p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

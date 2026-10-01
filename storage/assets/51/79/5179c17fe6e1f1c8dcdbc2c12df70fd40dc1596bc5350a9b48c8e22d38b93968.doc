@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как искать и находить нужный материал в Системе Главбух</h2><div class="doc-snippet"><a data-anchor="/document/16/211450/dfasnkk8gf/" data-dfa="dfasnkk8gf"></a><a data-anchor="/document/16/211450/bssPhr2/"></a>В&nbsp;Системе Главбух есть ответ на&nbsp;любой бухгалтерский вопрос, главное&nbsp;— уметь искать. О&nbsp;всех возможностях поиска вы&nbsp;узнаете из&nbsp;этой рекомендации. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/211450/bssPhr3/"></a><a data-anchor="/document/16/211450/dfasg8uzwm/" data-dfa="dfasg8uzwm"></a>После <a data-anchor="/document/16/211450/backlinkanchor2/" type="backlink-anchor"></a><a href="#/document/16/211964" data-warm-notices="39989476" data-warm-notice-type="error" title="" moduleId="16" documentId="211964" class="link ">изучения</a> и&nbsp;базового использования Системы Главбух для более тщательного поиска нужных вам документов вы&nbsp;можете воспользоваться нашим Умным поиском во&nbsp;всех разделах.</p><a data-anchor="/document/16/211450/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211450/bssPhr4/"></a><a data-anchor="/document/16/211450/dfasxok3vc/" data-dfa="dfasxok3vc"></a>Умный поиск во&nbsp;всех разделах</h3><p><a data-anchor="/document/16/211450/bssPhr5/"></a><a data-anchor="/document/16/211450/dfas1a6ynd/" data-dfa="dfas1a6ynd"></a>Система подскажет вам подходящий документ&nbsp;— будь&nbsp;то рекомендация или форма, даже если&nbsp;Вы станете искать решение не&nbsp;в&nbsp;том разделе. Например, Вы&nbsp;хотите узнать,<strong> как рассчитать отпускные</strong>. Но&nbsp;по&nbsp;ошибке задали запрос в&nbsp;разделе «<a href="/#/forms/" target="_self" class="insite" title="">Шаблоны</a>». Несмотря на&nbsp;это, Система подберет вам не&nbsp;только бланки, но&nbsp;и&nbsp;наиболее подходящее из&nbsp;раздела «<a href="/#/recommendations/" target="_self" class="insite" title="">Рекомендации</a>». Вы&nbsp;увидите подборку в&nbsp;специальном блоке.</p><p><a data-anchor="/document/16/211450/dfasyeo9ph/" data-dfa="dfasyeo9ph"></a><a data-anchor="/document/16/211450/bssPhr6/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924949" sourceId="1" fullSizeImageId="-23924948" width="610" height="296.6893732970027" src="https://1gb.uz/system/content/image/297/1/-23924949/"></p><p><a data-anchor="/document/16/211450/bssPhr7/"></a><a data-anchor="/document/16/211450/dfasebgdg2/" data-dfa="dfasebgdg2"></a>По&nbsp;этому&nbsp;же запросу в&nbsp;разделе «Рекомендации» Система предлагает рекомендации, справочные материалы и&nbsp;формы. А&nbsp;первым в&nbsp;поиске будет именно&nbsp;то, что вам нужно.</p><p><a data-anchor="/document/16/211450/dfasdr77ux/" data-dfa="dfasdr77ux"></a><a data-anchor="/document/16/211450/bssPhr8/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924951" sourceId="1" fullSizeImageId="-23924950" width="610" height="284.2234332425068" src="https://1gb.uz/system/content/image/297/1/-23924951/"></p><p><a data-anchor="/document/16/211450/bssPhr9/"></a><a data-anchor="/document/16/211450/dfasuav2sf/" data-dfa="dfasuav2sf"></a>Для популярных общих запросов, например, «Заработная плата», умный поиск выдаст краткую аннотацию справа. В&nbsp;ней будут подсказки, в&nbsp;каких материалах вы&nbsp;можете найти решения для конкретных ситуаций.</p><p><a data-anchor="/document/16/211450/dfasd89t1v/" data-dfa="dfasd89t1v"></a><a data-anchor="/document/16/211450/bssPhr10/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924953" sourceId="1" fullSizeImageId="-23924952" width="610" height="289.2098092643052" src="https://1gb.uz/system/content/image/297/1/-23924953/"></p><a data-anchor="/document/16/211450/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211450/bssPhr11/"></a><a data-anchor="/document/16/211450/dfas3glqbz/" data-dfa="dfas3glqbz"></a>Поиск через рубрикатор</h3><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr12/"></a><a data-anchor="/document/16/211450/dfas4w87rq/" data-dfa="dfas4w87rq"></a>Найти нужную рекомендацию вы&nbsp;можете не&nbsp;только через поисковую строку. Искать можно и&nbsp;через рубрикатор. Это перечень всех материалов, которые есть в&nbsp;Системе. Для Вашего удобства они разбиты на&nbsp;рубрики:</p><ul class="c-list"><li><a data-anchor="/document/16/211450/bssPhr13/"></a><a data-anchor="/document/16/211450/dfasvae2es/" data-dfa="dfasvae2es"></a>Налогообложение</li><li>Бухгалтерский учет</li><li>МСФО</li><li>Отрасль и&nbsp;специфика</li><li>Юридический помощник</li><li>Кадровый помощник</li><li>Госзакупки</li></ul><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr14/"></a><a data-anchor="/document/16/211450/dfaskgs724/" data-dfa="dfaskgs724"></a>Щелкайте по&nbsp;ссылке на&nbsp;подходящий материал, и&nbsp;рекомендация откроется.</p><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr15/"></a><a data-anchor="/document/16/211450/dfas89f47x/" data-dfa="dfas89f47x"></a>В&nbsp;рубрикаторе есть и&nbsp;свой поиск. Наберите в&nbsp;левом верхнем углу ключевое слово, и&nbsp;останутся ссылки только на&nbsp;те&nbsp;материалы, которые соответствуют заданной теме.</p><p><a data-anchor="/document/16/211450/dfasqrloop/" data-dfa="dfasqrloop"></a><a data-anchor="/document/16/211450/bssPhr16/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924955" sourceId="1" fullSizeImageId="-23924954" width="610" height="615.8174386920981" src="https://1gb.uz/system/content/image/297/1/-23924955/"></p><p><a data-anchor="/document/16/211450/bssPhr17/"></a><a data-anchor="/document/16/211450/dfas0kscvs/" data-dfa="dfas0kscvs"></a>Подобные рубрикаторы есть и&nbsp;в&nbsp;других разделах. Кстати, внутри каждого&nbsp;— своя поисковая строка. Воспользуйтесь&nbsp;ею, чтобы ускорить поиск.</p><a data-anchor="/document/16/211450/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211450/bssPhr18/"></a><a data-anchor="/document/16/211450/dfaswyhb12/" data-dfa="dfaswyhb12"></a>Поиск в&nbsp;Правовой базе</h3><p><a data-anchor="/document/16/211450/bssPhr19/"></a><a data-anchor="/document/16/211450/dfas7ri8lg/" data-dfa="dfas7ri8lg"></a>В&nbsp;разделе «<a href="/#/law/" target="_self" class="insite" title="">Правовая База</a>» сразу несколько видов поиска. Общий для всех разделов&nbsp;— в&nbsp;виде привычной поисковой строки.</p><p><a data-anchor="/document/16/211450/dfas21970e/" data-dfa="dfas21970e"></a><a data-anchor="/document/16/211450/bssPhr20/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924957" sourceId="1" fullSizeImageId="-23924956" width="610" height="118.84196185286103" src="https://1gb.uz/system/content/image/297/1/-23924957/"></p><p><a data-anchor="/document/16/211450/bssPhr21/"></a><a data-anchor="/document/16/211450/dfaszeaspb/" data-dfa="dfaszeaspb"></a>Также есть расширенный поиск&nbsp;— по&nbsp;реквизитам. Чтобы воспользоваться&nbsp;им, нажмите на&nbsp;кнопку «По&nbsp;реквизитам...» справа от&nbsp;поисковой строки. Через расширенный поиск удобно искать письма ведомств, законы и&nbsp;акты.</p><p><a data-anchor="/document/16/211450/dfasazh4tp/" data-dfa="dfasazh4tp"></a><a data-anchor="/document/16/211450/bssPhr22/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924959" sourceId="1" fullSizeImageId="-23924958" width="610" height="172.86103542234332" src="https://1gb.uz/system/content/image/297/1/-23924959/"></p><p><a data-anchor="/document/16/211450/bssPhr23/"></a><a data-anchor="/document/16/211450/dfasubggbm/" data-dfa="dfasubggbm"></a>А&nbsp;еще в&nbsp;разделе «<a href="/#/law/" target="_self" class="insite" title="">Правовая База</a>» можно пользоваться фильтрами, которые находятся слева от&nbsp;поисковой выдачи. Такая возможность появится после того, как вы&nbsp;ввели поисковый запрос.</p><p><a data-anchor="/document/16/211450/dfasy4orix/" data-dfa="dfasy4orix"></a><a data-anchor="/document/16/211450/bssPhr24/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924961" sourceId="1" fullSizeImageId="-23924960" width="610" height="288.37874659400546" src="https://1gb.uz/system/content/image/297/1/-23924961/"></p><p><a data-anchor="/document/16/211450/bssPhr25/"></a><a data-anchor="/document/16/211450/dfas60x7qm/" data-dfa="dfas60x7qm"></a>При помощи фильтров можно выбрать:</p><ul class="c-list"><li><a data-anchor="/document/16/211450/bssPhr26/"></a><a data-anchor="/document/16/211450/dfasci1u75/" data-dfa="dfasci1u75"></a>сортировку списка&nbsp;— по&nbsp;дате или по&nbsp;соответствию;</li><li>статус документов&nbsp;— утратившие силу, действующие, не&nbsp;вступили в&nbsp;силу.</li></ul><a data-anchor="/document/16/211450/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/211450/bssPhr27/"></a><a data-anchor="/document/16/211450/dfas34oi81/" data-dfa="dfas34oi81"></a>Поиск в&nbsp;Шаблонах и&nbsp;Справочниках</h3><p><a data-anchor="/document/16/211450/bssPhr28/"></a><a data-anchor="/document/16/211450/dfas5dh7mw/" data-dfa="dfas5dh7mw"></a>В&nbsp;разделах «<a href="/#/forms/" target="_self" class="insite" title="">Шаблоны</a>» и «<a href="/#/handbook/" target="_self" class="insite" title="">Справочники</a>» поиск работает по&nbsp;единому принципу. Вам достаточно задать поисковый запрос, и&nbsp;Система подберет нужные материалы.</p><p><a data-anchor="/document/16/211450/dfasemqxlk/" data-dfa="dfasemqxlk"></a><a data-anchor="/document/16/211450/bssPhr29/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924967" sourceId="1" fullSizeImageId="-23924966" width="610" height="286.716621253406" src="https://1gb.uz/system/content/image/297/1/-23924967/"></p><p><a data-anchor="/document/16/211450/dfaslw7m8e/" data-dfa="dfaslw7m8e"></a><a data-anchor="/document/16/211450/bssPhr30/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924965" sourceId="1" fullSizeImageId="-23924964" width="610" height="287.54768392370573" src="https://1gb.uz/system/content/image/297/1/-23924965/"></p><a data-anchor="/document/16/211450/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/211450/bssPhr31/"></a><a data-anchor="/document/16/211450/dfas5g0v79/" data-dfa="dfas5g0v79"></a>Поиск в&nbsp;Журналах</h3><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr32/"></a><a data-anchor="/document/16/211450/dfasg2whk7/" data-dfa="dfasg2whk7"></a>В&nbsp;разделе «<a href="/#/press/" target="_self" class="insite" title="">Журналы</a>» есть поисковая строка, как и&nbsp;во&nbsp;всех остальных разделах.</p><p><a data-anchor="/document/16/211450/dfas56kf28/" data-dfa="dfas56kf28"></a><a data-anchor="/document/16/211450/bssPhr33/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924969" sourceId="1" fullSizeImageId="-23924968" width="610" height="298.35149863760216" src="https://1gb.uz/system/content/image/297/1/-23924969/"></p><a data-anchor="/document/16/211450/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/211450/bssPhr34/"></a><a data-anchor="/document/16/211450/dfasf8mhk1/" data-dfa="dfasf8mhk1"></a>Поиск внутри найденных материалов</h3><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr35/"></a><a data-anchor="/document/16/211450/dfaskh8v61/" data-dfa="dfaskh8v61"></a>Для удобства в&nbsp;Системе Главбух есть возможность искать и&nbsp;внутри документа по&nbsp;ключевым словам. В&nbsp;рекомендациях строка поиска находится слева над оглавлением, а&nbsp;в&nbsp;документах Правовой базы или Справочников&nbsp;— сверху.</p><p><a data-anchor="/document/16/211450/bssPhr36/"></a><a data-anchor="/document/16/211450/dfaspslc71/" data-dfa="dfaspslc71"></a>Наберите необходимое слово или словосочетание. Справа от&nbsp;поискового запроса появится информация, сколько раз искомое встречается в&nbsp;тексте. При помощи стрелочек можно перемещаться по&nbsp;найденным фрагментам.</p><p><a data-anchor="/document/16/211450/dfas9y5u0p/" data-dfa="dfas9y5u0p"></a><a data-anchor="/document/16/211450/bssPhr37/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924971" sourceId="1" fullSizeImageId="-23924970" width="610" height="297.52043596730243" src="https://1gb.uz/system/content/image/297/1/-23924971/"></p><a data-anchor="/document/16/211450/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/211450/bssPhr38/"></a><a data-anchor="/document/16/211450/dfas1kwbqa/" data-dfa="dfas1kwbqa"></a>Что еще умеет поиск Системы Главбух</h3><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr39/"></a><a data-anchor="/document/16/211450/dfas81bvwx/" data-dfa="dfas81bvwx"></a>В&nbsp;Системе Главбух поиск настолько умный и&nbsp;вежливый, что&nbsp;Вы и&nbsp;не&nbsp;заметите, как он&nbsp;подведет вас к&nbsp;нужному. Даже если сначала&nbsp;Вы шли не&nbsp;в&nbsp;том направлении.</p><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr40/"></a><a data-anchor="/document/16/211450/dfasiv7d66/" data-dfa="dfasiv7d66"></a><strong>Поиск «закроет глаза» на&nbsp;ошибки в&nbsp;Вашем запросе и&nbsp;подскажет, как сформулировать запрос.</strong></p><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr41/"></a><a data-anchor="/document/16/211450/dfasyegpka/" data-dfa="dfasyegpka"></a>Поиск поймет, даже если&nbsp;Вы по&nbsp;ошибке начали набирать запрос на&nbsp;английской раскладке, и&nbsp;сам исправит опечатки. Более того, поиск поймет Вас в&nbsp;любом падеже и&nbsp;времени.</p><p><a data-anchor="/document/16/211450/dfas2u1zkt/" data-dfa="dfas2u1zkt"></a><a data-anchor="/document/16/211450/bssPhr42/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924973" sourceId="1" fullSizeImageId="-23924972" width="610" height="288.37874659400546" src="https://1gb.uz/system/content/image/297/1/-23924973/"></p><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr43/"></a><a data-anchor="/document/16/211450/dfas2y1l2n/" data-dfa="dfas2y1l2n"></a>А&nbsp;еще умный поиск Системы Главбух знает кучу синонимов. Поэтому Вам не&nbsp;надо будет задавать запросы, меняя слова «матответственность» на&nbsp;«материальная ответственность». Поиск это все сам учтет.</p><p><a data-anchor="/document/16/211450/dfasvdere3/" data-dfa="dfasvdere3"></a><a data-anchor="/document/16/211450/bssPhr44/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924975" sourceId="1" fullSizeImageId="-23924974" width="610" height="298.35149863760216" src="https://1gb.uz/system/content/image/297/1/-23924975/"></p><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr45/"></a><a data-anchor="/document/16/211450/dfasrgiqdc/" data-dfa="dfasrgiqdc"></a><strong>У&nbsp;поиска хорошая память</strong></p><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr46/"></a><a data-anchor="/document/16/211450/dfas93hh07/" data-dfa="dfas93hh07"></a>Ваши недавние поисковые запросы Система помнит и&nbsp;заботливо хранит. Вы&nbsp;увидите&nbsp;их, если просто поставите курсор в&nbsp;строку поиска. Нажмите на&nbsp;любой из&nbsp;запросов&nbsp;— и&nbsp;Система повторит поиск по&nbsp;тем&nbsp;же параметрам.</p><p><a data-anchor="/document/16/211450/dfas61hdhv/" data-dfa="dfas61hdhv"></a><a data-anchor="/document/16/211450/bssPhr47/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924945" sourceId="1" fullSizeImageId="-23924944" width="610" height="137.95640326975476" src="https://1gb.uz/system/content/image/297/1/-23924945/"></p><p><a data-anchor="/document/16/211450/bssPhr48/"></a><a data-anchor="/document/16/211450/dfascn9ml2/" data-dfa="dfascn9ml2"></a>А&nbsp;стоит начать вводить в&nbsp;поиске первые буквы запроса, Система предложит в&nbsp;качестве подсказок похожие запросы&nbsp;— из&nbsp;тех, что были раньше.</p><p><a data-anchor="/document/16/211450/dfaslvqvr1/" data-dfa="dfaslvqvr1"></a><a data-anchor="/document/16/211450/bssPhr49/"></a><img alt="" hideborder="false" class="inimg" lnktype="img" id="-23924947" sourceId="1" fullSizeImageId="-23924946" width="610" height="68.14713896457765" src="https://1gb.uz/system/content/image/297/1/-23924947/"></p><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr50/"></a><a data-anchor="/document/16/211450/dfasg03qd5/" data-dfa="dfasg03qd5"></a>Старайтесь не&nbsp;вводить очень длинные или очень общие запросы. Это приведет к&nbsp;тому, что в&nbsp;выдаче будет много лишних документов. Например, если набрать «Договор», в&nbsp;выдаче будет очень много подходящих под запрос документов, но&nbsp;выбрать из&nbsp;них нужное будет сложно. Формулируйте более конкретные запросы, например:</p><ul class="c-list"><li><a data-anchor="/document/16/211450/bssPhr51/"></a><a data-anchor="/document/16/211450/dfasxys7rw/" data-dfa="dfasxys7rw"></a>как заключить&nbsp;ТД;</li><li>как прекратить договор;</li><li><a data-anchor="/document/16/211450/dfasbzg1mg/" data-dfa="dfasbzg1mg"></a>как заключить договор о&nbsp;полной матответственности.</li></ul><a data-anchor="/document/16/211450/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/211450/bssPhr52/"></a><a data-anchor="/document/16/211450/dfaskwmogh/" data-dfa="dfaskwmogh"></a>Хотите узнать больше?</h3><p style="text-align:start"><a data-anchor="/document/16/211450/bssPhr53/"></a><a data-anchor="/document/16/211450/dfas1mpzrf/" data-dfa="dfas1mpzrf"></a>Подробнее о&nbsp;Системе Главбух Вам с&nbsp;удовольствием расскажут наши представители. Можете позвонить по&nbsp;телефону поддержки + 998 78&nbsp;150 00 09. Звонок по&nbsp;Ташкенту бесплатный (с&nbsp;9&nbsp;до&nbsp;18&nbsp;ч по&nbsp;Ташкентскому времени).</p><p style="text-align:center"><a data-anchor="/document/16/211450/bssPhr54/"></a><a data-anchor="/document/16/211450/dfas6c8aqp/" data-dfa="dfas6c8aqp"></a><strong>Желаем&nbsp;вам хорошего дня и&nbsp;приятной работы с&nbsp;Системой Главбух!</strong></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

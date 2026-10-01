@@ -1,0 +1,370 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            .doc-part_type_title {
+                margin-bottom: 0.8125em;
+                padding-bottom: 2.375em;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .doc__props {
+                font: normal 13px / 1.23076923 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__props.doc-add {
+                margin: 6.15384615em 0 2.15384615em;
+                padding-top: 1em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__props.doc-start {
+                margin-bottom: 2.15384615em;
+            }
+            .doc__type {
+                margin: 0.4em 0 0.5em;
+                font: normal 10px / 1.6 Helvetica, Arial, sans-serif;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .doc__type + .main__title {
+                margin-top: 0;
+            }
+            .doc-start {
+                margin-top: 0 !important;
+                border-top: none !important;
+            }
+            .doc__part {
+                margin: 5.11538462em 0 4.15384615em;
+                font: normal 26px / 1.30769231 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: 0.2em;
+                text-transform: uppercase;
+                position: relative;
+            }
+            .doc__part[data-level="1"] {
+                padding-top: 0.57692308em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__part.doc-start {
+                padding-top: 0.07692308em;
+            }
+            .doc__section {
+                position: relative;
+                margin: 4.75em 0 3.32142857em;
+                font: normal 28px / 1.21428571 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc__section[data-level="1"] {
+                padding-top: 0.5em;
+                border-top: 1px solid #e5e5e5;
+            }
+            .doc__section[data-level="2"] {
+            margin-top: 3.85714286em;
+            }
+            .doc__section.doc-start {
+                padding-top: 0;
+            }
+            .doc__section-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc__subsection {
+                position: relative;
+                margin: 4.45833333em 0 1.75em;
+                font: bold 24px / 1.16666667 Helvetica, Arial, sans-serif;
+                letter-spacing: -1px;
+            }
+            .doc-add + .doc__subsection {
+                margin-top: 2.08333333em;
+            }
+            .doc__chapter {
+                position: relative;
+                margin: 1.82608696em 0 0.91304348em;
+                font: normal 23px / 1.2173913 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            .doc-part .doc__chapter:first-child,
+                p + .doc__chapter,
+                ul + .doc__chapter,
+                ol + .doc__chapter {
+                    margin-top: 3.26086957em;
+                }
+            .doc__article {
+                position: relative;
+                margin: 1.25em 0 0.125em;
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+            }
+            .doc__article + p,
+            .doc__article + ul,
+            .doc__article + ol {
+                margin-top: 0 !important;
+            }
+            .doc-part .doc__article:first-child,
+            p + .doc__article,
+            ul + .doc__article,
+            ol + .doc__article {
+                margin-top: 1.75em;
+            }
+            .doc-header__sticky-clone .doc__article {
+                margin-top: 0.5em;
+            }
+            .doc__paragraph {
+                margin: 1em 0 0.17391304em;
+                font: normal 23px / 1.13043478 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                position: relative;
+            }
+            .doc__paragraph-name {
+                font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+                font-style: italic;
+            }
+            .doc-part .doc__paragraph:first-child,
+            p + .doc__paragraph,
+            ul + .doc__paragraph,
+            ol + .doc__paragraph {
+                margin-top: 2.26086957em;
+            }
+            .doc__subparagraph {
+                font: normal 19px / 1.21052632 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.42105263em 0 0.31578947em;
+                position: relative;
+            }
+            .doc-part .doc__subparagraph:first-child,
+            p + .doc__subparagraph,
+            ul + .doc__subparagraph,
+            ol + .doc__subparagraph {
+                margin-top: 2.21052632em;
+            }
+            .doc__untyped {
+                font: normal 18px / 1.27777778 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: 1.33333333em 0 1em;
+                position: relative;
+            }
+            .doc__note {
+                font: normal 11px / 1.45454545 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin: -0.18181818em 0 2.54545455em 3.63636364em;
+                position: relative;
+            }
+            .doc__note + .doc__note {
+                margin-top: -1.63636364em;
+            }
+            .doc-notes {
+                display: none;
+            }
+            .doc__signature {
+                margin: 0.92857143em 0;
+            }
+            .doc__signature p {
+                text-align: left !important;
+            }
+            .doc__question {
+                background: #fbf9ef;
+                margin: -0.0625em 0 2.5em 0;
+                padding: 1em 64px 1em 1.5em;
+            }
+            .doc__question-title {
+                font: bold 16px / 1.25 Helvetica, Arial, sans-serif;
+                letter-spacing: normal;
+                margin-bottom: 0.125em;
+            }
+            .doc__question-title + p {
+                margin-top: 0 !important;
+            }
+            .doc__expired {
+                color: #cccccc !important;
+            }
+            ul,
+            ol {
+                margin-left: 1.28571429em;
+            }
+            p {
+                margin: 0 0 0.92857143em;
+            }
+            p + ul,
+            p + ol {
+                margin-top: -0.92857143em;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            .list__item:before,
+            .order__item:before {
+                display: -moz-inline-stack;
+                display: inline-block;
+                vertical-align: baseline;
+                font: normal 11px / 1.18181818 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+                min-width: 1.63636364em;
+                margin-left: -1.63636364em;
+                position: relative;
+                top: -1px;
+            }
+            .order__item:before {
+                content: attr(data-counter) "\a0";
+            }
+            .content_block {
+                font: normal 16px / 1.25 "PT Serif", Georgia, "Times New Roman", Times, serif;
+                letter-spacing: normal;
+            }
+            p {
+                text-align: justify;
+            }
+            p.align-center {
+                text-align: center;
+            }
+            p.align-right {
+                text-align: right;
+            }
+            p.align-left {
+                text-align: left;
+            }
+
+            table, td, th {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, th.bdAll, table.bdAll td, table.bdAll th, table td.bdAl, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            td.bdRight,
+            th.bdRight {
+                border-right: 1px solid #000;
+            }
+            td.bdLeft,
+            th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom,
+            th.bdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom,
+            th.bdRightbdTopbdBottom {
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight,
+            th.bdBottombdLeftbdRight {
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft,
+            th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight,
+            th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom,
+            th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom,
+            th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight,
+            th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight,
+            th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom,
+            th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll,
+            th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+        </style><div xmlns="" class="content_block"><div class="above-header">Указ Президента РУз от 09.12.2003 № УП-3358</div><h2 class="auth__title">О совершенствовании системы республиканских органов государственного управления (утратил силу)</h2><div id="documentBody" class="content-common"><p style="text-align:center"><a data-anchor="/document/90/11614/bssPhr1/" data-role="phrase-anchor" data-phrase-id="1" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/90/11614/dfasya1kmf/"></a><a data-anchor="/document/90/11614/dfasxgrok4/"></a><strong>ПРЕЗИДЕНТА РЕСПУБЛИКИ УЗБЕКИСТАН</strong></p><p style="text-align:center"><a data-anchor="/document/90/11614/bssPhr2/" data-role="phrase-anchor" data-phrase-id="2" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/90/11614/dfaslrrhr7/"></a><strong>УКАЗ</strong></p><p style="text-align:center"><a data-anchor="/document/90/11614/bssPhr3/" data-role="phrase-anchor" data-phrase-id="3" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/90/11614/dfasaei8q1/"></a><strong>О совершенствовании системы республиканских органов государственного управления</strong></p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr4/" data-role="phrase-anchor" data-phrase-id="4" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/90/11614/dfasqtmvst/"></a>В целях дальнейшего совершенствования системы управления экономикой, в соответствии с требованиями современного этапа либерализации и реформирования всех сторон жизни общества, сокращения властных полномочий государственных структур, четкого разграничения функций государственного и хозяйственного управления, а также повышения эффективности деятельности органов государственного управления республики:</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr5/" data-role="phrase-anchor" data-phrase-id="5" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/90/11614/dfasnk69ua/"></a>1. Определить, что к республиканским органам государственного управления относятся министерства, государственные комитеты, комитеты, агентства, а также образуемые при них и Кабинете Министров Республики Узбекистан структуры государственного управления.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr6/" data-role="phrase-anchor" data-phrase-id="6" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/90/11614/dfasr9whg8/"></a>2. Считать основными задачами и функциями республиканских органов государственного управления:</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr7/" data-role="phrase-anchor" data-phrase-id="7" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/90/11614/dfasqtltas/"></a>обеспечение практической реализации законов Республики Узбекистан, указов Президента Республики Узбекистан и иных нормативно-правовых актов, осуществление действенного контроля за их исполнением;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr8/" data-role="phrase-anchor" data-phrase-id="8" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/90/11614/dfasg4x7ti/"></a>реализацию внешней и внутренней политики, обеспечение внешней и внутренней безопасности государства;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr9/" data-role="phrase-anchor" data-phrase-id="9" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/90/11614/dfaslxmixm/"></a>определение приоритетов стратегического развития страны, разработку и организацию осуществления государственных целевых программ, реализацию мер по проведению экономических реформ;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr10/" data-role="phrase-anchor" data-phrase-id="10" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/90/11614/dfas6z7ggs/"></a>обеспечение и защиту конституционных прав и свобод человека, прав населения на образование, медицинское обслуживание, социальное обеспечение, регулирование рынка труда, управление и координацию деятельности общегосударственной системы управления в социальной сфере;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr11/" data-role="phrase-anchor" data-phrase-id="11" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/90/11614/dfasiklkvq/"></a>государственное регулирование деятельности хозяйствующих субъектов через создание соответствующей правовой среды, лицензирование, сертификацию и стандартизацию;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr12/" data-role="phrase-anchor" data-phrase-id="12" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/90/11614/dfas1f2qyo/"></a>осуществление фискальных функций путем сбора налогов, таможенных платежей, распределения государственных доходов.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr13/" data-role="phrase-anchor" data-phrase-id="13" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/90/11614/dfascq151o/"></a>3. Принять предложения Республиканской комиссии по подготовке предложений по углублению административной реформы и совершенствованию структуры управления экономикой, образованной Распоряжением Президента Республики Узбекистан от 20 июня 2003 г. № Р-1791, о:</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr14/" data-role="phrase-anchor" data-phrase-id="14" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/90/11614/dfasplqt1w/"></a>создании Государственного комитета Республики Узбекистан по земельным ресурсам, геодезии, картографии и государственному кадастру на базе Государственного комитета по земельным ресурсам Республики Узбекистан и Главного управления геодезии, картографии и государственного кадастра при Кабинете Министров Республики Узбекистан;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr15/" data-role="phrase-anchor" data-phrase-id="15" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/90/11614/dfask98tg8/"></a>преобразовании Главного управления по гидрометеорологии при Кабинете Министров Республики Узбекистан в Центр гидрометеорологической службы при Кабинете Министров Республики Узбекистан;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr16/" data-role="phrase-anchor" data-phrase-id="16" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/90/11614/dfaskgvxhu/"></a>преобразовании Главного управления по государственным материальным резервам при Кабинете Министров Республики Узбекистан в Комитет по управлению государственными резервами при Кабинете Министров Республики Узбекистан;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr17/" data-role="phrase-anchor" data-phrase-id="17" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/90/11614/dfas2b6t92/"></a>преобразовании Главного архивного управления при Кабинете Министров Республики Узбекистан в Агентство &#171;Узархив&#187; при Кабинете Министров Республики Узбекистан;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr18/" data-role="phrase-anchor" data-phrase-id="18" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/90/11614/dfasesn8b6/"></a>преобразовании Государственного агентства по надзору в электроэнергетике в Государственную инспекцию по надзору в электроэнергетике;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr19/" data-role="phrase-anchor" data-phrase-id="19" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/90/11614/dfas1wbntv/"></a>преобразовании Агентства по надзору за безопасным ведением работ в промышленности и горному надзору в Государственную инспекцию по надзору за безопасным ведением работ в промышленности и горному надзору (&#171;Саноатконтехназорат&#187;);</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr20/" data-role="phrase-anchor" data-phrase-id="20" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr20"></a><a data-anchor="/document/90/11614/dfasx4bqvu/"></a>упразднении Республиканского терминологического комитета при Кабинете Министров Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr21/" data-role="phrase-anchor" data-phrase-id="21" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr21"></a><a data-anchor="/document/90/11614/dfasiqv9lb/"></a>4. Установить перечень республиканских органов государственного управления согласно приложению.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr22/" data-role="phrase-anchor" data-phrase-id="22" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr22"></a><a data-anchor="/document/90/11614/dfasm77n0s/"></a>5. Республиканским органам государственного управления, указанным в приложении, совместно с Министерством юстиции Республики Узбекистан в двухмесячный срок внести в установленном порядке на утверждение в Кабинет Министров свои положения и организационные структуры управления, обновленные в соответствии с требованиями современного этапа либерализации и реформирования общества.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr23/" data-role="phrase-anchor" data-phrase-id="23" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr23"></a><a data-anchor="/document/90/11614/dfasyf1xwv/"></a>6. Республиканской комиссии по подготовке предложений по углублению административной реформы и совершенствованию структуры экономикой поэтапно в двухмесячный срок разработать и внести на утверждение в Кабинет Министров предложения об организационных структурах и функциях органов государственного управления, преобразуемых в соответствии с настоящим Указом.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr24/" data-role="phrase-anchor" data-phrase-id="24" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr24"></a><a data-anchor="/document/90/11614/dfas2odth2/"></a>7. Кабинету Министров Республики Узбекистан обеспечить подготовку и внесение в установленном порядке дополнений и изменений в действующее законодательство, вытекающих из настоящего Указа.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr25/" data-role="phrase-anchor" data-phrase-id="25" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr25"></a><a data-anchor="/document/90/11614/dfas7s43iu/"></a>8. Контроль за исполнением настоящего Указа возложить на Премьер-министра Республики Узбекистан У.Т. Султанова и государственного советника Президента Республики Узбекистан Т.А. Худайбергенова.</p><p style="text-align:right"><a data-anchor="/document/90/11614/bssPhr26/" data-role="phrase-anchor" data-phrase-id="26" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr26"></a><a data-anchor="/document/90/11614/dfascutdvr/"></a><strong>Президент Республики Узбекистан<br>И. Каримов</strong></p><p><a data-anchor="/document/90/11614/bssPhr27/" data-role="phrase-anchor" data-phrase-id="27" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr27"></a><a data-anchor="/document/90/11614/dfasph8y0q/"></a>г. Ташкент,<br>9 декабря 2003 г.,<br>№ УП-3358</p><p style="text-align:right"><a data-anchor="/document/90/11614/bssPhr28/" data-role="phrase-anchor" data-phrase-id="28" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr28"></a><a data-role="toc" data-anchor="/document/90/11614/tit1/"></a><a data-anchor="/document/90/11614/dfasues9de/"></a>ПРИЛОЖЕНИЕ<br>к Указу Президента Республики Узбекистан<br>от 9 декабря 2003 года № УП-3358</p><div class="doc__untyped doc-start" data-type="untyped" data-level="2"><a data-role="toc" data-anchor="/document/90/11614/tit8/"></a><span level="" style="text-align:left" h_size="" class="doc__untyped-name"><a data-anchor="/document/90/11614/bssPhr29/" data-role="phrase-anchor" data-phrase-id="29" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr29"></a><a data-anchor="/document/90/11614/dfasisfhyn/"></a>Перечень<br>республиканских органов государственного управления</span></div><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/11614/tit2/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/11614/bssPhr30/" data-role="phrase-anchor" data-phrase-id="30" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr30"></a><a data-anchor="/document/90/11614/dfasm3pt6g/"></a>I. </span><span class="doc__chapter-name">Министерства</span></div><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr31/" data-role="phrase-anchor" data-phrase-id="31" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr31"></a><a data-anchor="/document/90/11614/dfasz752ef/"></a>1. Министерство экономики Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr32/" data-role="phrase-anchor" data-phrase-id="32" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr32"></a><a data-anchor="/document/90/11614/dfas8z4mw6/"></a>2. Министерство финансов Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr33/" data-role="phrase-anchor" data-phrase-id="33" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr33"></a><a data-anchor="/document/90/11614/dfas7mdzp8/"></a>3. Министерство сельского хозяйства Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr34/" data-role="phrase-anchor" data-phrase-id="34" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr34"></a><a data-anchor="/document/90/11614/dfaswc9fvm/"></a>3<sup>1</sup>. Министерство водного хозяйства Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr35/" data-role="phrase-anchor" data-phrase-id="35" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr35"></a><a data-anchor="/document/90/11614/dfasipot4o/"></a>4. Министерство занятости и трудовых отношений Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr36/" data-role="phrase-anchor" data-phrase-id="36" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr36"></a><a data-anchor="/document/90/11614/dfask2qvym/"></a>5. Министерство высшего и среднего специального образования Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr37/" data-role="phrase-anchor" data-phrase-id="37" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr37"></a><a data-anchor="/document/90/11614/dfasv9bk5k/"></a>6. Министерство народного образования Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr38/" data-role="phrase-anchor" data-phrase-id="38" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr38"></a><a data-anchor="/document/90/11614/dfas5idb67/"></a>7. Министерство здравоохранения Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr39/" data-role="phrase-anchor" data-phrase-id="39" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr39"></a><a data-anchor="/document/90/11614/dfase5tgxc/"></a>8. Министерство культуры Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr40/" data-role="phrase-anchor" data-phrase-id="40" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr40"></a><a data-anchor="/document/90/11614/dfasskhocq/"></a>9. Министерство обороны Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr41/" data-role="phrase-anchor" data-phrase-id="41" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr41"></a><a data-anchor="/document/90/11614/dfas17brbs/"></a>10. Министерство внутренних дел Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr42/" data-role="phrase-anchor" data-phrase-id="42" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr42"></a><a data-anchor="/document/90/11614/dfastcmbe2/"></a>11. Министерство по чрезвычайным ситуациям Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr43/" data-role="phrase-anchor" data-phrase-id="43" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr43"></a><a data-anchor="/document/90/11614/dfasp6l4vh/"></a>12. Министерство иностранных дел Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr44/" data-role="phrase-anchor" data-phrase-id="44" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr44"></a><a data-anchor="/document/90/11614/dfasylw28n/"></a>13. Министерство юстиции Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr45/" data-role="phrase-anchor" data-phrase-id="45" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr45"></a><a data-anchor="/document/90/11614/dfasvdu4cg/"></a>14. Министерство внешней торговли Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr46/" data-role="phrase-anchor" data-phrase-id="46" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr46"></a><a data-anchor="/document/90/11614/dfasbn8wde/"></a>15. Министерство по развитию информационных технологий и коммуникаций Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr47/" data-role="phrase-anchor" data-phrase-id="47" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr47"></a><a data-anchor="/document/90/11614/dfasgh6fre/"></a>16. Министерство жилищно-коммунального обслуживания Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr48/" data-role="phrase-anchor" data-phrase-id="48" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr48"></a><a data-anchor="/document/90/11614/dfas3p2awe/"></a>17. Министерство инновационного развития Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr49/" data-role="phrase-anchor" data-phrase-id="49" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr49"></a><a data-anchor="/document/90/11614/dfaszm90id/"></a>18. Министерство физической культуры и спорта Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr50/" data-role="phrase-anchor" data-phrase-id="50" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr50"></a><a data-anchor="/document/90/11614/dfasnxo2pc/"></a>19. Министерство строительства Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr51/" data-role="phrase-anchor" data-phrase-id="51" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr51"></a><a data-anchor="/document/90/11614/dfasc2z2kb/"></a>20. Министерство дошкольного образования Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr52/" data-role="phrase-anchor" data-phrase-id="52" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr52"></a><a data-anchor="/document/90/11614/dfasbabskl/"></a>21. Министерство транспорта Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr53/" data-role="phrase-anchor" data-phrase-id="53" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr53"></a><a data-anchor="/document/90/11614/dfasq7uiwd/"></a>22. Министерство по поддержке махалли и семьи Республики Узбекистан.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/11614/tit3/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/11614/bssPhr54/" data-role="phrase-anchor" data-phrase-id="54" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr54"></a><a data-anchor="/document/90/11614/dfaswhwdgs/"></a>II. </span><span class="doc__chapter-name">Государственные комитеты</span></div><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr55/" data-role="phrase-anchor" data-phrase-id="55" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr55"></a><a data-anchor="/document/90/11614/dfaskcid1g/"></a>2. Государственный комитет Республики Узбекистан по статистике</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr56/" data-role="phrase-anchor" data-phrase-id="56" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr56"></a><a data-anchor="/document/90/11614/dfas9a00xi/"></a>4. Государственный налоговый комитет Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr57/" data-role="phrase-anchor" data-phrase-id="57" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr57"></a><a data-anchor="/document/90/11614/dfasizepg9/"></a>5. Государственный таможенный комитет Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr58/" data-role="phrase-anchor" data-phrase-id="58" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr58"></a><a data-anchor="/document/90/11614/dfastas1g9/"></a>6. Государственный комитет Республики Узбекистан по экологии и охране окружающей среды</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr59/" data-role="phrase-anchor" data-phrase-id="59" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr59"></a><a data-anchor="/document/90/11614/dfasl0m69s/"></a>7. Государственный комитет Республики Узбекистан по геологии и минеральным ресурсам</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr60/" data-role="phrase-anchor" data-phrase-id="60" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr60"></a><a data-anchor="/document/90/11614/dfasc2yssr/"></a>9. Государственный комитет Республики Узбекистан по земельным ресурсам, геодезии, картографии и государственному кадастру</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr61/" data-role="phrase-anchor" data-phrase-id="61" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr61"></a><a data-anchor="/document/90/11614/dfas6o3t6n/"></a>10. Государственный комитет Республики Узбекистан по развитию туризма</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr62/" data-role="phrase-anchor" data-phrase-id="62" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr62"></a><a data-anchor="/document/90/11614/dfash2kvkx/"></a>12. Государственный комитет Республики Узбекистан по инвестициям</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr63/" data-role="phrase-anchor" data-phrase-id="63" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr63"></a><a data-anchor="/document/90/11614/dfasg80qh7/"></a>13. Государственный комитет Республики Узбекистан по лесному хозяйству</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr64/" data-role="phrase-anchor" data-phrase-id="64" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr64"></a><a data-anchor="/document/90/11614/dfasu6rxmi/"></a>14. Государственный комитет промышленной безопасности Республики Узбекистан.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/11614/tit4/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/11614/bssPhr65/" data-role="phrase-anchor" data-phrase-id="65" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr65"></a><a data-anchor="/document/90/11614/dfassmprql/"></a>III. </span><span class="doc__chapter-name">Агентства</span></div><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr66/" data-role="phrase-anchor" data-phrase-id="66" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr66"></a><a data-anchor="/document/90/11614/dfas2p7dcs/"></a>2. Узбекское агентство стандартизации, метрологии и сертификации</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr67/" data-role="phrase-anchor" data-phrase-id="67" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr67"></a><a data-anchor="/document/90/11614/dfasfdygmq/"></a>3. Агентство по делам молодежи Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr68/" data-role="phrase-anchor" data-phrase-id="68" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr68"></a><a data-anchor="/document/90/11614/dfas3irngk/"></a>4. Агентство гражданской авиации при Министерстве транспорта Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr69/" data-role="phrase-anchor" data-phrase-id="69" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr69"></a><a data-anchor="/document/90/11614/dfascuuamt/"></a>5. Агентство по интеллектуальной собственности при Министерстве юстиции Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr70/" data-role="phrase-anchor" data-phrase-id="70" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr70"></a><a data-anchor="/document/90/11614/dfasaoecth/"></a>7. Агентство &#171;Узархив&#187;</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr71/" data-role="phrase-anchor" data-phrase-id="71" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr71"></a><a data-anchor="/document/90/11614/dfasgc4ges/"></a>8. Агентство по регулированию алкогольного и табачного рынка и развитию виноделия.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr72/" data-role="phrase-anchor" data-phrase-id="72" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr72"></a><a data-anchor="/document/90/11614/dfasggk7f8/"></a>9. Агентство по управлению государственными активами Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr73/" data-role="phrase-anchor" data-phrase-id="73" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr73"></a><a data-anchor="/document/90/11614/dfasw1rg6s/"></a>11. Агентство по карантину и защите растений Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr74/" data-role="phrase-anchor" data-phrase-id="74" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr74"></a><a data-anchor="/document/90/11614/dfasfu4bte/"></a>12. Агентство по развитию медико-социальных услуг Республики Узбекистан.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/11614/tit5/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/11614/bssPhr75/" data-role="phrase-anchor" data-phrase-id="75" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr75"></a><a data-anchor="/document/90/11614/dfasqstskt/"></a>IV. </span><span class="doc__chapter-name">&#160;Комитеты</span></div><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr76/" data-role="phrase-anchor" data-phrase-id="76" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr76"></a><a data-anchor="/document/90/11614/dfas24vmw0/"></a>1. Комитет по управлению государственными резервами при Кабинете Министров Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr77/" data-role="phrase-anchor" data-phrase-id="77" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr77"></a><a data-anchor="/document/90/11614/dfasigp3ao/"></a>2. Комитет по делам религий при Кабинете Министров Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr78/" data-role="phrase-anchor" data-phrase-id="78" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr78"></a><a data-anchor="/document/90/11614/dfasedr0io/"></a>3. Комитет по автомобильным дорогам при Министерстве транспорта Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr79/" data-role="phrase-anchor" data-phrase-id="79" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr79"></a><a data-anchor="/document/90/11614/dfaslpk9fo/"></a>4. Комитет по межнациональным отношениям и дружественным связям с зарубежными странами при Кабинете Министров Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr80/" data-role="phrase-anchor" data-phrase-id="80" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr80"></a><a data-anchor="/document/90/11614/dfasahvqrn/"></a>5. Антимонопольный комитет Республики Узбекистан.</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/11614/tit6/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/11614/bssPhr81/" data-role="phrase-anchor" data-phrase-id="81" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr81"></a><a data-anchor="/document/90/11614/dfasgactgm/"></a>V. </span><span class="doc__chapter-name">Центры</span></div><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr82/" data-role="phrase-anchor" data-phrase-id="82" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr82"></a><a data-anchor="/document/90/11614/dfas0yz8r9/"></a>2. Центр профессионального образования Министерства высшего и среднего специального образования Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr83/" data-role="phrase-anchor" data-phrase-id="83" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr83"></a><a data-anchor="/document/90/11614/dfasmznvas/"></a>3. Государственный центр тестирования при Кабинете Министров Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr84/" data-role="phrase-anchor" data-phrase-id="84" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr84"></a><a data-anchor="/document/90/11614/dfasybh99m/"></a>4. Национальный информационно-аналитический центр по контролю за наркотиками при Кабинете Министров Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr85/" data-role="phrase-anchor" data-phrase-id="85" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr85"></a><a data-anchor="/document/90/11614/dfasgb00vi/"></a>6. Центр гидрометеорологической службы Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr86/" data-role="phrase-anchor" data-phrase-id="86" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr86"></a><a data-anchor="/document/90/11614/dfasy74k43/"></a>7. Государственный центр персонализации при Кабинете Министров Республики Узбекистан</p><div class="doc__chapter" data-type="chapter" data-level="4"><a data-role="toc" data-anchor="/document/90/11614/tit7/"></a><span class="doc__chapter-number" style="text-align:left"><a data-anchor="/document/90/11614/bssPhr87/" data-role="phrase-anchor" data-phrase-id="87" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr87"></a><a data-anchor="/document/90/11614/dfass2gea3/"></a>VI. </span><span class="doc__chapter-name">Инспекции</span></div><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr88/" data-role="phrase-anchor" data-phrase-id="88" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr88"></a><a data-anchor="/document/90/11614/dfaskfrvgq/"></a>2. Инспекция по надзору за безопасностью железнодорожных перевозок при Министерстве транспорта Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr89/" data-role="phrase-anchor" data-phrase-id="89" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr89"></a><a data-anchor="/document/90/11614/dfasma1c4c/"></a>3. Государственная инспекция по контролю и надзору за техническим состоянием и безопасностью работы крупных и особо важных водохозяйственных объектов при Министерстве водного хозяйства Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr90/" data-role="phrase-anchor" data-phrase-id="90" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr90"></a><a data-anchor="/document/90/11614/dfasioy2gg/"></a>4. Узбекская государственная инспекция по контролю за использованием нефтепродуктов и газа при Кабинете Министров Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr91/" data-role="phrase-anchor" data-phrase-id="91" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr91"></a><a data-anchor="/document/90/11614/dfasbdmgpn/"></a>6. Государственная инспекция Республики Узбекистан по надзору в электроэнергетике</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr92/" data-role="phrase-anchor" data-phrase-id="92" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr92"></a><a data-anchor="/document/90/11614/dfasc9tsvl/"></a>8. Инспекция по контролю за качеством дорожно-строительных работ при Министерстве транспорта Республики Узбекистан</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr93/" data-role="phrase-anchor" data-phrase-id="93" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr93"></a><a data-anchor="/document/90/11614/dfasus0e6o/"></a>9. Инспекция по контролю за использованием питьевой воды при Министерстве жилищно-коммунального обслуживания Республики Узбекистан.</p><p style="text-align:left"><a data-anchor="/document/90/11614/bssPhr94/" data-role="phrase-anchor" data-phrase-id="94" data-dwh-source-type-favorites="button_anchor" data-phrase-anchor="bssPhr94"></a><a data-anchor="/document/90/11614/dfascd5xev/"></a>11. Инспекция по регулированию алкогольного и табачного рынка при Министерстве финансов Республики Узбекистан.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

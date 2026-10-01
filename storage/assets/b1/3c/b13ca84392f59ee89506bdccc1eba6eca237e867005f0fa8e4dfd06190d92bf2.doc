@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как платят НДС плательщики единого налогового платежа</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203680/dfasgb2b56/" data-dfa="dfasgb2b56"></a><a data-anchor="/document/16/203680/bssPhr1/"></a>С 1 января 2019 года плательщики ЕНП дополнительно уплачивают налог на имущество, земельный налог и налог за пользование водными ресурсами. Кроме этого предприятия, имеющие годовой оборот (выручку) по итогам предыдущего года более 1 млрд сумов или достигшие установленного порога в течение года, переходят к уплате общеустановленных налогов.</p><p><a data-anchor="/document/16/203680/dfas751987/" data-dfa="dfas751987"></a><a data-anchor="/document/16/203680/bssPhr2/"></a>НДС на добровольной основе уплачивают плательщики ЕНП – юрлица по всем осуществляемым видам деятельности.</p><p><a data-anchor="/document/16/203680/dfasf676i8/" data-dfa="dfasf676i8"></a><a data-anchor="/document/16/203680/bssPhr3/"></a>Для перехода на уплату НДС юрлица не позднее одного месяца до начала отчетного периода, а вновь созданные – до начала осуществления деятельности представляют письменное уведомление в налоговую службу по месту налогового учета.</p><p><a data-anchor="/document/16/203680/dfasgsvug0/" data-dfa="dfasgsvug0"></a><a data-anchor="/document/16/203680/bssPhr4/"></a>Микрофирмам и малым предприятиям, перешедшим на уплату НДС на добровольной основе, предоставляется право уменьшать ЕНП на сумму уплачиваемого в бюджет НДС, но не более чем на 50 процентов от начисленной суммы ЕНП.</p><p><a data-anchor="/document/16/203680/dfasm0agi9/" data-dfa="dfasm0agi9"></a><a data-anchor="/document/16/203680/bssPhr5/"></a>Наблюдается тенденция, когда малые предприятия добровольно (или по уговорам партнеров) переходят на уплату НДС, если они осуществляют облагаемый оборот, согласно <a data-anchor="/document/16/203680/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/20918/dfaspgi8gy/" class="link npd" title="Оборот по реализации товаров (работ, услуг)" moduleId="90" documentId="20918" anchor="dfaspgi8gy">статье 199</a> НК.</p><a data-anchor="/document/16/203680/dfasit8ox2/" data-dfa="dfasit8ox2"></a><a data-anchor="/document/16/203680/bssPhr6/"></a><a data-anchor="/document/16/203680/tit0/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Каким предприятиям выгоден добровольный переход на уплату НДС</h2><p><a data-anchor="/document/16/203680/dfas1xrpfm/" data-dfa="dfas1xrpfm"></a><a data-anchor="/document/16/203680/bssPhr7/"></a>В ходе ведения хозяйственной деятельности малые предприятия зачастую осуществляют торговые операции с крупными предприятиями, которые уплачивают НДС. Стоимость товаров, приобретаемых у крупных предприятий, включает НДС. При приобретении сырья и материалов по стоимости с НДС малые предприятия относят затраты по налогу на себестоимость производимой продукции.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203680/dfas1dsrqy/" data-dfa="dfas1dsrqy"></a><a data-anchor="/document/16/203680/bssPhr8/"></a>Малое предприятие – производитель хлопчатобумажной пряжи – плательщик ЕНП, не уплачивающий НДС, приобрело 100 тыс. тонн хлопкового волокна на сумму 120&nbsp;000&nbsp;000 сумов, где НДС составляет 20&nbsp;000&nbsp;000 сумов (120,0 × 20 ÷ 120). Хлопковое волокно включается в затраты производства по цене приобретения с учетом НДС, то есть по стоимости равной 120&nbsp;000&nbsp;000 сумов.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203680/dfaso1bhus/" data-dfa="dfaso1bhus"></a><a data-anchor="/document/16/203680/bssPhr9/"></a>Себестоимость произведенной хлопчатобумажной пряжи составит 150&nbsp;000&nbsp;000 сумов, снабженческо-сбытовая наценка – 15&nbsp;000&nbsp;000 сумов, итого сумма реализации – 165&nbsp;000&nbsp;000 сумов. Сумма ЕНП в этом случае составит 165&nbsp;000&nbsp;000 × 4% = 6&nbsp;600&nbsp;000 сумов.</p><p><a data-anchor="/document/16/203680/dfasb10qcf/" data-dfa="dfasb10qcf"></a><a data-anchor="/document/16/203680/bssPhr10/"></a>Допустим, что предприятие перешло на добровольную уплату НДС. В этом случае на затраты производства будет отнесено 100&nbsp;000&nbsp;000 сумов (120 – (120 × 20 ÷ 120)), а сумму НДС в размере 20&nbsp;000&nbsp;000 сумов относят в зачет при расчете НДС, подлежащего взносу в бюджет, в счет уменьшения.</p><p><a data-anchor="/document/16/203680/dfasrkggm2/" data-dfa="dfasrkggm2"></a><a data-anchor="/document/16/203680/bssPhr11/"></a>При производстве хлопчатобумажной пряжи себестоимость составит 130&nbsp;000&nbsp;000 сумов (150 – 20) плюс наценка 15&nbsp;000&nbsp;000 сумов, и предприятие должно будет произвести начисление НДС в сумме 29,0 млн сумов с суммы реализации 145&nbsp;000&nbsp;000 сумов (130 + 15 = 145 × 20%).</p><p><a data-anchor="/document/16/203680/dfas68k2f3/" data-dfa="dfas68k2f3"></a><a data-anchor="/document/16/203680/bssPhr12/"></a>Итого с учетом начисленного НДС сумма реализации составит 145&nbsp;000&nbsp;000 + 29&nbsp;000&nbsp;000 = 174&nbsp;000&nbsp;000 сумов.</p><p><a data-anchor="/document/16/203680/dfas7wnfpz/" data-dfa="dfas7wnfpz"></a><a data-anchor="/document/16/203680/bssPhr13/"></a>Сумма НДС для уплаты в бюджет определяется как разница между суммой начисленного налога на облагаемый оборот и суммой налога, подлежащего отнесению в зачет и составит 9&nbsp;000&nbsp;000 сумов (29&nbsp;000&nbsp;000 – 20&nbsp;000&nbsp;000).</p><p><a data-anchor="/document/16/203680/dfassv5377/" data-dfa="dfassv5377"></a><a data-anchor="/document/16/203680/bssPhr14/"></a>Расчет суммы ЕНП данное предприятие будет производить следующим образом:</p><p><a data-anchor="/document/16/203680/dfase78odl/" data-dfa="dfase78odl"></a><a data-anchor="/document/16/203680/bssPhr15/"></a>От объема валовой выручки отнимают сумму начисленного НДС (то есть 174&nbsp;000&nbsp;000 – 29&nbsp;000&nbsp;000), затем производят исчисление ЕНП по ставке 4 процента, сумма которого составит 5&nbsp;800&nbsp;000 сумов. </p><p><a data-anchor="/document/16/203680/dfasf3lscx/" data-dfa="dfasf3lscx"></a><a data-anchor="/document/16/203680/bssPhr16/"></a>При уплате ЕНП это предприятие может уменьшить сумму исчисленного единого платежа на сумму уплачиваемого в бюджет НДС, но не более чем на 50 процентов от суммы ЕНП (ст. 360 НК).</p><p><a data-anchor="/document/16/203680/dfas7blu2v/" data-dfa="dfas7blu2v"></a><a data-anchor="/document/16/203680/bssPhr17/"></a>Сумма НДС, подлежащего уплате в бюджет, составляет 9&nbsp;000&nbsp;000 сумов.</p><p><a data-anchor="/document/16/203680/dfasnm3yos/" data-dfa="dfasnm3yos"></a><a data-anchor="/document/16/203680/bssPhr18/"></a>50 процентов от начисленной суммы ЕНП в нашем примере составляет 2&nbsp;900&nbsp;000 сумов (5&nbsp;800 000 × 50% ÷ 100).</p><p><a data-anchor="/document/16/203680/dfasphath7/" data-dfa="dfasphath7"></a><a data-anchor="/document/16/203680/bssPhr19/"></a>Исходя из этого, предприятие имеет право уменьшить ЕНП, уплачиваемый в бюджет, на сумму 2 900 000 сумов.</p><p><a data-anchor="/document/16/203680/dfasbdovfk/" data-dfa="dfasbdovfk"></a><a data-anchor="/document/16/203680/bssPhr20/"></a>Итого сумма уплаты налогов в бюджет составит 11&nbsp;900 000 сумов (9&nbsp;000 000 (НДС) + 2&nbsp;900 000 (ЕНП)).</p><p><a data-anchor="/document/16/203680/dfasnef03w/" data-dfa="dfasnef03w"></a><a data-anchor="/document/16/203680/bssPhr21/"></a>Каков предварительный финансовый результат предприятия:</p><p><a data-anchor="/document/16/203680/dfasnaqt7h/" data-dfa="dfasnaqt7h"></a><a data-anchor="/document/16/203680/bssPhr22/"></a>В первом случае: Чистая выручка 165&nbsp;000&nbsp;000 сумов – себестоимость 150&nbsp;000&nbsp;000 сумов – сумма ЕНП 6&nbsp;600 000 сумов = прибыль 8&nbsp;400 000 сумов.</p><p><a data-anchor="/document/16/203680/dfasxxvetx/" data-dfa="dfasxxvetx"></a><a data-anchor="/document/16/203680/bssPhr23/"></a>Во втором случае: Чистая выручка 145&nbsp;000&nbsp;000 сумов – себестоимость 130&nbsp;000&nbsp;000 сумов – сумма ЕНП 2&nbsp;900 000 сумов = прибыль 12&nbsp;100 000 сумов.</p></div></div><p><a data-anchor="/document/16/203680/dfasx2grmo/" data-dfa="dfasx2grmo"></a><a data-anchor="/document/16/203680/bssPhr24/"></a>Как видно из этого упрощенного примера (без учета других налогов и обязательных платежей, уплачиваемых плательщиками ЕНП), в случае добровольной уплаты НДС, предприятие – плательщик ЕНП имеет реальную возможность повысить рентабельность производства через снижение себестоимости производимой продукции путем принятия в зачет суммы НДС по сырью и материалам, приобретенным у крупных предприятий с учетом НДС. </p><p><a data-anchor="/document/16/203680/dfasgbz4z8/" data-dfa="dfasgbz4z8"></a><a data-anchor="/document/16/203680/bssPhr25/"></a>Если плательщики ЕНП в основном работают с плательщиками НДС и зачитываемая сумма НДС большая, таким плательщикам ЕНП целесообразно добровольно перейти к уплате НДС. </p><p><a data-anchor="/document/16/203680/dfaswk10iy/" data-dfa="dfaswk10iy"></a><a data-anchor="/document/16/203680/bssPhr26/"></a>Из приведенных примеров видно, что в добровольном переходе на уплату НДС есть один существенный недостаток – подорожание товара. Если в первом случае реализовали товар на сумму 165&nbsp;000&nbsp;000 сумов, то во втором – 174&nbsp;000&nbsp;000 сумов. Однако подорожание товара возмещается за счет покупателя. </p><p><a data-anchor="/document/16/203680/dfasv7o97q/" data-dfa="dfasv7o97q"></a><a data-anchor="/document/16/203680/bssPhr27/"></a>Если малые предприятия, перешедшие на уплату НДС на добровольной основе, экспортируют товары за иностранную валюту, то оборот по экспорту у них облагается НДС по нулевой ставке.</p><p><a data-anchor="/document/16/203680/dfasgnsvtu/" data-dfa="dfasgnsvtu"></a><a data-anchor="/document/16/203680/bssPhr28/"></a>При применении нулевой ставки, сумма НДС по материальным ресурсам, используемым для облагаемого оборота по нулевой ставке, принимается к зачету, то есть относится на расчеты с бюджетом. При этом, в случае превышения суммы НДС относимого в зачет, над суммой начисленного налога предприятие имеет возможность, при отсутствии задолженностей по другим видам налогов, вернуть из бюджета данную сумму. Казначейство Министерства финансов возвращает излишне уплаченные суммы налогов после представления заключения на возврат налоговой службой на основании письменного заявления налогоплательщика, в том числе направленного через его персональный кабинет, в течение пятнадцати рабочих дней с даты подачи заявления о возврате (<a data-anchor="/document/16/203680/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas88uz38/" class="link npd" title="Возврат излишне уплаченных сумм налогов" moduleId="90" documentId="20918" anchor="dfas88uz38">ст. 57</a> НК).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name fixed="0"><a data-anchor="/document/16/203680/dfasf09oqh/" data-dfa="dfasf09oqh"></a><a data-anchor="/document/16/203680/bssPhr29/"></a>Предприятие приобрело 100 тыс. тонн хлопкового волокна на сумму 120&nbsp;000&nbsp;000 сумов, где НДС составляет 20&nbsp;000&nbsp;000 сумов (120&nbsp;000&nbsp;000 × 20 ÷ 120).</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/203680/dfas85fwn3/" data-dfa="dfas85fwn3"></a><a data-anchor="/document/16/203680/bssPhr30/"></a>В данном случае на затраты производства будет отнесено 100&nbsp;000&nbsp;000 сумов (120 – (120 × 20 ÷ 120)), а сумма НДС в размере 20&nbsp;000&nbsp;000 сум относится в зачет в счет уменьшения НДС, подлежащего взносу в бюджет.</p><p><a data-anchor="/document/16/203680/dfassb0yw7/" data-dfa="dfassb0yw7"></a><a data-anchor="/document/16/203680/bssPhr31/"></a>Оборот по реализации товаров на экспорт за иностранную валюту составляет 130&nbsp;000&nbsp;000 сумов с начислением НДС по нулевой ставке (т.е. сумма НДС составит 0 сумов).</p><p><a data-anchor="/document/16/203680/dfasrskdit/" data-dfa="dfasrskdit"></a><a data-anchor="/document/16/203680/bssPhr32/"></a>Сумму НДС для уплаты в бюджет определяют как разницу между суммой начисленного налога на облагаемый оборот (0 сумов) и суммой налога, подлежащего отнесению в зачет (20&nbsp;000&nbsp;000 сумов). В результате этого расчета образуется сумма превышения НДС, образовавшаяся за счет применения нулевой ставки, которая составит – 20&nbsp;000&nbsp;000 сумов (0 - 20).</p><p><a data-anchor="/document/16/203680/dfas4kfk9n/" data-dfa="dfas4kfk9n"></a><a data-anchor="/document/16/203680/bssPhr33/"></a>С объема валовой выручки (т.е. с суммы 130&nbsp;000&nbsp;000 сумов) исчисляется ЕНП по ставке 4 процента, сумма которого составит 5&nbsp;200 000 сумов. </p><p><a data-anchor="/document/16/203680/dfasffumox/" data-dfa="dfasffumox"></a><a data-anchor="/document/16/203680/bssPhr34/"></a>Учитывая, что образовавшаяся сумма НДС подлежит не к уплате, а к возвращению из бюджета, то при уплате ЕНП предприятие не может уменьшить сумму исчисленного единого платежа на сумму уплачиваемого НДС в бюджет более чем на 50 процентов от суммы ЕНП (<a data-anchor="/document/16/203680/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/20918/dfastwbph1/" class="link npd" title="Порядок исчисления, представления расчетов и уплаты единого налогового платежа" moduleId="90" documentId="20918" anchor="dfastwbph1">ст. 360</a> НК). В результате предприятию необходимо уплатить ЕНП в сумме 5&nbsp;200 000 сумов.</p><p><a data-anchor="/document/16/203680/dfasu8o3zk/" data-dfa="dfasu8o3zk"></a><a data-anchor="/document/16/203680/bssPhr35/"></a> </p><p><a data-anchor="/document/16/203680/dfaszswi8z/" data-dfa="dfaszswi8z"></a><a data-anchor="/document/16/203680/bssPhr36/"></a>Кроме этого, сумма НДС в размере 20&nbsp;000 000 сумов подлежит возврату из бюджета в соответствии со статьями <a data-anchor="/document/16/203680/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasq46d3w/" class="link npd" title="Взаимоотношения с бюджетом в случае превышения суммы налога, относимого в зачет, над суммой начисленного налога за отчетный период" moduleId="90" documentId="20918" anchor="dfasq46d3w">227</a>-<a data-anchor="/document/16/203680/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas8wdonh/" class="link npd" title="Порядок возврата суммы налога" moduleId="90" documentId="20918" anchor="dfas8wdonh">228</a> НК. </p><p><a data-anchor="/document/16/203680/dfas6ea6mg/" data-dfa="dfas6ea6mg"></a><a data-anchor="/document/16/203680/bssPhr37/"></a>НДС возвращают в следующей очередности:</p><p><a data-anchor="/document/16/203680/dfas6rvmok/" data-dfa="dfas6rvmok"></a><a data-anchor="/document/16/203680/bssPhr38/"></a>в первую очередь – в счет погашения суммы НДС, подлежащего уплате в соответствии со статьей 207 НК, если имеются такие обороты;</p><p><a data-anchor="/document/16/203680/dfas78pw28/" data-dfa="dfas78pw28"></a><a data-anchor="/document/16/203680/bssPhr39/"></a>во вторую очередь – в счет погашения имеющейся у налогоплательщика налоговой задолженности по другим налогам, в том числе и по ЕНП, если плательщик ЕНП уплачивает НДС на добровольной основе;</p><p><a data-anchor="/document/16/203680/dfas0qkxen/" data-dfa="dfas0qkxen"></a><a data-anchor="/document/16/203680/bssPhr40/"></a>в третью очередь – при отсутствии у налогоплательщика задолженности по налогам оставшаяся сумма НДС перечисляется в виде денежных средств на банковский счет налогоплательщика в соответствии со статьей <a data-anchor="/document/16/203680/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas8wdonh/" class="link npd" title="Порядок возврата суммы налога" moduleId="90" documentId="20918" anchor="dfas8wdonh">228</a> НК и согласно Положению о возврате налогоплательщикам суммы превышения по налогу на добавленную стоимость, образовавшейся в результате применения нулевой ставки (рег. № 1807 от 16.05.2005).</p></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

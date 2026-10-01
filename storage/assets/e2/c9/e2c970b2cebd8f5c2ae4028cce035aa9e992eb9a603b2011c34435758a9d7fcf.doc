@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как провести слияние ООО</h2><div class="doc-snippet"><a data-anchor="/document/16/218465/dfaskvs7ky/" data-dfa="dfaskvs7ky"></a><a data-anchor="/document/16/218465/bssPhr3/"></a>При слиянии возникает новая организация, которой передают все права и&nbsp;обязанности двух или нескольких юрлиц. Все компании, которые участвуют в&nbsp;слиянии, прекращают свою деятельность. О&nbsp;том, что служит для этого основанием, как уведомить кредиторов, какие документы предоставить при регистрации, как сформировать финансовую отчетность и&nbsp;какие будут правовые последствия&nbsp;— читайте в&nbsp;рекомендации. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/218465/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218465/bssPhr4/"></a><a data-anchor="/document/16/218465/dfasxn4upm/" data-dfa="dfasxn4upm"></a>Основание для реорганизации ООО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218465/bssPhr7/"></a><a data-anchor="/document/16/218465/dfasyx9gcx/" data-dfa="dfasyx9gcx"></a>Если после реорганизации вы&nbsp;хотите получить одно единое общество и&nbsp;закрыть действующие, то&nbsp;проведите <span num="1" lnktype="intlnk" title="Слияние ООО" class="doc">слияние обществ</span>. Основанием служит решение общего собрания участников о&nbsp;слиянии обществ. При слиянии работники ликвидированных обществ с&nbsp;их&nbsp;согласия продолжат работать в&nbsp;новом обществе.</p><p><a data-anchor="/document/16/218465/bssPhr9/"></a><a data-anchor="/document/16/218465/dfasopr0l6/" data-dfa="dfasopr0l6"></a>Если после реорганизации вы&nbsp;хотите получить одно единое общество и&nbsp;закрыть действующие, то&nbsp;проведите <span num="51" target="_self" lnktype="intlnk" title="" class="doc">слияние обществ</span>. Основанием служит решение общего собрания участников о&nbsp;слиянии обществ. При слиянии работники ликвидированных обществ с&nbsp;их&nbsp;согласия продолжат работать в&nbsp;новом обществе.</p><p><a data-anchor="/document/16/218465/bssPhr10/"></a><a data-anchor="/document/16/218465/dfasyyb8bq/" data-dfa="dfasyyb8bq"></a>Перед тем, как начать процедуру слияния проведите общее собрание участников. Каждое юрлицо, которое участвует в&nbsp;слиянии, выносит на&nbsp;общее собрание вопросы о&nbsp;слиянии общества, об&nbsp;утверждении договора слияния, устава нового юрлица, передаточного акта. Данное требование вытекает из&nbsp;пункта&nbsp;28&nbsp;<span num="130" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>.</p><p><a data-anchor="/document/16/218465/bssPhr11/"></a><a data-anchor="/document/16/218465/dfas02yfcv/" data-dfa="dfas02yfcv"></a><a data-anchor="/document/16/218465/dfasaym06i/" data-dfa="dfasaym06i"></a>Затем лица, принявшие решение о&nbsp;реорганизации: в&nbsp;частных предприятиях&nbsp;— собственник, а&nbsp;в&nbsp;остальных&nbsp;— учредители или другой представительный орган, уполномоченный на&nbsp;подобные действия, утверждают решение. Утверждение должно проходить в&nbsp;рамках общего собрания участников юрлица и&nbsp;оформлено протоколом. В&nbsp;протоколе указывают:</p><ul class="c-list"><li><a data-anchor="/document/16/218465/bssPhr12/"></a><a data-anchor="/document/16/218465/dfastamcfc/" data-dfa="dfastamcfc"></a>сроки проведения инвентаризации;</li><li><a data-anchor="/document/16/218465/dfasxkmyv2/" data-dfa="dfasxkmyv2"></a>способ оценки имущества, передаваемого новому предприятию;</li><li>порядок распределения чистой прибыли реорганизуемых предприятий;</li><li><a data-anchor="/document/16/218465/dfaszxar4o/" data-dfa="dfaszxar4o"></a>порядок формирования и&nbsp;величину уставного фонда вновь созданного предприятия.</li></ul><p><a data-anchor="/document/16/218465/bssPhr13/"></a><a data-anchor="/document/16/218465/dfasaleiv2/" data-dfa="dfasaleiv2"></a><strong>Последовательность реорганизации в&nbsp;форме слияния</strong></p><div class="iframe"><iframe allowfullscreen="" frameborder="0" src="/interactive/doc/c66f054d-1cfe-49b2-a066-56196b491fe6/index.html" data-itype="poster" data-moduleId="238" data-id="57" style="min-height:400px" width="100%"></iframe></div></div><a data-anchor="/document/16/218465/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218465/bssPhr14/"></a><a data-anchor="/document/16/218465/dfasglx9ux/" data-dfa="dfasglx9ux"></a>Уведомление кредиторов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:59pt"><a data-anchor="/document/16/218465/bssPhr16/"></a><a data-anchor="/document/16/218465/dfas9vpo05/" data-dfa="dfas9vpo05"></a>С&nbsp;даты принятия решения о&nbsp;слиянии последним из&nbsp;обществ, участвующих в&nbsp;слиянии, каждое из&nbsp;реорганизуемых предприятий должно в&nbsp;течение 30&nbsp;дней уведомить своих контрагентов о&nbsp;начале реорганизации. Это вытекает из&nbsp;подпункта г&nbsp;пункта&nbsp;<span num="119" target="_self" lnktype="intlnk" title="" class="doc">11</span>&nbsp;НСБУ №&nbsp;23&nbsp;и <span num="85" target="_self" lnktype="intlnk" title="" class="doc">статья&nbsp;52</span>&nbsp;ГК</p><p><a data-anchor="/document/16/218465/bssPhr17/"></a><a data-anchor="/document/16/218465/dfasvgpmv2/" data-dfa="dfasvgpmv2"></a>Опубликуйте на&nbsp;ЕПИГУ сообщение о&nbsp;реорганизации для ознакомления кредиторов. При этом публикация указанного сообщения в&nbsp;печатных СМИ не&nbsp;нужна (<span num="16" target="_self" lnktype="intlnk" title="" class="doc">постановление</span> Президента Республики Узбекистан от&nbsp;28.10.2016 №&nbsp;2646).</p><p><a data-anchor="/document/16/218465/bssPhr18/"></a><a data-anchor="/document/16/218465/dfasxpflsd/" data-dfa="dfasxpflsd"></a>Кредиторы, в&nbsp;течение 30&nbsp;дней с&nbsp;даты их&nbsp;оповещения или публикации объявления о&nbsp;реорганизации, могут потребовать досрочного исполнения обязательства и&nbsp;возмещения убытков. Такой порядок установлен в <span num="17" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;52</span>&nbsp;ГК.</p></div><a data-anchor="/document/16/218465/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218465/bssPhr19/"></a><a data-anchor="/document/16/218465/dfasbymcy1/" data-dfa="dfasbymcy1"></a>Инвентаризация</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:59pt"><a data-anchor="/document/16/218465/bssPhr21/"></a><a data-anchor="/document/16/218465/dfas4hwayl/" data-dfa="dfas4hwayl"></a><a data-anchor="/document/16/218465/dfasxqehnf/" data-dfa="dfasxqehnf"></a>Инвентаризацию проводит каждое реорганизуемое предприятие для того, чтобы определить активы и&nbsp;обязательства, которые будут переданы новому предприятию. Срок проведения инвентаризации определяют учредители в&nbsp;протоколе о&nbsp;реорганизации. Инвентаризацию проводите в&nbsp;соответствии с&nbsp;правилами НСБУ №&nbsp;19. При инвентаризации проверьте:</p><ul class="c-list"><li><a data-anchor="/document/16/218465/bssPhr22/"></a><a data-anchor="/document/16/218465/dfashb5qht/" data-dfa="dfashb5qht"></a>все имущество;</li><li>дебиторскую и&nbsp;кредиторскую задолженности;</li><li>наличие документов, подтверждающих право собственности на&nbsp;объекты недвижимости и&nbsp;на&nbsp;право пользования нематериальными активами.</li></ul><p><a data-anchor="/document/16/218465/bssPhr23/"></a><a data-anchor="/document/16/218465/dfascprayf/" data-dfa="dfascprayf"></a><a data-anchor="/document/16/218465/dfasfrvy31/" data-dfa="dfasfrvy31"></a>Если обнаружены расхождения между данными бухучета и&nbsp;данными инвентаризации, внесите корректировки в&nbsp;бухучет (<span num="120" target="_self" lnktype="intlnk" title="" class="doc">глава&nbsp;5</span>&nbsp;НСБУ №&nbsp;19). Описи и&nbsp;акты инвентаризации по&nbsp;передаваемому имуществу и&nbsp;обязательствам, приложите к&nbsp;передаточному акту.</p></div><a data-anchor="/document/16/218465/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218465/bssPhr24/"></a><a data-anchor="/document/16/218465/dfasbdr0m4/" data-dfa="dfasbdr0m4"></a>Заключительная финансовая отчетность</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218465/bssPhr26/"></a><a data-anchor="/document/16/218465/dfasm90f3g/" data-dfa="dfasm90f3g"></a>Каждое из&nbsp;реорганизуемых предприятий продолжает свою деятельность и&nbsp;ведет учет операций до&nbsp;внесения записи о&nbsp;вновь созданном предприятии в&nbsp;Единый государственный реестр субъектов предпринимательства (ЕГРСП). Все эти операции учитываются при составлении заключительной отчетности (п.&nbsp;21, п.&nbsp;29&nbsp;<span num="132" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>).</p><p><a data-anchor="/document/16/218465/bssPhr27/"></a><a data-anchor="/document/16/218465/dfasc7d01c/" data-dfa="dfasc7d01c"></a>Реорганизуемые предприятия расходы, связанные с&nbsp;реорганизацией, отражают в&nbsp;бухучете на&nbsp;счете 9430 как прочие операционные расходы (п.&nbsp;25&nbsp;<span num="133" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>). В <span num="23" target="_self" lnktype="intlnk" title="" class="doc">отчете о&nbsp;финансовых результатах</span> по&nbsp;форме №&nbsp;2, раскрывайте их&nbsp;по&nbsp;строке <strong>«Прочие операционные расходы» </strong> (п.&nbsp;25&nbsp;<span num="134" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>).</p><p><a data-anchor="/document/16/218465/bssPhr28/"></a><a data-anchor="/document/16/218465/dfas2x24ea/" data-dfa="dfas2x24ea"></a>При подготовке финансовой отчетности нужно определить в&nbsp;какой оценке будут передаваться активы и&nbsp;обязательства правопреемнику-новому предприятию. Способ оценки определяют учредители в&nbsp;протоколе о&nbsp;реорганизации. Виды, применяемых оценок имущества, определены в&nbsp;приложении к&nbsp;<span num="135" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>.</p><p><a data-anchor="/document/16/218465/bssPhr29/"></a><a data-anchor="/document/16/218465/dfas0oocou/" data-dfa="dfas0oocou"></a><a data-anchor="/document/16/218465/dfas6prxd5/" data-dfa="dfas6prxd5"></a><a data-anchor="/document/16/218465/dfasstrogi/" data-dfa="dfasstrogi"></a>Если при оценке активов возникли отклонения, их&nbsp;реорганизуемые предприятия отражают на&nbsp;счетах учета прочих доходов или расходов (п.&nbsp;26&nbsp;<span num="136" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>). Обязательства реорганизуемые предприятия передают правопреемнику в&nbsp;сумме, отраженной в&nbsp;бухучете по&nbsp;результатам инвентаризации (п.&nbsp;18&nbsp;<span num="137" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>). Передача активов и&nbsp;обязательств новому предприятию при реорганизации не&nbsp;является реализацией (<span num="28" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;238&nbsp;НК).</p><p><a data-anchor="/document/16/218465/bssPhr30/"></a><a data-anchor="/document/16/218465/dfas1dhheq/" data-dfa="dfas1dhheq"></a><a data-anchor="/document/16/218465/dfasgo12a5/" data-dfa="dfasgo12a5"></a>До&nbsp;составления заключительной финансовой отчетности, каждое реорганизуемое предприятие должно закрыть счета учета доходов и&nbsp;расходов, и&nbsp;направить чистую прибыль на&nbsp;цели, определенные в&nbsp;договоре учредителей о&nbsp;слиянии (п.&nbsp;29&nbsp;<span num="138" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>). Заключительная финансовая отчетность состоит&nbsp;из:</p><ul class="c-list"><li><a data-anchor="/document/16/218465/bssPhr31/"></a><a data-anchor="/document/16/218465/dfas7vbh9f/" data-dfa="dfas7vbh9f"></a>Бухгалтерского баланса&nbsp;— форма №&nbsp;1</li><li><span num="30" target="_self" lnktype="intlnk" title="" class="doc">Отчета о&nbsp;финансовых результатах</span>&nbsp;— форма №&nbsp;2</li><li>Отчета о&nbsp;денежных потоках&nbsp;— форма №&nbsp;4</li><li>Отчета о&nbsp;собственном капитале&nbsp;— форма №&nbsp;5</li></ul><p><a data-anchor="/document/16/218465/bssPhr32/"></a><a data-anchor="/document/16/218465/dfas2g158e/" data-dfa="dfas2g158e"></a>Заключительная финансовая отчетность малых предприятий и&nbsp;микрофирм состоит только из&nbsp;Бухгалтерского баланса&nbsp;— форма №&nbsp;1&nbsp;и&nbsp;Отчета о&nbsp;финансовых результатах&nbsp;— форма №&nbsp;2. Это те&nbsp;формы, которые предусмотрены для годовой финансовой отчетности (<span num="31" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>, <span num="32" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;4</span>, <span num="33" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;5</span>&nbsp;Правил, утв. приказом Минфина от&nbsp;24.01.2003 №&nbsp;1209).</p><p><a data-anchor="/document/16/218465/bssPhr33/"></a><a data-anchor="/document/16/218465/dfas25lohx/" data-dfa="dfas25lohx"></a>В&nbsp;пояснительную записку к&nbsp;финансовой отчетности предприятия, прекратившего свое существование, включите:</p><ul class="c-list"><li><a data-anchor="/document/16/218465/bssPhr34/"></a><a data-anchor="/document/16/218465/dfasrwg3to/" data-dfa="dfasrwg3to"></a>основания для проведения реорганизации;</li><li>документы по&nbsp;передаче имущества и&nbsp;обязательств правопреемнику;</li><li>документы, подтверждающие закрытие предприятий;</li><li>сведения о&nbsp;снятии с&nbsp;учета налоговыми органами, территориальными органами статистики.</li></ul><p><a data-anchor="/document/16/218465/bssPhr35/"></a><a data-anchor="/document/16/218465/dfaszdcth5/" data-dfa="dfaszdcth5"></a><a data-anchor="/document/16/218465/dfasn7lnc7/" data-dfa="dfasn7lnc7"></a>Финансовую отчетность составляйте с&nbsp;начала отчетного года и&nbsp;до&nbsp;даты внесения в&nbsp;ЕГРСП записи о&nbsp;вновь созданном предприятии. Если, с&nbsp;даты составления заключительной финансовой отчетности и&nbsp;до&nbsp;даты внесения в&nbsp;ЕГРСП записи о&nbsp;вновь созданном предприятии осуществлялись еще операции, то&nbsp;их&nbsp;также отражайте в&nbsp;учете, а&nbsp;информацию о&nbsp;них укажите в&nbsp;пояснительной записке, которую приложите к&nbsp;заключительной финансовой отчетности.</p><p><a data-anchor="/document/16/218465/bssPhr36/"></a><a data-anchor="/document/16/218465/dfasmrkqpb/" data-dfa="dfasmrkqpb"></a>Налоговую отчетность составляйте с&nbsp;начала налогового периода и&nbsp;до&nbsp;даты завершения реорганизации. Такой порядок вытекает из <span num="34" target="_self" lnktype="intlnk" title="" class="doc">части&nbsp;7</span>&nbsp;статьи&nbsp;73&nbsp;НК.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как при слиянии перенести убытки реорганизуемых предприятий</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218465/bssPhr38/"></a><a data-anchor="/document/16/218465/dfaspyge5f/" data-dfa="dfaspyge5f"></a>Убыток, образованный до&nbsp;2020&nbsp;года, в&nbsp;виде превышения вычитаемых расходов над совокупным доходом по&nbsp;итогам года при расчете налога на&nbsp;прибыль можно переносить на&nbsp;будущие налоговые периоды в&nbsp;течение 5&nbsp;лет не&nbsp;более чем на&nbsp;50&nbsp;процентов налоговой базы за&nbsp;текущий налоговый период (<span num="99" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;5</span>&nbsp;ст.&nbsp;6&nbsp;ЗРУ №&nbsp;599 от&nbsp;30.12.2019).</p><p><a data-anchor="/document/16/218465/bssPhr39/"></a><a data-anchor="/document/16/218465/dfasc1z2lm/" data-dfa="dfasc1z2lm"></a>При реорганизации предприятие-правопреемник в&nbsp;том&nbsp;же порядке может уменьшать свою налогооблагаемую прибыль на&nbsp;сумму убытков, полученных реорганизованным предприятием до&nbsp;момента реорганизации. Убытки, передаваемые в&nbsp;связи с&nbsp;реорганизацией, распределяются у&nbsp;налогоплательщиков-правопреемников пропорционально удельному весу стоимости передаваемых на&nbsp;основании разделительного баланса активов (<span num="100" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;334&nbsp;НК).</p><p><a data-anchor="/document/16/218465/bssPhr40/"></a><a data-anchor="/document/16/218465/dfas7a8txt/" data-dfa="dfas7a8txt"></a>В&nbsp;случае реорганизации предприятия-правопреемника перенос убытков, полученных им&nbsp;от&nbsp;ранее прекратившего свою деятельность предприятия, дальнейшему переносу не&nbsp;подлежит (<span num="101" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;334&nbsp;НК).</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218465/dfasmd11m8/" data-dfa="dfasmd11m8"></a><a data-anchor="/document/16/218465/bssPhr41/"></a>Как уменьшить налогооблагаемую прибыль на&nbsp;сумму убытков, полученных реорганизованным предприятием до&nbsp;реорганизации</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218465/bssPhr42/"></a><a data-anchor="/document/16/218465/dfaslw1t1d/" data-dfa="dfaslw1t1d"></a>Предприятие «Альфа»&nbsp;— плательщик налога на&nbsp;прибыль и&nbsp;НДС по&nbsp;итогу 2023 года имело убыток&nbsp;— 5млн сумов.</p><p><a data-anchor="/document/16/218465/bssPhr43/"></a><a data-anchor="/document/16/218465/dfashslyeq/" data-dfa="dfashslyeq"></a>В&nbsp;2024 году в&nbsp;результате слияния с&nbsp;предприятием «Бета» оно прекратило свою деятельность, передав свои права и&nbsp;обязанности вновь созданному предприятию «Вега».</p><p><a data-anchor="/document/16/218465/bssPhr44/"></a><a data-anchor="/document/16/218465/dfasg3ws3k/" data-dfa="dfasg3ws3k"></a>Вновь созданное предприятие «Вега» выбрало общую систему налогообложения (НДС и&nbsp;прибыль).</p><p><a data-anchor="/document/16/218465/bssPhr45/"></a><a data-anchor="/document/16/218465/dfasgw20go/" data-dfa="dfasgw20go"></a>В&nbsp;соответствии со <span num="103" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;334</span>&nbsp;НК, предприятие «Вега» имеет право уменьшить налогооблагаемую прибыль на&nbsp;сумму убытков, полученных реорганизованными предприятиями в&nbsp;предыдущих годах.</p></div></div></div><a data-anchor="/document/16/218465/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218465/bssPhr46/"></a><a data-anchor="/document/16/218465/dfasq89pio/" data-dfa="dfasq89pio"></a>Передаточный акт</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:59pt"><a data-anchor="/document/16/218465/bssPhr48/"></a><a data-anchor="/document/16/218465/dfashfh7a6/" data-dfa="dfashfh7a6"></a>Каждое реорганизуемое предприятие должно передать правопреемнику-новому предприятию все учетные документы, по&nbsp;которым не&nbsp;истек срок хранения. Обязательства по&nbsp;дальнейшему хранению этих документов возлагаются на&nbsp;новое предприятие (<span num="71" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;79&nbsp;НК).</p><p><a data-anchor="/document/16/218465/bssPhr49/"></a><a data-anchor="/document/16/218465/dfas6u4g9l/" data-dfa="dfas6u4g9l"></a>В&nbsp;передаточном акте реорганизуемые предприятия отражают не&nbsp;просто данные по&nbsp;счетам бухучета, а&nbsp;полную информацию о&nbsp;своих правах и&nbsp;обязанностях, обязательства всех кредиторов и&nbsp;дебиторов, в&nbsp;том числе и&nbsp;оспариваемые (п.&nbsp;11&nbsp;<span num="121" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>, <span num="37" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;51</span>&nbsp;ГК). В&nbsp;связи с&nbsp;этим закройте контрактивные, контрпассивные и&nbsp;оценочные счета. Чтобы составить заключительную финансовую отчетность надо иметь сальдо только по&nbsp;счетам учета имущества и&nbsp;обязательств (п.&nbsp;21&nbsp;<span num="122" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>).</p><p><a data-anchor="/document/16/218465/bssPhr50/"></a><a data-anchor="/document/16/218465/dfasgsp07u/" data-dfa="dfasgsp07u"></a><a data-anchor="/document/16/218465/dfasw7l68f/" data-dfa="dfasw7l68f"></a>В&nbsp;передаточном акте реорганизуемые предприятия отражают список документов, которые передают правопреемнику, а&nbsp;также данные из&nbsp;заключительной фин. отчетности. К&nbsp;передаточному акту приложите:</p><ul class="c-list"><li><a data-anchor="/document/16/218465/bssPhr51/"></a><a data-anchor="/document/16/218465/dfass9vnoc/" data-dfa="dfass9vnoc"></a>финансовую отчетность, в&nbsp;которой должны быть отражены активы и&nbsp;обязательства в&nbsp;оценке на&nbsp;последнюю отчетную дату перед их&nbsp;передачей;</li><li>акты и&nbsp;описи инвентаризации;</li><li>первичные документы по&nbsp;материальным и&nbsp;нематериальным активам, перечни или описи других активов, которые подлежат приему-передаче;</li><li>расшифровки дебиторской и&nbsp;кредиторской задолженностей;</li><li>расшифровки расчетов с&nbsp;бюджетом, государственными целевыми фондами и&nbsp;др.</li></ul><p><a data-anchor="/document/16/218465/bssPhr52/"></a><a data-anchor="/document/16/218465/dfaszomfv2/" data-dfa="dfaszomfv2"></a>Завершающий этап процедуры слияния&nbsp;— регистрация нового общества в&nbsp;Центре госуслуг. Это вытекает из <span num="39" target="_self" lnktype="intlnk" title="" class="doc">приложения №&nbsp;1</span>&nbsp;к постановлению Кабмина от&nbsp;09.02.2017 №&nbsp;66.</p></div><a data-anchor="/document/16/218465/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/218465/bssPhr53/"></a><a data-anchor="/document/16/218465/dfasi7so4q/" data-dfa="dfasi7so4q"></a>Порядок госрегистрации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218465/bssPhr55/"></a><a data-anchor="/document/16/218465/dfasp4thrm/" data-dfa="dfasp4thrm"></a><a data-anchor="/document/16/218465/dfasdifui9/" data-dfa="dfasdifui9"></a><a data-anchor="/document/16/218465/dfastphd34/" data-dfa="dfastphd34"></a><a data-anchor="/document/16/218465/dfas3e4h9u/" data-dfa="dfas3e4h9u"></a>Госрегистрацию проводят двумя способами, через интернет на&nbsp;ЕПИГУ и&nbsp;в&nbsp;явочном порядке. Для госрегистрации предоставьте документы:</p><ul class="c-list"><li><a data-anchor="/document/16/218465/bssPhr56/"></a><a data-anchor="/document/16/218465/dfasqh18gu/" data-dfa="dfasqh18gu"></a>заявление о&nbsp;постановке на&nbsp;государственный учет нового общества;</li><li>решение участников, реорганизуемых юрлиц о&nbsp;слиянии;</li><li>договор о&nbsp;слиянии юрлиц и&nbsp;создании нового общества;</li><li>устав вновь созданного общества;</li><li>передаточный акт с&nbsp;положением о&nbsp;правопреемстве, то&nbsp;есть о&nbsp;переходе всех обязательств перед кредиторами и&nbsp;должниками, включая и&nbsp;обязательства, оспариваемые сторонами, к&nbsp;новому обществу (<span num="40" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;51&nbsp;ГК</span>);</li><li>копию банковского платежного документа об&nbsp;уплате госпошлины.</li></ul><p><a data-anchor="/document/16/218465/bssPhr57/"></a><a data-anchor="/document/16/218465/dfasbykbfm/" data-dfa="dfasbykbfm"></a><a data-anchor="/document/16/218465/dfasrtxiri/" data-dfa="dfasrtxiri"></a>В&nbsp;явочном порядке документы на&nbsp;госрегистрацию подавайте в&nbsp;Центр госуслуг по&nbsp;месту нахождения реорганизуемых юрлиц. Но&nbsp;если место нахождения нового общества отличается от&nbsp;места нахождения реорганизуемых юрлиц, то&nbsp;по&nbsp;месту нахождения создаваемого юрлица. Далее новое предприятие открывает расчетный счет, а&nbsp;каждое реорганизуемое предприятие переводит на&nbsp;него денежные средства со&nbsp;своих расчетных счетов и&nbsp;закрывает&nbsp;их.</p></div><a data-anchor="/document/16/218465/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/218465/bssPhr58/"></a><a data-anchor="/document/16/218465/dfas97dzoe/" data-dfa="dfas97dzoe"></a>Вступительная финансовая отчетность нового предприятия</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218465/bssPhr60/"></a><a data-anchor="/document/16/218465/dfasumrflu/" data-dfa="dfasumrflu"></a>Новое предприятие начинает формировать вступительную финансовую отчетность с&nbsp;даты гос. регистрации на&nbsp;основании передаточных актов и&nbsp;заключительной финансовой отчетности реорганизованных предприятий.</p><p><a data-anchor="/document/16/218465/bssPhr61/"></a><a data-anchor="/document/16/218465/dfasdvslrz/" data-dfa="dfasdvslrz"></a>Вступительную финансовую отчетность на&nbsp;дату госрегистрации предприятия формируйте на&nbsp;основе передаточного акта и&nbsp;построчного объединения, суммирования или вычитания числовых показателей заключительных Бухгалтерских балансов (форма №&nbsp;1) реорганизованных предприятий (п.&nbsp;32&nbsp;<span num="123" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>).</p><p><a data-anchor="/document/16/218465/bssPhr62/"></a><a data-anchor="/document/16/218465/dfasy72fll/" data-dfa="dfasy72fll"></a><a data-anchor="/document/16/218465/dfas1svx0g/" data-dfa="dfas1svx0g"></a>Для ввода сальдо по&nbsp;счетам бухучета можно использовать счет 0000. При этом числовые показатели <span num="42" target="_self" lnktype="intlnk" title="" class="doc">отчетов о&nbsp;финансовых результатах</span> по&nbsp;форме №&nbsp;2&nbsp;не суммируйте.</p><p><a data-anchor="/document/16/218465/bssPhr63/"></a><a data-anchor="/document/16/218465/dfas3v48ol/" data-dfa="dfas3v48ol"></a>В&nbsp;случае совпадения должника и&nbsp;кредитора в&nbsp;одном лице, то&nbsp;есть между сторонами, участвующими в&nbsp;слиянии, во&nbsp;вступительный бухгалтерский баланс возникшего предприятия, не&nbsp;включайте:</p><ul class="c-list"><li><a data-anchor="/document/16/218465/bssPhr64/"></a><a data-anchor="/document/16/218465/dfasnm0ew9/" data-dfa="dfasnm0ew9"></a>суммы дебиторской и&nbsp;кредиторской задолженности между реорганизуемыми предприятиями, расчеты по&nbsp;дивидендам;</li><li>финансовые вложения одних реорганизуемых предприятий в&nbsp;уставные капиталы других реорганизуемых предприятий;</li><li>активы и&nbsp;обязательства, прибыль и&nbsp;убытки, характеризующие взаимные расчеты реорганизуемых предприятий.</li></ul><p><a data-anchor="/document/16/218465/bssPhr65/"></a><a data-anchor="/document/16/218465/dfas9mxkgr/" data-dfa="dfas9mxkgr"></a>Такие правила предусматривает пункт&nbsp;27&nbsp;<span num="124" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>.</p><p><a data-anchor="/document/16/218465/bssPhr66/"></a><a data-anchor="/document/16/218465/dfas5gxnl6/" data-dfa="dfas5gxnl6"></a>Во&nbsp;вступительном балансе возникшего предприятия по&nbsp;форме №&nbsp;1 (<span num="44" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;1</span>&nbsp;к приказу Минфина от&nbsp;27.12.2002 №&nbsp;140) отражайте величину уставного капитала, зафиксированную в&nbsp;договоре о&nbsp;слиянии. При условии, что в&nbsp;нем предусмотрено увеличение уставного капитала, по&nbsp;сравнению с&nbsp;суммой уставных капиталов предприятий, за&nbsp;счет:</p><ul class="c-list"><li><a data-anchor="/document/16/218465/bssPhr67/"></a><a data-anchor="/document/16/218465/dfaskp9fsd/" data-dfa="dfaskp9fsd"></a>собственных источников участвующих в&nbsp;слиянии;</li><li>добавленного и&nbsp;резервного капитала;</li><li>нераспределенной прибыли.</li></ul><p><a data-anchor="/document/16/218465/bssPhr68/"></a><a data-anchor="/document/16/218465/dfasgyg1wd/" data-dfa="dfasgyg1wd"></a>Если предусмотрено уменьшение величины уставного капитала, то&nbsp;во&nbsp;вступительном балансе возникшего предприятия отражайте величину уставного капитала, зафиксированную в&nbsp;договоре о&nbsp;слиянии. Разницу урегулируйте в&nbsp;разделе <strong>«Источники собственных средств» </strong> числовым показателем <strong>«Добавленный капитал».</strong></p><p><a data-anchor="/document/16/218465/bssPhr69/"></a><a data-anchor="/document/16/218465/dfas5rkcdl/" data-dfa="dfas5rkcdl"></a>Если стоимость чистых активов возникшего предприятия окажется больше величины уставного капитала, то&nbsp;во&nbsp;вступительном бухгалтерском балансе в&nbsp;разделе <strong>«Обязательства» </strong> разницу отнесите в <strong>«Долгосрочные отсроченные доходы» </strong> с&nbsp;выделением текущей части на&nbsp;счете <strong>«Отсроченные доходы» </strong> (п.&nbsp;49&nbsp;<span num="125" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>).</p><p><a data-anchor="/document/16/218465/bssPhr70/"></a><a data-anchor="/document/16/218465/dfasvy64uo/" data-dfa="dfasvy64uo"></a>Когда стоимость чистых активов предприятия окажется меньше величины уставного капитала, то&nbsp;разницу отнесите в&nbsp;раздел <strong>«Долгосрочные активы» </strong> числовым показателем <strong>«Нематериальные активы» </strong> (п.&nbsp;<span num="126" target="_self" lnktype="intlnk" title="" class="doc">62</span>&nbsp;НСБУ №&nbsp;7).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218465/dfasbchhbi/" data-dfa="dfasbchhbi"></a><a data-anchor="/document/16/218465/bssPhr71/"></a>Отражения в&nbsp;учете взаимной задолженности нового предприятия</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218465/bssPhr72/"></a><a data-anchor="/document/16/218465/dfasfyc5bo/" data-dfa="dfasfyc5bo"></a>ООО «Альфа» и&nbsp;ООО «Бетта» проводят реорганизацию в&nbsp;форме слияния, в&nbsp;результате которой создается новое ООО «Гамма».</p><p><a data-anchor="/document/16/218465/bssPhr73/"></a><a data-anchor="/document/16/218465/dfas5ec522/" data-dfa="dfas5ec522"></a>В&nbsp;передаточном акте ООО «Альфа» указана дебиторская задолженность ООО «Бетта»&nbsp;— 20&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/218465/bssPhr74/"></a><a data-anchor="/document/16/218465/dfashgd9s5/" data-dfa="dfashgd9s5"></a>В&nbsp;передаточном акте ООО «Бетта» указана кредиторская задолженность перед ООО «Альфа»&nbsp;— 20&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/218465/bssPhr75/"></a><a data-anchor="/document/16/218465/dfasl844cc/" data-dfa="dfasl844cc"></a>ООО «Гамма» при составлении вступительного баланса погашает и&nbsp;не&nbsp;отражает взаимную задолженность ООО «Альфа» и&nbsp;ООО «Бетта» в&nbsp;размере 20&nbsp;000&nbsp;000&nbsp;сумов.</p></div></div></div><a data-anchor="/document/16/218465/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/218465/bssPhr76/"></a><a data-anchor="/document/16/218465/dfas5u635g/" data-dfa="dfas5u635g"></a>Правовые последствия слияния</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218465/bssPhr78/"></a><a data-anchor="/document/16/218465/dfasbtp0g8/" data-dfa="dfasbtp0g8"></a><a data-anchor="/document/16/218465/dfasqrfez9/" data-dfa="dfasqrfez9"></a>После слияния все требования к&nbsp;должникам и&nbsp;задолженности предыдущих обществ перейдут к&nbsp;новому обществу. Лицензии и&nbsp;документы разрешительного характера на&nbsp;осуществление одного и&nbsp;того&nbsp;же лицензируемого вида деятельности можно переоформить на&nbsp;новое общество (<span num="53" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;20&nbsp;Закона о&nbsp;лицензировании отдельных видов деятельности). Однако лицензии на&nbsp;различные виды деятельности прекращают действовать в&nbsp;связи с&nbsp;прекращением деятельности обществ в&nbsp;результате слияния (<span num="54" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;23&nbsp;Закона о&nbsp;лицензировании отдельных видов деятельности).</p><p><a data-anchor="/document/16/218465/bssPhr79/"></a><a data-anchor="/document/16/218465/dfaswr9kpz/" data-dfa="dfaswr9kpz"></a>Трудовые отношения работников реорганизованных предприятий, с&nbsp;их&nbsp;согласия, продолжаются с&nbsp;новым предприятием (<span num="55" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;156&nbsp;ТК</span>). Новое предприятие оформляет дополнительные соглашения к&nbsp;трудовым договорам.</p><a data-anchor="/document/16/218465/tit9/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit9"><a data-anchor="/document/16/218465/bssPhr80/"></a><a data-anchor="/document/16/218465/dfas699gx5/" data-dfa="dfas699gx5"></a>Кто будет правопреемником предприятия после слияния</h3><p><a data-anchor="/document/16/218465/bssPhr81/"></a><a data-anchor="/document/16/218465/dfascfsn3i/" data-dfa="dfascfsn3i"></a>Если слившиеся юрлица не исполнили свои налоговые обязательства, то эти обязательства переходят к правопреемнику (<span num="156" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 92 НК). При слиянии нескольких предприятий правопреемником станет возникшее предприятие (<span num="157" target="_self" lnktype="intlnk" title="" class="doc">ч. 6</span> ст. 92 НК). Все права и обязанности переходят к созданному предприятию. Предприятие считается реорганизованным с момента госрегистрации нового предприятия (п. 8 <span num="158" target="_self" lnktype="intlnk" title="" class="doc">НСБУ № 23</span>).</p><a data-anchor="/document/16/218465/tit10/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit10"><a data-anchor="/document/16/218465/bssPhr82/"></a><a data-anchor="/document/16/218465/dfasd0n5tw/" data-dfa="dfasd0n5tw"></a>Как объединить личные кабинеты двух ООО при реорганизации в виде слияния</h3><p><a data-anchor="/document/16/218465/bssPhr83/"></a><a data-anchor="/document/16/218465/dfasx5w5tg/" data-dfa="dfasx5w5tg"></a>При реорганизации в форме слияния несколько компаний прекращают существование в качестве отдельных юридических лиц и объединяются в одну более крупную организацию. Все права и обязанности юридические лица, прекратившие свою деятельность, передают новой организации (<span num="159" target="_self" lnktype="intlnk" title="" class="doc">ст. 50</span> ГК, п. 9 <span num="160" target="_self" lnktype="intlnk" title="" class="doc">НСБУ № 23</span>). То есть при слиянии возникает новая компания, которая объединяет в себе активы и обязательства двух предыдущих ООО.</p><p><a data-anchor="/document/16/218465/bssPhr84/"></a><a data-anchor="/document/16/218465/dfasgxoirc/" data-dfa="dfasgxoirc"></a>Соответственно, личные кабинеты двух ООО, которые участвуют в слиянии, не объединяются. Для вновь созданной организации после госрегистрации открывают новый персональный кабинет.</p><p><a data-anchor="/document/16/218465/bssPhr86/"></a><a data-anchor="/document/16/218465/dfasv440ko/" data-dfa="dfasv440ko"></a>Все компании, принявшие решение о слиянии, должны передать сведения об этом в налоговые органы по месту регистрации. Компании, которые участвуют в слиянии, должны передать документы для внесения сведений в Единый государственный реестр юридических лиц о том, что на базе двух юридических лиц создается новое.</p><p><a data-anchor="/document/16/218465/bssPhr87/"></a><a data-anchor="/document/16/218465/dfasm68m4o/" data-dfa="dfasm68m4o"></a>Юридическое лицо считается реорганизованным в форме слияния с момента государственной регистрации вновь возникшего предприятия (<span num="153" target="_self" lnktype="intlnk" title="" class="doc">ст. 49</span> ГК, п. 9 <span num="154" target="_self" lnktype="intlnk" title="" class="doc">НСБУ № 23</span>).</p></div><p><a data-anchor="/document/16/218465/dfascyu59k/" data-dfa="dfascyu59k"></a><a data-anchor="/document/16/218465/bssPhr88/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882132" sourceId="1" fullSizeImageId="-41882131" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882132/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

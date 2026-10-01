@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Экспресс-курс против паники. Как работать эффективно во время пандемии</h2><div id="documentBody" class="content-common"><a data-anchor="/document/16/205468/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205468/bssPhr1/"></a><a data-anchor="/document/16/205468/dfaseqcddr/" data-dfa="dfaseqcddr"></a>Правила информационной гигиены</h3><p><a data-anchor="/document/16/205468/bssPhr2/"></a><a data-anchor="/document/16/205468/dfasbygbqf/" data-dfa="dfasbygbqf"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205468/bssPhr4/"></a><a data-anchor="/document/16/205468/dfas5cnbgm/" data-dfa="dfas5cnbgm"></a>При угрозе пандемии и массовой истерике критически важно защищать себя не только от инфекций, но и психику от информационной атаки. Степень защиты влияет не только на профессиональную карьеру и здоровье нервной системы, но и на продолжительность и качество жизни.</p><p><a data-anchor="/document/16/205468/bssPhr5/"></a><a data-anchor="/document/16/205468/dfaset7sg3/" data-dfa="dfaset7sg3"></a>Чем меньше времени и энергии вы тратите на переработку ненужной информации, тем больше ресурсов у вас остается для других важных дел. Как сохранить продуктивность работы даже в условиях нестабильности?</p><p><a data-anchor="/document/16/205468/bssPhr6/"></a><a data-anchor="/document/16/205468/dfasn8xddi/" data-dfa="dfasn8xddi"></a>Чтобы управлять хаосом, вначале защитите себя, потом команду, а после и всю компанию. Но действовать нужно безотлагательно.</p><p><a data-anchor="/document/16/205468/bssPhr7/"></a><a data-anchor="/document/16/205468/dfasi59mti/" data-dfa="dfasi59mti"></a><strong>Сбалансируйте пищу для мозга. </strong></p><p><a data-anchor="/document/16/205468/bssPhr8/"></a><a data-anchor="/document/16/205468/dfass7nevt/" data-dfa="dfass7nevt"></a>Чем чаще мы читаем, а тем более слышим и видим одно и то же, тем глубже эти факты пишутся в наше подсознание. Повторение фактов вместе с рейтинговыми выводами внушает не только факты, но и домыслы, слухи.</p><p class="example-p"><a data-anchor="/document/16/205468/bssPhr9/"></a><a data-anchor="/document/16/205468/dfas2y30mx/" data-dfa="dfas2y30mx"></a>&nbsp;</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/205468/bssPhr10/"></a><a data-anchor="/document/16/205468/dfasvk021e/" data-dfa="dfasvk021e"></a>Вспомните, сколько раз за эту весну вы слышали и читали о летальных исходах, коронавирусе, грядущем банкротстве предприятий.</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205468/bssPhr11/"></a><a data-anchor="/document/16/205468/dfastgq2dl/" data-dfa="dfastgq2dl"></a>&nbsp;</p><p class="example-p"><a data-anchor="/document/16/205468/bssPhr12/"></a><a data-anchor="/document/16/205468/dfast4wo6t/" data-dfa="dfast4wo6t"></a><a data-anchor="/document/16/205468/dfasu66etl/" data-dfa="dfasu66etl"></a>Наша психика воспринимает эти повторения как угрозу, пытается защититься и контролировать ситуацию. Мысль связаться по социальным сетям с пострадавшими от вируса кажется слишком сложной, понять его природу – еще сложнее. В результате большинство людей начинают отслеживать&nbsp;хроники пандемии. Такая мнимая отчетность дает мозгу иллюзию контроля. На самом деле эта иллюзия только вредит – усиливает стрессовую реакцию, которая не получает выхода.</p><p><a data-anchor="/document/16/205468/bssPhr13/"></a><a data-anchor="/document/16/205468/dfast6b90b/" data-dfa="dfast6b90b"></a>&nbsp;</p></div></div><p><a data-anchor="/document/16/205468/bssPhr14/"></a><a data-anchor="/document/16/205468/dfas6emen0/" data-dfa="dfas6emen0"></a>&nbsp;</p><p><a data-anchor="/document/16/205468/bssPhr15/"></a><a data-anchor="/document/16/205468/dfaszmrwou/" data-dfa="dfaszmrwou"></a>Тревожные новости отвечают только на сиюминутный, часто навязанный, запрос. Большинство из них не прибавляют ни знаний, ни умений. Зато они потребляют наши энергетические ресурсы и, кроме тревоги, не дают ничего взамен.</p><p><a data-anchor="/document/16/205468/bssPhr16/"></a><a data-anchor="/document/16/205468/dfasxepufo/" data-dfa="dfasxepufo"></a>Чтобы отвлечься от тревожных новостей, сузьте масштаб и сбавьте градус – посмотрите медитативные ролики, послушайте полезные бизнес-курсы. Такие материалы больше соответствуют главным целям потребления информации – улучшить себя в любом аспекте или решить проблему.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-advice "><h3 class="incut-v4__tag" data-incut-toggle="">Совет</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/205468/bssPhr17/"></a><a data-anchor="/document/16/205468/dfas8amhbp/" data-dfa="dfas8amhbp"></a>читайте новости с ноутбука, а не смартфона.</p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/205468/bssPhr18/"></a><a data-anchor="/document/16/205468/dfasxn683b/" data-dfa="dfasxn683b"></a>&nbsp;</p><p><a data-anchor="/document/16/205468/bssPhr19/"></a><a data-anchor="/document/16/205468/dfas9640ud/" data-dfa="dfas9640ud"></a>Чем меньше экран, тем больше нагрузка на мозг. К тому же ноутбук сложнее взять с собой и просматривать, когда захочется. То есть при такой схеме вы будете реже и осознанно&nbsp;читать новости.</p><p><a data-anchor="/document/16/205468/bssPhr20/"></a><a data-anchor="/document/16/205468/dfassevoev/" data-dfa="dfassevoev"></a>&nbsp;</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/205468/bssPhr21/"></a><a data-anchor="/document/16/205468/dfasnrsmaa/" data-dfa="dfasnrsmaa"></a>Если тревога не отступает, переключите внимание – читайте книги, смотрите фильмы, которые пропустили из-за дедлайнов. Без сожаления полюбуйтесь на страны, в которые хотите слетать. Главное – материализуйте в голове что-то, кроме предмета паники. Это не бессмысленный просмотр, а обязательный элемент информационной гигиены.</p><p><a data-anchor="/document/16/205468/bssPhr22/"></a><a data-anchor="/document/16/205468/dfas1y55wi/" data-dfa="dfas1y55wi"></a>Нельзя позволять себе застревать в негативе, концентрировать внимание на ограничениях, связанных с самоизоляцией. Делайте то, что привыкли делать, но подстраивайтесь под нынешние реалии. Занимайтесь тем, до чего прежде не доходили руки – онлайн-пространство предоставило широкий выбор курсов, есть бесплатный доступ к сайтам музеев и библиотек мира, к кинотекам.</p><p><a data-anchor="/document/16/205468/dfas6w0m91/" data-dfa="dfas6w0m91"></a><a data-anchor="/document/16/205468/bssPhr23/"></a><br><strong>Проверяйте источник информации.</strong></p><p><a data-anchor="/document/16/205468/bssPhr24/"></a><a data-anchor="/document/16/205468/dfas2brafe/" data-dfa="dfas2brafe"></a>Чтобы не поверить в то, что вам навязали, всегда проверяйте ресурс. СМИ и блогеры воруют друг у друга не только факты, но и фейки. Чтобы не принять ошибочное решение и не ввергать в заблуждение других, проверяйте информацию, которую транслируете другим людям. Для этого воспользуйтесь памяткой «<span num="4" lnktype="intlnk" title="Как проверить, не врет ли ваш источник информации" class="doc">Как проверить, не врет ли ваш источник информации</span>».</p><p><a data-anchor="/document/16/205468/bssPhr25/"></a><a data-anchor="/document/16/205468/dfass99zsf/" data-dfa="dfass99zsf"></a><strong>Отпишитесь от спама. </strong></p><p><a data-anchor="/document/16/205468/bssPhr26/"></a><a data-anchor="/document/16/205468/dfasrzakvd/" data-dfa="dfasrzakvd"></a>Соблюдать информационную гигиену – значит серьезно моделировать собственное инфополе. Оставьте друзьями в социальных сетях только тех, с кем по-настоящему дружите, кем восхищаетесь, и ресурсы, которые дают важные и полезные знания. Остальное напрасно крадет ваше время и силы.</p><p><a data-anchor="/document/16/205468/bssPhr27/"></a><a data-anchor="/document/16/205468/dfasiqn4tw/" data-dfa="dfasiqn4tw"></a>Чтобы очистить личное инфопространство от мусора, отпишитесь от каналов и рассылок, которые вам неинтересны. Чтобы не терять время на рекламу, установите виртуального блокировщика и в смартфон, и на ноутбук, и на рабочий компьютер.</p><p><a data-anchor="/document/16/205468/bssPhr28/"></a><a data-anchor="/document/16/205468/dfasekbkt8/" data-dfa="dfasekbkt8"></a>А как отписаться от подписок смартфона, смотрите в таблице.</p></div><a data-anchor="/document/16/205468/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205468/bssPhr29/"></a><a data-anchor="/document/16/205468/dfasa8bwbs/" data-dfa="dfasa8bwbs"></a><strong>Как отменить платные и бесплатные подписки</strong></h3><p><a data-anchor="/document/16/205468/dfasg6g73i/" data-dfa="dfasg6g73i"></a><a data-anchor="/document/16/205468/bssPhr30/"></a><br>  &nbsp;</p><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><a data-anchor="/document/16/205468/bssPhr32/"></a><p><a data-anchor="/document/16/205468/dfasinqy23/" data-dfa="dfasinqy23"></a></p><img alt="" hideborder="false" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"><p><a data-anchor="/document/16/205468/bssPhr33/"></a><a data-anchor="/document/16/205468/dfasxob60s/" data-dfa="dfasxob60s"></a><strong>Не репостите все подряд. </strong></p><p><a data-anchor="/document/16/205468/bssPhr34/"></a><a data-anchor="/document/16/205468/dfaso0macu/" data-dfa="dfaso0macu"></a>В период паники друзья и приятели часто просят распространить странные сообщения. Иногда присылают видео с недостоверными фактами о коронавирусе, сообщают о том, что карантин продлится до сентября. За распространение ложной информации у вас могут возникнуть проблемы с законом. Чтобы этого избежать, фильтруйте сомнительные предложения. Не стесняйтесь отказать – прямо сообщите, что не публикуете непроверенную информацию на своих ресурсах.</p><p><a data-anchor="/document/16/205468/bssPhr35/"></a><a data-anchor="/document/16/205468/dfasa2u292/" data-dfa="dfasa2u292"></a>Придерживайтесь четырех простых правил:</p><ol class="c-list"><li><a data-anchor="/document/16/205468/bssPhr36/"></a><a data-anchor="/document/16/205468/dfas1997ql/" data-dfa="dfas1997ql"></a>не верьте необоснованной информации, знакомьтесь с данными, полученными из официальных источников;</li><li><a data-anchor="/document/16/205468/bssPhr37/"></a><a data-anchor="/document/16/205468/dfasiu8zub/" data-dfa="dfasiu8zub"></a>не поддавайтесь панике. У необдуманных действий могут быть последствия;</li><li><a data-anchor="/document/16/205468/bssPhr38/"></a><a data-anchor="/document/16/205468/dfas91pvwv/" data-dfa="dfas91pvwv"></a>не ищите выгоды в сложившейся ситуации, так как за каждым незаконным действием следует наказание;</li><li><a data-anchor="/document/16/205468/bssPhr39/"></a><a data-anchor="/document/16/205468/dfasxi5w2x/" data-dfa="dfasxi5w2x"></a>не становитесь марионетками в руках тех, кто намерен дестабилизировать обстановку в стране.</li></ol><p><a data-anchor="/document/16/205468/bssPhr40/"></a><a data-anchor="/document/16/205468/dfasxgm9cd/" data-dfa="dfasxgm9cd"></a>Министерством внутренних дел совместно с Генеральной прокуратурой создали рабочую группу. Специалисты выявляют действия, направленные на распространение ложной информации и материалов, вызывающих панику среди населения, дестабилизирующих ситуацию в стране, дискредитирующих правила поведения и общественной безопасности.</p><p><a data-anchor="/document/16/205468/bssPhr41/"></a><a data-anchor="/document/16/205468/dfas44p40o/" data-dfa="dfas44p40o"></a>За распространение ложной информации в период карантина установлена ответственность – штраф до 200 БРВ или общественные работы до 300 часов, исправительные – до двух лет.</p><p><a data-anchor="/document/16/205468/bssPhr42/"></a><a data-anchor="/document/16/205468/dfasluhym3/" data-dfa="dfasluhym3"></a>Если такая информация появится в интернете или СМИ, меры другие:</p><ul class="c-list"><li><a data-anchor="/document/16/205468/bssPhr43/"></a><a data-anchor="/document/16/205468/dfas5zd5tn/" data-dfa="dfas5zd5tn"></a>штраф от 200 до 400 БРВ;</li><li>общественные работы от 300 до 360 часов;</li><li>исправительные работы от 2 до 3 лет;</li><li>лишение свободы до 3 лет.</li></ul><p><a data-anchor="/document/16/205468/bssPhr44/"></a><a data-anchor="/document/16/205468/dfassw0nd7/" data-dfa="dfassw0nd7"></a>Такие меры предусмотрены изменениями в Уголовный кодекс, утвержденными Законом от 26.03.2020 №<span num="5" lnktype="intlnk" title="Закон Республики Узбекистан  О внесении изменений и дополнений в уголовный, уголовно-процессуальный кодексы Республики Узбекистан и кодекс Республики Узбекистан об административной ответственности   Закон от 26.03.2020 № 613 О внесении изменений и дополнений в уголовный, уголовно-процессуальный кодексы Республики Узбекистан и кодекс Республики Узбекистан об административной ответственности" class="doc">ЗРУ-613</span>.</p></div><a data-anchor="/document/16/205468/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h3 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205468/bssPhr45/"></a><a data-anchor="/document/16/205468/dfasqbhu21/" data-dfa="dfasqbhu21"></a><strong><strong>Личное информационное поле</strong></strong></h3><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205468/bssPhr47/"></a><a data-anchor="/document/16/205468/dfasg4lm0q/" data-dfa="dfasg4lm0q"></a><strong>Договоритесь со своей командой не заходить в социальные сети на четыре-пять часов в день.</strong></p><p><a data-anchor="/document/16/205468/bssPhr48/"></a><a data-anchor="/document/16/205468/dfascat4ge/" data-dfa="dfascat4ge"></a>Чтобы продуктивно сосредоточиться на бизнес-задачах, договоритесь, что ваша команда отключит уведомления и установит лимит на отвлекающие сайты, прежде всего – на социальные сети. Установите лимит в четыре часа — условно с 10 до 14 или 14 до 18. Это время плотной работы с минимумом переключений.</p><p><a data-anchor="/document/16/205468/bssPhr49/"></a><a data-anchor="/document/16/205468/dfasg008nw/" data-dfa="dfasg008nw"></a>Чтобы схема сработала, договоритесь не делать исключений даже на перерывах – отдыхать без экрана компьютера и смартфона: разминаться, говорить с близкими или в крайнем случае по телефону, но не заходить в соцсети.</p><p><a data-anchor="/document/16/205468/bssPhr50/"></a><a data-anchor="/document/16/205468/dfasvd43v1/" data-dfa="dfasvd43v1"></a>Договоритесь с командой и коллегами общаться по работе в одном мессенджере. Так вы перестанете слишком часто проверять другие социальные сети, обманывая себя, что проверяете, не написал ли кто по работе, и, значит, расчистите рабочее инфопространство от тонн инфомусора.</p><p><a data-anchor="/document/16/205468/bssPhr51/"></a><a data-anchor="/document/16/205468/dfas2hd7z7/" data-dfa="dfas2hd7z7"></a><strong>Пишите в общих рабочих чатах.</strong></p><p><a data-anchor="/document/16/205468/bssPhr52/"></a><a data-anchor="/document/16/205468/dfassm104k/" data-dfa="dfassm104k"></a>Договоритесь отправлять в общий чат только то, что касается каждого, иначе всем членам группы сложно будет сосредоточиться – они вынуждены читать кучу спама, чтобы проверить, нет ли информации для них, и отвлекаться от прямой задачи. Это не значит, что в чате нельзя поговорить о том, что всех волнует, – можно, но именно что волновать это должно всех.</p><p><a data-anchor="/document/16/205468/bssPhr53/"></a><a data-anchor="/document/16/205468/dfas4ny2v9/" data-dfa="dfas4ny2v9"></a><strong>Составляйте рабочий план на неделю.</strong></p><p><a data-anchor="/document/16/205468/bssPhr54/"></a><a data-anchor="/document/16/205468/dfasbk7ktv/" data-dfa="dfasbk7ktv"></a>Чтобы проверить, как вы тратите рабочее время, составьте индивидуальный план и строго следуйте задачам в течение дня. Задачи лучше записывать заранее, а затем отмечать в отдельных колонках время выполнения.</p><p><a data-anchor="/document/16/205468/bssPhr55/"></a><a data-anchor="/document/16/205468/dfastwenus/" data-dfa="dfastwenus"></a><strong>Выберите тактический подход. </strong></p><p><a data-anchor="/document/16/205468/bssPhr56/"></a><a data-anchor="/document/16/205468/dfase3a87g/" data-dfa="dfase3a87g"></a>Краткосрочное планирование поможет распределить рабочее время, проанализировать возможные варианты выполнения поставленных задач.<br>  &nbsp;</p><p><a data-anchor="/document/16/205468/bssPhr57/"></a><a data-anchor="/document/16/205468/dfas18t0cr/" data-dfa="dfas18t0cr"></a><strong>Сообщайте сотрудникам все новости, которые касаются работы компании.</strong></p><p><a data-anchor="/document/16/205468/bssPhr58/"></a><a data-anchor="/document/16/205468/dfasg9kf36/" data-dfa="dfasg9kf36"></a>Чтобы не потерять лояльность персонала во время карантина, не утаивайте информацию. Чтобы не допускать слухов, делайте рассылки с вопросами, которые волнуют персонал. Рассказывайте о планах компании.</p><p><a data-anchor="/document/16/205468/bssPhr59/"></a><a data-anchor="/document/16/205468/dfasbkxa6y/" data-dfa="dfasbkxa6y"></a>Организацию и условия работы на время карантина можете оговорить в <span num="9" lnktype="intlnk" title="Приказ об установлении удаленного режима работы" class="doc">приказе об установлении удаленного режима работы</span>.</p><p><a data-anchor="/document/16/205468/bssPhr60/"></a><a data-anchor="/document/16/205468/dfasdb6abi/" data-dfa="dfasdb6abi"></a>Это минимальная техника безопасности. Защищайте мозг, ведь это ваш главный инструмент – соблюдайте правила информационной гигиены.</p></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

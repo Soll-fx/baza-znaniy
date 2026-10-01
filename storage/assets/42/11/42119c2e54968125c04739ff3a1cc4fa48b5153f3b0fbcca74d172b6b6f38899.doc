@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как рассчитать и заполнить отчетность по акцизному налогу</h2><div class="doc-snippet"><a data-anchor="/document/16/211828/dfaspgfuz9/" data-dfa="dfaspgfuz9"></a><a data-anchor="/document/16/211828/bssPhr2/"></a>В&nbsp;рекомендации: категории плательщиков акцизного налога, порядок исчисления и&nbsp;уплаты налога, сроки представления налоговой отчетности. Когда и&nbsp;куда сдавать отчетность по&nbsp;акцизному налогу. Эксперты на&nbsp;примерах показали, как рассчитать акцизный налог и&nbsp;заполнить налоговую отчетность. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/211828/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/211828/bssPhr3/"></a><a data-anchor="/document/16/211828/dfasss7cg6/" data-dfa="dfasss7cg6"></a>Плательщики акцизного налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211828/bssPhr5/"></a><a data-anchor="/document/16/211828/dfas7fh1zg/" data-dfa="dfas7fh1zg"></a>Акцизный налог платят лица, которые производят и&nbsp;реализуют подакцизную продукцию. Перечень подакцизных товаров, а&nbsp;также ставки на&nbsp;них приведены в&nbsp;статьях <span num="4" target="_self" lnktype="intlnk" title="" class="doc">289</span>, <span num="5" target="_self" lnktype="intlnk" title="" class="doc">289-1</span>, <span num="6" target="_self" lnktype="intlnk" title="" class="doc">289-2</span>, <span num="7" target="_self" lnktype="intlnk" title="" class="doc">289-3</span>&nbsp;НК.</p></div><a data-anchor="/document/16/211828/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/211828/bssPhr6/"></a><a data-anchor="/document/16/211828/dfasr6pi8q/" data-dfa="dfasr6pi8q"></a><a data-anchor="/document/16/211828/dfasrf8e23/" data-dfa="dfasrf8e23"></a>Сроки сдачи акцизного налога</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211828/bssPhr8/"></a><a data-anchor="/document/16/211828/dfascpa9xw/" data-dfa="dfascpa9xw"></a>Налоговый период по&nbsp;акцизному налогу&nbsp;— месяц (<span num="8" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;291&nbsp;НК</span>).</p><p><a data-anchor="/document/16/211828/bssPhr9/"></a><a data-anchor="/document/16/211828/dfasg08rir/" data-dfa="dfasg08rir"></a>Расчет предоставляют:</p><ul class="c-list"><li><a data-anchor="/document/16/211828/bssPhr10/"></a><a data-anchor="/document/16/211828/dfasdct4d7/" data-dfa="dfasdct4d7"></a>юридические лица, реализующие бензин, дизельное топливо и&nbsp;газ через автозаправочные станции&nbsp;— в&nbsp;налоговые органы по&nbsp;месту нахождения автозаправочных станций;</li><li>остальные налогоплательщики&nbsp;— по&nbsp;месту налогового учета.</li></ul><p><a data-anchor="/document/16/211828/bssPhr11/"></a><a data-anchor="/document/16/211828/dfas4oly6g/" data-dfa="dfas4oly6g"></a>Такие требования предусмотрены в <span num="9" target="_self" lnktype="intlnk" title="" class="doc">статье&nbsp;292</span>&nbsp;НК.</p><p><a data-anchor="/document/16/211828/bssPhr12/"></a><a data-anchor="/document/16/211828/dfasefv0gl/" data-dfa="dfasefv0gl"></a>Срок сдачи отчетности&nbsp;— ежемесячно не&nbsp;позднее 10&nbsp;числа месяца, следующего за&nbsp;налоговым периодом (<span num="10" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;292&nbsp;НК</span>).</p><p><a data-anchor="/document/16/211828/bssPhr13/"></a><a data-anchor="/document/16/211828/dfaszsftiv/" data-dfa="dfaszsftiv"></a>Срок уплаты налога&nbsp;— не&nbsp;позднее сроков сдачи отчетности (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;293&nbsp;НК</span>).</p></div><a data-anchor="/document/16/211828/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/211828/bssPhr14/"></a><a data-anchor="/document/16/211828/dfaszgx9lt/" data-dfa="dfaszgx9lt"></a>Заполнение отчетности по&nbsp;акцизному налогу</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/211828/bssPhr16/"></a><a data-anchor="/document/16/211828/dfash75ivo/" data-dfa="dfash75ivo"></a>Налоговая отчетность по&nbsp;акцизному налогу утверждена в <span num="15" lnktype="intlnk" title="" class="doc">приложении №&nbsp;2</span>к Постановлению налогового комитета (рег. №&nbsp;3221 от&nbsp;24.02.2020). С&nbsp;20.04.2022 года действует в&nbsp;редакции, утвержденной Постановлением налогового комитета, рег. МЮ&nbsp;24.07.2023 №&nbsp;3221-5.</p><p><a data-anchor="/document/16/211828/bssPhr17/"></a><a data-anchor="/document/16/211828/dfasqnl1xz/" data-dfa="dfasqnl1xz"></a>На <a href="https://my.soliq.uz/main/" target="_self" title="">my.soliq.uz</a> размещены несколько форм отчетности согласно установленным ставкам акцизного налога на&nbsp;разные виды товаров, услуг: фиксированной, адвалорной и&nbsp;комбинированной, а&nbsp;также отдельно по&nbsp;реализации природного газа.</p><p><a data-anchor="/document/16/211828/bssPhr18/"></a><a data-anchor="/document/16/211828/dfasi2t5lr/" data-dfa="dfasi2t5lr"></a>В&nbsp;2024 году ставки акцизных налогов меняют с&nbsp;1&nbsp;января, с&nbsp;1&nbsp;апреля и&nbsp;с&nbsp;1&nbsp;июля. Так, с&nbsp;1&nbsp;января ставки при производстве табачной продукции (сигары, табак для кальяна, табак курительный, трубочный и&nbsp;другие) выросли на&nbsp;12&nbsp;процентов. Ставка при продаже и&nbsp;импорте спирта этилового ректификованного выросла в&nbsp;2&nbsp;раза и&nbsp;составила 14&nbsp;900&nbsp;сумов. С&nbsp;1&nbsp;июля ставки при производстве алкогольной продукции выросли на&nbsp;5&nbsp;процентов.</p><p><a data-anchor="/document/16/211828/bssPhr19/"></a><a data-anchor="/document/16/211828/dfasv0zdm1/" data-dfa="dfasv0zdm1"></a>С&nbsp;1&nbsp;апреля 2024 года на&nbsp;12&nbsp;процентов выросли ставки на&nbsp;нефтепродукты. А&nbsp;вот на&nbsp;бензин с&nbsp;октановым числом Аи-91 и&nbsp;выше ставки сохраняются на&nbsp;уровне 2023&nbsp;года.</p><p><a data-anchor="/document/16/211828/bssPhr20/"></a><a data-anchor="/document/16/211828/dfas6tkk2v/" data-dfa="dfas6tkk2v"></a>С&nbsp;1&nbsp;апреля действует новый акцизный налог на&nbsp;газированные напитки, содержащие сахар&nbsp;— 500 сумов за&nbsp;1&nbsp;литр. Акцизный налог на&nbsp;энергетические и&nbsp;тонизирующие напитки&nbsp;— 2&nbsp;000 сумов за&nbsp;литр.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211828/dfas91yvv2/" data-dfa="dfas91yvv2"></a><a data-anchor="/document/16/211828/bssPhr21/"></a>Как рассчитать акцизный налог и&nbsp;заполнить отчет по&nbsp;товарам, на&nbsp;которые установлена фиксированная ставка налога</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211828/bssPhr22/"></a><a data-anchor="/document/16/211828/dfas5zi0p8/" data-dfa="dfas5zi0p8"></a>Предприятие производит алкогольную продукцию. В&nbsp;мае реализовали 1&nbsp;000 литров коньяка и&nbsp;5&nbsp;000 литров водки (объемным содержанием этилового спирта до&nbsp;40&nbsp;процентов).</p><p><a data-anchor="/document/16/211828/bssPhr23/"></a><a data-anchor="/document/16/211828/dfas6i3tdk/" data-dfa="dfas6i3tdk"></a>Объектом обложения налогом является реализация подакцизных товаров (<span num="17" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;284&nbsp;НК).</p><p><a data-anchor="/document/16/211828/bssPhr24/"></a><a data-anchor="/document/16/211828/dfas3boxoq/" data-dfa="dfas3boxoq"></a>Ставки акцизного налога на&nbsp;2024 год на&nbsp;алкогольную продукцию приведены в <span num="18" target="_self" lnktype="intlnk" title="" class="doc"><nobr>статье&nbsp;289-2</nobr></span>&nbsp;НК. На&nbsp;алкогольную продукцию установлены фиксированные ставки налога. По&nbsp;товарам, в&nbsp;отношении которых установлены фиксированные ставки, налоговая база определяется исходя из&nbsp;объема реализации подакцизных товаров в&nbsp;натуральном выражении (<span num="19" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;285&nbsp;НК).</p><p><a data-anchor="/document/16/211828/bssPhr25/"></a><a data-anchor="/document/16/211828/dfas63ggqs/" data-dfa="dfas63ggqs"></a>Сумма акцизного налога рассчитывается путем умножения количества литров реализованной продукции на&nbsp;соответствующую ставку налога.</p><p><a data-anchor="/document/16/211828/bssPhr26/"></a><a data-anchor="/document/16/211828/dfasc1ib7a/" data-dfa="dfasc1ib7a"></a>Ставка налога на&nbsp;коньяк в&nbsp;мае составляет 38&nbsp;000 сумов за&nbsp;1&nbsp;литр, ставка налога на&nbsp;водку&nbsp;— 38&nbsp;000 сумов за&nbsp;1&nbsp;литр.</p><p><a data-anchor="/document/16/211828/bssPhr27/"></a><a data-anchor="/document/16/211828/dfasbcs1wi/" data-dfa="dfasbcs1wi"></a>Сумма акцизного налога при реализации коньяка составит:</p><p><a data-anchor="/document/16/211828/bssPhr28/"></a><a data-anchor="/document/16/211828/dfas3r5a0x/" data-dfa="dfas3r5a0x"></a>1&nbsp;000 × 38&nbsp;000 = 38&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211828/bssPhr29/"></a><a data-anchor="/document/16/211828/dfasuecspp/" data-dfa="dfasuecspp"></a>Сумма акцизного налога при реализации водки составит:</p><p><a data-anchor="/document/16/211828/bssPhr30/"></a><a data-anchor="/document/16/211828/dfasdq3urc/" data-dfa="dfasdq3urc"></a>5&nbsp;000 × 38&nbsp;000 = 190&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211828/bssPhr31/"></a><a data-anchor="/document/16/211828/dfasggeyyt/" data-dfa="dfasggeyyt"></a>Общая сумма налога, подлежащая уплате в&nbsp;бюджет, составит:</p><p><a data-anchor="/document/16/211828/bssPhr32/"></a><a data-anchor="/document/16/211828/dfas9d1mym/" data-dfa="dfas9d1mym"></a>38&nbsp;000&nbsp;000 + 190&nbsp;000&nbsp;000 = 228&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211828/bssPhr33/"></a><a data-anchor="/document/16/211828/dfas5dih3p/" data-dfa="dfas5dih3p"></a>В&nbsp;персональном кабинете нужно выбрать и&nbsp;заполнить действующую форму Расчета акцизного налога с&nbsp;применением фиксированных ставок.</p><p><a data-anchor="/document/16/211828/bssPhr34/"></a><a data-anchor="/document/16/211828/dfascmyy2m/" data-dfa="dfascmyy2m"></a>Данная форма Расчета акцизного налога состоит&nbsp;из:</p><ul class="c-list"><li><a data-anchor="/document/16/211828/bssPhr35/"></a><a data-anchor="/document/16/211828/dfas0uy5ga/" data-dfa="dfas0uy5ga"></a>сведений о&nbsp;налогоплательщике;</li><li>Расчета акцизного налога с&nbsp;применением фиксированной ставки (по&nbsp;алкогольной и&nbsp;безалкогольной продукции);</li><li>Расчета акцизного налога с&nbsp;применением фиксированной ставки (АЗС при реализации конечным потребителям);</li><li>Расчета акцизного налога с&nbsp;применением фиксированной ставки (по&nbsp;нефтепродуктам);</li></ul><p><a data-anchor="/document/16/211828/bssPhr36/"></a><a data-anchor="/document/16/211828/dfastar1il/" data-dfa="dfastar1il"></a>В&nbsp;данном случае надо заполнить Сведения&nbsp;— указать период и&nbsp;вид Расчета, и&nbsp;Расчет налога по&nbsp;алкогольной продукции.</p><p><a data-anchor="/document/16/211828/bssPhr37/"></a><a data-anchor="/document/16/211828/dfas1oh61k/" data-dfa="dfas1oh61k"></a>В&nbsp;части Расчета необходимо в&nbsp;соответствующих строках и&nbsp;графах ввести:</p><ul class="c-list"><li><a data-anchor="/document/16/211828/bssPhr38/"></a><a data-anchor="/document/16/211828/dfasq78t3f/" data-dfa="dfasq78t3f"></a>наименование подакцизного товара в&nbsp;пунктах, соответствующих коньяку и&nbsp;водке;</li><li>объемное количество коньяка и&nbsp;водки соответственно в&nbsp;литрах.</li></ul><p><a data-anchor="/document/16/211828/bssPhr39/"></a><a data-anchor="/document/16/211828/dfas7h1mo4/" data-dfa="dfas7h1mo4"></a>Ставки налога на&nbsp;коньяк и&nbsp;водку отразятся в&nbsp;соответствующих строках. Сумма налога, подлежащая уплате в&nbsp;бюджет, рассчитается автоматически.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211828/dfas40aht8/" data-dfa="dfas40aht8"></a><a data-anchor="/document/16/211828/bssPhr40/"></a>Как рассчитать акцизный налог и&nbsp;заполнить отчет по&nbsp;товарам, на&nbsp;которые установлена адвалорная (процентная) ставка налога</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211828/bssPhr41/"></a><a data-anchor="/document/16/211828/dfasupiu46/" data-dfa="dfasupiu46"></a>Предприятие производит сахар белый без вкусо-ароматических добавок. В&nbsp;июне было реализовано 4&nbsp;000&nbsp;кг. Оптовая цена одного кг&nbsp;без учета налогов&nbsp;— 15&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211828/bssPhr42/"></a><a data-anchor="/document/16/211828/dfasvmkgop/" data-dfa="dfasvmkgop"></a>Сахар белый без вкусо-ароматических добавок&nbsp;— подакцизная продукция в&nbsp;соответствии со <span num="22" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;289-3</span>&nbsp;НК. Ставка налога на&nbsp;2024 год&nbsp;— 20&nbsp;процентов. Объектом обложения налогом является реализация подакцизных товаров (<span num="23" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;284&nbsp;НК)</p><p><a data-anchor="/document/16/211828/bssPhr43/"></a><a data-anchor="/document/16/211828/dfaskicoo2/" data-dfa="dfaskicoo2"></a><a data-anchor="/document/16/211828/dfase9qkzd/" data-dfa="dfase9qkzd"></a>Налоговой базой по&nbsp;подакцизным товарам, на&nbsp;которые установлены адвалорные ставки, является стоимость реализованных товаров, не&nbsp;включающая акцизный налог и&nbsp;НДС, но&nbsp;не&nbsp;ниже их&nbsp;фактической себестоимости (<span num="24" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;285&nbsp;НК</span>).</p><p><a data-anchor="/document/16/211828/bssPhr44/"></a><a data-anchor="/document/16/211828/dfas5gk0ky/" data-dfa="dfas5gk0ky"></a>Налоговая база по&nbsp;налогу составит общую сумму реализации:</p><p><a data-anchor="/document/16/211828/bssPhr45/"></a><a data-anchor="/document/16/211828/dfast39m8p/" data-dfa="dfast39m8p"></a>4&nbsp;000 × 15&nbsp;000 = 60&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211828/bssPhr46/"></a><a data-anchor="/document/16/211828/dfasdynoo5/" data-dfa="dfasdynoo5"></a>Сумма акцизного налога при реализации составит:</p><p><a data-anchor="/document/16/211828/bssPhr47/"></a><a data-anchor="/document/16/211828/dfasxuyaz9/" data-dfa="dfasxuyaz9"></a>60&nbsp;000&nbsp;000 × 20% = 12&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211828/bssPhr48/"></a><a data-anchor="/document/16/211828/dfasz6ldtb/" data-dfa="dfasz6ldtb"></a>В&nbsp;персональном кабинете нужно выбрать и&nbsp;заполнить действующую форму Расчета акцизного налога с&nbsp;применением адвалорных ставок.</p><p><a data-anchor="/document/16/211828/bssPhr49/"></a><a data-anchor="/document/16/211828/dfasmfe7d4/" data-dfa="dfasmfe7d4"></a>Данная форма Расчета акцизного налога состоит&nbsp;из:</p><ul class="c-list"><li><a data-anchor="/document/16/211828/bssPhr50/"></a><a data-anchor="/document/16/211828/dfas4i59z1/" data-dfa="dfas4i59z1"></a>сведений о&nbsp;налогоплательщике;</li><li>Расчета акцизного налога с&nbsp;применением адвалорной ставки.</li></ul><p><a data-anchor="/document/16/211828/bssPhr51/"></a><a data-anchor="/document/16/211828/dfasilgghb/" data-dfa="dfasilgghb"></a>В&nbsp;данном случае надо заполнить Сведения&nbsp;— указать период и&nbsp;вид Расчета.</p><p><a data-anchor="/document/16/211828/bssPhr52/"></a><a data-anchor="/document/16/211828/dfas3ctrky/" data-dfa="dfas3ctrky"></a>В&nbsp;части Расчета необходимо в&nbsp;соответствующих строках и&nbsp;графах ввести:</p><ul class="c-list"><li><a data-anchor="/document/16/211828/bssPhr53/"></a><a data-anchor="/document/16/211828/dfas9alx5q/" data-dfa="dfas9alx5q"></a>наименование подакцизной продукции;</li><li>стоимость произведенной продукции;</li><li>ставку налога в&nbsp;процентах.</li></ul><p><a data-anchor="/document/16/211828/bssPhr54/"></a><a data-anchor="/document/16/211828/dfasogx980/" data-dfa="dfasogx980"></a>Сумма налога, подлежащая уплате в&nbsp;бюджет, рассчитается автоматически.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/211828/dfast1y1gc/" data-dfa="dfast1y1gc"></a><a data-anchor="/document/16/211828/bssPhr55/"></a>Как рассчитать акцизный налог и&nbsp;заполнить отчет по&nbsp;товарам, на&nbsp;которые установлена комбинированная ставка налога</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/211828/bssPhr56/"></a><a data-anchor="/document/16/211828/dfassigyww/" data-dfa="dfassigyww"></a>Предприятие производит сигареты с&nbsp;фильтром. В&nbsp;мае реализовали 10&nbsp;000 пачек сигарет (1&nbsp;пачка&nbsp;— 20&nbsp;шт.). Оптовая цена одной пачки без учета налогов&nbsp;— 10&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211828/bssPhr57/"></a><a data-anchor="/document/16/211828/dfas115v9m/" data-dfa="dfas115v9m"></a>Сигареты&nbsp;— подакцизная продукция в&nbsp;соответствии со <span num="26" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;289-1</span>&nbsp;НК. Ставка налога комбинированная, то&nbsp;есть состоит из&nbsp;фиксированной ставки, применяемой к&nbsp;объему реализованной продукции в&nbsp;натуральном выражении, и&nbsp;адвалорной, применяемой к&nbsp;стоимости реализации, без учета налогов (<span num="27" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;6</span>&nbsp;ст.&nbsp;285&nbsp;НК).</p><p><a data-anchor="/document/16/211828/bssPhr58/"></a><a data-anchor="/document/16/211828/dfasyenhxz/" data-dfa="dfasyenhxz"></a><a data-anchor="/document/16/211828/dfasseecn4/" data-dfa="dfasseecn4"></a><a data-anchor="/document/16/211828/dfasbnwg1a/" data-dfa="dfasbnwg1a"></a>Ставка налога в&nbsp;мае 2024 года составляет 250&nbsp;700 сумов за&nbsp;1&nbsp;000&nbsp;шт. + 10%.</p><p><a data-anchor="/document/16/211828/bssPhr59/"></a><a data-anchor="/document/16/211828/dfasxpxkvw/" data-dfa="dfasxpxkvw"></a>Объектом обложения налогом является реализация подакцизных товаров (<span num="40" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;284&nbsp;НК).</p><p><a data-anchor="/document/16/211828/bssPhr60/"></a><a data-anchor="/document/16/211828/dfask3a3vc/" data-dfa="dfask3a3vc"></a>Налоговой базой по&nbsp;подакцизным товарам, на&nbsp;которые установлены комбинированные ставки, служит объем подакцизных товаров в&nbsp;натуральном выражении и&nbsp;стоимость реализованных подакцизных товаров (<span num="29" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;285&nbsp;НК</span>).</p><p><a data-anchor="/document/16/211828/bssPhr61/"></a><a data-anchor="/document/16/211828/dfas5rw41u/" data-dfa="dfas5rw41u"></a>Рассчитаем налоговую базу:</p><ul class="c-list"><li><a data-anchor="/document/16/211828/bssPhr62/"></a><a data-anchor="/document/16/211828/dfasvq3i2b/" data-dfa="dfasvq3i2b"></a>налоговая база с&nbsp;применением адвалорной ставки, в&nbsp;процентах составит:</li></ul><p><a data-anchor="/document/16/211828/bssPhr63/"></a><a data-anchor="/document/16/211828/dfasv82oai/" data-dfa="dfasv82oai"></a>10&nbsp;000 × 10&nbsp;000 = 100&nbsp;000&nbsp;000&nbsp;сумов.</p><ul class="c-list"><li><a data-anchor="/document/16/211828/bssPhr64/"></a><a data-anchor="/document/16/211828/dfasuk9yp0/" data-dfa="dfasuk9yp0"></a>налоговая база, с&nbsp;применением фиксированной ставки, в&nbsp;абсолютной сумме составит:</li></ul><p><a data-anchor="/document/16/211828/bssPhr65/"></a><a data-anchor="/document/16/211828/dfasfkpozn/" data-dfa="dfasfkpozn"></a>10&nbsp;000 × 20 = 200&nbsp;000&nbsp;штук.</p><p><a data-anchor="/document/16/211828/bssPhr66/"></a><a data-anchor="/document/16/211828/dfasg1nwfk/" data-dfa="dfasg1nwfk"></a>Рассчитаем акцизный налог, исходя из&nbsp;сложившейся налоговой базы и&nbsp;установленных ставок.</p><p><a data-anchor="/document/16/211828/bssPhr67/"></a><a data-anchor="/document/16/211828/dfasgo5w4c/" data-dfa="dfasgo5w4c"></a>Сумма налога с&nbsp;применением адвалорной ставки, в&nbsp;процентах:</p><p><a data-anchor="/document/16/211828/bssPhr68/"></a><a data-anchor="/document/16/211828/dfas25tiy0/" data-dfa="dfas25tiy0"></a>100&nbsp;000&nbsp;000 × 10% = 10&nbsp;000&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211828/bssPhr69/"></a><a data-anchor="/document/16/211828/dfas9bb32u/" data-dfa="dfas9bb32u"></a>Сумма налога с&nbsp;применением фиксированной ставки, в&nbsp;абсолютной сумме:</p><p><a data-anchor="/document/16/211828/bssPhr70/"></a><a data-anchor="/document/16/211828/dfasd5pdet/" data-dfa="dfasd5pdet"></a>250&nbsp;700 ÷ 1000 × 200&nbsp;000 = 50&nbsp;140&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211828/bssPhr71/"></a><a data-anchor="/document/16/211828/dfasre6z9r/" data-dfa="dfasre6z9r"></a>Общая сумма акцизного налога составит:</p><p><a data-anchor="/document/16/211828/bssPhr72/"></a><a data-anchor="/document/16/211828/dfasgqafgf/" data-dfa="dfasgqafgf"></a>10&nbsp;000&nbsp;000 + 50&nbsp;140&nbsp;000 = 60&nbsp;140&nbsp;000&nbsp;сумов.</p><p><a data-anchor="/document/16/211828/bssPhr73/"></a><a data-anchor="/document/16/211828/dfasi7dpwx/" data-dfa="dfasi7dpwx"></a>В&nbsp;персональном кабинете нужно выбрать и&nbsp;заполнить действующую форму Расчета акцизного налога с&nbsp;применением комбинированных ставок.</p><p><a data-anchor="/document/16/211828/bssPhr74/"></a><a data-anchor="/document/16/211828/dfasmno54a/" data-dfa="dfasmno54a"></a>Данная форма Расчета акцизного налога состоит&nbsp;из:</p><ul class="c-list"><li><a data-anchor="/document/16/211828/bssPhr75/"></a><a data-anchor="/document/16/211828/dfasc3m89w/" data-dfa="dfasc3m89w"></a>сведений о&nbsp;налогоплательщике;</li><li>Расчета акцизного налога с&nbsp;применением комбинированной ставки, состоящей из&nbsp;адвалорной и&nbsp;фиксированной ставок.</li></ul><p><a data-anchor="/document/16/211828/bssPhr76/"></a><a data-anchor="/document/16/211828/dfasu57lcz/" data-dfa="dfasu57lcz"></a>В&nbsp;данном случае надо заполнить сведения: указать период и&nbsp;вид Расчета.</p><p><a data-anchor="/document/16/211828/bssPhr77/"></a><a data-anchor="/document/16/211828/dfasf8cz12/" data-dfa="dfasf8cz12"></a>В&nbsp;части Расчета необходимо в&nbsp;соответствующих строках и&nbsp;графах ввести:</p><ul class="c-list"><li><a data-anchor="/document/16/211828/bssPhr78/"></a><a data-anchor="/document/16/211828/dfas13s6vr/" data-dfa="dfas13s6vr"></a>наименование подакцизной продукции;</li><li>объем произведенных товаров в&nbsp;тыс.&nbsp;шт.;</li><li>сумму реализации в&nbsp;сумах.</li></ul><p><a data-anchor="/document/16/211828/bssPhr79/"></a><a data-anchor="/document/16/211828/dfasb9ngcg/" data-dfa="dfasb9ngcg"></a>Ставки налога отразятся в&nbsp;соответствующих графах. Расчет сумм налога по&nbsp;фиксированной и&nbsp;адвалорной ставкам будет произведен автоматически. Общая сумма налога, причитающаяся к&nbsp;уплате в&nbsp;бюджет, суммируется автоматом.</p></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как заполнить расчет по&#160;акцизному налогу при реализации сжатого газа на АГНКС&#160;</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/211828/bssPhr81/"></a><a data-anchor="/document/16/211828/dfasd9srqy/" data-dfa="dfasd9srqy"></a>Юридические лица, которые реализуют газ&nbsp;конечным потребителям через газонаполнительные станции и газонаполнительные пункты, представляют Расчет акцизного налога с применением фиксированных ставок (10824_28).</p><p style="text-align:left"><a data-anchor="/document/16/211828/bssPhr82/"></a><a data-anchor="/document/16/211828/dfas23f6kl/" data-dfa="dfas23f6kl"></a>Данный Расчет представляйте&nbsp;в налоговые органы по месту нахождения автозаправочных станций ежемесячно не позднее 10 числа месяца, следующего за налоговым периодом (<span num="46" target="_self" lnktype="intlnk" title="" class="doc">ч. 2</span> ст. 292 НК).</p><p style="text-align:left"><a data-anchor="/document/16/211828/bssPhr83/"></a><a data-anchor="/document/16/211828/dfasdt89y8/" data-dfa="dfasdt89y8"></a>В Сведениях о плательщике акцизного налога указывайте&nbsp;местонахождение автозаправочной станции.</p><p style="text-align:left"><a data-anchor="/document/16/211828/bssPhr84/"></a><a data-anchor="/document/16/211828/dfasm7dckx/" data-dfa="dfasm7dckx"></a>Далее выбирайте&nbsp;Расчет акцизного налога с применением фиксированных ставок (АЗС. по реализации конечным потребителям).</p><p style="text-align:left"><a data-anchor="/document/16/211828/bssPhr85/"></a><a data-anchor="/document/16/211828/dfassnwgpu/" data-dfa="dfassnwgpu"></a>В данном Расчете заполняйте&nbsp;показатели соответствующих граф строки 2.7. Показатели граф 4 – 14 отражаются в куб. метрах:</p><ul class="c-list"><li style="text-align:left"><a data-anchor="/document/16/211828/bssPhr86/"></a><a data-anchor="/document/16/211828/dfas2fyopd/" data-dfa="dfas2fyopd"></a>графа 4 не заполняется (смотрите примечание к данной графе);</li><li style="text-align:left">графа 5 заполняется автоматически исходя из показателей граф 6, 7 и 8;</li><li style="text-align:left">в графе 6 отражается объем реализации сжатого газа за месяц;</li><li style="text-align:left">в графе 7 отражается объем сжатого газа, использованного для собственных нужд за месяц;</li><li style="text-align:left">графа 8 не заполняется (смотрите примечание к данной графе);</li><li style="text-align:left">в графах 9 – 13 отражается уменьшения налогооблагаемой базы;</li><li style="text-align:left">графы 14 – 16 заполняются автоматически.</li></ul></div></div></div><p><a data-anchor="/document/16/211828/dfas4t68hk/" data-dfa="dfas4t68hk"></a><a data-anchor="/document/16/211828/bssPhr87/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882012" sourceId="1" fullSizeImageId="-41882011" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882012/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

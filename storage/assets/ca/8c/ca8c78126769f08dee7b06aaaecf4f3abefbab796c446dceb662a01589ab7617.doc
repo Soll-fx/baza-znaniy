@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Когда в бухучете возникают курсовые разницы при продаже товаров</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/218859/dfas66rmft/" data-dfa="dfas66rmft"></a><a data-anchor="/document/16/218859/bssPhr2/"></a>Курсовые разницы в&nbsp;бухучете возникают при переоценке активов и&nbsp;обязательств по&nbsp;операциям, выраженным в&nbsp;иностранной валюте. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/218859/bssPhr3/"></a><a data-anchor="/document/16/218859/dfas6l2whk/" data-dfa="dfas6l2whk"></a>Возникнут или нет курсовые разницы при учете конкретной хозяйственной операции по&nbsp;продаже товаров&nbsp;— зависит от&nbsp;условий договора.</p><p><a data-anchor="/document/16/218859/bssPhr4/"></a><a data-anchor="/document/16/218859/dfasdwp3g1/" data-dfa="dfasdwp3g1"></a>Условия договора могут предусматривать различные варианты оплаты товара:</p><ul class="c-list"><li><a data-anchor="/document/16/218859/bssPhr5/"></a><a data-anchor="/document/16/218859/dfasyvbas9/" data-dfa="dfasyvbas9"></a>полную предоплату</li><li>частичную предоплату,</li><li>полную оплату после передачи товара покупателю</li><li>частичную оплату после передачи товара покупателю.</li></ul><p><a data-anchor="/document/16/218859/bssPhr6/"></a><a data-anchor="/document/16/218859/dfasx9lrgg/" data-dfa="dfasx9lrgg"></a>Возникающая дебиторская или кредиторская задолженность является валютной статьей баланса и&nbsp;должна переоцениваться на&nbsp;дату совершения хозяйственных операций и&nbsp;ежемесячно на&nbsp;последнее число месяца по&nbsp;курсу&nbsp;ЦБ (<a data-anchor="/document/16/218859/backlinkanchor2/" type="backlink-anchor"></a><a href="#/document/90/15120/dfas3uuni6/" data-warm-notices="41515400" data-warm-notice-type="error" class="link npd" target="_blank" title="" moduleId="90" documentId="15120" anchor="dfas3uuni6">п.&nbsp;8</a>, <a data-anchor="/document/16/218859/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/15120/dfas0ub0k0/" class="link npd" target="_blank" title="" moduleId="90" documentId="15120" anchor="dfas0ub0k0">п.&nbsp;9</a>&nbsp;<a data-anchor="/document/16/218859/backlinkanchor16/" type="backlink-anchor"></a><a href="#/document/90/15120/dfasnmxtat/" class="link npd" target="_blank" title="" moduleId="90" documentId="15120" anchor="dfasnmxtat">НСБУ №&nbsp;22</a>).</p><p><a data-anchor="/document/16/218859/bssPhr7/"></a><a data-anchor="/document/16/218859/dfasphmfcv/" data-dfa="dfasphmfcv"></a>Возникшие курсовые разницы списывают на&nbsp;результаты финансово-хозяйственной деятельности предприятия методом прямого отнесения (<a data-anchor="/document/16/218859/backlinkanchor4/" type="backlink-anchor"></a><a href="#/document/90/15120/dfas49vgy5/" class="link npd" target="_blank" title="" moduleId="90" documentId="15120" anchor="dfas49vgy5">п.&nbsp;13</a>, <a data-anchor="/document/16/218859/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/15120/dfas7nfbfc/" data-warm-notices="41515431" data-warm-notice-type="error" class="link npd" target="_blank" title="" moduleId="90" documentId="15120" anchor="dfas7nfbfc">п.&nbsp;14 </a><a data-anchor="/document/16/218859/backlinkanchor18/" type="backlink-anchor"></a><a href="#/document/90/15120/dfasnmxtat/" data-warm-notices="41515432" data-warm-notice-type="error" class="link npd" target="_blank" title="" moduleId="90" documentId="15120" anchor="dfasnmxtat">НСБУ №&nbsp;22).</a></p><p><a data-anchor="/document/16/218859/bssPhr8/"></a><a data-anchor="/document/16/218859/dfasfdfiq4/" data-dfa="dfasfdfiq4"></a>Курсовые разницы учитывайте в&nbsp;составе доходов от&nbsp;финансовой деятельности на&nbsp;счете <strong>9540 «Доходы от&nbsp;валютных курсовых разниц» </strong>или в&nbsp;составе расходов от&nbsp;финансовой деятельности на&nbsp;счете <strong>9620 «Убытки от&nbsp;валютных курсовых разниц» </strong>по&nbsp;мере их&nbsp;возникновения методом прямого отнесения (<a data-anchor="/document/16/218859/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/15120/dfasiez0h4/" class="link npd" target="_blank" title="" moduleId="90" documentId="15120" anchor="dfasiez0h4">п.&nbsp;11</a>&nbsp;<a data-anchor="/document/16/218859/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/90/15120/dfasnmxtat/" class="link npd" target="_blank" title="" moduleId="90" documentId="15120" anchor="dfasnmxtat">НСБУ №&nbsp;22</a>).</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/218859/dfas053el4/" data-dfa="dfas053el4"></a><a data-anchor="/document/16/218859/bssPhr9/"></a>Пример возникновения и&nbsp;отражения в&nbsp;бухучете курсовых разниц, возникающих при реализации товаров</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218859/bssPhr10/"></a><a data-anchor="/document/16/218859/dfas682c6n/" data-dfa="dfas682c6n"></a>ООО «Гермес» заключило договор поставки товаров на&nbsp;экспорт. «Гермес» должен поставить товар 21&nbsp;января, а&nbsp;покупатель оплачивает товар 20&nbsp;февраля. Сумма договора&nbsp;— 5000&nbsp;долл. США, оплата производится в&nbsp;сумах по&nbsp;официальному курсу Центрального банка на&nbsp;дату оплаты товаров. Право собственности переходит к&nbsp;покупателю после отгрузки.</p><p><a data-anchor="/document/16/218859/bssPhr11/"></a><a data-anchor="/document/16/218859/dfas6ozi25/" data-dfa="dfas6ozi25"></a>Курс доллара США составил:</p><ul class="c-list"><li><a data-anchor="/document/16/218859/bssPhr12/"></a><a data-anchor="/document/16/218859/dfas3f7zmr/" data-dfa="dfas3f7zmr"></a>21&nbsp;января&nbsp;— 8&nbsp;356, 18&nbsp;сумов/USD;</li><li>31&nbsp;января&nbsp;— 8&nbsp;384, 94&nbsp;сумов/USD;</li><li>20&nbsp;февраля&nbsp;— 8&nbsp;392, 20&nbsp;сумов/USD.</li></ul><p><a data-anchor="/document/16/218859/bssPhr13/"></a><a data-anchor="/document/16/218859/dfaszak8nz/" data-dfa="dfaszak8nz"></a>Бухгалтер организации сделал в&nbsp;учете следующие записи:</p><p><a data-anchor="/document/16/218859/bssPhr14/"></a><a data-anchor="/document/16/218859/dfasq0y82q/" data-dfa="dfasq0y82q"></a>21&nbsp;января:<br><strong>Дебет 4010 Кредит 9010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218859/bssPhr15/"></a><a data-anchor="/document/16/218859/dfasoxn49d/" data-dfa="dfasoxn49d"></a>41&nbsp;780&nbsp;900 сумов (5000&nbsp;USD × 8 356,18&nbsp;сумов/USD)&nbsp;— отражена выручка от&nbsp;реализации по&nbsp;действующему курсу.</li></ul><p><a data-anchor="/document/16/218859/bssPhr16/"></a><a data-anchor="/document/16/218859/dfaspmu21v/" data-dfa="dfaspmu21v"></a>31&nbsp;января:<br><strong>Дебет 4010 Кредит 9540</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218859/bssPhr17/"></a><a data-anchor="/document/16/218859/dfasx1nwu9/" data-dfa="dfasx1nwu9"></a>43&nbsp;800 сумов (5000&nbsp;USD × (8 384,94&nbsp;сумов/USD&nbsp;— 8 356,18&nbsp;сумов/USD))&nbsp;— учтена положительная курсовая разница.</li></ul><p><a data-anchor="/document/16/218859/bssPhr18/"></a><a data-anchor="/document/16/218859/dfasagbwwz/" data-dfa="dfasagbwwz"></a>20&nbsp;февраля:<br><strong>Дебет 5210 Кредит 4010</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218859/bssPhr19/"></a><a data-anchor="/document/16/218859/dfas0sutd8/" data-dfa="dfas0sutd8"></a>41&nbsp;961&nbsp;000 (5000&nbsp;USD × 8&nbsp;392, 2&nbsp;сумов/USD)&nbsp;— поступила оплата по&nbsp;действующему курсу;</li></ul><p><a data-anchor="/document/16/218859/bssPhr20/"></a><a data-anchor="/document/16/218859/dfas9co8n4/" data-dfa="dfas9co8n4"></a><strong>Дебет 4010 Кредит 9540</strong></p><ul class="c-list"><li><a data-anchor="/document/16/218859/bssPhr21/"></a><a data-anchor="/document/16/218859/dfasovlqr4/" data-dfa="dfasovlqr4"></a>36&nbsp;300 сумов (5000&nbsp;USD × (8&nbsp;392, 2&nbsp;сумов/USD&nbsp;— 8&nbsp;384, 94&nbsp;сумов/USD))&nbsp;— учтена положительная курсовая разница.</li></ul><p><a data-anchor="/document/16/218859/bssPhr22/"></a><a data-anchor="/document/16/218859/dfaslie72l/" data-dfa="dfaslie72l"></a>Курсовые разницы, возникающие при экспортных операциях, учитывают при расчете налогов.</p><p><a data-anchor="/document/16/218859/bssPhr23/"></a><a data-anchor="/document/16/218859/dfasfzzqwq/" data-dfa="dfasfzzqwq"></a>При расчете налога на&nbsp;прибыль в&nbsp;совокупный доход включают положительную курсовую разницу (<a data-anchor="/document/16/218859/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas1uyugs/" class="link npd" target="_self" title="" moduleId="90" documentId="20918" anchor="dfas1uyugs">п.&nbsp;18</a>&nbsp;ст.&nbsp;297&nbsp;НК). Отрицательная курсовая разница относится к&nbsp;расходам, вычитаемым при расчете налога на&nbsp;прибыль (<a data-anchor="/document/16/218859/backlinkanchor12/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasp3yq5b/" class="link npd" target="_self" title="" moduleId="90" documentId="20918" anchor="dfasp3yq5b">ст.&nbsp;305</a>&nbsp;НК, <a data-anchor="/document/16/218859/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasqgd5k6/" class="link npd" target="_self" title="" moduleId="90" documentId="20918" anchor="dfasqgd5k6">ст.&nbsp;320</a>&nbsp;НК).</p><p><a data-anchor="/document/16/218859/bssPhr24/"></a><a data-anchor="/document/16/218859/dfasm4d6qt/" data-dfa="dfasm4d6qt"></a>При расчете налога с&nbsp;оборота в&nbsp;совокупный доход включают сальдо между положительной и&nbsp;отрицательной курсовой разницей. Если сумма отрицательной курсовой разницы превышает сумму положительной курсовой разницы, то&nbsp;сумма превышения не&nbsp;уменьшает налогооблагаемую базу (<a data-anchor="/document/16/218859/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasynzekb/" class="link npd" target="_self" title="" moduleId="90" documentId="20918" anchor="dfasynzekb">ч.&nbsp;6</a>&nbsp;ст.&nbsp;463&nbsp;НК).</p></div></div><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/218859/dfaspbs5gn/" data-dfa="dfaspbs5gn"></a><a data-anchor="/document/16/218859/bssPhr25/"></a>С&nbsp;1&nbsp;января 2022 года в&nbsp;целях налогообложения курсовые разницы от&nbsp;переоценки полученных, выданных авансов не&nbsp;учитывают.</p><div class="incut-v4__content" data-incut-content=""><p style="text-align:right"><a data-anchor="/document/16/218859/bssPhr26/"></a><a data-anchor="/document/16/218859/dfas7t70nl/" data-dfa="dfas7t70nl"></a><a data-anchor="/document/16/218859/backlinkanchor8/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasgcae3g/" class="link npd" target="_self" title="" moduleId="90" documentId="20918" anchor="dfasgcae3g">ч.&nbsp;5</a>&nbsp;ст.&nbsp;320&nbsp;НК, введена Законом № ЗРУ-741 от&nbsp;29.12.2021&nbsp;г</p><p><a data-anchor="/document/16/218859/bssPhr27/"></a><a data-anchor="/document/16/218859/dfasuyxlwg/" data-dfa="dfasuyxlwg"></a>То&nbsp;есть в&nbsp;целях налогового учета не&nbsp;переоценивайте счета авансов полученных, выданных, при ведении учета на&nbsp;них в&nbsp;иностранной валюте.</p></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/218859/dfasv1ml10/" data-dfa="dfasv1ml10"></a><a data-anchor="/document/16/218859/bssPhr30/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882102" sourceId="1" fullSizeImageId="-41882101" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882102/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

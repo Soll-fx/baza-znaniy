@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как провести выделение ООО</h2><div class="doc-snippet"><a data-anchor="/document/16/218485/dfas9tl4d1/" data-dfa="dfas9tl4d1"></a><a data-anchor="/document/16/218485/bssPhr3/"></a>Если вы&nbsp;хотите реорганизовать общество без ликвидации и&nbsp;создать на&nbsp;его базе одно или нескольких обществ с&nbsp;передачей им&nbsp;части прав и&nbsp;обязанностей, то&nbsp;проведите <span num="1" lnktype="intlnk" title="" class="doc">выделение</span>. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/218485/bssPhr5/"></a><a data-anchor="/document/16/218485/dfasp4kgxg/" data-dfa="dfasp4kgxg"></a>Реорганизация в&nbsp;форме <strong>выделения&nbsp;</strong>— это возникновение одного или нескольких новых предприятий путем передачи им&nbsp;части прав и&nbsp;обязанностей реорганизуемого предприятия. Основанием для выделения служит <span num="50" lnktype="intlnk" title="" class="doc">решение общего собрания участников общества</span>, реорганизуемого в&nbsp;форме выделения. Подробнее в <a href="https://1gb.uz/#/document/16/218485/dfasriyybn/">рекомендации</a> Системы Главбух. См. также:</p><ul class="c-list"><li><a data-anchor="/document/16/218485/bssPhr6/"></a><a data-anchor="/document/16/218485/dfasuhy589/" data-dfa="dfasuhy589"></a><span num="59" target="_self" lnktype="intlnk" title="" class="doc">Как провести присоединение ООО</span></li><li><span num="60" target="_self" lnktype="intlnk" title="" class="doc">Как провести слияние ООО</span></li><li><span num="61" target="_self" lnktype="intlnk" title="" class="doc">Как разрешают споры, связанные с&nbsp;созданием, реорганизацией и&nbsp;ликвидацией юридического лица</span></li></ul><a data-anchor="/document/16/218485/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/218485/bssPhr7/"></a><a data-anchor="/document/16/218485/dfasriyybn/" data-dfa="dfasriyybn"></a>Порядок действий при выделении ООО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:59pt"><a data-anchor="/document/16/218485/bssPhr9/"></a><a data-anchor="/document/16/218485/dfas7kkz1g/" data-dfa="dfas7kkz1g"></a>Последовательность действий при выделении предприятия, следующая:</p><ol class="c-list"><li><a data-anchor="/document/16/218485/bssPhr10/"></a><a data-anchor="/document/16/218485/dfaswphprg/" data-dfa="dfaswphprg"></a>Учредители принимают решение о&nbsp;выделении</li><li><a data-anchor="/document/16/218485/bssPhr11/"></a><a data-anchor="/document/16/218485/dfasu5qgp1/" data-dfa="dfasu5qgp1"></a>Реорганизуемое предприятие уведомляет заинтересованных лиц в&nbsp;реорганизации</li><li><a data-anchor="/document/16/218485/bssPhr12/"></a><a data-anchor="/document/16/218485/dfasbxicpy/" data-dfa="dfasbxicpy"></a>Лица, назначенные собственниками, размещают на&nbsp;ЕПИГУ сообщение о&nbsp;начале реорганизации</li><li><a data-anchor="/document/16/218485/bssPhr13/"></a><a data-anchor="/document/16/218485/dfaseqgt00/" data-dfa="dfaseqgt00"></a>Реорганизуемое предприятие проводит инвентаризацию имущества и&nbsp;обязательств</li><li><a data-anchor="/document/16/218485/bssPhr14/"></a><a data-anchor="/document/16/218485/dfasw7cv84/" data-dfa="dfasw7cv84"></a>Бухгалтерия реорганизуемого предприятия составляет передаточный акт и&nbsp;разделительный баланс</li><li><a data-anchor="/document/16/218485/bssPhr15/"></a><a data-anchor="/document/16/218485/dfasierg5e/" data-dfa="dfasierg5e"></a>Лица, назначенные собственниками, составляют учредительные документы реорганизуемого и&nbsp;нового предприятий</li><li><a data-anchor="/document/16/218485/bssPhr16/"></a><a data-anchor="/document/16/218485/dfasmh39ib/" data-dfa="dfasmh39ib"></a>Собственники реорганизуемого предприятия утверждают передаточный акт, разделительный баланс и&nbsp;новые учредительные документы</li><li><a data-anchor="/document/16/218485/bssPhr17/"></a><a data-anchor="/document/16/218485/dfas00b2fd/" data-dfa="dfas00b2fd"></a>Собственники нового предприятия утверждают и&nbsp;подписывают учредительный договор, устав и&nbsp;избирают исполнительный орган предприятия</li><li><a data-anchor="/document/16/218485/bssPhr18/"></a><a data-anchor="/document/16/218485/dfasrpi6u3/" data-dfa="dfasrpi6u3"></a>Лица, назначенные собственниками, проводят перерегистрацию реорганизуемого предприятия и&nbsp;регистрацию нового предприятия</li><li><a data-anchor="/document/16/218485/bssPhr19/"></a><a data-anchor="/document/16/218485/dfasblkf91/" data-dfa="dfasblkf91"></a>Бухгалтерия нового предприятия формирует вступительную финансовую отчетность</li></ol></div><a data-anchor="/document/16/218485/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/218485/bssPhr20/"></a><a data-anchor="/document/16/218485/dfasie0x11/" data-dfa="dfasie0x11"></a>Основание для реорганизации ООО в&nbsp;форме выделения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:59pt"><a data-anchor="/document/16/218485/bssPhr22/"></a><a data-anchor="/document/16/218485/dfas0aky2k/" data-dfa="dfas0aky2k"></a>Перед тем, как начать процедуру выделения проведите общее собрание участников. Основанием для выделения служит <span num="73" target="_self" lnktype="intlnk" title="" class="doc">решение общего собрания участников общества</span>, реорганизуемого в&nbsp;форме выделения, оформленное протоколом.</p><p><a data-anchor="/document/16/218485/bssPhr23/"></a><a data-anchor="/document/16/218485/dfasavst09/" data-dfa="dfasavst09"></a>Общее собрание принимает решение о&nbsp;порядке и&nbsp;условиях выделения, о&nbsp;создании нового общества либо обществ и&nbsp;об&nbsp;утверждении разделительного баланса. Также вносит в&nbsp;учредительные документы реорганизуемого общества изменения, связанные с&nbsp;составом участников, размером их&nbsp;долей, и&nbsp;иные изменения, предусмотренные решением о&nbsp;выделении. При необходимости собрание решает иные вопросы, в&nbsp;том числе об&nbsp;избрании исполнительных органов общества.</p><p><a data-anchor="/document/16/218485/bssPhr24/"></a><a data-anchor="/document/16/218485/dfasvgvfos/" data-dfa="dfasvgvfos"></a>Участники выделяемого общества подписывают учредительный договор. Общее собрание участников выделяемого общества утверждает его устав и&nbsp;избирает исполнительный орган общества.</p></div><a data-anchor="/document/16/218485/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/218485/bssPhr25/"></a><a data-anchor="/document/16/218485/dfas3201oq/" data-dfa="dfas3201oq"></a>Уведомление контрагентов</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218485/bssPhr27/"></a><a data-anchor="/document/16/218485/dfasm4hggf/" data-dfa="dfasm4hggf"></a>Уведомить контрагентов о&nbsp;начале реорганизации в&nbsp;форме выделения нужно в&nbsp;течение 30&nbsp;дней с&nbsp;даты принятия решения о&nbsp;реорганизации (абз. г&nbsp;п.&nbsp;11&nbsp;НСБУ №&nbsp;23, <span num="75" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;52</span>&nbsp;ГК).</p><p><a data-anchor="/document/16/218485/bssPhr28/"></a><a data-anchor="/document/16/218485/dfas1oyesq/" data-dfa="dfas1oyesq"></a>Опубликуйте на&nbsp;ЕПИГУ сообщение о&nbsp;начале реорганизации. При этом публикация указанного сообщения в&nbsp;печатных СМИ не&nbsp;нужна (№ <span num="76" target="_self" lnktype="intlnk" title="" class="doc">ПП-2646</span> от&nbsp;28.10.2016г.).</p><p><a data-anchor="/document/16/218485/bssPhr29/"></a><a data-anchor="/document/16/218485/dfasmygo7k/" data-dfa="dfasmygo7k"></a>Кредиторы, в&nbsp;течение 30&nbsp;дней с&nbsp;даты их&nbsp;оповещения или публикации объявления о&nbsp;реорганизации, могут потребовать досрочного исполнения обязательства и&nbsp;возмещения убытков (<span num="77" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;52&nbsp;ГК</span>).</p></div><a data-anchor="/document/16/218485/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/218485/bssPhr30/"></a><a data-anchor="/document/16/218485/dfasq6wqgp/" data-dfa="dfasq6wqgp"></a>Инвентаризация</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p style="margin-right:59pt"><a data-anchor="/document/16/218485/bssPhr32/"></a><a data-anchor="/document/16/218485/dfasyemzrk/" data-dfa="dfasyemzrk"></a>Инвентаризацию проводит реорганизуемое предприятие для того, чтобы определить активы и&nbsp;обязательства, которые будут переданы новому предприятию. Срок проведения инвентаризации определяют учредители в&nbsp;протоколе о&nbsp;реорганизации. Инвентаризацию проводите в&nbsp;соответствии с&nbsp;правилами <span num="116" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;19</span>.</p><p><a data-anchor="/document/16/218485/bssPhr33/"></a><a data-anchor="/document/16/218485/dfasry0dmp/" data-dfa="dfasry0dmp"></a>При инвентаризации проверьте:</p><ul class="c-list"><li><a data-anchor="/document/16/218485/bssPhr34/"></a><a data-anchor="/document/16/218485/dfased4z4c/" data-dfa="dfased4z4c"></a>все имущество;</li><li>дебиторскую и&nbsp;кредиторскую задолженности;</li><li>наличие документов, подтверждающих право собственности на&nbsp;объекты недвижимости и&nbsp;на&nbsp;право пользования нематериальными активами.</li></ul><p><a data-anchor="/document/16/218485/bssPhr35/"></a><a data-anchor="/document/16/218485/dfasz6k0zw/" data-dfa="dfasz6k0zw"></a>Если обнаружены расхождения между данными бухучета и&nbsp;данными инвентаризации, внесите корректировки в&nbsp;бухучет (<span num="117" target="_self" lnktype="intlnk" title="" class="doc">глава&nbsp;5</span>&nbsp;НСБУ №&nbsp;19).</p><p><a data-anchor="/document/16/218485/bssPhr36/"></a><a data-anchor="/document/16/218485/dfasibyh1b/" data-dfa="dfasibyh1b"></a>Описи и&nbsp;акты инвентаризации по&nbsp;передаваемому имуществу и&nbsp;обязательствам, приложите к&nbsp;передаточному акту.</p></div><a data-anchor="/document/16/218485/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/218485/bssPhr37/"></a><a data-anchor="/document/16/218485/dfasg7sx9w/" data-dfa="dfasg7sx9w"></a>Какие документы оформить реорганизуемому предприятию</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218485/bssPhr39/"></a><a data-anchor="/document/16/218485/dfas993wev/" data-dfa="dfas993wev"></a>Реорганизация в&nbsp;форме <strong>выделения</strong>&nbsp;— это возникновение одного или нескольких новых предприятий путем передачи им&nbsp;части прав и&nbsp;обязанностей реорганизуемого предприятия (<span num="80" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;50</span>&nbsp;ГК, абз. г п.&nbsp;6&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218485/bssPhr40/"></a><a data-anchor="/document/16/218485/dfasrgipii/" data-dfa="dfasrgipii"></a>Решение о&nbsp;реорганизации юридического лица принимают учредители либо орган, уполномоченный на&nbsp;то&nbsp;документами. С&nbsp;момента государственной регистрации вновь возникших предприятий юридическое лицо считают реорганизованным в&nbsp;форме выделения (<span num="82" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;49</span>&nbsp;ГК, п.&nbsp;9&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218485/bssPhr41/"></a><a data-anchor="/document/16/218485/dfasz9eqto/" data-dfa="dfasz9eqto"></a>При реорганизации в&nbsp;форме выделения реорганизуемое предприятие:</p><ul class="c-list"><li><a data-anchor="/document/16/218485/bssPhr42/"></a><a data-anchor="/document/16/218485/dfasrfy5pk/" data-dfa="dfasrfy5pk"></a>продолжает текущую деятельность;</li><li>не&nbsp;прерывает учет хозяйственных операций;</li><li>не&nbsp;закрывает счета учета доходов и&nbsp;расходов;</li><li>не&nbsp;прерывает текущий отчетный период;</li><li>не&nbsp;формирует заключительную финансовую отчетность.</li></ul><p><a data-anchor="/document/16/218485/bssPhr43/"></a><a data-anchor="/document/16/218485/dfaskzcexe/" data-dfa="dfaskzcexe"></a>В&nbsp;процессе выделения у&nbsp;реорганизуемого предприятия меняется только объем имущества и&nbsp;обязательств.</p><p><a data-anchor="/document/16/218485/bssPhr44/"></a><a data-anchor="/document/16/218485/dfasp7q4i5/" data-dfa="dfasp7q4i5"></a>До&nbsp;даты регистрации вновь созданной организации расходы, связанные с&nbsp;реорганизацией, следует отражать в&nbsp;бухгалтерском учете реорганизуемого предприятия как прочие операционные расходы на <strong>счете 9430 </strong>(п.&nbsp;25, <span num="121" target="_self" lnktype="intlnk" title="" class="doc">53</span>&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218485/bssPhr45/"></a><a data-anchor="/document/16/218485/dfasg7qvyx/" data-dfa="dfasg7qvyx"></a>Активы и&nbsp;обязательства передавайте по&nbsp;передаточному акту и&nbsp;разделительному балансу.</p><p><a data-anchor="/document/16/218485/bssPhr46/"></a><a data-anchor="/document/16/218485/dfasihf9ic/" data-dfa="dfasihf9ic"></a>Как составить передаточный акт</p><p><a data-anchor="/document/16/218485/bssPhr47/"></a><a data-anchor="/document/16/218485/dfasy63a1l/" data-dfa="dfasy63a1l"></a>Определите в&nbsp;какой оценке будете передавать правопреемнику активы и&nbsp;обязательства. Порядок оценки определяет решение учредителей.</p><p><a data-anchor="/document/16/218485/bssPhr48/"></a><a data-anchor="/document/16/218485/dfas5m4g1c/" data-dfa="dfas5m4g1c"></a>Способы оценки для разных видов активов определены в&nbsp;приложении к&nbsp;<span num="122" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;23</span>.</p><p><a data-anchor="/document/16/218485/bssPhr49/"></a><a data-anchor="/document/16/218485/dfasu5igzg/" data-dfa="dfasu5igzg"></a>Передачу активов и&nbsp;обязательств правопреемникам при реорганизации не&nbsp;считают реализацией и&nbsp;не&nbsp;рассматривают как их&nbsp;выбытие (п.&nbsp;<span num="123" target="_self" lnktype="intlnk" title="" class="doc">23</span>&nbsp;НСБУ №&nbsp;23, <span num="88" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;3</span>&nbsp;ст.&nbsp;238&nbsp;НК).</p><p><a data-anchor="/document/16/218485/bssPhr50/"></a><a data-anchor="/document/16/218485/dfasu95i2l/" data-dfa="dfasu95i2l"></a>Передаточный акт должен содержать:</p><ul class="c-list"><li><a data-anchor="/document/16/218485/bssPhr51/"></a><a data-anchor="/document/16/218485/dfaspnvcca/" data-dfa="dfaspnvcca"></a>перечень документов, передаваемых правопреемнику;</li><li>данные по&nbsp;финансовой отчетности в&nbsp;части, передаваемой правопреемнику;</li><li>утверждение о&nbsp;передаче прав и&nbsp;обязательств правопреемнику.</li></ul><p><a data-anchor="/document/16/218485/bssPhr52/"></a><a data-anchor="/document/16/218485/dfaskh1ole/" data-dfa="dfaskh1ole"></a>В&nbsp;передаточный<strong> акт включайте </strong>(п.&nbsp;<span num="124" target="_self" lnktype="intlnk" title="" class="doc">10</span>&nbsp;НСБУ №&nbsp;23):</p><ul class="c-list"><li><a data-anchor="/document/16/218485/bssPhr53/"></a><a data-anchor="/document/16/218485/dfas1z8kdg/" data-dfa="dfas1z8kdg"></a>финансовую отчетность с&nbsp;отражением активов и&nbsp;обязательств в&nbsp;оценке на&nbsp;последнюю отчетную дату перед их&nbsp;передачей;</li><li>акты, описи инвентаризации активов и&nbsp;обязательств реорганизуемого предприятия;</li><li>первичные документы по&nbsp;материальным и&nbsp;нематериальным активам, акты, накладные приема-передачи основных средств, нематериальных активов, товарно-материальных запасов и&nbsp;др., перечни, описи иных активов, подлежащих приему-передаче при реорганизации;</li><li>расшифровки кредиторской и&nbsp;дебиторской задолженностей;</li><li>информацию о&nbsp;письменном уведомлении кредиторов и&nbsp;дебиторов о&nbsp;переходе имущества и&nbsp;обязательств по&nbsp;договорам к&nbsp;правопреемникам;</li><li>расчеты с&nbsp;бюджетом, государственными целевыми фондами и&nbsp;др.</li></ul><p><a data-anchor="/document/16/218485/bssPhr54/"></a><a data-anchor="/document/16/218485/dfasyg9md8/" data-dfa="dfasyg9md8"></a>Реорганизуемое предприятие должно передать по&nbsp;передаточному акту всю документацию, подтверждающую передаваемые права и&nbsp;обязанности, по&nbsp;которой не&nbsp;истек срок хранения. Правопреемники берут на&nbsp;себя обязательства по&nbsp;дальнейшему хранению учетной документации реорганизуемого предприятия (<span num="90" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;79&nbsp;НК).</p><p><a data-anchor="/document/16/218485/bssPhr55/"></a><a data-anchor="/document/16/218485/dfaspi58bk/" data-dfa="dfaspi58bk"></a>По&nbsp;передаточным актам передавайте информацию о&nbsp;правопреемстве прав и&nbsp;обязанностей, а&nbsp;не&nbsp;только данные по&nbsp;счетам бухгалтерского учета. Это касается передаваемых обязательств всех кредиторов и&nbsp;дебиторов, включая оспариваемые сторонами (<span num="91" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;51</span>&nbsp;ГК, п.&nbsp;12&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218485/bssPhr56/"></a><a data-anchor="/document/16/218485/dfasac40s3/" data-dfa="dfasac40s3"></a>Как составить разделительный баланс</p><p><a data-anchor="/document/16/218485/bssPhr57/"></a><a data-anchor="/document/16/218485/dfas40nq2u/" data-dfa="dfas40nq2u"></a><strong>При составлении разделительного баланса </strong>определите, какие активы и&nbsp;обязательства переходят правопреемнику и&nbsp;проведите разделение числовых показателей по&nbsp;балансу реорганизуемого предприятия.</p><p><a data-anchor="/document/16/218485/bssPhr58/"></a><a data-anchor="/document/16/218485/dfas7rya51/" data-dfa="dfas7rya51"></a>При выделении из&nbsp;общества одного или нескольких обществ к&nbsp;каждому из&nbsp;них переходит часть прав и&nbsp;обязанностей реорганизованного общества в&nbsp;соответствии с&nbsp;разделительным балансом.</p><p><a data-anchor="/document/16/218485/bssPhr59/"></a><a data-anchor="/document/16/218485/dfas2bzflm/" data-dfa="dfas2bzflm"></a>Числовые показатели Отчета о&nbsp;финансовых результатах (<strong>форма №&nbsp;2</strong>) реорганизуемое предприятие не&nbsp;разделяет (п.&nbsp;<span num="126" target="_self" lnktype="intlnk" title="" class="doc">51</span>&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218485/bssPhr60/"></a><a data-anchor="/document/16/218485/dfasgdkwzx/" data-dfa="dfasgdkwzx"></a>В&nbsp;пояснительной записке к&nbsp;очередной финансовой отчетности реорганизуемое предприятие должно указать:</p><ul class="c-list"><li><a data-anchor="/document/16/218485/bssPhr61/"></a><a data-anchor="/document/16/218485/dfaswgx7uc/" data-dfa="dfaswgx7uc"></a>основание проведения реорганизации (решение учредителей);</li><li>сведения о&nbsp;правопреемниках;</li><li>величину расходов, связанных с&nbsp;реорганизацией;</li><li>прочую информацию, связанную с&nbsp;реорганизацией.</li></ul><p><a data-anchor="/document/16/218485/bssPhr62/"></a><a data-anchor="/document/16/218485/dfasyi7w26/" data-dfa="dfasyi7w26"></a>Расходы, связанные с&nbsp;реорганизацией реорганизуемое предприятие, в <span num="94" target="_self" lnktype="intlnk" title="" class="doc">отчете о&nbsp;финансовых результатах</span> по&nbsp;форме №&nbsp;2&nbsp;раскрывайте по&nbsp;строке <strong>«Прочие операционные расходы» </strong> (п.&nbsp;25&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218485/bssPhr63/"></a><a data-anchor="/document/16/218485/dfasfqughe/" data-dfa="dfasfqughe"></a>Если с&nbsp;даты оформления передаточных актов и&nbsp;разделительных балансов до&nbsp;даты внесения в&nbsp;Реестр записи о&nbsp;возникших предприятиях были еще какие-либо операции, их&nbsp;также отражает в&nbsp;своем учете реорганизуемое предприятия. Данные об&nbsp;этих изменениях указывайте в&nbsp;уточнениях к&nbsp;передаточному акту.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как отразить в бухучете&#160;реорганизуемого предприятия&#160;выбытие ОС&#160;в качестве вклада&#160;в УФ выделяемого предприятия</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/218485/dfasgl7df0/" data-dfa="dfasgl7df0"></a><a data-anchor="/document/16/218485/bssPhr65/"></a>Передачу прав на имущество в качестве вклада в УФ выделяемого предприятия, отражают&nbsp;в финансовой отчетности реорганизуемого предприятия как финансовые вложения, а у выделяемого предприятия,&nbsp;как взнос в УФ (<span num="140" target="_self" lnktype="intlnk" title="" class="doc">п. 56</span> НСБУ № 23).</p><p><a data-anchor="/document/16/218485/dfas4itlh2/" data-dfa="dfas4itlh2"></a><a data-anchor="/document/16/218485/bssPhr66/"></a>Фактически у реорганизуемого предприятия происходит выбытие основных средств, которое&nbsp;в бухгалтерском учете следует отразить&nbsp;проводками:</p><p><a data-anchor="/document/16/218485/dfasbdugn4/" data-dfa="dfasbdugn4"></a><a data-anchor="/document/16/218485/bssPhr67/"></a><strong>Дебет 0600 Кредит&nbsp;9210</strong></p><p><a data-anchor="/document/16/218485/dfasl2goe2/" data-dfa="dfasl2goe2"></a><a data-anchor="/document/16/218485/bssPhr68/"></a>– переданы ОС в качестве вклада в УФ;</p><p><a data-anchor="/document/16/218485/dfasvs56we/" data-dfa="dfasvs56we"></a><a data-anchor="/document/16/218485/bssPhr69/"></a><strong>Дебет 9210 Кредит 6410</strong></p><p><a data-anchor="/document/16/218485/dfassytqnf/" data-dfa="dfassytqnf"></a><a data-anchor="/document/16/218485/bssPhr70/"></a>– начислен НДС;</p><p><a data-anchor="/document/16/218485/dfaszznfa6/" data-dfa="dfaszznfa6"></a><a data-anchor="/document/16/218485/bssPhr71/"></a><strong>Дебет 9210 Кредит 0100</strong></p><p><a data-anchor="/document/16/218485/dfasnshv0c/" data-dfa="dfasnshv0c"></a><a data-anchor="/document/16/218485/bssPhr72/"></a>– списаны ОС при передаче в качестве вклада в УФ;</p><p><a data-anchor="/document/16/218485/dfaspng7yg/" data-dfa="dfaspng7yg"></a><a data-anchor="/document/16/218485/bssPhr73/"></a><strong>Дебет 0200 Кредит 9210</strong></p><p><a data-anchor="/document/16/218485/dfas73rg3o/" data-dfa="dfas73rg3o"></a><a data-anchor="/document/16/218485/bssPhr74/"></a>– списан фактический износ&nbsp;ОС;</p><p><a data-anchor="/document/16/218485/dfasaq9l17/" data-dfa="dfasaq9l17"></a><a data-anchor="/document/16/218485/bssPhr75/"></a><strong>Дебет 8510 Кредит 9210</strong></p><p><a data-anchor="/document/16/218485/dfas1g9gn8/" data-dfa="dfas1g9gn8"></a><a data-anchor="/document/16/218485/bssPhr76/"></a>– списание накопленной переоценки ОС;</p><p><a data-anchor="/document/16/218485/dfaspznkmq/" data-dfa="dfaspznkmq"></a><a data-anchor="/document/16/218485/bssPhr77/"></a><strong>Дебет 9210 Кредит 9310</strong></p><p><a data-anchor="/document/16/218485/dfasbsrrwz/" data-dfa="dfasbsrrwz"></a><a data-anchor="/document/16/218485/bssPhr78/"></a>– прибыль от выбытия ОС;</p><p><a data-anchor="/document/16/218485/dfas5hk1h1/" data-dfa="dfas5hk1h1"></a><a data-anchor="/document/16/218485/bssPhr79/"></a><strong>Дебет 9430 Кредит 9210</strong></p><p><a data-anchor="/document/16/218485/dfaswmu4be/" data-dfa="dfaswmu4be"></a><a data-anchor="/document/16/218485/bssPhr80/"></a>– убыток от выбытия ОС.</p></div></div></div><a data-anchor="/document/16/218485/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/218485/bssPhr81/"></a><a data-anchor="/document/16/218485/dfasof44x7/" data-dfa="dfasof44x7"></a>Порядок государственной регистрации при реорганизации</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218485/bssPhr83/"></a><a data-anchor="/document/16/218485/dfasurgeuq/" data-dfa="dfasurgeuq"></a>Завершающий этап процедуры выделения&nbsp;— регистрация нового общества в&nbsp;Центре госуслуг (<span num="96" target="_self" lnktype="intlnk" title="" class="doc">приложение №&nbsp;1</span>&nbsp;к ПКМ №&nbsp;66&nbsp;от&nbsp;09.02.2017).</p><p><a data-anchor="/document/16/218485/bssPhr84/"></a><a data-anchor="/document/16/218485/dfas1pqt83/" data-dfa="dfas1pqt83"></a>Зарегистрируйте новое предприятие в&nbsp;течение 30&nbsp;дней с&nbsp;даты реорганизации.</p><p><a data-anchor="/document/16/218485/bssPhr85/"></a><a data-anchor="/document/16/218485/dfas18g5c1/" data-dfa="dfas18g5c1"></a>Госрегистрацию можно провести одним из&nbsp;способов:</p><ol class="c-list"><li><a data-anchor="/document/16/218485/bssPhr86/"></a><a data-anchor="/document/16/218485/dfas47rqsq/" data-dfa="dfas47rqsq"></a>через интернет на&nbsp;ЕПИГУ;</li><li><a data-anchor="/document/16/218485/bssPhr87/"></a><a data-anchor="/document/16/218485/dfas0vdi92/" data-dfa="dfas0vdi92"></a>в&nbsp;явочном порядке.</li></ol><p><a data-anchor="/document/16/218485/bssPhr88/"></a><a data-anchor="/document/16/218485/dfaszicgpg/" data-dfa="dfaszicgpg"></a>Для госрегистрации предоставьте документы:</p><ol class="c-list"><li><a data-anchor="/document/16/218485/bssPhr89/"></a><a data-anchor="/document/16/218485/dfaszncqi9/" data-dfa="dfaszncqi9"></a>заявление о&nbsp;постановке на&nbsp;учет нового общества;</li><li><a data-anchor="/document/16/218485/bssPhr90/"></a><a data-anchor="/document/16/218485/dfasd97m4y/" data-dfa="dfasd97m4y"></a><span num="97" target="_self" lnktype="intlnk" title="" class="doc">решение общего собрания участников реорганизуемого общества</span>;</li><li><a data-anchor="/document/16/218485/bssPhr91/"></a><a data-anchor="/document/16/218485/dfas7grd6c/" data-dfa="dfas7grd6c"></a>учредительные документы на&nbsp;государственном языке;</li><li><a data-anchor="/document/16/218485/bssPhr92/"></a><a data-anchor="/document/16/218485/dfasbvirit/" data-dfa="dfasbvirit"></a>разделительный баланс и&nbsp;передаточный акт;</li><li><a data-anchor="/document/16/218485/bssPhr93/"></a><a data-anchor="/document/16/218485/dfasqgqrbg/" data-dfa="dfasqgqrbg"></a>копию банковского платежного документа об&nbsp;уплате государственной пошлины.</li></ol><p><a data-anchor="/document/16/218485/bssPhr94/"></a><a data-anchor="/document/16/218485/dfasm0el4b/" data-dfa="dfasm0el4b"></a>Предприятие считается реорганизованным с&nbsp;момента госрегистрации предприятий, возникших в&nbsp;результате выделения (п.&nbsp;9&nbsp;НСБУ №&nbsp;23)</p></div><a data-anchor="/document/16/218485/tit7/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit7"><a data-anchor="/document/16/218485/bssPhr95/"></a><a data-anchor="/document/16/218485/dfase89lg6/" data-dfa="dfase89lg6"></a>Финансовая отчетность нового предприятия</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218485/bssPhr97/"></a><a data-anchor="/document/16/218485/dfas6ieury/" data-dfa="dfas6ieury"></a>Вступительную финансовую отчетность новое предприятие начинает формировать с&nbsp;даты гос. регистрации на&nbsp;основании передаточного акта и&nbsp;разделительного баланса реорганизованного предприятия (п.&nbsp;26&nbsp;НСБУ №&nbsp;23).</p><p><a data-anchor="/document/16/218485/bssPhr98/"></a><a data-anchor="/document/16/218485/dfas7aguht/" data-dfa="dfas7aguht"></a>Для ввода сальдо по&nbsp;счетам бухучета можно использовать счет 0000.</p><p><a data-anchor="/document/16/218485/bssPhr99/"></a><a data-anchor="/document/16/218485/dfasn1w9dc/" data-dfa="dfasn1w9dc"></a>Например,</p><p><a data-anchor="/document/16/218485/bssPhr100/"></a><a data-anchor="/document/16/218485/dfas1lu3t4/" data-dfa="dfas1lu3t4"></a>Дебет 5110 Кредит 0000&nbsp;— приняты денежные средства на&nbsp;расчетный счет</p><p><a data-anchor="/document/16/218485/bssPhr101/"></a><a data-anchor="/document/16/218485/dfasf1ftn1/" data-dfa="dfasf1ftn1"></a>Дебет 0000 Кредит 6310&nbsp;— принята кредиторская задолженность (авансы, полученные от&nbsp;покупателей и&nbsp;заказчиков)</p><p><a data-anchor="/document/16/218485/bssPhr102/"></a><a data-anchor="/document/16/218485/dfasbcx3s3/" data-dfa="dfasbcx3s3"></a>Дебет 1010 Кредит 0000&nbsp;— приняты материалы</p><p><a data-anchor="/document/16/218485/bssPhr103/"></a><a data-anchor="/document/16/218485/dfas1dt0xx/" data-dfa="dfas1dt0xx"></a>Дебет 0100 Кредит 0000&nbsp;— приняты ОС</p><p><a data-anchor="/document/16/218485/bssPhr104/"></a><a data-anchor="/document/16/218485/dfasi5tix0/" data-dfa="dfasi5tix0"></a>Дебет 0000 Кредит 0200&nbsp;— отражен износ по&nbsp;принятым ОС</p><p><a data-anchor="/document/16/218485/bssPhr105/"></a><a data-anchor="/document/16/218485/dfas69v2ku/" data-dfa="dfas69v2ku"></a>Дебет 0000 Кредит 8510&nbsp;— отражено сальдо переоценки по&nbsp;принятым ОС</p><p><a data-anchor="/document/16/218485/bssPhr106/"></a><a data-anchor="/document/16/218485/dfaslg3fqg/" data-dfa="dfaslg3fqg"></a>Уставный фонд отражается в&nbsp;учете у&nbsp;нового предприятия в&nbsp;порядке и&nbsp;сумме определенном в&nbsp;решении собственников.</p></div><a data-anchor="/document/16/218485/tit8/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit8"><a data-anchor="/document/16/218485/bssPhr107/"></a><a data-anchor="/document/16/218485/dfasmwpxor/" data-dfa="dfasmwpxor"></a>Правовые последствия выделения</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/218485/bssPhr109/"></a><a data-anchor="/document/16/218485/dfasgvfz9k/" data-dfa="dfasgvfz9k"></a>При выделении есть такие особенности, которых нет в&nbsp;других видах реорганизации:</p><ul class="c-list"><li><a data-anchor="/document/16/218485/bssPhr110/"></a><a data-anchor="/document/16/218485/dfas64vuok/" data-dfa="dfas64vuok"></a>выделенное юрлицо не&nbsp;является правопреемником реорганизуемого предприятия по&nbsp;налоговым обязательствам (<span num="100" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;11</span>&nbsp;ст.&nbsp;92&nbsp;НК);</li><li>не&nbsp;возникает универсального правопреемства по&nbsp;гражданским требованиям, то&nbsp;есть все права и&nbsp;обязанности старой компании не&nbsp;переходят к&nbsp;новой. Решение, что передать, а&nbsp;что оставить принимают участники реорганизуемого юрлица. Имущество и&nbsp;обязательства переходят к&nbsp;вновь образованной компании на&nbsp;основании разделительного баланса.</li></ul><p><a data-anchor="/document/16/218485/bssPhr111/"></a><a data-anchor="/document/16/218485/dfasc8nvbo/" data-dfa="dfasc8nvbo"></a>Лицензии компании, из&nbsp;которой произошло выделение, не&nbsp;прекращают действия, в&nbsp;том случае если она сохраняет прежний вид деятельности. Выделенная компания должна получать новую лицензию на&nbsp;общих основаниях (<span num="101" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;23&nbsp;Закона о&nbsp;лицензировании отдельных видов деятельности).</p></div><p><a data-anchor="/document/16/218485/dfasz5b251/" data-dfa="dfasz5b251"></a><a data-anchor="/document/16/218485/bssPhr112/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882132" sourceId="1" fullSizeImageId="-41882131" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882132/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

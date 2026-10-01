@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Ценообразование: как рассчитать минимально допустимую цену реализации</h2><div class="doc-snippet"><a data-anchor="/document/16/219635/dfasp6aa0u/" data-dfa="dfasp6aa0u"></a><a data-anchor="/document/16/219635/bssPhr3/"></a>Решение подскажет, как задать минимальные цены для коммерческой службы, чтобы избежать продаж в убыток. Оно предлагает четыре методики расчета в зависимости от ситуации и целей компании. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/219635/bssPhr4/"></a><a data-anchor="/document/16/219635/qwert50/"></a><a data-anchor="/document/16/219635/qwert49/"></a><a data-anchor="/document/16/219635/qwert48/"></a><a data-anchor="/document/16/219635/dfaskp4htf/" data-dfa="dfaskp4htf"></a><a data-anchor="/document/16/219635/qwert65/"></a><a data-anchor="/document/16/219635/qwert64/"></a>Устанавливать цены реализации&nbsp;– в компетенции служб маркетинга и продаж. Задача финансистов&nbsp;– рассчитать нижнюю границу для цен, чтобы обезопасить компанию от убытков.</p><p><a data-anchor="/document/16/219635/bssPhr6/"></a><a data-anchor="/document/16/219635/dfas6803ai/" data-dfa="dfas6803ai"></a>Есть четыре способа задать минимальную или допустимую отпускную цену в зависимости от цели:</p><ul class="c-list"><li><a data-anchor="/document/16/219635/bssPhr7/"></a><a data-anchor="/document/16/219635/dfascodf9d/" data-dfa="dfascodf9d"></a><span num="78" target="_blank" lnktype="intlnk" title="" class="doc">обеспечить безубыточность продаж</span>;</li><li><span num="79" target="_blank" lnktype="intlnk" title="" class="doc">избежать риска замены товара на другой</span>;</li><li><span num="80" target="_blank" lnktype="intlnk" title="" class="doc">отгрузить всю линейку</span>;</li><li><span num="81" target="_blank" lnktype="intlnk" title="" class="doc">или распродать неликвидные запасы</span>.</li></ul><p><a data-anchor="/document/16/219635/bssPhr8/"></a><a data-anchor="/document/16/219635/dfassaa55f/" data-dfa="dfassaa55f"></a>Чтобы упорядочить процесс формирования цен, сохраните себе <a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export" href="https://1gb.uz/system/content/attachment//16//">Положение о порядке формирования цен на продукцию компании</a>&nbsp;и <a data-dwh-source-type-download="button_inline" data-dwh-click-type="linkAttach" class="js-export" href="https://1gb.uz/system/content/attachment//16//">о ценообразовании и предоставлении скидок клиентам</a>. Узнайте также, <span num="84" target="_blank" lnktype="intlnk" title="" class="doc">как правильно рассчитать наценку на товар</span>.</p><a data-anchor="/document/16/219635/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/219635/bssPhr9/"></a><a data-anchor="/document/16/219635/dfasqxbzpk/" data-dfa="dfasqxbzpk"></a>Обеспечить&nbsp;безубыточность&nbsp;продаж</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/219635/bssPhr11/"></a><a data-anchor="/document/16/219635/dfasnxui6w/" data-dfa="dfasnxui6w"></a><a data-anchor="/document/16/219635/qwert67/"></a>Вопрос о минимальной цене продажи возникает, как правило, у сотрудников коммерческих служб при необходимости сделать скидку или «перебить» цену конкурента.</p><p><a data-anchor="/document/16/219635/bssPhr12/"></a><a data-anchor="/document/16/219635/dfas6zo80h/" data-dfa="dfas6zo80h"></a><a data-anchor="/document/16/219635/qwert68/"></a>Нижней границей можно считать такую цену, при которой новые продажи, дополнительные к существующим, не обернутся для компании финансовыми потерями. То есть продажи останутся безубыточными.</p><p><a data-anchor="/document/16/219635/bssPhr13/"></a><a data-anchor="/document/16/219635/dfasewr5xg/" data-dfa="dfasewr5xg"></a><a data-anchor="/document/16/219635/qwert69/"></a>Для безубыточных продаж минимальная цена реализации равна прямой себестоимости, увеличенной на сумму НДС.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-formula "><h3 class="incut-v4__tag" data-incut-toggle=""></h3><p class="incut-v4__title" data-incut-toggle=""><name>Формула 1. Минимальная цена реализации для обеспечения безубыточности продаж</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/219635/dfasagi688/" data-dfa="dfasagi688"></a><a data-anchor="/document/16/219635/bssPhr65/"></a><img class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></p><div class="b-table simple"><div class="small"><table class="bdAll" style="width:92%"><thead class="tr-head"><td width="15%">Символ</td><td width="50%">Расшифровка и единицы измерения</td><td width="35%">Источник</td></thead><tr><td><symbol><p><a name="bss-anchor" pid="p66" aList="dfasgmv1cp" forbr="yes"></a><a name="dfasgmv1cp"></a><a name="bssPhr66"></a>Ц<sub>МБ</sub></p></symbol></td><td><descrwithunits><p><a data-anchor="/document/16/219635/bssPhr70/"></a><a data-anchor="/document/16/219635/dfasecxtsg/" data-dfa="dfasecxtsg"></a><a data-anchor="/document/16/219635/dfasfi2k59/" data-dfa="dfasfi2k59"></a>Минимальная цена реализации для обеспечения безубыточности продаж, сум./ед.</p></descrwithunits></td><td><source><p><a data-anchor="/document/16/219635/bssPhr69/"></a><a data-anchor="/document/16/219635/dfaste2xnb/" data-dfa="dfaste2xnb"></a>Результат расчета</p></source></td></tr><tr><td><symbol><p><a name="bss-anchor" pid="p71" aList="dfasil3mkq" forbr="yes"></a><a name="dfasil3mkq"></a><a name="bssPhr71"></a>ПС</p></symbol></td><td><descrwithunits><p><a data-anchor="/document/16/219635/bssPhr75/"></a><a data-anchor="/document/16/219635/dfas6uqp40/" data-dfa="dfas6uqp40"></a><a data-anchor="/document/16/219635/dfasa04btr/" data-dfa="dfasa04btr"></a>Прямая себестоимость, сум./ед.</p></descrwithunits></td><td><source><p><a data-anchor="/document/16/219635/bssPhr74/"></a><a data-anchor="/document/16/219635/dfashqcsfz/" data-dfa="dfashqcsfz"></a>Бухгалтерский или управленческий учет</p></source></td></tr><tr><td><symbol><p><a name="bss-anchor" pid="p76" aList="dfaswcqt36" forbr="yes"></a><a name="dfaswcqt36"></a><a name="bssPhr76"></a>НДС</p></symbol></td><td><descrwithunits><p><a data-anchor="/document/16/219635/bssPhr80/"></a><a data-anchor="/document/16/219635/dfasu4mdiz/" data-dfa="dfasu4mdiz"></a><a data-anchor="/document/16/219635/dfasn7l264/" data-dfa="dfasn7l264"></a>Ставка налога на добавленную стоимость, %</p></descrwithunits></td><td><source><p><a data-anchor="/document/16/219635/bssPhr79/"></a><a data-anchor="/document/16/219635/dfasmbewdo/" data-dfa="dfasmbewdo"></a>Налоговое законодательство</p></source></td></tr></table></div></div><div class="clear"></div></div><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/219635/bssPhr14/"></a><a data-anchor="/document/16/219635/dfasfvxi20/" data-dfa="dfasfvxi20"></a><a data-anchor="/document/16/219635/mar42/"></a>Сравните рассчитанную по формуле 1 цену с предложением конкурента:</p><ul class="c-list"><li><a data-anchor="/document/16/219635/bssPhr15/"></a><a data-anchor="/document/16/219635/qwert72/"></a><a data-anchor="/document/16/219635/qwert70/"></a><a data-anchor="/document/16/219635/dfas487rse/" data-dfa="dfas487rse"></a><a data-anchor="/document/16/219635/mar43/"></a>если цена конкурента ниже, то, вероятнее всего, товар не аналогичен по своим потребительским свойствам, так как на современных предприятиях себестоимость схожих продуктов значительно не отличается. Важно, чтобы коммерческая служба учитывала это, проводя переговоры с потенциальным покупателем;</li><li><a data-anchor="/document/16/219635/mar44/"></a>если цена конкурента выше&nbsp;– оптимально предлагать цену, которая ниже, чем у него, на 5–7 процентов. Этого достаточно для положительного выбора клиентов при прочих равных условиях. При этом даже если предлагаемая цена товара ниже полной себестоимости, но выше прямой себестоимости, продажа по ней будет увеличивать операционную прибыль предприятия;</li><li><a data-anchor="/document/16/219635/mar45/"></a>если цены одинаковы, предпочтительно настаивать на других, не ценовых конкурентных преимуществах товара или предоставлять скидку в размере не более 2–3 процентов.</li></ul><p><a data-anchor="/document/16/219635/bssPhr16/"></a><a data-anchor="/document/16/219635/dfasrv7dnk/" data-dfa="dfasrv7dnk"></a><a data-anchor="/document/16/219635/qwert73/"></a>Подход применяйте, если коммерсанты планируют реализовать дополнительный объем товара к уже существующим продажам. Исключение составляют случаи, когда планируемые продажи могут заменить существующие.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/219635/bssPhr17/"></a><a data-anchor="/document/16/219635/dfasyqkgrd/" data-dfa="dfasyqkgrd"></a>Расчет&nbsp;минимальной цены товара для обеспечения безубыточности продаж</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/219635/bssPhr18/"></a><a data-anchor="/document/16/219635/dfaslpkgsx/" data-dfa="dfaslpkgsx"></a><strong>Вводные данные.</strong> Компания «Галактика» собирается заключить контракт на поставку чая «Харбин» в розничную сеть «Магистраль». Последняя требует самых низких цен.</p><p><a data-anchor="/document/16/219635/bssPhr19/"></a><a data-anchor="/document/16/219635/dfasdqwgch/" data-dfa="dfasdqwgch"></a>Закупочная стоимость пачки чая составляет 36&nbsp;сум. с НДС. Доставка от производителя до склада «Галактики» обходится в 40&nbsp;000&nbsp;сум. за 100&nbsp;000 пачек. В распределительный центр «Магистрали» товар можно отвозить на малотоннажном автотранспорте, что будет стоить 5000&nbsp;сум. за 15&nbsp;000 пачек. Цена конкурента на аналогичный продукт&nbsp;– 42&nbsp;сум.</p><p><a data-anchor="/document/16/219635/bssPhr20/"></a><a data-anchor="/document/16/219635/dfashkg507/" data-dfa="dfashkg507"></a><strong>Задача.</strong> Финансовой службе требуется определить, какую минимальную цену можно предложить розничной сети. Чтобы увеличить прибыль, достаточно назначить цену выше прямой себестоимости. Последняя складывается из покупной стоимости товара и накладных расходов.</p><p><a data-anchor="/document/16/219635/bssPhr21/"></a><a data-anchor="/document/16/219635/dfasixpgge/" data-dfa="dfasixpgge"></a><strong>Расчеты.</strong> Закупочная цена пачки чая без НДС равна 30 сум. (36&nbsp;сум.&nbsp;: 1,2) при ставке НДС 20&nbsp;процентов. Стоимость доставки до склада «Галактики» в расчете на одну пачку&nbsp;– 0,33&nbsp;сум. (40&nbsp;000&nbsp;сум.&nbsp;: 1,2&nbsp;: 100&nbsp;000 шт.), до склада заказчика&nbsp;– 0,28&nbsp;сум. (5000&nbsp;сум.&nbsp;: 1,2&nbsp;: 15&nbsp;000 шт.). Так, прямая себестоимость составляет 30,61&nbsp;сум. (30 сум.&nbsp;+ 0,33&nbsp;сум.&nbsp;+ 0,28&nbsp;сум.).</p><p><a data-anchor="/document/16/219635/bssPhr22/"></a><a data-anchor="/document/16/219635/dfaszr7gxr/" data-dfa="dfaszr7gxr"></a>Прибавив НДС в размере 20&nbsp;процентов, который необходимо будет уплатить при продаже по этой цене, получим цену 36,73&nbsp;сум.</p><p><a data-anchor="/document/16/219635/bssPhr23/"></a><a data-anchor="/document/16/219635/dfasgzhdzq/" data-dfa="dfasgzhdzq"></a>Это минимальная цена, при которой «Галактика» ничего не заработает и ничего не потеряет от сотрудничества с сетью «Магистраль». Любое ее значение выше исчисленного будет выгодно «Галактике».</p><p><a data-anchor="/document/16/219635/bssPhr24/"></a><a data-anchor="/document/16/219635/dfasa5g66p/" data-dfa="dfasa5g66p"></a><strong>Результат.</strong> Поскольку конкурент поставляет аналогичную продукцию по 42&nbsp;сум., то целесообразно предложить первоначальную цену на 5 процентов ниже, чем у него,&nbsp;то есть 39,90&nbsp;сум. за пачку. Теперь есть границы торга с розничной сетью: от 39,90&nbsp;до 36,73&nbsp;сум.&nbsp;– на случай, если клиент в процессе переговоров не согласится на первоначальное предложение.</p></div></div><p><a data-anchor="/document/16/219635/bssPhr25/"></a><a data-anchor="/document/16/219635/dfasaxaxib/" data-dfa="dfasaxaxib"></a><a data-anchor="/document/16/219635/qwert86/"></a><a data-anchor="/document/16/219635/dfasf3gypi/" data-dfa="dfasf3gypi"></a><a data-anchor="/document/16/219635/qwert87/"></a>Для упрощения расчета в примере выше не учли сложные для вычисления издержки, типичные для оптовой торговли: стоимость переупаковки под требования заказчика, комиссии, бонусы, а также затраты, зависящие от цены, например процент комиссии торгового персонала. В реальной деятельности необходимо учесть все затраты, которые возникнут в связи с исполнением планируемого контракта.</p></div><a data-anchor="/document/16/219635/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/219635/bssPhr26/"></a><a data-anchor="/document/16/219635/qwert861/"></a><a data-anchor="/document/16/219635/dfah8nymx4/" data-dfa="dfah8nymx4"></a>Снизить риск замещения продаж одного товара другим</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/219635/bssPhr28/"></a><a data-anchor="/document/16/219635/dfas7oa92e/" data-dfa="dfas7oa92e"></a><a data-anchor="/document/16/219635/qwert88/"></a>Если есть риск, что покупатели переключатся на товар с минимальной ценой реализации и перестанут покупать более рентабельные для компании товарные позиции, нижнюю границу цены первого товара можно определить так. В его ценовой категории выбрать продукт с самым низким маржинальным доходом, причем не в процентном, а в денежном выражении. Минимальная цена для рассматриваемого товара будет равна сумме его прямой себестоимости и маржинального дохода самого низкомаржинального продукта, увеличенной на сумму НДС.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-formula "><h3 class="incut-v4__tag" data-incut-toggle=""></h3><p class="incut-v4__title" data-incut-toggle=""><name>Формула 2. Минимальная цена реализации при риске замещения продаж</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/219635/dfasyy1bb1/" data-dfa="dfasyy1bb1"></a><a data-anchor="/document/16/219635/bssPhr83/"></a><img class="inimg" num="2" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></p><div class="b-table simple"><div class="small"><table class="bdAll" style="width:92%"><thead class="tr-head"><td width="15%">Символ</td><td width="50%">Расшифровка и единицы измерения</td><td width="35%">Источник</td></thead><tr><td><symbol><p><a name="bss-anchor" pid="p84" aList="dfasov2v3r" forbr="yes"></a><a name="dfasov2v3r"></a><a name="bssPhr84"></a>Ц<sub>МЗ</sub></p></symbol></td><td><descrwithunits><p><a data-anchor="/document/16/219635/bssPhr88/"></a><a data-anchor="/document/16/219635/dfas3yzv17/" data-dfa="dfas3yzv17"></a><a data-anchor="/document/16/219635/dfasfoxhtz/" data-dfa="dfasfoxhtz"></a>Минимальная цена реализации при риске замещения продаж, сум./ед.</p></descrwithunits></td><td><source><p><a data-anchor="/document/16/219635/bssPhr87/"></a><a data-anchor="/document/16/219635/dfasg98nnp/" data-dfa="dfasg98nnp"></a>Результат расчета</p></source></td></tr><tr><td><symbol><p><a name="bss-anchor" pid="p89" aList="dfaszd1omh" forbr="yes"></a><a name="dfaszd1omh"></a><a name="bssPhr89"></a>ПС</p></symbol></td><td><descrwithunits><p><a data-anchor="/document/16/219635/bssPhr93/"></a><a data-anchor="/document/16/219635/dfashtavox/" data-dfa="dfashtavox"></a><a data-anchor="/document/16/219635/dfasy1927k/" data-dfa="dfasy1927k"></a>Прямая себестоимость, сум./ед.</p></descrwithunits></td><td><source><p><a data-anchor="/document/16/219635/bssPhr92/"></a><a data-anchor="/document/16/219635/dfas6gsg1q/" data-dfa="dfas6gsg1q"></a>Бухгалтерский или управленческий учет</p></source></td></tr><tr><td><symbol><p><a name="bss-anchor" pid="p94" aList="dfasmd2814" forbr="yes"></a><a name="dfasmd2814"></a><a name="bssPhr94"></a>МД<sub>НП</sub></p></symbol></td><td><descrwithunits><p><a data-anchor="/document/16/219635/bssPhr98/"></a><a data-anchor="/document/16/219635/dfasypta4g/" data-dfa="dfasypta4g"></a><a data-anchor="/document/16/219635/dfaskqnr9s/" data-dfa="dfaskqnr9s"></a>Маржинальный доход самого низкомаржинального продукта из ценовой категории рассматриваемого товара, сум./ед.</p></descrwithunits></td><td><source><p><a data-anchor="/document/16/219635/bssPhr97/"></a><a data-anchor="/document/16/219635/dfasixknhm/" data-dfa="dfasixknhm"></a>Управленческий учет, отчеты о продажах, маржинальном доходе</p></source></td></tr><tr><td><symbol><p><a name="bss-anchor" pid="p99" aList="dfasth40y1" forbr="yes"></a><a name="dfasth40y1"></a><a name="bssPhr99"></a>НДС</p></symbol></td><td><descrwithunits><p><a data-anchor="/document/16/219635/bssPhr103/"></a><a data-anchor="/document/16/219635/dfasb7dc5d/" data-dfa="dfasb7dc5d"></a><a data-anchor="/document/16/219635/dfaso8ccws/" data-dfa="dfaso8ccws"></a>Ставка налога на добавленную стоимость, %</p></descrwithunits></td><td><source><p><a data-anchor="/document/16/219635/bssPhr102/"></a><a data-anchor="/document/16/219635/dfasrplttg/" data-dfa="dfasrplttg"></a>Налоговое законодательство</p></source></td></tr></table></div></div><div class="clear"></div></div><div class="incut-v4__icon"></div></div><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/219635/bssPhr29/"></a><a data-anchor="/document/16/219635/dfas8foha2/" data-dfa="dfas8foha2"></a>Определение&nbsp;минимальной цены товара при риске замещения</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/219635/bssPhr30/"></a><a data-anchor="/document/16/219635/dfaschw844/" data-dfa="dfaschw844"></a><strong>Вводные данные.</strong> Компания «Галактика» планирует заключить контракт на поставку новой марки чая «Чжоу» в розничную сеть «Магистраль», которая уже продает 10 сортов чая по разным ценам.</p><p><a data-anchor="/document/16/219635/bssPhr31/"></a><a data-anchor="/document/16/219635/dfas6a9gna/" data-dfa="dfas6a9gna"></a>Прямая себестоимость пачки «Чжоу» составляет 30,10&nbsp;сум. без НДС. Финансистам «Галактики» нужно определить минимальную цену реализации.</p><p><a data-anchor="/document/16/219635/bssPhr32/"></a><a data-anchor="/document/16/219635/dfasf6nwp4/" data-dfa="dfasf6nwp4"></a><strong>Задача.</strong> Чай «Чжоу» рассматривается как товар-конкурент для тех сортов чая, которые «Галактика» уже продает сети «Магистраль»: потребитель может начать покупать новый чай вместо тех, что продавались ранее. При таком замещении компании важно не потерять прибыль. Для этого маржинальный доход от нового товара должен быть не меньше, чем от продажи самого невыгодного из продаваемых ею видов чая.</p><p><a data-anchor="/document/16/219635/bssPhr33/"></a><a data-anchor="/document/16/219635/dfasm7nzgv/" data-dfa="dfasm7nzgv"></a><strong>Расчеты.</strong> Самый низкомаржинальный из 10 уже поставляемых товаров&nbsp;– чай «Май». При цене продаж 31,86&nbsp;сум. и прямой себестоимости 31,21&nbsp;сум. маржинальный доход от него составляет 0,65&nbsp;сум. за пачку (31,86&nbsp;сум.&nbsp;– 31,21&nbsp;сум.).</p><p><a data-anchor="/document/16/219635/bssPhr34/"></a><a data-anchor="/document/16/219635/dfas5sibs4/" data-dfa="dfas5sibs4"></a><strong>Результат.</strong> Сумма прямой себестоимости чая «Чжоу» и маржи чая «Май» равна 30,75&nbsp;сум. (30,10&nbsp;сум.&nbsp;+ 0,65&nbsp;сум.). Увеличив значение на НДС со ставкой 20%, получаем минимальную цену реализации. Она&nbsp;равна&nbsp;36,9&nbsp;сум. (30,75&nbsp;сум. × 1,2).</p><p><a data-anchor="/document/16/219635/bssPhr35/"></a><a data-anchor="/document/16/219635/dfasfwtuik/" data-dfa="dfasfwtuik"></a>Позитивный для компании сценарий&nbsp;– у чая «Чжоу» найдется свой покупатель, который предпочтет его товару предприятий-конкурентов. Негативный сценарий&nbsp;– покупатель купит чай «Чжоу» вместо другого чая, предлагаемого компанией. Но даже в этом случае «Галактика» ничего не потеряет.</p></div></div></div><a data-anchor="/document/16/219635/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/219635/bssPhr36/"></a><a data-anchor="/document/16/219635/dfahdu91t0/" data-dfa="dfahdu91t0"></a>Сбыть определенные позиции с помощью снижения цен</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/219635/bssPhr38/"></a><a data-anchor="/document/16/219635/dfasrltosa/" data-dfa="dfasrltosa"></a><a data-anchor="/document/16/219635/qwert99/"></a><a data-anchor="/document/16/219635/dfasts3fs7/" data-dfa="dfasts3fs7"></a><a data-anchor="/document/16/219635/qwert100/"></a>Если компании нужно заинтересовать покупателя и в то же время заработать, она может предложить приобрести набор товаров&nbsp;– сделать пакетное предложение по более низким ценам, чем у конкурентов. При этом по одним позициям цены могут быть ниже прямой себестоимости, увеличенной на сумму НДС, а по другим&nbsp;– выше. Главное условие&nbsp;– маржинальный доход компании по всему ассортименту должен быть положительным, то есть убыток по одним товарным позициям необходимо компенсировать прибылью по другим. Минимальная цена на отдельную товарную позицию может быть любой при выполнении этого условия. Пакетное предложение применяется, как правило, при разовых продажах или продаже в розницу.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/219635/bssPhr39/"></a><a data-anchor="/document/16/219635/dfasmk5zct/" data-dfa="dfasmk5zct"></a>Определение&nbsp;продажных цен для пакетного предложения</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/219635/bssPhr40/"></a><a data-anchor="/document/16/219635/dfasryp4mw/" data-dfa="dfasryp4mw"></a><strong>Вводные данные.</strong> Компания «Арагон» предложила покупателю приобрести 250 труб для скважин по 150&nbsp;000&nbsp;сум. за единицу, выручка от сделки составит 37&nbsp;500&nbsp;000&nbsp;сум., а маржинальный доход&nbsp;– 3&nbsp;177&nbsp;967&nbsp;сум. Конкуренты выставили другую цену ниже&nbsp;– 148&nbsp;000&nbsp;сум. за трубу. Известно также, что покупатель закупает прожекторы освещения&nbsp;– 1000 штук в год по 45&nbsp;000&nbsp;сум., которые компания «Арагон» может приобрести по 38&nbsp;500&nbsp;сум. с доставкой до потребителя.</p><p><a data-anchor="/document/16/219635/bssPhr41/"></a><a data-anchor="/document/16/219635/dfasft7dub/" data-dfa="dfasft7dub"></a><strong>Задача.</strong> Необходимо подготовить предложение, которое позволило бы привлечь покупателя и получить запланированный доход.</p><p><a data-anchor="/document/16/219635/bssPhr42/"></a><a data-anchor="/document/16/219635/dfas55gcl8/" data-dfa="dfas55gcl8"></a><strong>Расчеты.</strong> Трубы можно продать дешевле, чем предлагает конкурент,&nbsp;например, по 145&nbsp;000&nbsp;сум. за штуку. Потеря в цене составит 5000&nbsp;сум. за трубу (150&nbsp;000&nbsp;сум.&nbsp;– 145&nbsp;000&nbsp;сум.), компания недополучит маржинальный доход на сумму 1 041&nbsp;667&nbsp;сум. (5000&nbsp;сум.&nbsp;: 1,2&nbsp;× 250 шт.), то есть он составит 2&nbsp;136&nbsp;300&nbsp;сум. (3&nbsp;177&nbsp;967&nbsp;сум.&nbsp;– 1&nbsp;041&nbsp;667&nbsp;сум.).</p><p><a data-anchor="/document/16/219635/bssPhr43/"></a><a data-anchor="/document/16/219635/dfaslctxin/" data-dfa="dfaslctxin"></a>Чтобы компенсировать потерю в маржинальном доходе, можно предложить покупателю приобрести одновременно и прожекторы. Их цена будет ниже 45&nbsp;000&nbsp;сум., но такой, чтобы общий маржинальный доход от сделки (трубы&nbsp;+ прожекторы) был бы неизменным относительно первоначального коммерческого предложения.</p><p><a data-anchor="/document/16/219635/bssPhr44/"></a><a data-anchor="/document/16/219635/dfasgwo6vu/" data-dfa="dfasgwo6vu"></a>Покупная стоимость прожектора без НДС составляет для компании 32 083,33&nbsp;сум. (38&nbsp;500&nbsp;сум.&nbsp;: 1,2). Потерю в маржинальном доходе от продажи труб можно отнести на стоимость прожекторов; в результате распределения получается, что к цене каждого нужно добавить 1041,67&nbsp;сум. (1&nbsp;041&nbsp;667&nbsp;сум.&nbsp;: 1000 шт.). Так, прожектор будет стоить <nobr>33 125</nobr>&nbsp;сум. (32 083,33&nbsp;сум.&nbsp;+ 1041,67&nbsp;сум.), с НДС&nbsp;– 39&nbsp;750&nbsp;сум. (33&nbsp;125 сум.&nbsp;×&nbsp;1,2).</p><p><a data-anchor="/document/16/219635/bssPhr45/"></a><a data-anchor="/document/16/219635/dfas3b2g4h/" data-dfa="dfas3b2g4h"></a><strong>Результат.</strong> Коммерческое предложение компании «Арагон» будет таким:</p><ul class="c-list"><li><a data-anchor="/document/16/219635/bssPhr46/"></a><a data-anchor="/document/16/219635/dfas0yzmf2/" data-dfa="dfas0yzmf2"></a>трубы&nbsp;– 250 штук по 145&nbsp;000&nbsp;сум.;</li><li>прожекторы&nbsp;– 1000 штук по 39&nbsp;750&nbsp;сум.</li></ul><p><a data-anchor="/document/16/219635/bssPhr47/"></a><a data-anchor="/document/16/219635/dfasopskgf/" data-dfa="dfasopskgf"></a>В результате клиент получит цены ниже по обеим позициям, а компания&nbsp;– маржинальный доход в размере 3&nbsp;177&nbsp;970&nbsp;сум. (2&nbsp;136&nbsp;300&nbsp;сум.&nbsp;+ (33 125&nbsp;сум.&nbsp;– <nobr>32 083,33</nobr>&nbsp;сум.)&nbsp;× 1000 шт.), который из-за округления несколько превышает запланированное значение.</p></div></div></div><a data-anchor="/document/16/219635/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/219635/bssPhr48/"></a><a data-anchor="/document/16/219635/dfas5ftgn3/" data-dfa="dfas5ftgn3"></a>Ликвидировать&nbsp;товарные&nbsp;запасы</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/219635/bssPhr50/"></a><a data-anchor="/document/16/219635/dfasezhrig/" data-dfa="dfasezhrig"></a><a data-anchor="/document/16/219635/qwert114/"></a>Реализация товара по цене ниже прямой себестоимости может быть экономически оправданна, когда затраты на его дальнейшее хранение превышают предполагаемую прибыль от его реализации в будущем. Самый распространенный пример такой ситуации&nbsp;– сезонная распродажа.</p><p><a data-anchor="/document/16/219635/bssPhr51/"></a><a data-anchor="/document/16/219635/dfasltrmdb/" data-dfa="dfasltrmdb"></a><a data-anchor="/document/16/219635/qwert115/"></a>Ликвидационную стоимость товарной позиции можно определить как разницу между текущей стоимостью товара и затратами на его дальнейшее содержание. Если в течение сезона реализовать товар не удалось, то в дальнейшем вряд ли удастся удержать на него прежние цены. Например, в продажах одежды существенно влияет мода, техники&nbsp;– ее моральное и техническое устаревание. Подробнее о том, как определить, что выгоднее: продать товары со скидкой или хранить их до следующего сезона, читайте в&nbsp;рекомендации.</p><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-example " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Пример</h3><p class="incut-v4__title" data-incut-toggle=""><name><a data-anchor="/document/16/219635/bssPhr52/"></a><a data-anchor="/document/16/219635/dfas19bgyy/" data-dfa="dfas19bgyy"></a>Расчет&nbsp;минимальной цены товара во время сезонной распродажи</name></p><div class="incut-v4__content" data-incut-content=""><p><a data-anchor="/document/16/219635/bssPhr53/"></a><a data-anchor="/document/16/219635/dfasy2nzow/" data-dfa="dfasy2nzow"></a><strong>Вводные данные.</strong> Компания «Авалон» занимается продажей обуви, меняет коллекцию каждые три месяца. К концу сезона необходимо снизить цены и распродать остатки, так как торговую площадь требуется освободить для нового товара. Нераспроданные остатки обуви придется перевезти на отдельный арендуемый склад и хранить до следующего сезона.</p><p><a data-anchor="/document/16/219635/bssPhr54/"></a><a data-anchor="/document/16/219635/dfasgny3hk/" data-dfa="dfasgny3hk"></a>Закупочная цена пары обуви с доставкой и без НДС составляет 1435&nbsp;сум., а цена продажи&nbsp;– 1990&nbsp;сум. Непроданный товар предстоит хранить шесть месяцев на складе. Одна пара занимает площадь, равную 0,12 кв. м, всего на складе восемь полок, расположенных одна над другой. Аренда обходится компании в 350&nbsp;сум. за квадратный метр в месяц. Условия банка по кредитам&nbsp;– 12 процентов годовых. Предполагается, что и через полгода компания сможет продать товар по 1990&nbsp;сум. за пару, однако предпочтительно реализовать его в текущем сезоне.</p><p><a data-anchor="/document/16/219635/bssPhr55/"></a><a data-anchor="/document/16/219635/dfashrzk3s/" data-dfa="dfashrzk3s"></a><strong>Задача.</strong> Предстоит определить цену распродажи, при которой финансовый результат окажется таким же, какой ожидается получить через шесть месяцев,&nbsp;– без снижения цены, но с учетом затрат на хранение.</p><p><a data-anchor="/document/16/219635/bssPhr56/"></a><a data-anchor="/document/16/219635/dfasaiidw3/" data-dfa="dfasaiidw3"></a><strong>Расчеты.</strong> Хранение одной пары обойдется компании в 26,25&nbsp;сум. (0,12 кв.&nbsp;м&nbsp;: 8 рядов&nbsp;× 350&nbsp;сум.&nbsp;× 6 мес.&nbsp;: 1,2); стоимость кредитных средств, замороженных в товаре, в расчете на одну пару составляет 105,21&nbsp;сум. ((1435&nbsp;сум.&nbsp;+ 26,25)&nbsp;× 1,2&nbsp;× 12%&nbsp;: 12 мес.&nbsp;× 6 мес.). Так, общие расходы по содержанию пары обуви равны 131,46&nbsp;сум. (26,25&nbsp;сум.&nbsp;+ 105,21&nbsp;сум.).</p><p><a data-anchor="/document/16/219635/bssPhr57/"></a><a data-anchor="/document/16/219635/dfas67nwb7/" data-dfa="dfas67nwb7"></a>Текущая цена продажи без НДС равна 1658,33&nbsp;сум. (1990&nbsp;сум.&nbsp;: 1,2). Ее нужно сократить&nbsp;на величину будущих расходов, увеличенных на суммы НДС, то есть предоставить скидку на 157,75 сум. (131,46&nbsp;сум.&nbsp;× 1,2).</p><p><a data-anchor="/document/16/219635/bssPhr58/"></a><a data-anchor="/document/16/219635/dfas3wggxk/" data-dfa="dfas3wggxk"></a><strong>Результат.</strong> Минимальная цена, продажа по которой в этом сезоне равнозначна реализации по существующей цене в будущем, составляет 1832,25&nbsp;сум. (1990&nbsp;сум.&nbsp;– 157,75&nbsp;сум.).</p></div></div></div><p><a data-anchor="/document/16/219635/bssPhr59/"></a><a data-anchor="/document/16/219635/dfasym9suc/" data-dfa="dfasym9suc"></a>Изучите дополнительные рекомендации, которые помогут установить цены на продукцию компании.</p><p><a data-anchor="/document/16/219635/bssPhr61/"></a><a data-anchor="/document/16/219635/dfasqglr62/" data-dfa="dfasqglr62"></a>Скачайте образцы&nbsp;документов. Возьмите их за основу, если нужно разработать аналогичные для вашей компании.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-download "><h3 class="incut-v4__tag" data-incut-toggle="">Скачайте</h3><p class="incut-v4__title" data-incut-toggle=""><name>Образцы документов</name></p><div class="incut-v4__content" data-incut-content=""><ul class="incut-v4-download__files"><li class="incut-v4-download__file"><a class="incut-v4-download__file-link" data-dwh-source-type-download="block_download" href="/system/content/attachment//16//?isInline=true">Положение о ценообразовании</a><sup class="incut-v4-download__file-extension"></sup></li><li class="incut-v4-download__file"><a class="incut-v4-download__file-link" data-dwh-source-type-download="block_download" href="/system/content/attachment//16//?isInline=true">Порядок формирования цен</a><sup class="incut-v4-download__file-extension"></sup></li><li class="incut-v4-download__file"><a class="incut-v4-download__file-link" data-dwh-source-type-download="block_download" href="/system/content/attachment//16//?isInline=true">Положение о порядке формирования цен на продукцию компании</a><sup class="incut-v4-download__file-extension"></sup></li><li class="incut-v4-download__file"><a class="incut-v4-download__file-link" data-dwh-source-type-download="block_download" href="/system/content/attachment//16//?isInline=true">Положение о ценообразовании и предоставлении скидок и бонусов клиентам</a><sup class="incut-v4-download__file-extension"></sup></li><li class="incut-v4-download__file"><a class="incut-v4-download__file-link" data-dwh-source-type-download="block_download" href="/system/content/attachment//16//?isInline=true">Положение о контроле отпускных цен компании</a><sup class="incut-v4-download__file-extension"></sup></li></ul></div><div class="incut-v4__icon"></div></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как сдавать заказчику законченный капитальным ремонтом объект</h2><div class="doc-snippet"><a data-anchor="/document/16/205752/dfas2yoa8x/" data-dfa="dfas2yoa8x"></a><a data-anchor="/document/16/205752/bssPhr2/"></a>После того, как закончите капремонт на объекте, сдайте его рабочей комиссии заказчика. Затем заказчик предъявит объект госприемочной комиссии. Документы и материалы для сдачи объекта заказчику готовьте в зависимости от элементов и видов работ в составе капремонта. При приемке учитывайте порядок работы государственных приемочных комиссий, который описали в рекомендации. </div><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/205752/bssPhr3/"></a><a data-anchor="/document/16/205752/dfas1mtwl2/" data-dfa="dfas1mtwl2"></a>&nbsp;</p><a data-anchor="/document/16/205752/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/205752/bssPhr4/"></a><a data-anchor="/document/16/205752/dfasty49zq/" data-dfa="dfasty49zq"></a>Какие материалы и документы предоставлять комиссии при сдаче объекта заказчику</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205752/bssPhr6/"></a><a data-anchor="/document/16/205752/dfasb1riqr/" data-dfa="dfasb1riqr"></a>Если в проекте капремонта были предусмотрены элементы расширения, реконструкции и модернизации объекта, то при приемке в эксплуатацию предоставьте&nbsp;комиссии согласованные с Госкомприроды &nbsp;материалы оценки воздействия на окружающую среду.</p><p style="text-align:left"><a data-anchor="/document/16/205752/bssPhr7/"></a><a data-anchor="/document/16/205752/dfascn07ov/" data-dfa="dfascn07ov"></a>Если в проекте был&nbsp;предусмотрен ремонт отдельных элементов зданий, например,&nbsp;крыши, фасада, наружных&nbsp;коммуникаций, отдельных&nbsp;видов&nbsp;инженерного оборудования, внешнее благоустройство, то их в эксплуатацию принимают только&nbsp;рабочие комиссии, которых также назначает заказчик.</p><p style="text-align:left"><a data-anchor="/document/16/205752/bssPhr8/"></a><a data-anchor="/document/16/205752/dfaszbk47z/" data-dfa="dfaszbk47z"></a><a data-anchor="/document/16/205752/dfasgx5gif/" data-dfa="dfasgx5gif"></a>Датой приемки объекта будет дата подписания акта госприемочной комиссии.&nbsp;</p></div><a data-anchor="/document/16/205752/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/205752/bssPhr9/"></a><a data-anchor="/document/16/205752/dfasepv428/" data-dfa="dfasepv428"></a>Какая&nbsp;ответственность заказчика, проектных&nbsp;и подрядных&nbsp;организаций, членов&nbsp;рабочих и государственных комиссий</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205752/bssPhr11/"></a><a data-anchor="/document/16/205752/dfaszfx6pn/" data-dfa="dfaszfx6pn"></a>&nbsp;</p><div align="left"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table height="100%" width="100%" class="bdAll"><thead class="sticky"><tr><th style="vertical-align:top; width:40px"><a data-anchor="/document/16/205752/bssPhr12/"></a><a data-anchor="/document/16/205752/dfasfzx6v3/" data-dfa="dfasfzx6v3"></a>№</th><th style="vertical-align:top; width:190px">Организация</th><th style="vertical-align:top; width:462px">Зона ответственности</th></tr></thead><tbody><tr><td style="vertical-align:top; width:40px"><a data-anchor="/document/16/205752/bssPhr13/"></a><a data-anchor="/document/16/205752/dfashs28g8/" data-dfa="dfashs28g8"></a>&nbsp;</td><td style="vertical-align:top; width:190px"><a data-anchor="/document/16/205752/bssPhr14/"></a><a data-anchor="/document/16/205752/dfase5s7nu/" data-dfa="dfase5s7nu"></a>Заказчик</td><td style="vertical-align:top; width:462px"><a data-anchor="/document/16/205752/bssPhr15/"></a><a data-anchor="/document/16/205752/dfas1v9u47/" data-dfa="dfas1v9u47"></a>Ответственен за своевременную подготовку и сдачу в эксплуатацию в установленные сроки законченного капремонтом объекта. Обеспечивает проведение специализированными организациями пусконаладочных работ до начала работ комиссии по приемке в эксплуатацию</td></tr><tr><td style="vertical-align:top; width:40px"><a data-anchor="/document/16/205752/bssPhr16/"></a><a data-anchor="/document/16/205752/dfas7nw7wn/" data-dfa="dfas7nw7wn"></a>&nbsp;</td><td style="vertical-align:top; width:190px"><a data-anchor="/document/16/205752/bssPhr17/"></a><a data-anchor="/document/16/205752/dfas78ab6g/" data-dfa="dfas78ab6g"></a>Проектные организации</td><td style="vertical-align:top; width:462px"><a data-anchor="/document/16/205752/bssPhr18/"></a><a data-anchor="/document/16/205752/dfasl1gl6e/" data-dfa="dfasl1gl6e"></a>Ответственны за решение всех связанных с проектированием вопросов, возникших в процессе ремонта и приемки в эксплуатацию законченных капремонтом объектов, а также за осуществление авторского надзора</td></tr><tr><td style="vertical-align:top; width:40px"><a data-anchor="/document/16/205752/bssPhr19/"></a><a data-anchor="/document/16/205752/dfaszoikm1/" data-dfa="dfaszoikm1"></a>&nbsp;</td><td style="vertical-align:top; width:190px"><a data-anchor="/document/16/205752/bssPhr20/"></a><a data-anchor="/document/16/205752/dfas4xa4n3/" data-dfa="dfas4xa4n3"></a>Подрядные организации</td><td style="vertical-align:top; width:462px"><a data-anchor="/document/16/205752/bssPhr21/"></a><a data-anchor="/document/16/205752/dfasmyrtmf/" data-dfa="dfasmyrtmf"></a>Ответственны за качественное выполнение ремонтно-строительных работ в предусмотренные договором сроки в соответствии с утвержденным проектом и действующими нормативными документами, а также за соблюдение экологически безопасных методов производства работ и своевременное устранение дефектов и недоделок, выявленных государственной или рабочей приемочной комиссией</td></tr><tr><td style="vertical-align:top; width:40px"><a data-anchor="/document/16/205752/bssPhr22/"></a><a data-anchor="/document/16/205752/dfasbvgca9/" data-dfa="dfasbvgca9"></a>&nbsp;</td><td style="vertical-align:top; width:190px"><a data-anchor="/document/16/205752/bssPhr23/"></a><a data-anchor="/document/16/205752/dfasp1gudv/" data-dfa="dfasp1gudv"></a>Члены рабочих и государственных приемочных комиссий и лица, принуждающие к приемке в эксплуатацию объектов c нарушениями и дефектами</td><td style="vertical-align:top; width:462px"><a data-anchor="/document/16/205752/bssPhr24/"></a><a data-anchor="/document/16/205752/dfasvzahbd/" data-dfa="dfasvzahbd"></a>Несут административную и иную ответственность</td></tr></tbody></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div><p><a data-anchor="/document/16/205752/bssPhr25/"></a><a data-anchor="/document/16/205752/dfasotp74x/" data-dfa="dfasotp74x"></a>&nbsp;</p></div><a data-anchor="/document/16/205752/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/205752/bssPhr26/"></a><a data-anchor="/document/16/205752/dfasq3yg9f/" data-dfa="dfasq3yg9f"></a><a data-anchor="/document/16/205752/dfas8alu2p/" data-dfa="dfas8alu2p"></a>Кто составляет рабочие комиссии по приемке объектов в эксплуатацию</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205752/bssPhr28/"></a><a data-anchor="/document/16/205752/dfasinb8ex/" data-dfa="dfasinb8ex"></a>Рабочие комиссии назначает заказчик своим приказом в течение 5 календарных дней после получения письменного извещения генподрядчика о готовности объекта к сдаче. В&nbsp;этом же приказе заказчик по согласованию с генподрядчиком определяет порядок и продолжительность работы рабочих комиссий.</p><p><a data-anchor="/document/16/205752/bssPhr29/"></a><a data-anchor="/document/16/205752/dfaspng6qg/" data-dfa="dfaspng6qg"></a>В состав рабочих комиссий входят представители</p><ul class="c-list"><li><a data-anchor="/document/16/205752/bssPhr30/"></a><a data-anchor="/document/16/205752/dfasioo73a/" data-dfa="dfasioo73a"></a>заказчика (председатель комиссии);</li><li><a data-anchor="/document/16/205752/dfas3agac3/" data-dfa="dfas3agac3"></a>генерального подрядчика;</li><li><a data-anchor="/document/16/205752/dfasniq9x6/" data-dfa="dfasniq9x6"></a>субподрядных организаций;</li><li><a data-anchor="/document/16/205752/dfas0xgdbt/" data-dfa="dfas0xgdbt"></a>проектной организации, осуществляющей авторский надзор;</li><li><a data-anchor="/document/16/205752/dfasklkt1q/" data-dfa="dfasklkt1q"></a>эксплуатационной организации;</li><li><a data-anchor="/document/16/205752/dfasu6ogs0/" data-dfa="dfasu6ogs0"></a>органов государственных санитарного, экологического и пожарного надзора;</li><li><a data-anchor="/document/16/205752/dfas5zgh3p/" data-dfa="dfas5zgh3p"></a>махаллинского комитета, если принимаются жилищные объекты;</li><li><a data-anchor="/document/16/205752/dfasmxy40i/" data-dfa="dfasmxy40i"></a>специализированных организаций по эксплуатации лифтов, объектов тепло-, энерго-, газоснабжения и т.д.,&nbsp;если проводился ремонт данных коммуникаций и систем на объекте.</li></ul><p><a data-anchor="/document/16/205752/bssPhr31/"></a><a data-anchor="/document/16/205752/dfas7d4shg/" data-dfa="dfas7d4shg"></a>До предъявления объектов к приемке в эксплуатацию государственной приемочной комиссии рабочие&nbsp;комиссии:</p><ul class="c-list"><li><a data-anchor="/document/16/205752/bssPhr32/"></a><a data-anchor="/document/16/205752/dfasr6czr4/" data-dfa="dfasr6czr4"></a>проверяют&nbsp;состав и полноту исполнительной документации, качество и соответствие выполненных ремонтно-строительных работ проектно-сметной документации, стандартам, нормам и правилам производства работ и дать им оценку;</li><li><a data-anchor="/document/16/205752/dfastcui82/" data-dfa="dfastcui82"></a>проверяют&nbsp;подготовленность объектов к эксплуатации;</li><li><a data-anchor="/document/16/205752/dfasf16d59/" data-dfa="dfasf16d59"></a>принимают решение о предъявлении объекта государственной приемочной комиссии.</li></ul><p><a data-anchor="/document/16/205752/bssPhr33/"></a><a data-anchor="/document/16/205752/dfas1nf45t/" data-dfa="dfas1nf45t"></a>Рабочие комиссии вправе&nbsp;в необходимых случаях произвести вскрытие отдельных конструкций или узлов для контроля выполненных скрытых работ, а также назначить испытания отдельных конструкций и систем инженерного оборудования, например, систем водопровода, канализации, отопления&nbsp;и т. д.</p><p><a data-anchor="/document/16/205752/bssPhr34/"></a><a data-anchor="/document/16/205752/dfasqoh0md/" data-dfa="dfasqoh0md"></a>Работы по вскрытию и последующей заделке конструкций и (или) их узлов, по испытаниям конструкций и систем, которые предусмотрела рабочая&nbsp;комиссия,&nbsp;производит&nbsp;генеральный&nbsp;подрядчик.&nbsp;&nbsp;Он вправе привлечь к этим работам субподрядные&nbsp;организации.</p><p><a data-anchor="/document/16/205752/bssPhr35/"></a><a data-anchor="/document/16/205752/dfas1yngv5/" data-dfa="dfas1yngv5"></a>По результатам проверки <span data-warm-notices="24867269" data-warm-notice-type="error" num="6" lnktype="intlnk" title="http://uzgz.500.dev.ss.aservices.tech/#/document/118/202023" class="doc">рабочая&nbsp;комиссия</span>&nbsp; составляет<strong>.&nbsp;</strong></p><p><a data-anchor="/document/16/205752/bssPhr36/"></a><a data-anchor="/document/16/205752/dfaspaldbb/" data-dfa="dfaspaldbb"></a>Генподрядчик должен представить рабочим комиссиям :</p><ul class="c-list"><li><a data-anchor="/document/16/205752/bssPhr37/"></a><a data-anchor="/document/16/205752/dfasbam8q1/" data-dfa="dfasbam8q1"></a>перечень организаций, участвующих в производстве ремонтно-строительных работ, с указанием видов выполненных ими работ и фамилий ИТР, непосредственно ответственных за их выполнение;</li><li><a data-anchor="/document/16/205752/dfas1h4tk7/" data-dfa="dfas1h4tk7"></a>комплект ПСД на капремонт предъявляемого к приемке объекта, разработанный проектной организацией, с надписями о соответствии выполненных в натуре работ этой документацией или внесенным в неё изменениям, сделанными лицами, ответственными за производство ремонтно-строительных работ (указанная документация является исполнительной);</li><li><a data-anchor="/document/16/205752/dfas5gf1k7/" data-dfa="dfas5gf1k7"></a>сертификаты, технические паспорта или другие документы, удостоверяющие качество материалов, конструкций и деталей, примененных при производстве ремонтно-строительных работ;</li><li><a data-anchor="/document/16/205752/dfasc5bpw2/" data-dfa="dfasc5bpw2"></a>акты свидетельствования скрытых работ и акты промежуточной приемки отдельных ответственных конструкций: переложенных или усиленных несущих стен, кирпичных арок и сводов, несущих металлических или железобетонных конструкций и др.;</li><li><a data-anchor="/document/16/205752/dfasvq14g9/" data-dfa="dfasvq14g9"></a>акты испытаний внутренних и наружных электроустановок и электросетей;</li><li><a data-anchor="/document/16/205752/dfasgdqo9s/" data-dfa="dfasgdqo9s"></a>акты испытаний внутренних систем и наружных сетей холодного и горячего водоснабжения, канализации, газоснабжения, отопления, а также вентиляции и дренажных устройств;</li><li><a data-anchor="/document/16/205752/dfas03rwkf/" data-dfa="dfas03rwkf"></a>акты испытания устройств телефонизации, радиофикации, телевидения, сигнализации, автоматизации;</li><li><a data-anchor="/document/16/205752/dfas8uzqz6/" data-dfa="dfas8uzqz6"></a>акты испытания устройств, обеспечивающих взрыва и пожара безопасность, молниезащиту;</li><li><a data-anchor="/document/16/205752/dfaskktubg/" data-dfa="dfaskktubg"></a>акты испытания прочности сцепления в кладке возведенных вновь несущих стен (или их участков) каменных зданий, журналы производства работ и авторского надзора проектной организации, материалы обследований и проверок в процессе ремонта органами государственного надзора.</li></ul><p><a data-anchor="/document/16/205752/bssPhr38/"></a><a data-anchor="/document/16/205752/dfasunxa27/" data-dfa="dfasunxa27"></a>Всю&nbsp;эту&nbsp;документацию&nbsp;после окончания работы рабочей комиссии передают&nbsp;заказчику.</p><p><a data-anchor="/document/16/205752/bssPhr39/"></a><a data-anchor="/document/16/205752/dfaszigcpv/" data-dfa="dfaszigcpv"></a>Приемку&nbsp;в эксплуатацию законченных капитальных ремонтом части, очереди или элементов объекта оформляют <span data-warm-notices="24867274" data-warm-notice-type="error" num="7" lnktype="intlnk" title="" class="doc">актом</span>&nbsp;о приемки в эксплуатацию рабочей комиссией законченной&nbsp;капитальным ремонтом части (очереди) объектаи <span data-warm-notices="24867276" data-warm-notice-type="error" num="8" lnktype="intlnk" title="" class="doc">актом</span>&nbsp;о&nbsp;приемке в эксплуатацию рабочей комиссии законченных капитальным ремонтом элементов объекта.</p><p><a data-anchor="/document/16/205752/bssPhr40/"></a><a data-anchor="/document/16/205752/dfase0z1u4/" data-dfa="dfase0z1u4"></a>Акты рабочей комиссии о приемке в эксплуатацию частей, очереди и элементов объекта и прочую&nbsp;документацию, представляемую&nbsp;рабочим комиссиям,&nbsp; хранит&nbsp;заказчик.</p><p><a data-anchor="/document/16/205752/bssPhr41/"></a><a data-anchor="/document/16/205752/dfaskx7s9k/" data-dfa="dfaskx7s9k"></a><a data-anchor="/document/16/205752/dfasoxam95/" data-dfa="dfasoxam95"></a>В отчетность о выполнении капремонта объекта включают&nbsp;только те части, очереди и элементы объекта, акты о приемке&nbsp;которых в эксплуатацию подписала&nbsp;рабочая&nbsp;комиссия.&nbsp;</p></div><a data-anchor="/document/16/205752/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/205752/bssPhr42/"></a><a data-anchor="/document/16/205752/dfasup8uo9/" data-dfa="dfasup8uo9"></a>Каков порядок работы государственных приемочных комиссий&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205752/bssPhr44/"></a><a data-anchor="/document/16/205752/dfaswu5aui/" data-dfa="dfaswu5aui"></a>Законченные&nbsp;капремонтом объекты в эксплуатацию принимает государственная приемочная комиссия, независимо от форм собственности. Госприемочную комиссию назначает исполнительный&nbsp;орган&nbsp;местного самоуправления.</p><p><a data-anchor="/document/16/205752/bssPhr45/"></a><a data-anchor="/document/16/205752/dfasewzs76/" data-dfa="dfasewzs76"></a>В состав госприемочных комиссий включают&nbsp;представителей:</p><ul class="c-list"><li><a data-anchor="/document/16/205752/bssPhr46/"></a><a data-anchor="/document/16/205752/dfask8kp2y/" data-dfa="dfask8kp2y"></a>заказчика;</li><li><a data-anchor="/document/16/205752/dfas95gd3d/" data-dfa="dfas95gd3d"></a>эксплуатационной организации;</li><li><a data-anchor="/document/16/205752/dfas99m2gk/" data-dfa="dfas99m2gk"></a>генподрядчика;</li><li><a data-anchor="/document/16/205752/dfasgl3wpv/" data-dfa="dfasgl3wpv"></a>субподрядчиков;</li><li><a data-anchor="/document/16/205752/dfas2gtgsu/" data-dfa="dfas2gtgsu"></a>проектной организации, осуществляющей авторский надзор;</li><li><a data-anchor="/document/16/205752/dfasycfys6/" data-dfa="dfasycfys6"></a>органов государственных санитарного, экологического и пожарного надзоров;</li><li><a data-anchor="/document/16/205752/dfasga554s/" data-dfa="dfasga554s"></a>махаллинского комитета, если принимают объект&nbsp;жилищного фонда.</li></ul><p><a data-anchor="/document/16/205752/bssPhr47/"></a><a data-anchor="/document/16/205752/dfas2nrvrq/" data-dfa="dfas2nrvrq"></a>Председателями госприемочных комиссий по приемке в эксплуатацию законченных&nbsp;капремонтом объектов назначают&nbsp;руководящих&nbsp;работников&nbsp;исполнительных органов местного самоуправления или эксплуатационной организации данных объектов.</p><p><a data-anchor="/document/16/205752/bssPhr48/"></a><a data-anchor="/document/16/205752/dfas59brhv/" data-dfa="dfas59brhv"></a>Госприемочные комиссии назначают&nbsp;не позднее, чем за 10 дней до установленного срока сдачи в эксплуатацию законченного капремонтом объекта.</p><p><a data-anchor="/document/16/205752/bssPhr49/"></a><a data-anchor="/document/16/205752/dfas7w7gbk/" data-dfa="dfas7w7gbk"></a>Заказчик представляет госприемочной комиссии:</p><ul class="c-list"><li><a data-anchor="/document/16/205752/bssPhr50/"></a><a data-anchor="/document/16/205752/dfas4va8g2/" data-dfa="dfas4va8g2"></a>перечень организаций, участвующих в производстве ремонтно-строительных работ, с указанием видов выполненных ими работ и фамилий ИТР, непосредственно ответственных за их выполнение;</li><li><a data-anchor="/document/16/205752/dfasu4ot8w/" data-dfa="dfasu4ot8w"></a>комплект ПСД на капремонт предъявляемого к приемке объекта, разработанный проектной организацией, с надписями о соответствии выполненных в натуре работ этой документацией или внесенным в нее&nbsp;изменениям, сделанными лицами, ответственными за производство ремонтно-строительных работ (указанная документация является исполнительной);</li><li><a data-anchor="/document/16/205752/dfasskgzq2/" data-dfa="dfasskgzq2"></a>сертификаты, технические паспорта или другие документы, удостоверяющие качество материалов, конструкций и деталей, применённых при производстве ремонтно-строительных работ;</li><li><a data-anchor="/document/16/205752/dfasukn0c0/" data-dfa="dfasukn0c0"></a>акты свидетельствования скрытых работ и акты промежуточной приемки отдельных ответственных конструкций, например,&nbsp;переложенных или усиленных несущих стен, кирпичных арок и сводов, несущих металлических или железобетонных конструкций и др.;</li><li><a data-anchor="/document/16/205752/dfashdxuwi/" data-dfa="dfashdxuwi"></a>акты испытаний внутренних и наружных электроустановок и электросетей;</li><li><a data-anchor="/document/16/205752/dfasu8c9wx/" data-dfa="dfasu8c9wx"></a>акты испытаний внутренних систем и наружных сетей холодного и горячего водоснабжения, канализации, газоснабжения, отопления, а также вентиляции и дренажных устройств;</li><li><a data-anchor="/document/16/205752/dfasn46x48/" data-dfa="dfasn46x48"></a>акты испытания устройств телефонизации, радиофикации, телевидения, сигнализации, автоматизации;</li><li><a data-anchor="/document/16/205752/dfasx765tf/" data-dfa="dfasx765tf"></a>акты испытания устройств, обеспечивающих взрыва и пожара безопасность, молниезащиту;</li><li><a data-anchor="/document/16/205752/dfasxcgqcq/" data-dfa="dfasxcgqcq"></a>акты испытания прочности сцепления в кладке возведенных вновь несущих стен (или их участков) каменных зданий, журналы производства работ и авторского надзора проектной организации, материалы обследований и проверок в процессе ремонта органами государственного надзора;</li><li><a data-anchor="/document/16/205752/dfasisgk0z/" data-dfa="dfasisgk0z"></a>акты рабочих комиссий;</li><li><a data-anchor="/document/16/205752/dfas4k73mb/" data-dfa="dfas4k73mb"></a>справку об устранении дефектов и недоделок, выявленных рабочей комиссией;</li><li><a data-anchor="/document/16/205752/dfasnshr4n/" data-dfa="dfasnshr4n"></a>утвержденную пПСД;</li><li><a data-anchor="/document/16/205752/dfasupaed6/" data-dfa="dfasupaed6"></a>справку местного органа технической инвентаризации об общей и жилой площади принимаемого в эксплуатацию объекта при проведении капремонта с перепланировкой или реконструкцией;</li><li><a data-anchor="/document/16/205752/dfasw72vck/" data-dfa="dfasw72vck"></a>перечень проектных организаций, участвовавших в проектировании принимаемого объекта ремонта;</li><li><a data-anchor="/document/16/205752/dfaswo8mn1/" data-dfa="dfaswo8mn1"></a>справку&nbsp;городских эксплуатационных организаций о том, что наружные коммуникации холодного и горячего водоснабжения, канализации, связи-, тепло-, газо- и электроснабжения обеспечивают нормальную эксплуатацию объекта и ими приняты после ремонта на обслуживание. Справки должны представляться, если ремонт соответствующих коммуникаций был предусмотрен ПСД;</li><li><a data-anchor="/document/16/205752/dfas2cuwlw/" data-dfa="dfas2cuwlw"></a>документы о разрешении на эксплуатацию объектов и оборудования, подконтрольных соответствующим органам госнадзора, представители которых не вошли в состав государственной приёмочной комиссии.</li></ul><p><a data-anchor="/document/16/205752/bssPhr51/"></a><a data-anchor="/document/16/205752/dfasab18zh/" data-dfa="dfasab18zh"></a>Всю&nbsp;вышеуказанную&nbsp;документацию&nbsp;после приемки в эксплуатацию объекта хранит&nbsp;у себя заказчик.</p><p><a data-anchor="/document/16/205752/bssPhr52/"></a><a data-anchor="/document/16/205752/dfas9s1i02/" data-dfa="dfas9s1i02"></a><a data-anchor="/document/16/205752/dfasgrafo4/" data-dfa="dfasgrafo4"></a><a data-anchor="/document/16/205752/dfasg6d60x/" data-dfa="dfasg6d60x"></a>Госприемочная&nbsp;комиссия&nbsp;обязана&nbsp;проверить устранение недоделок, выявленных рабочими комиссиями, а также&nbsp;готовность объекта к приемке в эксплуатацию.&nbsp;Госприемочная&nbsp;комиссия&nbsp;вправе&nbsp;назначать дополнительные испытания и проверки, когда это необходимо.</p><p><a data-anchor="/document/16/205752/bssPhr53/"></a><a data-anchor="/document/16/205752/dfas0vcd7n/" data-dfa="dfas0vcd7n"></a>Если объект не может быть принят в эксплуатацию, госприемочная комиссия должна представить мотивированное заключение об этом в орган, назначивший комиссии, и копии такого решения предоставить заказчику и генподрядчику.</p><p><a data-anchor="/document/16/205752/bssPhr54/"></a><a data-anchor="/document/16/205752/dfas2e8pux/" data-dfa="dfas2e8pux"></a>Госприемочная комиссия может представить в соответствующих случаях в вышестоящие органы заказчика, подрядчика и других юридических лиц, осуществляющих проектирование и ремонт объекта, материалы для привлечения к ответственности должностных лиц, которые допустили&nbsp;при проектировании и ремонте некачественное выполнение проектных и ремонтно-строительных работ.</p><p><a data-anchor="/document/16/205752/bssPhr55/"></a><a data-anchor="/document/16/205752/dfasoq4za6/" data-dfa="dfasoq4za6"></a>Прием&nbsp;в эксплуатацию законченных капремонтом объектов госприемочная&nbsp;комиссия&nbsp;оформляет&nbsp;<span data-warm-notices="24867268,24867278" data-warm-notice-type="error" num="9" lnktype="intlnk" title="" class="doc">актом&nbsp;о приемке законченного капитальным ремонтом объекта в эксплуатацию.</span></p><p><a data-anchor="/document/16/205752/bssPhr56/"></a><a data-anchor="/document/16/205752/dfas42vycl/" data-dfa="dfas42vycl"></a>Акт&nbsp;о приемке объекта&nbsp;в эксплуатацию подписывают&nbsp;председатель и все&nbsp;члены&nbsp;комиссии. Возражения отдельных членов комиссии&nbsp; рассматривают с участием органов, представителями которых являются эти члены комиссии, до утверждения акта о приемке.</p><p><a data-anchor="/document/16/205752/bssPhr57/"></a><a data-anchor="/document/16/205752/dfas2r50cq/" data-dfa="dfas2r50cq"></a>Председатель госприемочной комиссии представляет&nbsp;акт о приемке в эксплуатацию объекта в орган, назначивший ее.</p><p><a data-anchor="/document/16/205752/bssPhr58/"></a><a data-anchor="/document/16/205752/dfasqpot65/" data-dfa="dfasqpot65"></a>При подрядном способе производства работ акт составляют&nbsp;не менее чем в 5 экземплярах, 2 из которых следует представить в орган, назначивший госкомиссию, 2 – заказчику и 1 –генподрядчику.</p><p><a data-anchor="/document/16/205752/bssPhr59/"></a><a data-anchor="/document/16/205752/dfasrnuwfk/" data-dfa="dfasrnuwfk"></a>Рассматривает&nbsp;акт&nbsp;о приемке в эксплуатацию законченного капремонтом объекта, принимает&nbsp;решения&nbsp;по результатам рассмотрения возражений отдельных членов комиссии и утверждает&nbsp;акты&nbsp;орган, назначившими эти комиссии, в срок не более 7 календарных дней после подписания актов.</p><p><a data-anchor="/document/16/205752/bssPhr60/"></a><a data-anchor="/document/16/205752/dfasx313sq/" data-dfa="dfasx313sq"></a><a data-anchor="/document/16/205752/dfasfg8b6e/" data-dfa="dfasfg8b6e"></a>В отчетность о выполнении капремонта объектов включают&nbsp;только те объекты, акты&nbsp;о приемке которых в эксплуатацию утверждены органом, назначившим комиссию.&nbsp;</p></div><a data-anchor="/document/16/205752/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/205752/bssPhr61/"></a><a data-anchor="/document/16/205752/dfasmcs6sr/" data-dfa="dfasmcs6sr"></a>Как оценивают&nbsp;качество&nbsp;выполнения ремонтно-строительных работ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/205752/bssPhr63/"></a><a data-anchor="/document/16/205752/dfas11ga70/" data-dfa="dfas11ga70"></a>В процессе приемки законченных капремонтом объектов рабочая и государственная комиссии оценивают качество ремонтно-строительных работ:</p><ul class="c-list"><li><a data-anchor="/document/16/205752/bssPhr64/"></a><a data-anchor="/document/16/205752/dfasskwss4/" data-dfa="dfasskwss4"></a>«удовлетворительно» – если качество строительно-ремонтных работ оптимально удовлетворяет условиям договора (контракта) на выполнение строительных работ, проектным решениям, требованиям нормативных и законодательных актов, иным документам соответствующего правомерного характера;</li><li>«неудовлетворительно» – если качество строительно-ремонтных работ не удовлетворяет документам, указанным выше.&nbsp;</li></ul></div><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><img alt="" hideborder="true" class="inimg" num="1" lnktype="img" src="https://1gb.uz/system/content/image/297///" width="610" height="NaN"></div></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

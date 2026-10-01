@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как платят фиксированный налог отдельные категории предпринимателей</h2><div id="documentBody" class="content-common"><a data-anchor="/document/16/203613/dfasei9f2g/" data-dfa="dfasei9f2g"></a><a data-anchor="/document/16/203613/bssPhr1/"></a><a data-anchor="/document/16/203613/tit0/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Особенности уплаты налога индивидуальными предпринимателями-ремесленниками </h2><p><a data-anchor="/document/16/203613/dfasqp3r6t/" data-dfa="dfasqp3r6t"></a><a data-anchor="/document/16/203613/bssPhr2/"></a>К ремесленничеству относится деятельность физлиц без образования юрлица по производству изделий или товаров (работ, услуг). Например: </p><p><a data-anchor="/document/16/203613/dfasbynpe1/" data-dfa="dfasbynpe1"></a><a data-anchor="/document/16/203613/bssPhr3/"></a>– золотое шитье;</p><p><a data-anchor="/document/16/203613/dfasxbfxe4/" data-dfa="dfasxbfxe4"></a><a data-anchor="/document/16/203613/bssPhr4/"></a>–&nbsp;художественная керамика;</p><p><a data-anchor="/document/16/203613/dfasl2z0me/" data-dfa="dfasl2z0me"></a><a data-anchor="/document/16/203613/bssPhr5/"></a>–&nbsp;ковроткачество;</p><p><a data-anchor="/document/16/203613/dfascacem0/" data-dfa="dfascacem0"></a><a data-anchor="/document/16/203613/bssPhr6/"></a>–&nbsp;художественная вышивка;</p><p><a data-anchor="/document/16/203613/dfas4gqs8s/" data-dfa="dfas4gqs8s"></a><a data-anchor="/document/16/203613/bssPhr7/"></a>–&nbsp;художественная резьба;</p><p><a data-anchor="/document/16/203613/dfasr90szc/" data-dfa="dfasr90szc"></a><a data-anchor="/document/16/203613/bssPhr8/"></a>–&nbsp;художественная чеканка и др.</p><p><a data-anchor="/document/16/203613/dfasm3tzhp/" data-dfa="dfasm3tzhp"></a><a data-anchor="/document/16/203613/bssPhr9/"></a>Ремесленник (мастер-ремесленник, усто) самостоятельно или при помощи учеников изготавливает изделия или товары (работы, услуги), отвечающие исторически сложившимся требованиям к функциональным особенностям изделий и национальным эстетическим нормам, на основе традиционных технологий, c использованием специальных навыков, инструментов и средств малой механизации.</p><p><a data-anchor="/document/16/203613/dfasz3om0y/" data-dfa="dfasz3om0y"></a><a data-anchor="/document/16/203613/bssPhr10/"></a>Ремесленник может набирать учеников в возрасте старше 15 лет и обучать их своему ремеслу, привлекать для изготовления изделий или товаров (работ, услуг), но не более 15 человек.</p><p><a data-anchor="/document/16/203613/dfasgybrbr/" data-dfa="dfasgybrbr"></a><a data-anchor="/document/16/203613/bssPhr11/"></a>Ремесленник осуществляет деятельность только по направлениям, указанным в свидетельстве о госрегистрации.</p><a data-anchor="/document/16/203613/dfasbpn2kp/" data-dfa="dfasbpn2kp"></a><a data-anchor="/document/16/203613/bssPhr12/"></a><a data-anchor="/document/16/203613/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Особенности уплаты налога членами семейного предпринимательства без образования юрлица</h2><p><a data-anchor="/document/16/203613/dfasm2gdz0/" data-dfa="dfasm2gdz0"></a><a data-anchor="/document/16/203613/bssPhr13/"></a>Семейное предпринимательство – совместная предпринимательская деятельность физлиц без образования юрлица, осуществляемая супругами на базе их общего имущества, принадлежащего им на правах общей совместной собственности, и основанная на личном труде супругов и помогающих им членов семьи.</p><p><a data-anchor="/document/16/203613/dfas2071cg/" data-dfa="dfas2071cg"></a><a data-anchor="/document/16/203613/bssPhr14/"></a>Члены семьи – супруг, супруга, родители или усыновители и дети в возрасте от 15 лет, в том числе усыновленные и удочеренные.</p><p><a data-anchor="/document/16/203613/dfasw37uq3/" data-dfa="dfasw37uq3"></a><a data-anchor="/document/16/203613/bssPhr15/"></a>Субъекты семейного предпринимательства без образования юрлица вправе нанимать до 3 постоянных работников, с заключением с ними трудового договора, а также привлекать в качестве участников других близких родственников, включая супругов, детей и внуков, братьев и сестер, их супругов и детей, достигших трудоспособного возраста (ПП-3856 от 14.07.2018 г., ПП-4231 от 7.03.2019 г.). </p><p><a data-anchor="/document/16/203613/dfas9u0wqd/" data-dfa="dfas9u0wqd"></a><a data-anchor="/document/16/203613/bssPhr16/"></a>Трудовые взаимоотношения между членами семьи в процессе осуществления семейного предпринимательства, включая вопросы оплаты труда и распределения дохода, регулируются ими самостоятельно.</p><p><a data-anchor="/document/16/203613/dfas1pm9v3/" data-dfa="dfas1pm9v3"></a><a data-anchor="/document/16/203613/bssPhr17/"></a>Субъект семейного предпринимательства может осуществлять виды деятельности по перечню, установленному законодательством для индивидуальных предпринимателей. При осуществлении предпринимательской деятельности в нескольких обособленных объектах, фиксированный налог уплачивается за каждый.</p><p><a data-anchor="/document/16/203613/dfasn00dwu/" data-dfa="dfasn00dwu"></a><a data-anchor="/document/16/203613/bssPhr18/"></a>При осуществлении деятельности в форме семейного предпринимательства без образования юрлица фиксированный налог платит только член семьи, зарегистрированный в качестве индивидуального предпринимателя, выступающий от лица субъекта семейного предпринимательства.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

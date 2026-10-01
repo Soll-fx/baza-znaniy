@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Когда и кому сдавать отчетность по налогу на сверхприбыль</h2><div id="documentBody" class="content-common"><a data-anchor="/document/16/203285/bssPhr1/"></a><a data-anchor="/document/16/203285/tit1/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203285/dfaszdqmq3/" data-dfa="dfaszdqmq3"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Когда сдавать налоговую отчетность</h2><p><a data-anchor="/document/16/203285/bssPhr2/"></a><a data-anchor="/document/16/203285/dfasth1hhi/" data-dfa="dfasth1hhi"></a> </p><p><a data-anchor="/document/16/203285/bssPhr3/"></a><a data-anchor="/document/16/203285/dfasazbgdm/" data-dfa="dfasazbgdm"></a>С 1 января 2013 года представление налоговой отчетности по всем видам налогов и другим обязательным платежам на ежемесячной основе отменили. Единственным исключением стал налог на сверхприбыль (<a data-anchor="/document/16/203285/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/90/8919/dfas44bpey/" class="link npd" title="Установить порядок, в соответствии с которым с 1 января 2013 года:" moduleId="90" documentId="8919" anchor="dfas44bpey">п. 3</a> УП- 4453 от 16.07.2012 г.). Поэтому налоговый и отчетный период по этому налогу – месяц (<a data-anchor="/document/16/203285/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/90/4030/dfas4v21mf/" class="link npd" title="Налоговым периодом является месяц." moduleId="90" documentId="4030" anchor="dfas4v21mf">п. 8</a> и <a data-anchor="/document/16/203285/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/90/4030/dfasxnhty1/" class="link npd" title="Отчетным периодом является месяц." moduleId="90" documentId="4030" anchor="dfasxnhty1">п. 9</a> Положения о порядке исчисления и уплаты в бюджет налога на сверхприбыль на природный газ, рег. МЮ № 1909 от 24.02. 2009 г.).</p><p><a data-anchor="/document/16/203285/bssPhr4/"></a><a data-anchor="/document/16/203285/dfasnq525i/" data-dfa="dfasnq525i"></a>Расчет налога на сверхприбыль представляйте в налоговую службу до 25 числа месяца, следующего за отчетным периодом (<a data-anchor="/document/16/203285/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/4030/dfastpu4xi/" class="link npd" title="Расчет налога на сверхприбыль представляется в органы государственной налоговой службы до 25 числа месяца, следующего за отчетным периодом, по форме согласно приложению к настоящему Положению." moduleId="90" documentId="4030" anchor="dfastpu4xi">п. 12</a> Положения о порядке исчисления и уплаты в бюджет налога на сверхприбыль на природный газ, рег. МЮ № 1909 от 24.02. 2009 г.), по этой форме (<a data-anchor="/document/16/203285/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/4030/dfas5aevc8/" class="link npd" title="Расчет налога на сверхприбыль на природный газ" moduleId="90" documentId="4030" anchor="dfas5aevc8">прил</a>. к Положению о порядке исчисления и уплаты в бюджет налога на сверхприбыль на природный газ, рег. МЮ № 1909 от 24.02. 2009 г.). Например, если отчетный период – ноябрь, то сдайте отчетность до 25 декабря.</p><a data-anchor="/document/16/203285/bssPhr5/"></a><a data-anchor="/document/16/203285/tit2/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203285/dfasvrgpfo/" data-dfa="dfasvrgpfo"></a><h2 class="main__title-section title toc" toc-anchor="tit2">Кому сдавать налоговую отчетность</h2><p><a data-anchor="/document/16/203285/bssPhr6/"></a><a data-anchor="/document/16/203285/dfasx493eh/" data-dfa="dfasx493eh"></a>Крупные налогоплательщики независимо от адреса юрлица сдают отчетность по налогу на сверхприбыль в Межрегиональную государственную налоговую инспекцию по крупным налогоплательщикам (<a data-anchor="/document/16/203285/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas5faxqx/" class="link npd" title="Крупные налогоплательщики, независимо от местонахождения, представляют налоговую отчетность в Межрегиональную государственную налоговую инспекцию по крупным налогоплательщикам." moduleId="90" documentId="20918" anchor="dfas5faxqx">ч. 3</a> ст. 45 НК).</p><p><a data-anchor="/document/16/203285/bssPhr7/"></a><a data-anchor="/document/16/203285/dfase992pq/" data-dfa="dfase992pq"></a>Если же юрлицо не считается крупным налогоплательщиком, то отчетность по этому налогу предприятие сдает в налоговую службу по месту постановки на учет налогоплательщика (<a data-anchor="/document/16/203285/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/90/20918/dfas7z2w28/" class="link npd" title="Налоговая отчетность представляется в орган государственной налоговой службы по месту постановки на учет налогоплательщика." moduleId="90" documentId="20918" anchor="dfas7z2w28">ч. 2</a> ст. 45 НК).</p><p><a data-anchor="/document/16/203285/bssPhr8/"></a><a data-anchor="/document/16/203285/dfas8hwcmi/" data-dfa="dfas8hwcmi"></a>Крупными налогоплательщиками признаются юрлица, которые по итогам предыдущего налогового периода отвечают одновременно следующим критериям:</p><ul class="c-list"><li><a data-anchor="/document/16/203285/bssPhr9/"></a><a data-anchor="/document/16/203285/dfasgw6dtk/" data-dfa="dfasgw6dtk"></a>сумма начисленных налогов и других обязательных платежей составляет не менее 200 тыс. МРЗП;</li><li>объем товарооборота составляет не менее 300 тыс. МРЗП;</li></ul><p><a data-anchor="/document/16/203285/bssPhr10/"></a><a data-anchor="/document/16/203285/dfassu66l5/" data-dfa="dfassu66l5"></a>общая стоимость активов составляет не менее 100 тыс. МРЗП&nbsp;(п. 4 Положения о порядке установления критериев отнесения юридических лиц к категории крупных налогоплательщиков, МЮ №3023 от 18.06.2018 г.).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203285/bssPhr11/"></a><a data-anchor="/document/16/203285/dfas4y6sbz/" data-dfa="dfas4y6sbz"></a>Налогоплательщик считается крупным лишь в том случае, когда все три критерия выполняются одновременно.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/203285/bssPhr12/"></a><a data-anchor="/document/16/203285/dfashduh6q/" data-dfa="dfashduh6q"></a>При исчислении суммы нужно исходить из МРЗП, установленной на конец налогового периода, отобранного для определения категории налогоплательщиков (пункт 5 Положения о порядке установления критериев отнесения юридических лиц к категории крупных налогоплательщиков, МЮ №3023 от 18.06.2018 г.).</p><p><a data-anchor="/document/16/203285/bssPhr13/"></a><a data-anchor="/document/16/203285/dfas4wkcm7/" data-dfa="dfas4wkcm7"></a>&nbsp; Список крупных налогоплательщиков ежегодно утверждает Государственный налоговый комитет не менее чем за месяц до начала следующего налогового периода (абзац первый пункта 5 Положения о порядке установления критериев отнесения юридических лиц к категории крупных налогоплательщиков, МЮ №3023 от 18.06.2018 г.). Если юрлицо признали крупным налогоплательщиком, а налоговые управления Каракалпакстана, областей и города Ташкента подписали решения, юрлицо в течение 5 дней получает оповещение об этом по месту учета или через персональный кабинет (абзац второй пункта 5 Положения о порядке установления критериев отнесения юридических лиц к категории крупных налогоплательщиков, МЮ №3023 от 18.06.2018 г.).</p><p><a data-anchor="/document/16/203285/bssPhr14/"></a><a data-anchor="/document/16/203285/dfas3p5cxo/" data-dfa="dfas3p5cxo"></a>&nbsp; Если юрлицо по итогам налогового периода перестанет отвечать критериям крупных налогоплательщиков, предприятие останется в этом качестве в течение очередного года (пункт 7 Положения о порядке установления критериев отнесения юридических лиц к категории крупных налогоплательщиков, МЮ №3023 от 18.06.2018 г.).</p><p><a data-anchor="/document/16/203285/bssPhr15/"></a><a data-anchor="/document/16/203285/dfasxa9z1v/" data-dfa="dfasxa9z1v"></a>Крупный налогоплательщик сохранит свой статус до получения извещения от налоговой инспекции об исключении из категории (пункт 10 пункт 7 Положения о порядке установления критериев отнесения юридических лиц к категории крупных налогоплательщиков, МЮ №3023 от 18.06.2018 г.).</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203285/bssPhr16/"></a><a data-anchor="/document/16/203285/dfas0iu972/" data-dfa="dfas0iu972"></a>Крупных налогоплательщиков контролируют государственные налоговые управления Каракалпакстана, областей и города Ташкента. (<a data-anchor="/document/16/203285/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/90/3931/dfasxpcuf3/" class="link npd" title="Пересмотр задач и функций, организационных структур органов государственной налоговой службы в связи с передачей государственным налоговым управлениям Республики Каракалпакстан, областей..." moduleId="90" documentId="3931" anchor="dfasxpcuf3">п. 30</a> прил. № 1 к УП-5116 от 18.07.2017 г.).</p><div class="incut-v4__icon"></div></div><a data-anchor="/document/16/203285/bssPhr17/"></a><a data-anchor="/document/16/203285/tit3/" data-role="toc-anchor" class="toc-anchor"></a><a data-anchor="/document/16/203285/dfas9wnbio/" data-dfa="dfas9wnbio"></a><h2 class="main__title-section title toc" toc-anchor="tit3">В какой валюте и когда платить налог</h2><p><a data-anchor="/document/16/203285/bssPhr18/"></a><a data-anchor="/document/16/203285/dfasqmpa9v/" data-dfa="dfasqmpa9v"></a>Этот налог уплачивается в национальной валюте (<a data-anchor="/document/16/203285/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/4030/dfasl9205e/" class="link npd" title="Налог на сверхприбыль перечисляется в республиканский бюджет в национальной валюте — сум." moduleId="90" documentId="4030" anchor="dfasl9205e">п. 11</a>. МЮ № 1909 от 24.02. 2009 г.), одновременно со сдачей отчетности.</p><p><a data-anchor="/document/16/203285/bssPhr19/"></a><a data-anchor="/document/16/203285/dfaslfxdxm/" data-dfa="dfaslfxdxm"></a>При исчислении суммы налога учитывайте фактические объемы реализации продукции на экспорт за месяц (<a data-anchor="/document/16/203285/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/90/4030/dfasuga1z9/" class="link npd" title="Налогоплательщики уплачивают налог на сверхприбыль не позднее срока представления расчета, исходя из фактических объемов реализации продукции за отчетный период." moduleId="90" documentId="4030" anchor="dfasuga1z9">п. 13</a> МЮ № 1909 от 24.02. 2009 г.).</p><p><a data-anchor="/document/16/203285/bssPhr20/"></a><a data-anchor="/document/16/203285/dfast5m7vc/" data-dfa="dfast5m7vc"></a>Сумма налога на сверхприбыль и средства, которые остались у налогоплательщика после ее уплаты, не включаются в налогооблагаемую базу при исчислении налога на прибыль юридических лиц (<a data-anchor="/document/16/203285/backlinkanchor21/" type="backlink-anchor"></a><a href="#/document/90/4030/dfasqbshxw/" class="link npd" title="Сумма налога на сверхприбыль и средства, остающиеся в распоряжении налогоплательщика после уплаты налога на сверхприбыль, не включаются в налогооблагаемую базу при исчислении налога..." moduleId="90" documentId="4030" anchor="dfasqbshxw">п. 3</a> МЮ № 1909 от 24.02.2009 г.).</p><p><a data-anchor="/document/16/203285/dfas1gvugb/" data-dfa="dfas1gvugb"></a><a data-anchor="/document/16/203285/bssPhr21/"></a> </p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

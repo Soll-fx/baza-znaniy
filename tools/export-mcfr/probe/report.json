@@ -1,0 +1,138 @@
+{
+  "url": "https://1gb.uz/",
+  "title": "Action Система Главбух. Базовый тариф",
+  "onPublicLanding": true,
+  "structure": {
+    "passes": 8,
+    "visibleLinks": 30,
+    "domLinks": 26,
+    "scriptLinks": 4,
+    "uniqueLinks": 20,
+    "articleLikeLinks": 0,
+    "frames": []
+  },
+  "downloadCandidates": [
+    {
+      "tag": "a",
+      "text": "Скачать",
+      "cls": "js-download-btn btn btn_type_clear",
+      "id": "",
+      "title": "",
+      "aria": "",
+      "href": ""
+    }
+  ],
+  "allButtons": [
+    {
+      "tag": "button",
+      "text": "Вход и регистрация",
+      "cls": "authButtonStyles__button--qgHz+",
+      "id": "",
+      "title": "",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "По реквизитам",
+      "cls": "form-field form-field_type_button",
+      "id": "search-button-extended",
+      "title": "",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "Отправить",
+      "cls": "btn btn_type_plane btn_type_caprice",
+      "id": "mail-send",
+      "title": "",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "Отмена",
+      "cls": "btn btn_type_clear",
+      "id": "mail-close",
+      "title": "",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "cls": "pswp__button pswp__button--close",
+      "id": "",
+      "title": "Закрыть",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "cls": "pswp__button pswp__button--zoom",
+      "id": "",
+      "title": "Увеличить/уменьшить",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "cls": "pswp__button pswp__button--arrow--left",
+      "id": "",
+      "title": "Предыдущее изображение",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "cls": "pswp__button pswp__button--arrow--right",
+      "id": "",
+      "title": "Следующее изображение",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "Письменно",
+      "cls": "LeftMenu__menuItem--TtIDU LeftMenu__active--lNZsT",
+      "id": "",
+      "title": "",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "cls": "TopPanel__button--wqG1m",
+      "id": "",
+      "title": "Развернуть",
+      "aria": "Развернуть",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "cls": "TopPanel__button--wqG1m",
+      "id": "",
+      "title": "Закрыть",
+      "aria": "Закрыть",
+      "href": ""
+    },
+    {
+      "tag": "button",
+      "text": "обновить страницу",
+      "cls": "ExpertSupportStatus__failedButton--jM22X",
+      "id": "",
+      "title": "",
+      "aria": "",
+      "href": ""
+    }
+  ],
+  "netFileResponses": [],
+  "apiCalls": [],
+  "articleLinkSample": []
+}

@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Кто платит подписной бонус</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203126/bssPhr1/"></a><a data-anchor="/document/16/203126/dfasis3rhk/" data-dfa="dfasis3rhk"></a>Наряду с <a data-anchor="/document/16/203126/backlinkanchor1/" type="backlink-anchor"></a><a href="#/document/16/210735" moduleId="16" documentId="210735" class="link ">налогом за пользование недрами</a> и <a data-anchor="/document/16/203126/backlinkanchor3/" type="backlink-anchor"></a><a href="#/document/16/202732" moduleId="16" documentId="202732" class="link ">налогом на сверхприбыль</a> бонусы являются специальными платежами для недропользователей. Особенность бонусов в том, что это – разовые платежи, поэтому для них нет налогового и отчетного периодов.</p><p><a data-anchor="/document/16/203126/bssPhr2/"></a><a data-anchor="/document/16/203126/dfaskw4r77/" data-dfa="dfaskw4r77"></a>В этой рекомендации – о подписном бонусе. Чтобы получить информацию о бонусе коммерческого обнаружения пройдите по <a data-anchor="/document/16/203126/backlinkanchor5/" type="backlink-anchor"></a><a href="#/document/16/203131" moduleId="16" documentId="203131" class="link ">ссылке</a>.</p><p><a data-anchor="/document/16/203126/bssPhr3/"></a><a data-anchor="/document/16/203126/dfasdp1kxt/" data-dfa="dfasdp1kxt"></a>Подписной бонус платят физические и юридические лица, которые получили лицензию на такой вид недропользования, как геологическое изучениие недр для поиска и разведки полезных ископаемых на основе предпринимательского риска <i><span class="xx-small">(<a data-anchor="/document/16/203126/backlinkanchor7/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasvg9wxr/" class="link npd" title="Подписной бонус — разовый фиксированный платеж недропользователя за право осуществления деятельности по поиску и разведке полезных ископаемых на основании соответствующей лицензии." moduleId="90" documentId="20918" anchor="dfasvg9wxr">ч. 1</a> ст. 253 НК)</span></i>.</p><p><a data-anchor="/document/16/203126/bssPhr4/"></a><a data-anchor="/document/16/203126/dfasn2yvgg/" data-dfa="dfasn2yvgg"></a>Из этого следует, что недропользователь не платит подписной бонус, если:</p><p><a data-anchor="/document/16/203126/bssPhr5/"></a><a data-anchor="/document/16/203126/dfaszkxwm4/" data-dfa="dfaszkxwm4"></a>–&nbsp;получил лицензию на геологическое изучение, чтобы выделить и оценить участки недр для строительства и эксплуатации подземных сооружений, которые не связаны с добычей полезных ископаемых <i><span class="xx-small">(<a data-anchor="/document/16/203126/backlinkanchor9/" type="backlink-anchor"></a><a href="#/document/90/20918/dfasvg9wxr/" class="link npd" title="Подписной бонус — разовый фиксированный платеж недропользователя за право осуществления деятельности по поиску и разведке полезных ископаемых на основании соответствующей лицензии." moduleId="90" documentId="20918" anchor="dfasvg9wxr">ч. 1</a> ст. 253 НК)</span></i>;</p><p><a data-anchor="/document/16/203126/bssPhr6/"></a><a data-anchor="/document/16/203126/dfasul00q6/" data-dfa="dfasul00q6"></a>–&nbsp;получил лицензию на другой вид недропользования. В том числе не нужно платить подписной бонус, если получена лицензия на добычу полезных ископаемых и геологическое изучение недр проводится в пределах предоставленного недропользователю горного отвода <i><span class="xx-small">(п. 16 Положения о порядке и условиях предоставления права пользования участками недр, утвержденное постановлением Президента от 7.06.2007 г. № ПП–649, <a data-anchor="/document/16/203126/backlinkanchor11/" type="backlink-anchor"></a><a href="#/document/90/3982/dfas42zrwi/" class="link npd" title="12. Владелец лицензии на право пользования участками недр для добычи нерудных полезных ископаемых имеет право проводить в пределах предоставленного ему горного отвода работы по геологическому..." moduleId="90" documentId="3982" anchor="dfas42zrwi">п. 12</a> Положения о порядке выдачи лицензий на право пользования участками недр, содержащими нерудные полезные ископаемые, утвержденное ПКМ № 443 от 12.06.2018 г.). </span></i>Здесь при увеличении разведанных запасов платится <a data-anchor="/document/16/203126/backlinkanchor13/" type="backlink-anchor"></a><a href="#/document/16/203131" moduleId="16" documentId="203131" class="link ">бонус коммерческого обнаружения</a>;</p><p><a data-anchor="/document/16/203126/bssPhr7/"></a><a data-anchor="/document/16/203126/dfastm0453/" data-dfa="dfastm0453"></a>–&nbsp;осуществляет геологическое изучение для поиска и разведки полезных ископаемых на основе утвержденной проектно-сметной документации за счет средств Государственного бюджета и собственных средств в рамках государственных программ развития и воспроизводства минерально-сырьевой базы. В данном случае для недропользования лицензия не нужна. <i><span class="xx-small">(абзац второй пункта 5 Положения о порядке и условиях предоставления права пользования участками недр, утвержденное от 7.06.2007 г. № ПП–649, <a data-anchor="/document/16/203126/backlinkanchor15/" type="backlink-anchor"></a><a href="#/document/90/3982/dfasabhbyf/" class="link npd" title="Основанием возникновения права пользования участками недр для геологического изучения за счет средств Государственного бюджета Республики Узбекистан и собственных средств организаций..." moduleId="90" documentId="3982" anchor="dfasabhbyf">абз. 2</a> п. 6 Положения о порядке выдачи лицензий на право пользования участками недр, содержащими нерудные полезные ископаемые)</span></i>.</p><div data-role="phrase-incut" class="incut-v4  incut-v4-attention "><h3 class="incut-v4__tag" data-incut-toggle="">Внимание</h3><p class="incut-v4__title" data-incut-toggle=""><a data-anchor="/document/16/203126/bssPhr8/"></a><a data-anchor="/document/16/203126/dfasgmsq63/" data-dfa="dfasgmsq63"></a>Вид, цель и условия пользования участком недр указаны в лицензии и приложениях к ней <i><span class="xx-small">(пункты 29–32 Положения о порядке и условиях предоставления права пользования участками недр, утвержденное постановлением Президента от 7.06.2007 г. № ПП–649, <a data-anchor="/document/16/203126/backlinkanchor17/" type="backlink-anchor"></a><a href="#/document/90/3982/dfaspefvio/" class="link npd" title="66. Лицензии оформляются на специальных бланках (по форме, утвержденной постановлением Президента Республики Узбекистан от 7 июня 2007 года № ПП-649 «О мерах по совершенствованию..." moduleId="90" documentId="3982" anchor="dfaspefvio">п. 66</a> Положения о порядке выдачи лицензий на право пользования участками недр, содержащими нерудные полезные ископаемые)</span></i>. <br>Кроме того, согласно части третьей статьи 252 НК подписной бонус также не платят <a data-anchor="/document/16/203126/backlinkanchor19/" type="backlink-anchor"></a><a href="#/document/90/11614/dfas6yle3g/" class="link npd" moduleId="90" documentId="11614" anchor="dfas6yle3g">органы государственного управления</a>.</p><div class="incut-v4__icon"></div></div><p><a data-anchor="/document/16/203126/bssPhr9/"></a><a data-anchor="/document/16/203126/dfasdx87wa/" data-dfa="dfasdx87wa"></a>А в рамках соглашений о разделе продукции иностранные инвесторы, их подрядчики и субподрядчики освобождены от всех налогов и других обязательных платежей, связанных с проведением поисковых и разведочных работ на участках недр, которые определены в соглашениях <i><span class="xx-small">(часть первая статьи 20 закона «О соглашениях о разделе продукции»)</span></i>. Поэтому подписной бонус участники СРП платить не обязаны.</p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>

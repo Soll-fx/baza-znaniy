@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отражать выручку по договорам с покупателями в финансовой отчетности по МСФО</h2><table width="100%" border="0"><tr class="author"><td><p class="author__about">Гулистан&nbsp;Бисенбаева,&nbsp;эксперт Системы Главбух</p></td></tr></table><div class="doc-snippet"><a data-anchor="/document/16/206764/dfassig0co/" data-dfa="dfassig0co"></a><a data-anchor="/document/16/206764/bssPhr2/"></a>Из рекомендации узнаете, какой МСФО регулирует порядок отражения выручки по договорам с покупателями в финансовой отчетности по МСФО и где применять стандарт МСФО (IFRS) 15, а также в каких отчетах отражать выручку по договорам с покупателями. Эксперты пояснили, что раскрывать в примечаниях к финансовой отчетности по МСФО. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/206764/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/206764/bssPhr3/"></a><a data-anchor="/document/16/206764/dfaslz1tsv/" data-dfa="dfaslz1tsv"></a>Порядок отражения выручки по договорам с покупателями</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206764/bssPhr5/"></a><a data-anchor="/document/16/206764/dfasdepx2q/" data-dfa="dfasdepx2q"></a><span num="5" lnktype="intlnk" title="" class="doc">Выручка</span> – важный показатель для оценки финансового положения и финансовых результатов компании пользователями финансовой отчетности.</p><p><a data-anchor="/document/16/206764/bssPhr6/"></a><a data-anchor="/document/16/206764/dfasndnoto/" data-dfa="dfasndnoto"></a>Требования к признанию выручки, ранее содержавшиеся в МСФО, включая стандарты МСФО (IAS) 18 «Выручка» и МСФО (IAS) 11 «Договоры на строительство», содержали ограниченные рекомендации и их было затруднительно применять к сложным операциям.</p><p><a data-anchor="/document/16/206764/bssPhr7/"></a><a data-anchor="/document/16/206764/dfastkq7z0/" data-dfa="dfastkq7z0"></a>28 мая 2014 г. вышел стандарт по признанию выручки МСФО (IFRS) 15 «Выручка по договорам с покупателями» (Раздел 606 согласно Кодификации стандартов бухгалтерского учета Совета (FASB ASC)).</p><p><a data-anchor="/document/16/206764/bssPhr8/"></a><a data-anchor="/document/16/206764/dfasorbziu/" data-dfa="dfasorbziu"></a>Цель настоящего стандарта – установление принципов, которые компания должна применять для отражения информации, необходимой для пользователей финансовой отчетности, о характере, величине, распределении во времени и неопределенности получения выручки и денежных потоков, возникающих по договору с покупателем.</p><p><a data-anchor="/document/16/206764/bssPhr9/"></a><a data-anchor="/document/16/206764/dfas6dylbg/" data-dfa="dfas6dylbg"></a>Основной принцип МСФО (IFRS) 15 состоит в том, что компания признает выручку таким образом, чтобы отразить передачу обещанных товаров или услуг покупателям в сумме, соответствующей возмещению, которое компания ожидает и имеет право получить в обмен на эти товары или услуги.</p></div><a data-anchor="/document/16/206764/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/206764/bssPhr10/"></a><a data-anchor="/document/16/206764/dfasenz81q/" data-dfa="dfasenz81q"></a>Сфера применения стандартаМСФО (IFRS) 15&nbsp;</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206764/bssPhr12/"></a><a data-anchor="/document/16/206764/dfas5bzheb/" data-dfa="dfas5bzheb"></a>Стандарт по признанию выручки применяйте ко всем договорам с покупателями за исключением:</p><ul class="c-list"><li><a data-anchor="/document/16/206764/bssPhr13/"></a><a data-anchor="/document/16/206764/dfasov3o6m/" data-dfa="dfasov3o6m"></a>договоров аренды, в этом случае применяйте МСФО (IFRS) 16 «Аренда»;</li><li>договоров страхования, при этом применяйте МСФО (IFRS) 4 «Договоры страхования»;</li><li>финансовых инструментов и других договорных прав или обязательств, регламентируемых МСФО (IFRS) 9 «Финансовые инструменты». Например, проценты и дивиденды, МСФО (IFRS) 10 «Консолидированная финансовая отчетность», МСФО (IFRS) 11 «Совместное предпринимательство», МСФО (IAS) 27 «Отдельная финансовая отчетность» и МСФО (IAS) 28 «Инвестиции в ассоциированные организации и совместные предприятия»;</li><li>бартерных операций по обмену активами между компаниями одного направления деятельности для стимулирования продаж покупателям;<br>&nbsp;</li><li>некоторых гарантий, учет которых регламентируется другими стандартами, кроме гарантий на продукцию или услуги.</li></ul><p><a data-anchor="/document/16/206764/bssPhr14/"></a><a data-anchor="/document/16/206764/dfas88un17/" data-dfa="dfas88un17"></a>Выручка, которая возникает не в рамках договора с покупателем, а в результате других операций или событий, не подпадает под действие стандарта по признанию выручки и ее нужно учитывать согласно требованиям соответствующего стандарта. Такие операции или события в том числе включают:</p><ul class="c-list"><li><a data-anchor="/document/16/206764/bssPhr15/"></a><a data-anchor="/document/16/206764/dfask7ows5/" data-dfa="dfask7ows5"></a>получение и уплату дивидендов;</li><li>операции, не связанные с обменом;</li><li>изменение справедливой стоимости биологических активов, инвестиционной собственности и запасов брокеров-трейдеров.</li></ul><p><a data-anchor="/document/16/206764/bssPhr16/"></a><a data-anchor="/document/16/206764/dfasi95cxo/" data-dfa="dfasi95cxo"></a>Некоторые договоры включают компоненты, учет которых регламентирует стандарт по признанию выручки, а также другие компоненты, которые подпадают под действие иных стандартов. Например, договор, который предусматривает аренду и предоставление услуг по техническому обслуживанию. Компании сначала будут применять руководство по отделению и оценке компонента из других стандартов, а затем положения МСФО (IFRS) 15.</p></div><a data-anchor="/document/16/206764/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/206764/bssPhr17/"></a><a data-anchor="/document/16/206764/dfasbb6e58/" data-dfa="dfasbb6e58"></a>Отражение выручки по договорам с покупателями в финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206764/bssPhr19/"></a><a data-anchor="/document/16/206764/dfasy7av1h/" data-dfa="dfasy7av1h"></a><strong>Отчет о финансовом положении</strong></p><p><a data-anchor="/document/16/206764/bssPhr20/"></a><a data-anchor="/document/16/206764/dfasbs0zcw/" data-dfa="dfasbs0zcw"></a>Компания признает актив или обязательство, если одна из сторон <span num="6" lnktype="intlnk" title="" class="doc">договора</span>&nbsp;выполнила его раньше другой стороны.</p><p><a data-anchor="/document/16/206764/bssPhr21/"></a><a data-anchor="/document/16/206764/dfas7788qn/" data-dfa="dfas7788qn"></a>Когда компания <span num="7" lnktype="intlnk" title="" class="doc">предоставляет услугу</span>&nbsp;или передает <span num="8" lnktype="intlnk" title="" class="doc">товар</span> до получения возмещения, она признает в своем отчете о финансовом положении актив по договору или дебиторскую задолженность.</p><p><a data-anchor="/document/16/206764/bssPhr22/"></a><a data-anchor="/document/16/206764/dfaslcou0o/" data-dfa="dfaslcou0o"></a>Актив по договору – право компании на возмещение в обмен на товары или услуги, которые компания передала <span num="9" lnktype="intlnk" title="" class="doc">покупателю</span> (ссылка на глоссарий). Дебиторская задолженность компании представляет собой право компании на возмещение, которое безусловно.</p><p><a data-anchor="/document/16/206764/bssPhr23/"></a><a data-anchor="/document/16/206764/dfasspo4zx/" data-dfa="dfasspo4zx"></a>Обязательство по договору – обязанность компании передать покупателю товары или услуги, за которые компания получила возмещение от покупателя.</p><p><a data-anchor="/document/16/206764/bssPhr24/"></a><a data-anchor="/document/16/206764/dfaseezgnm/" data-dfa="dfaseezgnm"></a>Обязательство по договору компания признает, если получает возмещение или у нее есть безусловное право на получение возмещения до момента исполнения.</p><p><a data-anchor="/document/16/206764/bssPhr25/"></a><a data-anchor="/document/16/206764/dfas9nbxsp/" data-dfa="dfas9nbxsp"></a>Активы и обязательства по договору, связанные с правами и обязанностями, предусматриваемыми в договоре, взаимозависимые, и, следовательно, подлежат отражению в свернутом виде в отчете о финансовом положении.</p><p><a data-anchor="/document/16/206764/bssPhr26/"></a><a data-anchor="/document/16/206764/dfasazm3yo/" data-dfa="dfasazm3yo"></a><strong>Отчет о совокупном доходе</strong></p><p><a data-anchor="/document/16/206764/bssPhr27/"></a><a data-anchor="/document/16/206764/dfasfbzhpo/" data-dfa="dfasfbzhpo"></a>МСФО (IFRS) 15 требует от компаний отдельного представления или раскрытия выручки по договорам с покупателями и по другим источникам <span num="10" lnktype="intlnk" title="" class="doc">доходов</span>. Другие источники доходов включают, например, доход от <span num="11" lnktype="intlnk" title="" class="doc">процентов</span>, <span num="12" lnktype="intlnk" title="" class="doc">дивидендов</span>, <span num="13" lnktype="intlnk" title="" class="doc">роялти</span>, аренды и т.д.</p><p><a data-anchor="/document/16/206764/bssPhr28/"></a><a data-anchor="/document/16/206764/dfastlgwnc/" data-dfa="dfastlgwnc"></a>Убытки от обесценения договоров с покупателями, обесценение активов по договору или дебиторской задолженности отражайте отдельно от убытков от обесценения других видов договоров и не относите на уменьшение выручки.</p></div><a data-anchor="/document/16/206764/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/206764/bssPhr29/"></a><a data-anchor="/document/16/206764/dfashz4l57/" data-dfa="dfashz4l57"></a>Примечания к финансовой отчетности по МСФО</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/206764/bssPhr31/"></a><a data-anchor="/document/16/206764/dfaspy0a3o/" data-dfa="dfaspy0a3o"></a>В примечаниях к финансовой отчетности по МСФО компания должна раскрывать качественную и количественную информацию:</p><ul class="c-list"><li><a data-anchor="/document/16/206764/bssPhr32/"></a><a data-anchor="/document/16/206764/dfasyrx8gi/" data-dfa="dfasyrx8gi"></a>о договорах с покупателями;</li><li>значительных суждениях и изменениях в суждениях;</li><li>активах, признанных в связи с затратами на заключение или выполнение договора с покупателем.</li></ul><p><a data-anchor="/document/16/206764/bssPhr33/"></a><a data-anchor="/document/16/206764/dfastvam8h/" data-dfa="dfastvam8h"></a>МСФО требует раскрывать информацию по категориям:</p><p><a data-anchor="/document/16/206764/bssPhr34/"></a><a data-anchor="/document/16/206764/dfas7x1u2f/" data-dfa="dfas7x1u2f"></a>Выручка</p><p><a data-anchor="/document/16/206764/bssPhr35/"></a><a data-anchor="/document/16/206764/dfasoe7usg/" data-dfa="dfasoe7usg"></a>Расшифровка выручки по категориям, отражающим то, каким образом экономические факторы влияют на характер, величину, распределение во времени и неопределенность выручки и денежных потоков.</p><p><a data-anchor="/document/16/206764/bssPhr36/"></a><a data-anchor="/document/16/206764/dfasgmvldx/" data-dfa="dfasgmvldx"></a>Остатки по договорам: дебиторская задолженность, активы и обязательства по договорам</p><p><a data-anchor="/document/16/206764/bssPhr37/"></a><a data-anchor="/document/16/206764/dfas0ge2nb/" data-dfa="dfas0ge2nb"></a>Остатки на начало и конец периода. Выручка, признанная в течение периода в результате изменения остатков по договорам.</p><p><a data-anchor="/document/16/206764/bssPhr38/"></a><a data-anchor="/document/16/206764/dfasinhzss/" data-dfa="dfasinhzss"></a>Качественная и количественная информация о значительных изменениях в остатках по договорам.</p><p><a data-anchor="/document/16/206764/bssPhr39/"></a><a data-anchor="/document/16/206764/dfasvkis7c/" data-dfa="dfasvkis7c"></a>Обязанности к исполнению</p><p><a data-anchor="/document/16/206764/bssPhr40/"></a><a data-anchor="/document/16/206764/dfasutaoxl/" data-dfa="dfasutaoxl"></a>Когда компания обычно выполняет свои <span num="14" lnktype="intlnk" title="" class="doc">обязанности к исполнению</span>: после отгрузки, после доставки, по мере предоставления услуг или по завершении услуг.</p><p><a data-anchor="/document/16/206764/bssPhr41/"></a><a data-anchor="/document/16/206764/dfasaqmge6/" data-dfa="dfasaqmge6"></a>Обязательства в отношении возвратов, возмещения стоимости, другие аналогичные обязательства и типы гарантий, а также соответствующие обязанности.</p><p><a data-anchor="/document/16/206764/bssPhr42/"></a><a data-anchor="/document/16/206764/dfasubfs8l/" data-dfa="dfasubfs8l"></a><span num="15" lnktype="intlnk" title="" class="doc">Информация о цене операции</span> (ссылка на глоссарий), распределенной между оставшимися обязанностями к исполнению, и сроки признания выручки.</p><p><a data-anchor="/document/16/206764/bssPhr43/"></a><a data-anchor="/document/16/206764/dfasmuasgg/" data-dfa="dfasmuasgg"></a>Значительные суждения</p><p><a data-anchor="/document/16/206764/bssPhr44/"></a><a data-anchor="/document/16/206764/dfas8veh3i/" data-dfa="dfas8veh3i"></a>Метод, используемый для признания выручки по обязанностям к исполнению, выполняемым в течение периода времени с обоснованием правомерности его применения.</p><p><a data-anchor="/document/16/206764/bssPhr45/"></a><a data-anchor="/document/16/206764/dfasyprcdg/" data-dfa="dfasyprcdg"></a>Значительные суждения в отношении перехода контроля для обязанностей к исполнению, выполняемых в определенный момент времени.</p><p><a data-anchor="/document/16/206764/bssPhr46/"></a><a data-anchor="/document/16/206764/dfasdianup/" data-dfa="dfasdianup"></a>Информация о методах, исходных данных и допущениях, использованных для определения и распределения цены операции.</p></div><p><a data-anchor="/document/16/206764/dfasu4ua1e/" data-dfa="dfasu4ua1e"></a><a data-anchor="/document/16/206764/bssPhr47/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882126" sourceId="1" fullSizeImageId="-41882125" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882126/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

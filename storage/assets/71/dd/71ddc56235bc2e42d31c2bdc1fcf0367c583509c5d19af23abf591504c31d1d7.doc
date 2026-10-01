@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как отразить в налоговом и бухгалтерском учете расчеты по КПК при оплате ГСМ</h2><div class="doc-snippet"><a data-anchor="/document/16/210376/dfascsa8i2/" data-dfa="dfascsa8i2"></a><a data-anchor="/document/16/210376/bssPhr2/"></a>В&nbsp;рекомендации&nbsp;— ответы на&nbsp;вопросы: кто имеет право использовать корпоративную карточку, какими документами оформлять безналичные расчеты с&nbsp;использованием КПК, а&nbsp;также приход и&nbsp;расход ГСМ. Из&nbsp;рекомендации узнаете, как принять в&nbsp;зачет суммы НДС по&nbsp;приобретенному легковому автотранспорту и&nbsp;топливу для него. Эксперты дали проводки, которыми отражать в&nbsp;бухучете расчеты по&nbsp;КПК при оплате ГСМ. </div><div id="documentBody" class="content-common"><a data-anchor="/document/16/210376/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1"><a data-anchor="/document/16/210376/bssPhr3/"></a><a data-anchor="/document/16/210376/dfasl5nnrc/" data-dfa="dfasl5nnrc"></a>Порядок проведения операций с&nbsp;помощью банковских корпоративных карт</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210376/bssPhr5/"></a><a data-anchor="/document/16/210376/dfas9pn7zz/" data-dfa="dfas9pn7zz"></a>Порядок проведения операций с&nbsp;помощью банковских корпоративных карт регулирует</p><ul class="c-list"><li><a data-anchor="/document/16/210376/bssPhr6/"></a><a data-anchor="/document/16/210376/dfass9lcca/" data-dfa="dfass9lcca"></a><span num="10" target="_self" lnktype="intlnk" title="" class="doc">Положение</span> о&nbsp;правилах выпуска и&nbsp;обращения банковских карт на&nbsp;территории Республики Узбекистан (рег. №&nbsp;3294 от&nbsp;03.04.2021);</li></ul><p><a data-anchor="/document/16/210376/bssPhr7/"></a><a data-anchor="/document/16/210376/dfas8skgzl/" data-dfa="dfas8skgzl"></a>С&nbsp;помощью КПК в&nbsp;национальной валюте предприятия оплачивают <strong>расходы, связанные со&nbsp;своей деятельностью </strong> (<span num="11" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;19</span>&nbsp;Положения №&nbsp;3294).</p><p><a data-anchor="/document/16/210376/bssPhr8/"></a><a data-anchor="/document/16/210376/dfaswxtnv9/" data-dfa="dfaswxtnv9"></a>За&nbsp;счет средств с&nbsp;корпоративной карты предприятие <strong>может </strong> заправить бензином, газом <strong>собственные, арендованные или полученные в&nbsp;пользование автотранспортные средства</strong>.</p></div><a data-anchor="/document/16/210376/tit2/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit2"><a data-anchor="/document/16/210376/bssPhr9/"></a><a data-anchor="/document/16/210376/dfasq0y961/" data-dfa="dfasq0y961"></a>Список подотчетных лиц, имеющих право использовать корпоративную карточку</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210376/bssPhr11/"></a><a data-anchor="/document/16/210376/dfasyzg967/" data-dfa="dfasyzg967"></a>Работники организации получают корпоративные карточки для выполнения своих функциональных обязанностей.</p><p><a data-anchor="/document/16/210376/bssPhr13/"></a><a data-anchor="/document/16/210376/dfass3pmrn/" data-dfa="dfass3pmrn"></a>Список подотчетных лиц, имеющих право использовать корпоративную карту, устанавливает руководитель предприятия приказом. С&nbsp;этими работниками предприятие заключает договор о&nbsp;полной материальной ответственности. В&nbsp;соответствии с&nbsp;договором работники принимают на&nbsp;себя ответственность за&nbsp;расходование денежных средств с&nbsp;КПК, а&nbsp;также за&nbsp;сохранность выдаваемой карты.</p><p><a data-anchor="/document/16/210376/bssPhr14/"></a><a data-anchor="/document/16/210376/dfas3yzh2e/" data-dfa="dfas3yzh2e"></a>Подотчетное лицо обязано не&nbsp;позднее 10&nbsp;дней со&nbsp;дня получения под отчет корпоративной банковской карты представлять в&nbsp;бухгалтерию предприятия отчет об&nbsp;израсходованных посредством корпоративной банковской карты средствах (<span num="12" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;19</span>&nbsp;Положения №&nbsp;3294). Форма отчета законодательно не&nbsp;предусмотрена, поэтому предприятие может ее&nbsp;разработать самостоятельно. Отчет должен содержать обязательные реквизиты, установленные <span num="13" target="_self" lnktype="intlnk" title="" class="doc">статьей&nbsp;14</span>&nbsp;Закона «О&nbsp;бухгалтерском учете» и&nbsp;перечень документов, подтверждающих расходы. Также можете использовать форму авансового отчета для командировочных расходов при составлении отчета по&nbsp;расходам с&nbsp;корпоративной карты, если на&nbsp;предприятии не&nbsp;определена собственная форма.</p></div><a data-anchor="/document/16/210376/tit3/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit3"><a data-anchor="/document/16/210376/bssPhr15/"></a><a data-anchor="/document/16/210376/dfas1q99kd/" data-dfa="dfas1q99kd"></a>Отчетные документы при оплате пластиковыми картами</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210376/bssPhr17/"></a><a data-anchor="/document/16/210376/dfasf7mgns/" data-dfa="dfasf7mgns"></a>Юридические лица, а&nbsp;также индивидуальные предприниматели проводят безналичные расчеты с&nbsp;использованием КПК без заключения договоров купли-продажи (<span num="14" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;1&nbsp;в</span>) УП-5564). При этом продавец должен выставить покупателю счет-фактуру или выдать чек онлайн-ККМ (<span num="15" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2</span>&nbsp;УП-6098).</p><p><a data-anchor="/document/16/210376/bssPhr18/"></a><a data-anchor="/document/16/210376/dfasomktdw/" data-dfa="dfasomktdw"></a>Отчетными документами при оплате пластиковыми картами служат оригиналы квитанций платежных терминалов, в&nbsp;том числе электронные чеки, квитанции, сообщения и&nbsp;иные методы, позволяющие идентифицировать стороны сделки электронной коммерции, счета-фактуры, а&nbsp;также другие документы, установленные законодательством (<span num="16" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;21</span>&nbsp;Положения №&nbsp;3294).</p><p><a data-anchor="/document/16/210376/bssPhr19/"></a><a data-anchor="/document/16/210376/dfas0cy224/" data-dfa="dfas0cy224"></a>Плательщики НДС вправе вносить полученные чеки онлайн-ККМ и&nbsp;виртуальных касс в&nbsp;реестр счетов-фактур, зарегистрировав их&nbsp;в&nbsp;персональном кабинете налогоплательщика (<span num="17" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;9</span>&nbsp;Положения о&nbsp;формах счетов-фактур и&nbsp;порядке их&nbsp;заполнения, представления и&nbsp;приема, утв. ПКМ №&nbsp;489 от&nbsp;14.08.2020). По&nbsp;требованию покупателя продавец до&nbsp;последнего числа месяца, в&nbsp;котором были реализованы товары, услуги должен оформить счет-фактуру. В&nbsp;счете-фактуре продавец указывает дату фактической реализации товара, услуги (<span num="18" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;5</span>&nbsp;Положения №&nbsp;489).</p></div><a data-anchor="/document/16/210376/tit4/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit4"><a data-anchor="/document/16/210376/bssPhr20/"></a><a data-anchor="/document/16/210376/dfasdypxkc/" data-dfa="dfasdypxkc"></a>Учет ГСМ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210376/bssPhr23/"></a><a data-anchor="/document/16/210376/dfas9saxxu/" data-dfa="dfas9saxxu"></a>Приход ГСМ оформляйте на&nbsp;основании счета-фактуры или чека онлайн-ККМ, платежного терминала, выдаваемого автозаправочной станцией и&nbsp;отчета материально-ответственного лица.</p><p><a data-anchor="/document/16/210376/bssPhr24/"></a><a data-anchor="/document/16/210376/dfasgx6ieb/" data-dfa="dfasgx6ieb"></a>Расходы на&nbsp;ГСМ подтверждайте документально. Для списания ГСМ документальным подтверждением служат путевые листы, заполненные водителем.</p><p><a data-anchor="/document/16/210376/dfasb2v4pu/" data-dfa="dfasb2v4pu"></a><a data-anchor="/document/16/210376/bssPhr25/"></a>В законодательстве не указан обязательный порядок заполнения путевых листов для легковых автомобилей. Советуем вести путевые листы и для легковых автомобилей и для грузовых на ежедневной основе, так как это нужно в целях контроля и учета остатков ГСМ и целевого использования автомобиля. Для легковых автомобилей форму путевого листа можно разработать самостоятельно.</p><p><a data-anchor="/document/16/210376/dfasops8im/" data-dfa="dfasops8im"></a><a data-anchor="/document/16/210376/bssPhr26/"></a>Путевые листы при перевозке грузов оформляют в электронном виде в соответствии с Положением, приложением к постановлению Кабмина от 22.01.2024 № 44. Электронный путевой лист оформляется в системе "Электронный путевой лист" Единой интерактивной информационной системы "Uztrans" Министерства транспорта Республики Узбекистан.</p><p><a data-anchor="/document/16/210376/bssPhr27/"></a><a data-anchor="/document/16/210376/dfas8dxuux/" data-dfa="dfas8dxuux"></a>Путевой лист подтверждает целевое использование автомобиля и&nbsp;служит для учета и&nbsp;контроля работы водителя и&nbsp;транспортного средства. Это первичный оправдательный документ, на&nbsp;основании которого предприятие расходует средства на&nbsp;содержание автомобиля и&nbsp;списывает ГСМ. Рекомендуем оформлять путевые листы для легковых автомобилей, используемых для служебных поездок. Для этого разработайте форму путевого листа, указав в&nbsp;ней все необходимые сведения: даты, маршруты, пробег, время выезда, возвращения, расход горючего и&nbsp;прочее.&nbsp;</p><p><a data-anchor="/document/16/210376/bssPhr28/"></a><a data-anchor="/document/16/210376/dfas5osgg7/" data-dfa="dfas5osgg7"></a>Если не&nbsp;вести надлежащий учет затрат по&nbsp;ГСМ, то&nbsp;проверяющие органы могут расценить использование служебного автомобиля как в&nbsp;личных целях, а&nbsp;расходы на&nbsp;ГСМ с&nbsp;корпоративной банковской карты, как оплату юридическим лицом в&nbsp;интересах физического лица товаров, работ, услуг. Оплата юридическим лицом в&nbsp;интересах физического лица товаров, работ, услуг, имущественных прав это доходы физического лица в&nbsp;виде материальной выгоды (<span num="33" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;376&nbsp;НК</span>). Они подлежат налогообложению у&nbsp;источника выплаты (<span num="34" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;387&nbsp;НК</span>). Для предприятия это невычитаемые расходы при расчете налога на&nbsp;прибыль (<span num="35" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;3</span>&nbsp;ст.&nbsp;317&nbsp;НК).</p><p><a data-anchor="/document/16/210376/bssPhr29/"></a><a data-anchor="/document/16/210376/dfasmhftyh/" data-dfa="dfasmhftyh"></a>Расход ГСМ определяйте по&nbsp;показаниям спидометров, фиксируя фактический пробег автомобиля, который указывайте в&nbsp;путевых листах. Водитель, подотчетное лицо ежемесячно составляет материальный отчет, в&nbsp;котором указывает остаток ГСМ на&nbsp;начало месяца, количество полученного ГСМ, фактический пробег, расход ГСМ, остаток ГСМ на&nbsp;конец месяца, в&nbsp;том числе в&nbsp;баке.</p><p><a data-anchor="/document/16/210376/bssPhr30/"></a><a data-anchor="/document/16/210376/dfasg8qvfd/" data-dfa="dfasg8qvfd"></a>Предприятие должно утвердить приказом руководителя нормы расхода ГСМ, корректировочные и&nbsp;нормативные коэффициенты к&nbsp;ним, разработать документооборот по&nbsp;движению ГСМ, определить ответственных лиц по&nbsp;их&nbsp;хранению и&nbsp;эксплуатации автомобиля и&nbsp;ГСМ.</p><p><a data-anchor="/document/16/210376/bssPhr31/"></a><a data-anchor="/document/16/210376/dfasb8lubb/" data-dfa="dfasb8lubb"></a>Если нет норм для конкретных марок автомобилей, то&nbsp;можете использовать данные сервисной книжки автомобиля, официальные сайты завода-изготовителя или заказать разработку норм специализированным организациям.</p><p><a data-anchor="/document/16/210376/bssPhr32/"></a><a data-anchor="/document/16/210376/dfasx7igb2/" data-dfa="dfasx7igb2"></a>При учете расхода топлива руководствуйтесь нормативными документами:</p><ul class="c-list"><li><a data-anchor="/document/16/210376/bssPhr33/"></a><a data-anchor="/document/16/210376/dfaseq5v2l/" data-dfa="dfaseq5v2l"></a>"<span num="36" target="_self" lnktype="intlnk" title="" class="doc">Нормы</span> расхода топлива и&nbsp;смазочных материалов автомобильным подвижным составом" (утверждены и&nbsp;введены в&nbsp;действие Постановлением Узбекского агентства стандартизации, метрологии и&nbsp;сертификации от&nbsp;28.07.2003 №&nbsp;05-20);</li><li>Положением, приложением № 3-1 к постановлению Кабмина от 28.04.2021 № 249;</li><li>Положением, приложением к постановлению Кабмина от 22.01.2024 № 44</li><li><span num="38" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;4</span>;</li><li><span data-warm-notices="41439004" data-warm-notice-type="error" num="39" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;21</span>.</li></ul><div data-role="phrase-incut" class="incut-v4 incut-v4-spoiler incut-v4-situation " data-incut="spoiler"><h3 class="incut-v4__tag" data-incut-toggle="">Ситуация</h3><p class="incut-v4__title" data-incut-toggle=""><name>Как снимать деньги на&#160;заправку горючим служебного автомобиля с&#160;бухгалтерского счета?</name></p><div class="incut-v4__content" data-incut-content=""><p style="text-align:left"><a data-anchor="/document/16/210376/bssPhr35/"></a><a data-anchor="/document/16/210376/dfaslrfo3t/" data-dfa="dfaslrfo3t"></a>Бензин для служебного автомобиля можно оплачивать при помощи корпоративной пластиковой карты.</p><p><a data-anchor="/document/16/210376/bssPhr36/"></a><a data-anchor="/document/16/210376/dfasmpkgl8/" data-dfa="dfasmpkgl8"></a>Учет материалов ведите в&nbsp;соответствии с <span num="19" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;4</span>&nbsp;«Товарно-материальные запасы». Топливо&nbsp;— это, как правило, вспомогательный материал, но&nbsp;в&nbsp;учете выделяйте его в&nbsp;отдельную группу вследствие особенностей использования. Учитывайте топливо на <strong>субсчете 1030 «Топливо»</strong>.</p><p><a data-anchor="/document/16/210376/bssPhr37/"></a><a data-anchor="/document/16/210376/dfasmp5rp7/" data-dfa="dfasmp5rp7"></a>Приходуйте топливо на&nbsp;основании счета-фактуры-накладной или чека онлайн-ККМ, или чека платежного терминала автозаправочной станции. Расход топлива учитывайте по&nbsp;показаниям спидометров, которые указаны в&nbsp;путевых листах. Приход топлива&nbsp;— заправка и&nbsp;его расход должны быть отражены в&nbsp;путевом листе. Путевой лист&nbsp;— первичный документ учета расхода ГСМ.</p><p><a data-anchor="/document/16/210376/bssPhr38/"></a><a data-anchor="/document/16/210376/dfasmrcxyp/" data-dfa="dfasmrcxyp"></a>Утвердите на&nbsp;предприятии приказом руководителя нормы расхода топлива и&nbsp;сроки их&nbsp;пересмотра, а&nbsp;также порядок оформления первичных документов. Заключите договора с&nbsp;материально-ответственными лицами. В&nbsp;учетной политике предприятия пропишите расходы, связанные с&nbsp;топливом.</p><p><a data-anchor="/document/16/210376/bssPhr39/"></a><a data-anchor="/document/16/210376/dfasucpt7k/" data-dfa="dfasucpt7k"></a>Показатели, используемые для нормирования расхода автомобильного топлива для разных типов транспорта, содержат «Нормы расхода топлива и&nbsp;смазочных материалов автомобильным подвижным составом» (утв. <span num="20" target="_self" lnktype="intlnk" title="" class="doc">Постановлением</span> Агентства «Узстандарт» №&nbsp;05-20 от&nbsp;28.07.2003). Информацию о&nbsp;базовых нормах расхода можно найти в&nbsp;техническом паспорте автомобиля, а&nbsp;также для расчета специальных норм можно привлечь специализированные организации.</p></div></div></div><a data-anchor="/document/16/210376/tit5/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit5"><a data-anchor="/document/16/210376/bssPhr40/"></a><a data-anchor="/document/16/210376/dfas946lu5/" data-dfa="dfas946lu5"></a>Налогообложение затрат на&nbsp;легковой автотранспорт и&nbsp;приобретаемое для него топливо</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210376/bssPhr42/"></a><a data-anchor="/document/16/210376/dfask1ho1g/" data-dfa="dfask1ho1g"></a>С&nbsp;1&nbsp;января 2020 года налогоплательщики получили право единовременно относить в&nbsp;зачет суммы НДС по&nbsp;приобретаемым&nbsp;ОС, за&nbsp;исключением используемых для необлагаемых оборотов или по&nbsp;которым есть ограничения на&nbsp;отнесение в&nbsp;зачет.</p><p><a data-anchor="/document/16/210376/bssPhr43/"></a><a data-anchor="/document/16/210376/dfasei5z4e/" data-dfa="dfasei5z4e"></a>НДС, уплаченный при приобретении или ввозе легковых автомобилей, мотоциклов, вертолетов, моторных лодок, самолетов, а&nbsp;также иных видов моторных средств и&nbsp;топлива для них, не&nbsp;подлежит зачету, если это приобретение не&nbsp;связано с&nbsp;осуществляемым видом деятельности (<span num="21" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;267&nbsp;НК). <strong>Данное ограничение распространяется на&nbsp;приобретенные с&nbsp;2020 года вышеуказанные основные средства</strong>.</p><p><a data-anchor="/document/16/210376/bssPhr44/"></a><a data-anchor="/document/16/210376/dfasih2ail/" data-dfa="dfasih2ail"></a>Если руководство или работники предприятия используют автотранспорт предприятия в&nbsp;личных целях, не&nbsp;связанных с&nbsp;осуществляемым видом деятельности, производством продукции, оказанием услуг, то&nbsp;НДС по&nbsp;нему зачету не&nbsp;подлежит. Если&nbsp;же автомобили используют в&nbsp;предпринимательских целях, уплаченный продавцу НДС подлежит зачету.</p><p><a data-anchor="/document/16/210376/bssPhr45/"></a><a data-anchor="/document/16/210376/dfasswsig8/" data-dfa="dfasswsig8"></a>Данный порядок зачета НДС применяйте и&nbsp;по&nbsp;топливу, приобретенному для этого автотранспорта.</p><p><a data-anchor="/document/16/210376/bssPhr46/"></a><a data-anchor="/document/16/210376/dfasy5ehtm/" data-dfa="dfasy5ehtm"></a>Налоговые органы, изучая деятельность налогоплательщика, анализируют его страховые полисы, дорожно-транспортные происшествия, штрафы за&nbsp;нарушение ПДД, пробег автотранспортного средства и&nbsp;т.д. Если при этом выявят факты управления автомобилем третьими лицами, не&nbsp;работающими на&nbsp;предприятии или оформленными формально, то&nbsp;это будет расценено как недоплата НДС. Предприятие-нарушитель должно заплатить штраф в&nbsp;размере 20&nbsp;процентов неправомерно принятого зачета, а&nbsp;также скорректировать сумму зачета в&nbsp;сторону уменьшения (<span num="22" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;224</span>&nbsp;НК, <span num="23" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;270</span>&nbsp;НК).</p><p><a data-anchor="/document/16/210376/bssPhr47/"></a><a data-anchor="/document/16/210376/dfascceil0/" data-dfa="dfascceil0"></a>Если транспортным средством управляют учредители либо члены их&nbsp;семей, то&nbsp;налоговики могут расценить этот факт как занижение налоговой базы по&nbsp;налогу на&nbsp;прибыль за&nbsp;счет неправомерного вычета расходов по&nbsp;амортизации этого транспортного средства.</p><p><a data-anchor="/document/16/210376/bssPhr48/"></a><a data-anchor="/document/16/210376/dfasq8wt2y/" data-dfa="dfasq8wt2y"></a>Затраты на&nbsp;служебный легковой автотранспорт учитывайте в&nbsp;составе административных расходов предприятия (<span num="24" target="_self" lnktype="intlnk" title="" class="doc">п.&nbsp;2.2.3</span> Положения о&nbsp;составе затрат по&nbsp;производству и&nbsp;реализации продукции (работ, услуг) и&nbsp;о&nbsp;порядке формирования финансовых результатов, ПКМ №&nbsp;54&nbsp;от&nbsp;05.02.1999). Для признания указанных расходов обоснованными и&nbsp;вычитаемыми (<span num="25" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;305&nbsp;НК</span>) при расчете налога на&nbsp;прибыль нужно:</p><ul class="c-list"><li><a data-anchor="/document/16/210376/bssPhr49/"></a><a data-anchor="/document/16/210376/dfas2sc9sw/" data-dfa="dfas2sc9sw"></a>прописать эти расходы в&nbsp;Учетной политике в&nbsp;целях налогообложения (<span num="26" target="_self" lnktype="intlnk" title="" class="doc">ст.&nbsp;77&nbsp;НК</span>);</li><li>утвердить порядок оформления первичных документов;</li><li>утвердить нормы расхода ГСМ;</li><li>заключить договоры с&nbsp;материально-ответственными лицами.</li></ul><p><a data-anchor="/document/16/210376/bssPhr50/"></a><a data-anchor="/document/16/210376/dfas5y03ra/" data-dfa="dfas5y03ra"></a>Если расходы на&nbsp;служебный автотранспорт предприятие признает обоснованными, то&nbsp;есть связанными с&nbsp;получением дохода по&nbsp;осуществляемому предприятием виду деятельности (<span num="27" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;2</span>&nbsp;ст.&nbsp;267&nbsp;НК), то&nbsp;плательщики НДС могут принять в&nbsp;зачет НДС по&nbsp;ГСМ, используемым для служебного автотранспорта (<span num="28" target="_self" lnktype="intlnk" title="" class="doc">ч.&nbsp;1</span>&nbsp;ст.&nbsp;266&nbsp;НК).</p></div><a data-anchor="/document/16/210376/tit6/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit6"><a data-anchor="/document/16/210376/bssPhr51/"></a><a data-anchor="/document/16/210376/dfasbl4fg1/" data-dfa="dfasbl4fg1"></a>Бухучет по&nbsp;ГСМ</h2><div data-role="phrase-incut" class="incut-v4  incut-v4-universal " data-incut-cant-open=""><p><a data-anchor="/document/16/210376/bssPhr53/"></a><a data-anchor="/document/16/210376/dfasocxg77/" data-dfa="dfasocxg77"></a>Учет материалов ведите в&nbsp;соответствии с <span num="29" target="_self" lnktype="intlnk" title="" class="doc">НСБУ №&nbsp;4</span>&nbsp;«Товарно-материальные запасы». Топливо учитывайте на <strong>субсчете 1030 «Топливо» </strong>(<span num="50" target="_self" lnktype="intlnk" title="" class="doc">п. 93</span> НСБУ № 21).</p><p><a data-anchor="/document/16/210376/bssPhr54/"></a><a data-anchor="/document/16/210376/dfas9rm6m6/" data-dfa="dfas9rm6m6"></a>Для учета расчетов по&nbsp;КПК введите в&nbsp;рабочий план счетов отдельный счет, например, <strong>счет 5531 «Корпоративные карты»</strong>. При выдаче подотчетному лицу корпоративной карты бухгалтерские проводки делайте не&nbsp;в&nbsp;момент выдачи ему карты, а&nbsp;при сдаче им&nbsp;отчета о&nbsp;произведенных расходах. При этом задолженность подотчетного лица отражайте только в&nbsp;сумме израсходованных с&nbsp;карты средств, а&nbsp;не&nbsp;всей имеющейся на&nbsp;карте суммы.</p><p><a data-anchor="/document/16/210376/bssPhr55/"></a><a data-anchor="/document/16/210376/dfasnl0rss/" data-dfa="dfasnl0rss"></a><strong>Дебет 5531 Кредит 5110</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210376/bssPhr56/"></a><a data-anchor="/document/16/210376/dfas5cq1ur/" data-dfa="dfas5cq1ur"></a>перечислены средства на&nbsp;КПК;</li></ul><p><a data-anchor="/document/16/210376/bssPhr57/"></a><a data-anchor="/document/16/210376/dfas2w4k6g/" data-dfa="dfas2w4k6g"></a><strong>Дебет 4290 Кредит 5531</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210376/bssPhr58/"></a><a data-anchor="/document/16/210376/dfasb7de1s/" data-dfa="dfasb7de1s"></a>оплачены ГСМ по&nbsp;КПК;</li></ul><p><a data-anchor="/document/16/210376/bssPhr59/"></a><a data-anchor="/document/16/210376/dfas955a2g/" data-dfa="dfas955a2g"></a><strong>Дебет 1030 Кредит 4290</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210376/bssPhr60/"></a><a data-anchor="/document/16/210376/dfasd0k3ia/" data-dfa="dfasd0k3ia"></a>оприходованы ГСМ, согласно отчета подотчетного лица, с&nbsp;приложением чеков;</li></ul><p><a data-anchor="/document/16/210376/bssPhr61/"></a><a data-anchor="/document/16/210376/dfasv54fgn/" data-dfa="dfasv54fgn"></a><strong>Дебет 4410 Кредит 4290</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210376/bssPhr62/"></a><a data-anchor="/document/16/210376/dfas4plg79/" data-dfa="dfas4plg79"></a>принят к&nbsp;зачету НДС по&nbsp;приобретенным ГСМ, согласно отчету;</li></ul><p><a data-anchor="/document/16/210376/bssPhr63/"></a><a data-anchor="/document/16/210376/dfasgwwkrm/" data-dfa="dfasgwwkrm"></a><strong>Дебет 9420 Кредит 1030</strong></p><ul class="c-list"><li><a data-anchor="/document/16/210376/bssPhr64/"></a><a data-anchor="/document/16/210376/dfascgg63g/" data-dfa="dfascgg63g"></a>списаны на&nbsp;затраты израсходованные ГСМ на&nbsp;основании путевых листов и&nbsp;отчета.</li></ul></div><p><a data-anchor="/document/16/210376/dfas1ogyxn/" data-dfa="dfas1ogyxn"></a><a data-anchor="/document/16/210376/bssPhr65/"></a><img alt="" hideborder="true" class="inimg" lnktype="img" id="-41882021" sourceId="1" fullSizeImageId="-41882020" width="610" height="246.82561307901906" src="https://1gb.uz/system/content/image/297/1/-41882021/"></p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 28.09.2026</div></body></html>

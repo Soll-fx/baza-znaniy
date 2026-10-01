@@ -1,0 +1,231 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll,
+            th.bdAll, table.bdAll th, table th.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop, th.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom, th.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight, th.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft, th.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom, th.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom, th.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight, th.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft, th.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight, th.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom, th.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom, th.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight, th.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight, th.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom, th.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom, th.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll, th.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey,
+            th.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey,
+            th.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey,
+            th.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey,
+            th.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey,
+            th.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey,
+            th.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+            div {
+                line-height: 115%;
+            }
+            .main__title-section, .word_table {
+                width: 100% !important;
+            }
+            .word_table {
+                border-collapse: collapse;
+                padding: 0px !important;
+            }
+            h3 {
+                font-size: 18.66px;
+            }
+        </style><div xmlns="" class="content_block"><h2 class="auth__title">Как заполнить отчетность по налогу на имущество юрлиц</h2><div id="documentBody" class="content-common"><p><a data-anchor="/document/16/203562/dfas1hcgbf/" data-dfa="dfas1hcgbf"></a><a data-anchor="/document/16/203562/bssPhr1/"></a>Если облагаемое имущество находится по месту налогового учета юрлица, то справки и расчеты сдают, а налог уплачивают в налоговую службу по месту налогового учета. Если же имущество находится не по месту налогового учета, то – по месту нахождения налогооблагаемого имущества.</p><a data-anchor="/document/16/203562/dfasqtqlxe/" data-dfa="dfasqtqlxe"></a><a data-anchor="/document/16/203562/bssPhr2/"></a><a data-anchor="/document/16/203562/tit0/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit0">Какие документы сдать для исчисления текущих платежей</h2><p><a data-anchor="/document/16/203562/dfasp77usu/" data-dfa="dfasp77usu"></a><a data-anchor="/document/16/203562/bssPhr3/"></a>Для исчисления размера текущих платежей по налогу на имущество представляют Справку о текущих платежах. В ней, исходя из предполагаемой среднегодовой остаточной стоимости налогооблагаемого имущества за год и ставок налога, рассчитывается сумма прогнозируемого налогового платежа.</p><p><a data-anchor="/document/16/203562/dfas7br48e/" data-dfa="dfas7br48e"></a><a data-anchor="/document/16/203562/bssPhr4/"></a>Есть две формы справки: одна – для микрофирм и малых предприятий, вторая – для остальных юридических лиц. Их отличие в том, что расчетная сумма налога в первой делится на 4 квартальных платежа, а во второй – на 12 месячных платежей.</p><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll" width="100%"><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfas6o44ac/" data-dfa="dfas6o44ac"></a><a data-anchor="/document/16/203562/bssPhr5/"></a><b>Показатели</b></p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasih34x9/" data-dfa="dfasih34x9"></a><a data-anchor="/document/16/203562/bssPhr6/"></a><b>Код</b></p><p align="center"><a data-anchor="/document/16/203562/dfas37wvka/" data-dfa="dfas37wvka"></a><a data-anchor="/document/16/203562/bssPhr7/"></a><b>строки</b></p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasa2hge2/" data-dfa="dfasa2hge2"></a><a data-anchor="/document/16/203562/bssPhr8/"></a><b>Сумма</b></p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfasyinfof/" data-dfa="dfasyinfof"></a><a data-anchor="/document/16/203562/bssPhr9/"></a>Предполагаемая налогооблагаемая среднегодовая остаточная стоимость недвижимого имущества, включая полученное по договору финансовой аренды (лизинга)</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasp63uga/" data-dfa="dfasp63uga"></a><a data-anchor="/document/16/203562/bssPhr10/"></a>010</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasg4fl46/" data-dfa="dfasg4fl46"></a><a data-anchor="/document/16/203562/bssPhr11/"></a>500</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfas214ewx/" data-dfa="dfas214ewx"></a><a data-anchor="/document/16/203562/bssPhr12/"></a>Ставка налога, %</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfassfbm5b/" data-dfa="dfassfbm5b"></a><a data-anchor="/document/16/203562/bssPhr13/"></a>020</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfas605zga/" data-dfa="dfas605zga"></a><a data-anchor="/document/16/203562/bssPhr14/"></a>2</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfashq32zh/" data-dfa="dfashq32zh"></a><a data-anchor="/document/16/203562/bssPhr15/"></a>Сумма налога (стр. 010 х стр. 020)</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfastri5g8/" data-dfa="dfastri5g8"></a><a data-anchor="/document/16/203562/bssPhr16/"></a>030</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfastfu2gt/" data-dfa="dfastfu2gt"></a><a data-anchor="/document/16/203562/bssPhr17/"></a>10</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfasoety00/" data-dfa="dfasoety00"></a><a data-anchor="/document/16/203562/bssPhr18/"></a>Предполагаемая налогооблагаемая среднегодовая стоимость незавершенного в нормативный срок объекта строительства</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasrwpktc/" data-dfa="dfasrwpktc"></a><a data-anchor="/document/16/203562/bssPhr19/"></a>040</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfast8a6xf/" data-dfa="dfast8a6xf"></a><a data-anchor="/document/16/203562/bssPhr20/"></a>225</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfas4tpc48/" data-dfa="dfas4tpc48"></a><a data-anchor="/document/16/203562/bssPhr21/"></a>Ставка налога, %</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasp5ph5k/" data-dfa="dfasp5ph5k"></a><a data-anchor="/document/16/203562/bssPhr22/"></a>050</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfast4knvx/" data-dfa="dfast4knvx"></a><a data-anchor="/document/16/203562/bssPhr23/"></a>4</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfasphw30d/" data-dfa="dfasphw30d"></a><a data-anchor="/document/16/203562/bssPhr24/"></a>Сумма налога (стр. 040 х стр. 050)</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfaszzll8g/" data-dfa="dfaszzll8g"></a><a data-anchor="/document/16/203562/bssPhr25/"></a>060</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasrh9hta/" data-dfa="dfasrh9hta"></a><a data-anchor="/document/16/203562/bssPhr26/"></a>9,0,</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfaspw1sq7/" data-dfa="dfaspw1sq7"></a><a data-anchor="/document/16/203562/bssPhr27/"></a>Предполагаемая налогооблагаемая среднегодовая стоимость оборудования, не введенного в действие в установленный срок</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfashqcgds/" data-dfa="dfashqcgds"></a><a data-anchor="/document/16/203562/bssPhr28/"></a>070</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasgip9bu/" data-dfa="dfasgip9bu"></a><a data-anchor="/document/16/203562/bssPhr29/"></a>115</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfas8c2yyp/" data-dfa="dfas8c2yyp"></a><a data-anchor="/document/16/203562/bssPhr30/"></a>Ставка налога, %</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasmhvm47/" data-dfa="dfasmhvm47"></a><a data-anchor="/document/16/203562/bssPhr31/"></a>080</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfascey954/" data-dfa="dfascey954"></a><a data-anchor="/document/16/203562/bssPhr32/"></a>4</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfas71bcxu/" data-dfa="dfas71bcxu"></a><a data-anchor="/document/16/203562/bssPhr33/"></a>Сумма налога (стр. 070 х стр. 080)</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfas4445me/" data-dfa="dfas4445me"></a><a data-anchor="/document/16/203562/bssPhr34/"></a>090</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasunk9k8/" data-dfa="dfasunk9k8"></a><a data-anchor="/document/16/203562/bssPhr35/"></a>4,6</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfase8gag7/" data-dfa="dfase8gag7"></a><a data-anchor="/document/16/203562/bssPhr36/"></a>Общая сумма налога на имущество юридических лиц (стр. 030 + стр. 060 + стр. 090)</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasmapx3v/" data-dfa="dfasmapx3v"></a><a data-anchor="/document/16/203562/bssPhr37/"></a>100</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfasg5v5yu/" data-dfa="dfasg5v5yu"></a><a data-anchor="/document/16/203562/bssPhr38/"></a>26,0</p></td></tr><tr align="center"><td><p align="center"><a data-anchor="/document/16/203562/dfas37g7f6/" data-dfa="dfas37g7f6"></a><a data-anchor="/document/16/203562/bssPhr39/"></a>Сумма ежемесячных текущих платежей (стр.100/12)</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfaszvh9a3/" data-dfa="dfaszvh9a3"></a><a data-anchor="/document/16/203562/bssPhr40/"></a>110</p></td><td><p align="center"><a data-anchor="/document/16/203562/dfas80lg9t/" data-dfa="dfas80lg9t"></a><a data-anchor="/document/16/203562/bssPhr41/"></a>2,16</p></td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div><p><a data-anchor="/document/16/203562/dfasmy37b0/" data-dfa="dfasmy37b0"></a><a data-anchor="/document/16/203562/bssPhr42/"></a><b>Примечание:</b> Для микрофирм и малых предприятий стр.110 исчисляется как сумма ежеквартальных текущих платежей (стр.100/4) </p><a data-anchor="/document/16/203562/dfasetpknv/" data-dfa="dfasetpknv"></a><a data-anchor="/document/16/203562/bssPhr43/"></a><a data-anchor="/document/16/203562/tit1/" data-role="toc-anchor" class="toc-anchor"></a><h2 class="main__title-section title toc" toc-anchor="tit1">Как заполнить справку о текущих платежах</h2><p><a data-anchor="/document/16/203562/dfasd4pn3n/" data-dfa="dfasd4pn3n"></a><a data-anchor="/document/16/203562/bssPhr44/"></a>Для заполнения справки рассчитайте предполагаемые среднегодовые стоимости налогооблагаемых объектов (строки 010, 040, 070) и проставьте ставки налога (строки 020, 030, 080).</p><p><a data-anchor="/document/16/203562/dfascgtx50/" data-dfa="dfascgtx50"></a><a data-anchor="/document/16/203562/bssPhr45/"></a>Среднегодовую остаточную стоимость (среднегодовую стоимость) определяют нарастающим итогом как 1/12 от суммы, полученной при сложении остаточных стоимостей (среднегодовых стоимостей) объектов налогообложения на последнее число каждого месяца.</p><p><a data-anchor="/document/16/203562/dfas49amd1/" data-dfa="dfas49amd1"></a><a data-anchor="/document/16/203562/bssPhr46/"></a>Ставка налога на имущество установлена в размере 2%, но за неустановленное в нормативные сроки оборудование и незавершенные в нормативный срок объекты строительства она равна 4%. </p></div></div><div xmlns="" class="footer">© Материал из ЭС "ACTION: Главбух"<br />https://1gb.uz<br />Дата копирования: 29.09.2026</div></body></html>
